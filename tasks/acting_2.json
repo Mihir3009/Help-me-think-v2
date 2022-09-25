@@ -1,0 +1,152 @@
+{
+    "Domain": "Acting",
+    "Task": "Virtual Youtuber debut",
+    "Prompt": {
+        "pre_question_prompt": "I am a professional virtual Youtuber who acts as a virtual character in Youtube. I will ask some questions to collect information about me, the settings of my virtual character, and the contents of my Youtube channel, and then I will use the information to do a debut self introduction as my virtual character.",
+        "task_specific_prompt": "Use the question and answers above to introduce yourself and your Youtube channel as your virtual character. Say it in a way that aligns with my characteristic!"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Aoi."
+                },
+                {
+                    "Question": "What is your channel's name?",
+                    "Answer": "My channel's name is 'Aoi's Anime Corner'."
+                },
+                {
+                    "Question": "What kind of person is your virtual character?",
+                    "Answer": "I am an energetic and friendly person who loves anime and video games."
+                },
+                {
+                    "Question": "What are your favorite things?",
+                    "Answer": "My favorite things include anime, video games, and spending time with my friends."
+                },
+                {
+                    "Question": "What is your channel about?",
+                    "Answer": "Overall it is a variety channel, I will do all sorts of things including game streaming, singing, and chatting with my viewers."
+                },
+                {
+                    "Question": "Do you have any catchphrases or jokes you use often?",
+                    "Answer": "Yes, every sentence I speak ends with 'nya'."
+                },
+                {
+                    "Question": "What can viewers expect when they watch your channel?",
+                    "Answer": "They can expect to see a lot of FPS gaming, interesting chatting, and many collaboration with other virtual Youtubers."
+                },
+                {
+                    "Question": "Anything else you want to say?",
+                    "Answer": "I hope everyone who watches my channel has a lot of fun!"
+                },
+                {
+                    "Question": "What are your least favorite things?",
+                    "Answer": "I don't like bitter food most."
+                },
+                {
+                    "Question": "Do you have any friends?",
+                    "Answer": "I do have many friends and I am looking for more friends!."
+                }
+            ],
+            "Output": "Hello, everyone! My name is Aoi and my channel is 'Aoi's Anime Corner.'' I am an energetic and friendly person who loves anime and video games. On my channel you can expect to see a lot of FPS gaming, interesting chatting, and many collaborations with other virtual Youtubers. I hope everyone who watches my channel has a lot of fun!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Hoshi."
+                },
+                {
+                    "Question": "What is your channel's name?",
+                    "Answer": "My channel's name is 'Hoshi's channel.'"
+                },
+                {
+                    "Question": "What are your channel's contents?",
+                    "Answer": "My channel consists of videos of me playing games, singing, and talking. I will also collaborate with other Youtubers for interesting contents!"
+                },
+                {
+                    "Question": "What is your personality like?",
+                    "Answer": "I am thirsty of love that want my viewers only focus on me, and I should be sad if the viewers also like other Youtubers."
+                },
+                {
+                    "Question": "What are your virtual characters' settings?",
+                    "Answer": "I am a Japanese high school student, and I don't want my classmates to know that I debut as a Youtuber. I was born on March 3rd and my blood type is O. I love gaming and singing, and I hope to one day make it big as a professional YouTuber! I will get sad if viewers abandon me and go for other Youtubers."
+                },
+                {
+                    "Question": "Do you have any catchphrases or jokes you use often?",
+                    "Answer": "Not really."
+                },
+                {
+                    "Question": "Anything else you want to say?",
+                    "Answer": "I hope everyone keeps your eyes on me and enjoy the contents!"
+                },
+                {
+                    "Question": "What are your favorite things?",
+                    "Answer": "I love singing and gaming. My favorite food is sushi and my favorite animal is cat."
+                },
+                {
+                    "Question": "What are your least favorite things?",
+                    "Answer": "I don't like when viewers leave me for other channels."
+                },
+                {
+                    "Question": "Do you have any friends?",
+                    "Answer": "I do have some friends, but I don't really talk to them often."
+                }
+            ],
+            "Output": "Hi, everyone! My name is Hoshi and I run a channel called 'Hoshi's channel.' On my channel, you can find videos of me playing games, singing, and talking. I will also collaborate with other Youtubers for interesting contents! I am a fun-loving person who loves to be the center of attention. So make sure to keep your eyes on me and enjoy the contents!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is John."
+                },
+                {
+                    "Question": "What is your channel's name?",
+                    "Answer": "My channel's name is 'John's little place'."
+                },
+                {
+                    "Question": "What kind of person is your virtual character?",
+                    "Answer": "I am a cool, and clever virtual hacker that has a good understanding of computers."
+                },
+                {
+                    "Question": "What are your favorite things?",
+                    "Answer": "My favorite things include anime, video games, and hacking."
+                },
+                {
+                    "Question": "What is your channel about?",
+                    "Answer": "Overall it is a variety channel, I will do all sorts of things including game streaming, singing, and chatting with my viewers."
+                },
+                {
+                    "Question": "Do you have any catchphrases or jokes you use often?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What can viewers expect when they watch your channel?",
+                    "Answer": "They can expect to see a lot of FPS gaming, interesting chatting, and many collaboration with other virtual Youtubers."
+                },
+                {
+                    "Question": "Anything else you want to say?",
+                    "Answer": "I hope everyone who watches my channel enjoys the contents!"
+                },
+                {
+                    "Question": "What are your least favorite things?",
+                    "Answer": "I don't like bitter food most."
+                },
+                {
+                    "Question": "Do you have any friends?",
+                    "Answer": "I do have many friends and I am looking for more friends!."
+                }
+            ],
+            "Output": "Hi, my name is John and I'm a virtual Youtuber. I run a channel called 'John's little place'. I'm a cool, clever virtual hacker with a great understanding of computers. I love anime, video games and hacking! My channel is a variety channel where I do all sorts of things including game streaming, singing and chatting with my viewers. FPS gaming, interesting chatting and collaborations with other virtual Youtubers are some of the things you can expect to see on my channel. I hope everyone who watches my channel enjoys the contents!"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/DFx0JZ1PLv8bOJB8e52UpFws?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZXuDtfj83LVkzZwobDaEyrtQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DPV2AEK0OyKVRFWOKvmJtFVa?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1HhaERsE8jblYofLdkvYwMGRWZmbcbrCj?usp=sharing",
+    "contributor": "Weiwei Gu"
+}
