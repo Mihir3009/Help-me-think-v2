@@ -7,13 +7,26 @@ from os.path import isfile, join
 tasks_path = 'tasks/'
 
 expected_keys = [
-    "Definition",
-    "Positive Examples",
-    "Negative Examples",
+    "Domain",
+    "Task",
+    "Prompt",
     "Instances",
-    'Contributors',
-    'Categories',
-    'Source'
+    "Preset_link"
+]
+
+prompt_nested_keys = [
+    "pre_question_prompt",
+    "task_specific_prompt"
+]
+
+nested_keys = [
+    "QApair",
+    "Output"
+]
+
+nested_QApair_check = [
+    "Question",
+    "Answer"
 ]
 
 with open("tasks/README.md", 'r') as readmef:
@@ -32,13 +45,14 @@ for file in files:
                 assert key in data, f'did not find the key: {key}'
 
             assert len(data[
-                           'Instances']) > 25, f"there must be at least 25 instances; currently you have {len(data['Instances'])} instances"
+                           'Instances']) > 0, f"there must be at least one instance; currently you have {len(data['Instances'])} instances"
             assert len(data[
-                           'Instances']) <= 6500, f"there must be at most 6.5k instances; currently you have {len(data['Instances'])} instances"
+                           'Instances']) < 4, f"there must be at most three instances; currently you have {len(data['Instances'])} instances"
 
-            assert type(data['Source']) == list, f'Sources must be a list.'
-            assert type(data['Contributors']) == list, f'Contributors must be a list.'
-            assert type(data['Categories']) == list, f'Categories must be a list.'
+            assert type(data['Domain']) == str, f'Domain must be a string.'
+            #assert type(data['Contributors']) == list, f'Contributors must be a list.'
+            assert type(data['Task']) == str, f'Task must be a string.'
+            assert type(data['Prompt']) == dict, f'Prompt must be a dictionary.'
             
             for x in data['Instances']:
                 for key in ['input', 'output']:
