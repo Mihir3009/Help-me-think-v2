@@ -62,7 +62,7 @@ for file in files:
             for dict_ in data['Instances']:
                 for key in dict_.keys():
                     assert key in nested_keys, f'did not find the key in Instances: {key}'
-                for sub_dict_ in dict_:
+                for sub_dict_ in dict_['QApair']:
                     for sub_key in sub_dict_.keys():
                         assert sub_key in nested_QApair_check, f'did not find the key in QA pair: {sub_key}'
 
