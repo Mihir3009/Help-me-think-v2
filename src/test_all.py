@@ -66,16 +66,16 @@ for file in files:
                     for sub_key in sub_dict_.keys():
                         assert sub_key in nested_QApair_check, f'did not find the key in QA pair: {sub_key}'
 
-            true_file = file.replace(".json", "")
-            for char in true_file:
-                if char.isupper():
-                    raise Exception(f" * Looks like there is an uppercase letter in `{true_file}`. All letters should be lowercased.")
+#             true_file = file.replace(".json", "")
+#             for char in true_file:
+#                 if char.isupper():
+#                     raise Exception(f" * Looks like there is an uppercase letter in `{true_file}`. All letters should be lowercased.")
 
-            if file in task_readme_content:
-                raise Exception(f" * Looks like the .json file extension ending is present with the task name in `tasks/README.md` when it should just be `{true_file}`")
+#             if file in task_readme_content:
+#                 raise Exception(f" * Looks like the .json file extension ending is present with the task name in `tasks/README.md` when it should just be `{true_file}`")
 
-            if true_file not in task_readme_content:
-                raise Exception(f' * Looks like the task name `{true_file}` is not included '
-                                f'in the task file `tasks/README.md`')
+#             if true_file not in task_readme_content:
+#                 raise Exception(f' * Looks like the task name `{true_file}` is not included '
+#                                 f'in the task file `tasks/README.md`')
 
 print("Did not find any errors! ✅")
