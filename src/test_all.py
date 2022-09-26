@@ -53,44 +53,18 @@ for file in files:
             #assert type(data['Contributors']) == list, f'Contributors must be a list.'
             assert type(data['Task']) == str, f'Task must be a string.'
             assert type(data['Prompt']) == dict, f'Prompt must be a dictionary.'
+            assert type(data['Instances']) == list, f'Instances must be a list.'
+            assert type(data['Preset_link']) in [list, str], f'Preset link must be a list.'
             
-            for x in data['Instances']:
-                for key in ['input', 'output']:
-                    assert key in x, f'expected the key {key} in {x}'
-                assert type(x['input']) == str, f'the input of instance {x} is not a string'
-                assert type(x['output']) == list, f'the output of instance {x} is not a list'
-                for i in x['output']:
-                    assert type(i) == str, f'the output is not a string'
-            assert len(data['Positive Examples']) > 1, "there must be at least 3 positive example"
-            assert len(data['Negative Examples']) > 0, "there must be at least 2 negative example"
-
-            for x in data['Positive Examples'] + data['Negative Examples']:
-                for key in ['input', 'output', 'explanation']:
-                    assert key in x, f'expected the key {key} in {x}'
-                assert type(x['input']) == str, f'the input of example {x} is not a string'
-                assert type(x['output']) == str, f'the output of example {x} is not a string'
-                assert type(x['explanation']) == str, f'the explanation of example {x} is not a string'
-
-            # Make sure there are no repeated input examples
-            instances = data['Instances']
-            set_of_instances = {instance['input'] for instance in instances}
-            # Because the set length and total length are different, there must be a duplicate input
-            if len(instances) != len(set_of_instances):
-                for instance in instances:
-                    # If the instance is a duplicate then it has already been removed from the set and a KeyError will be thrown
-                    try:
-                        set_of_instances.remove(instance['input'])
-                    except KeyError:
-                        raise Exception(f" * Looks like we have a repeated example here! Merge outputs before removing duplicates. :-/ \n {instance}")
-
-
-            # Make sure there are no examples repeated across instances and positive examples
-            examples = [ex['input'] for ex in data['Positive Examples']]
-            for instance in instances:
-                if instance['input'] in examples:
-                    raise Exception(f" * Looks like we have a same example across positive examples and instances! Drop the example from the instances. :-/ \n {instance}")
-
-                assert len(instance['output']) > 0, "all the instances must have at least one output"
+            for key in prompt_nested_keys:
+                assert key in data['Prompt'], f'did not find the key in prompt dictionary: {key}'
+                
+            for dict_ in data['Instances']:
+                for key in dict_.keys():
+                    assert key in nested_keys, f'did not find the key in Instances: {key}'
+                for sub_dict_ in dict_:
+                    for sub_key in sub_dict_.keys():
+                        assert sub_key in nested_QApair_check, f'did not find the key in QA pair: {sub_key}'
 
             true_file = file.replace(".json", "")
             for char in true_file:
