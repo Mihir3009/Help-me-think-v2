@@ -15,7 +15,10 @@ This collection of tasks is the extension of the work done in [HELP ME THINK - v
 
 ### Any empirical evidence that this might be true?
 
-Our [recent study](https://arxiv.org/pdf/2208.08232.pdf) shows (across 63 tasks) that this prompting technique is effective in performing tasks that requires expert human knowledge or customization. 
+Our [recent study](https://arxiv.org/pdf/2208.08232.pdf) shows (across 63 tasks) that this prompting technique is effective in performing tasks that requires expert human knowledge or customization.
+
+### What do we mean by "meaningful contribution"? 
+If you're among top `k` [contributors](https://github.com/allenai/natural-instructions-expansion/graphs/contributors) (say, `k=25`), or if you have contributed at least `25` tasks and help us in evaluating `25` tasks. Depending on the overall contributions, we will adjust these constants so that the number of authors don't exeed `m` (say, `m=35`). 
 
 ## Task Schema
 
