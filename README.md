@@ -1,6 +1,9 @@
 # Help-Me-Think-v2.0
 
-This repository maintains a community effort to create large collection of tasks which needs customization, thinking or expertise (i.e., hard for average humans to do). Any contributor with sufficient work in creating tasks can be the co-author in our v2.0 effort (please check How to Contribute). We welcome external collaboration or suggestions to make this dataset better and bigger! 🙌
+This repository maintains a community effort to create large collection of tasks which needs customization, thinking or expertise (i.e., hard for average humans to do). 
+We welcome external collaboration or suggestions to make this dataset better and bigger! 🙌  
+We invite submission of new tasks to this benchmark by way of [GitHub pull request](https://github.com/allenai/natural-instructions-expansion/pulls), through **October 30, 2022**. 
+The contributors with meaningful contribution to our tasks will be included as co-authors on a paper that will announce the benchmark as well as analysis/results on it.
 
 ## Background
 
@@ -32,3 +35,19 @@ Our [recent study](https://arxiv.org/pdf/2208.08232.pdf) shows (across 63 tasks)
 ```
 
 ## How to Contribute
+
+We would appreciate any external contributions! 🙏
+
+ * All submissions must be submitted via [Github pull requests](https://github.com/allenai/natural-instructions-expansion/pulls). These submissions will undergo a review before being merged. 
+ * Each task must contain contain a `.json` file that contains the task content and follow task schema. You can look inside the [`tasks/`](tasks) directory for several examples.  
+    * Make sure that your json is human readable (use proper indentation; e.g., in Python: `json.dumps(your_json_string, indent=4, ensure_ascii=False)`)   
+    * Make sure that you json file is not bigger than 50MB. 
+    * Make sure your task has no more 3 instances.
+    * Make sure to number your task json correctly (Look at the task number in the latest pull request, task number in your submission should be the next number).
+    * Make sure to create a pull request after creating all possible tasks. You can have one pull request with multiple tasks.
+ * Add your task to [our list of tasks](tasks/README.md).
+ * To make sure that your addition is formatted correctly, tests will automatically run at the timne of pull request: `> python src/test_all.py`
+ * The pull request will be merged only if all test cases will be passed.
+  
+ 
+If you have any questions or suggestions, please use [the issues](https://github.com/allenai/natural-instructions-expansion/issues) feature.
