@@ -2,7 +2,7 @@
 
 This repository maintains a community effort to create large collection of tasks which needs customization, thinking or expertise (i.e., hard for average humans to do). 
 We welcome external collaboration or suggestions to make this dataset better and bigger! 🙌  
-We invite submission of new tasks to this benchmark by way of [GitHub pull request](https://github.com/allenai/natural-instructions-expansion/pulls), through **October 30, 2022**. 
+We invite submission of new tasks to this benchmark by way of [GitHub pull request](https://github.com/Mihir3009/Help-me-think-v2/pulls), through **October 30, 2022**. 
 The contributors with meaningful contribution to our tasks will be included as co-authors on a paper that will announce the benchmark as well as analysis/results on it.
 
 ## Background
@@ -18,7 +18,7 @@ This collection of tasks is the extension of the work done in [HELP ME THINK - v
 Our [recent study](https://arxiv.org/pdf/2208.08232.pdf) shows (across 63 tasks) that this prompting technique is effective in performing tasks that requires expert human knowledge or customization.
 
 ### What do we mean by "meaningful contribution"? 
-If you're among top `k` [contributors](https://github.com/allenai/natural-instructions-expansion/graphs/contributors) (say, `k=25`), or if you have contributed at least `25` tasks and help us in evaluating `25` tasks. Depending on the overall contributions, we will adjust these constants so that the number of authors don't exeed `m` (say, `m=35`). 
+If you're among top `k` [contributors](https://github.com/Mihir3009/Help-me-think-v2/graphs/contributors) (say, `k=25`), or if you have contributed at least `25` tasks and help us in evaluating `25` tasks. Depending on the overall contributions, we will adjust these constants so that the number of authors don't exeed `m` (say, `m=35`). 
 
 ## How to Create a Task?
 
@@ -65,7 +65,7 @@ You can look inside the [`tasks/`](tasks) directory for several examples.
 
 We would appreciate any external contributions! 🙏
 
- * All submissions must be submitted via [Github pull requests](https://github.com/allenai/natural-instructions-expansion/pulls). These submissions will undergo a review before being merged. 
+ * All submissions must be submitted via [Github pull requests](https://github.com/Mihir3009/Help-me-think-v2/pulls). These submissions will undergo a review before being merged. 
  * Each task must contain contain a `.json` file that contains the task content and follow task schema. You can look inside the [`tasks/`](tasks) directory for several examples.  
     * Make sure that your json is human readable (use proper indentation; e.g., in Python: `json.dumps(your_json_string, indent=4, ensure_ascii=False)`)   
     * Make sure that you json file is not bigger than 50MB. 
@@ -77,4 +77,4 @@ We would appreciate any external contributions! 🙏
  * The pull request will be merged only if all test cases will be passed.
   
  
-If you have any questions or suggestions, please use [the issues](https://github.com/allenai/natural-instructions-expansion/issues) feature.
+If you have any questions or suggestions, please use [the issues](https://github.com/Mihir3009/Help-me-think-v2/issues) feature.
