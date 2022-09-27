@@ -1,0 +1,172 @@
+{
+    "Domain": "Acting",
+    "Task": "Scene Performance",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert actor. I will ask some questions to collect information about the scene and character and then I will use the information to provide help to best perform the scene.",
+        "task_specific_prompt": "I will tell you how I will perform the character in the scene using the questions and answers above, including the a detailed description in facial expression and actions."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the scene about?",
+                    "Answer": "The scene is about a Japanese warrior defeated in war and is trying to seppuku with the help of one of his soldier."
+                },
+                {
+                    "Question": "What is the character's motivation in the scene?",
+                    "Answer": "The character's motivation in the scene is to die with honor and dignity despite being defeated in war."
+                },
+                {
+                    "Question": "What is the character's emotional state in the scene?",
+                    "Answer": "The character feels ashamed for his defeat and cannot face his lord"
+                },
+                {
+                    "Question": "What is the character's physical state in the scene?",
+                    "Answer": "The character is weak from his injuries."
+                },
+                {
+                    "Question": "What is the setting of the scene?",
+                    "Answer": "The setting of the scene is in a field near the battlefield."
+                },
+                {
+                    "Question": "What props are necessary for the scene?",
+                    "Answer": "The props necessary for the scene is a katana."
+                },
+                {
+                    "Question": "What costumes are necessary for the scene?",
+                    "Answer": "The costumes necessary for the scene is a traditional Japanese outfit."
+                },
+                {
+                    "Question": "What blocking is necessary for the scene?",
+                    "Answer": "The blocking necessary for the scene is for the character to be kneeling down on the ground."
+                },
+                {
+                    "Question": "What other actors are in the scene?",
+                    "Answer": "The other actor in the scene is one of the character's soldiers."
+                },
+                {
+                    "Question": "What is the character's relationship with the other actors in the scene?",
+                    "Answer": "The character is highly respected by his soldier."
+                },
+                {
+                    "Question": "What lines does the character have in the scene?",
+                    "Answer": "The character's lines in the scene are: 'I am defeated. I cannot face my lord. Please help me die with honor.'"
+                },
+                {
+                    "Question": "Is there any special stage directions that are necessary for the scene?",
+                    "Answer": "No special stage directions are necessary for the scene."
+                },
+                {
+                    "Question": "Are there any special effects that are necessary for the scene?",
+                    "Answer": "No special effects are necessary for the scene."
+                },
+                {
+                    "Question": "What is the character's exit in the scene?",
+                    "Answer": "The character's exit in the scene is through death."
+                },
+                {
+                    "Question": "What is the character's entrance in the scene?",
+                    "Answer": "The character enters the scene from the battlefield."
+                }
+            ],
+            "Output": "The character enters the scene from the battlefield, looking tired and wounded. He sees his soldier and kneels down, bowing his head in shame. In a weak and emotional voice, the character speaks his lines. 'I am defeated. I cannot face my lord. Please help me die with honor.' The soldier looks at his lord with sad eyes and nods, understanding his wishes. The soldier helps his lord position himself for seppuku and hands him the katana. The character thanks his soldier and looks at him one last time with gratitude, before stabbing himself in the gut. The character dies with honor, despite his defeat."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the scene about?",
+                    "Answer": "The scene is about a lawyer on a court defending his defendant against a prosecutor."
+                },
+                {
+                    "Question": "What is the character's motivation in the scene?",
+                    "Answer": "The character's motivation in the scene is to prove the innocence of his defendant in court."
+                },
+                {
+                    "Question": "What is the character's emotional state in the scene?",
+                    "Answer": "The character feels exciting and being oppressed by the prosecutor."
+                },
+                {
+                    "Question": "What is the setting of the scene?",
+                    "Answer": "The setting of the scene is in the court."
+                },
+                {
+                    "Question": "What costumes are necessary for the scene?",
+                    "Answer": "The costumes necessary for the scene is a suit, and a judge uniform."
+                },
+                {
+                    "Question": "What other actors are in the scene?",
+                    "Answer": "The other actors include the prosecutor, the defendant, and the judge."
+                },
+                {
+                    "Question": "What is the character's relationship with the other actors in the scene?",
+                    "Answer": "The character trusts that his defendant is innocent and is continuously looking to attack the statement of the prosecutor and the testimony of the witness."
+                },
+                {
+                    "Question": "What lines does the character have in the scene?",
+                    "Answer": "The character's lines in the scene are: 'Objection! There is a conflict in the testimony!'"
+                },
+                {
+                    "Question": "What is the character's exit in the scene?",
+                    "Answer": "The character's exit in the scene is through leaving the court."
+                },
+                {
+                    "Question": "What blocking is necessary for the scene?",
+                    "Answer": "The character needs to knock the table loudly when he says his lines."
+                }
+            ],
+            "Output": "The character's motivation in the scene is to prove the innocence of his defendant in court. The character feels exciting and being oppressed by the prosecutor. To show this, the character will have a serious and determined facial expression. The character will be leaning forward in his chair and will be tapping his fingers impatiently on the table. The character's lines in the scene are: 'Objection! There is a conflict in the testimony!' The character will say this line forcefully, slamming his fist on the table for emphasis. The character's exit in the scene is through leaving the court."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the scene about?",
+                    "Answer": "The scene is about a man being stabbed by his best friend at his back."
+                },
+                {
+                    "Question": "What is the character's motivation in the scene?",
+                    "Answer": "The character's motivation in the scene is to survive and understand why his friend stabbed him."
+                },
+                {
+                    "Question": "What is the character's emotional state in the scene?",
+                    "Answer": "The character feels extremely shock and sad."
+                },
+                {
+                    "Question": "What is the character's physical state in the scene?",
+                    "Answer": "The character is massively bleeding with a dagger in his back."
+                },
+                {
+                    "Question": "What is the setting of the scene?",
+                    "Answer": "The setting of the scene is in the kitchen."
+                },
+                {
+                    "Question": "What other actors are in the scene?",
+                    "Answer": "The other actors include the friend of the man."
+                },
+                {
+                    "Question": "What is the character's relationship with the other actors in the scene?",
+                    "Answer": "The character thinks that his friend is his best friend, but got betrayed by his friend for unknown reason."
+                },
+                {
+                    "Question": "What lines does the character have in the scene?",
+                    "Answer": "The character's lines in the scene are:'Why! Why are you doing this to me?!'"
+                },
+                {
+                    "Question": "What is the character's exit in the scene?",
+                    "Answer": "The character's exit in the scene is through crawling out the kitchen."
+                },
+                {
+                    "Question": "What blocking is necessary for the scene?",
+                    "Answer": "The character needs to crawl after being stabbed."
+                }
+            ],
+            "Output": "The character's facial expression would be one of extreme sadness and betrayal, with tears streaming down the face. The character would be in immense pain, clutching at the dagger in their back as they attempted to crawl out of the kitchen. Their movements would be slow and unsteady, as they fought to survive and understand why their friend had stabbed them."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/cyc7eQtETVa2hHsUwcUDISM1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/iYhcMmYRfuOham59jRWElDwN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3YoU6Iab2IoRVkAJ8rz729tB?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1E7yUc9233GjGZXR8z1cTCxpgBC08LiBN?usp=sharing",
+    "contributor": "Weiwei Gu"
+}
