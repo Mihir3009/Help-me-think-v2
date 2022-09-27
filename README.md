@@ -20,7 +20,29 @@ Our [recent study](https://arxiv.org/pdf/2208.08232.pdf) shows (across 63 tasks)
 ### What do we mean by "meaningful contribution"? 
 If you're among top `k` [contributors](https://github.com/allenai/natural-instructions-expansion/graphs/contributors) (say, `k=25`), or if you have contributed at least `25` tasks and help us in evaluating `25` tasks. Depending on the overall contributions, we will adjust these constants so that the number of authors don't exeed `m` (say, `m=35`). 
 
-## Task Schema
+## How to Create a Task?
+
+Let's create a task for generating a bio for you.
+
+**Step 1**: You need to start with pre_question_prompt which helps you to generate the question-answer pairs.
+
+pre_question_prompt: `I am an expert $task-executer$. I will ask some questions to collect information and then I will use the information to $do the task.$`
+
+Here, you can replace `$task-executer$` and `$do the task.$` with actual task. Now, let's write this prompt for bio task: `I am an expert bio generator. I will ask some questions to collect information and then I will use the information to write a bio for you.`
+
+**Step 2**: Now GPT-3 will start generating Question-Answer (QA) pairs for you. You can customize GPT-3 generated answers if you want.
+
+**Step 3**: Once you collect all QA pairs, use task specific prompt -
+
+`Write a $task-specific-output$ using the questions and answers above. $task-specific-instruction$`
+
+Here, replace `$task-specific-output$` with actual task and also you can add extra instructions if you want at place of `$task-specific-instruction$`. Now, let's write a this prompt for bio task - `Write a bio for me using the questions and answers above. Write a short bio.`
+
+**Step 4**: For the same task, generate 3 instances by changing the answers, accordingly, GPT3 might generate different questions.
+
+**Step 5**: Save preset link for each instance.
+
+**Step 5**: Once you have all this, generate `.json` file as below and submit pull request.
 
 ```python
 {
