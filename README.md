@@ -59,6 +59,8 @@ Here, replace `$task-specific-output$` with actual task and also you can add ext
 }
 ```
 
+You can look inside the [`tasks/`](tasks) directory for several examples.
+
 ## How to Contribute
 
 We would appreciate any external contributions! 🙏
