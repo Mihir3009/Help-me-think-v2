@@ -44,7 +44,7 @@ Here, replace `$task-specific-output$` with actual task and also you can add ext
 
 **Step 5**: Once you have all this, generate `.json` file as below and submit pull request.
 
-```python
+```json
 {
   "Contributor": "",
   "Domain": "",
