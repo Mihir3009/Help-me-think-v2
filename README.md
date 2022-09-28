@@ -22,7 +22,9 @@ If you're among top `k` [contributors](https://github.com/Mihir3009/Help-me-thin
 
 ## How to Create a Task?
 
-Let's create a task for generating a bio for you.
+To get the idea about how to create a task, you can go through the Algorithm 1 (Page 4) in our [recent study](https://arxiv.org/pdf/2208.08232.pdf). Apart from that you can also see the below example.
+
+**Example:** Let's create a task for generating a bio for you.
 
 **Step 1**: You need to start with pre_question_prompt which helps you to generate the question-answer pairs.
 
