@@ -1,0 +1,156 @@
+{
+    "Contributor": "Mirali Purohit",
+    "Domain": "Biomedical",
+    "Task": "Clinical Trial",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in generating clinical trials. I will ask some questions to collect information and then I will use the information to generate a clinical trial for a given disease.",
+        "task_specific_prompt": "Write a summary of the clinical trial for Alzheimer's disease using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the disease you want a clinical trial for?",
+                    "Answer": "The disease is Alzheimer's disease."
+                },
+                {
+                    "Question": "What are the symptoms of the disease?",
+                    "Answer": "The symptoms of Alzheimer's disease include memory loss, confusion, and difficulty with speaking and understanding."
+                },
+                {
+                    "Question": "What is the cause of the disease?",
+                    "Answer": "The cause of Alzheimer's disease is unknown, but it is thought to be linked to a combination of genetic and environmental factors."
+                },
+                {
+                    "Question": "What is the current treatment for the disease?",
+                    "Answer": "There is no cure for Alzheimer's disease, but there are treatments that can help manage the symptoms."
+                },
+                {
+                    "Question": "What are the desired outcomes of the clinical trial?",
+                    "Answer": "The desired outcomes of the clinical trial are to find a new treatment for Alzheimer's disease that can improve the symptoms or slow the progression of the disease."
+                },
+                {
+                    "Question": "What are the inclusion criteria for the clinical trial?",
+                    "Answer": "Inclusion criteria for the clinical trial are:"
+                },
+                {
+                    "Question": "What are the exclusion criteria for the clinical trial?",
+                    "Answer": "Exclusion criteria for the clinical trial are:"
+                },
+                {
+                    "Question": "What is the duration of the clinical trial?",
+                    "Answer": "The clinical trial will last for 12 weeks."
+                },
+                {
+                    "Question": "What is the size of the clinical trial?",
+                    "Answer": "The clinical trial will have 100 participants."
+                },
+                {
+                    "Question": "What is the proposed treatment for the clinical trial?",
+                    "Answer": "The proposed treatment for the clinical trial is a new medication that is thought to improve the symptoms of Alzheimer's disease."
+                },
+                {
+                    "Question": "What are the risks and benefits of the proposed treatment?",
+                    "Answer": "The risks of the proposed treatment include:"
+                }
+            ],
+            "Output": "The clinical trial is for a new medication that is thought to improve the symptoms of Alzheimer's disease. The trial will last for 12 weeks and will have 100 participants. The inclusion criteria are: ages 40-85, have a diagnosis of Alzheimer's disease, and have mild to moderate symptoms of the disease. The exclusion criteria are: ages under 40 or over 85, severe symptoms of Alzheimer's disease, and currently taking medication for Alzheimer's disease. The risks of the proposed treatment include: side effects from the medication, worsening of symptoms, and no improvement in symptoms. The benefits of the proposed treatment include: improvement in symptoms, and slowing of the progression of Alzheimer's disease."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the disease you are interested in?",
+                    "Answer": "Covid-19"
+                },
+                {
+                    "Question": "What are the symptoms of the disease?",
+                    "Answer": "The symptoms of Covid-19 include fever, coughing, and difficulty breathing."
+                },
+                {
+                    "Question": "What is the cause of the disease?",
+                    "Answer": "The cause of Covid-19 is a virus."
+                },
+                {
+                    "Question": "What is the treatment for the disease?",
+                    "Answer": "There is no specific treatment for Covid-19, but symptoms can be treated."
+                },
+                {
+                    "Question": "What is the prognosis for the disease?",
+                    "Answer": "The prognosis for Covid-19 is variable. Some people recover quickly, while others may have a more severe illness."
+                },
+                {
+                    "Question": "What is the population of interest?",
+                    "Answer": "The population of interest for this clinical trial is people with Covid-19."
+                },
+                {
+                    "Question": "What is the proposed intervention?",
+                    "Answer": "The proposed intervention for this clinical trial is a new medication that is being developed to treat Covid-19."
+                },
+                {
+                    "Question": "What are the expected outcomes?",
+                    "Answer": "The expected outcomes of this clinical trial are that the new medication will be effective in treating Covid-19 and that patients will recovery from the illness."
+                },
+                {
+                    "Question": "What are the inclusion criteria?",
+                    "Answer": "The inclusion criteria for this clinical trial are that patients must have a diagnosis of Covid-19 and must be willing to participate in the trial."
+                },
+                {
+                    "Question": "What are the exclusion criteria?",
+                    "Answer": "The exclusion criteria for this clinical trial are that patients must not have a history of allergic reactions to the medication, must not be pregnant or breastfeeding, and must not have a history of heart disease."
+                }
+            ],
+            "Output": "The clinical trial will be conducted to test the effectiveness of a new medication in treating patients with Covid-19. The trial will enroll patients who have been diagnosed with Covid-19 and who are willing to participate in the trial. The patients will be given the new medication and will be monitored for their symptoms and progress. The trial will be conducted over a period of time to determine if the new medication is effective in treating Covid-19."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the disease you would like a clinical trial for?",
+                    "Answer": "Diabetes"
+                },
+                {
+                    "Question": "What are the symptoms of the disease?",
+                    "Answer": "The symptoms of diabetes include increased thirst, increased urination, weight loss, fatigue, and blurred vision."
+                },
+                {
+                    "Question": "What is the cause of the disease?",
+                    "Answer": "The cause of diabetes is unknown, but it is believed to be a combination of genetic and environmental factors."
+                },
+                {
+                    "Question": "What is the current treatment for the disease?",
+                    "Answer": "The current treatment for diabetes includes lifestyle changes, such as diet and exercise, and medication."
+                },
+                {
+                    "Question": "What are the possible side effects of the current treatment?",
+                    "Answer": "The possible side effects of the current treatment for diabetes include weight gain, low blood sugar, and high blood pressure."
+                },
+                {
+                    "Question": "What is the goal of the clinical trial?",
+                    "Answer": "The goal of the clinical trial is to find a safe and effective treatment for diabetes."
+                },
+                {
+                    "Question": "Who will be eligible to participate in the clinical trial?",
+                    "Answer": "To be eligible to participate in the clinical trial, you must be 18 years of age or older and have been diagnosed with diabetes."
+                },
+                {
+                    "Question": "What will happen during the clinical trial?",
+                    "Answer": "During the clinical trial, you will be randomly assigned to either the treatment group or the control group. The treatment group will receive the new treatment being studied, while the control group will receive the current standard of care. The clinical trial will last for several months, and you will be monitored closely during that time."
+                },
+                {
+                    "Question": "What are the risks and benefits of participating in the clinical trial?",
+                    "Answer": "The risks of participating in the clinical trial include the possibility of experiencing side effects from the new treatment being studied. The benefits of participating in the clinical trial include the possibility of receiving a new and effective treatment for diabetes."
+                },
+                {
+                    "Question": "How will the clinical trial be conducted?",
+                    "Answer": "The clinical trial will be conducted at a hospital or research center. You will be asked to visit the hospital or research center several times during the clinical trial."
+                }
+            ],
+            "Output": "The goal of the clinical trial is to find a safe and effective treatment for Alzheimer's disease. The clinical trial will last for several months, and participants will be randomly assigned to either the treatment group or the control group. The treatment group will receive the new treatment being studied, while the control group will receive the current standard of care. The clinical trial will be conducted at a hospital or research center, and participants will be asked to visit the hospital or research center several times during the clinical trial. The risks of participating in the clinical trial include the possibility of experiencing side effects from the new treatment being studied. The benefits of participating in the clinical trial include the possibility of receiving a new and effective treatment for Alzheimer's disease."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/BsxGnKsmThz4Md7DSIzovuCa?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/En9nG5gcPdXwtv5WysT3KO5z?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/LuFM7sUnVEkiYCawDwfZQqm4?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1iy3eUMoOVYZ7_7eFNKSST9X7rdfyTE_b?usp=sharing"
+}
