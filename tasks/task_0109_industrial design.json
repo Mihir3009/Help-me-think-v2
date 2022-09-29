@@ -1,0 +1,197 @@
+{
+    "Domain": "Industrial Design",
+    "Task": "To decide a color for the new product",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert industrial designer . I will ask some questions to collect information and then I will use the information to determine the colors of the new product I have designed",
+        "task_specific_prompt": "Determine the colors to be used using the questions and answers above and explain why"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "A noise cancelling hairband"
+                },
+                {
+                    "Question": "What is the purpose of the product?",
+                    "Answer": "The hairband is designed for people to wear anytime during day or night when they have trouble with excess noise."
+                },
+                {
+                    "Question": "Who is the target audience for the product?",
+                    "Answer": "The target audience for the product is people who have trouble performing routine tasks such as sleeping, walking due to excess noise."
+                },
+                {
+                    "Question": "What colors are currently popular?",
+                    "Answer": "Some popular colors for this type of product are  green and red"
+                },
+                {
+                    "Question": "What is the color scheme of the products packaging?",
+                    "Answer": "The color scheme of the product packaging is viridian"
+                },
+                {
+                    "Question": "What color would best represent the products purpose?",
+                    "Answer": "The color that would best represent the product purpose is to be eye-catching and loud."
+                },
+                {
+                    "Question": "What color would best match the packaging?",
+                    "Answer": "The color that would best match the packaging is a yellow, blue and light green"
+                },
+                {
+                    "Question": "What color would best represent the brand?",
+                    "Answer": "The color that would best represent the brand is a hip color and famous with younger generation."
+                },
+                {
+                    "Question": "What other colors would work well with the chosen color?",
+                    "Answer": "Other colors that would work well with the chosen color are purple, blue and silver."
+                },
+                {
+                    "Question": "Is there a specific color that the company wants to use?",
+                    "Answer": "No, there is not a specific color that the company wants to use."
+                }
+            ],
+            "Output": "The colors that would be used for this product are blue, yellow and light green. These colors were chosen because they are eye-catching and represent the products purpose well. The color scheme of the products packaging was also taken into consideration when choosing these colors."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "A blender."
+                },
+                {
+                    "Question": "What is the purpose of the product?",
+                    "Answer": "The blender is for people to mix different fruits or nuts in to make smoothie."
+                },
+                {
+                    "Question": "Who is the target audience for the product?",
+                    "Answer": "The target audience for the product is people who want to get a handy and low space blender with sleek design."
+                },
+                {
+                    "Question": "What colors are currently popular?",
+                    "Answer": "Some popular colors for this type of product are  pink, white, grey, blue, lemon and green."
+                },
+                {
+                    "Question": "What is the color scheme of the product packaging?",
+                    "Answer": "The color scheme of the product packaging is viridian."
+                },
+                {
+                    "Question": "What color would best represent the product purpose?",
+                    "Answer": "The color that would best represent the product purpose is a rejuvenating color"
+                },
+                {
+                    "Question": "What color would best match the packaging?",
+                    "Answer": "The color that would best match the packaging is a yellow, blue and light green"
+                },
+                {
+                    "Question": "What color would best represent the brand?",
+                    "Answer": "The color that would best represent the brand is the color which is best for product."
+                },
+                {
+                    "Question": "What other colors would work well with the chosen color?",
+                    "Answer": "Other colors that would work well with the chosen color are purple, blue and silver."
+                },
+                {
+                    "Question": "Is there a specific color that the company wants to use?",
+                    "Answer": "No, there is not a specific color that the company wants to use."
+                }
+            ],
+            "Output": "I would recommend using the color pink for this product because it is a popular color for this type of product, it is a rejuvenating color, and it would work well with the packaging."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "An electric scooter"
+                },
+                {
+                    "Question": "What is the purpose of the product?",
+                    "Answer": "An electric scooter is used on road and is similar to a cycle"
+                },
+                {
+                    "Question": "Who is the target audience for the product?",
+                    "Answer": "The target audience for the product are college/high-school kids who need a scooter to reach college/school."
+                },
+                {
+                    "Question": "What colors are currently popular?",
+                    "Answer": "Some popular colors for this are  red, white, grey, blue, mostly oculars used in automobiles which can be seen from a distance."
+                },
+                {
+                    "Question": "What is the color scheme of the product packaging?",
+                    "Answer": "The color scheme of the product packaging is triad."
+                },
+                {
+                    "Question": "What color would best represent the product purpose?",
+                    "Answer": "The color that would best represent the product purpose is to be which would give a fun vibe"
+                },
+                {
+                    "Question": "What color would best match the packaging?",
+                    "Answer": "The color that would best match the packaging is a yellow, blue and purple."
+                },
+                {
+                    "Question": "What color would best represent the brand?",
+                    "Answer": "The color that would best represent the brand is something which is uncommon."
+                },
+                {
+                    "Question": "What other colors would work well with the chosen color?",
+                    "Answer": "Other colors that would work well with the chosen color would be neon pink, orange, cyan."
+                },
+                {
+                    "Question": "Is there a specific color that the company wants to use?",
+                    "Answer": "No, there is not a specific color that the company wants to use."
+                }
+            ],
+            "Output": "The color that would be used is neon pink because it would give the product a fun vibe, it would match the packaging well, and it is an uncommon color that would represent the brand well."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "A mobile phone"
+                },
+                {
+                    "Question": "What is the purpose of the product?",
+                    "Answer": "A mobile phone is used through out the day for various tasks. Its main purpose is to communicate with other people or use social media."
+                },
+                {
+                    "Question": "Who is the target audience for the product?",
+                    "Answer": "The target audiences are people who want something between $700 and $1000."
+                },
+                {
+                    "Question": "What colors are currently popular?",
+                    "Answer": "Some popular colors for this type of product are  grey, pink, blue."
+                },
+                {
+                    "Question": "What is the color scheme of the product packaging?",
+                    "Answer": "The color scheme of the product packaging is analogous"
+                },
+                {
+                    "Question": "What color would best represent the product purpose?",
+                    "Answer": "The color that would best represent the product purpose is to be not invisible but not too visible."
+                },
+                {
+                    "Question": "What color would best match the packaging?",
+                    "Answer": "The color that would best match the packaging is a white."
+                },
+                {
+                    "Question": "What color would best represent the brand?",
+                    "Answer": "The color that would best represent the brand is something which does not invoke strong emotions"
+                },
+                {
+                    "Question": "What other colors would work well with the chosen color?",
+                    "Answer": "Other colors that would work well with the chosen color are purple, lavender, red violet."
+                },
+                {
+                    "Question": "Is there a specific color that the company wants to use?",
+                    "Answer": "No, there is not a specific color that the company wants to use."
+                }
+            ],
+            "Output": "The color that would best represent the products purpose is a light purple. This color is not too visible, but it is also not invisible. It is a calming color that does not invoke strong emotions. Other colors that would work well with the chosen color are lavender and red violet."
+        }
+    ],
+    "Preset_link": {
+        "1st Instance": "https://beta.openai.com/playground/p/RnVcEE0yGsbdOgrbOlpBuYmZ?model=text-davinci-002",
+        "2nd Instance": "https://beta.openai.com/playground/p/p5fxBS5qM9yjV2rgwqIOmpFz?model=text-davinci-002",
+        "3rd Instance": "https://beta.openai.com/playground/p/K1HBDTIHvapqwCs8PoNxNerV?model=text-davinci-002",
+        "4th Instance": "https://beta.openai.com/playground/p/05hjYJvOkaBVEAfRhdM7AygV?model=text-davinci-002"
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/1QSS31PnNLFlR5zy6-gholqGWnxpBXUx9?usp=sharing"
+}

@@ -113,12 +113,17 @@ File Name | Domain | Task
 `task_0106_foreign language.json` | Foreign Language | Generate a language translation guide
 `task_0107_fine arts.json` | Fine Arts | Generate a plan to promote fine arts in the US
 `task_0108_foreign language.json` | Foreign Language | Create a foreign language speaking guide
-`task_0109_beverages.json` | Beverages | Advertisement
-`task_0110_healthcare administration.json` | Healthcare Administration | Vaccine Inventory Management
-`task_0111_beverages.json` | Beverages | Making Tea
-`task_0112_healthcare administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
-`task_0113_beverages.json` | Beverages | How to be a bartender
-`task_0114_beverages.json` | Beverages | New beverage shop
+`task_0109_industrial design.json` | Industrial Design | To decide a color for the new product
+`task_0110_artificial intelligence.json` | Artificial Intelligence | To get an algorithm for predicting Stock Prices
+`task_0111_astrophysics.json` | Astrophysics |  Experiment with tools and findings
+`task_0112_astrophysics.json` | Astrophysics | write detailed usage of Natural Language in Astrophysic 
+`task_0113_astrophysics.json` | Astrophysics | Write detailed usage of AI in Astrophysics
+`task_0114_astrophysics.json` | Astrophysics | Write experience of astrophysics study
+`task_0115_product design.json` | Product Design | Designing Knowledge-Sharing application
+`task_0116_product design.json` | Product Design |  Design and develop an analytics system 
+`task_0117_astrophysics.json` | Astrophysics |  write an article
+`task_0118_product design.json` | Product Design |  Building a distributed surveillance system
+
 `task_0123_politics.json` | Politics | interview
 `task_0124_animals right.json` | Animals Right | survey summarizer
 `task_0125_animal right.json` | Animal Right | slogan

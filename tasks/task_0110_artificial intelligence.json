@@ -1,0 +1,233 @@
+{
+    "Domain": "Artificial Intelligence",
+    "Task": "To get an algorithm for predicting Stock Prices",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert AI Engineer. I will ask some questions to collect information and then I will use the information to decide which algorithm is best to be used to predict stock prices",
+        "task_specific_prompt": "Decide an algorithm to predict stock prices using the questions and answers above. Give a specific algorithm and explain why?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the time frame for which you would like to predict stock prices?",
+                    "Answer": "I would like to predict stock prices for the long-term, then I would recommend using a time-series forecasting algorithm."
+                },
+                {
+                    "Question": "What is the goal of the prediction?",
+                    "Answer": "The goal is to predict the actual stock price."
+                },
+                {
+                    "Question": "What is the type of data that you have?",
+                    "Answer": "If the data is time-series data, then I would recommend using a time-series forecasting algorithm."
+                },
+                {
+                    "Question": "Are there any other factors that you think might be important in predicting stock prices?",
+                    "Answer": "Other factors that might be important in predicting stock prices include the current economic conditions and the overall market conditions."
+                },
+                {
+                    "Question": "Do you have any historical data that you can use for training a predictive model?",
+                    "Answer": "Yes, Historical data is available."
+                },
+                {
+                    "Question": "What is the accuracy of the predictions that you need?",
+                    "Answer": "The accuracy of the predictions should be greater than 90%."
+                },
+                {
+                    "Question": "Do you have any constraints on the type of predictive model that you can use?",
+                    "Answer": "No, there are no constraints on the type of predictive model that you can use."
+                },
+                {
+                    "Question": "What is your budget for developing the predictive model?",
+                    "Answer": "The budget for developing the predictive model is $10000."
+                },
+                {
+                    "Question": "What is the deadline for completing the project?",
+                    "Answer": "The deadline for completing the project is 3 months."
+                },
+                {
+                    "Question": "What format do you need the predictions in?",
+                    "Answer": "The predictions can be in any format, but they must be accurate."
+                },
+                {
+                    "Question": "What other information do you need in order to make the predictions?",
+                    "Answer": "In order to make the predictions, you will need to have access to historical stock data, economic data, and political data."
+                },
+                {
+                    "Question": "Is deciding an algorithm to predict stock prices an artificial intelligence problem?",
+                    "Answer": "Yes, deciding an algorithm to predict stock prices is an artificial intelligence problem."
+                },
+                {
+                    "Question": "What are some time-series forecasting algorithm?",
+                    "Answer": "Some time-series forecasting algorithms include the autoregressive moving average (ARMA) model, the autoregressive integrated moving average (ARIMA) model, and the exponential smoothing (ES) model."
+                }
+            ],
+            "Output": "The algorithm that I would recommend for predicting stock prices is the autoregressive moving average (ARMA) model. This is because the ARMA model is able to take into account the historical data and predict the future stock price."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the time frame for which you would like to predict stock prices?",
+                    "Answer": "I would like to predict it for long term."
+                },
+                {
+                    "Question": "What is the goal of the prediction? Is it to simply predict the direction of the stock price (up or down), or to predict the actual stock price?",
+                    "Answer": "The goal to get as accurate a estimate I can get."
+                },
+                {
+                    "Question": "What is the type of data that you have? Is it time-series data or cross-sectional data?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Are there any other factors that you think might be important in predicting stock prices?",
+                    "Answer": "Other factors that might be important in predicting stock prices include the current economic conditions and the overall market conditions."
+                },
+                {
+                    "Question": "Do you have any historical data that you can use for training a predictive model?",
+                    "Answer": "NO"
+                },
+                {
+                    "Question": "What is the accuracy of the predictions that you need?",
+                    "Answer": "The accuracy of the predictions should be greater than 90%."
+                },
+                {
+                    "Question": "Do you have any constraints on the type of predictive model that you can use?",
+                    "Answer": "No, there are no constraints on the type of predictive model that you can use."
+                },
+                {
+                    "Question": "What is your budget for developing the predictive model?",
+                    "Answer": "The budget for developing the predictive model is $100."
+                },
+                {
+                    "Question": "What is the deadline for completing the project?",
+                    "Answer": "The deadline for completing the project is 1 month."
+                },
+                {
+                    "Question": "What format do you need the predictions in?",
+                    "Answer": "The predictions can be in any format, but they must be accurate."
+                },
+                {
+                    "Question": "What other information do you need in order to make the predictions?",
+                    "Answer": "In order to make the predictions, you will need to have access to historical stock data, economic data."
+                },
+                {
+                    "Question": "Is deciding an algorithm to predict stock prices an artificial intelligence problem?",
+                    "Answer": "Yes, deciding an algorithm to predict stock prices is an artificial intelligence problem."
+                }
+            ],
+            "Output": "The algorithm that I would use to predict stock prices is the long short-term memory (LSTM) algorithm. I think that the LSTM algorithm is the best algorithm to use for this problem because it can handle time-series data and it is good at predicting stock prices."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the time frame for which you would like to predict stock prices?",
+                    "Answer": "I would like to predict it for short term."
+                },
+                {
+                    "Question": "What is the goal of the prediction? Is it to simply predict the direction of the stock price (up or down), or to predict the actual stock price?",
+                    "Answer": "The goal to get the direction for the prediction."
+                },
+                {
+                    "Question": "What is the type of data that you have? Is it time-series data or cross-sectional data?",
+                    "Answer": "It is time-series data."
+                },
+                {
+                    "Question": "Are there any other factors that you think might be important in predicting stock prices?",
+                    "Answer": "Other factors that might be important in predicting stock prices include the current economic conditions and the overall market conditions."
+                },
+                {
+                    "Question": "Do you have any historical data that you can use for training a predictive model?",
+                    "Answer": "Yes, time-series data is available for forecasting."
+                },
+                {
+                    "Question": "What is the accuracy of the predictions that you need?",
+                    "Answer": "The accuracy of the predictions should be greater than 70%."
+                },
+                {
+                    "Question": "Do you have any constraints on the type of predictive model that you can use?",
+                    "Answer": "No, there are no constraints on the type of predictive model that you can use."
+                },
+                {
+                    "Question": "What is your budget for developing the predictive model?",
+                    "Answer": "The budget for developing the predictive model is $1000."
+                },
+                {
+                    "Question": "What is the deadline for completing the project?",
+                    "Answer": "The deadline for completing the project is 180 days."
+                },
+                {
+                    "Question": "What format do you need the predictions in?",
+                    "Answer": "The predictions can be in any format, but they must be accurate."
+                },
+                {
+                    "Question": "What other information do you need in order to make the predictions?",
+                    "Answer": "In order to make the predictions, you need previous stock prices record."
+                },
+                {
+                    "Question": "Is deciding an algorithm to predict stock prices an artificial intelligence problem?",
+                    "Answer": "Yes, deciding an algorithm to predict stock prices is an artificial intelligence problem."
+                }
+            ],
+            "Output": "I would recommend using the Support Vector Regression algorithm to predict stock prices. This algorithm is best suited for time-series data, which is what we have. It can also handle non-linear relationships, which is important in stock price prediction. Furthermore, the Support Vector Regression algorithm is not constrained by a budget, which is important given the $1000 budget for this project. Finally, the Support Vector Regression algorithm has the potential to achieve the accuracy goal of 70% or higher."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the time frame for which you would like to predict stock prices?",
+                    "Answer": "I would like to predict it for tomorrow"
+                },
+                {
+                    "Question": "What is the goal of the prediction? Is it to simply predict the direction of the stock price (up or down), or to predict the actual stock price?",
+                    "Answer": "The goal an estimate if possible."
+                },
+                {
+                    "Question": "What is the type of data that you have? Is it time-series data or cross-sectional data?",
+                    "Answer": "It is cross sectional data."
+                },
+                {
+                    "Question": "Are there any other factors that you think might be important in predicting stock prices?",
+                    "Answer": "Other factors that might be important in predicting stock prices include the current economic conditions and the overall market conditions."
+                },
+                {
+                    "Question": "Do you have any historical data that you can use for training a predictive model?",
+                    "Answer": "Yes, historical data is available to train predictive model."
+                },
+                {
+                    "Question": "What is the accuracy of the predictions that you need?",
+                    "Answer": "The accuracy of the predictions should be greater than 90%."
+                },
+                {
+                    "Question": "Do you have any constraints on the type of predictive model that you can use?",
+                    "Answer": "No, there are no constraints on the type of predictive model that you can use."
+                },
+                {
+                    "Question": "What is your budget for developing the predictive model?",
+                    "Answer": "The budget for developing the predictive model is $10000."
+                },
+                {
+                    "Question": "What is the deadline for completing the project?",
+                    "Answer": "The deadline for completing the project is 52 days."
+                },
+                {
+                    "Question": "What format do you need the predictions in?",
+                    "Answer": "The predictions can be in any format, but they must be accurate."
+                },
+                {
+                    "Question": "What other information do you need in order to make the predictions?",
+                    "Answer": "In order to make the predictions, you need previous stock prices record."
+                },
+                {
+                    "Question": "Is deciding an algorithm to predict stock prices an artificial intelligence problem?",
+                    "Answer": "Yes, deciding an algorithm to predict stock prices is an artificial intelligence problem."
+                }
+            ],
+            "Output": "The algorithm that I would use to predict stock prices is a neural network. I think that a neural network would be best suited for this task because it is a non-linear algorithm that can learn complex relationships. Additionally, a neural network is also able to handle non-stationary data, which is important in the stock market where prices are constantly changing."
+        }
+    ],
+    "Preset_link": {
+        "1st Instance": "https://beta.openai.com/playground/p/3cXiT1F92jWTZTgR6JFZkyf2?model=text-davinci-002",
+        "2nd Instance": "https://beta.openai.com/playground/p/gveRDrznGfGVqbjnKYvx7n3g?model=text-davinci-002",
+        "3rd Instance": "https://beta.openai.com/playground/p/GTcT3o4yLvqFGe06iisWioLh?model=text-davinci-002",
+        "4th Instance": "https://beta.openai.com/playground/p/vxo2Cy6EnnCO8inp14ejdFvW?model=text-davinci-002"
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/1YgNa3HS9lrhLOf2D3Q9HFk5hkxI1Hl77?usp=sharing"
+}
