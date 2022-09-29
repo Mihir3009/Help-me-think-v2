@@ -158,9 +158,7 @@
             "Output": "The building is structurally sound and can withstand the loads placed on it. It is designed to last for 50 years and can resist fire for 3 hours. The sprinkler system is adequate for the building.            "
         }
     ],
-    "Preset_link_Instance1": "https://beta.openai.com/playground/p/mplQf57LTnzoNWsCYLW77mM2?model=text-davinci-002",
-    "Preset_link_Instance2": "https://beta.openai.com/playground/p/ysJa4ZeN41O2eEnwhVzDUjZU?model=text-davinci-002",
-    "Preset_link_Instance3": "https://beta.openai.com/playground/p/E7qYbiUxEFqoveI82Ka5UwO8?model=text-davinci-002",
+    "Preset_link": ["https://beta.openai.com/playground/p/mplQf57LTnzoNWsCYLW77mM2?model=text-davinci-002", "https://beta.openai.com/playground/p/ysJa4ZeN41O2eEnwhVzDUjZU?model=text-davinci-002", "https://beta.openai.com/playground/p/E7qYbiUxEFqoveI82Ka5UwO8?model=text-davinci-002"],
     "screenshot_link_instance1": "https://drive.google.com/file/d/1ETS6AL9lczgRaCp028u_nFKKugm-pxgS/view?usp=sharing",
     "screenshot_link_instance2": "https://drive.google.com/file/d/1onlU_irjJm615KfjZAnxAf-iTn-JeyOI/view?usp=sharing",
     "screenshot_link_instance3": "https://drive.google.com/file/d/1i_PvbP2hCR95u3s1LeJlVV1S-lSk-IgR/view?usp=sharing"
