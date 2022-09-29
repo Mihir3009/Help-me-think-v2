@@ -107,7 +107,7 @@
                     "Answer": "No"
                 }
             ],
-            "output": "Overall, I think Prospect Park is a safe place to visit. I have been going to the park for a while and have only felt unsafe on a couple of occasions. I think the park could be made even safer by increasing the lighting in certain areas and by having more security guards patrolling the park."
+            "Output": "Overall, I think Prospect Park is a safe place to visit. I have been going to the park for a while and have only felt unsafe on a couple of occasions. I think the park could be made even safer by increasing the lighting in certain areas and by having more security guards patrolling the park."
         },
         {
             "QApair": [
@@ -156,7 +156,7 @@
                     "Answer": "Yes, I think the park is clean."
                 }
             ],
-            "output": "I think the park is safe because I have never felt unsafe while visiting and I have never seen any crime. The park is also well-lit and clean, which makes it a safe environment for people to enjoy."
+            "Output": "I think the park is safe because I have never felt unsafe while visiting and I have never seen any crime. The park is also well-lit and clean, which makes it a safe environment for people to enjoy."
         }
     ],
     "Preset_link": [
