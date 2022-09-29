@@ -1,0 +1,151 @@
+{
+    "Domain": "Performance art",
+    "Task": "Performance art documenter",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert performance art documenter. I will ask some questions to collect information and then I will use the information to search the internet and present you with the type of performance art that interest you and fit your personality.",
+        "task_specific_prompt": "Write a performance art type that will be a great fit for the person above using the questions and answers above. Use the internet to search for the various types that exists."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the artist you are interested in?",
+                    "Answer": "I am interested in Marina Abramović."
+                },
+                {
+                    "Question": "What are some of the topics or themes that interest you?",
+                    "Answer": "I am interested in themes of endurance, self-transformation, and memory."
+                },
+                {
+                    "Question": "What are some of your favorite materials or mediums?",
+                    "Answer": "I enjoy any thing that involves video, photography, text, and installation."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "I like dark colors."
+                },
+                {
+                    "Question": "What is your favorite shape?",
+                    "Answer": "I like organic shapes."
+                },
+                {
+                    "Question": "What is your favorite time of day?",
+                    "Answer": "I like the nighttime, mornings, and afternoon."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "I like winter and summer."
+                },
+                {
+                    "Question": "What is your favorite weather?",
+                    "Answer": "I like cloudy, cool, and rainy weather."
+                },
+                {
+                    "Question": "What is your favorite place?",
+                    "Answer": "I like dark, quiet, and secluded places."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "I like sushi, Thai food, and Indian food."
+                }
+            ],
+            "Output": "The type of performance art that would be a great fit for the person above is endurance art. This type of performance art usually involves the artist putting themselves in a difficult or challenging situation and see how long they can last. This can be done through various means such as holding a certain position for a long period of time, not eating or drinking, or even not sleeping. This type of performance art is often seen as a way for the artist to test their limits and see how much they can endure. It is also often seen as a way for the artist to create a physical and mental transformation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some things that interest you?",
+                    "Answer": "Some things that interest me are exploring different cultures, trying new things, and learning new skills. I also enjoy watching in performance art."
+                },
+                {
+                    "Question": "What are some things that you are passionate about?",
+                    "Answer": "I am passionate about social justice, human rights, and equality. I also love learning about different cultures and religions."
+                },
+                {
+                    "Question": "What are some things that make you feel happy?",
+                    "Answer": "Some things that make me feel happy are spending time with loved ones, and being around nature."
+                },
+                {
+                    "Question": "What are some things that make you feel sad?",
+                    "Answer": "Some things that make me feel sad are social injustice, poverty, war and gender inequality."
+                },
+                {
+                    "Question": "What are some things that make you feel angry?",
+                    "Answer": "Some things that make me feel angry are racism, sexism, and bigotry in general."
+                },
+                {
+                    "Question": "What are some things that make you feel scared?",
+                    "Answer": "Some things that make me feel scared are heights, public speaking, and small or crowded places."
+                },
+                {
+                    "Question": "What are some things that make you feel excited?",
+                    "Answer": "Some things that make me feel excited are traveling, learning new things, and meeting new people."
+                },
+                {
+                    "Question": "What are some things that make you feel uncomfortable?",
+                    "Answer": "Some things that make me feel uncomfortable are violence, blood, and horror movies."
+                },
+                {
+                    "Question": "What are some things that you are curious about?",
+                    "Answer": "Some things that I am curious about are human mind and psychology."
+                },
+                {
+                    "Question": "What are some things that you find beautiful?",
+                    "Answer": "Some things that I find beautiful are nature wonders around the world."
+                }
+            ],
+            "Output": "Based on the interests, passions, and emotions expressed above, I believe that the person would be interested in a type of performance art that is designed to provoke thought and create awareness about social issues. This could be something like an interactive installation that encourages viewer participation, or a street performance that aims to start a conversation about an important issue."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some things that interest you?",
+                    "Answer": "I am interested in doing things that are out of the ordinary and that push me outside of my comfort zone."
+                },
+                {
+                    "Question": "What are some things that you are passionate about?",
+                    "Answer": "I am passionate about the environment and sustainability."
+                },
+                {
+                    "Question": "What is your personality like?",
+                    "Answer": "I am a very outgoing person and I love to meet new people. I am also very creative and I like to express myself through art. I like recycling various things and make an art piece with them."
+                },
+                {
+                    "Question": "What are some things that make you feel uncomfortable?",
+                    "Answer": "I feel uncomfortable when I am in a situation where I am not in control. I also feel uncomfortable when I am not sure what is going to happen next."
+                },
+                {
+                    "Question": "What are some things that you would like to learn more about?",
+                    "Answer": "I would like to learn more about other cultures and how to communicate with people from different backgrounds. I also want to learn more about myself and what makes me motivated."
+                },
+                {
+                    "Question": "What are some things that you find challenging?",
+                    "Answer": "I find it challenging to stay motivated when I am not sure what my goals are. I also find it challenging to be patient and to not give up when things get tough. I lack perseverance."
+                },
+                {
+                    "Question": "What are some things that you find rewarding?",
+                    "Answer": "I find it rewarding when I am able to accomplish something that I have been working hard on. I also find it rewarding to help others and to see them succeed."
+                },
+                {
+                    "Question": "What are some things that you are afraid of?",
+                    "Answer": "I am afraid of failure and I am also afraid of not being good enough."
+                },
+                {
+                    "Question": "What are some things that you value?",
+                    "Answer": "I value honesty, loyalty, and respect."
+                },
+                {
+                    "Question": "What are some things that you are interested in changing?",
+                    "Answer": "I am interested in changing the way that I think about myself and my abilities. I also want to change the way I handle stress and anxiety."
+                }
+            ],
+            "Output": "The type of performance art that would be a great fit for the person above is called 'Dadaism.' Dadaism is a type of art that is based on the principle of anti-rationalism and anti-bourgeois. It is a type of art that is meant to challenge the norms and to push boundaries. It is also a type of art that is very expressive and that allows for a lot of creativity."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3HmZsgyBpnCchlZHbIQPJSQF?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/w3uSiSt3Mou1NyD4H9sApWtx?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YbrBkBcVGy6x0gWnNeV5jDvR?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1w0f04elN1bjKvLFcB6ISzRACfgHc3q1I?usp=sharing"
+}

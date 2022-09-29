@@ -67,3 +67,11 @@ File Name | Domain | Task
 `task_0060_digital imaging.json` | Digital Imaging | Writing a guide on digital imaging techniques
 `task_0061_social media.json` | Social Media | Writing a product promotion blog
 `task_0062_digital imaging.json` | Digital Imaging | Writing a lecture on digital imaging
+`task_0063_performance art.json` | Performance art | Performance artist
+`task_0064_sports.json` | Sports | Baseball pitcher
+`task_0065_sports.json` | Sports | sports journalist
+`task_0066_performance art.json` | Performance art | Performance art documenter
+`task_0067_sports.json` | Sports | Athletic trainer
+`task_0068_performance art.json` | Performance art | Artist & Choregrapher
+`task_0069_sports.json` | Sports | Soccer referee
+`task_0070_performance art.json` | Performance art | Performance art critic
