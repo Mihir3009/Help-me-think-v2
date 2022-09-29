@@ -79,7 +79,7 @@
                     "Answer": "My favorite thing about the park is the playground."
                 }
             ],
-            "output": "Daley Park is a great park for picnicking, playing sports, and walking. The playground is my favorite amenity because it's great for kids. The park is clean and well-maintained, and it's also safe. I would definitely recommend it to others."
+            "Output": "Daley Park is a great park for picnicking, playing sports, and walking. The playground is my favorite amenity because it's great for kids. The park is clean and well-maintained, and it's also safe. I would definitely recommend it to others."
         },
         {
             "QApair": [
@@ -132,7 +132,7 @@
                     "Answer": "My favorite part of the park is the playground."
                 }
             ],
-            "output": "Daley Park is a great place to visit during the day. The park is large and offers a lot of amenities, including a playground, a swimming pool, a field house, a basketball court, and a baseball diamond. The park is also well-maintained and clean. However, I would not recommend visiting the park at night as it is not very safe."
+            "Output": "Daley Park is a great place to visit during the day. The park is large and offers a lot of amenities, including a playground, a swimming pool, a field house, a basketball court, and a baseball diamond. The park is also well-maintained and clean. However, I would not recommend visiting the park at night as it is not very safe."
         }
     ],
     "Preset_link": [
