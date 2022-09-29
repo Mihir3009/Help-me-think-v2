@@ -119,14 +119,6 @@ File Name | Domain | Task
 `task_0112_healthcare administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
 `task_0113_beverages.json` | Beverages | How to be a bartender
 `task_0114_beverages.json` | Beverages | New beverage shop
-<!-- `task_0115_hospitality.json` | Hospitality | Nurse a patient -->
-<!-- `task_0116_animal behavior.json` | Animal Behavior | Strategy to make a Animals remember Me -->
-<!-- `task_0117_animal behavior.json` | Animal Behavior | Strategy to make a Animal decide to stay in my Area
-`task_0118_animal behavior.json` | Animal Behavior | Steps to teach animals social etiquette
-`task_0119_hospitality.json` | Hospitality | Customer Service
-`task_0120_hospitality.json` | Hospitality | Care for Elderly
-`task_0121_animal behavior.json` | Animal Behavior | Strategy to Communicate/Play with Animals
-`task_0122_hospitality.json` | Hospitality | Advertisement higlighting hospitality for a Hotel -->
 `task_0123_politics.json` | Politics | interview
 `task_0124_animals right.json` | Animals Right | survey summarizer
 `task_0125_animal right.json` | Animal Right | slogan
