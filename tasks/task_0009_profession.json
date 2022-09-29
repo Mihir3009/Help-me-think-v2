@@ -1,0 +1,151 @@
+{
+    "Domain": "Profession",
+    "Task": "Use the information to describe my profession",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert programmer. I will ask some questions to collect information and then I will use the information to describe my profession.",
+        "task_specific_prompt": "Write the description of my profession using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "I am a programmer."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "I am responsible for creating and maintaining software applications. I use programming languages to write code that instructs computers to perform specific tasks. I also test and debug applications to ensure that they work correctly. In some cases, I may also be responsible for providing user support and training."
+                },
+                {
+                    "Question": "What education and training do you need for this job?",
+                    "Answer": "Most programmers have a bachelor's degree in computer science or a related field. However, some employers may require only a high school diploma or an associate's degree. Programming experience gained through internships, part-time jobs, or volunteer work can also be helpful. For job roles at the mid-senior level, programmers with a more advanced degree or specialization are preferred."
+                },
+                {
+                    "Question": "What are the key skills necessary for this job?",
+                    "Answer": "The key skills necessary for this job include strong analytical and problem-solving abilities, as well as experience with one or more programming languages. Creativity, attention to detail, and the ability to work independently are also important. It is equally important for a programmer to have good team management skills and communication skills."
+                },
+                {
+                    "Question": "What are some common challenges you face in this job?",
+                    "Answer": "Common challenges faced by programmers include code errors, software bugs, and compatibility issues. In some cases, programmers may also need to deal with tight deadlines and unrealistic client expectations. Most programmers also struggle to maintain their work-life balance. "
+                },
+                {
+                    "Question": "What are some common misconceptions about your job?",
+                    "Answer": "A common misconception about programmers is that they are nerds who spend all day sitting in front of a computer. In reality, most programmers are quite social and have a wide range of interests. Another common misconception is that programming is easy. While it is true that some programming languages are easier to learn than others, it still takes a lot of time, effort, and practice to become a proficient programmer."
+                },
+                {
+                    "Question": "What are some common career paths for this job?",
+                    "Answer": "There are many different career paths for programmers. Some programmers may choose to specialize in a particular programming language or application, while others may become systems analysts or software engineers. Some programmers may also choose to start their own software development companies. With an increasing demand for Data Analysts and Scientists, a lot of programmers are also switching to the business analytics field."
+                },
+                {
+                    "Question": "What is the job outlook for this career?",
+                    "Answer": "The job outlook for programmers is positive. According to the US Bureau of Labor Statistics, the employment of computer programmers is projected to grow by 7% from 2019 to 2029. This growth is largely due to the increasing demand for applications and software. The increase in the adoption of technology in various small-scale industries has also increased the demand for programmers."
+                },
+                {
+                    "Question": "What are some common job titles for this career?",
+                    "Answer": "Some common job titles for programmers include software developer, applications developer, web developer, and systems developer. Programmers working in the Machine Learning or Data Science domain even have designations like Machine Learning Engineer, Data Scientist, and Data Analyst."
+                },
+                {
+                    "Question": "What are the median annual salaries for this career?",
+                    "Answer": "The median annual salary for programmers in the United States is $86,550. However, salaries can vary depending on experience, location, and programming specialty. For instance, entry-level programmers may earn around $60,000 per year, while senior-level programmers can earn upwards of $120,000 per year."
+                }
+            ],
+            "Output": "Programmers are responsible for creating and maintaining software applications. They use programming languages to write code that instructs computers to perform specific tasks. Programmers also test and debug applications to ensure that they work correctly. In some cases, they may also be responsible for providing user support and training. Most programmers have a bachelor's degree in computer science or a related field. However, some employers may require only a high school diploma or an associate's degree. Programming experience gained through internships, part-time jobs, or volunteer work can also be helpful. The key skills necessary for this job include strong analytical and problem-solving abilities, as well as experience with one or more programming languages. Creativity, attention to detail, and the ability to work independently are also important. Common challenges faced by programmers include code errors, software bugs, and compatibility issues. In some cases, programmers may also need to deal with tight deadlines and unrealistic client expectations. Most programmers also struggle to maintain their work-life balance. The job outlook for programmers is positive, with the US Bureau of Labor Statistics projecting a 7% growth from 2019 to 2029. This growth is largely due to the increasing demand for applications and software."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "I am an artist."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "I am responsible for creating both traditional art and digital art."
+                },
+                {
+                    "Question": "What education and training do you need for this job?",
+                    "Answer": "Most professional artists attend art classes from a very young age. Traditional artists attend classes that teach them to draw and paint using drawing sheets, pencils, and paint. Whereas, digital artists undergo special certifications to learn how to use the software and then use their art skills to draw using them."
+                },
+                {
+                    "Question": "What are the key skills necessary for this job?",
+                    "Answer": "The key skills necessary for this job include artistic talent, determination, and commitment. Creativity and attention to detail are equally important to becoming a good and skillful artist."
+                },
+                {
+                    "Question": "What are some common challenges you face in this job?",
+                    "Answer": "Common challenges faced by artists include finding an initial aspiration for creating artwork, maintaining self-trust, and selling the artwork for a profit."
+                },
+                {
+                    "Question": "What are some common misconceptions about your job?",
+                    "Answer": "A common misconception about artists is that they are loners and spend most of their time alone. Most people also think that artists have to suffer a lot to make good artwork."
+                },
+                {
+                    "Question": "What are some common career paths for this job?",
+                    "Answer": "There are many different career paths for artists. Most traditional artists create artwork and sell it to local and international buyers. Whereas, most digital artists create artwork such as NFTs that are auctioned by people and sold to the highest bidder. Artists also help major brands design their logos and help with aspects like product advertisements and marketing."
+                },
+                {
+                    "Question": "What is the job outlook for this career?",
+                    "Answer": "The job outlook for artists is quite stagnant. With the increase in digitalization, most traditional artists are losing their jobs to digital artists. Also, with the introduction of artwork like NFT, the true value of the artwork is lost due to the extremely high cost of NFTs."
+                },
+                {
+                    "Question": "What are some common job titles for this career?",
+                    "Answer": "Some common job titles for artists include Fine artist, Art teacher, Art technician, and Illustrator."
+                },
+                {
+                    "Question": "What are the median annual salaries for this career?",
+                    "Answer": "The median annual salary for artists is $45,000. However, salaries can vary depending on experience, type of art, and specialty of the art.  For example, the Mona Lisa artwork is valued at $850 million whereas most traditional and digital art only sell for a few hundred dollars."
+                }
+            ],
+            "Output": "The job title of an artist is someone who is responsible for creating both traditional art and digital art. The key skills necessary for this job include artistic talent, determination, and commitment. Most professional artists attend art classes from a very young age to develop their skills. The challenges faced by artists include finding an initial aspiration for creating artwork, maintaining self-trust, and selling the artwork for a profit. The job outlook for artists is quite stagnant. With the increase in digitalization, most traditional artists are losing their jobs to digital artists. Also, with the introduction of artwork like NFT, the true value of the artwork is lost due to the extremely high cost of NFTs. The median annual salary for artists is $45,000. However, salaries can vary depending on experience, type of art, and specialty of the art."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "I am an photographer."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "I am responsible for taking photos for corporate events, private events, and nature photography."
+                },
+                {
+                    "Question": "What education and training do you need for this job?",
+                    "Answer": "Most professional photographers do not require any form of technical degree. They undergo training for a few months based on their photography style. Their training includes managing the angles while taking the photos, maintaining the exposure of the photos, and applying the right amount of focus on the subject. They also require training to handle expensive professional photography equipment."
+                },
+                {
+                    "Question": "What are the key skills necessary for this job?",
+                    "Answer": "The key skills necessary for this job include talent, determination, creativity and attention to detail."
+                },
+                {
+                    "Question": "What are some common challenges you face in this job?",
+                    "Answer": "Common challenges faced by photographers include finding a constant source of income, getting the right photography permission, dealing with copyright issues, and marketing the business."
+                },
+                {
+                    "Question": "What are some common misconceptions about your job?",
+                    "Answer": "A common misconception about photographers is that they require expensive equipment to take good photos. Most people also assume that photography is easy."
+                },
+                {
+                    "Question": "What are some common career paths for this job?",
+                    "Answer": "There are many different career paths for photographers. Some pursue professional photography and collaborate with major marketing firms while some pursue freelancing and studio photography."
+                },
+                {
+                    "Question": "What is the job outlook for this career?",
+                    "Answer": "The job outlook for artists is quite good. With the increasing interest of people to invest in professional photographers for special moments, photographers have an average growth percentage of 17. "
+                },
+                {
+                    "Question": "What are some common job titles for this career?",
+                    "Answer": "Some common job titles for artists include freelance photographer, studio photographer, and photojournalist."
+                },
+                {
+                    "Question": "What are the median annual salaries for this career?",
+                    "Answer": "The median annual salary for artists is $31,700. However, salaries can vary depending on experience and the type of photographs required."
+                }
+            ],
+            "Output": "Most professional photographers do not require any form of technical degree. They undergo training for a few months based on their photography style. Their training includes managing the angles while taking the photos, maintaining the exposure of the photos, and applying the right amount of focus on the subject. They also require training to handle expensive professional photography equipment. A photographer's responsibilities may include taking photos for corporate events, private events, and nature photography. They key skills necessary for this job include talent, determination, creativity, and attention to detail. Common challenges faced by photographers include finding a constant source of income, getting the right photography permission, dealing with copyright issues, and marketing the business. The job outlook for artists is quite good. With the increasing interest of people to invest in professional photographers for special moments, photographers have an average growth percentage of 17."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RaoB16K0xDnIQsOZe5ovT9yE?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/t3TUjzha2KO9ctDfAflJXKiS?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3gYouJv19q3njefAQoK723ft?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1PnV-DblYPMLP8JblP41FNe6wVkUGgqEF?usp=sharing"
+}
