@@ -44,3 +44,11 @@ File Name | Domain | Task
 `task_0037_security.json` | security | security best practices
 `task_0038_operations research .json` | operations research  | suggesting management of air traffic
 `task_0039_security.json` | security | roberry situation solution
+`task_0040_organizational behaviour.json` | ORGANIZATIONAL BEHAVIOUR | Effects of behaviour of an organization like Stanford University
+`task_0041_organizational behaviour.json` | ORGANIZATIONAL BEHAVIOUR | analyzing how Organisation behavior affects Start-Ups
+`task_0042_national security.json` | National Security | analysing dimensions of national security
+`task_0043_organizational behaviour.json` | ORGANIZATIONAL BEHAVIOUR | studying the history of an Organization's Behaviour
+`task_0044_national security.json` | National Security | Cyber Security of a Nation
+`task_0045_organizational behaviour.json` | ORGANIZATIONAL BEHAVIOUR | analyzing organizational behaviour
+`task_0046_national security.json` | National Security | Studying Indian National Security
+`task_0047_national security.json` | National Security | studying Infrastructure Security in a Nation
