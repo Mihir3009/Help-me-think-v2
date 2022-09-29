@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Shopping",
     "Task": "Shop finder",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am an expert shop finder. I will ask some questions to collect information and then I will use the information to find best shop for you",
             "task_specific_prompt": "Write a shop recommendation using the questions and answers above"
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
@@ -197,7 +195,7 @@
             "output": "Walmart would be the best store for you to buy cereal. They have a wide variety of cereals to choose from, and they are usually very affordable. You can find a lot of high-fiber cereals at Walmart, as well as a variety of flavors. You can also find some organic and gluten-free options."
         }
     ],
-    "preset_link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/FfDd1XAjRSRQEDomq7ncU1om?model=text-davinci-002",
         "https://beta.openai.com/playground/p/5kHB12wYUvLRFwSuvZkcUReG?model=text-davinci-002",
         "https://beta.openai.com/playground/p/czK7iz7PYyQPB0nTP5vdHhH6?model=text-davinci-002"
