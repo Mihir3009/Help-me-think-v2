@@ -113,8 +113,6 @@ File Name | Domain | Task
 `task_0106_foreign language.json` | Foreign Language | Generate a language translation guide
 `task_0107_fine arts.json` | Fine Arts | Generate a plan to promote fine arts in the US
 `task_0108_foreign language.json` | Foreign Language | Create a foreign language speaking guide
-`task_0109_industrial design.json` | Industrial Design | To decide a color for the new product
-`task_0110_artificial intelligence.json` | Artificial Intelligence | To get an algorithm for predicting Stock Prices
 `task_0111_astrophysics.json` | Astrophysics |  Experiment with tools and findings
 `task_0112_astrophysics.json` | Astrophysics | write detailed usage of Natural Language in Astrophysic 
 `task_0113_astrophysics.json` | Astrophysics | Write detailed usage of AI in Astrophysics
