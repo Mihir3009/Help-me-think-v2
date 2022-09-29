@@ -95,7 +95,7 @@
                     "Answer": "Lenovo"
                 }
             ],
-            "output": "The Lenovo Yoga C940 2-in-1 laptop is the perfect choice for you. It has a 15-inch screen, an Intel Core i5 processor, and a battery life of 8 hours. It is also very reasonably priced at $500."
+            "Output": "The Lenovo Yoga C940 2-in-1 laptop is the perfect choice for you. It has a 15-inch screen, an Intel Core i5 processor, and a battery life of 8 hours. It is also very reasonably priced at $500."
         },
         {
             "QApair": [
@@ -180,7 +180,7 @@
                     "Answer": "A4"
                 }
             ],
-            "output": "I recommend that you purchase a used Audi A4 that is less than five years old and is certified. The price range should be under $10000 and the preferred payment method is credit card. The preferred delivery method is pick up and the preferred location is Phoenix."
+            "Output": "I recommend that you purchase a used Audi A4 that is less than five years old and is certified. The price range should be under $10000 and the preferred payment method is credit card. The preferred delivery method is pick up and the preferred location is Phoenix."
         }
     ],
     "Preset_link": [
