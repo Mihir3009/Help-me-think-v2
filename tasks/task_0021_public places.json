@@ -1,0 +1,176 @@
+{
+    "Domain": "Public Places",
+    "Task": "I am asking for suggestions from GPT3 so that I can build a library",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert librarian. I will ask some questions to collect information and then I will use the information to compile how to create a library.",
+        "task_specific_prompt": "Write a compilation using the questions and answers above. And elaborate on a few points."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many bookshelves do you need for your library?",
+                    "Answer": "You will need at least hundreds of bookshelves for your library."
+                },
+                {
+                    "Question": "What type of bookshelves do you need for your library?",
+                    "Answer": "The type of bookshelves you need for your library depends on the size and weight of the books you plan to store. I plan to have a large number of lightweight books."
+                },
+                {
+                    "Question": "Do you need a ladder for your library?",
+                    "Answer": "I do not need a ladder for my library."
+                },
+                {
+                    "Question": "What type of lighting do you need for your library?",
+                    "Answer": "I need bright lighting for my library so I can see the spines of the books."
+                },
+                {
+                    "Question": "What type of flooring do you need for your library?",
+                    "Answer": "I need hardwood flooring for my library so the bookshelves will not damage the cement floor."
+                },
+                {
+                    "Question": "Do you need furniture for your library?",
+                    "Answer": "I need comfortable chairs and couches for my library so people and staff can read for long periods of time."
+                },
+                {
+                    "Question": "Do you need a security system for your library?",
+                    "Answer": "I need a security system that will alert the police if someone breaks into my library, or tries to steal books."
+                },
+                {
+                    "Question": "Do you need a alarm system for your library?",
+                    "Answer": "Yes, I need a fire alarm system for my library."
+                },
+                {
+                    "Question":"What type of alarm system do you need for your library?",
+                    "Answer":"I need a fire alarm system that will alert the fire department if there is a fire or smoke in my library."
+                },
+                {
+                    "Question":"Do you need a sprinkler system for your library?",
+                    "Answer":"No, I do not want a water-based fire repellant."
+                },
+                {
+                    "Question":"Do you need climate control for your library?",
+                    "Answer":"Yes, I need climate control for my library so that the books do not get damaged by heat or humidity."
+                }
+
+            ],
+            "Output": "A library needs at least hundreds of bookshelves. The type of bookshelves you need for your library depends on the size and weight of the books you plan to store. I plan to have a large number of lightweight books. I do not need a ladder for my library. I need bright lighting for my library so I can see the spines of the books. I need hardwood flooring for my library so the bookshelves will not damage the cement floor. Yes, I need furniture for my library so that people can sit down and read peacefully. I need comfortable chairs and couches for my library so people and staff can read for long periods of time. Yes, I need a security system for my library. I need a security system that will alert the police if someone breaks into my library, or tries to steal books. Yes, I need a fire alarm system for my library. I need a fire alarm system that will alert the fire department if there is a fire or smoke in my library. No, I do not want a water-based fire repellant. Yes, I need climate control for my library so that the books do not get damaged by heat or humidity."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many bookshelves do you need for your library?",
+                    "Answer": "You will need at least fifty of bookshelves for your library."
+                },
+                {
+                    "Question": "What type of bookshelves do you need for your library?",
+                    "Answer": "I plan to have a large number of lightweight books. Which are small to medium in size."
+                },
+                {
+                    "Question": "Do you need a ladder for your library?",
+                    "Answer": "I do not need a ladder for my library. I want it accessible for people of all heights."
+                },
+                {
+                    "Question": "What type of lighting do you need for your library?",
+                    "Answer": "I need natural lighting for my library so I can see the spines of the books. I want a lot of open spaces."
+                },
+                {
+                    "Question": "What type of flooring do you need for your library?",
+                    "Answer": "I need wooden flooring for my library so the bookshelves will not damage the floor. So that we can move shelves without an issue."
+                },
+                {
+                    "Question": "Do you need furniture for your library?",
+                    "Answer": "Yes, I  need furniture for my library so that people can sit down and read peacefully."
+                },
+                {
+                    "Question": "What type of furniture do you need for your library?",
+                    "Answer": "I need comfortable chairs and couches for my library so people and staff can read for long periods of time. Like tables, chairs, whiteboards, etc need to be there."
+                },
+                {
+                    "Question": "Do you need a security system for your library?",
+                    "Answer": "No, I need a complete security system for my library."
+                },
+                {
+                    "Question": "What type of security system do you need for your library?",
+                    "Answer": "I need a security system that will alert the police if someone breaks into my library, or tries to steal books."
+                },
+                {
+                    "Question": "Do you need a alarm system for your library?",
+                    "Answer": "Yes, I need a fire alarm system for my library."
+                },
+                {
+                    "Question": "What type of alarm system do you need for your library?",
+                    "Answer": "I need an alarm system that will alert the fire department if there is a fire or smoke in my library."
+                },
+                {
+                    "Question": "Do you need a sprinkler system for your library?",
+                    "Answer": "I do not want a water-based fire repellant."
+                },
+                {
+                    "Question": "Do you need climate control for your library?",
+                    "Answer": "I would need a good all-weather climate control system to handle all conditions."
+                }
+            ],
+            "Output": "You will need at least fifty bookshelves for your library. I plan to have a large number of lightweight books which are small to medium in size. I do not need a ladder for my library. I want it accessible for people of all heights. I need natural lighting for my library so I can see the spines of the books. I want a lot of open spaces. I need wooden flooring for my library so the bookshelves will not damage the floor. So that we can move shelves without an issue. Yes, I need furniture for my library so that people can sit down and read peacefully. I need comfortable chairs and couches for my library so people and staff can read for long periods of time. Like tables, chairs, whiteboards, etc need to be there. No, I need a complete security system for my library. I need a security system that will alert the police if someone breaks into my library, or tries to steal books. Yes, I need a fire alarm system for my library. I need an alarm system that will alert the fire department if there is a fire or smoke in my library. I do not want a water-based fire repellant. I would need a good all-weather climate control system to handle"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many bookshelves do you need for your library?",
+                    "Answer": "I need like 20 bookshelves."
+                },
+                {
+                    "Question": "What type of bookshelves do you need for your library?",
+                    "Answer": "I plan to have a large number of lightweight books. Which are small to medium in size."
+                },
+                {
+                    "Question": "Do you need a ladder for your library?",
+                    "Answer": "I want a ladder for my library."
+                },
+                {
+                    "Question": "What type of lighting do you need for your library?",
+                    "Answer": "I need sunlight lighting for my library. I want a lot of windows."
+                },
+                {
+                    "Question": "What type of flooring do you need for your library?",
+                    "Answer": "I need granite flooring."
+                },
+                {
+                    "Question": "Do you need furniture for your library?",
+                    "Answer": "Yes, I  need furniture for my library so that people can sit down and read peacefully. "
+                },
+                {
+                    "Question": "What type of furniture do you need for your library?",
+                    "Answer": "I need comfortable chairs and couches, also designated rooms for individual study."
+                },
+                {
+                    "Question": "Do you need a security system for your library?",
+                    "Answer": "I need a normal security system for my library."
+                },
+                {
+                    "Question": "What type of security system do you need for your library?",
+                    "Answer": "I need a security system that will alert the police if someone breaks into my library, or tries to steal books."
+                },
+                {
+                    "Question": "Do you need a alarm system for your library?",
+                    "Answer": "Yes, I need a fire alarm system for my library."
+                },
+                {
+                    "Question": "What type of alarm system do you need for your library?",
+                    "Answer": "I need a security system that will alert the staff if someone tries to sneak books."
+                },
+                {
+                    "Question": "Do you need a sprinkler system for your library?",
+                    "Answer": "Yes, I want a sprinkler system on all floors."
+                },
+                {
+                    "Question": "Do you need climate control for your library?",
+                    "Answer": "I would need a good all-weather climate control system to handle all conditions, especially the heat and cold in Arizona."
+                }
+            ],
+            "Output": "To create a library, you will need \n-20 bookshelves \n-A ladder \n-Sunlight lighting \n-Granite flooring \n-Furniture including comfortable chairs and couches \n-A security system that alerts the staff if someone tries to sneak books \n-An alarm system that alerts the fire department in the event of a fire \n-A sprinkler system on all floor \n-A good all-weather climate control system"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/QqHKy46SthMqohtljjSXvN1x?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1RRhmF6GjlvKHfIr0wGsBA4xLFzdlYZZ6/view?usp=sharing"
+}
