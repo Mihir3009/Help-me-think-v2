@@ -109,3 +109,13 @@ File Name | Domain | Task
 `task_0102_floral design.json` | Floral Design | To suggest good corsage.
 `task_0103_political geography.json` | Political Geography | To suggest whether the country is geographically protected from war.
 `task_0104_floral design.json` | Floral Design | To suggest good flower bouquet.
+`task_0105_fine arts.json` | Fine Arts | Generate a plan for a photoshoot
+`task_0106_foreign language.json` | Foreign Language | Generate a language translation guide
+`task_0107_fine arts.json` | Fine Arts | Generate a plan to promote fine arts in the US
+`task_0108_foreign language.json` | Foreign Language | Create a foreign language speaking guide
+`task_0109_beverages.json` | Beverages | Advertisement
+`task_0110_healthcare administration.json` | Healthcare Administration | Vaccine Inventory Management
+`task_0111_beverages.json` | Beverages | Making Tea
+`task_0112_healthcare administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
+`task_0113_beverages.json` | Beverages | How to be a bartender
+`task_0114_beverages.json` | Beverages | New beverage shop
