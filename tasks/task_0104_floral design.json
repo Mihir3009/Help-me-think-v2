@@ -1,0 +1,159 @@
+{
+    "Domain": "Floral Design",
+    "Task": "To suggest good flower bouquet.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert floral designer. I will ask some questions to collect information and then I will use the information to suggest the best design wedding floor using flowers.",
+        "task_specific_prompt": "Suggest the good bouquet option based on questions and answer above in detail."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Valentine Day."
+                },
+                {
+                    "Question": "What is the budget?",
+                    "Answer": "$30."
+                },
+                {
+                    "Question": "What is the preferred color scheme?",
+                    "Answer": "Red and pink."
+                },
+                {
+                    "Question": "Do you have any other specific requests?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What is the delivery date?",
+                    "Answer": "February 14th."
+                },
+                {
+                    "Question": "What is the delivery location?",
+                    "Answer": "Los Angeles, CA."
+                },
+                {
+                    "Question": "What is the recipients favorite flower?",
+                    "Answer": "Roses."
+                },
+                {
+                    "Question": "Do you have a preferred florist?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What is the delivery time?",
+                    "Answer": "11:00 AM."
+                },
+                {
+                    "Question": "What is the message you would like to include?",
+                    "Answer": "Happy Valentine's Day!"
+                },
+                {
+                    "Question": "Do you have a preferred type of vase?",
+                    "Answer": "White round."
+                },
+                {
+                    "Question": "What is the preferred size?",
+                    "Answer": "12 inches."
+                }
+            ],
+            "Output": "For the budget of $30, the preferred color scheme of red and pink, and the delivery date of February 14th, these are the good bouquet options:1. A bouquet of a dozen red roses.2. A mixed bouquet of red and pink roses. 3. A bouquet of red and pink carnations. 4. A bouquet of red and pink tulips."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "The occasion is a wedding."
+                },
+                {
+                    "Question": "What is the bride's favorite color?",
+                    "Answer": "The bride's favorite color is blue."
+                },
+                {
+                    "Question": "What is the groom's favorite color?",
+                    "Answer": "The groom's favorite color is red."
+                },
+                {
+                    "Question": "What is the bride's favorite flower?",
+                    "Answer": "The bride's favorite flower is the rose."
+                },
+                {
+                    "Question": "What is the groom's favorite flower?",
+                    "Answer": "The groom's favorite flower is the orchid."
+                },
+                {
+                    "Question": "What is the wedding theme?",
+                    "Answer": "The wedding theme is rustic."
+                },
+                {
+                    "Question": "What is the bride's bouquet budget?",
+                    "Answer": "The bride's bouquet budget is $200."
+                },
+                {
+                    "Question": "What is the groom's boutonniere budget?",
+                    "Answer": "The groom's boutonniere budget is $50."
+                },
+                {
+                    "Question": "What is the color scheme of the wedding?",
+                    "Answer": "The color scheme of the wedding is blue and red."
+                },
+                {
+                    "Question": "What is the style of the wedding?",
+                    "Answer": "The style of the wedding is rustic."
+                }
+            ],
+            "Output": "One good bouquet option for the bride would be a rustic arrangement of blue roses and red orchids. This bouquet would be within the budget and would incorporate the bride and groom's favorite colors and flowers."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion for which you need the bouquet?",
+                    "Answer": "The occasion is a romantic dinner."
+                },
+                {
+                    "Question": "What is the budget for the bouquet?",
+                    "Answer": "The budget is $50."
+                },
+                {
+                    "Question": "What is the preferred color scheme for the bouquet?",
+                    "Answer": "The preferred color scheme is purple and white."
+                },
+                {
+                    "Question": "What is the preferred type of flower for the bouquet?",
+                    "Answer": "No idea."
+                },
+                {
+                    "Question": "Is there a preferred shape or size for the bouquet?",
+                    "Answer": "Idea Size."
+                },
+                {
+                    "Question": "What is the preferred delivery date for the bouquet?",
+                    "Answer": "The preferred delivery date is ASAP."
+                },
+                {
+                    "Question": "What is the delivery zip code?",
+                    "Answer": "The delivery zip code is 90210."
+                },
+                {
+                    "Question": "What is the card message to be included with the bouquet?",
+                    "Answer": "I love You."
+                },
+                {
+                    "Question": "Is there anything else you would like us to know?",
+                    "Answer": "It is very special day, so please make it attractive."
+                },
+                {
+                    "Question": "Would you like us to include a vase with the bouquet?",
+                    "Answer": "Yes, please include a vase with the bouquet."
+                },
+                {
+                    "Question": "Do you have any other special instructions for us?",
+                    "Answer": "No, thank you."
+                }
+            ],
+            "Output": "Based on the information provided, we suggest the Purple Passion bouquet. This bouquet features purple and white flowers in a heart-shaped arrangement. It is the perfect way to say 'I love you' on a romantic dinner. The bouquet is $50 and includes a free vase."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/kogsjlkaW1KdnplQdWQRa91c?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1-B3AJ7chDdDEbJz5CWHdekbs32BqStjg?usp=sharing"
+}

@@ -95,3 +95,17 @@ File Name | Domain | Task
 `task_0088_physician assistant.json` | Physician Assistant | Physician Recommender
 `task_0089_physician assistant.json` | Physician Assistant | prescribe medication
 `task_0090_ted talks.json` | TED Talks | write a TED Talk
+`task_0091_aerospace engineering.json` | Aerospace Engineering | Predicting satellite's next maintenance time based on its data
+`task_0092_gambling.json` | Gambling | Suggesting best possible place for landing in case of emergency flight landing
+`task_0093_gambling.json` | Gambling | Generating report of aircraft's accident
+`task_0094_aerospace engineering.json` | Aerospace Engineering | Generating instruction for autopilot facility during flight
+`task_0095_aerospace engineering.json` | Aerospace Engineering | Generating report of aircraft's accident
+`task_0096_gambling.json` | Gambling | Predicting satellite's next maintenance time based on its data
+`task_0097_aerospace engineering.json` | Aerospace Engineering | Suggesting best possible place for landing in case of emergency flight landing
+`task_0098_political geography.json` | Political Geography | To suggest relationships between states including international trades and treaties
+`task_0099_floral design.json` | Floral Design | To suggest best flower wedding floor
+`task_0100_political geography.json` | Political Geography | To suggest political implications of modern media on your country.
+`task_0101_political geography.json` | Political Geography | To suggest the possibility of terrorist activities in your city.
+`task_0102_floral design.json` | Floral Design | To suggest good corsage.
+`task_0103_political geography.json` | Political Geography | To suggest whether the country is geographically protected from war.
+`task_0104_floral design.json` | Floral Design | To suggest good flower bouquet.
