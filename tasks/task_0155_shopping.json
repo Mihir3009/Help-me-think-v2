@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Shopping",
     "Task": "reseller",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am an expert reselling agent. I will ask some questions to collect information and then I will use the information to find best product for you",
             "task_specific_prompt": "Write a reselling product recommendation using the questions and answers above"
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
@@ -185,7 +183,7 @@
             "output": "I recommend that you purchase a used Audi A4 that is less than five years old and is certified. The price range should be under $10000 and the preferred payment method is credit card. The preferred delivery method is pick up and the preferred location is Phoenix."
         }
     ],
-    "preset_link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/lEAYHUKXQRJLTEsP0RbmEscH?model=text-davinci-002",
         "https://beta.openai.com/playground/p/Rbgt0jGI3xRF0CIUnSzi2DW3?model=text-davinci-002",
         "https://beta.openai.com/playground/p/DDmnGYhp0Ltl3C5xtuGBSJzK?model=text-davinci-002"
