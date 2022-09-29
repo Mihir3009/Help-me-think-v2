@@ -96,12 +96,6 @@ File Name | Domain | Task
 `task_0218_systems_engineering.json` | Systems Engineering | Predict if your idea will be successful
 `task_0219_systems_engineering.json` | Systems Engineering | Advertise your system to stakeholders
 `task_0220_systems_engineering.json` | Systems Engineering | Write baseline requirements for your system
-`task_0221_restaurant_management.json` | Restaurant Management | Restaurant Rater
-`task_0222_criminal_justice.json` | Criminal Justice | Expert Judge
-`task_0223_criminal_justice.json` | Criminal Justice | Crime News Reporter
-`task_0224_criminal_justice.json` | Criminal Justice | Fake Lawyer (How to get away with Anything?)
-`task_0225_criminal_justice.json` | Criminal Justice | Murder Mystery Generator
-`task_0226_restaurant_management.json` | Restaurant Management | Restaurant Advertisement Generator
 `task_0227_emergency_management.json` | Emergency Management | No.3: Nulcear war risk
 `task_0228_emergency_management.json` | Emergency Management | No.2: Do we need a lockdown?
 `task_0229_commentary.json` | Commentary | No.5 Market commentary
