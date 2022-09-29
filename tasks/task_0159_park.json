@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Park",
     "Task": "Park critic",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am an expert park critic. I will ask some questions to collect information and then I will use the information to find good and bad about park for you",
             "task_specific_prompt": "Write a park review using the questions and answers above"
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
@@ -137,7 +135,7 @@
             "output": "Daley Park is a great place to visit during the day. The park is large and offers a lot of amenities, including a playground, a swimming pool, a field house, a basketball court, and a baseball diamond. The park is also well-maintained and clean. However, I would not recommend visiting the park at night as it is not very safe."
         }
     ],
-    "preset_link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/lEAYHUKXQRJLTEsP0RbmEscH?model=text-davinci-002",
         "https://beta.openai.com/playground/p/7yJskQalGvUJcWKWTbVTEuDU?model=text-davinci-002",
         "https://beta.openai.com/playground/p/5rmseBk9wQpYke97Bqmfu6wF?model=text-davinci-002"
