@@ -50,7 +50,7 @@
                     "Answer": "Banks won't make money on the interest"
                 }
             ],
-            "output": "I believe that we should forgive student debt for Americans. The debt is preventing people from pursuing their lives and dreams, and it is holding back our economy. The cost of forgiving the debt is relatively low, and the benefits are great."
+            "Output": "I believe that we should forgive student debt for Americans. The debt is preventing people from pursuing their lives and dreams, and it is holding back our economy. The cost of forgiving the debt is relatively low, and the benefits are great."
         },
         {
             "QApair": [
@@ -95,7 +95,7 @@
                     "Answer": "People won't need to take out loans anymore"
                 }
             ],
-            "output": "I think that we should forgive student debt for Americans because it will have a lot of economic benefits. People will no longer need to take out loans and they won't have to worry about the consequences of defaulting on their loans. This will free up a lot of money that can be used for other things, such as buying a house or starting a business."
+            "Output": "I think that we should forgive student debt for Americans because it will have a lot of economic benefits. People will no longer need to take out loans and they won't have to worry about the consequences of defaulting on their loans. This will free up a lot of money that can be used for other things, such as buying a house or starting a business."
         },
         {
             "QApair": [
@@ -140,7 +140,7 @@
                     "Answer": "The rich won't get richer"
                 }
             ],
-            "output": "I would not recommend forgiving student debt for Americans. The average level of debt is quite high, and the default rate is also quite high. Forgiving student debt could lead to more borrowing and higher tuition prices. It would also have negative economic consequences, as it would mean that the rich would not get richer."
+            "Output": "I would not recommend forgiving student debt for Americans. The average level of debt is quite high, and the default rate is also quite high. Forgiving student debt could lead to more borrowing and higher tuition prices. It would also have negative economic consequences, as it would mean that the rich would not get richer."
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/QAR08lWUTm2WWofGOXsyyHYW?model=text-davinci-002",
