@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Park",
     "Task": "Park Designer",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am an expert park designer. I will ask some questions to collect information and then I will use the information to design park",
             "task_specific_prompt": "Write about park design using the questions and answers above"
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
@@ -149,7 +147,7 @@
             "output": "The park should be designed to provide recreation and relaxation for the community. It should be safe and enjoyable for the community. The park should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year."
         }
     ],
-    "preset_link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/Bc9Gb8Z3oHDYUR6ZksAfxkOj?model=text-davinci-002",
         "https://beta.openai.com/playground/p/9I8ivdRFJZPwwIL8RQnOSwAM?model=text-davinci-002",
         "https://beta.openai.com/playground/p/Ww7iAATmOsfaBIjlMx8lMrCB?model=text-davinci-002"
