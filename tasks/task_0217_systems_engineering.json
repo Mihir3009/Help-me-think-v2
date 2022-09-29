@@ -50,7 +50,7 @@
                     "Answer": "nope"
                 }
             ],
-            "output": "This project is involved with engineering and robotics. The engineering discipline will be responsible for designing and building the cat robot, and the robotics discipline will be responsible for programming the robot to walk and play with kids."
+            "Output": "This project is involved with engineering and robotics. The engineering discipline will be responsible for designing and building the cat robot, and the robotics discipline will be responsible for programming the robot to walk and play with kids."
         },
         {
             "QApair": [
@@ -95,7 +95,7 @@
                     "Answer": "my parents"
                 }
             ],
-            "output": "The project is involved with software engineering, computer science, and information technology. They specialize in developing applications, programming, and designing computer systems."
+            "Output": "The project is involved with software engineering, computer science, and information technology. They specialize in developing applications, programming, and designing computer systems."
         },
         {
             "QApair": [
@@ -140,7 +140,7 @@
                     "Answer": "elon musk"
                 }
             ],
-            "output": "Healthy eating - Cooking, Nutrition, Food Science. Making eating healthy fun - Psychology, Marketing. Finding good food - Food Science, Cooking"
+            "Output": "Healthy eating - Cooking, Nutrition, Food Science. Making eating healthy fun - Psychology, Marketing. Finding good food - Food Science, Cooking"
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/qeCxRDlOpF9kWBq8DrPqRdhs?model=text-davinci-002",
