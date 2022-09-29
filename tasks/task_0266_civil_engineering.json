@@ -166,10 +166,14 @@
             "Output": "The highway road will be constructed of concrete and stone pavement. The pavement will be 12 inches thick and will have a slope of 2%. The grade of the pavement will be 6% and the cross slope will be 5%. The highway will be 20 feet wide and will have a 10-foot wide shoulder. The speed limit on the highway will be 77 mph. The highway will be constructed to accommodate cars and heavy trucks. The highway will lead from Tempe, Arizona to Las Vegas, California.            "
         }
     ],
-    "Preset_link_Instance1": "https://beta.openai.com/playground/p/qH6qhzScryhX1CSQAA9zRQGy?model=text-davinci-002",
-    "Preset_link_Instance2": "https://beta.openai.com/playground/p/sfCOf9sflTvLfrPJTSXu6s2b?model=text-davinci-002",
-    "Preset_link_Instance3": "https://beta.openai.com/playground/p/qBjMyUDdE1lIIgZ5C1ZEl2rw?model=text-davinci-002",
-    "screenshot_link_Instance1": "https://drive.google.com/file/d/1Ed0viz2bMg40EzUeGzYSCQ9nl3nq3uPk/view?usp=sharing",
-    "screenshot_link_Instance2": "https://drive.google.com/file/d/1HcWGHX0EYxswPQtR3wXbt6XVfXUX7gDx/view?usp=sharing",
-    "screenshot_link_Instance3": "https://drive.google.com/file/d/1GzaUYsu3jJAWA-5_EllFWKcWbzR0JMO_/view?usp=sharing"
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/qH6qhzScryhX1CSQAA9zRQGy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sfCOf9sflTvLfrPJTSXu6s2b?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qBjMyUDdE1lIIgZ5C1ZEl2rw?model=text-davinci-002"
+     ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1Ed0viz2bMg40EzUeGzYSCQ9nl3nq3uPk/view?usp=sharing",
+        "https://drive.google.com/file/d/1HcWGHX0EYxswPQtR3wXbt6XVfXUX7gDx/view?usp=sharing",
+        "https://drive.google.com/file/d/1GzaUYsu3jJAWA-5_EllFWKcWbzR0JMO_/view?usp=sharing"
+    ]
 }
