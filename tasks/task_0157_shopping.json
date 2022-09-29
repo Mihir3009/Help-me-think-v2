@@ -119,7 +119,7 @@
                     "Answer": "email: ____________"
                 }
             ],
-            "output": "The best deal for a comfortable, stylish, gaming friendly chair that is less than $200 and has ergonomic design is the Homall Executive Swivel Leather Gaming Chair. This chair is available on Amazon for $99.99 with free shipping. It has excellent reviews and would be a great option for anyone looking for a gaming chair on a budget."
+            "Output": "The best deal for a comfortable, stylish, gaming friendly chair that is less than $200 and has ergonomic design is the Homall Executive Swivel Leather Gaming Chair. This chair is available on Amazon for $99.99 with free shipping. It has excellent reviews and would be a great option for anyone looking for a gaming chair on a budget."
         },
         {
             "QApair": [
@@ -180,7 +180,7 @@
                     "Answer": "No"
                 }
             ],
-            "output": "I found a great deal on a gaming chair that is comfortable, stylish, and gaming friendly. The chair is black and blue, has adjustable height, and is easily movable. The chair is available from local stores closest to me and can be delivered by Wednesday. The total cost for the chair is less than $200."
+            "Output": "I found a great deal on a gaming chair that is comfortable, stylish, and gaming friendly. The chair is black and blue, has adjustable height, and is easily movable. The chair is available from local stores closest to me and can be delivered by Wednesday. The total cost for the chair is less than $200."
         }
     ],
     "Preset_link": [
