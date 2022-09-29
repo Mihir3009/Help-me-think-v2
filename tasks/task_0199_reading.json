@@ -1,0 +1,172 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Reading",
+    "Task": "Plan to improve reading vocabulary and comprehension for language scholar",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert language scholar I will ask some questions to collect information and then I will use the information to plan improve my reading vocabulary and comprehension\n\n",
+        "task_specific_prompt": "Write a learning strategy for me to improve my reading vocabulary and comprehension using the questions and answers above. Help me learn how to read 500 page books in one session."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How does your reading habits affect your vocabulary and comprehension?",
+                    "Answer": "My reading habits definitely affect my vocabulary and comprehension. If I don't read regularly, my vocabulary will suffer and my comprehension will as well. I need to read a variety of books, newspapers, and magazines to keep my mind sharp.'"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I use a number of strategies to improve my reading comprehension. I read slowly and carefully, and I try to identify key ideas and concepts. I also highlight or underline important information, and I take notes as I read. I also try to summarize what I've read in my own words."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read. I have a busy schedule, and it's often difficult to find time to just sit down and read. Another challenge is finding material that is at my level. I often find myself reading articles or books that are too difficult, and this can be frustrating."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension are to be able to read faster and to be able to understand more complex material. I would also like to be able to retain more information after I read it."
+                },
+                {
+                    "Question": "What do you think are the most important skills for reading comprehension?",
+                    "Answer": "I think the most important skills for reading comprehension are the ability to read quickly and to identify key ideas. Other important skills include the ability to take notes and to summarize information."
+                },
+                {
+                    "Question": "What do you think are the most effective methods for improving reading comprehension?",
+                    "Answer": "I think the most effective methods for improving reading comprehension are to read regularly, to read a variety of material, and to practice active reading strategies."
+                },
+                {
+                    "Question": "How do you plan to use the information you gathered to improve your reading comprehension?",
+                    "Answer": "I plan to use the information I gathered to improve my reading comprehension by implementing the strategies I learned. I will make a point to read regularly, to read a variety of material, and to practice active reading strategies. I will also continue to seek out books, articles, and other resources that are at my level so that I can challenge myself and continue to improve."
+                },
+                {
+                    "Question": "Do you have any other suggestions for improving reading comprehension?",
+                    "Answer": "I think it's important to find material that is interesting and engaging. If you're not interested in what you're reading, it will be difficult to focus and comprehend the material. It's also important to read at your level. If you're reading material that is too difficult, you'll likely get frustrated and give up. And finally, don't be afraid to ask for help. If you're struggling to understand something, ask a friend or family member, or look up the material online."
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "Read hard and play hard"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I use a number of strategies to improve my reading comprehension. I read slowly and carefully, and I try to identify key ideas and concepts. I also highlight or underline important information, and I take notes as I read. I also try to summarize what I've read in my own words."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read. I have a busy schedule, and it's often difficult to find time to just sit down and read. Another challenge is finding material that is at my level. I often find myself reading articles or books that are too difficult, and this can be frustrating."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension are to be able to read faster and to be able to understand more complex material. I would also like to be able to retain more information after I read it."
+                }
+            ],
+            "Output": "Here is a suggested learning strategy to improve your reading vocabulary and comprehension:\n1. Read regularly: Make time each day to read for at least 30 minutes. This can be done all at once or in smaller increments throughout the day.\n2. Read a variety of material: expose yourself to different types of reading material, such as books, articles, magazines, and websites. This will help to improve your vocabulary and comprehension skills.\n3. Practice active reading strategies: when you are reading, try to identify key ideas and concepts, take notes, and summarize what you have read in your own words. These strategies will help you to better understand and remember the information you read.\n4. Challenge yourself: choose material that is slightly above your current reading level. This will help you to improve your comprehension skills by forcing you to think critically about the information you are reading.\n5. Seek help when needed: if you are struggling to understand something you are reading, don't be afraid to ask for help. You can ask a friend or family member, or look up the material online."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How does your reading habits affect your vocabulary and comprehension?",
+                    "Answer": "My reading habits definitely affect my vocabulary and comprehension. If I don't read regularly, my vocabulary will suffer and my comprehension will as well. I need to read a variety of books, newspapers, and magazines to keep my mind sharp.'"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I use a number of strategies to improve my reading comprehension. I read slowly and carefully, and I try to identify key ideas and concepts. I also highlight or underline important information, and I take notes as I read. I also try to summarize what I've read in my own words."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read. I have a busy schedule, and it's often difficult to find time to just sit down and read. Another challenge is finding material that is at my level. I often find myself reading articles or books that are too difficult, and this can be frustrating."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension ais to progress in my career as a language scholar and earn a lot of money"
+                },
+                {
+                    "Question": "What do you think are the most important skills for reading comprehension?",
+                    "Answer": "I think the most important skills for reading comprehension are the ability to read quickly and to identify key ideas. Other important skills include the ability to take notes and to summarize information."
+                },
+                {
+                    "Question": "What do you think are the most effective methods for improving reading comprehension?",
+                    "Answer": "I think the most effective methods for improving reading comprehension are to read regularly, to read a variety of material, and to practice active reading strategies."
+                },
+                {
+                    "Question": "How do you plan to use the information you gathered to improve your reading comprehension?",
+                    "Answer": "I plan to use the information I gathered to improve my reading comprehension by implementing the strategies I learned. I will make a point to read regularly, to read a variety of material, and to practice active reading strategies. I will also continue to seek out books, articles, and other resources that are at my level so that I can challenge myself and continue to improve."
+                },
+                {
+                    "Question": "Do you have any other suggestions for improving reading comprehension?",
+                    "Answer": "I think it's important to find material that is interesting and engaging. If you're not interested in what you're reading, it will be difficult to focus and comprehend the material. It's also important to read at your level. If you're reading material that is too difficult, you'll likely get frustrated and give up. And finally, don't be afraid to ask for help. If you're struggling to understand something, ask a friend or family member, or look up the material online."
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "Read hard and play hard"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I use a number of strategies to improve my reading comprehension. I read slowly and carefully, and I try to identify key ideas and concepts. I also highlight or underline important information, and I take notes as I read. I also try to summarize what I've read in my own words."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read. I have a busy schedule, and it's often difficult to find time to just sit down and read. Another challenge is finding material that is at my level. I often find myself reading articles or books that are too difficult, and this can be frustrating."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension are to be able to read faster and to be able to understand more complex material. I would also like to be able to retain more information after I read it."
+                }
+            ],
+            "Output": "The first step is to find interesting and engaging material to read. If you're not interested in what you're reading, it will be difficult to focus and comprehend the material. It's also important to read at your level. If you're reading material that is too difficult, you'll likely get frustrated and give up. And finally, don't be afraid to ask for help. If you're struggling to understand something, ask a friend or family member, or look up the material online.\nNext, you need to develop a regular reading habit. Set aside time each day to read, even if it's just for a few minutes. The more you read, the better your comprehension will become.\nFinally, practice active reading strategies. This means highlighting or underlining important information, taking notes, and summarizing what you've read in your own words. By doing this, you will engage with the material more and retain more information."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How does your reading habits affect your vocabulary and comprehension?",
+                    "Answer": "My reading habits definitely affect my vocabulary and comprehension. I start using very easy words if I don't read regularly"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I read slowly and carefully."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension is to consume a lot of information from the internet in shortest time possible"
+                },
+                {
+                    "Question": "What do you think are the most important skills for reading comprehension?",
+                    "Answer": "I think the most important skills for reading comprehension are the ability to read quickly and to identify key ideas."
+                },
+                {
+                    "Question": "What do you think are the most effective methods for improving reading comprehension?",
+                    "Answer": "I think the most effective methods for improving reading comprehension is to practice active reading strategies."
+                },
+                {
+                    "Question": "How do you plan to use the information you gathered to improve your reading comprehension?",
+                    "Answer": "I plan to use the information I gathered to improve my reading comprehension by implementing the strategies I learned."
+                },
+                {
+                    "Question": "Do you have any other suggestions for improving reading comprehension?",
+                    "Answer": "I think it's important to find material that is interesting and engaging."
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "Try to read at least 1 book every week"
+                },
+                {
+                    "Question": "What are some strategies you use to improve your reading comprehension?",
+                    "Answer": "I use a number of strategies to improve my reading comprehension. I read slowly and carefully, and I try to identify key ideas and concepts. I also highlight or underline important information, and I take notes as I read. I also try to summarize what I've read in my own words."
+                },
+                {
+                    "Question": "What are some of the biggest challenges you face when trying to improve your reading comprehension?",
+                    "Answer": "One of the biggest challenges I face when trying to improve my reading comprehension is finding the time to read. I have a busy schedule, and it's often difficult to find time to just sit down and read. Another challenge is finding material that is at my level. I often find myself reading articles or books that are too difficult, and this can be frustrating."
+                },
+                {
+                    "Question": "What are your goals for improving your reading comprehension?",
+                    "Answer": "My goals for improving my reading comprehension are to be able to read faster and to be able to understand more complex material. I would also like to be able to retain more information after I read it."
+                }
+            ],
+            "Output": "The first step is to find time to read. Set aside at least 30 minutes each day to read. Try to find material that is interesting and at your level. As you read, highlight or underline important information. Take notes in the margins or on a separate piece of paper. Try to summarize what you've read in your own words. Finally, practice active reading strategies such as skimming and scanning."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/FlNhFgujmKKVPjYZRRtLHqP6?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1m8CD3M4myiRDfRdZYEHCAjoM3gMESeZJ/view?usp=sharing"
+}

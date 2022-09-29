@@ -1,0 +1,194 @@
+{
+    "Contributor": "sangarajusrihariraju",
+    "Domain": "Shopping",
+    "Task": "Best deal finder for a product",
+    "Prompt": [
+        {
+            "pre_question_prompt": "I am an expert best deal finder for a product. I will ask some questions to collect information and then I will use the information to find best deal for that product",
+            "task_specific_prompt": "Write a best deal for the product using the questions and answers above"
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What product are you looking for a deal on?",
+                    "Answer": "Laptop"
+                },
+                {
+                    "Question": "What is your budget for this product?",
+                    "Answer": "$1000"
+                },
+                {
+                    "Question": "What is the brand or model of the product you are interested in?",
+                    "Answer": "Apple"
+                },
+                {
+                    "Question": "What store do you want to purchase the product from?",
+                    "Answer": "Amazon or walmart or target or any other store which offers best price"
+                },
+                {
+                    "Question": "When do you need the product?",
+                    "Answer": "ASAP"
+                },
+                {
+                    "Question": "Anything else you want to add?",
+                    "Answer": "I need a laptop with good speed, storage and 2 in 1 capability"
+                },
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "myemail@gmail.com"
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "123-456-7890"
+                },
+                {
+                    "Question": "What is your name??",
+                    "Answer": "John Doe"
+                },
+                {
+                    "Question": "What is the best time to reach you?",
+                    "Answer": "Any time"
+                },
+                {
+                    "Question": "What is your preferred method of contact?",
+                    "Answer": "Email"
+                },
+                {
+                    "Question": "What is your zip code?",
+                    "Answer": "12345"
+                },
+                {
+                    "Question": "What is the make and model of the product you are interested in?",
+                    "Answer": "Apple MacBook Air"
+                },
+                {
+                    "Question": "When do you need the product?",
+                    "Answer": "ASAP"
+                },
+                {
+                    "Question": "What is your budget for this product?",
+                    "Answer": "$1000"
+                }
+            ],
+            "Output": "You can purchase the Apple MacBook Air for $999.99 from Amazon. This laptop has good speed, storage, and 2 in 1 capability."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What product are you looking for a deal on?",
+                    "Answer": "chair"
+                },
+                {
+                    "Question": "What is your budget for this product?",
+                    "Answer": "less than $200"
+                },
+                {
+                    "Question": "What are the must-have features for this product?",
+                    "Answer": "comfortable, stylish, gaming friendly"
+                },
+                {
+                    "Question": "What is your preferred retailer?",
+                    "Answer": "Amazon, Target, Walmart, staples"
+                },
+                {
+                    "Question": "What is the shipping/delivery timeline you are hoping for?",
+                    "Answer": "less than a week"
+                },
+                {
+                    "Question": "Do you have any preferred brands?",
+                    "Answer": "no"
+                },
+                {
+                    "Question": "Do you have any color preferences?",
+                    "Answer": "Black or Blue"
+                },
+                {
+                    "Question": "Do you need any special features like ergonomic design or lumbar support?",
+                    "Answer": "ergonomic design"
+                },
+                {
+                    "Question": "Are you looking for a new or used product?",
+                    "Answer": "New"
+                },
+                {
+                    "Question": "Anything else you think I should know?",
+                    "Answer": "height of chair should be adjustable"
+                },
+                {
+                    "Question": "Your contact information?",
+                    "Answer": "email: ____________"
+                }
+            ],
+            "output": "The best deal for a comfortable, stylish, gaming friendly chair that is less than $200 and has ergonomic design is the Homall Executive Swivel Leather Gaming Chair. This chair is available on Amazon for $99.99 with free shipping. It has excellent reviews and would be a great option for anyone looking for a gaming chair on a budget."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What product are you looking for a deal on?",
+                    "Answer": "chair"
+                },
+                {
+                    "Question": "What is your budget for this product?",
+                    "Answer": "less than $200"
+                },
+                {
+                    "Question": "What are the must-have features for this product?",
+                    "Answer": "comfortable, stylish, gaming friendly"
+                },
+                {
+                    "Question": "What is your preferred retailer?",
+                    "Answer": "local stores closest to me"
+                },
+                {
+                    "Question": "What is the preferred style of the product?",
+                    "Answer": "modern or classic"
+                },
+                {
+                    "Question": "What color do you prefer?",
+                    "Answer": "black or blue"
+                },
+                {
+                    "Question": "Do you have any other requirements?",
+                    "Answer": "Adjustable height and easily movable"
+                },
+                {
+                    "Question": "What is your zip code?",
+                    "Answer": "85821"
+                },
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "myemail@gmail.com"
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "123-456-7890"
+                },
+                {
+                    "Question": "When are you available to meet?",
+                    "Answer": "Anytime"
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "I need the chair to be delivered by Wednesday"
+                },
+                {
+                    "Question": "When would you like to receive the product?",
+                    "Answer": "by Wednesday"
+                },
+                {
+                    "Question": "Do you have any other requirements?",
+                    "Answer": "No"
+                }
+            ],
+            "output": "I found a great deal on a gaming chair that is comfortable, stylish, and gaming friendly. The chair is black and blue, has adjustable height, and is easily movable. The chair is available from local stores closest to me and can be delivered by Wednesday. The total cost for the chair is less than $200."
+        }
+    ],
+    "present_link": [
+        "https://beta.openai.com/playground/p/FfDd1XAjRSRQEDomq7ncU1om?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/IW3YyraV0Khh3PWWnFBTe3fp?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/cBplxZY8OmS4EQiCWmhWVGim?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZsWIowSq_Dr90kjBdLbhn1EgclEwH5gw?usp=sharing"
+}

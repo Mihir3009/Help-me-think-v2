@@ -1,0 +1,156 @@
+{
+    "Contributor": "shahnishtha",
+    "Domain": "Liberal Science",
+    "Task": "Polymers",
+    "Prompt": {
+        "pre_question_prompt": "I have studied Liberal Science and I am an expert in biochemical science. I will ask some questions to collect information about your task and then I will use the information to recommend a suitable polymer for the task.",
+        "task_specific_prompt": "Recommend a suitable polymer using the questions. Explain why."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the polymer?",
+                    "Answer": "The purpose of the polymer is to create a film that can be used as a barrier."
+                },
+                {
+                    "Question": "What are the specific requirements for the polymer?",
+                    "Answer": "The specific requirements for the polymer are that it is impermeable to oxygen and water vapor."
+                },
+                {
+                    "Question": "What is the expected lifetime of the polymer?",
+                    "Answer": "The expected lifetime of the polymer is 10 years."
+                },
+                {
+                    "Question": "What is the maximum temperature that the polymer will be exposed to?",
+                    "Answer": "The maximum temperature that the polymer will be exposed to is 100 degrees Celsius."
+                },
+                {
+                    "Question": "What is the minimum temperature that the polymer will be exposed to?",
+                    "Answer": "The minimum temperature that the polymer will be exposed to is -20 degrees Celsius."
+                },
+                {
+                    "Question": "What is the thickness of the polymer film?",
+                    "Answer": "The thickness of the polymer film is 10 microns."
+                },
+                {
+                    "Question": "What is the size of the polymer film?",
+                    "Answer": "The size of the polymer film is 10 cm x 10 cm."
+                },
+                {
+                    "Question": "Is the polymer film transparent?",
+                    "Answer": "No, the polymer film is not transparent."
+                },
+                {
+                    "Question": "Is the polymer film flexible?",
+                    "Answer": "No, the polymer film is not flexible."
+                },
+                {
+                    "Question": "Is the polymer film heat sealable?",
+                    "Answer": "No, the polymer film is not heat sealable."
+                }
+            ],
+            "Output": "I would recommend a polyethylene terephthalate (PET) film for this task. PET is a thermoplastic polymer that is impermeable to both oxygen and water vapor. It has a good balance of mechanical and optical properties, and is also heat resistant. PET has a maximum use temperature of around 100 degrees Celsius, making it suitable for the maximum temperature that the polymer will be exposed to. PET is also available in a range of thicknesses, including 10 microns."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the polymer?",
+                    "Answer": "The purpose of the polymer is make kitchen wares."
+                },
+                {
+                    "Question": "What are the specific requirements for the polymer?",
+                    "Answer": "The kitchen wares whould be nonstick."
+                },
+                {
+                    "Question": "What is the expected lifetime of the polymer?",
+                    "Answer": "The expected lifetime of the polymer is 5 years."
+                },
+                {
+                    "Question": "What is the maximum temperature that the polymer will be exposed to?",
+                    "Answer": "The maximum temperature that the polymer will be exposed to is 150 degrees Celsius."
+                },
+                {
+                    "Question": "What is the minimum temperature that the polymer will be exposed to?",
+                    "Answer": "The minimum temperature that the polymer will be exposed to is 20 degrees Celsius."
+                },
+                {
+                    "Question": "What is the thickness of the polymer film?",
+                    "Answer": "The thickness of the polymer film is 20 microns."
+                },
+                {
+                    "Question": "What is the size of the polymer film?",
+                    "Answer": "The size of the polymer film is 10 cm x 10 cm."
+                },
+                {
+                    "Question": "Is the polymer film transparent?",
+                    "Answer": "No, the polymer film is not transparent."
+                },
+                {
+                    "Question": "Is the polymer film flexible?",
+                    "Answer": "No, the polymer film is not flexible."
+                },
+                {
+                    "Question": "Is the polymer film heat sealable?",
+                    "Answer": "yes, the polymer film is heat sealable."
+                }
+            ],
+            "Output": "A suitable polymer for this task would be polytetrafluoroethylene (PTFE). PTFE is a nonstick polymer that is resistant to high temperatures. It is also chemically inert, meaning it wont react with other chemicals. PTFE has a long lifetime and is very strong, making it ideal for kitchen wares."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the polymer?",
+                    "Answer": "The purpose of the polymer is make carry backs."
+                },
+                {
+                    "Question": "What are the specific requirements for the polymer?",
+                    "Answer": "The kitchen wares whould be unbreakable."
+                },
+                {
+                    "Question": "What is the expected lifetime of the polymer?",
+                    "Answer": "The expected lifetime of the polymer is 1 year."
+                },
+                {
+                    "Question": "What is the maximum temperature that the polymer will be exposed to?",
+                    "Answer": "The maximum temperature that the polymer will be exposed to is 50 degrees Celsius."
+                },
+                {
+                    "Question": "What is the minimum temperature that the polymer will be exposed to?",
+                    "Answer": "The minimum temperature that the polymer will be exposed to is -10 degrees Celsius."
+                },
+                {
+                    "Question": "What is the thickness of the polymer film?",
+                    "Answer": "The thickness of the polymer film is 1000 microns."
+                },
+                {
+                    "Question": "What is the size of the polymer film?",
+                    "Answer": "The size of the polymer film is 100 cm x 100 cm."
+                },
+                {
+                    "Question": "Is the polymer film transparent?",
+                    "Answer": "Yes, the polymer film is transparent."
+                },
+                {
+                    "Question": "Is the polymer film flexible?",
+                    "Answer": "Yes, the polymer film is flexible."
+                },
+                {
+                    "Question": "Is the polymer film heat sealable?",
+                    "Answer": "No, the polymer film is not heat sealable."
+                }
+            ],
+            "Output": "A suitable polymer for this task is polyethylene terephthalate (PET). PET is a strong, tough, and transparent polymer that is resistant to heat and chemicals. It is also flexible, making it ideal for film applications."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ufX8FRT0mmTpIfSSRAZvfNNR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/iUW4KbqUBFd0Mzw8TahTTKlA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DShG9jrqSqNf5SpO2CkdNzlZ?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1cfItFRrG9QKQql8b5uar7VcecC7UkCss/view?usp=sharing",
+        "https://drive.google.com/file/d/1M86PQCMir5Z5UnYnzy5UmVCtaa_RBEIL/view?usp=sharing",
+        "https://drive.google.com/file/d/1gMaGjI22pCZzx8-QOvg9Wm3aJIZs-wgW/view?usp=sharing"
+    ]
+}

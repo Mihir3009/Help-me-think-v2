@@ -1,0 +1,158 @@
+{
+    "Contributor": "sangarajusrihariraju",
+    "Domain": "Park",
+    "Task": "Park Designer",
+    "Prompt": [
+        {
+            "pre_question_prompt": "I am an expert park designer. I will ask some questions to collect information and then I will use the information to design park",
+            "task_specific_prompt": "Write about park design using the questions and answers above"
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the dimensions of the park?",
+                    "Answer": "100 acres"
+                },
+                {
+                    "Question": "What is the climate like in the area?",
+                    "Answer": "The climate is temperate."
+                },
+                {
+                    "Question": "What is the terrain like?",
+                    "Answer": "The terrain is flat."
+                },
+                {
+                    "Question": "What is the park's purpose?",
+                    "Answer": "The park's purpose is to provide recreation and relaxation for the community."
+                },
+                {
+                    "Question": "What amenities does the park need to include?",
+                    "Answer": "The park should include a playground, a picnic area, a walking trail, and a pond."
+                },
+                {
+                    "Question": "What is the budget for the park?",
+                    "Answer": "$1 million"
+                },
+                {
+                    "Question": "When does the park need to be completed?",
+                    "Answer": "The park should be completed within one year."
+                },
+                {
+                    "Question": "What is the community's opinion of the park?",
+                    "Answer": "The community is supportive of the park."
+                },
+                {
+                    "Question": "What are the community's concerns about the park?",
+                    "Answer": "The community's concerns about the park include safety, security, and maintenance."
+                },
+                {
+                    "Question": "What is the park's location?",
+                    "Answer": "The park is located in the center of the town."
+                }
+            ],
+            "Output": "The park should be designed to provide recreation and relaxation for the community. It should be 100 acres and include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million and it should be completed within one year. The community is supportive of the park but has concerns about safety, security, and maintenance. The park is located in the center of the town."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the dimensions of the park?",
+                    "Answer": "100 acres"
+                },
+                {
+                    "Question": "What is the climate like in the area?",
+                    "Answer": "The climate is temperate."
+                },
+                {
+                    "Question": "What is the terrain like?",
+                    "Answer": "The terrain is flat."
+                },
+                {
+                    "Question": "What is the park's purpose?",
+                    "Answer": "The park's purpose is to provide recreation and relaxation for the community."
+                },
+                {
+                    "Question": "What amenities does the park need to include?",
+                    "Answer": "The park should include a playground, a picnic area, a walking trail, and a pond."
+                },
+                {
+                    "Question": "What is the budget for the park?",
+                    "Answer": "$1 million"
+                },
+                {
+                    "Question": "When does the park need to be completed?",
+                    "Answer": "The park should be completed within one year."
+                },
+                {
+                    "Question": "What is the community's opinion of the park?",
+                    "Answer": "The community is supportive of the park."
+                },
+                {
+                    "Question": "What are the community's concerns about the park?",
+                    "Answer": "The community's concerns about the park include safety, security, and maintenance."
+                },
+                {
+                    "Question": "What is the park's location?",
+                    "Answer": "tempe arizona, near college"
+                },
+                {
+                    "Question": "What is the size of the park?",
+                    "Answer": "The park is 100 acres."
+                }
+            ],
+            "output": "The park should be designed to provide recreation and relaxation for the community. It should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year. The community is supportive of the park. The community's concerns about the park include safety, security, and maintenance. The park is located in Tempe, Arizona, near the college. The park is 100 acres."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the dimensions of the park?",
+                    "Answer": "100 acres"
+                },
+                {
+                    "Question": "What is the climate like in the area?",
+                    "Answer": "The climate is temperate."
+                },
+                {
+                    "Question": "What is the terrain like?",
+                    "Answer": "The terrain is flat."
+                },
+                {
+                    "Question": "What is the park's purpose?",
+                    "Answer": "The park's purpose is to provide recreation and relaxation for the community."
+                },
+                {
+                    "Question": "What amenities does the park need to include?",
+                    "Answer": "The park should include a playground, a picnic area, a walking trail, and a pond."
+                },
+                {
+                    "Question": "What is the budget for the park?",
+                    "Answer": "$1 million"
+                },
+                {
+                    "Question": "When does the park need to be completed?",
+                    "Answer": "The park should be completed within one year."
+                },
+                {
+                    "Question": "What is the community's opinion of the park?",
+                    "Answer": "The community is supportive of the park in general. but there should be no deforestration"
+                },
+                {
+                    "Question": "What is the most important aspect of the park?",
+                    "Answer": "The most important aspect of the park is that it is safe and enjoyable for the community."
+                },
+                {
+                    "Question": "What are the top three concerns of the community?",
+                    "Answer": "The top three concerns of the community are safety, enjoyment, and maintenance."
+                }
+            ],
+            "output": "The park should be designed to provide recreation and relaxation for the community. It should be safe and enjoyable for the community. The park should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year."
+        }
+    ],
+    "present_link": [
+        "https://beta.openai.com/playground/p/Bc9Gb8Z3oHDYUR6ZksAfxkOj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9I8ivdRFJZPwwIL8RQnOSwAM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Ww7iAATmOsfaBIjlMx8lMrCB?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/16V2U2xXEP_KjpPxpbPGNjKOdq4qQI3mS?usp=sharing"
+}

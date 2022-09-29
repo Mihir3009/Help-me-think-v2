@@ -1,0 +1,168 @@
+{
+    "Contributor": "shahnishtha",
+    "Domain": "Public Health",
+    "Task": "Rate Public Health",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert on public health. I will ask some questions other than facts to collect information  on your community and then I will use the information to rate your communitys public health out of 10.",
+        "task_specific_prompt": "Rate the health of the community using the questions. Also provide some ways to improve it."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of community do you live in?",
+                    "Answer": "I live in a small town."
+                },
+                {
+                    "Question": "What are the demographics of your community?",
+                    "Answer": "The population of my town is about 6,000 people. The median age is 33, and the median income is $50,000. About 60 of the population is white, 20 is Hispanic, and 10 is black."
+                },
+                {
+                    "Question": "What is the healthcare like in your community?",
+                    "Answer": "There is one hospital in town, and it is a small community hospital. There are also several clinics and urgent care centers."
+                },
+                {
+                    "Question": "What are the rates of crime and violence in your community?",
+                    "Answer": "The crime rate in my town is relatively low. There are occasional reports of burglaries and car break-ins, but violent crime is rare."
+                },
+                {
+                    "Question": "What is the air quality like in your community?",
+                    "Answer": "The air quality in my town is good. We have a few manufacturing plants in town, but they are all well-regulated."
+                },
+                {
+                    "Question": "What is the water quality like in your community?",
+                    "Answer": "The water quality in my town is good. We have a municipal water system, and the water is tested regularly."
+                },
+                {
+                    "Question": "What is the housing like in your community?",
+                    "Answer": "The housing in my town is decent. There are a mix of old and new houses, and most people own their homes. Rent is relatively affordable."
+                },
+                {
+                    "Question": "What is the food like in your community?",
+                    "Answer": "The food in my town is decent. There are a few restaurants, but most people cook at home. There is a grocery store and a farmers market."
+                },
+                {
+                    "Question": "What is the education like in your community?",
+                    "Answer": "The education in my town is decent. We have a few schools, including a public high school, a private high school, and a community college."
+                },
+                {
+                    "Question": "What is the employment like in your community?",
+                    "Answer": "The employment in my town is decent. There are a few businesses, but most people commute to the city for work."
+                },
+                {
+                    "Question": "What is the overall quality of life like in your community?",
+                    "Answer": "The overall quality of life in my town is good. It is a safe and friendly community. There are a few things to do, but it is mostly a quiet town."
+                }
+            ],
+            "Output": "Based on the information provided, I would rate the health of the community as a 7 out of 10. Some ways to improve the health of the community would be to increase the number of clinics and healthcare providers, and to improve the quality of the schools."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of community do you live in?",
+                    "Answer": "I live in a large city."
+                },
+                {
+                    "Question": "What are the demographics of your community?",
+                    "Answer": "The population of my town is about 6,000,000 people. The median age is 45, and the median income is $50,000. About 70 of the population is white, 10 is Hispanic, and 20 is black."
+                },
+                {
+                    "Question": "What is the healthcare like in your community?",
+                    "Answer": "There is several hospitals in city. There are also several clinics and urgent care centers."
+                },
+                {
+                    "Question": "What are the rates of crime and violence in your community?",
+                    "Answer": "The crime rate in my town is relatively low. There are occasional reports of burglaries and car break-ins, but violent crime is rare."
+                },
+                {
+                    "Question": "What is the air quality like in your community?",
+                    "Answer": "The air quality in my town is poor. We have a many manufacturing plants in the city."
+                },
+                {
+                    "Question": "What is the water quality like in your community?",
+                    "Answer": "The water quality in my town is good. We have a municipal water system, and the water is tested regularly."
+                },
+                {
+                    "Question": "What is the housing like in your community?",
+                    "Answer": "The housing in my town is decent. There are a lot of high rise buildings most people own their homes. Rent is relatively expensive."
+                },
+                {
+                    "Question": "What is the food like in your community?",
+                    "Answer": "The food in my town is decent. There are a several restaurants and most people eat out."
+                },
+                {
+                    "Question": "What is the education like in your community?",
+                    "Answer": "The education in my town is very good. We have a lots of schools and a college"
+                },
+                {
+                    "Question": "What is the employment like in your community?",
+                    "Answer": "The employment in my town is decent."
+                },
+                {
+                    "Question": "What is the overall quality of life like in your community?",
+                    "Answer": "The overall quality of life in my town is moderate. It is a safe and friendly community. There are many things to do."
+                }
+            ],
+            "Output": "Based on the information provided, I would rate the health of the community as a 6 out of 10. To improve the health of the community, I would recommend improving the air quality, increasing access to healthy food options, and increasing access to healthcare."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of community do you live in?",
+                    "Answer": "I live in a large city."
+                },
+                {
+                    "Question": "What are the demographics of your community?",
+                    "Answer": "The population of my town is about 60,000,000 people. The median age is 45, and the median income is $10,000. About 50 of the population is white, 20 is Hispanic, and 30 is black."
+                },
+                {
+                    "Question": "What is the healthcare like in your community?",
+                    "Answer": "There are few hospitals in city. There are some clinics and urgent care centers."
+                },
+                {
+                    "Question": "What are the rates of crime and violence in your community?",
+                    "Answer": "The crime rate in my town is relatively high. There are several reports of burglaries and car break-ins, also violent crime is common."
+                },
+                {
+                    "Question": "What is the air quality like in your community?",
+                    "Answer": "The air quality in my town is poor. We have a many manufacturing plants in the city."
+                },
+                {
+                    "Question": "What is the water quality like in your community?",
+                    "Answer": "The water quality in my town is poor. We have a municipal water system, and the water but harddly tested."
+                },
+                {
+                    "Question": "What is the housing like in your community?",
+                    "Answer": "The housing in my town is good. There are a lot of high rise buildings most people own their homes. Rent is relatively expensive."
+                },
+                {
+                    "Question": "What is the food like in your community?",
+                    "Answer": "The food in my town is not good. There are several restaurants and most people eat out."
+                },
+                {
+                    "Question": "What is the education like in your community?",
+                    "Answer": "The education in my town poor. We have one schools and one college"
+                },
+                {
+                    "Question": "What is the employment like in your community?",
+                    "Answer": "The employment in my town is very low."
+                },
+                {
+                    "Question": "What is the overall quality of life like in your community?",
+                    "Answer": "The overall quality of life in my town is not good. It is not safe."
+                }
+            ],
+            "Output": "The health of the community is 3 out of 10. \nSome ways to improve the health of the community include: \n-Improving the quality of healthcare \n-Reducing crime and violence \n-Improving air quality \n-Improving water quality \n-Improving food quality \n-Improving education \n-Improving employment opportunities"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3UzSM1ApH7s0FiGZI1jeE14f?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/kp0YqtphBRY1ku3ZKgXZBXej?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/EogsmrrmmjxVugPuaUf8FItH?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1xmtlWc3kvfdL2I1js3aUtjWNKxymRxHs/view?usp=sharing",
+        "https://drive.google.com/file/d/1PVNXVEL_2CrdgY_5AANFv24L-mcJotWY/view?usp=sharing",
+        "https://drive.google.com/file/d/13j622UqG0aKEdCHSqoVq1K5ewYE2G__h/view?usp=sharing"
+    ]
+}

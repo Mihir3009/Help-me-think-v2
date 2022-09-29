@@ -1,0 +1,156 @@
+{
+    "Contributor": "shahnishtha",
+    "Domain": "Liberal Science",
+    "Task": "Carbon Footprint",
+    "Prompt": {
+        "pre_question_prompt": "I have studied Liberal Science and I am an expert in environmental science. I will ask some questions to collect information about your factory and then I will use the information to calculate its carbon footprint. ",
+        "task_specific_prompt": "Based on the above information, calculate the carbon footprint of the factory and provide a list of ways to reduce it."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your factory?",
+                    "Answer": "The name of our factory is the ABC Manufacturing Company."
+                },
+                {
+                    "Question": "What is the address of your factory?",
+                    "Answer": "The address of our factory is 1234 Main Street, Anytown, USA."
+                },
+                {
+                    "Question": "What is the square footage of your factory?",
+                    "Answer": "Our factory is 200,000 square feet."
+                },
+                {
+                    "Question": "How many employees work at your factory?",
+                    "Answer": "We have 500 employees."
+                },
+                {
+                    "Question": "What is the average daily electricity use of your factory?",
+                    "Answer": "Our factory uses 200,000 kWh of electricity per day."
+                },
+                {
+                    "Question": "What is the average daily natural gas use of your factory?",
+                    "Answer": "Our factory uses 1,000,000 cubic feet of natural gas per day."
+                },
+                {
+                    "Question": "What is the average daily water use of your factory?",
+                    "Answer": "Our factory uses 100,000 gallons of water per day."
+                },
+                {
+                    "Question": "What is the average daily waste output of your factory?",
+                    "Answer": "Our factory produces 1,000 tons of waste per day."
+                },
+                {
+                    "Question": "What types of products does your factory manufacture?",
+                    "Answer": "Our factory manufactures widgets."
+                },
+                {
+                    "Question": "How many widget does your factory produce in a day?",
+                    "Answer": "Our factory produces 5,000 widgets per day."
+                }
+            ],
+            "Output": "The carbon footprint of the factory is 5,000 tons of CO2 per day. To reduce the carbon footprint, the factory could: \n-Reduce the electricity use by 10% \n-Switch to renewable energy sources for electricity \n-Reduce the natural gas use by 10% \n-Switch to a less carbon-intensive fuel for natural gas \n-Reduce the water use by 10% \n-Recycle or compost the waste instead of sending it to landfill"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your factory?",
+                    "Answer": "The name of our factory is the XYZ Manufacturing Company."
+                },
+                {
+                    "Question": "What is the address of your factory?",
+                    "Answer": "The address of our factory is 1260 E University Dr, Tempe, USA."
+                },
+                {
+                    "Question": "What is the square footage of your factory?",
+                    "Answer": "Our factory is 500,000 square feet."
+                },
+                {
+                    "Question": "How many employees work at your factory?",
+                    "Answer": "We have 1000 employees."
+                },
+                {
+                    "Question": "What is the average daily electricity use of your factory?",
+                    "Answer": "Our factory uses 2,000,000 kWh of electricity per day."
+                },
+                {
+                    "Question": "What is the average daily natural gas use of your factory?",
+                    "Answer": "Our factory uses 500,000 cubic feet of natural gas per day."
+                },
+                {
+                    "Question": "What is the average daily water use of your factory?",
+                    "Answer": "Our factory uses 50,000 gallons of water per day."
+                },
+                {
+                    "Question": "What is the average daily waste output of your factory?",
+                    "Answer": "Our factory produces 10,000 tons of waste per day."
+                },
+                {
+                    "Question": "What types of products does your factory manufacture?",
+                    "Answer": "Our factory manufactures clothes."
+                },
+                {
+                    "Question": "How many widget does your factory produce in a day?",
+                    "Answer": "Our factory produces 10,000 clothes per day."
+                }
+            ],
+            "Output": "The carbon footprint of the factory is 1,000 tons of carbon dioxide per day. \nWays to reduce the carbon footprint of the factory include: \n-Reducing the electricity use of the factory \n-Reducing the natural gas use of the factory \n-Reducing the water use of the factory \n-Reducing the waste output of the factory \n-Increasing the efficiency of the factorys manufacturing process"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your factory?",
+                    "Answer": "The name of our factory is the PQR Manufacturing Company."
+                },
+                {
+                    "Question": "What is the address of your factory?",
+                    "Answer": "The address of our factory is 1275 E University Dr, Tempe, USA."
+                },
+                {
+                    "Question": "What is the square footage of your factory?",
+                    "Answer": "Our factory is 5,000 square feet."
+                },
+                {
+                    "Question": "How many employees work at your factory?",
+                    "Answer": "We have 50 employees."
+                },
+                {
+                    "Question": "What is the average daily electricity use of your factory?",
+                    "Answer": "Our factory uses 2,000,000 kWh of electricity per day."
+                },
+                {
+                    "Question": "What is the average daily natural gas use of your factory?",
+                    "Answer": "Our factory uses 50,000 cubic feet of natural gas per day."
+                },
+                {
+                    "Question": "What is the average daily water use of your factory?",
+                    "Answer": "Our factory uses 1,000 gallons of water per day."
+                },
+                {
+                    "Question": "What is the average daily waste output of your factory?",
+                    "Answer": "Our factory produces 5,000 tons of waste per day."
+                },
+                {
+                    "Question": "What types of products does your factory manufacture?",
+                    "Answer": "Our factory manufactures batteries."
+                },
+                {
+                    "Question": "How many widget does your factory produce in a day?",
+                    "Answer": "Our factory produces 10,000 batties per day."
+                }
+            ],
+            "Output": "The carbon footprint of the factory is 8,500 kilograms of carbon dioxide per day. \nWays to reduce the carbon footprint of the factory include: \n1. Switching to renewable energy sources for electricity \n2. Installing energy-efficient equipment \n3. Implementing a comprehensive recycling program \n4. Reducing water consumption \n5. Reducing waste output"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZKkryNiE5TO0Oa5VXK34U6Zd?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dgVuZ9xPEzdmRubO9Ru2lM5G?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UuAHXSsrm1vbQ64Ychq0tZcd?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1cTUjuWCp8QQwurDyZI3V6SqzLuaH2Vfo/view?usp=sharing",
+        "https://drive.google.com/file/d/1DotGjebwMjl1fWOS62h0Z3aelEULlTll/view?usp=sharing",
+        "https://drive.google.com/file/d/1-btcUuNoq0NDM78EN0Qi8v2BMMIrbd5E/view?usp=sharing"
+    ]
+}

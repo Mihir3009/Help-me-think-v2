@@ -1,0 +1,156 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Commercial Aviation",
+    "Task": "Estimate budget for next year for commercial aviation minister",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert commercial aviation minister I will ask some questions to collect information and then I will use the information to estimate budget for the next year. \n\n",
+        "task_specific_prompt": "Write a budget for next year using the questions and answers above. Minimum 1000 words."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your commercial aviation goals for the next year?",
+                    "Answer": "Keep total budget of less than 10 million dollars and run more than 1 million flights. Also no fatality."
+                },
+                {
+                    "Question": "What are the biggest concerns you have for commercial aviation in the next year?",
+                    "Answer": "The biggest concerns for commercial aviation in the next year are the possibility of another economic recession and new virus variant"
+                },
+                {
+                    "Question": "What do you think the biggest challenges will be for meeting your goals?",
+                    "Answer": "High oil prices, talent shortage and lockdowns."
+                },
+                {
+                    "Question": "What do you think the biggest opportunities are for commercial aviation in the next year?",
+                    "Answer": "The biggest opportunities for commercial aviation in the next year are people travelling a lot due to savings from lockdown"
+                },
+                {
+                    "Question": "What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I think that commercial aviation will continue to grow in the next year as people become more comfortable travelling again."
+                },
+                {
+                    "Question": "What do you think the biggest challenges and opportunities are for commercial aviation in the next 5-10 years?",
+                    "Answer": "The biggest challenges for commercial aviation in the next 5-10 years are likely to be climate change and the continued growth of low-cost carriers. Rising middle class and increases travel budget will open new opportunities for all."
+                },
+                {
+                    "Question": "What do you think the biggest challenges and opportunities are for commercial aviation in the next 20-30 years?",
+                    "Answer": "The biggest challenges for commercial aviation in the next 20-30 years are likely to be world wars and terrorism"
+                },
+                {
+                    "Question": "What do you think the biggest challenges and opportunities are for commercial aviation in the next 50 years?",
+                    "Answer": "The biggest challenges for commercial aviation in the next 50 years are likely to be hyperloop and other newer technologies replacing flights."
+                },
+                {
+                    "Question": "What do you think the biggest challenges and opportunities are for commercial aviation in the next 100 years?",
+                    "Answer": "The biggest challenges for commercial aviation in the next 100 years is end of the world"
+                },
+                {
+                    "Question": "What do you think the biggest challenges and opportunities are for commercial aviation in the next 1000 years?",
+                    "Answer": "The biggest challenges for commercial aviation in the next 1000 years is that earth will no longer exist and humans are extinct so there will be no passengers to sit the flights."
+                }
+            ],
+            "Output": "Assuming a total budget of less than 10 million dollars and running more than 1 million flights with no fatalities, the biggest concerns for commercial aviation are the possibility of another economic recession and new virus variant. The biggest challenges for meeting these goals are high oil prices, talent shortage and lockdowns. The biggest opportunities for commercial aviation in the next year are people travelling a lot due to savings from lockdown. I think that commercial aviation will continue to grow in the next year as people become more comfortable travelling again. The biggest challenges for commercial aviation in the next 5-10 years are likely to be climate change and the continued growth of low-cost carriers. Rising middle class and increases travel budget will open new opportunities for all. The biggest challenges for commercial aviation in the next 20-30 years are likely to be world wars and terrorism. The biggest challenges for commercial aviation in the next 50 years are likely to be hyperloop and other newer technologies replacing flights. The biggest challenges for commercial aviation in the next 100 years is end of the world. The biggest challenges for commercial aviation in the next 1000 years is that earth will no longer exist and humans are extinct so there will be no passengers to sit the flights."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your commercial aviation goals for the next year?",
+                    "Answer": "Improve connectivity in rural areas"
+                },
+                {
+                    "Question": "What are the expected changes in air traffic for the next year?",
+                    "Answer": "Increase in rural traffic"
+                },
+                {
+                    "Question": "What are the expected changes in airport infrastructure for the next year?",
+                    "Answer": "More number of airports in rural areas "
+                },
+                {
+                    "Question": "What are the expected changes in air travel safety for the next year?",
+                    "Answer": "There is expected to be an decrease in air travel safety of about 1000%."
+                },
+                {
+                    "Question": "What are the expected changes in air travel costs for the next year?",
+                    "Answer": "There is expected to be an increase in air travel costs of about 1000 rupees."
+                },
+                {
+                    "Question": "What are the expected changes in commercial aviation regulations for the next year?",
+                    "Answer": "No cabin baggage"
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the commercial aviation industry?",
+                    "Answer": "Very low rural penetration"
+                },
+                {
+                    "Question": "What do you think is the biggest challenge facing the commercial aviation industry?",
+                    "Answer": "Too much traffic from urban areas"
+                },
+                {
+                    "Question": "What do you think is the biggest opportunity facing the commercial aviation industry?",
+                    "Answer": "The biggest opportunity facing the commercial aviation industry is large number of potential rural customers"
+                },
+                {
+                    "Question": "What do you think is the biggest opportunity facing the global economy?",
+                    "Answer": "The biggest opportunity facing the global economy is rising middle class"
+                }
+            ],
+            "Output": "The budget for next year should be increased by 1000 rupees to improve connectivity in rural areas. There is expected to be an increase in rural traffic and more number of airports in rural areas. The safety of air travel is expected to decrease by 1000%. The cost of air travel is expected to increase by 1000 rupees. No cabin baggage should be allowed."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your commercial aviation goals for the next year?",
+                    "Answer": "Decrease corruption  "
+                },
+                {
+                    "Question": "What are the expected changes in air traffic for the next year?",
+                    "Answer": "There is expected to be an increase in air traffic of about 50% globally."
+                },
+                {
+                    "Question": "What are the expected changes in airport infrastructure for the next year?",
+                    "Answer": "There is expected to be an increase in airport infrastructure of about 100%."
+                },
+                {
+                    "Question": "What are the expected changes in air travel safety for the next year?",
+                    "Answer": "There is expected to be an decrease in air travel safety of about 1000%."
+                },
+                {
+                    "Question": "What are the expected changes in air travel costs for the next year?",
+                    "Answer": "There is expected to be an increase in air travel costs of about $100 per ticket."
+                },
+                {
+                    "Question": "What are the expected changes in commercial aviation regulations for the next year?",
+                    "Answer": "There are expected to be no changes in commercial aviation regulations."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the commercial aviation industry?",
+                    "Answer": "There is very high corruption"
+                },
+                {
+                    "Question": "What do you think is the biggest challenge facing the commercial aviation industry?",
+                    "Answer": "The biggest challenge facing the commercial aviation industry is the high level of corruption."
+                },
+                {
+                    "Question": "What do you think is the biggest opportunity facing the commercial aviation industry?",
+                    "Answer": "The biggest opportunity facing the commercial aviation industry is the increasing global demand for air travel."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the global economy?",
+                    "Answer": "The current state of the global economy is very poor due to inflation and wars"
+                },
+                {
+                    "Question": "What do you think is the biggest challenge facing the global economy?",
+                    "Answer": "The biggest challenge facing the global economy is the high level of debt and wars."
+                },
+                {
+                    "Question": "What do you think is the biggest opportunity facing the global economy?",
+                    "Answer": "The biggest opportunity facing the global economy is the increasing demand for air travel."
+                }
+            ],
+            "Output": "Assuming a 50% increase in air traffic, the budget for next year should be as follows: \n$1,000,000 for airport infrastructure\n$500,000 for air travel safety\n$2,000,000 for air travel costs\n$1,000,000 for commercial aviation regulations\n$3,000,000 for the current state of the commercial aviation industry\n$5,000,000 for the current state of the global economy"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/TCEDfHCxTXIHOkoSNn9fGOwN?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1muf0QDJQqq56ezdmVn8dB2DHburaL12Y/view?usp=sharing"
+}
