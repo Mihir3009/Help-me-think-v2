@@ -50,7 +50,7 @@
                     "Answer": "about $5,000,000 overall"
                 }
             ],
-            "output": "The policy should have the following goals: 1. Reduce the inflation rate to 3% 2. Maintain the current level of economic activity 3. Maintain the current level of unemployment 4. Reduce the government's fiscal deficit 5. Reduce the government's spending The policy should be as follows: 1. The government should reduce its spending by $1,000,000. 2. The government should reduce its fiscal deficit by $2,000,000. 3. The government should raise taxes by $3,000,000. 4. The government should increase interest rates by 0.5%. 5. The government should improve trade relations with China."
+            "Output": "The policy should have the following goals: 1. Reduce the inflation rate to 3% 2. Maintain the current level of economic activity 3. Maintain the current level of unemployment 4. Reduce the government's fiscal deficit 5. Reduce the government's spending The policy should be as follows: 1. The government should reduce its spending by $1,000,000. 2. The government should reduce its fiscal deficit by $2,000,000. 3. The government should raise taxes by $3,000,000. 4. The government should increase interest rates by 0.5%. 5. The government should improve trade relations with China."
         },
         {
             "QApair": [
@@ -95,7 +95,7 @@
                     "Answer": "about $4,200,000 overall"
                 }
             ],
-            "output": "In order to reduce the high inflation rate in the country, the government should pursue a contractionary fiscal policy by decreasing government spending and increasing taxes. Additionally, the central bank should pursue a tight monetary policy by increasing interest rates. The government should also work on reducing the country's trade deficit by promoting exports and decreasing imports. Finally, the government should reduce the level of foreign debt by paying off some of the debt each year."
+            "Output": "In order to reduce the high inflation rate in the country, the government should pursue a contractionary fiscal policy by decreasing government spending and increasing taxes. Additionally, the central bank should pursue a tight monetary policy by increasing interest rates. The government should also work on reducing the country's trade deficit by promoting exports and decreasing imports. Finally, the government should reduce the level of foreign debt by paying off some of the debt each year."
         },
         {
             "QApair": [
@@ -140,7 +140,7 @@
                     "Answer": "about $10,000 overall"
                 }
             ],
-            "output": "To reduce inflation, the government could implement a fiscal policy of increasing taxes and decreasing government spending. The government could also increase interest rates to make it more costly to borrow money. Trade relations could be established with other countries to increase competition in the domestic market and to help grow the economy. The level of foreign debt could be reduced by paying off loans and increasing exports."
+            "Output": "To reduce inflation, the government could implement a fiscal policy of increasing taxes and decreasing government spending. The government could also increase interest rates to make it more costly to borrow money. Trade relations could be established with other countries to increase competition in the domestic market and to help grow the economy. The level of foreign debt could be reduced by paying off loans and increasing exports."
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/UdfIq910BbDrgdwuqeO7TfiO?model=text-davinci-002",
