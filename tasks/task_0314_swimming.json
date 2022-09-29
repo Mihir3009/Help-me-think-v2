@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Swimming",
+    "Task": "Write an advertising word for a swimming competition",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in marketing and selling tickets for swimming competitions. I will ask some questions to collect information and then I will use the information to create an advertising word for a swimming competition to promote sales.",
+        "task_specific_prompt": "Write an advertising word for a swimming competition to promote sales using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the swimming competition? ",
+                    "Answer": "This swimming competition is called even-a-ticket-be-sold."
+                },
+                {
+                    "Question": "When is the swimming competition? ",
+                    "Answer": "The competition is on July 1st at 9:00 am."
+                },
+                {
+                    "Question": "Where is the swimming competition? ",
+                    "Answer": "The swimming competition is at the Olympic Aquatic Centre."
+                },
+                {
+                    "Question": "What is the age group of the swimmers competing? ",
+                    "Answer": "The age group of the swimmers competing is 18 and under."
+                },
+                {
+                    "Question": "How many events are there in the swimming competition? ",
+                    "Answer": "There are four events in this competition, namely 1m, 30m, 50m, and 10,000m swimming races."
+                },
+                {
+                    "Question": "What is the prize for the winning swimmer of each event? ",
+                    "Answer": "If you win the competition, you can eat ramen for a year for free in the United States."
+                },
+                {
+                    "Question": "How many tickets are available for sale? ",
+                    "Answer": "Need to sell 10,000 tickets"
+                },
+                {
+                    "Question": "How much is the ticket price? ",
+                    "Answer": "$10 per ticket."
+                },
+                {
+                    "Question": "What is the deadline for buying tickets? ",
+                    "Answer": "Available for purchase until the end of the event."
+                },
+                {
+                    "Question": "Will there be food and drinks available for purchase at the venue? ",
+                    "Answer": "From ramen, sushi, instant food, pasta, and pizza, all kinds of food will be sold at the competition venue, and all kinds of drinks will also be provided, even alcohol and bartending will be sold."
+                }
+            ],
+            "Output": "Looking for an exciting swimming competition? Look no further than the even-a-ticket-be-sold competition on July 1st at 9:00 am! This competition will be held at the Olympic Aquatic Centre and is open to swimmers aged 18 and under. There are four events to compete in, with the winner of each event receiving a year's worth of free ramen in the United States! Tickets are just $10 and are available for purchase until the end of the event. There will also be food and drinks available for purchase at the venue, so come on down and enjoy a day of swimming and fun!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the swimming competition?",
+                    "Answer": "The name of the swimming competition is Let's Swim with Muscle Guys."
+                },
+                {
+                    "Question": "When is the swimming competition?",
+                    "Answer": "The swimming competition is on Jan 1."
+                },
+                {
+                    "Question": "Where is the swimming competition?",
+                    "Answer": "The swimming competition is in Los Angeles, California."
+                },
+                {
+                    "Question": "Who is the target audience for the swimming competition?",
+                    "Answer": "The target group of this event is women who usually do not have the habit of exercising but are interested in swimming with muscle guys. It is hoped that muscular men can attract these people who do not have the habit of exercising to like swimming."
+                },
+                {
+                    "Question": "What is the purpose of the swimming competition?",
+                    "Answer": "The purpose of the swimming competition is to attract more women to swim and to get them interested in swimming as a form of exercise. Hope more people can understand what kind of sport swimming is."
+                },
+                {
+                    "Question": "What are the benefits of attending the swimming competition?",
+                    "Answer": "The benefits of attending the swimming competition are that you can learn more about swimming, you can meet new people, and you can get fit. And the most important thing is that it is difficult to swim with a large number of muscular men at such a close distance in daily life and to receive various handsome men to teach swimming."
+                },
+                {
+                    "Question": "What is the prize for the swimming competition?",
+                    "Answer": "The prize for the swimming competition is a free one-year membership to a local gym."
+                },
+                {
+                    "Question": "What is the swimming competition's slogan?",
+                    "Answer": "The swimming competition's slogan is Get Muscle Guys and have fun!"
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "The content of this competition is mainly a variety of interesting and interesting competitions to promote swimming, such as water volleyball, swimming racing, underwater coin finding, and also teach how to deal with accidents in the water."
+                },
+                {
+                    "Question": "How many tickets are available for sale?",
+                    "Answer": "Need to sell 100 tickets."
+                }
+            ],
+            "Output": "Looking to get fit and have some fun? Come to the Let's Swim with Muscle Guys competition on Jan 1 in Los Angeles, California. You'll learn more about swimming, meet new people, and get fit. Plus, the prize for the competition is a free one-year membership to a local gym. So don't miss out \u2013 get your tickets today!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the swimming competition?",
+                    "Answer": "The swimming competition is the annual Parent-child swimming competition."
+                },
+                {
+                    "Question": "Who is the target audience for the competition?",
+                    "Answer": "The target audience for the competition is parents and children. It is hoped that this activity can bring the relationship between children and parents closer, develop a family sports atmosphere together, and promote the concept of mass sports."
+                },
+                {
+                    "Question": "What are the benefits of participating in the competition?",
+                    "Answer": "The benefits of participating in the competition include having fun, staying fit, and spending time together as a family. After participating in this activity, the family relationship can be more harmonious, the parent-child relationship can be more harmonious, and the family's understanding can be deepened."
+                },
+                {
+                    "Question": "When and where will the competition be held?",
+                    "Answer": "The competition will be held on May 12, 2023, at the Community public swimming pool."
+                },
+                {
+                    "Question": "How much does it cost to participate in the competition?",
+                    "Answer": "It costs 50 yuan per person to participate in the competition."
+                },
+                {
+                    "Question": "What is the prize for the competition?",
+                    "Answer": "The prize for the competition is a medal and a certificate. There is also a free ticket to the public swimming pool for one year."
+                },
+                {
+                    "Question": "How can I sign up for the competition?",
+                    "Answer": "To sign up for this competition, you can go to www.community.public.swimming.pool.edu to fill out the registration form, or fill out the paper registration form on the spot on the day of the competition"
+                },
+                {
+                    "Question": "Are there any  requirements for the competition?",
+                    "Answer": "This competition is limited to teens or children aged 4 to 18 years old and an adult family member."
+                },
+                {
+                    "Question": "What is the purpose of the competition?",
+                    "Answer": "The purpose of the competition is to allow parents and children to have fun and exercise together, and to promote the concept of family sports."
+                },
+                {
+                    "Question": "What is the slogan for the competition?",
+                    "Answer": "The slogan for the competition is Family, Fun, and Fitness!"
+                }
+            ],
+            "Output": "Looking for a fun and fitness-filled activity for the whole family? Look no further than the annual Parent-child swimming competition! This event is perfect for parents and children of all ages to enjoy some quality time together while staying active. With a free ticket to the public swimming pool for one year up for grabs, what are you waiting for? Register today!"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/JVw4rkNtKTUeaFrUHdFG6MVy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/23BMoYnmC877rsD0BRGYFkpV?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/uefsbkhF1XTAfmLaeUB7O89J?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1RaUr0-h1y4_kJGvElEwaQqt1JKOAsBEi/view?usp=sharing",
+        "https://drive.google.com/file/d/1TLXId19tMCqHTDFI-GQFgqG_aMX8nj2o/view?usp=sharing",
+        "https://drive.google.com/file/d/1ocB1R-NIzybmpvOruCOVrqSRhbHNFHjK/view?usp=sharing"
+    ]
+}

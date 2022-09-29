@@ -1,0 +1,176 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Developmental Biology",
+    "Task": "Lecture Notes Preparation",
+    "Prompt": {
+        "pre_question_prompt": "I am an experienced professor in the field of developmental biology. I will help you prepare brief point-wise lecture notes to for the next class. First question is to decide your the lecture topic. Later on I will ask some questions to understand the topic and use this later on for organizing your notes.",
+        "task_specific_prompt": "Summarize the above answers to prepare lecture notes in an organized fashion."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the lecture topic?",
+                    "Answer": "Cell Differentiation"
+                },
+                {
+                    "Question": "What are the specific subtopics that you would like to cover in this lecture?",
+                    "Answer": "-The definition of cell differentiation\n-The process of cell differentiation\n-The factors that influence cell differentiation\n-The role of cell differentiation in the development of organisms"
+                },
+                {
+                    "Question": "What are some key points that you would like to make sure to include in the lecture?",
+                    "Answer": "-Cell differentiation definition\n-Common types of cell differentiation"
+                },
+                {
+                    "Question": "What are some examples of cell differentiation that you would like to include in the lecture?",
+                    "Answer": "-Most common types of cell differentiation include neuronal, hematopoietic, and muscle cell differentiation."
+                },
+                {
+                    "Question": "What are some of the key factors that influence cell differentiation?",
+                    "Answer": "-Key factors that influence cell differentiation include the transcription factors, the extracellular environment, and the cell cycle."
+                },
+                {
+                    "Question": "What is the role of cell differentiation in the development of organisms?",
+                    "Answer": "The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "What are some of the challenges that researchers face when studying cell differentiation?",
+                    "Answer": "The main challenges that researchers face when studying cell differentiation is that it is a very complex process. There are many different types of cell differentiation, and each type is controlled by a different set of genes."
+                },
+                {
+                    "Question": "What are some of the potential applications of research on cell differentiation?",
+                    "Answer": "The potential applications of research on cell differentiation include the development of new treatments and drugs for diseases and the ability to create new cell types for transplantation."
+                },
+                {
+                    "Question": "What are some of the ethical considerations associated with research on cell differentiation?",
+                    "Answer": "The ethical considerations associated with research on cell differentiation include the potential use of stem cells and the potential for creating designer babies."
+                },
+                {
+                    "Question": "What are some of the future directions for research on cell differentiation?",
+                    "Answer": "Future directions for research on cell differentiation include the study of how cell differentiation is regulated and the development of new methods to control cell differentiation."
+                }
+            ],
+            "Output": "Cell Differentiation:\n\n-Cell differentiation is the process by which cells become specialized to perform specific functions.\n-Differentiated cells have different sets of genes than undifferentiated cells.\n-Most common types of cell differentiation include neuronal, hematopoietic, and muscle cell differentiation.\n-Key factors that influence cell differentiation include the transcription factors, the extracellular environment, and the cell cycle.\n-The process of cell differentiation makes the cells become specialized to perform specific functions.\n-The main challenges that researchers face when studying cell differentiation is that it is a very complex process.\n-The potential applications of research on cell differentiation include the development of new treatments and drugs for diseases and the ability to create new cell types for transplantation.\n-The ethical considerations associated with research on cell differentiation include the potential use of stem cells and the potential for creating designer babies.\n-Future directions for research on cell differentiation include the study of how cell differentiation is regulated and the development of new methods to control cell differentiation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the lecture topic?",
+                    "Answer": "Different factors and systems involved in the development of an organism"
+                },
+                {
+                    "Question": "What are the specific subtopics that you would like to cover in this lecture?",
+                    "Answer": "-Cell differentiation and its role in growth\n-Cell death and communication which are important means for proper development \n-Importance of cell cycle regulators, cell polarity, cytoskeleton and junctions"
+                },
+                {
+                    "Question": "What are some key points that you would like to make sure to include in the lecture?",
+                    "Answer": "-Definitions of subtopics\n-Role of each aspect of cells"
+                },
+                {
+                    "Question": "What are some examples of cell differentiation that you would like to include in the lecture?",
+                    "Answer": "-Most common types of cell differentiation include neuronal, hematopoietic, and muscle cell differentiation."
+                },
+                {
+                    "Question": "What are some of the key factors that influence cell differentiation?",
+                    "Answer": "-Key factors that influence cell differentiation include the transcription factors, the extracellular environment, and the cell cycle."
+                },
+                {
+                    "Question": "What is the role of cell differentiation in the development of organisms?",
+                    "Answer": "The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "What are some examples of cell death that you would like to include in the lecture?",
+                    "Answer": "-Apoptosis, necrosis, and autophagy."
+                },
+                {
+                    "Question": "What are some of the key factors that influence cell death?",
+                    "Answer": "Main factors that influence cell death include the transcription factors, the extracellular environment, and the cell cycle."
+                },
+                {
+                    "Question": "What is the role of cell death in the development of organisms?",
+                    "Answer": "Cell death is an important process by which the unrequired cells are removed. Cell death also helps to regulate the number of cells in a tissue or organ."
+                },
+                {
+                    "Question": "What are some examples of cell communication that you would like to include in the lecture?",
+                    "Answer": "-Gap junctions and tight junctions"
+                },
+                {
+                    "Question": "What is the role of cell communication in the development of organisms?",
+                    "Answer": "Cell communication allows different cells to communicate with each other and work together to carry out specific functions."
+                },
+                {
+                    "Question": "What are some examples of cell cycle regulators that you would like to include in the lecture?",
+                    "Answer": "Cyclins and cyclin-dependent kinases (CDKs)"
+                },
+                {
+                    "Question": "What are some of the key points that you would like to make sure to include about cell cycle regulators?",
+                    "Answer": "-Cell cycle regulators are proteins that control the cell cycle. Cell cycle regulators play a role in the development of an organism by controlling the cell cycle.\n-Cyclins and cyclin-dependent kinases (CDKs) are the two main types of cell cycle regulators."
+                },
+                {
+                    "Question": "What are some of the key points that you would like to make sure to include about cell polarity?",
+                    "Answer": "-Cell polarity is the process by which a cell creates a difference in structure or function between two opposite sides of the cell. \n-Cell polarity is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions."
+                },
+                {
+                    "Question": "What are some of the key points that you would like to make sure to include about cytoskeleton?",
+                    "Answer": "-The cytoskeleton is a network of proteins that helps to support the cell and to give it shape. \n-The cytoskeleton is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions."
+                }
+            ],
+            "Output": "Differentiation:\n-Cell differentiation is the process by which cells become specialized to perform specific functions. \n-Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells. \n-Most common types of cell differentiation include neuronal, hematopoietic, and muscle cell differentiation.\n\nFactors influencing cell differentiation: \n-Key factors that influence cell differentiation include the transcription factors, the extracellular environment, and the cell cycle.\n\nRole of cell differentiation in development: \n-The process of cell differentiation makes the cells become specialized to perform specific functions. \n-Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells.\n\nCell death: \n-Cell death is the process by which cells are removed. \n-Cell death helps to regulate the number of cells in a tissue or organ. \n-There are three main types of cell death: apoptosis, necrosis, and autophagy.\n\nFactors influencing cell death: \n-Main factors that influence cell death include the transcription factors, the extracellular environment, and the cell cycle.\n\nRole of cell death in development: \n-Cell death is an important process by which the unrequired cells are removed. \n-Cell death also helps to regulate the number of cells in a tissue or organ.\n\nCell communication: \n-Cell communication is the process by which cells communicate with each other. \n-Cell communication allows different cells to communicate with each other and work together to carry out specific functions. \n-There are two main types of cell communication: gap junctions and tight junctions.\n\nRole of cell communication in development: \n-Cell communication is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions.\n\nCell cycle regulators: \n-Cell cycle regulators are proteins that control the cell cycle. \n-Cell cycle regulators play a role in the development of an organism by controlling the cell cycle. \n-Cyclins and cyclin-dependent kinases (CDKs) are the two main types of cell cycle regulators.\n\nRole of cell cycle regulators in development: \n-Cell cycle regulators are important for the development of an organism because they help to control the cell cycle. \n-Cyclins and cyclin-dependent kinases (CDKs) are the two main types of cell cycle regulators.\n\nCell polarity: \n-Cell polarity is the process by which a cell creates a difference in structure or function between two opposite sides of the cell. \n-Cell polarity is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions.\n\nRole of cell polarity in development: \n-Cell polarity is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions.\n\nCytoskeleton: \n-The cytoskeleton is a network of proteins that helps to support the cell and to give it shape. \n-The cytoskeleton is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions.\n\nRole of cytoskeleton in development: \n-The cytoskeleton is important for the development of an organism because it helps cells to interact with each other and to carry out specific functions."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the lecture topic?",
+                    "Answer": "Stem Cells and Regenerative medicine"
+                },
+                {
+                    "Question": "What are the specific subtopics that you would like to cover in this lecture?",
+                    "Answer": "-The definition of stem cells\n-The functionality of stem cells\n-The properties of stem cells\n-Regenerative medicine and stem-cell therapy"
+                },
+                {
+                    "Question": "What are some key points that you would like to make sure to include in the lecture?",
+                    "Answer": "-In-depth overview of stem cells, their functionality and properties\n-Intro to regenerative medicine and stem-cell therapy"
+                },
+                {
+                    "Question": "Are there any controversial points or open questions in this field that you would like to address?",
+                    "Answer": "-The potential risks associated with stem-cell therapy\n-The potential ethical implications of stem-cell research"
+                },
+                {
+                    "Question": "What are some real-world applications of this topic that you would like to include in the lecture?",
+                    "Answer": "-The use of stem cells in regenerative medicine\n-The use of stem cells in treating neurological disorders"
+                },
+                {
+                    "Question": "What are some other resources (books, articles, websites) that you would recommend to students interested in this topic?",
+                    "Answer": "Main reference books are - Stem cells: A Very Short Introduction by Jonathan Slack  and The Biology of stem cells by Ann A. Kiessling"
+                },
+                {
+                    "Question": "What are stem cells? Explain their properties.",
+                    "Answer": "In multicellular organisms, stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell. Stem cells are cells that have the ability to self-renew or divide indefinitely, as well as differentiate into specialized cell types. Stem cells are responsible for generating new cells during growth and repair. There are two types of stem cells: embryonic stem cells, which are derived from early-stage embryos, and adult stem cells, which are found in fully-developed organisms."
+                },
+                {
+                    "Question": "What is regenerative medicine?",
+                    "Answer": "Regenerative medicine deals with the \"process of replacing, engineering or regenerating human or animal cells, tissues or organs to restore or establish normal function\". It is a relatively new field that is constantly evolving, and its aim is to repair or replace damaged tissue and organs using stem cells or other biological materials."
+                },
+                {
+                    "Question": "What are the potential risks associated with stem-cell therapy?",
+                    "Answer": "There are a number of potential risks associated with stem-cell therapy, and these need to be carefully considered before any treatment is undertaken. One of the main risks is that of rejection, where the body's immune system rejects the transplanted cells. There is also a risk of the cells becoming cancerous, and of the treatment itself causing damage to healthy tissue."
+                },
+                {
+                    "Question": "What are the potential ethical implications of stem-cell research?",
+                    "Answer": "There are a number of potential ethical implications of stem-cell research, as it raises a number of questions about the use of human embryos and the potential for creating designer babies. There is also a risk that stem-cell research could be used for unethical purposes, such as creating clones of humans or animals."
+                },
+                {
+                    "Question": "What are some real-world applications of this topic?",
+                    "Answer": "There are multiple real-world applications of stem-cell research, including the use of stem cells in regenerative medicine and the treatment of neurological disorders."
+                }
+            ],
+            "Output": "-Stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell.\n-Stem cells are responsible for generating new cells during growth and repair.\n-There are two types of stem cells: embryonic stem cells, which are derived from early-stage embryos, and adult stem cells, which are found in fully-developed organisms.\n-Regenerative medicine is a relatively new field that deals with the \"process of replacing, engineering or regenerating human or animal cells, tissues or organs to restore or establish normal function\".\n-Stem-cell therapy is a potential treatment option for a variety of conditions, but there are a number of risks associated with it, including rejection by the body's immune system, the development of cancer, and damage to healthy tissue.\n-There are also a number of ethical implications associated with stem-cell research, including the potential for creating designer babies and the misuse of stem-cell technology.\n-There are multiple real-world applications of stem-cell research, including the use of stem cells in regenerative medicine and the treatment of neurological disorders."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/rFYzHpHoZKbIgSk4Ftal6maW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pczRDG5WTBw5zaAoAzejEvop?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/78z6Sw2njYoVLSSx6sMG9c4n?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1smJrwYaTn91IexxcRFXIyQXSYNy5ywY1?usp=sharing"
+}

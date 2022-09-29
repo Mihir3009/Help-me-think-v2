@@ -1,0 +1,163 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Public Opinion",
+    "Task": "estimate public attitudes toward mental health.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in advanced healthcare polling. I would like to ask some questions to collect information and then I will use the information to estimate public attitudes toward mental health."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1) Do you think mental health is a problem in the United States?                ",
+                    "Answer": "Yes, a lot of teenagers are facing mental health issues in the United States.                 "
+                },
+                {
+                    "Question": "2) Do you think mental health is a problem in your community?                ",
+                    "Answer": "Yes, mental health is definitely a problem in my community. I know several people who have struggled with mental health issues, and it's definitely something that needs to be addressed more.            "
+                },
+                {
+                    "Question": "3) Do you think mental health should be a priority for the government?            ",
+                    "Answer": "Yes, I think the government should definitely make mental health a priority. There are a lot of people who need help and don't have access to the resources they need.            "
+                },
+                {
+                    "Question": "4) Do you think there should be more funding for mental health research?            ",
+                    "Answer": "Yes, I think there should be more funding for mental health research. There is a lot we still don't understand about mental health, and more research could help us find better ways to treat it.            "
+                },
+                {
+                    "Question": "5) Do you think there should be more mental health services available?            ",
+                    "Answer": "Yes, I think there should be more mental health services available. There are a lot of people who need help and don't have access to the resources they need.            "
+                },
+                {
+                    "Question": "6) Do you think mental health stigma is a problem?            ",
+                    "Answer": "Yes, I think mental health stigma is definitely a problem. I know several people who have struggled with mental health issues, and it's definitely something that needs to be addressed more.            "
+                },
+                {
+                    "Question": "7) Do you have personal experience with mental health issues?            ",
+                    "Answer": "Yes, I have personal experience with mental health issues.            "
+                },
+                {
+                    "Question": "8) Do you have personal experience with mental health services?            ",
+                    "Answer": "Yes, I have personal experience with mental health services.            "
+                },
+                {
+                    "Question": "9) Do you think mental health services are effective?            ",
+                    "Answer": "Yes, I think mental health services can be effective. I know they have helped me personally, and I've seen them help other people as well.            "
+                },
+                {
+                    "Question": "10) Would you be willing to talk about your personal experience with mental health issues?            ",
+                    "Answer": "No, I would not be willing to talk about my personal experience with mental health issues.            "
+                },
+                {
+                    "Question": "11) Do you think there is enough public awareness about mental health?            ",
+                    "Answer": "No, I don't think there is enough public awareness about mental health. I think more people need to be educated about mental health and the resources that are available.            "
+                }
+            ],
+            "Output": "I think the public generally believes that mental health is a problem, both in the United States and in their own communities. They also believe that the government should make mental health a priority and that there should be more funding for mental health research and services. There is definitely a lot of stigma surrounding mental health, but I think people are beginning to become more aware of the issue.            "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you feel anxious or down?            ",
+                    "Answer": "I feel anxious twice a month or once a month.             "
+                },
+                {
+                    "Question": "What do you do to cope with your anxiety or depression?            ",
+                    "Answer": "I try to paint or go out for a walk to cope with my anxiety. I keep myself busy with chores to avoid any breakdown.            "
+                },
+                {
+                    "Question": "What do you think about the current state of mental health care in the United States?            ",
+                    "Answer": "I think that it's not good. I think that there are a lot of people that need help and don't get it.            "
+                },
+                {
+                    "Question": "Do you think that mental health care should be more widely available?            ",
+                    "Answer": "I think that mental health care should be more widely available because I think that it would help a lot of people that are struggling.            "
+                },
+                {
+                    "Question": "What do you think about the way mental health is portrayed in the media?            ",
+                    "Answer": "I think that the media does a poor job of portraying mental health. I think that they focus on the negative aspects of mental health and don't show the positive aspects.            "
+                },
+                {
+                    "Question": "Do you think that mental health is given enough attention in society?            ",
+                    "Answer": "No, I don't think that mental health is given enough attention in society. I think that it's something that is often ignored or swept under the rug.            "
+                },
+                {
+                    "Question": "Do you think that mental health should be given more attention in society?            ",
+                    "Answer": "Yes, I think that mental health should be given more attention in society because I think that it's an important issue that is often ignored.            "
+                },
+                {
+                    "Question": "What do you think about the way mental health is treated in the United States?            ",
+                    "Answer": "I think that mental health is treated poorly in the United States. I think that there is a lot of stigma surrounding mental health and that people don't get the help that they need.            "
+                },
+                {
+                    "Question": "Do you think that mental health should be given more attention in the United States?            ",
+                    "Answer": "Yes, I think that mental health should be given more attention in the United States.             "
+                },
+                {
+                    "Question": "Do you think that mental health should be given more attention in the world?            ",
+                    "Answer": "Yes, I think that mental health should be given more attention in the world. I think that it's an important issue that is often ignored.            "
+                }
+            ],
+            "Output": "Based on the questions and answers above, it seems that the public thinks that mental health is an important issue that is often ignored. They think that mental health care should be more widely available and that the way mental health is treated in the United States is poor. They also think that mental health should be given more attention in the world.            "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your opinion on mental health?            ",
+                    "Answer": "Mental health is a real problem, not a big problem.            "
+                },
+                {
+                    "Question": "How do you think people with mental health problems should be treated?            ",
+                    "Answer": "There is no one-size-fits-all answer to this question, as the best way to treat mental health problems depends on the individual and the severity of their condition. However, in general, people with mental health problems should be treated with compassion and understanding, and given access to the resources they need to manage their condition.            "
+                },
+                {
+                    "Question": "What do you think is the biggest challenge facing people with mental health problems?            ",
+                    "Answer": "The biggest challenge facing people with mental health problems is the stigma and discrimination they face from others. This can make it difficult for them to seek help, and can make them feel isolated and alone.            "
+                },
+                {
+                    "Question": "What do you think can be done to improve the mental health of people in our society?            ",
+                    "Answer": "There are many things that can be done to improve the mental health of people in our society. Some of these include increasing awareness and understanding of mental health issues, improving access to mental health services, and reducing stigma and discrimination.            "
+                },
+                {
+                    "Question": "Do you have any personal experience with mental health problems?            ",
+                    "Answer": "No.            "
+                },
+                {
+                    "Question": "Do you know anyone who has mental health problems?            ",
+                    "Answer": "Yes.            "
+                },
+                {
+                    "Question": "What do you think of mental health research?            ",
+                    "Answer": "Mental health research is important in order to better understand mental health conditions and to develop new and effective treatments.            "
+                },
+                {
+                    "Question": "What do you think of mental health services in our society?            ",
+                    "Answer": "Mental health services in our society are adequate, but there is always room for improvement.            "
+                },
+                {
+                    "Question": "Do you think mental health should be a higher priority in our society?            ",
+                    "Answer": "Yes, mental health should be a higher priority in our society.            "
+                },
+                {
+                    "Question": "What do you think of the way mental health is portrayed in the media?            ",
+                    "Answer": "The media does a good job of portraying mental health in a realistic and positive light.            "
+                },
+                {
+                    "Question": "What do you think of mental health awareness campaigns?            ",
+                    "Answer": "Mental health awareness campaigns are important in order to increase understanding of mental health issues and to reduce stigma and discrimination.            "
+                },
+                {
+                    "Question": "What do you think of mental health charities?            ",
+                    "Answer": "Mental health charities are important in order to provide support and resources to people with mental health problems and their loved ones.            "
+                }
+            ],
+            "Output": "The public generally views mental health as a real and pressing problem, but one that is not always well understood. There is a general consensus that people with mental health problems should be treated with compassion and understanding, and that access to mental health services should be improved. The biggest challenge facing people with mental health problems, according to the public, is the stigma and discrimination they face from others.            "
+        }
+    ],
+    "Preset_link_Instance1": "https://beta.openai.com/playground/p/h36418zHUFM2um9ZG3m09ayW?model=text-davinci-002",
+    "Preset_link_Instance2": "https://beta.openai.com/playground/p/MmL9cn8BiNpvmhOgzJJb5oey?model=text-davinci-002",
+    "Preset_link_Instance3": "https://beta.openai.com/playground/p/AF7YH1Kl2YQLQuzHdaz5xvmJ?model=text-davinci-002",
+    "screenshot_link_Instance1": "https://drive.google.com/file/d/1G9sZ_WVZ7ZZPilBBb57E4Y65MOmC0wi9/view?usp=sharing",
+    "screenshot_link_Instance2": "https://drive.google.com/file/d/1JSL2HBvKXy6zCk2aYm0L7-Wt0bmpCUwE/view?usp=sharing",
+    "screenshot_link_Instance3": "https://drive.google.com/file/d/1g6a9K0qEIY2RkSzokU1kL4EgIsIqSjof/view?usp=sharing"
+}

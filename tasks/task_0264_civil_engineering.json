@@ -1,0 +1,167 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Civil Engineering",
+    "Task": "Provide structural performance of different materials",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in structural engineering. I will ask some questions to collect information and then I will use the information to provide the structural performance of different materials and geometries of your building.    "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the dimensions of your building?                ",
+                    "Answer": "The building is 20 feet wide and 40 feet long.                 "
+                },
+                {
+                    "Question": "What is the height of your building?                ",
+                    "Answer": "The building is 30 feet tall.            "
+                },
+                {
+                    "Question": "What type of foundation does your building have?            ",
+                    "Answer": "The building has a concrete slab foundation.            "
+                },
+                {
+                    "Question": "What type of framing does your building have?            ",
+                    "Answer": "The building has wood and brick framing.            "
+                },
+                {
+                    "Question": "What type of roof does your building have?            ",
+                    "Answer": "The building has a wooden roof.            "
+                },
+                {
+                    "Question": "What are the dimensions of your building's windows?            ",
+                    "Answer": "The windows are 3 feet wide and 6 feet tall.            "
+                },
+                {
+                    "Question": "What are the dimensions of your building's doors?            ",
+                    "Answer": "The doors are 3 feet wide and 7 feet tall.            "
+                },
+                {
+                    "Question": "How many stories does your building have?            ",
+                    "Answer": "The building has three stories.            "
+                },
+                {
+                    "Question": "What is the weight of your building?            ",
+                    "Answer": "The building weighs 50,000 pounds.            "
+                },
+                {
+                    "Question": "What is the wind speed in your area?                ",
+                    "Answer": "The wind speed in the area is 120 miles per hour.                 "
+                },
+                {
+                    "Question": "What is the snow load in your area?                ",
+                    "Answer": "The snow load in the area is 30 pounds per square foot.                "
+                },
+                {
+                    "Question": "What is the seismic zone in your area?               ",
+                    "Answer": "The seismic zone in the area is 4.               "
+                },
+                {
+                    "Question": "What is the live load on your building?               ",
+                    "Answer": "The live load on the building is 40 pounds per square foot.               "
+                },
+                {
+                    "Question": "What are the dimensions of your building's floors?               ",
+                    "Answer": "The floors are 10 feet wide and 20 feet long.               "
+                }
+            ],
+            "Output": "The structural performance of the building is good. The building is able to withstand the wind speed and snow load in the area. The building is also able to resist the seismic activity in the area. The live load and dead load on the building are within the limit. The occupancy of the building is also within the limit. The dimensions of the floors, ceilings, and walls are also within the limit. The thickness of the walls is also within the limit. The R-value of the walls is also within the limit. The U-value of the windows is also within the limit. The SHGC of the windows is also within the limit. The air leakage of the building is also within the limit. The thermal conductivity of the walls is also within the limit. The vapor permeability of the walls is also within the limit.            "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the building?            ",
+                    "Answer": "The building is a residential home.             "
+                },
+                {
+                    "Question": "What are the dimensions of the building?            ",
+                    "Answer": "The building is 30 feet wide and 40 feet long.            "
+                },
+                {
+                    "Question": "What is the height of the building?            ",
+                    "Answer": "The building is two stories tall, with each story being 10 feet high.            "
+                },
+                {
+                    "Question": "What is the climate in the area where the building is located?            ",
+                    "Answer": "The climate is temperate.            "
+                },
+                {
+                    "Question": "What is the water table in the area where the building is located?            ",
+                    "Answer": "The water table in the area where the building is located is 10 feet below the ground surface.            "
+                },
+                {
+                    "Question": "What is the frost line in the area where the building is located?            ",
+                    "Answer": "The frost line in the area where the building is located is 36 inches below the ground surface.            "
+                },
+                {
+                    "Question": "What is the seismic zone in the area where the building is located?            ",
+                    "Answer": "The seismic zone in the area where the building is located is Zone 3.            "
+                },
+                {
+                    "Question": "What is the dead load of the building?            ",
+                    "Answer": "The dead load of the building is the weight of the materials used in the construction of the building. The dead load of the building is approximately 30,000 pounds.            "
+                },
+                {
+                    "Question": "What is the allowable bearing capacity of the soil?            ",
+                    "Answer": "The allowable bearing capacity of the soil is the amount of force that the soil can support without failing. The allowable bearing capacity of the soil is 2,500 pounds per square foot.            "
+                },
+                {
+                    "Question": "What is the allowable shear stress of the wood framing?            ",
+                    "Answer": "The allowable shear stress of the wood framing is the amount of force that the wood can support without failing. The allowable shear stress of the wood framing is 800 pounds per square inch.             "
+                }
+            ],
+            "Output": "The building is structurally sound. It is able to withstand the loads that it is subjected to, including the dead load, live load, wind load, snow load, and seismic load. The foundation is designed to support the weight of the building and the column is designed to support the beam. The beam is designed to support the joist and the joist is designed to support the truss. The truss is designed to support the roof.            "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the building?            ",
+                    "Answer": "The purpose of the building is to provide a space for people to live in.            "
+                },
+                {
+                    "Question": "What is the height of the building?            ",
+                    "Answer": "The height of the building is 50 feet.            "
+                },
+                {
+                    "Question": "What is the load on the building?            ",
+                    "Answer": "The load on the building is 8,000 pounds.            "
+                },
+                {
+                    "Question": "What is the maximum wind speed that the building can withstand?            ",
+                    "Answer": "The maximum wind speed that the building can withstand is 90 miles per hour.            "
+                },
+                {
+                    "Question": "What is the seismic zone of the building?            ",
+                    "Answer": "The seismic zone of the building is 4.            "
+                },
+                {
+                    "Question": "What is the occupancy type of the building?            ",
+                    "Answer": "The occupancy of the building is 10 people.            "
+                },
+                {
+                    "Question": "What is the floor type of the building?            ",
+                    "Answer": "The floor type of the building is concrete.            "
+                },
+                {
+                    "Question": "What is the door type of the building?            ",
+                    "Answer": "The door type of the building is hinged.            "
+                },
+                {
+                    "Question": "What is the thermal zone of the building?            ",
+                    "Answer": "The thermal zone of the building is 4.            "
+                },
+                {
+                    "Question": "What is the fire resistance rating of the building?            ",
+                    "Answer": "The fire resistance rating of the building is 3 hours.            "
+                }
+            ],
+            "Output": "The building is structurally sound and can withstand the loads placed on it. It is designed to last for 50 years and can resist fire for 3 hours. The sprinkler system is adequate for the building.            "
+        }
+    ],
+    "Preset_link_Instance1": "https://beta.openai.com/playground/p/mplQf57LTnzoNWsCYLW77mM2?model=text-davinci-002",
+    "Preset_link_Instance2": "https://beta.openai.com/playground/p/ysJa4ZeN41O2eEnwhVzDUjZU?model=text-davinci-002",
+    "Preset_link_Instance3": "https://beta.openai.com/playground/p/E7qYbiUxEFqoveI82Ka5UwO8?model=text-davinci-002",
+    "screenshot_link_instance1": "https://drive.google.com/file/d/1ETS6AL9lczgRaCp028u_nFKKugm-pxgS/view?usp=sharing",
+    "screenshot_link_instance2": "https://drive.google.com/file/d/1onlU_irjJm615KfjZAnxAf-iTn-JeyOI/view?usp=sharing",
+    "screenshot_link_instance3": "https://drive.google.com/file/d/1i_PvbP2hCR95u3s1LeJlVV1S-lSk-IgR/view?usp=sharing"
+}

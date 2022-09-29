@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Radio and Television",
+    "Task": "Task_1_radio_channel_recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in predicting your favorite radio channel. I will ask some questions to collect information and then I will use the information to predict your favorite  radio channel.",
+        "task_specific_prompt": "Suggest a radio channel name using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 18 years old."
+                },
+                {
+                    "Question": "What is your favorite genre of music?",
+                    "Answer": "My favorite genre of music is pop."
+                },
+                {
+                    "Question": "What is your favorite artist?",
+                    "Answer": "My favorite artist is Taylor Swift."
+                },
+                {
+                    "Question": "What is your favorite song?",
+                    "Answer": "My favorite song is I Knew You Were Trouble."
+                },
+                {
+                    "Question": "What radio stations do you usually listen to?",
+                    "Answer": "I usually listen to the local pop radio station."
+                },
+                {
+                    "Question": "Do you like to listen to the radio in the morning, afternoon, or evening?",
+                    "Answer": "I like to listen to the radio in the evening."
+                },
+                {
+                    "Question": "What activities do you like to do while listening to the radio?",
+                    "Answer": "I like to listen to the radio while I am driving."
+                },
+                {
+                    "Question": "What kind of mood are you in while listening to the radio?",
+                    "Answer": "I am usually in a good mood when I listen to the radio."
+                },
+                {
+                    "Question": "What do you think of commercials?",
+                    "Answer": "I think that commercials are a necessary part of radio."
+                },
+                {
+                    "Question": "What do you think of talk radio?",
+                    "Answer": "I think that talk radio can be interesting, but I prefer music radio."
+                }
+            ],
+            "Output": "Your favorite radio channel is probably the local pop radio station."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 55 years old."
+                },
+                {
+                    "Question": "What is your favorite genre of music?",
+                    "Answer": "My favorite genre of music is classical."
+                },
+                {
+                    "Question": "What is your favorite artist?",
+                    "Answer": "My favorite artist is Victor Alessandro."
+                },
+                {
+                    "Question": "What is your favorite song?",
+                    "Answer": "My favorite song is 12 Concertos, Op. 3 L'estro armonico."
+                },
+                {
+                    "Question": "What radio stations do you usually listen to?",
+                    "Answer": "I usually listen to the classical songs."
+                },
+                {
+                    "Question": "Do you like to listen to the radio in the morning, afternoon, or evening?",
+                    "Answer": "I like to listen to the radio in the morning."
+                },
+                {
+                    "Question": "What activities do you like to do while listening to the radio?",
+                    "Answer": "I like to listen to the radio while I am cooking."
+                },
+                {
+                    "Question": "What kind of mood are you in while listening to the radio?",
+                    "Answer": "I am usually in a chirpy mood when I listen to the radio."
+                },
+                {
+                    "Question": "What do you think of commercials?",
+                    "Answer": "I think that commercials are an unnecessary part of radio."
+                },
+                {
+                    "Question": "What do you think of talk radio?",
+                    "Answer": "I really like talk radio."
+                }
+            ],
+            "Output": "My favorite radio channel is WGBH 89.7 FM."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 32 years old."
+                },
+                {
+                    "Question": "What is your favorite genre of music?",
+                    "Answer": "My favorite genre of music is hip hop."
+                },
+                {
+                    "Question": "What is your favorite artist?",
+                    "Answer": "My favorite artist is Eminem."
+                },
+                {
+                    "Question": "What is your favorite song?",
+                    "Answer": "My favorite song is Not Afraid."
+                },
+                {
+                    "Question": "What radio stations do you usually listen to?",
+                    "Answer": "I usually listen to the talk show stations."
+                },
+                {
+                    "Question": "Do you like to listen to the radio in the morning, afternoon, or evening?",
+                    "Answer": "I like to listen to the radio in the afternoon."
+                },
+                {
+                    "Question": "What activities do you like to do while listening to the radio?",
+                    "Answer": "I like to listen to the radio while I am working."
+                },
+                {
+                    "Question": "What kind of mood are you in while listening to the radio?",
+                    "Answer": "I am usually in a mediocre mood when I listen to the radio."
+                },
+                {
+                    "Question": "What do you think of commercials?",
+                    "Answer": "I love commercials."
+                },
+                {
+                    "Question": "What do you think of talk radio?",
+                    "Answer": "I admire talk radio."
+                }
+            ],
+            "Output": "I think you would like the radio station Hot 97."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/R2PxQAy67CoYZaCt75IYfYqJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JUirolTf5fWen1xLfj6Dt2bv?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/tLNAp5QYPgoWZu2pgQuC0Ijc?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/18oB-3XSYbNoeUCD_KB6J0Bqe2qgetRO-?usp=sharing"
+}

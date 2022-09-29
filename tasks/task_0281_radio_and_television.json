@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Radio and Television",
+    "Task": "Task_1_name_of_song_based_on_mood",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting the name of the song depending on your mood right now. I will ask some questions to collect information and then I will use the information to suggest name of the song.",
+        "task_specific_prompt": "Suggest a name of the song using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling happy and content."
+                },
+                {
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am spending time with my family."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning to go back to school and get my degree."
+                },
+                {
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I believe that love is the most important thing in life."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is green."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is summer."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is sushi."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is reading."
+                },
+                {
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the beach."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is country"
+                }
+            ],
+            "Output": "The song that I would suggest is Here Comes the Sun by The Beatles."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling sad and lonely."
+                },
+                {
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am watching a movie."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning maintain a work-life balance."
+                },
+                {
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I believe that love is life."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is grey."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is winter."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is soup."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is traveling."
+                },
+                {
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the mountains."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is jazz."
+                }
+            ],
+            "Output": "The song I would suggest is Sad and Lonely by Billie Holiday."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling excited and chirpy."
+                },
+                {
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am dancing to my favorite song."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning to get a promotion."
+                },
+                {
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I don't believe in love."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is red."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is summer."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is dumplings."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is sketching."
+                },
+                {
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is Iceland."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is hip hop."
+                }
+            ],
+            "Output": "The song that I would suggest is Can't Stop the Feeling! by Justin Timberlake."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/R2PxQAy67CoYZaCt75IYfYqJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Kt9D3DEW8JKAtVtIr5O7w71K?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9G4g0rZUR3S185yzexoaqiVP?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1E-7BQSiVdV8fXmP8lOCBgNl9bWOLcR2L?usp=sharing"
+}

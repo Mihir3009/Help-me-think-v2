@@ -1,0 +1,160 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Small Business Management",
+    "Task": "Advertising Campaign Designer",
+    "Prompt": {
+        "pre_question_prompt": "I am a seasoned Advertising Campaign Designer. I will ask few questions to understand the product. I will then use the information to help you design creative ad campaigns to increase the reach.",
+        "task_specific_prompt": "Suggest some advices to optimize our advertising campaigns. Provide ideas for campaign taglines that are catchy and relevant to our product."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a new variant of toothbrush."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The product is designed with crisscross bristles to be more effective in cleaning teeth than traditional toothbrushes. In addition to the normal variant, there are two more variants each having a specific added natural ingredient to alleviate dental problems - neem to fight plaque and clove to reduce sensitivity."
+                },
+                {
+                    "Question": "What is the target audience for the product?",
+                    "Answer": "The target audience for the product is people who are looking for an effective toothbrush that can clean hard to reach areas in the mouth, as well as those with specific dental problems who are looking for a toothbrush that can address their needs."
+                },
+                {
+                    "Question": "What is the budget for the advertising campaign?",
+                    "Answer": "The budget for the advertising campaign is Rs.1,500,000."
+                },
+                {
+                    "Question": "What are the objectives of the advertising campaign?",
+                    "Answer": "The objectives of the advertising campaign are to increase awareness of the product, increase brand awareness and to eventually boost sales."
+                },
+                {
+                    "Question": "What are the key messages of the advertising campaign?",
+                    "Answer": "The key messages of the advertising campaign are that our toothbrush is more effective in cleaning teeth than traditional toothbrushes and reaches hard to clean areas in the mouth. We also want to highlight our other variants targeted for helping with specific dental problems."
+                },
+                {
+                    "Question": "What are the call to action for the advertising campaign?",
+                    "Answer": "The call to action for the advertising campaign is \"buy our toothbrush\"."
+                },
+                {
+                    "Question": "What is the timeline for the advertising campaign?",
+                    "Answer": "The duration for the campaign is three months during the major sporting events."
+                },
+                {
+                    "Question": "What are the channels that will be used for the advertising campaign?",
+                    "Answer": "The primary channels for the advertising campaign are television, print and online."
+                },
+                {
+                    "Question": "What are the specific creative elements that will be used in the advertising campaign?",
+                    "Answer": "The specific creative elements that will be used in the advertising campaign are catchy phrases and taglines about dental hygiene tying back to our product."
+                },
+                {
+                    "Question": "What are the key performance indicators for the advertising campaign?",
+                    "Answer": "The performance indicators for the advertising campaign are brand awareness, reach and sales."
+                }
+            ],
+            "Output": "-Design ad campaigns that focus on the benefits of the product rather than just the features.\n-Use creative taglines that tie in with the product's selling points, such as \"The toothbrush that gets the job done\", \"The ultimate toothbrush for a sparkling smile\" or \"The toothbrush for those who want the best\".\n-Use a mix of channels to reach the target audience, such as television, print, online and social media.\n-Design ads that are visually appealing and eye-catching.\n-Test different ad campaigns to see which ones are most effective."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a new cross-platform app to track habits and maintain to-do lists."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The software is designed to help users build good habits and routine by tracking individual habits. The to-do list is effective in helping remember things and nudging users to maintain routine. Sync across devices helps users keep track from multiple devices."
+                },
+                {
+                    "Question": "What is the target audience for the product?",
+                    "Answer": "The target audience for the product is people who are looking for an easy-to-use cross-platform app on their smartphones and computers to help them improve their lifestyle and build good practices."
+                },
+                {
+                    "Question": "What is the budget for the advertising campaign?",
+                    "Answer": "The initial budget for the advertising campaign is $10,000."
+                },
+                {
+                    "Question": "What are the objectives of the advertising campaign?",
+                    "Answer": "The objectives of the advertising campaign are to market the software online to improve general awareness."
+                },
+                {
+                    "Question": "What are the key messages of the advertising campaign?",
+                    "Answer": "The main message of the campaign is that our software is a cross-platform app to help build good routines and move away from bad habits. We also want to highlight that our app has a to-do list as well that can be used to nudge users regular to keep up the good work."
+                },
+                {
+                    "Question": "What are the call to action for the advertising campaign?",
+                    "Answer": "The call to action for the advertising campaign is \"Download our app - Habits!\"."
+                },
+                {
+                    "Question": "What is the timeline for the advertising campaign?",
+                    "Answer": "The duration for the campaign is two months for a trial run."
+                },
+                {
+                    "Question": "What are the channels that will be used for the advertising campaign?",
+                    "Answer": "The primary channels for the advertising campaign are online social media platforms and forums."
+                },
+                {
+                    "Question": "What are the specific creative elements that will be used in the advertising campaign?",
+                    "Answer": "The specific creative elements that will be used in the advertising campaign are attractive taglines about habits and routine building along with gifs to showcase our app in action."
+                },
+                {
+                    "Question": "What are the key performance indicators for the advertising campaign?",
+                    "Answer": "The performance indicators for the advertising campaign are product awareness, reach and downloads."
+                }
+            ],
+            "Output": "1. Try different creative elements and messaging in your ads to see what resonates best with your target audience.\n2. Make sure your ads are relevant to the platforms you are advertising on.\n3. Use attractive visuals and strong call to actions to grab attention.\n4. Keep your ads fresh by regularly changing up the creative.\n5. Monitor your campaign performance closely and make adjustments as needed.\n\nSome ideas for campaign taglines:\n\n1. \"Track your habits and improve your life!\"\n2. \"Build good routines with our app!\"\n3. \"Get our app to help you stay on track!\"\n4. \"Keep your habits in check with our app!\"\n5. \"Our app is the key to building good habits!\""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a new hair styling gel."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The product is created from natural ingredients and styles your hair for longer duration with no damage to hair."
+                },
+                {
+                    "Question": "What is the target audience for the product?",
+                    "Answer": "The hair styling gel is targeted at people who have frizzy hair and anyone in general who requires it for styling."
+                },
+                {
+                    "Question": "What is the budget for the advertising campaign?",
+                    "Answer": "The budget for the advertising campaign is Rs.100,000."
+                },
+                {
+                    "Question": "What are the objectives of the advertising campaign?",
+                    "Answer": "The product is new to the market and this advertising campaign is primarily created to improve product awareness and showcase its uses."
+                },
+                {
+                    "Question": "What are the key messages of the advertising campaign?",
+                    "Answer": "With this advertising campaign, we are looking to inform the wider audience about our naturally created hair styling gel. Highlighting that our gel does no damage to hair because of the natural ingredients is a key message that we want to convey."
+                },
+                {
+                    "Question": "What are the call to action for the advertising campaign?",
+                    "Answer": "The call to action for the advertising campaign is \"Try our new natural hair styling gel!\"."
+                },
+                {
+                    "Question": "What is the timeline for the advertising campaign?",
+                    "Answer": "The duration for the campaign is six months across all advertising mediums."
+                },
+                {
+                    "Question": "What are the channels that will be used for the advertising campaign?",
+                    "Answer": "The primary channels for the advertising campaign are online and television."
+                },
+                {
+                    "Question": "What are the specific creative elements that will be used in the advertising campaign?",
+                    "Answer": "The specific creative elements that will be used in the advertising campaign are cool taglines to highlight our naturally made hair styling gel."
+                },
+                {
+                    "Question": "What are the key performance indicators for the advertising campaign?",
+                    "Answer": "The performance indicators for the advertising campaign are product awareness and sales."
+                }
+            ],
+            "Output": "1. Use attractive visuals that are relevant to the product in the advertising campaign.\n\n2. Use taglines that are catchy and relevant to the product.\n\n3. Use a mix of online and offline channels to reach the target audience.\n\n4. Use specific creative elements that will grab attention.\n\n5. Monitor the key performance indicators regularly to optimize the campaign.\n\nSuggested taglines:\n\n1. \"Get the perfect style with our new hair styling gel!\"\n\n2. \"No more frizzy hair days!\"\n\n3. \"Get the perfect look with our natural hair styling gel.\"\n\n4. \"Say goodbye to bad hair days!\"\n\n5. \"Style your hair the natural way with our new hair gel.\""
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/XLc2Ca8Om4H4I7ZUiTyf7Mfi?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1w4rwbqEp4DK8oDC8Y9sExKcJyRzoMRVk?usp=sharing"
+}

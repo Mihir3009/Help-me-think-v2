@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "College Admissions",
+    "Task": "college consultant suggesting a college for admission",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert college consultant. I will ask some questions to collect information and then I will use the information to suggest a college for admission",
+        "task_specific_prompt": "Suggest a college using the questions and answers above. Give strong reason for selection."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your academic strengths?",
+                    "Answer": "I am very good at analysis, programming and robotics."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in artificial intelligence, machine learning, and NLP."
+                },
+                {
+                    "Question": "What are your college goals?",
+                    "Answer": "I want to attend a college that will allow me to pursue my passion for robotics and artificial intelligence."
+                },
+                {
+                    "Question": "What is your budget for college?",
+                    "Answer": "I am willing to spend up to $40,000 per year on college tuition."
+                },
+                {
+                    "Question": "What are your geographic preferences for college?",
+                    "Answer": "I would like to attend a college in the United States, Canada, or Japan."
+                },
+                {
+                    "Question": "What are your thoughts on online learning?",
+                    "Answer": "I am open to the idea of taking some online courses, but I would prefer to attend a traditional classes in college."
+                },
+                {
+                    "Question": "What are your thoughts on study abroad?",
+                    "Answer": "I think studying abroad is a great opportunity to learn about other cultures and to experience new things."
+                },
+                {
+                    "Question": "What type of extracurricular activities are you interested in?",
+                    "Answer": "I am interested in joining clubs and organizations that focus on robotics and artificial intelligence."
+                },
+                {
+                    "Question": "What type of campus do you prefer?",
+                    "Answer": "I would prefer a college campus that is located in a city or town which is accessible to the nearest city."
+                },
+                {
+                    "Question": "Do you have any preferences for housing?",
+                    "Answer": "I would prefer to rent a house nearby the campus."
+                }
+            ],
+            "Output": "One college that would be a great match for you is Carnegie Mellon University. This university has a strong focus on robotics and artificial intelligence, and it would be a great place for you to pursue your passions. Additionally, Carnegie Mellon University is located in Pittsburg, Pennsylvania, which is a city with a lot to offer in terms of entertainment and culture. The university also have a very strong reputation, and it would be a great choice for you if you are looking to pursue a career in robotics or artificial intelligence."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your academic strengths?",
+                    "Answer": "I am very good at management and marketing."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in market research and user experience."
+                },
+                {
+                    "Question": "What are your college goals?",
+                    "Answer": "I want to attend a college that will allow me to pursue my passion for business management."
+                },
+                {
+                    "Question": "What is your budget for college?",
+                    "Answer": "I am willing to spend up to $20,000 per year on college tuition."
+                },
+                {
+                    "Question": "What are your geographic preferences for college?",
+                    "Answer": "I would like to attend a college in India, the United Kingdom, or the United States."
+                },
+                {
+                    "Question": "What are your thoughts on online learning?",
+                    "Answer": "I am open to the idea of taking some online courses, but I would prefer to attend traditional classes in college."
+                },
+                {
+                    "Question": "What are your thoughts on studying abroad?",
+                    "Answer": "I think studying abroad is a great opportunity to learn about other cultures and to experience new things about marketing around the world."
+                },
+                {
+                    "Question": "What type of extracurricular activities are you interested in?",
+                    "Answer": "I am interested in joining clubs and organizations that focus on market research, social media trends and data analytics."
+                },
+                {
+                    "Question": "What type of campus do you prefer?",
+                    "Answer": "I would prefer a college campus that is located in a city or town which is accessible to the nearest city."
+                },
+                {
+                    "Question": "Do you have any preferences for housing?",
+                    "Answer": "I would prefer to rent a house nearby the campus."
+                }
+            ],
+            "Output": "I would suggest that you consider attending Northeastern University. This college has a strong focus on business management, which aligns well with your academic strengths and interests. Additionally, Northeastern University has good reputation for its marketing program, which can help you reach your goals of working in market research or user experience. The school also offers a variety of extracurricular activities that focus on business, marketing, and data analytics, which can help you get involved in the college community and gain valuable experience. Finally, the school is located in a city with a variety of internship and job opportunities, which can help you gain experience in your field and make connections for after graduation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your academic strengths?",
+                    "Answer": "I am very good at music, and fine arts."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in photography and music."
+                },
+                {
+                    "Question": "What are your college goals?",
+                    "Answer": "I want to attend a college that will allow me to pursue my passion for photography and digital art."
+                },
+                {
+                    "Question": "What is your budget for college?",
+                    "Answer": "I am willing to spend up to $30,000 per year on college tuition."
+                },
+                {
+                    "Question": "What are your geographic preferences for college?",
+                    "Answer": "I would like to attend a college in India, the United Kingdom, the United States, or Canada."
+                },
+                {
+                    "Question": "What are your thoughts on online learning?",
+                    "Answer": "I am open to the idea of taking some online courses, but I would prefer to attend traditional classes in college."
+                },
+                {
+                    "Question": "What are your thoughts on studying abroad?",
+                    "Answer": "I think studying abroad is a great opportunity to learn about other cultures and to experience new things about life around the world."
+                },
+                {
+                    "Question": "What type of extracurricular activities are you interested in?",
+                    "Answer": "I am interested in joining clubs and organizations that focus on cinematography and videography."
+                },
+                {
+                    "Question": "What type of campus do you prefer?",
+                    "Answer": "I would prefer a college campus that is located in a city or town which is accessible to the nearest city."
+                },
+                {
+                    "Question": "Do you have any preferences for housing?",
+                    "Answer": "I would prefer to rent a house nearby the campus."
+                }
+            ],
+            "Output": "The college I would suggest is the School of the Art Institute of Chicago. The School of the Art Institute of Chicago a world-renowned institution for art and design. It has an excellent reputation for its photography and fine arts programs. The school is located in Chicago, which is a major city with a lot to offer in terms of arts and culture. The school is also located near many other major cities, which makes it easy to travel to and from. The school has a variety of extracurricular activities, clubs, and organizations that focus on cinematography and videography. The school also offers housing options for students"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/DIeQRykxhXOBru6y0QTZn9vr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/azLX168lA5DDLzJF5UgYs1sE?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/rOssbYywaFlD7jPSO0C6x70D?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZaEkaLKDuyKQPVwWURmi_DsUZ50VRxth?usp=sharing"
+}

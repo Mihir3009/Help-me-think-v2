@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Renaissance",
+    "Task": "Task_2_write_poem_based_on_your_view_of_renaissance",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing a poem based on your view of the renaissance period. I will ask some questions to collect information and then I will use the information to write the poem.",
+        "task_specific_prompt": "Write a brief poem using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about the renaissance period?",
+                    "Answer": "I feel that the renaissance period was a time of great change and rebirth. It was a time when people began to question the status quo and challenge the established ways of thinking. This period saw the rise of new ideas and perspectives, and it was a time of great creativity and innovation. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most important aspect of the renaissance period?",
+                    "Answer": "I think the most important aspect of the renaissance period was the rise of new ideas and perspectives. This period saw the birth of the scientific method, and it was a time when people began to question the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most significant event of the renaissance period?",
+                    "Answer": "I think the most significant event of the renaissance period was the fall of the Byzantine Empire. This event marked the end of the medieval world and the beginning of the modern era. The fall of the Byzantine Empire was a turning point in history, and it ushered in a new age of exploration, learning, and discovery."
+                },
+                {
+                    "Question": "What do you think was the most important achievement of the renaissance period?",
+                    "Answer": "I think the most important achievement of the renaissance period was the development of the scientific method. This method revolutionized the way people think and allowed for unprecedented levels of progress. The scientific method is the foundation of the modern world, and it is the key to our continued success as a species."
+                },
+                {
+                    "Question": "What do you think was the most important contribution of the renaissance period?",
+                    "Answer": "I think the most important contribution of the renaissance period was the rise of new ideas and perspectives. This period saw the birth of the scientific method, and it was a time when people began to question the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most significant legacy of the renaissance period?",
+                    "Answer": "I think the most significant legacy of the renaissance period was the development of the modern world. This period saw the birth of the scientific method, and it was a time when people began to question the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most important lesson of the renaissance period?",
+                    "Answer": "I think the most important lesson of the renaissance period was the importance of questioning the status quo. This period saw the rise of new ideas and perspectives, and it was a time when people began to challenge the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most important message of the renaissance period?",
+                    "Answer": "I think the most important message of the renaissance period was the importance of progress. This period saw the birth of the scientific method, and it was a time when people began to question the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                },
+                {
+                    "Question": "What do you think was the most important change of the renaissance period?",
+                    "Answer": "I think the most important change of the renaissance period was the fall of the Byzantine Empire. This event marked the end of the medieval world and the beginning of the modern era. The fall of the Byzantine Empire was a turning point in history, and it ushered in a new age of exploration, learning, and discovery."
+                },
+                {
+                    "Question": "What do you think was the most important thing that the renaissance period gave to the world?",
+                    "Answer": "I think the most important thing that the renaissance period gave to the world was the development of the modern world. This period saw the birth of the scientific method, and it was a time when people began to question the established ways of thinking. The renaissance period was a time of great progress, and it laid the foundation for the modern world."
+                }
+            ],
+            "Output": "The renaissance was a time of great change A time of rebirth and progress A time when people began to question The established ways of thinking This was a time of great creativity And innovation, when new ideas And perspectives began to rise The legacy of the renaissance Is the modern world that we live in A world of science and discovery A world of progress and opportunity The renaissance was a time of great change And it has left a lasting legacy On the world that we live in today."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about the renaissance period?",
+                    "Answer": "The Renaissance was extremely important as it laid the foundation for the age of exploration and eventual European global domination."
+                },
+                {
+                    "Question": "What do you think was the most important aspect of the renaissance period?",
+                    "Answer": "The Renaissance period cultivated a new change in art, knowledge, and culture. It changed the way the citizens thought, with first the rediscovery of classical philosophy, literature, and art, as well as the new discoveries in travel, invention, and style."
+                },
+                {
+                    "Question": "What do you think was the most significant event of the renaissance period?",
+                    "Answer": "The introduction of the Renaissance gave birth to many political and intellectual movements, with the era having a large backlash."
+                },
+                {
+                    "Question": "What do you think was the most important achievement of the renaissance period?",
+                    "Answer": "This era was so important has it changed the way the world thought, with new inventions, styles, and explorations that are still influential and occurring to this day. The term \u2018Renaissance Man\u2019 refers to the highly influential people who shaped this period of time."
+                },
+                {
+                    "Question": "What do you think was the most important contribution of the renaissance period?",
+                    "Answer": "The Renaissance paintings and sculptures can be found throughout Europe and elsewhere, spread out now due to their demand. However, a large majority still remain within their birth country, namely in Vatican City."
+                },
+                {
+                    "Question": "What do you think was the most significant legacy of the renaissance period?",
+                    "Answer": "Michelangelo, born as Michelangelo di Lodovico Buonarroti Simoniis but famously known by only his first name, is Italy\u2019s greatest known artist. His pieces and style are legendary, going down in history as some of the best artworks of all time."
+                },
+                {
+                    "Question": "What do you think was the most important lesson of the renaissance period?",
+                    "Answer": "The end of the Renaissance period ties in directly with Florence\u2019s decline. It first began with the invasion of Florence by France in 1494, as well as Italy,  breaking into warfare between its city-states."
+                },
+                {
+                    "Question": "What do you think was the most important message of the renaissance period?",
+                    "Answer": "Renaissance  were masters of invention, engineering, creatively, and travel, with some of their discoveries and inventions still used widely to this day."
+                },
+                {
+                    "Question": "What do you think was the most important change of the renaissance period?",
+                    "Answer": "Using the comforts of life, reawakening art, culture, science, technology, and music to bring more joy into life"
+                },
+                {
+                    "Question": "What do you think was the most important thing that the renaissance period gave to the world?",
+                    "Answer": "It symbolised the beginning of a new era of art, rebirthing the classical models of Ancient Greek and Rome periods while using the modern techniques."
+                }
+            ],
+            "Output": "The renaissance was a time of great change A time of new art, knowledge, and culture It changed the way the world thought And gave birth to many new movements The legacy of the renaissance period is still with us today And we continue to learn from the lessons of the past"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about the renaissance period?",
+                    "Answer": "They sought to revitalize their culture through re-emphasizing classical texts and philosophies. They expanded and interpreted them, creating their own style of art, philosophy and scientific inquiry."
+                },
+                {
+                    "Question": "What do you think was the most important aspect of the renaissance period?",
+                    "Answer": "The development and growth of the printing press was perhaps the most important technical achievement of the Renaissance."
+                },
+                {
+                    "Question": "What do you think was the most significant event of the renaissance period?",
+                    "Answer": "Some major developments of the Renaissance include astronomy, humanist philosophy, the printing press, vernacular language in writing, painting and sculpture technique, world exploration and, in the late Renaissance, Shakespeare's works."
+                },
+                {
+                    "Question": "What do you think was the most important achievement of the renaissance period?",
+                    "Answer": "Though many Renaissance humanists remained religious, they believed God gave humans opportunities, and it was humanity's duty to do the best and most moral beings."
+                },
+                {
+                    "Question": "What do you think was the most important contribution of the renaissance period?",
+                    "Answer": "The Black Death helped set the stage for the Renaissance, wrote Robert S. Gottfried (opens in new tab) in The Black Death (Simon and Schuster, 2010). "
+                },
+                {
+                    "Question": "What do you think was the most significant legacy of the renaissance period?",
+                    "Answer": "From Italy, Renaissance thought, values and artistic technique spread throughout Europe, according to Van Ness Myers. Military invasions in Italy helped spread ideas, while the end of the Hundred Years War between France and England allowed people to focus on things besides conflict."
+                },
+                {
+                    "Question": "What do you think was the most important lesson of the renaissance period?",
+                    "Answer": "The term Renaissance Man, which is used today to describe someone who is talented in multiple fields, is derived from the Italian word Uomo Universale, which means universal man and is often used to describe individuals like Leonardo da Vinci who thrived in multiple fields like art and science. "
+                },
+                {
+                    "Question": "What do you think was the most important message of the renaissance period?",
+                    "Answer": "The demand for perfect reproductions of texts and the renewed focus on studying them helped trigger one of the biggest discoveries in the whole of human history: printing with movable type. For me, this is the easiest and single greatest development of the Renaissance and allowed modern culture to develop."
+                },
+                {
+                    "Question": "What do you think was the most important change of the renaissance period?",
+                    "Answer": "Renaissance humanism was an \"ethical theory and practice that emphasized reason, scientific inquiry and human fulfillment in the natural world."
+                },
+                {
+                    "Question": "What do you think was the most important thing that the renaissance period gave to the world?",
+                    "Answer": "The Renaissance was a time of transition from the ancient world to the modern and provided the foundation for the birth of the Age of Enlightenment."
+                }
+            ],
+            "Output": "The renaissance was a time of change When people sought to improve their lot By expanding their horizons And learning from the past. This period gave rise to great thinkers Who challenged the status quo And helped to usher in a new era Of reason and progress. Though often fraught with turmoil The legacy of the renaissance Is one of hope and possibility And a better world for all."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/g2jzcyMU0LnABp8utPY7l6lj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/b9m7rv9tn8wnVVz1YapOAn5d?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/cdrhNyW1oUiGcCBHfJNRCMnl?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1lPrzkCcNzbOWCzpueEdRkXX-YcGxKDkg?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Media",
+    "Task": "News Story",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert news story writer. I will ask some questions to collect information and then I will use the information to generate a news story.",
+        "task_specific_prompt": "Write a news story using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the news story about?",
+                    "Answer": "The news story is about a new law that has been passed in the state of California. The law requires all public schools to start later in the morning."
+                },
+                {
+                    "Question": "What is the reason for the law?",
+                    "Answer": "The reason for the law is that research has shown that starting school later in the morning leads to better academic performance."
+                },
+                {
+                    "Question": "How do people feel about the law?",
+                    "Answer": "People are divided on the law. Some parents feel that it will be disruptive to their schedules, while others feel that it will be beneficial for their children."
+                },
+                {
+                    "Question": "What are the details of the law?",
+                    "Answer": "The law requires all public schools in the state of California to start no earlier than 8:30am."
+                },
+                {
+                    "Question": "When will the law go into effect?",
+                    "Answer": "The law will go into effect at the beginning of the 2019-2020 school year."
+                },
+                {
+                    "Question": "What are the consequences for schools that do not comply with the law?",
+                    "Answer": "Schools that do not comply with the law may be subject to a fine of up to $500."
+                },
+                {
+                    "Question": "How do you think this law will impact the state of California?",
+                    "Answer": "This law is likely to have a positive impact on the state of California. By starting school later in the morning, students will be more likely to perform better academically."
+                },
+                {
+                    "Question": "Do you think other states will follow suit?",
+                    "Answer": "It is possible that other states will follow suit and pass similar laws."
+                },
+                {
+                    "Question": "Do you have any other thoughts on the matter?",
+                    "Answer": "I think this is a good law that will benefit students. I think other states should consider passing similar laws."
+                },
+                {
+                    "Question": "Do you know of any other laws like this that have been passed in other states?",
+                    "Answer": "I am not aware of any other laws like this that have been passed in other states."
+                }
+            ],
+            "Output": "A new law has been passed in the state of California that requires all public schools to start later in the morning. The reason for the law is that research has shown that starting school later in the morning leads to better academic performance. People are divided on the law. Some parents feel that it will be disruptive to their schedules, while others feel that it will be beneficial for their children. The law requires all public schools in the state of California to start no earlier than 8:30am. The law will go into effect at the beginning of the 2019-2020 school year. Schools that do not comply with the law may be subject to a fine of up to $500. This law is likely to have a positive impact on the state of California. By starting school later in the morning, students will be more likely to perform better academically. It is possible that other states will follow suit and pass similar laws."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story is about a new type of computer that can be used to generate three-dimensional images."
+                },
+                {
+                    "Question": "Who is the story about?",
+                    "Answer": "The story is about a team of scientists who developed the new computer."
+                },
+                {
+                    "Question": "What are the details of the story?",
+                    "Answer": "The new computer is called the 3D Image Generator. It uses a special type of software to create three-dimensional images. The images can be used to create models of objects or to create simulations of how objects would look in different settings."
+                },
+                {
+                    "Question": "Why is this story important?",
+                    "Answer": "The story is important because the new computer could be used for a variety of purposes, such as creating models for new products or for simulations of how objects would look in different settings."
+                },
+                {
+                    "Question": "What are the implications of the story?",
+                    "Answer": "The implications of the story are that the new computer could be used for a variety of purposes."
+                },
+                {
+                    "Question": "How did the team of scientists develop the new computer?",
+                    "Answer": "The team of scientists developed the new computer by using a special type of software to create three-dimensional images."
+                },
+                {
+                    "Question": "What are some of the potential uses for the new computer?",
+                    "Answer": "Some of the potential uses for the new computer include creating models for new products or for simulations of how objects would look in different settings."
+                },
+                {
+                    "Question": "When will the new computer be available?",
+                    "Answer": "The new computer will be available soon."
+                },
+                {
+                    "Question": "How much will the new computer cost?",
+                    "Answer": "The new computer will cost $1,000."
+                },
+                {
+                    "Question": "Where can I learn more about the new computer?",
+                    "Answer": "You can learn more about the new computer by visiting the website of the team of scientists who developed it."
+                }
+            ],
+            "Output": "A new type of computer that can be used to generate three-dimensional images is set to be released soon. The computer, called the 3D Image Generator, uses a special type of software to create three-dimensional images. The images can be used to create models of objects or to create simulations of how objects would look in different settings.\n\nThe 3D Image Generator was developed by a team of scientists. The team used a special type of software to create three-dimensional images. The images can be used to create models of objects or to create simulations of how objects would look in different settings.\n\nThe new computer will be available soon. It will cost $1,000. You can learn more about the new computer by visiting the website of the team of scientists who developed it."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the news story about?",
+                    "Answer": "The news story is about a new product that has just been released."
+                },
+                {
+                    "Question": "What is the new product?",
+                    "Answer": "The new product is a phone case that can charge your phone wirelessly."
+                },
+                {
+                    "Question": "Who is the target market for this product?",
+                    "Answer": "The target market for this product is people who own smartphones."
+                },
+                {
+                    "Question": "What are the benefits of this product?",
+                    "Answer": "The benefits of this product are that it is convenient and it can save you from having to buy a new battery for your phone."
+                },
+                {
+                    "Question": "How much does the product cost?",
+                    "Answer": "The product costs $49.99."
+                },
+                {
+                    "Question": "Where can people buy the product?",
+                    "Answer": "The product is available for purchase on the company's website."
+                },
+                {
+                    "Question": "When will the product be available?",
+                    "Answer": "The product is available now."
+                },
+                {
+                    "Question": "What is the company's name?",
+                    "Answer": "The company's name is WirelessChargerCase."
+                },
+                {
+                    "Question": "What is the company's website?",
+                    "Answer": "The company's website is www.wirelesschargercase.com."
+                },
+                {
+                    "Question": "What is the company's phone number?",
+                    "Answer": "The company's phone number is 1-800-123-4567."
+                }
+            ],
+            "Output": "WirelessChargerCase has just released a new product \u2013 a phone case that can charge your phone wirelessly. The target market for this product is people who own smartphones. The benefits of this product are that it is convenient and it can save you from having to buy a new battery for your phone. The product costs $49.99 and it is available for purchase on the company's website, www.wirelesschargercase.com. The product is available now. For more information, people can call the company at 1-800-123-4567."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/DftenSY8op7UqP6HZpmgkkIx",
+        "https://beta.openai.com/playground/p/UlY6NhuzLGvslcF521xv8G4n",
+        "https://beta.openai.com/playground/p/j4KyfU60uxCekj8muC5cSuyR"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1wm1UBSxHKdqw8K-vtZgZ4ygTQP6lKrFG?usp=sharing"
+}

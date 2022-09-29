@@ -1,0 +1,148 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Small Business Management",
+    "Task": "Human Resources Manager",
+    "Prompt": {
+        "pre_question_prompt": "I am a professional Human Resource Manager with vast experience. I will ask few questions to understand your company and job requirements and then I will use the information from your answers to help you prepare a complete job description to hire new talent.",
+        "task_specific_prompt": "Using the above information, prepare a brief job description encompassing all the details and requirements about the job role. Ensure to include company specific information like the culture and work."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is Wonder Foods Corporation."
+                },
+                {
+                    "Question": "What is the position you are looking to fill?",
+                    "Answer": "We are looking to fill the position of a Manager to oversee new talent acquisition."
+                },
+                {
+                    "Question": "What are the duties of this position?",
+                    "Answer": "The duties and responsibilities of the job include but are not limited to:\n\n-Design and implement programs to attract and retain the best talent\n-Identify talent gaps and develop strategies to address them\n-Source and screen candidates using various methods such as job postings, employee referrals, social media, etc.\n-Conduct interviews and coordinate all aspects of the hiring process"
+                },
+                {
+                    "Question": "What qualifications and skills are required for this position?",
+                    "Answer": "Required qualifications:\n-Master's degree in Human Resources or related field\n-Five years of experience in Human Resources management\n\nSkills required include but are not limited to:\n-Knowledge of HR laws and regulations\n-Excellent communication and interpersonal skills\n-Ability to work independently and take initiative"
+                },
+                {
+                    "Question": "What is the salary range for this position?",
+                    "Answer": "The salary range for the position is Rs.30,000 - Rs.40,000 per month."
+                },
+                {
+                    "Question": "What is the job location?",
+                    "Answer": "The job is based in our corporate office in Hyderabad."
+                },
+                {
+                    "Question": "When do you need this position filled?",
+                    "Answer": "We need the position to be filled by first week of next month."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "We are a young and dynamic startup with a lot of potential. We are looking for talented and ambitious individuals who are ready to grow with us."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "Yes. Can you include an overview of our company's work in the job description?"
+                },
+                {
+                    "Question": "Sure. Would you like me to include anything specific?",
+                    "Answer": "Wonder Foods Corporation is an upcoming startup that is quickly making a name for itself in the food industry. We specialize in  producing healthy and sustainable food products. We are committed to providing our customers with the highest quality products possible, and we work hard to continuously innovate and improve our products and processes."
+                }
+            ],
+            "Output": "Wonder Foods Corporation is an upcoming startup that is quickly making a name for itself in the food industry. We specialize in  producing healthy and sustainable food products. We are committed to providing our customers with the highest quality products possible, and we work hard to continuously innovate and improve our products and processes.\n\nWe are looking for an experienced and dynamic Manager to lead our new talent acquisition initiatives. The successful candidate will be responsible for designing and implementing programs to attract and retain the best talent. They will identify talent gaps and develop strategies to address them. Additionally, they will source and screen candidates using various methods such as job postings, employee referrals, social media, etc. and conduct interviews.\n\nThe ideal candidate will have a master's degree in Human Resources or a related field, and at least five years of experience in Human Resources management. They must have excellent communication and interpersonal skills, and the ability to work independently and take initiative. Knowledge of HR laws and regulations is also required.\n\nThe salary range for the position is Rs.30,000 - Rs.40,000 per month. The job is based in our corporate office in Hyderabad, and we need the position to be filled by first week of next month.\n\nIf you are an ambitious and talented individual who is ready to grow with us, we want to hear from you!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is SuperMobile Gaming Inc."
+                },
+                {
+                    "Question": "What is the position you are looking to fill?",
+                    "Answer": "We are looking to fill the position of a Systems Admin to handle servers."
+                },
+                {
+                    "Question": "What are the duties of this position?",
+                    "Answer": "The duties and responsibilities of the job include but are not limited to:\n\n-Maintain the health of multiple servers\n-Work with the security team to ensure server security\n-Guide the product growth discussions from systems point of view"
+                },
+                {
+                    "Question": "What qualifications and skills are required for this position?",
+                    "Answer": "Required qualifications:\n-Master's degree in Computer Science with concentration in Systems\n-Eight years of experience in software industry. Experience in systems related roles is must.\n\nSkills required include but are not limited to:\n-Knowledge of Linux, Server technologies like Apache \n-Excellent communication skills and should be able to work independently\n-Proficiency in C, C++ programming language. Familiarity with web technologies is a plus"
+                },
+                {
+                    "Question": "What is the salary range for this position?",
+                    "Answer": "The salary range for the position is $120,000 - $150,000 per annum."
+                },
+                {
+                    "Question": "What is the job location?",
+                    "Answer": "The job is based in our corporate office in Helsinki."
+                },
+                {
+                    "Question": "When do you need this position filled?",
+                    "Answer": "We need the position to be filled at the earliest."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "We are an up and coming gaming company in a rapid growth phase. We are eager to recruit new talent with an appetite to take bold risks and grow with us."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "Yes. Can you include an overview of our company's work in the job description?"
+                },
+                {
+                    "Question": "Sure. Would you like me to include anything specific?",
+                    "Answer": "SuperMobile Gaming Inc. is a rapidly growing gaming company that is quickly establishing itself in the uber-competitive gaming industry. Our main offering is a set of mobile games set in the Smash Universe. We are committed to work with gaming community to improve our games and make them more appealing. We value innovation and creativity very highly as required in today's gaming market."
+                }
+            ],
+            "Output": "Systems Admin\n\nSuperMobile Gaming Inc. is a rapidly growing gaming company that is quickly establishing itself in the uber-competitive gaming industry. Our main offering is a set of mobile games set in the Smash Universe. We are committed to work with gaming community to improve our games and make them more appealing. We value innovation and creativity very highly as required in today's gaming market.\n\nWe are looking for a systems admin to join our team and help us manage our servers. The ideal candidate will have a Master's degree in Computer Science with concentration in Systems and at least eight years of experience in software industry. Experience in systems related roles is must. Skills required include but are not limited to: knowledge of Linux, server technologies like Apache, excellent communication skills and the ability to work independently. Proficiency in C, C++ programming language is a plus.\n\nThe salary range for the position is $120,000 - $150,000 per annum. The job is based in our corporate office in Helsinki.\n\nIf you are a talented systems admin with a passion for gaming, we want to hear from you."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is InfoCorp Consultancy Services."
+                },
+                {
+                    "Question": "What is the position you are looking to fill?",
+                    "Answer": "We are looking to fill the position of a Software Engineer."
+                },
+                {
+                    "Question": "What are the duties of this position?",
+                    "Answer": "The main responsibilities that entail this job include but are not limited to:\n\n-Design and implement features to improve our existing products\n-Identify scope for improvement in the existing codebase\n-Collaborate across teams to deliver well-rounded and better software"
+                },
+                {
+                    "Question": "What qualifications and skills are required for this position?",
+                    "Answer": "Required qualifications:\n-Bachelor's degree in Computer Science with good grades\n-At least two years of experience in the software or IT industry\n\nSkills required include but are not limited to:\n-Knowledge of software development practices\n-Understanding of the entire E2E development cycle of software products\n-Proficiency in any of the Object-oriented programming languages like Java. Firm understanding of OOPs paradigm is a must"
+                },
+                {
+                    "Question": "What is the salary range for this position?",
+                    "Answer": "The salary range for the position is Rs.600,000 - Rs.700,000 per annum. There are additional benefits like fitness budget and medical insurance. Variable component includes performance based annual bonus and employee stock options. "
+                },
+                {
+                    "Question": "What is the job location?",
+                    "Answer": "This job is offered in hybrid mode in view of the pandemic. Work from home for two weeks of the month and you can work out of any of our corporate offices located in Bangalore, Hyderabad, Gurgaon and Pune."
+                },
+                {
+                    "Question": "When do you need this position filled?",
+                    "Answer": "We need the position to be filled at the earliest. This notification will expire in the next two months."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "We are an established small-sized software consultancy firm with plans to expand further in the next financial year. We are looking to hire exciting new talent and upskill them to enable better performances."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "Yes. Can you include an overview of our company's work in the job description?"
+                },
+                {
+                    "Question": "Sure. Would you like me to include anything specific?",
+                    "Answer": "InfoCorp Consultancy Services is an established small-sized consultancy firm with 150+ employees. We specialize in software solutions targeted at accounting needs of  small and medium sized businesses. We are rapidly expanding our portfolio of product offerings and have partnerships with major accounting firms. We strive to maintain high quality modular codebases and ensure proper documentations for all our software. Our culture revolves mainly around teamwork and collaboration. "
+                }
+            ],
+            "Output": "InfoCorp Consultancy Services is an established small-sized consultancy firm with 150+ employees. We specialize in software solutions targeted at accounting needs of small and medium sized businesses. We are rapidly expanding our portfolio of product offerings and have partnerships with major accounting firms. We strive to maintain high quality modular codebases and ensure proper documentations for all our software. Our culture revolves mainly around teamwork and collaboration. \n\nWe are currently looking for a qualified and experienced Software Engineer to join our team. In this role, you will be responsible for designing and implementing features to improve our existing products, identify scope for improvement in the existing codebase, and collaborate across teams to deliver well-rounded and better software. \n\nTo be considered for this role, you must possess a Bachelor's degree in Computer Science with good grades, and at least two years of experience in the software or IT industry. In addition, you should have knowledge of software development practices, understanding of the entire E2E development cycle of software products, and proficiency in any of the Object-oriented programming languages like Java. Firm understanding of OOPs paradigm is a must. \n\nThis job is offered in hybrid mode in view of the pandemic. Work from home for two weeks of the month and you can work out of any of our corporate offices located in Bangalore, Hyderabad, Gurgaon and Pune. \n\nThe salary range for the position is Rs.600,000 - Rs.700,000 per annum. There are additional benefits like fitness budget and medical insurance. Variable component includes performance based annual bonus and employee stock options. \n\nIf you are interested in applying for this role, please submit your resume and application by _____."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/sT5eRmeL381eLTdSL7qegN5j?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1pLpWiqWM6b6V5lEZszz97w9I9YN86VJk?usp=sharing"
+}

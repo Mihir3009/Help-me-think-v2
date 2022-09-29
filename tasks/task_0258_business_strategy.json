@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Business Strategy",
+    "Task": "Employee Training",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert employee training process writer. I will ask some questions to collect information and then I will use the information to generate an employee training process.",
+        "task_specific_prompt": "Write an employee training process using the questions and answers above. The process should be a brief overview."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of business do you operate?",
+                    "Answer": "We sell candles."
+                },
+                {
+                    "Question": "What are the job duties of the employees who will be using the training process?",
+                    "Answer": "The employees' job duties include dipping the wicks in hot wax, pouring the wax into the mold, and then removing the candles from the mold once they have cooled."
+                },
+                {
+                    "Question": "What is the goal of the employee training process?",
+                    "Answer": "The goal of the employee training process is to ensure that employees are able to correctly and safely perform their job duties."
+                },
+                {
+                    "Question": "Are there any specific safety concerns that need to be addressed in the employee training process?",
+                    "Answer": "Yes, there are safety concerns that need to be addressed in the employee training process. Employees need to be aware of the risks of hot wax and how to avoid getting burned."
+                },
+                {
+                    "Question": "Are there any other considerations that need to be taken into account when designing the employee training process?",
+                    "Answer": "Yes, the employee training process should be designed to meet the specific needs of the employees. The training process should be tailored to the employees' learning style and the company's culture."
+                },
+                {
+                    "Question": "How long do you expect the employee training process to take?",
+                    "Answer": "The employee training process should take approximately two hours."
+                },
+                {
+                    "Question": "Who will be responsible for conducting the employee training?",
+                    "Answer": "The employee training will be conducted by the company's human resources department."
+                },
+                {
+                    "Question": "When do you want the employee training to be completed?",
+                    "Answer": "The employee training should be completed within two weeks of the employees' start date."
+                },
+                {
+                    "Question": "What methods will be used to evaluate the effectiveness of the employee training?",
+                    "Answer": "The effectiveness of the employee training will be evaluated through a combination of methods, including assessments, interviews, and observations."
+                },
+                {
+                    "Question": "What is the budget for the employee training?",
+                    "Answer": "The budget for the employee training is $500."
+                }
+            ],
+            "Output": "1. The company's human resources department will conduct the employee training within two weeks of the employees' start date.\n\n2. The employee training will last for approximately two hours.\n\n3. The employee training will cover the job duties of the employees, including dipping the wicks in hot wax, pouring the wax into the mold, and removing the candles from the mold.\n\n4. The employee training will also cover safety concerns, such as the risks of hot wax and how to avoid getting burned.\n\n5. The employee training will be tailored to the employees' learning style and the company's culture.\n\n6. The employee training will be evaluated through a combination of methods, including assessments, interviews, and observations."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is The Little Cat Company."
+                },
+                {
+                    "Question": "How many employees do you have?",
+                    "Answer": "We have 50 employees."
+                },
+                {
+                    "Question": "What type of business are you in?",
+                    "Answer": "We are in the business of selling pet products."
+                },
+                {
+                    "Question": "What is the average length of time an employee stays with your company?",
+                    "Answer": "The average length of time an employee stays with our company is 2 years."
+                },
+                {
+                    "Question": "What type of training do you currently offer employees?",
+                    "Answer": "We offer on-the-job training to our employees."
+                },
+                {
+                    "Question": "What are some of the challenges you face with employee training?",
+                    "Answer": "Some of the challenges we face with employee training include:\n\n- Ensuring that all employees receive the same level of training\n- Creating training materials that are engaging and easy to understand\n- Keeping employees motivated to complete their training\n- Measuring the success of our employee training programs"
+                },
+                {
+                    "Question": "What are your goals for employee training?",
+                    "Answer": "Our goals for employee training are to:\n\n- Increase employee productivity\n- Decrease employee turnover\n- Improve employee satisfaction\n- Enhance customer service"
+                },
+                {
+                    "Question": "What type of format do you prefer for employee training materials?",
+                    "Answer": "We prefer employee training materials that are interactive and easy to understand."
+                },
+                {
+                    "Question": "What is the best way to reach all of your employees with training?",
+                    "Answer": "The best way to reach all of our employees with training is to offer a mix of online and in-person training."
+                },
+                {
+                    "Question": "Are there any specific topics you would like covered in employee training?",
+                    "Answer": "Some specific topics we would like covered in employee training include:\n\n- Time management\n- Communication skills\n- Conflict resolution\n- Sales techniques\n- Customer service"
+                }
+            ],
+            "Output": "The Little Cat Company offers a mix of online and in-person employee training to ensure that all employees receive the same level of training. The company's goals for employee training are to increase employee productivity, decrease employee turnover, improve employee satisfaction, and enhance customer service."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of training process are you looking for?",
+                    "Answer": "I am looking for an employee training process that covers the basics of the job and then provides additional training on specific tasks."
+                },
+                {
+                    "Question": "What type of job is this training process for?",
+                    "Answer": "This training process is for a zookeeper."
+                },
+                {
+                    "Question": "What specific tasks does this job require?",
+                    "Answer": "This job requires feeding the animals, cleaning their enclosures, and providing medical care."
+                },
+                {
+                    "Question": "How many employees need to be trained?",
+                    "Answer": "There are 10 employees who need to be trained."
+                },
+                {
+                    "Question": "How much time do you have to train the employees?",
+                    "Answer": "The employees have two weeks to complete the training."
+                },
+                {
+                    "Question": "Who will be conducting the training?",
+                    "Answer": "The training will be conducted by the zoo's senior zookeeper."
+                },
+                {
+                    "Question": "What format do you want the training process to be in?",
+                    "Answer": "I would like the training process to be in a written format."
+                },
+                {
+                    "Question": " Would you like the training process to be specific to the zoo where the employees work, or would you like a general training process that could be used at any zoo?",
+                    "Answer": "I would like the training process to be specific to the zoo where the employees work."
+                },
+                {
+                    "Question": "What are the goals of this training process?",
+                    "Answer": "The goals of this training process are to ensure that the employees are familiar with the basics of the job and that they are able to complete the specific tasks required of them."
+                },
+                {
+                    "Question": "What are the objectives of this training process?",
+                    "Answer": "The objectives of this training process are to familiarize the employees with the facilities and the animals, to teach them how to safely and effectively complete the tasks required of them, and to provide them with the opportunity to ask questions and get feedback."
+                }
+            ],
+            "Output": "1. The training process will last for two weeks and will be conducted by the zoo's senior zookeeper.\n2. During the first week, the employees will be familiarized with the facilities and the animals. They will also learn how to safely and effectively complete the tasks required of them.\n3. In the second week, the employees will put what they have learned into practice. They will be given the opportunity to ask questions and get feedback.\n4. At the end of the training process, the employees should be able to confidently and competently complete the tasks required of them."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/MVxSCqT32VVtqc4ydFLzUJ7N",
+        "https://beta.openai.com/playground/p/14EfosQ5wxxIXeGi6fhy0oco",
+        "https://beta.openai.com/playground/p/6bscMyiyT0R5j70sQSShESjl"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Kp1-pq71-mnwS_7V9UGrGi0WMPVg9y6K?usp=sharing"
+}

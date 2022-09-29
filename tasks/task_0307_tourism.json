@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Tourism",
+    "Task": "Categorizing the visit of the tourist",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert on Tourism . I will ask some questions to collect information and categorize your visit accordingly.",
+        "task_specific_prompt": "Categorize the nature of visit the tourist is planning to take"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of your visit?",
+                    "Answer": "Medical Research"
+                },
+                {
+                    "Question": "What is the duration of your stay?",
+                    "Answer": "3 weeks"
+                },
+                {
+                    "Question": "Where are you staying?",
+                    "Answer": "With my family"
+                },
+                {
+                    "Question": "What is your budget for this trip?",
+                    "Answer": "$2000"
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "Medical research and visiting new places"
+                },
+                {
+                    "Question": "What are your expectations for this trip?",
+                    "Answer": "To learn more about medical research and to visit new places"
+                },
+                {
+                    "Question": "What is your opinion of tourism?",
+                    "Answer": "I believe that tourism is a great way to learn about new cultures and to enhance your knowledge from the technology of that country."
+                },
+                {
+                    "Question": "What are your thoughts on medical research?",
+                    "Answer": "I believe that medical research is extremely important in order to find cures for diseases and to improve the quality of life for people around the world."
+                },
+                {
+                    "Question": "who is sponsoring your trip?",
+                    "Answer": "My university is sponsoring my trip for research reasons."
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer": "I am a medical student."
+                }
+            ],
+            "Output": "\nThis is an educational/research trip. \n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of your visit?",
+                    "Answer": "Work related."
+                },
+                {
+                    "Question": "What is the duration of your stay?",
+                    "Answer": "1 week"
+                },
+                {
+                    "Question": "Where are you staying?",
+                    "Answer": "In a hotel."
+                },
+                {
+                    "Question": "What is your budget for this trip?",
+                    "Answer": "$5000"
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "Silent places for peaceful meetings."
+                },
+                {
+                    "Question": "What are your expectations for this trip?",
+                    "Answer": "To successfully resolve work issues."
+                },
+                {
+                    "Question": "What is your opinion of tourism?",
+                    "Answer": "I believe that tourism is a great way to learn about new cultures and to enhance your knowledge from the technology of that country."
+                },
+                {
+                    "Question": "What are your thoughts on work?",
+                    "Answer": "Work is an important aspect in everyone's life."
+                },
+                {
+                    "Question": "who is sponsoring your trip?",
+                    "Answer": "I am sponsoring my trip."
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer": "I own a small business."
+                }
+            ],
+            "Output": "\nThe tourist is planning to take a business trip and is interested in meeting places and resolving work issues.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of your visit?",
+                    "Answer": "Wine Sampling."
+                },
+                {
+                    "Question": "What is the duration of your stay?",
+                    "Answer": "1 week"
+                },
+                {
+                    "Question": "Where are you staying?",
+                    "Answer": "In a wine yard."
+                },
+                {
+                    "Question": "What is your budget for this trip?",
+                    "Answer": "$1000"
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "Brewery visits."
+                },
+                {
+                    "Question": "What are your expectations for this trip?",
+                    "Answer": "To sample as many wines as possible."
+                },
+                {
+                    "Question": "What is your opinion of tourism?",
+                    "Answer": "I believe that tourism is a great way to learn about new cultures and to enhance your knowledge from the technology of that country."
+                },
+                {
+                    "Question": "What are your thoughts on wine sampling?",
+                    "Answer": "All wines should be tasted; some should only be sipped, but with others, drink the whole bottle."
+                },
+                {
+                    "Question": "who is sponsoring your trip?",
+                    "Answer": "I am sponsoring my trip."
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer": "I am representative at my frim"
+                }
+            ],
+            "Output": "\nThe tourist is planning to take a wine sampling trip. \n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wSiKNQaOCxhzuRostvXqw61W?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8MkHs6tMOpjBDyE3spKnNhWG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pixPHLtjLgfzujihGq2o1QOL?model=text-davinci-002"
+    ],
+    "screenshot link": [
+        "https://drive.google.com/file/d/1kbqTLnt-e8rnNLiL6fB3DqWLs7JNR1tT/view?usp=sharing",
+        "https://drive.google.com/file/d/16jKWyownfsn1-HvYMApPcY8AamOfdgcK/view?usp=sharing",
+        "https://drive.google.com/file/d/1heBYOyVgINzmYeYTSXXtxh9Fz7zM-lCY/view?usp=sharing"
+    ]
+}

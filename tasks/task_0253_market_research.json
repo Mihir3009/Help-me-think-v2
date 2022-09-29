@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Market Research",
+    "Task": "Product Development and Launch Planning",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Product Development. I will ask some questions to collect information about your product and then I will use the information to suggest steps to launch a successful product in the market.",
+        "task_specific_prompt": "Write a product development and launch timeline for the above product using the questions and answers above. Mention minute details and marketing strategies for product promotion."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your product?",
+                    "Answer": "My product is a new type of toothbrush."
+                },
+                {
+                    "Question": "What is the need or problem that your product solves??",
+                    "Answer": "The need that my product solves is the problem of people not brushing their teeth correctly. My toothbrush has a unique design that helps people brush their teeth correctly."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "My target market is people who want to have better oral hygiene."
+                },
+                {
+                    "Question": "What are your product's features and benefits?",
+                    "Answer": "My product's features are that it is easy to use and it helps people brush their teeth correctly. The benefits of my product are that it will help people have better oral hygiene and they will be able to brush their teeth correctly."
+                },
+                {
+                    "Question": "What is your product's unique selling proposition (USP)?",
+                    "Answer": "My product's unique selling proposition is that it is the only toothbrush on the market that helps people brush their teeth correctly."
+                },
+                {
+                    "Question": "What are your product's strengths?",
+                    "Answer": "My product's strengths are that it is easy to use and it has a unique design."
+                },
+                {
+                    "Question": "What are your product's weaknesses?",
+                    "Answer": "My product's weaknesses are that it is not available in stores and it is not well known."
+                },
+                {
+                    "Question": "What are the threats to your product?",
+                    "Answer": "The threats to my product are that there are other products on the market that do the same thing and that people may not be interested in using a new type of toothbrush."
+                },
+                {
+                    "Question": "What are the opportunities for your product?",
+                    "Answer": "The opportunities for my product are that it can help people have better oral hygiene and that it is a new type of toothbrush."
+                },
+                {
+                    "Question": "What are your product's risks?",
+                    "Answer": "The risks for my product are that it is not available in stores and it is not well known."
+                }
+            ],
+            "Output": "1. Research and develop the product. This includes creating a prototype and testing it.\n2. Market the product to potential customers. This can be done through online ads, social media, and PR.\n3. Launch the product. This includes making the product available for purchase and promoting it.\n4. Evaluate the product's success. This includes analyzing sales and customer feedback.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your product?",
+                    "Answer": "My product is a flying car."
+                },
+                {
+                    "Question": "What is the need or problem that your product solves??",
+                    "Answer": "The need that my product solves is the problem of traffic and overcrowding on roads. My product can help consumers quickly move to their destination."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "My target market is people who want to low transit times."
+                },
+                {
+                    "Question": "What are your product's features and benefits?",
+                    "Answer": "My product's features are aerodynamic and quick transit to destination."
+                },
+                {
+                    "Question": "What is your product's unique selling proposition (USP)?",
+                    "Answer": "My product's unique selling proposition is that it is the only flying car to be developed in the history of automobiles."
+                },
+                {
+                    "Question": "What are your product's strengths?",
+                    "Answer": "My product's strengths are that it is easy to use and it has a unique design and allows faster transit."
+                },
+                {
+                    "Question": "What are your product's weaknesses?",
+                    "Answer": "My product's weaknesses are that it is difficult to make, uses a lot of research and development funds and require airspace permissions."
+                },
+                {
+                    "Question": "What are the threats to your product?",
+                    "Answer": "The threats to my product are government regulations and air accidents."
+                },
+                {
+                    "Question": "What are the opportunities for your product?",
+                    "Answer": "The opportunities for my product are that it can help people have faster transit time."
+                },
+                {
+                    "Question": "What are your product's risks?",
+                    "Answer": "The risks for my product are that it can lead to air accidents."
+                }
+            ],
+            "Output": "1. Research and development: The first step is to research and develop the product. This step will include designing the product, testing it and making sure it meets all safety standards.\n2. Fundraising: The next step is to raise funds for the product. This can be done through pre-selling the product, crowdfunding or by finding investors.\n3. Production: The next step is to start production of the product. This will include manufacturing the product and assembling it.\n4. Marketing: The next step is to start marketing the product. This can be done through online marketing, social media marketing or by setting up a booth at trade shows.\n5. Launch: The final step is to launch the product. This will include making the product available for sale and promoting it to consumers.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your product?",
+                    "Answer": "My product is a non-fried potato chips."
+                },
+                {
+                    "Question": "What is the need or problem that your product solves??",
+                    "Answer": "The need that my product solves is the problem of unhealthy eating and leading to lowering obesity."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "My target market is teenagers and young adults who consume junk food."
+                },
+                {
+                    "Question": "What are your product's features and benefits?",
+                    "Answer": "My product's features are non-fried and tasty flavors of crispy potato chips."
+                },
+                {
+                    "Question": "What is your product's unique selling proposition (USP)?",
+                    "Answer": "My product's unique selling proposition is that it is the only non-fried and healthy potato chips option in the junk food market. It makes potato chips not a junk food."
+                },
+                {
+                    "Question": "What are your product's strengths?",
+                    "Answer": "My product's strengths are that it is healthy and reduces obesity."
+                },
+                {
+                    "Question": "What are your product's weaknesses?",
+                    "Answer": "My product's weaknesses are that it is not present in the market and the brand is not well known."
+                },
+                {
+                    "Question": "What are the threats to your product?",
+                    "Answer": "The threats to my product are no proper marketing and brand recognition."
+                },
+                {
+                    "Question": "What are the opportunities for your product?",
+                    "Answer": "The opportunities for my product are that it can help people consume tasty food which is healthy. Making junk food healthy and oil-free."
+                },
+                {
+                    "Question": "What are your product's risks?",
+                    "Answer": "The risks for my product are that it has to compete the widespread junk food and potato chips market."
+                }
+            ],
+            "Output": "\n-Design and develop prototypes of the product (1 month)\n-Conduct market research to understand customer needs and preferences (1-2 months)\n-Select target market and develop marketing mix (2-3 months)\n-Launch product in the market with a promotional campaign (1 month)\n-Evaluate the product sales and customer feedback to make necessary improvements (Ongoing)\n            "
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/A5NCMUNNa5TXeXmCJGWiWEtj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TFwMYPKDsGIwzHPqOEcwHkht?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0kHw8UrYDkQW34zKpnSvQQ75?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1hNxgx9PcVw7OZTZZGb-SicJWWSWiA2FZ/view?usp=sharing",
+        "https://drive.google.com/file/d/1XnMx5Qpa8uSj5mzlfJ1Q2FfC5MLE-3ou/view?usp=sharing",
+        "https://drive.google.com/file/d/1SLo6dM6SnFzBd3VA0DGQC63MBnjQzoth/view?usp=sharing"
+    ]
+}

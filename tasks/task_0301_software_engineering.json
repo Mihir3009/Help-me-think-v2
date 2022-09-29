@@ -1,0 +1,168 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Software Engineering",
+    "Task": "Generate docstrings",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert software engineer working at Google. I will ask some questions to collect information and then I will use the information to write a docstring for a function.",
+        "task_specific_prompt": "Write a docstring for the function called \"reverse a string\" using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the function?",
+                    "Answer": "The function is called \"reverse a string\""
+                },
+                {
+                    "Question": "What does the function do?",
+                    "Answer": "The function reverses an input string."
+                },
+                {
+                    "Question": "What is the input to the function?",
+                    "Answer": "The input is a string."
+                },
+                {
+                    "Question": "What is the output of the function?",
+                    "Answer": "The output is the input string, reversed."
+                },
+                {
+                    "Question": "What are the restrictions on the input?",
+                    "Answer": "The input string can be of any length."
+                },
+                {
+                    "Question": "What are the special cases for the function?",
+                    "Answer": "There are no special cases."
+                },
+                {
+                    "Question": "What is an example input and output for the function?",
+                    "Answer": "For example, if the input string is \"Hello world\", the output string would be \"dlrow olleH\"."
+                },
+                {
+                    "Question": "What errors or exceptions could be raised by the function?",
+                    "Answer": "If the input is not a string, an error could be raised."
+                },
+                {
+                    "Question": "Is the function destructive?",
+                    "Answer": "No, the function is not destructive."
+                },
+                {
+                    "Question": "Is the function pure?",
+                    "Answer": "Yes, the function is pure."
+                },
+                {
+                    "Question": "What side effects does the function have?",
+                    "Answer": "The function does not have any side effects."
+                },
+                {
+                    "Question": "What is the time complexity of the function?",
+                    "Answer": "The time complexity of the function is O(n), where n is the length of the input string."
+                },
+                {
+                    "Question": "What is the space complexity of the function?",
+                    "Answer": "The space complexity of the function is O(n), where n is the length of the input string."
+                },
+                {
+                    "Question": "Is the function thread-safe?",
+                    "Answer": "Yes, the function is thread-safe."
+                }
+            ],
+            "Output": "\"\"\"\n\nReverse a string\n\nInput: string\n\nOutput: input string, reversed\n\nRestrictions: input string can be of any length\n\nSpecial cases: no special cases\n\nExample: if input string is \"Hello world\", output string would be \"dlrow olleH\"\n\nErrors/Exceptions: if input is not a string, error could be raised\n\nDestructive: no\n\nPure: yes\n\nSide effects: no\n\nTime complexity: O(n)\n\nSpace complexity: O(n)\n\nThread-safe: yes \n\n\ntmp"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the function?",
+                    "Answer": "The function is called \"make_train_validation_test_split\""
+                },
+                {
+                    "Question": "What is the purpose of the function?",
+                    "Answer": "The purpose of the function is to split a dataset into three parts: training, validation, and test."
+                },
+                {
+                    "Question": "What are the inputs to the function?",
+                    "Answer": "The inputs to the function are the dataset, the training set size, the validation set size, and the test set size."
+                },
+                {
+                    "Question": "What are the outputs of the function?",
+                    "Answer": "The outputs of the function are the training set, the validation set, and the test set."
+                },
+                {
+                    "Question": "What are the assumptions made by the function?",
+                    "Answer": "The function assumes that the dataset is split into three parts: training, validation, and test."
+                },
+                {
+                    "Question": "What are the risks associated with the function?",
+                    "Answer": "The risks associated with the function are that the dataset may not be split into three parts, or that the sizes of the sets may not be as specified. Also, there is a chance of splits are biased to a certain class if any stratification methods are not used. "
+                },
+                {
+                    "Question": "What are the benefits of using the function?",
+                    "Answer": "The benefits of using the function are that it is easy to use and it is a quick way to split a dataset into three parts."
+                },
+                {
+                    "Question": "Is there anything else we should know about the function?",
+                    "Answer": "Many practitioners use 42 as a random state in this function. "
+                },
+                {
+                    "Question": "What are the types of the inputs and outputs?",
+                    "Answer": "The inputs and outputs are both numpy arrays."
+                },
+                {
+                    "Question": "What is the name of the library that the function is in?",
+                    "Answer": "The function is in the \"sklearn.model_selection\" library."
+                }
+            ],
+            "Output": "\"\"\"\n\nThis function is used to split a dataset into three parts: training, validation, and test. The inputs to the function are the dataset, the training set size, the validation set size, and the test set size. The outputs of the function are the training set, the validation set, and the test set. The function assumes that the dataset is split into three parts: training, validation, and test. The risks associated with the function are that the dataset may not be split into three parts, or that the sizes of the sets may not be as specified. Also, there is a chance of splits are biased to a certain class if any stratification methods are not used. The benefits of using the function are that it is easy to use and it is a quick way to split a dataset into three parts. Many practitioners use 42 as a random state in this function."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the function?",
+                    "Answer": "The name of the function is \"add two number\""
+                },
+                {
+                    "Question": "What does the function do?",
+                    "Answer": "This function accepts two parameters and returns the sum of the two numbers."
+                },
+                {
+                    "Question": "What are the types of the parameters?",
+                    "Answer": "The parameters are both integers."
+                },
+                {
+                    "Question": "What is the type of the return value?",
+                    "Answer": "The return value is an integer."
+                },
+                {
+                    "Question": "What are some example inputs and outputs for the function?",
+                    "Answer": "If the inputs are 3 and 4, the output would be 7. If the inputs are -1 and 1, the output would be 0."
+                },
+                {
+                    "Question": "Are there any special cases that the function needs to handle?",
+                    "Answer": "No, there are no special cases."
+                },
+                {
+                    "Question": "What are some possible errors that the function could throw?",
+                    "Answer": "The function could throw an error if the inputs are not integers."
+                },
+                {
+                    "Question": "Is there anything else that the function does that we didn't discuss?",
+                    "Answer": "Yes, we used integer data type. So, the maximum summation of two numbers can be 2,147,483,647 for 32-bit signed integers. "
+                },
+                {
+                    "Question": "What is the time limit of this function?",
+                    "Answer": "The time limit is O(1)."
+                },
+                {
+                    "Question": "What is the space limit of this function?",
+                    "Answer": "The space limit is O(1)."
+                }
+            ],
+            "Output": "This function accepts two parameters and returns the sum of the two numbers. The parameters are both integers and the return value is an integer. Some example inputs and outputs for the function are: if the inputs are 3 and 4, the output would be 7. If the inputs are -1 and 1, the output would be 0. The function has a time limit of O(1) and a space limit of O(1)."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/rDRJyanKYjbqbfRzXBLu7Tgu?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qPuzl8an7NROGEaG31tRlSV2?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6JryEJngzOArfB6qAdrCmcho?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1G5Z720j80uS2Ym9t8gWBARgHiJud7AmF?usp=sharing"
+}

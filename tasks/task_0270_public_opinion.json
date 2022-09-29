@@ -1,0 +1,169 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Public Opinion",
+    "Task": "Predict Outcome of General Election and Public Opinion",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in exit polling of general elections. I would like to ask some questions to collect information and then I will use the information to predict the outcome of the general election.    "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                }
+            ],
+            "Output": ""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                }
+            ],
+            "Output": ""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                }
+            ],
+            "Output": ""
+        }
+    ],
+    "Preset_link_Instance1": "",
+    "screenshot_link_Instance1": "",
+    "screenshot_link_Instance2": "",
+    "screenshot_link_Instance3": ""
+}

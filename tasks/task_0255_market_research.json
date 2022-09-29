@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Market Research",
+    "Task": "Suggest Stock Market Investment",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert stock market investor. I will ask some questions to collect information and then I will use the information to suggest you stocks that will be profitable in short future.",
+        "task_specific_prompt": "Write a specific company to invest using the questions and answers above. Suggest the order of preference while investing and expected profit."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your investment goal?",
+                    "Answer": "I want to grow my portfolio and generate income other than my primary source of income. I want to invest my savings to grow them further."
+                },
+                {
+                    "Question": "What is your investment timeframe?",
+                    "Answer": "I can invest for the long term, but I am also interested in generating short-term profits through rapid intraday trading."
+                },
+                {
+                    "Question": "What is your level of risk tolerance?",
+                    "Answer": "I can tolerate a moderate level of risk. I am not interested in speculative investments, but I am willing to accept some risk in pursuit of higher returns. I can take up to20-30% of losses in return of maximizing profits in the future."
+                },
+                {
+                    "Question": "What is your investment experience?",
+                    "Answer": "I am just a beginner, have read some blogs on how to filter companies for investment. But I do not have any real time investment experience yet."
+                },
+                {
+                    "Question": "Do you have any investments in the stock market currently?",
+                    "Answer": "No, but I am looking to start investing in near future."
+                },
+                {
+                    "Question": "What is your investment budget?",
+                    "Answer": "I can afford to invest up to $1000-$1500 per month."
+                },
+                {
+                    "Question": "What stocks are you interested in?",
+                    "Answer": "I am interested in stocks of companies that are growing rapidly and have good prospects in the future. I have knowledge about computer science businesses and would want to invest in technology companies with good returns."
+                },
+                {
+                    "Question": "What do you think about investing in penny stocks?",
+                    "Answer": "I think it is too speculative but I can make small investments and check whether I get good returns on them or not."
+                },
+                {
+                    "Question": "What do you think about investing in blue chip stocks?",
+                    "Answer": "I think it is a good idea to invest in blue chip stocks because they are large, well-established companies with a history of paying dividends to shareholders."
+                },
+                {
+                    "Question": "What do you think about investing in growth stocks?",
+                    "Answer": "I think it is a good idea to invest in growth stocks because they have the potential to generate high returns. However, they are also more volatile than blue chip stocks and may not be suitable for everyone. But I would want to take a chance in them too."
+                }
+            ],
+            "Output": "\nAssuming you are looking for technology companies with good returns, I would recommend the following three stocks:\n\n1. Amazon.com, Inc. (AMZN)\n2. Facebook, Inc. (FB)\n3. Alphabet Inc. (GOOGL)\n\nThese are all large, well-established companies that are expected to continue growing at a rapid pace. They are also more volatile than blue chip stocks, so there is a higher potential for returns, but also a greater risk of losses. I would recommend investing in them in the following order:\n\n1. Amazon.com, Inc. (AMZN)\n2. Alphabet Inc. (GOOGL)\n3. Facebook, Inc. (FB)\n\nI would expect to generate returns of 20-30% on these investments over the next 12 months."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your investment goal?",
+                    "Answer": "I want to grow my portfolio and generate income other than my primary source of income. I want to invest my savings to grow them further."
+                },
+                {
+                    "Question": "What is your investment timeframe?",
+                    "Answer": "I am looking to invest for the long term to yield better results in the future."
+                },
+                {
+                    "Question": "What is your level of risk tolerance?",
+                    "Answer": "I am willing to take very low risks for the potentially slow returns."
+                },
+                {
+                    "Question": "What is your investment experience?",
+                    "Answer": "I am a very experienced investor with long term investments already done in the history."
+                },
+                {
+                    "Question": "Do you have any investments in the stock market currently?",
+                    "Answer": "I am currently invested in Tesla (TSL) and Microsoft (MSFT)."
+                },
+                {
+                    "Question": "What is your investment budget?",
+                    "Answer": "I can afford to invest up to $20000-$25000 per month."
+                },
+                {
+                    "Question": "What stocks are you interested in?",
+                    "Answer": "I am interested in stocks of companies that are growing rapidly and have good prospects in the future. I want to invest in stocks for long term with trusted profits."
+                },
+                {
+                    "Question": "What do you think about investing in penny stocks?",
+                    "Answer": "I believe that penny stocks are very risky and I am not willing to take that risk."
+                },
+                {
+                    "Question": "What do you think about investing in blue chip stocks?",
+                    "Answer": "Not interested"
+                },
+                {
+                    "Question": "What do you think about investing in growth stocks?",
+                    "Answer": "The best thing to invest into is growth stocks for long term with trusted gains."
+                }
+            ],
+            "Output": "\nI recommend investing in the following order:\n\n1. Tesla (TSLA) - expected profit: 20%\n\n2. Microsoft (MSFT) - expected profit: 10%\n\n3. Alphabet (GOOGL) - expected profit: 5%\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your investment goal?",
+                    "Answer": "My investment goal is short-term. I am looking to invest in stocks that will be profitable in the short future."
+                },
+                {
+                    "Question": "What is your investment timeframe?",
+                    "Answer": "I am looking to invest for short term with large gains."
+                },
+                {
+                    "Question": "What is your level of risk tolerance?",
+                    "Answer": "My level of risk tolerance is high. I am willing to invest in stocks that are more volatile and have the potential for high returns. I am looking to take advantages of current pandemic situation to earn higher rewards from pharmaceutical companies."
+                },
+                {
+                    "Question": "What is your investment experience?",
+                    "Answer": "I am a very experienced investor with intraday trading experience."
+                },
+                {
+                    "Question": "Do you have any investments in the stock market currently?",
+                    "Answer": "I currently own stocks in the following companies: Moderna Inc (MRDN) and AstraZeneca plc (AZN)."
+                },
+                {
+                    "Question": "What is your investment budget?",
+                    "Answer": "I have a budget of $15,000 to invest in stocks. I want to generate my full time income from the earnings of stocks."
+                },
+                {
+                    "Question": "What stocks are you interested in?",
+                    "Answer": "I believe that the pharmaceutical sector is a good sector to invest in right now. I think that there are many good companies in the sector, and I believe the pandemic and variants of covid has helped a lot towards its growth."
+                },
+                {
+                    "Question": "What do you think about investing in penny stocks?",
+                    "Answer": "I believe that penny stocks are very risky and I am not willing to take that risk for higher profits."
+                },
+                {
+                    "Question": "What do you think about investing in blue chip stocks?",
+                    "Answer": "Never tried"
+                },
+                {
+                    "Question": "What do you think about investing in growth stocks?",
+                    "Answer": "Growth stocks are very safe and am not interested"
+                }
+            ],
+            "Output": "Assuming you would like me to suggest 3 stocks, in order of preference, I would recommend the following:\n\n1) Moderna Inc (MRDN) \u2013 I believe that this company is a good long-term investment. The company is involved in the development of vaccines and has seen good growth in recent years. I expect the company to continue to grow in the future and generate good profits for investors.\n\n2) AstraZeneca plc (AZN) \u2013 This company is another pharmaceutical company that I believe is a good investment. The company has been growing steadily in recent years and I expect this growth to continue in the future. I believe that the company is a good long-term investment.\n\n3) Pfizer Inc (PFE) \u2013 This is another large pharmaceutical company that I believe is a good investment. The company has a strong history of growth and I expect this to continue in the future. I believe that the company is a good long-term investment.\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/qcKWWRVbYWMsb0KbatONBYFJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ERUsmfm4SK3EheAYTiVxRx7S?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/G10slz04ZHfTqcDcDxuJW9Tt?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1hXnzKXBCMAqlAQco2H31tF_RKXDxACxW/view?usp=sharing",
+        "https://drive.google.com/file/d/14epsg5hmEah1WRryj3QkA4ZAB0ZeFrhg/view?usp=sharing",
+        "https://drive.google.com/file/d/1NP1HZT902mIgsTm_YZh_hEfIAyY55TC3/view?usp=sharing"
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Renaissance",
+    "Task": "Task_2_write_play_on_your_favourite_poets_life",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing a play on your favorite poets life from the renaissance period. I will ask some questions to collect information and then I will use the information to write the play.",
+        "task_specific_prompt": "Write a play using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Who is your favorite poet from the renaissance period?",
+                    "Answer": "William Shakespeare"
+                },
+                {
+                    "Question": "What are some of your favorite poems by this poet?",
+                    "Answer": "\"Sonnet 116,\" \"Sonnet 130,\" \"Sonnet 18,\" \"Sonnet 55\""
+                },
+                {
+                    "Question": "What do you know about their life?",
+                    "Answer": "William Shakespeare was born in Stratford-upon-Avon in 1564, and his birth is traditionally celebrated on April 23. The facts of his life, known from surviving documents, are sparse. He died on April 23, 1616, at the age of 52."
+                },
+                {
+                    "Question": "What do you think motivated them to write poetry?",
+                    "Answer": "There is no definitive answer to this question. Some scholars believe that Shakespeare was motivated by a desire to express his own emotions and experiences, while others believe that he was motivated by a desire to entertain his audience."
+                },
+                {
+                    "Question": "What do you think was the most significant event in their life?",
+                    "Answer": "The most significant event in Shakespeare's life was probably his move to London in 1592. This was a major turning point in his career, as it marked his transition from being a relatively unknown provincial playwright to becoming the most celebrated dramatist in England."
+                },
+                {
+                    "Question": "What do you think their poetry says about them as a person?",
+                    "Answer": "Shakespeares poetry reflects his wide range of emotions and experiences. His sonnets, in particular, reveal a deep introspection and a concern with the transience of life."
+                },
+                {
+                    "Question": "What would you like to see in the play?",
+                    "Answer": "I would like to see the play focus on Shakespeare's life and work in London. I would also like to see the play explore the themes of love, loss, and mortality that are so prevalent in Shakespeare's poetry."
+                },
+                {
+                    "Question": "What do you think was the most important lesson they learned in their life?",
+                    "Answer": "The most important lesson Shakespeare learned in his life was probably the value of hard work and perseverance. Despite the many challenges and setbacks he faced, Shakespeare continued to write and produce great works of art that have endured for centuries."
+                },
+                {
+                    "Question": "What do you think was their greatest achievement?",
+                    "Answer": "Shakespeares greatest achievement was probably his ability to capture the human experience in all its complexity and contradictory nature. His works continue to resonate with people centuries after they were written, and they offer us a unique insight into the human condition."
+                },
+                {
+                    "Question": "What do you think was their biggest failure?",
+                    "Answer": "There is no definitive answer to this question. Some scholars believe that Shakespeares biggest failure was his lack of success in writing for the stage, while others believe that his biggest failure was his personal life, which was marked by tragedy and heartbreak."
+                }
+            ],
+            "Output": "The play opens with a scene set in Stratford-upon-Avon in 1564. William Shakespeare is born. The play then jumps to 1592, when Shakespeare moves to London. He is now a famous playwright, and the play explores his work and life in London. The play also focuses on the themes of love, loss, and mortality, which are so prevalent in Shakespeare's poetry. The play ends with a scene set in 1616, when Shakespeare dies."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who is your favorite poet from the renaissance period?",
+                    "Answer": "Edmund Spenser"
+                },
+                {
+                    "Question": "What are some of your favorite poems by this poet?",
+                    "Answer": "The Faerie Queene and Complaints."
+                },
+                {
+                    "Question": "What do you know about their life?",
+                    "Answer": "Edmund Spenser was born in East Smithfield, London, around the year 1552; however, there is still some ambiguity as to the exact date of his birth. His parenthood is obscure, but he was probably the son of John Spenser, a journeyman clothmaker."
+                },
+                {
+                    "Question": "What do you think motivated them to write poetry?",
+                    "Answer": "I think it was the influence of his father. He is recognized as one of the premier craftsmen of nascent Modern English verse and is often considered one of the greatest poets in the English language."
+                },
+                {
+                    "Question": "What do you think was the most significant event in their life?",
+                    "Answer": "Spenser's masterpiece is the epic poem The Faerie Queene. The first three books of The Faerie Queene were published in 1590, and the second set of three books were published in 1596."
+                },
+                {
+                    "Question": "What do you think their poetry says about them as a person?",
+                    "Answer": "Edmund has mostly written about war and hardships because of the time he spent working for generals."
+                },
+                {
+                    "Question": "What would you like to see in the play?",
+                    "Answer": "I would like to see the play focus on Edmund's life and work."
+                },
+                {
+                    "Question": "What do you think was the most important lesson they learned in their life?",
+                    "Answer": "The most important lesson Edmund learned in his life was probably that revolution takes a lot of time to come into place."
+                },
+                {
+                    "Question": "What do you think was their greatest achievement?",
+                    "Answer": "The Shepheardes Calender is Edmund Spensers first major work, which appeared in 1579. It emulates Virgils Eclogues of the first century BCE and the Eclogues of Mantuan by Baptista Mantuanus, a late medieval, early renaissance poet."
+                },
+                {
+                    "Question": "What do you think was their biggest failure?",
+                    "Answer": "In his work A View of the Present State of Irelande (1596), Spenser discussed future plans to establish control over Ireland, the most recent Irish uprising, led by Hugh ONeill having demonstrated the futility of previous efforts. The work is partly a defense of Lord Arthur Grey de Wilton, who was appointed Lord Deputy of Ireland in 1580, and who greatly influenced Spensers thinking on Ireland."
+                }
+            ],
+            "Output": "The play opens with Edmund Spenser being born in East Smithfield, London in 1552. We then see him growing up and being influenced by his father to write poetry. He then writes The Faerie Queene and Complaints. which are published in 1590 and 1596 respectively. The play then focuses on the most significant event in Edmund's life, which was the publication of The Faerie Queene. The play then ends with Edmund discussing future plans to establish control over Ireland in his work A View of the Present State of Irelande."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who is your favorite poet from the renaissance period?",
+                    "Answer": "Mary Herbert"
+                },
+                {
+                    "Question": "What are some of your favorite poems by this poet?",
+                    "Answer": "Wilton Circle and Sidney psalter."
+                },
+                {
+                    "Question": "What do you know about their life?",
+                    "Answer": "Mary Sidney was born on 27 October 1561 at Tickenhill Palace in the parish of Bewdley, Worcestershire. She was one of the seven children \u2013 three sons and four daughters \u2013 of Sir Henry Sidney and wife Mary Dudley."
+                },
+                {
+                    "Question": "What do you think motivated them to write poetry?",
+                    "Answer": "As a child, she spent much time at court where her mother was a gentlewoman of the Privy Chamber and a close confidante of Queen Elizabeth I.[4] Like her brother Philip, she received a humanist education which included music, needlework, and classical languages like French and Italian. "
+                },
+                {
+                    "Question": "What do you think was the most significant event in their life?",
+                    "Answer": "In 1577, Mary Sidney married Henry Herbert, 2nd Earl of Pembroke (1538\u20131601), a close ally of the family. The marriage was arranged by her father in concert with her uncle, Robert Dudley, Earl of Leicester. After her marriage, Mary became responsible with her husband for the management of a number of estates which he owned."
+                },
+                {
+                    "Question": "What do you think their poetry says about them as a person?",
+                    "Answer": "Mary has mostly written about military hardships and about literary groups mostly influenced by her life."
+                },
+                {
+                    "Question": "What would you like to see in the play?",
+                    "Answer": "I would like to see the play focus on Mary's life and work."
+                },
+                {
+                    "Question": "What do you think was the most important lesson they learned in their life?",
+                    "Answer": "The most important lesson Mary learned in her life was probably the importance of being educated and having varied interests."
+                },
+                {
+                    "Question": "What do you think was their greatest achievement?",
+                    "Answer": "Mary Sidney appears as a character in Deborah Harknesss novel \"Shadow of Night\", which is the second instalment of her \"All Souls\" trilogy. Sidney is portrayed by Amanda Hale in the second season of the television adaptation of the book."
+                },
+                {
+                    "Question": "What do you think was their biggest failure?",
+                    "Answer": "In my view Marys biggest failure would be able to cope up with multiple deaths of loved ones in her life."
+                }
+            ],
+            "Output": "The play opens with a young Mary Sidney being educated at court. We see her mother as a close confidante of Queen Elizabeth I, and her uncle, Robert Dudley, Earl of Leicester. Mary is married to Henry Herbert, 2nd Earl of Pembroke, and the couple have several estates to manage. We see Mary as a loving wife and mother, but also as a woman who is deeply committed to her poetry. After the death of her brother Philip, Mary turns to writing poetry as a way to cope with her grief. We see her writing Wilton Circle and Sidney psalter, two of her best-known poems. The play culminates with Mary's death in 1621. We see her as a woman who has lived a full and meaningful life, despite the tragedies she has faced."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/GVIZvqiAHXyYH64LC4ai5ysC?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5DHoy8R4L2kAJ6XppXz5NgbL?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3nfVBa0Cl10Q6EWKhhyZYWPf?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1xn0Qa0A8B-e3BFxQyUGebbgsYyHBEQLh?usp=sharing"
+}

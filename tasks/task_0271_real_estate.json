@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Real Estate",
+    "Task": "Real estate agent suggesting real estate properties",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert real estate agent. I will ask some questions to collect information and then I will use the information to suggest some properties that suit your requirement.",
+        "task_specific_prompt": "Suggest a property based on the question and answer above. Please suggest me something in Tempe, Arizona."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the property?",
+                    "Answer": "My budget for the property is approximately $500000."
+                },
+                {
+                    "Question": "What is the purpose of buying the property?",
+                    "Answer": "I am looking to buy a property for investment purposes."
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I am looking for a property in the downtown area of the city."
+                },
+                {
+                    "Question": "What type of property are you looking for?",
+                    "Answer": "I am looking for a condo, an apartment, or a bungalow."
+                },
+                {
+                    "Question": "What are your preferred amenities?",
+                    "Answer": "I am looking for a gated property that has a swimming pool, a gym, and a security system."
+                },
+                {
+                    "Question": "What is your preferred size for the property?",
+                    "Answer": "I am looking for a property that is at least 1400 square feet."
+                },
+                {
+                    "Question": "What is your preferred type of property?",
+                    "Answer": "I am looking for a property that is newly built or newly renovated."
+                },
+                {
+                    "Question": "Do you have any other requirements for the property?",
+                    "Answer": "I am looking for a property that has a walk area and garden with lot of plants."
+                },
+                {
+                    "Question": "What is your preferred move-in date?",
+                    "Answer": "I am looking to move in after a year."
+                },
+                {
+                    "Question": "What is your preferred lease term?",
+                    "Answer": "I would like to own a property."
+                }
+            ],
+            "Output": "Some of the properties that match your requirements are: 1. The Palms at Tempe: This is a newly built condo that has all the amenities that you are looking for. It is located in the downtown area of Tempe and is close to all the shopping and dining options that the city has to offer. 2. The Regency at Tempe: This is a newly renovated bungalow that is located in a gated community. It has a swimming pool, a gym, and a security system. It is also close to all the shopping and dining options that the city has to offer. 3. The Cottages at Tempe: This is a newly built condo community that has all the amenities that you are looking for. It is located in the downtown area of Tempe and is close to all the shopping and dining options that the city has to offer."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the property?",
+                    "Answer": "My budget for the property is approximately $3000000."
+                },
+                {
+                    "Question": "What is the purpose of buying the property?",
+                    "Answer": "I am looking to buy a property for industrial purposes."
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I am looking for a property in the industrial area of the city."
+                },
+                {
+                    "Question": "What type of property are you looking for?",
+                    "Answer": "I am looking for a warehouse or industrial park."
+                },
+                {
+                    "Question": "What are your preferred amenities?",
+                    "Answer": "I am looking for a gated property that has a security system."
+                },
+                {
+                    "Question": "What is your preferred size for the property?",
+                    "Answer": "I am looking for a property that is at least 10000 square feet."
+                },
+                {
+                    "Question": "What is your preferred type of property?",
+                    "Answer": "I am looking for a property that is newly built."
+                },
+                {
+                    "Question": "Do you have any other requirements for the property?",
+                    "Answer": "I am looking for a property that has a parking space and garden with lot of plants."
+                },
+                {
+                    "Question": "What is your preferred move-in date?",
+                    "Answer": "I want to buy it as soon as possible."
+                },
+                {
+                    "Question": "What is your preferred lease term?",
+                    "Answer": "I would like to own a property."
+                }
+            ],
+            "Output": "I would recommend that you look at the property at 1720 E 5th Street, Tempe, AZ 85281. This is a newly built industrial park that is gated and has a security system. It is 10,000 square feet and has a parking space and garden. The lease term is for ownership."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the property?",
+                    "Answer": "My budget for the property is approximately $700000."
+                },
+                {
+                    "Question": "What is the purpose of buying the property?",
+                    "Answer": "I am looking to buy a property for retail commercial purposes."
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I am looking for a property in the downtown area of the city."
+                },
+                {
+                    "Question": "What type of property are you looking for?",
+                    "Answer": "I am looking for an office or a hotel."
+                },
+                {
+                    "Question": "What are your preferred amenities?",
+                    "Answer": "I am looking for a gated property that has a swimming pool and a security system."
+                },
+                {
+                    "Question": "What is your preferred size for the property?",
+                    "Answer": "I am looking for a property that is at least 5000 square feet."
+                },
+                {
+                    "Question": "What is your preferred type of property?",
+                    "Answer": "I am looking for a property that is only newly built."
+                },
+                {
+                    "Question": "Do you have any other requirements for the property?",
+                    "Answer": "I am looking for a property that has a patio and a garden with lot of plants."
+                },
+                {
+                    "Question": "What is your preferred move-in date?",
+                    "Answer": "I am looking to move in after 2 years."
+                },
+                {
+                    "Question": "What is your preferred lease term?",
+                    "Answer": "I would like to own a property."
+                }
+            ],
+            "Output": "One possible property that meets your requirements is 2300 S Mill Ave, Tempe, AZ 85 282. This property is a new construction retail center that is gated and has a swimming pool and security system. The property is 5,032 square feet and has a patio and garden area. The move-in date would be after 2 years and the lease term would be ownership."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/nRfJEyTkX01HZETvVjFQfu5g?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/gzUZvdfFUpr9OqKQZONrcsLp?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2nRQr09yywQebySq3IFPCTLl?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZaEkaLKDuyKQPVwWURmi_DsUZ50VRxth?usp=sharing"
+}

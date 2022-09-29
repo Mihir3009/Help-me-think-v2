@@ -1,0 +1,175 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Civil Engineering",
+    "Task": "Help repair old roads or construct new ones",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Design Engineering. I will ask some questions to collect information and then I will use the information to construct new roads and repair old ones.    "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of design engineering do you need?",
+                    "Answer": "I need help with designing and constructing new roads, as well as repairing old ones.                 "
+                },
+                {
+                    "Question": "What are the dimensions of the project area?                 ",
+                    "Answer": "The project area is 20 square miles.                 "
+                },
+                {
+                    "Question": "What is the climate like in the project area?                 ",
+                    "Answer": "The climate in the project area is temperate.                 "
+                },
+                {
+                    "Question": "What is the budget for the project?                 ",
+                    "Answer": "The budget for the project is $1 million.                 "
+                },
+                {
+                    "Question": "What is the timeline for the project?                 ",
+                    "Answer": "The timeline for the project is one year.                 "
+                },
+                {
+                    "Question": "What are the project requirements?                 ",
+                    "Answer": "The project requires the construction of a two-lane road.                 "
+                },
+                {
+                    "Question": "What is the expected traffic volume on the road?                 ",
+                    "Answer": "The expected traffic volume on the road is 1,500 vehicles per day.                 "
+                },
+                {
+                    "Question": "What are the expected weather conditions during construction?                 ",
+                    "Answer": "The expected weather conditions during construction are rainy.                 "
+                },
+                {
+                    "Question": "What are the speed limit and weight limit for the road?                 ",
+                    "Answer": "The speed limit for the road is 55 mph and the weight limit is 70,000 pounds.                 "
+                },
+                {
+                    "Question": "What are the expected traffic patterns on the road?                 ",
+                    "Answer": "The expected traffic patterns on the road are that cars will use both lanes, trucks will use the right lane, and buses will use the left lane.             "
+                },
+                {
+                    "Question": "What are the turning radius and grades for the road?             ",
+                    "Answer": "The turning radius for the road is 1,000 feet and the grades are 3% for the uphill section and 5% for the downhill section.              "
+                },
+                {
+                    "Question": "What are the drainage requirements for the road?             ",
+                    "Answer": "The drainage requirements for the road are that there must be a culvert every 70 feet and a catch basin every 1,000 feet.             "
+                },
+                {
+                    "Question": "What are the sight distance requirements for the road?             ",
+                    "Answer": "The sight distance requirements for the road are that there must be a clear view of at least 200 feet in both directions.             "
+                },
+                {
+                    "Question": "What are the lighting requirements for the road?             ",
+                    "Answer": "The lighting requirements for the road are that there must be streetlights every 300 feet.             "
+                }
+            ],
+            "Output": "The new two-lane road will be constructed using traditional methods such as grading, paving, and drainage. The road will be 20 square miles in area and have a flat terrain. The climate in the area is temperate and the budget for the project is $1 million. The timeline for the project is one year. The expected traffic volume on the road is 1,500 vehicles per day. The expected weather conditions during construction are rainy. The expected lifespan of the road is at least 30 years. The materials used in construction will be asphalt concrete, crushed aggregate, and dust palliatives. The road will be used by cars, trucks, and buses. The speed limit for the road is 55 mph and the weight limit is 70,000 pounds. The expected traffic patterns on the road are that cars will use both lanes, trucks will use the right lane, and buses will use the left lane. The turning radius for the road is 1,000 feet and the grades are 3% for the uphill section and 5% for the downhill section. The drainage requirements for the road are that there must be a culvert every 70 feet and a catch basin every 1,000 feet.             "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the maximum weight that the road can support?            ",
+                    "Answer": "The maximum weight that the road can support will depend on the thickness of the pavement and the type of subgrade. It can support up to 15000 pounds of weight.             "
+                },
+                {
+                    "Question": "What is the maximum speed limit for the road?            ",
+                    "Answer": "The maximum speed limit for the road will depend on the curvature of the road and the type of pavement. It is going to be a four-lane road. So the maximum limit on the right-most lane would be 70 mph and on the left lane, it would be 55 mph.                 "
+                },
+                {
+                    "Question": "What are the dimensions of the road?                ",
+                    "Answer": "The dimensions of the road will depend on the number of lanes and the width of the shoulders. The right-most lane will be 12 feet wide and the left lane will be 11 feet wide. The shoulders will be 10 feet wide.                 "
+                },
+                {
+                    "Question": "What is the type of pavement?                ",
+                    "Answer": "The type of pavement will be asphalt concrete.                 "
+                },
+                {
+                    "Question": "What is the slope of the road?                ",
+                    "Answer": "The slope of the road will be 0.5%.                 "
+                },
+                {
+                    "Question": "What is the length of the road?                ",
+                    "Answer": "The length of the road will be 5 miles.                 "
+                },
+                {
+                    "Question": "What is the type of guardrail?                ",
+                    "Answer": "The type of guardrail will be W-beam.                 "
+                },
+                {
+                    "Question": "What is the height of the guardrail?            ",
+                    "Answer": "The height of the guardrail will be 36 inches.             "
+                }
+            ],
+            "Output": "The road will be 5 miles long and 30 feet wide. It will have 4 lanes with dimensions as follows: right-most lane - 12 feet wide; left lane - 11 feet wide; shoulders - 10 feet wide. The road will have a 0.5% slope and will be made of asphalt concrete 4 inches thick over compacted gravel. The maximum weight the road can support is 15000 pounds. The maximum speed limit on the right-most lane will be 70 mph and on the left lane will be 55 mph. The type of drainage will be open ditches and the type of guardrail will be W-beam 36 inches tall with 10 feet between posts. The type of median will be a concrete barrier 30 inches tall.            "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the expected lifespan of the pavement?            ",
+                    "Answer": "The expected lifespan of the pavement is around 10 years.            "
+                },
+                {
+                    "Question": "How much traffic does the road see on a daily basis?            ",
+                    "Answer": "The average amount of traffic the road sees on a daily basis is around 50,000 vehicles as it is going to be a 6 lane highway road                 "
+                },
+                {
+                    "Question": "How many lanes does the road need to have?                ",
+                    "Answer": "The road is going to be a 6 lane highway road.                 "
+                },
+                {
+                    "Question": "What type of vehicles will be using the road?                ",
+                    "Answer": "The types of vehicles that will be using the road are cars and heavy trucks.                 "
+                },
+                {
+                    "Question": "What is the climate like in the area?                ",
+                    "Answer": "The climate is too hot in Tempe, Arizona.                 "
+                },
+                {
+                    "Question": "What is the terrain like in the area?                ",
+                    "Answer": "The terrain is flat in Tempe, Arizona.                 "
+                },
+                {
+                    "Question": "What is the average rainfall in the area?                ",
+                    "Answer": "The average rainfall in Tempe, Arizona is around 7.5 inches.                 "
+                },
+                {
+                    "Question": "Where does this highway lead?                ",
+                    "Answer": "It leads to Las Vegas, California.                 "
+                },
+                {
+                    "Question": "What is the speed limit on the highway?                ",
+                    "Answer": "The speed limit on the highway is around 77 mph.                 "
+                },
+                {
+                    "Question": "Is there a shoulder on the highway?                ",
+                    "Answer": "The highway has a 10-foot wide shoulder.                 "
+                },
+                {
+                    "Question": "What is the slope of the pavement?                ",
+                    "Answer": "The slope of the pavement is around 2%.                 "
+                },
+                {
+                    "Question": "What is the cross slope of the pavement?                ",
+                    "Answer": "The cross slope of the pavement is around 5%.                 "
+                },
+                {
+                    "Question": "What is the compaction of the subgrade?                ",
+                    "Answer": "The compaction of the subgrade is around 95%.                 "
+                },
+                {
+                    "Question": "What is the thickness of the asphalt?            ",
+                    "Answer": "The thickness of the asphalt is around 2 inches.            "
+                }
+            ],
+            "Output": "The highway road will be constructed of concrete and stone pavement. The pavement will be 12 inches thick and will have a slope of 2%. The grade of the pavement will be 6% and the cross slope will be 5%. The highway will be 20 feet wide and will have a 10-foot wide shoulder. The speed limit on the highway will be 77 mph. The highway will be constructed to accommodate cars and heavy trucks. The highway will lead from Tempe, Arizona to Las Vegas, California.            "
+        }
+    ],
+    "Preset_link_Instance1": "https://beta.openai.com/playground/p/qH6qhzScryhX1CSQAA9zRQGy?model=text-davinci-002",
+    "Preset_link_Instance2": "https://beta.openai.com/playground/p/sfCOf9sflTvLfrPJTSXu6s2b?model=text-davinci-002",
+    "Preset_link_Instance3": "https://beta.openai.com/playground/p/qBjMyUDdE1lIIgZ5C1ZEl2rw?model=text-davinci-002",
+    "screenshot_link_Instance1": "https://drive.google.com/file/d/1Ed0viz2bMg40EzUeGzYSCQ9nl3nq3uPk/view?usp=sharing",
+    "screenshot_link_Instance2": "https://drive.google.com/file/d/1HcWGHX0EYxswPQtR3wXbt6XVfXUX7gDx/view?usp=sharing",
+    "screenshot_link_Instance3": "https://drive.google.com/file/d/1GzaUYsu3jJAWA-5_EllFWKcWbzR0JMO_/view?usp=sharing"
+}

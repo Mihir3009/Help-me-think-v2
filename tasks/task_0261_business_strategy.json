@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Business Strategy",
+    "Task": "Marketing Plan",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert marketing plan writer. I will ask some questions to collect information and then I will use the information to generate a marketing plan.",
+        "task_specific_prompt": "Write a brief marketing plan using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product or service?",
+                    "Answer": "The product is a new type of toothbrush that is designed to be more effective at cleaning teeth."
+                },
+                {
+                    "Question": "Who is the target market?",
+                    "Answer": "The target market is people who are looking for a more effective toothbrush."
+                },
+                {
+                    "Question": "What are the objectives of the marketing plan?",
+                    "Answer": "The objectives of the marketing plan are to increase awareness of the product, generate sales, and build brand loyalty."
+                },
+                {
+                    "Question": "What are the strategies that will be used to achieve the objectives?",
+                    "Answer": "The strategies that will be used to achieve the objectives are promotion, pricing, and product placement."
+                },
+                {
+                    "Question": "What are the tactics that will be used to implement the strategies?",
+                    "Answer": "The tactics that will be used to implement the strategies are advertising, coupons, and in-store displays."
+                },
+                {
+                    "Question": "What is the budget for the marketing plan?",
+                    "Answer": "The budget for the marketing plan is $5000."
+                },
+                {
+                    "Question": "When will the marketing plan be implemented?",
+                    "Answer": "The marketing plan will be implemented on January 1st."
+                },
+                {
+                    "Question": "Who is responsible for implementing the marketing plan?",
+                    "Answer": "The marketing team is responsible for implementing the marketing plan."
+                },
+                {
+                    "Question": "Who will be monitoring and evaluating the results of the marketing plan?",
+                    "Answer": "The marketing team will be monitoring and evaluating the results of the marketing plan."
+                },
+                {
+                    "Question": "What are the expected results of the marketing plan?",
+                    "Answer": "The expected results of the marketing plan are increased awareness, sales, and brand loyalty."
+                }
+            ],
+            "Output": "1. Introduction\n\nThe product is a new type of toothbrush that is designed to be more effective at cleaning teeth. The target market is people who are looking for a more effective toothbrush. The objectives of the marketing plan are to increase awareness of the product, generate sales, and build brand loyalty. The strategies that will be used to achieve the objectives are promotion, pricing, and product placement. The tactics that will be used to implement the strategies are advertising, coupons, and in-store displays. The budget for the marketing plan is $5000. The marketing plan will be implemented on January 1st. The marketing team is responsible for implementing the marketing plan. The marketing team will be monitoring and evaluating the results of the marketing plan. The expected results of the marketing plan are increased awareness, sales, and brand loyalty.\n\n2. Promotion\n\nThe promotion strategy will be focused on increasing awareness of the product. Advertising will be used to reach the target market through various channels such as television, radio, print, and online. Coupons will be used to generate interest and encourage sales. In-store displays will be used to increase visibility of the product.\n\n3. Pricing\n\nThe pricing strategy will be focused on generating sales. The product"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business goals?",
+                    "Answer": "Our business goals are to increase sales by 20% in the next fiscal year."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "Our target audience is young adults ages 18-24."
+                },
+                {
+                    "Question": "What marketing strategies do you think will be most effective in reaching your target audience and achieving your business goals?",
+                    "Answer": "Some marketing strategies that could be effective in reaching our target audience and achieving our business goals include online advertising, social media marketing, and targeted email marketing campaigns."
+                },
+                {
+                    "Question": "What budget do you have for your marketing efforts?",
+                    "Answer": "Our budget for marketing efforts is $10,000."
+                },
+                {
+                    "Question": "When do you need to see results from your marketing efforts?",
+                    "Answer": "We need to see results from our marketing efforts within three months."
+                },
+                {
+                    "Question": "Are there any other factors we should take into account?",
+                    "Answer": "Some other factors to take into account include the seasonality of our products and the competition in our industry."
+                },
+                {
+                    "Question": "What are your thoughts on using marketing research?",
+                    "Answer": "We think marketing research is important in order to understand our target audience and what strategies will be most effective in reaching them."
+                },
+                {
+                    "Question": "Are there any specific research methods you would like us to use?",
+                    "Answer": "Some specific research methods we would like you to use include focus groups, surveys, and interviews."
+                },
+                {
+                    "Question": "What are your thoughts on using marketing tests?",
+                    "Answer": "We think marketing tests are important in order to measure the effectiveness of our marketing strategies."
+                },
+                {
+                    "Question": "What are your thoughts on using marketing tracking tools?",
+                    "Answer": "We think marketing tracking tools are important in order to measure the results of our marketing efforts."
+                }
+            ],
+            "Output": "Our marketing plan is to increase sales by 20% in the next fiscal year. We will target young adults ages 18-24 through online advertising, social media marketing, and targeted email marketing campaigns. Our budget for marketing efforts is $10,000. We need to see results from our marketing efforts within three months. Some other factors to take into account include the seasonality of our products and the competition in our industry. We think marketing research is important in order to understand our target audience and what strategies will be most effective in reaching them. Some specific research methods we would like you to use include focus groups, surveys, and interviews. We think marketing tests are important in order to measure the effectiveness of our marketing strategies. We think marketing tracking tools are important in order to measure the results of our marketing efforts."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business goals?",
+                    "Answer": "To achieve a 30% increase in sales within the next 12 months."
+                },
+                {
+                    "Question": "What are your target markets?",
+                    "Answer": "Our target markets are businesses in the software-as-a-service (SaaS) industry."
+                },
+                {
+                    "Question": "What are your unique selling points?",
+                    "Answer": "Our unique selling points are our low prices, high quality, and excellent customer service."
+                },
+                {
+                    "Question": "What is your budget for marketing?",
+                    "Answer": "Our budget for marketing is $10,000 per month."
+                },
+                {
+                    "Question": "What are your preferred marketing channels?",
+                    "Answer": "We prefer to use online marketing channels such as search engine optimization (SEO), pay-per-click (PPC) advertising, and social media marketing."
+                },
+                {
+                    "Question": "What is your timeline for achieving your goals?",
+                    "Answer": "We would like to achieve our goals within the next 12 months."
+                },
+                {
+                    "Question": "What are the risks and challenges associated with your business?",
+                    "Answer": "The risks and challenges associated with our business are the potential for increased competition and the possibility of new entrants into the market."
+                },
+                {
+                    "Question": "What are your contingency plans?",
+                    "Answer": "Our contingency plans are to increase our marketing budget and to focus on more aggressive marketing tactics if we do not see the desired results within the first six months."
+                },
+                {
+                    "Question": "What are your long-term goals?",
+                    "Answer": "Our long-term goal is to become the leading provider of software-as-a-service in our target market."
+                },
+                {
+                    "Question": "What are your exit strategies?",
+                    "Answer": "Our exit strategy is to sell the business to a larger software company."
+                }
+            ],
+            "Output": "1. Increase visibility of company through SEO efforts and online marketing (i.e. Google AdWords, social media, etc.) in order to attract more leads and convert more prospects into paying customers\n2. Focus on quality and customer service in order to differentiate ourselves from the competition and increase customer retention/loyalty\n3. Increase marketing budget by 10% if desired results are not achieved within the first 6 months\n4. Exit strategy is to sell the business to a larger software company"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RzL4KDNND1bJCF7Ovg7wSrus",
+        "https://beta.openai.com/playground/p/mBGPJ3wHSwcD7EdtWoQqaRlB",
+        "https://beta.openai.com/playground/p/oAHSRx3WkWaiKqNfC1mqTQOg"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZVlMSBEZ-aIbfmIfBqU8MMP47pbxXfsu?usp=sharing"
+}

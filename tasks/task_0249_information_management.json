@@ -1,0 +1,160 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Information Management",
+    "Task": "Room Layout Management",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Layout Management. I will ask some questions to collect information and then I will use the information to provide the layout of the room.",
+        "task_specific_prompt": "Write a layout using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the room's dimensions?",
+                    "Answer": "The room's dimensions are 10 feet by 12 feet."
+                },
+                {
+                    "Question": "What is the room's purpose?",
+                    "Answer": "The room will be used as a bedroom."
+                },
+                {
+                    "Question": "What furniture do you plan on putting in the room?",
+                    "Answer": "A bed, a dresser, a nightstand, and a desk."
+                },
+                {
+                    "Question": "How do you want the room to look?",
+                    "Answer": "I would like the room to look cozy and inviting."
+                },
+                {
+                    "Question": "What is your budget for the project?",
+                    "Answer": "$500."
+                },
+                {
+                    "Question": "What is your timeline for the project?",
+                    "Answer": "I would like the project to be completed within two weeks."
+                },
+                {
+                    "Question": "What is your preferred method of communication?",
+                    "Answer": "Email is preferred."
+                },
+                {
+                    "Question": "What is your contact information?",
+                    "Answer": "Email: ___________\n\nPhone: ___________"
+                },
+                {
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "No, thank you."
+                }
+            ],
+            "Output": "Assuming you would like a floor plan: \n\nThe bedroom will be cozy and inviting with the following floor plan. The bed will be against the far wall opposite the door with a nightstand on either side of the bed. The dresser will go against the wall to the left of the door with the desk against the wall to the right of the door. There will be a window on the wall to the right of the bed."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the room's dimensions?",
+                    "Answer": "The room's dimensions are 10 feet by 12 feet."
+                },
+                {
+                    "Question": "What is the room's purpose?",
+                    "Answer": "The room will be used as a study office."
+                },
+                {
+                    "Question": "What furniture do you plan on putting in the room?",
+                    "Answer": "A desk, a chair, a lamp, and a bookshelf."
+                },
+                {
+                    "Question": "Do you have any specific ideas for the layout of the room?",
+                    "Answer": "I would like the desk to be placed against the wall near the window. The bookshelf can go next to the desk. The chair can go in front of the desk. The lamp can go on the desk."
+                },
+                {
+                    "Question": "What is the size of the desk?",
+                    "Answer": "The desk is 30 inches by 60 inches."
+                },
+                {
+                    "Question": "What is the size of the bookshelf?",
+                    "Answer": "The bookshelf is 36 inches by 72 inches."
+                },
+                {
+                    "Question": "What is the size of the chair?",
+                    "Answer": "The chair is 24 inches by 24 inches."
+                },
+                {
+                    "Question": "What is the size of the lamp?",
+                    "Answer": "The lamp is 12 inches by 12 inches."
+                },
+                {
+                    "Question": "What is the size of the window?",
+                    "Answer": "The window is 48 inches by 36 inches."
+                },
+                {
+                    "Question": "What is the distance from the desk to the door?",
+                    "Answer": "The distance from the desk to the door is 72 inches."
+                },
+                {
+                    "Question": "What is the distance from the desk to the bookshelf?",
+                    "Answer": "The distance from the desk to the bookshelf is 24 inches."
+                },
+                {
+                    "Question": "What is the distance from the desk to the window?",
+                    "Answer": "The distance from the desk to the window is 60 inches."
+                },
+                {
+                    "Question": "What is the distance from the door to the window?",
+                    "Answer": "The distance from the door to the window is 36 inches."
+                },
+                {
+                    "Question": "What is the distance from the bookshelf to the window?",
+                    "Answer": "The distance from the bookshelf to the window is 48 inches."
+                },
+                {
+                    "Question": "What is the distance from the door to the bookshelf?",
+                    "Answer": "The distance from the door to the bookshelf is 72 inches."
+                }
+            ],
+            "Output": "The floor plan would look like this:\n\n+------------------------------------------+\n|                                          |\n|                                          |\n|                 Window                   |\n|                                          |\n|                                          |\n|                                          |\n|+------------------+----------------+-+  |\n||                  |                  ||  |\n||                  |                  ||  |\n||    Desk          |    Bookshelf    ||  |\n||                  |                  ||  |\n||                  |                  ||  |\n|+------------------+----------------+-+  |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n|                                          |\n+------------------------------------------+"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the room's dimensions?",
+                    "Answer": "The room's dimensions are 10 feet by 12 feet."
+                },
+                {
+                    "Question": "What is the room's purpose?",
+                    "Answer": "The room will be used as a garage."
+                },
+                {
+                    "Question": "What type of vehicle will be parked in the garage?",
+                    "Answer": "The vehicle will be a small car."
+                },
+                {
+                    "Question": "What other items will be stored in the garage?",
+                    "Answer": "The garage will also be used to store tools and gardening equipment."
+                },
+                {
+                    "Question": "What is the size of the vehicle?",
+                    "Answer": "The vehicle is a small car."
+                },
+                {
+                    "Question": "What is the size of the tools and gardening equipment?",
+                    "Answer": "The tools and gardening equipment are small."
+                },
+                {
+                    "Question": "Are there any other items that need to be stored in the garage?",
+                    "Answer": "No, the garage will only be used to store the small car, tools, and gardening equipment."
+                },
+                {
+                    "Question": "Would you like the garage to be organized so that the car can be parked in one spot and the tools and gardening equipment can be stored in another spot?",
+                    "Answer": "Yes, the garage should be organized so that the car can be parked in one spot and the tools and gardening equipment can be stored in another spot."
+                }
+            ],
+            "Output": "The garage will be 10 feet by 12 feet. The car will be parked in one spot and the tools and gardening equipment will be stored in another spot."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/Bcdq3MHlNFruFMqvRV7rL20N?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/SocVOVcXO2VyC5tt3JrTMw6j?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/efeYjlD1MkXR3Ga12IDU0qv2?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ci4m5ev3IybVoybOLPnu0VOz7ILDD11Q?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Renaissance",
+    "Task": "Task_2_15th_century_artist",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting which 15th century artist you most resonate to. I will ask some questions to collect information and then I will use the information to your favorite 15th century artist.",
+        "task_specific_prompt": "Suggest a 15th century artist using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about religion?",
+                    "Answer": "I am not religious."
+                },
+                {
+                    "Question": "Do you prefer realism or idealism in your art?",
+                    "Answer": "I prefer realism."
+                },
+                {
+                    "Question": "What is your favorite subject matter?",
+                    "Answer": "I like to paint landscapes and cityscapes."
+                },
+                {
+                    "Question": "Do you prefer to use bright colors or muted colors?",
+                    "Answer": "I prefer to use muted colors."
+                },
+                {
+                    "Question": "Do you like to paint detailed images or more abstract images?",
+                    "Answer": "I like to paint detailed images."
+                },
+                {
+                    "Question": "What is your favorite medium to use?",
+                    "Answer": "I like to use oil paints."
+                },
+                {
+                    "Question": "Do you prefer to paint on a large canvas or a small canvas?",
+                    "Answer": "I prefer to paint on a large canvas."
+                },
+                {
+                    "Question": "Do you like to paint alone or with others?",
+                    "Answer": "I like to paint alone."
+                },
+                {
+                    "Question": "What is your favorite time of day to paint?",
+                    "Answer": "I like to paint in the evening."
+                },
+                {
+                    "Question": "What is your favorite season to paint?",
+                    "Answer": "I like to paint in the spring."
+                }
+            ],
+            "Output": "I would suggest that you most resonate with the 15th century artist, Jan van Eyck."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about religion?",
+                    "Answer": "I am very religious. I pray once everyday."
+                },
+                {
+                    "Question": "Do you prefer realism or idealism in your art?",
+                    "Answer": "I prefer idealism."
+                },
+                {
+                    "Question": "What is your favorite subject matter?",
+                    "Answer": "I like to paint statues of god and ancestors."
+                },
+                {
+                    "Question": "Do you prefer to use bright colors or muted colors?",
+                    "Answer": "I prefer to use bright colors."
+                },
+                {
+                    "Question": "Do you like to paint detailed images or more abstract images?",
+                    "Answer": "I like to paint abstract images."
+                },
+                {
+                    "Question": "What is your favorite medium to use?",
+                    "Answer": "I like to use natural paints."
+                },
+                {
+                    "Question": "Do you prefer to paint on a large canvas or a small canvas?",
+                    "Answer": "I prefer to paint on a small canvas."
+                },
+                {
+                    "Question": "Do you like to paint alone or with others?",
+                    "Answer": "I like to paint with others."
+                },
+                {
+                    "Question": "What is your favorite time of day to paint?",
+                    "Answer": "I like to paint at night."
+                },
+                {
+                    "Question": "What is your favorite season to paint?",
+                    "Answer": "I like to paint in the summer."
+                }
+            ],
+            "Output": "I would suggest the 15th century artist, Giotto di Bondone."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about religion?",
+                    "Answer": "I am an atheist."
+                },
+                {
+                    "Question": "Do you prefer realism or idealism in your art?",
+                    "Answer": "I prefer realism."
+                },
+                {
+                    "Question": "What is your favorite subject matter?",
+                    "Answer": "I like to paint nature."
+                },
+                {
+                    "Question": "Do you prefer to use bright colors or muted colors?",
+                    "Answer": "I prefer to use muted colors."
+                },
+                {
+                    "Question": "Do you like to paint detailed images or more abstract images?",
+                    "Answer": "I like to paint detailed images."
+                },
+                {
+                    "Question": "What is your favorite medium to use?",
+                    "Answer": "I like to use enamel paints."
+                },
+                {
+                    "Question": "Do you prefer to paint on a large canvas or a small canvas?",
+                    "Answer": "I prefer to paint on a large canvas."
+                },
+                {
+                    "Question": "Do you like to paint alone or with others?",
+                    "Answer": "I like to paint with others."
+                },
+                {
+                    "Question": "What is your favorite time of day to paint?",
+                    "Answer": "I like to paint in the mornings."
+                },
+                {
+                    "Question": "What is your favorite season to paint?",
+                    "Answer": "I like to paint in the winter."
+                }
+            ],
+            "Output": "I would suggest that you most resonate with the 15th century artist Albrecht D\u00fcrer."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/sw1jQbUCdjj9nvDazYRMYHyB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dkp7dqinT7VJLgX8Lof84ST3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/z1rwUlVQbuXygbW23NDx0JeD?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/17OwkwsIKvTGwH-VS3tDKrGpUAGwnEvll?usp=sharing"
+}

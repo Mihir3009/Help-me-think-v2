@@ -1,0 +1,100 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Music",
+    "Task": "Song Lyrics Writer",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert songwriter. I will ask some questions to collect information and then I will use the information to write a song. ",
+        "task_specific_prompt": "Write a song using the questions and answers above. It should be like Verse then Chorus and then Verse and then Chorus."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the song about?",
+                    "Answer": "The song is about a relationship that ended suddenly."
+                },
+                {
+                    "Question": "What are the emotions you want to convey in the song?",
+                    "Answer": "The emotions I want to convey in the song are sadness and regret."
+                },
+                {
+                    "Question": "What is the overall message you want to get across?",
+                    "Answer": "The overall message I want to get across is that even though the relationship is over, the person still misses and loves the other person."
+                },
+                {
+                    "Question": "Do you have any specific ideas for the song?",
+                    "Answer": "I have a few specific ideas for the song. I want it to be a ballad, and I want the lyrics to be very emotional."
+                },
+                {
+                    "Question": "What is the melody like?",
+                    "Answer": "I want the melody to be slow and sad."
+                }
+            ],
+            "Output": "Verse 1:\n\nIt was so sudden, we were happy one day\n\nAnd then it all changed, I was left alone\n\nWith only the memories, of what we had\n\nNow I'm left wondering, why it all had to end\n\nChorus:\n\nI still love you, I still miss you\n\nI can't help but think, what could have been\n\nIf you had only stayed, maybe we could have still been together\n\nBut now I know, that will never happen\n\nVerse 2:\n\nI think about you, every single day\n\nI can't help but wonder, if you ever think of me\n\nDo you ever regret, what we had\n\nOr are you happy now, without me\n\nChorus:\n\nI still love you, I still miss you\n\nI can't help but think, what could have been\n\nIf you had only stayed, maybe we could have still been together\n\nBut now I know, that will never happen"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the song about?",
+                    "Answer": "The song is about a young girl's journey to find her purpose in life."
+                },
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "The main character's name is Sarah."
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "The main character's goal is to find her purpose in life."
+                },
+                {
+                    "Question": "What are some of the main character's challenges?",
+                    "Answer": "The main character's challenges are finding her way in the world and staying true to herself."
+                },
+                {
+                    "Question": "What does the main character want?",
+                    "Answer": "The main character wants to find her place in the world."
+                },
+                {
+                    "Question": "What is the main character's biggest fear?",
+                    "Answer": "The main character's biggest fear is that she will never find her purpose in life."
+                },
+                {
+                    "Question": "What does the main character love?",
+                    "Answer": "The main character loves music and nature."
+                }
+            ],
+            "Output": "Sarah's Song\n\nSarah's on a journey to find her way\nShe's looking for something to make her stay\nShe's been searching for her purpose in life\nAnd it's just not as easy as it seems\n\nAll she wants is to find her place\nAnd be true to herself along the way\nBut it's not as simple as it sounds\nWhen you're lost and trying to be found\n\nChorus:\n\nSarah, don't give up on your dreams\nYou'll find your way, just keep on believing\nYou're strong and you're smart and you're brave\nAnd you'll find what you're looking for\nJust hold on to the hope inside your heart\n\nSarah's afraid she'll never find her way\nThat she'll be searching forever more\nBut she knows she has to keep trying\nShe's got to keep her faith alive\n\nChorus:\n\nSarah, don't give up on your dreams\nYou'll find your way, just keep on believing\nYou're strong and you're smart and you're brave\nAnd you'll find what you're looking for\nJust hold on to the hope inside your heart\n\nVerse:\n\nSarah's been through so much pain and\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of your song?",
+                    "Answer": "World Apocalypse."
+                },
+                {
+                    "Question": "What are some of the emotions you want to convey in your song?",
+                    "Answer": "I want to convey feelings of dread, despair, and hopelessness."
+                },
+                {
+                    "Question": "What is the main idea or message of your song?",
+                    "Answer": "The main idea of my song is that the world is coming to an end, and there is nothing we can do to stop it."
+                },
+                {
+                    "Question": "What are some specific things you would like mentioned in your song?",
+                    "Answer": "I would like the song to mention the destruction of the environment, the outbreak of disease, and the rise of natural disasters."
+                },
+                {
+                    "Question": "Do you have a title for your song?",
+                    "Answer": "The title of my song is \"The End of the World."
+                }
+            ],
+            "Output": "Verse:\n\nThe world is coming to an end\nWe're all going to die\nThere's nothing we can do\nWe're all going to die\n\nChorus:\n\nThis is the end of the world\nThere's no hope left for us\nWe're all going to die\n\nVerse:\n\nThe environment is destroyed\nDisease is everywhere\nNatural disasters are commonplace\n\nChorus:\n\nThis is the end of the world\nThere's no hope left for us\nWe're all going to die"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/Dqqayt5SOPdFF0vESNb6fljc?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4uqThXgLcyVAdxiQduAMSNxQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pKawCbA1VN9CjIoqoySojl3L?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1UNKWZziLY0-ogFJ9i3j2s2Dp2OrCl5Wo?usp=sharing"
+}

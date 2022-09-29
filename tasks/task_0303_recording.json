@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Recording",
+    "Task": "Create an Eco map",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in family records . I will ask some questions to collect information and then I will use the information to create eco map",
+        "task_specific_prompt": " Write a eco map using the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your great-grandfather?",
+                    "Answer": "His name was Raj."
+                },
+                {
+                    "Question": "What is the name of your great-grandmother?",
+                    "Answer": "Her name was kamala."
+                },
+                {
+                    "Question": "What is the name of your grandfather?",
+                    "Answer": "His name was Rakesh."
+                },
+                {
+                    "Question": "What is the name of your grandmother?",
+                    "Answer": "Her name was Saroj."
+                },
+                {
+                    "Question": "What is the name of your father?",
+                    "Answer": "His name is Amit"
+                },
+                {
+                    "Question": "What is the name of your mother?",
+                    "Answer": "Her name is Pooja."
+                },
+                {
+                    "Question": "What is the name of your uncle?",
+                    "Answer": "His name is Vinay."
+                },
+                {
+                    "Question": "What is the name of your aunt?",
+                    "Answer": "Her name is Reena."
+                },
+                {
+                    "Question": "What is the name of your first cousin?",
+                    "Answer": "Her name is Sonia."
+                },
+                {
+                    "Question": "What is the name of your second cousin?",
+                    "Answer": "Her name is Sarah."
+                }
+            ],
+            "Output": "\n Raj\n\n-Kamala\n\n  -Rakesh\n    -Saroj\n      -Amit\n        -Pooja\n          -Vinay\n            -Reena\n              -Sonia\n                -Sarah\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your great-grandfather?",
+                    "Answer": "His name was Veeresha."
+                },
+                {
+                    "Question": "What is the name of your great-grandmother?",
+                    "Answer": "Her name was Lalitha."
+                },
+                {
+                    "Question": "What is the name of your grandfather?",
+                    "Answer": "His name was Bhuvan."
+                },
+                {
+                    "Question": "What is the name of your grandmother?",
+                    "Answer": "Her name was Sarojini ."
+                },
+                {
+                    "Question": "What is the name of your father?",
+                    "Answer": "His name is Raju."
+                },
+                {
+                    "Question": "What is the name of your mother?",
+                    "Answer": "Her name is Kavitha."
+                },
+                {
+                    "Question": "What is the name of your uncle?",
+                    "Answer": "His name is Rahul."
+                },
+                {
+                    "Question": "What is the name of your aunt?",
+                    "Answer": "Her name is Geetha."
+                },
+                {
+                    "Question": "What is the name of your first cousin?",
+                    "Answer": "Her name is Simmi."
+                },
+                {
+                    "Question": "What is the name of your second cousin?",
+                    "Answer": "Her name is Sid."
+                }
+            ],
+            "Output": "\n The eco map would look like this:\n\nVeeresha\n\nLalitha\n\nBhuvan\n\nSarojini\n\nRaju\n\nKavitha\n\nRahul\n\nGeetha\n\nSimmi\n\nSid\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your great-grandfather?",
+                    "Answer": "His name was Shankar."
+                },
+                {
+                    "Question": "What is the name of your great-grandmother?",
+                    "Answer": "Her name was Rohini."
+                },
+                {
+                    "Question": "What is the name of your grandfather?",
+                    "Answer": "His name was Jayesh."
+                },
+                {
+                    "Question": "What is the name of your grandmother?",
+                    "Answer": "Her name was Jaya ."
+                },
+                {
+                    "Question": "What is the name of your father?",
+                    "Answer": "His name is Amar"
+                },
+                {
+                    "Question": "What is the name of your mother?",
+                    "Answer": "Her name is Latha."
+                },
+                {
+                    "Question": "What is the name of your uncle?",
+                    "Answer": "His name is Suresh."
+                },
+                {
+                    "Question": "What is the name of your aunt?",
+                    "Answer": "Her name is sri devi."
+                },
+                {
+                    "Question": "What is the name of your first cousin?",
+                    "Answer": "Her name is Ajith."
+                },
+                {
+                    "Question": "What is the name of your second cousin?",
+                    "Answer": "Her name is Amith."
+                }
+            ],
+            "Output": "\nShankar and Rohini are the great-grandparents. Jayesh and Jaya are the grandparents. Amar and Latha are the parents. Suresh and Sri Devi are the uncle and aunt. Ajith and Amith are the first and second cousins.\n\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/8xQA5TqL3IwY5RmVQ0y3PSB1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/p9dxghrdm5nQMdANQsv50C1v?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BTsMELiadFuu4T9d3gb5jlXB?model=text-davinci-002"
+    ],
+    "screenshot link": [
+        "https://drive.google.com/file/d/11SHPPbGUDRCiCLOrIQHyjEcPX_N0kY2_/view?usp=sharing",
+        "https://drive.google.com/file/d/146qigkVkrnfdnFzAsus2CMjauerhyWMt/view?usp=sharing",
+        "https://drive.google.com/file/d/1xx7jkbSaiXfAdtDbPhzFtqR8uEguktmP/view?usp=sharing"
+    ]
+}

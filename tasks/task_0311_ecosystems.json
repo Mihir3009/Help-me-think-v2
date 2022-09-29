@@ -1,0 +1,157 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Ecosystems",
+    "Task": "Write conversations between people and species living in the ecosystem",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing conversations. I will ask some questions to collect information and then I will use the information to write conversations about the different people or species living in the ecosystem.",
+        "task_specific_prompt": "Write conversations between the different people or species living in the ecosystem using the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of ecosystem are you looking for?",
+                    "Answer": "The ecosystem is the Great Barrier Reef."
+                },
+                {
+                    "Question": "What kind of conversations do you want?",
+                    "Answer": "I want conversations between the fish and humans in the Great Barrier Reef."
+                },
+                {
+                    "Question": "What kind of fish are in the Great Barrier Reef?",
+                    "Answer": "There are many different kinds of fish in the Great Barrier Reef, including clownfish, parrotfish, and triggerfish."
+                },
+                {
+                    "Question": "What do the fish say to the humans?",
+                    "Answer": "The fish might say things like: Welcome to the Great Barrier Reef! This is a beautiful place full of life and color. We are so glad you came to visit us. However, it would be great if humans could come with fewer numbers and destroy this place a little less. After all, this is my home."
+                },
+                {
+                    "Question": "What do the humans say to the fish?",
+                    "Answer": "The humans might say things like: Thank you for welcoming us to your home. We are really enjoying our time here. We will try to be more mindful of our impact and not damage the reef too much. We are so grateful to be able to experience this amazing place. But you also know that human beings are inherently very different from you. What we think is good, you may not think good."
+                },
+                {
+                    "Question": "What do the fish think of the humans?",
+                    "Answer": "The fish might think that the humans are interesting and strange creatures. They might be curious about why the humans are there and what they are doing. But on the other hand, fish also feel that humans are a bit annoying. After all, they will bring a lot of damage to the Great Barrier Reef just by coming to watch. Not only that, but humans have always wanted to eat more fish, so they are very scared from this point of view. "
+                },
+                {
+                    "Question": "What do the humans think of the fish?",
+                    "Answer": "The humans might think that the fish are beautiful and amazing creatures. They might be fascinated by their colors and how they move through the water. Humans might also feel empathy for the fish, especially if they are aware of the damage that humans are doing to the Great Barrier Reef. But at the same time, humans will also feel that this is not necessarily a serious matter. After all, technology is very advanced and can do a lot of things."
+                },
+                {
+                    "Question": "What is the conversation between the fish and humans like?",
+                    "Answer": "The conversation might be friendly at first. The fish might welcome the humans and be curious about them. But as the conversation goes on, the fish might start to feel annoyed with the humans and their impact on the Great Barrier Reef."
+                },
+                {
+                    "Question": "What kind of emotions do the fish feel towards the humans?",
+                    "Answer": "The fish might feel a range of emotions towards the humans, including curiosity, fear, and anger."
+                },
+                {
+                    "Question": "What kind of emotions do the humans feel towards the fish?",
+                    "Answer": "The humans might feel a range of emotions towards the fish, including fascination, empathy, and annoyance."
+                }
+            ],
+            "Output": "Fish: Welcome to the Great Barrier Reef! This is a beautiful place full of life and color. We are so glad you came to visit us. However, it would be great if humans could come with fewer numbers and destroy this place a little less. After all, this is my home.,Human: Thank you for welcoming us to your home. We are really enjoying our time here. We will try to be more mindful of our impact and not damage the reef too much. We are so grateful to be able to experience this amazing place. But you also know that human beings are inherently very different from you. What we think is good, you may not think good.,Fish: That's true, humans are very different from us. But we still have to try to get along because we share this planet.,Human: Yes, we do need to try to get along. But it's not always easy because we are so different.,Fish: I know it's not easy, but we have to try. Otherwise, things will only get worse.,Human: I agree, we need to try to get along for the sake of the planet.,Fish: But it's not just for the sake of the planet. We should also try to get along for our own sake.,Human: Yes, you're right. We should try to get along for our own sake as well."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What types of animals are in the ecosystem?",
+                    "Answer": "This ecosystem is the Great Barrier Reef. There are many different types of animals in the Great Barrier Reef.  The conversation is between turtles and seabirds."
+                },
+                {
+                    "Question": "What do the animals eat?",
+                    "Answer": "The animals in the Great Barrier Reef eat many different things. Some of the animals eat nuts, seeds, and berries. Others eat leaves, grass, and flowers."
+                },
+                {
+                    "Question": "Do the animals live in groups or alone?",
+                    "Answer": "Some of the animals in the Great Barrier Reef live in groups, while others live alone. Some of the animals that live in groups include birds and fish. Some of the animals that live alone include sharks."
+                },
+                {
+                    "Question": "What is the climate like in the ecosystem?",
+                    "Answer": "The climate in the Great Barrier Reef is tropical. The temperature is warm and there is a lot of rain."
+                },
+                {
+                    "Question": "What types of plants are in the ecosystem?",
+                    "Answer": "There are many different types of plants in the Great Barrier Reef. Some of the plants are algae, coral, and seagrass."
+                },
+                {
+                    "Question": "What is the conversation between the animals about?",
+                    "Answer": "The conversation between the animals is about their day. They discuss what they ate, who they saw, and where they went. Also, the conversation is about the change in the Great Barrier Reef."
+                },
+                {
+                    "Question": "What is the mood of the conversation?",
+                    "Answer": "The mood of the conversation is happy and friendly, but a little bit worried."
+                },
+                {
+                    "Question": "What is the tone of the conversation?",
+                    "Answer": "The tone of the conversation is casual."
+                },
+                {
+                    "Question": "What is the setting of the conversation?",
+                    "Answer": "The setting of the conversation happens in the Great Barrier Reef. It mainly narrates the daily peaceful and happy life of the animals, but recently there have been some bad environmental changes in the Great Barrier Reef."
+                },
+                {
+                    "Question": "Who are the main characters of the conversation?",
+                    "Answer": "The main characters of the conversation are turtles and seabirds."
+                }
+            ],
+            "Output": "Turtle: Hey there, seabird! How was your day today? Seabird: It was good, thanks for asking! I got to eat a lot of nuts, seeds, and berries. And I saw some really cool fish while I was out swimming. Turtle: That sounds great! I'm glad you had a good day. I'm a little worried about the Great Barrier Reef though. Seabird: Why are you worried about the Great Barrier Reef? Turtle: I've heard that the coral is dying and the water is getting warmer. I'm worried that something bad is going to happen to our home. Seabird: I'm sure everything will be okay. We've been through bad times before and we always come out okay in the end. Turtle: I hope you're right. I just can't help but worry. Seabird: Don't worry too much, turtle. Everything will be okay."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of ecosystem are you interested in?",
+                    "Answer": "I am interested in the Amazon rainforest."
+                },
+                {
+                    "Question": "What types of animals and plants live in the Amazon rainforest?",
+                    "Answer": "Some of the animals that live in the Amazon rainforest include jaguars, sloths, snakes, monkeys, and toucans. Some of the plants that live in the Amazon rainforest include trees, vines, flowers, and shrubs."
+                },
+                {
+                    "Question": "What do the animals and plants do in the ecosystem?",
+                    "Answer": "The animals in the Amazon rainforest typically eat plants and other animals, while the plants provide food and shelter for the animals."
+                },
+                {
+                    "Question": "Are there any human beings in the ecosystem?",
+                    "Answer": "There are some indigenous people who live in the Amazon rainforest, but the ecosystem is mostly populated by animals and plants."
+                },
+                {
+                    "Question": "What types of conversations would you like to see?",
+                    "Answer": "I would like to see conversations between different animals and between animals and plants."
+                },
+                {
+                    "Question": "Would you like the conversations to be friendly or hostile?",
+                    "Answer": "I would like the conversations to be friendly."
+                },
+                {
+                    "Question": "What other information would you like me to include?",
+                    "Answer": "I would like you to include information about the different roles that animals and plants play in the ecosystem."
+                },
+                {
+                    "Question": "Would you like me to write the conversations in a specific format?",
+                    "Answer": "No, I would not like you to write the conversations in a specific format."
+                },
+                {
+                    "Question": "Would you like me to use specific vocabulary?",
+                    "Answer": "No, I would not like you to use specific vocabulary."
+                },
+                {
+                    "Question": "Would you like me to write the conversations in a specific language?",
+                    "Answer": "No, I would not like you to write the conversations in a specific language."
+                }
+            ],
+            "Output": "Conversation 1:Monkey: Hey there, Jaguar! What are you up to today? Jaguar: Not much, just hunting for some food. I\u2019m getting pretty hungry. Monkey: Yeah, I\u2019m starting to get hungry myself. I haven\u2019t eaten anything all day. Jaguar: Well, if you\u2019re looking for food, you might want to stay away from me. I\u2019m planning on eating anything I can catch. Monkey: I\u2019ll keep that in mind. Thanks for the warning. I\u2019ll try to stay out of your way. Jaguar: No problem. Good luck finding something to eat. Conversation 2:Toucan: Hey there, Sloth! What are you up to today? Sloth: Not much, just hanging around. I don\u2019t really have much energy to do anything else. Toucan: Yeah, I can understand that. I\u2019m pretty tired myself. I\u2019ve been flying around all day. Sloth: Yeah, I don\u2019t know how"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/yWMNn4iZ6yS1XQt5lwqr1T70?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5IzJmqc9BSrsChqf1CzyegYZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YnwHTbVsk3cs3tksVIWz3fmT?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1HHlJB9LqseW-2cHziR1vkm8alDXRueII/view?usp=sharing",
+        "https://drive.google.com/file/d/1fU9QYARugyrECNtBd9Cm0tB31JEnToSe/view?usp=sharing",
+        "https://drive.google.com/file/d/192i4P6wYMRspSvZ2CQQe8GmvR4_zh8rC/view?usp=sharing",
+        "https://drive.google.com/file/d/1x7aAVRinqwrBXn3KT-VDR8iBKg81BvZF/view?usp=sharing"
+    ]
+}

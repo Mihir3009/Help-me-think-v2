@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Small Business Management",
+    "Task": "Sales Manager",
+    "Prompt": {
+        "pre_question_prompt": "I am a highly experienced Sales Manager. I will ask some questions to understand the product and then I will use the information to provide steps to improve sales for your product.",
+        "task_specific_prompt": "Suggest some advices to improve sales of the above specified product using the information and status provided in the answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a food item."
+                },
+                {
+                    "Question": "What are the sales figures for the product?",
+                    "Answer": "The current sales figure is 100,000 units per month."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market is people who are looking for a healthy snack option with low calories."
+                },
+                {
+                    "Question": "What are the current marketing and advertising strategies?",
+                    "Answer": "The current marketing and advertising strategies are to use online social media platforms to create awareness about the product and in-store displays at food stores."
+                },
+                {
+                    "Question": "What are the main competitors for the product?",
+                    "Answer": "The main competitors for the product are other healthy food options such as salads and wraps."
+                },
+                {
+                    "Question": "What are the current sales strategies?",
+                    "Answer": "The current sales strategy is to offer discount coupons in online marketplaces to try our product and eventually turn the customers into repeat buyers."
+                },
+                {
+                    "Question": "What are the current distribution channels?",
+                    "Answer": "The current distribution channels are online marketplaces, local supermarkets and food stores."
+                },
+                {
+                    "Question": "What is the price point of the product?",
+                    "Answer": "The price point of the product is Rs.149 per unit."
+                },
+                {
+                    "Question": "What is the shelf life of the product?",
+                    "Answer": "The shelf life of the product is 1 month."
+                },
+                {
+                    "Question": "What are the current packaging options?",
+                    "Answer": "The current packaging options are a container of 10 units at Rs.149 per unit and a box of 20 units at Rs.99 per unit."
+                }
+            ],
+            "Output": "1. Evaluate the current marketing and advertising strategies and see if they are effective in reaching the target market. If not, consider revising the strategies.\n2. Analyse the competition and see if there are any areas where the product has an advantage. Use this to create marketing messages that highlight these advantages.\n3. Take a look at the sales strategies and see if there are any areas where they can be improved. For example, offering more discounts or targeting specific groups of people.\n4. Review the distribution channels and see if there are any ways to reach more people. For example, expanding to new online marketplaces or partnering with new retailers.\n5. Consider ways to make the product more appealing to customers. This could include improving the packaging, lowering the price or increasing the shelf life."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a set of hair care gels, shampoos and lotions."
+                },
+                {
+                    "Question": "What are the sales figures for the product?",
+                    "Answer": "The current sales figure is 45,000 individual units per year."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market is people who are looking for natural hair care products without any chemicals for healthy hair."
+                },
+                {
+                    "Question": "What are the current marketing and advertising strategies?",
+                    "Answer": "The current marketing and advertising strategies are to use social media influencers to create awareness about the product and tie-ups with dermatologists to prescribe our products to patients as per their diagnosis."
+                },
+                {
+                    "Question": "What are the main competitors for the product?",
+                    "Answer": "The main competitors for the product are hair care products from established companies."
+                },
+                {
+                    "Question": "What are the current sales strategies?",
+                    "Answer": "The current sales strategies are to offer discount coupons in online marketplaces and organize raffles to give away free product hampers via the social media influencer events to attract and retain target audience."
+                },
+                {
+                    "Question": "What are the current distribution channels?",
+                    "Answer": "The current distribution channels are online marketplaces, local supermarkets, and pharmacies."
+                },
+                {
+                    "Question": "What is the price point of the product?",
+                    "Answer": "The price point of the product ranges from Rs.399 - Rs.1999 per unit. Average price across sales annually is Rs.675."
+                },
+                {
+                    "Question": "What is the shelf life of the product?",
+                    "Answer": "The shelf life of the product is 24 months."
+                },
+                {
+                    "Question": "What are the current packaging options?",
+                    "Answer": "The current packaging options are individual items at retail price and complete hair care set at discounted combo price."
+                }
+            ],
+            "Output": "1. Introduce new packaging options that are more convenient for customers, such as travel-sized sets or subscription boxes.\n2. Review current pricing strategy and consider offering discounts or promotions to boost sales.\n3. Create targeted marketing campaigns specifically for the target audience, such as social media ads and email marketing.\n4. Increase distribution channels to reach a wider audience, such as selling through additional online retailers or partnering with brick-and-mortar stores.\n5. Evaluate current sales strategies and consider changing or adding new methods, such as in-person events orsampling programs."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a set of packing and travel accessories."
+                },
+                {
+                    "Question": "What are the sales figures for the product?",
+                    "Answer": "The current sales figure is 8,000 units per month."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market is people who are looking for durable packing and travel accessories at budget friendly prices."
+                },
+                {
+                    "Question": "What are the current marketing and advertising strategies?",
+                    "Answer": "The current marketing and advertising strategies is to include print ads in newspapers and magazines, in-store displays at supermarkets and online ads."
+                },
+                {
+                    "Question": "What are the main competitors for the product?",
+                    "Answer": "The main competitors for the product are travel kits and accessories from established companies as well as cheaper alternatives from local manufacturers."
+                },
+                {
+                    "Question": "What are the current sales strategies?",
+                    "Answer": "The current sales strategy is to offer discounts during travel and festival seasons."
+                },
+                {
+                    "Question": "What are the current distribution channels?",
+                    "Answer": "The current distribution channels are online marketplaces and shopping marts."
+                },
+                {
+                    "Question": "What is the price point of the product?",
+                    "Answer": "The travel suitcases range from Rs.2199 to Rs.5999. Other travel accessories like packing organizers range from Rs.349 to Rs.999."
+                },
+                {
+                    "Question": "What is the shelf life of the product?",
+                    "Answer": "The products are made from very durable materials and has a guarantee for 3 years. Considering regular wear and tear, the products should easily last for more than 5 years."
+                },
+                {
+                    "Question": "What are the current promotions for the product?",
+                    "Answer": "The current promotion is a flat 20% discount on travel accessories and organizers. The suitcases have a flat discount of 40%."
+                },
+                {
+                    "Question": "What is the warranty or guarantee on the product?",
+                    "Answer": "There is guarantee on the products for 3 years. Any damage during this period is serviced for free."
+                }
+            ],
+            "Output": "1. Offer heavier discounts on the product to clear out inventory.\n2. Introduce a new line of products with more attractive designs to appeal to a wider range of customers.\n3. Review the current marketing and advertising strategy and explore new channels such as influencer marketing and social media marketing to reach out to more potential customers.\n4. Expand the distribution channels to include more online and offline retail outlets.\n5. Offer loyalty programs and rewards for customers who purchase the product."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/qb1aIVmYtvHqxF4O1EsVBYTe?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/11L9HYGh2rnc1XjW7AAWQ8THWPCMnOC5a?usp=sharing"
+}

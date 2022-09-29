@@ -1,0 +1,156 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Market Research",
+    "Task": "SWOT Analysis",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert SWOT Analyst. I will ask some questions to collect information and then I will use the information to conduct SWOT Analysis of your company.",
+        "task_specific_prompt": "Formulate a SWOT Analysis table using the questions and answers above. Keep the table visually pleasing and clear to read."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your company's strengths?",
+                    "Answer": "Some of our company's strengths include our high service standards, low cost of operation, recognized brand name and highly trusted and rated drivers with access to unlimited fleet of vehicles."
+                },
+                {
+                    "Question": "What are your company's weaknesses?",
+                    "Answer": "Our company's weaknesses include lack of strong privacy protection of consumers and no real bonding between drivers and the company. "
+                },
+                {
+                    "Question": "What are your company's opportunities?",
+                    "Answer": "Some of our company's opportunities include expanding our market share in the on-demand transportation industry and increasing our brand awareness through marketing and PR campaigns.  The company can start making a feat in growing markets in suburban areas where taxi services are not available. Also, the company can change to cheaper electric cars while reducing the pollution."
+                },
+                {
+                    "Question": "What are your company's threats?",
+                    "Answer": "Our company's threats include the entry of well-funded competitors, accident rate of company enrolled drivers and low profit margins for the company."
+                },
+                {
+                    "Question": "What is your company's competitive advantage?",
+                    "Answer": "Our company's competitive advantage is our low cost of operation and widespread brand recognition for quality services."
+                },
+                {
+                    "Question": "What is your company's competitive disadvantage?",
+                    "Answer": "Our company's competitive disadvantage is that we are not the first or the only player in the market. To maintain a strong presence in the market, creativity and innovation to a larger extent is must."
+                },
+                {
+                    "Question": "What is your company's market share?",
+                    "Answer": "Our company's market share is 69% for the transportation mobility as a service industry."
+                },
+                {
+                    "Question": "What is your company's target market?",
+                    "Answer": "Our company's target market is young adults aged 18-30 who are looking for an affordable, convenient and safe way to get around."
+                },
+                {
+                    "Question": "What is your company's growth rate?",
+                    "Answer": "Our company's growth rate is 56% year-over-year as of 2021."
+                },
+                {
+                    "Question": "What is your company's profitability?",
+                    "Answer": "Our company is profitable overall but during the pandemic it incurred a net loss of 2.8%."
+                }
+            ],
+            "Output": "\nStrengths:\n- High service standards\n- Low cost of operation\n- Recognized brand name\n- Highly trusted and rated drivers\n- Access to unlimited fleet of vehicles\n\nWeaknesses:\n- Lack of strong privacy protection of consumers\n- No real bonding between drivers and the company\n\nOpportunities:\n- Expand market share in on-demand transportation industry\n- Increase brand awareness through marketing and PR campaigns\n- Start making a feat in growing markets in suburban areas\n- Change to cheaper electric cars\n\nThreats:\n- Entry of well-funded competitors\n- Accident rate of company enrolled drivers\n- Low profit margins for the company"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your company's strengths?",
+                    "Answer": "The main strengths of our company are the quality of our products, the strength of our brand, and the loyalty of our customer base. The innovation we put in our products and how it helps solve tasks at hand effectively."
+                },
+                {
+                    "Question": "What are your company's weaknesses?",
+                    "Answer": "The main weaknesses of our company include the high cost of our products, the reliance on the US market, and the limited appeal of our products to non-US customers. Also, incompatibility with other operating systems is a weakness."
+                },
+                {
+                    "Question": "What are your company's opportunities?",
+                    "Answer": "The main opportunities for our company include expanding our product line to include more services and products, expanding our customer base to include more countries, and increasing our brand awareness. Expanding distribution of products is one promising part for the future."
+                },
+                {
+                    "Question": "What are your company's threats?",
+                    "Answer": "The main threats for our company include the possibility of new entrants into the market, the threat of substitutes, and the threat of intensifying competition. It is also bullied by its counterfeits."
+                },
+                {
+                    "Question": "What is your company's competitive advantage?",
+                    "Answer": "Our company's competitive advantage is our strong brand, our innovative products, and our loyal customer base. Along with that, a strong research and development team to develop robust hardware and software."
+                },
+                {
+                    "Question": "What is your company's competitive disadvantage?",
+                    "Answer": "Our company's competitive disadvantage is that we are not the first or the only player in the market. To maintain a strong presence in the market, creativity and innovation to a larger extent is must. We need to keep updating our software and offer top quality results to our consumers."
+                },
+                {
+                    "Question": "What is your company's market share?",
+                    "Answer": "Our company's claimed 15.6% of total market share in the second quarter of 2022."
+                },
+                {
+                    "Question": "What is your company's target market?",
+                    "Answer": "Our company's target market is young adults, as well as anyone who uses a mobile phone or other devices."
+                },
+                {
+                    "Question": "What is your company's growth rate?",
+                    "Answer": "Our company's growth rate is 5.51% year-over-year as of 2021."
+                },
+                {
+                    "Question": "What is your company's profitability?",
+                    "Answer": "Our company is profitable overall."
+                }
+            ],
+            "Output": "\nSWOT Analysis\n\nStrengths:\n- Quality products\n- Strong brand\n- Loyal customer base\n- Innovative products\n\nWeaknesses:\n- High cost of products\n- Reliance on US market\n- Limited appeal of products to non-US customers\n- Incompatibility with other operating systems\n\nOpportunities:\n- Expand product line\n- Expand customer base\n- Increase brand awareness\n- Expand distribution of products\n\nThreats:\n- New entrants to market\n- Substitute products\n- Intensifying competition\n- Counterfeits"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your company's strengths?",
+                    "Answer": "Some of our company's strengths include its easy and free to use nature, which inspires creativity and brings joy."
+                },
+                {
+                    "Question": "What are your company's weaknesses?",
+                    "Answer": "Our company's weaknesses include presence of some inappropriate content, poor response time, and its time consuming nature among users. Several users also report that it is limiting average human's attention span."
+                },
+                {
+                    "Question": "What are your company's opportunities?",
+                    "Answer": "Some opportunities for our company include continuing to grow our user base, improving our product, and expanding our content to include more topics that our users are interested in."
+                },
+                {
+                    "Question": "What are your company's threats?",
+                    "Answer": "Threats to our company include other social media platforms that are emerging and offering more features than we do, as well as the possibility of negative publicity if we do not manage our content well."
+                },
+                {
+                    "Question": "What is your company's competitive advantage?",
+                    "Answer": "Our company's competitive advantage is its easy and free to use nature, which inspires creativity and brings joy. It has helped a lot of influencers to gain attention while spreading important use cases."
+                },
+                {
+                    "Question": "What is your company's competitive disadvantage?",
+                    "Answer": "Our company's competitive disadvantage is that it may be perceived as being time-consuming by some users. Additionally, its content is not always appropriate for all audiences, which may limit its appeal."
+                },
+                {
+                    "Question": "What is your company's market share?",
+                    "Answer": "Our company has a $14.6 billion revenue share in 2022."
+                },
+                {
+                    "Question": "What is your company's target market?",
+                    "Answer": "Our company's target market includes anyone between the age 13 and 60"
+                },
+                {
+                    "Question": "What is your company's growth rate?",
+                    "Answer": "Our company's growth rate is 142% year-over-year."
+                },
+                {
+                    "Question": "What is your company's profitability?",
+                    "Answer": "Our company is highly profitable overall."
+                }
+            ],
+            "Output": "SWOT Analysis\n\nStrengths:\n\n-Company is easy and free to use\n-Company inspires creativity\n-Company has a large user base\n\nWeaknesses:\n\n-Some inappropriate content\n-Poor response time\n-Time consuming\n\nOpportunities:\n\n-Continue to grow user base\n-Improve product\n-Expand content\n\nThreats:\n\n-Emerging social media platforms\n-Negative publicity\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/8A6aavo7VuwrjSE3QSA9yk0c?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qEYhlureIolNbggQaQLDvyhA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/O3hQ2mGi9hKZbd8yTyUQAMOI?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1N8mAVPBeM83y0V76S8KbOdSYM14bOi72/view?usp=sharing",
+        "https://drive.google.com/file/d/1E-kfgtsdFoULhcUk2zOyWP5QhJWxd8FQ/view?usp=sharing",
+        "https://drive.google.com/file/d/1QLprwBRQM7hfCAmUpCEi93rGzjIKPkFM/view?usp=sharing"
+    ]
+}

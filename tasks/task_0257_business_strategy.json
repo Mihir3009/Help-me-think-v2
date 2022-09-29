@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Business Strategy",
+    "Task": "Business Strategy Plan",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert business strategist. I will ask some questions to collect information and then I will use the information to generate a business strategy plan.",
+        "task_specific_prompt": "Write a business strategy plan using the questions and answers above. The plan should be brief but detailed."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your business?",
+                    "Answer": "Our business connects pet owners with pet sitters."
+                },
+                {
+                    "Question": "What are your business goals?",
+                    "Answer": "Our goal is to become the the most popular pet sitting platform in the world."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "Our target market is pet owners who do not know anyone in their area to watch their pets."
+                },
+                {
+                    "Question": "What are your marketing objectives?",
+                    "Answer": "Our marketing objectives are to attract both pet owners and sitters to our platform to establish a userbase."
+                },
+                {
+                    "Question": "What is your budget for marketing?",
+                    "Answer": "Our marketing budget is $10,000 per month."
+                },
+                {
+                    "Question": "What are your current marketing activities?",
+                    "Answer": "We currently run ads on Facebook, Instagram, and Google."
+                },
+                {
+                    "Question": "What are your thoughts on your current marketing activities?",
+                    "Answer": "We believe that our current marketing activities are effective but there is room for improvement."
+                },
+                {
+                    "Question": "What are some ideas you have for new marketing activities?",
+                    "Answer": "We have considered running ads on pet-related websites, starting a blog, and partnering with pet stores."
+                },
+                {
+                    "Question": "What do you think are the most important factors for success in your industry?",
+                    "Answer": "The most important factors in our industry are a strong platform, positive reviews, and a large userbase."
+                },
+                {
+                    "Question": "What are your thoughts on your competition?",
+                    "Answer": "We believe that there is some competition in the market, but no single company has made a breakthrough."
+                }
+            ],
+            "Output": "1. Introduction\n\nOur business is a pet sitting platform that connects pet owners with pet sitters. Our goal is to become the most popular pet sitting platform in the world. Our target market is pet owners who do not know anyone in their area to watch their pets.\n\n2. Marketing\n\nOur marketing objectives are to attract both pet owners and sitters to our platform to establish a userbase. Our budget for marketing is $10,000 per month. We currently run ads on Facebook, Instagram, and Google. We believe that our current marketing activities are effective but there is room for improvement. We have considered running ads on pet-related websites, starting a blog, and partnering with pet stores.\n\n3. Competition\n\nWe believe that there is some competition in the market, but no single company has made a breakthrough. We believe that the most important factors for success in our industry are a strong platform, positive reviews, and a large userbase.\n\n4. Conclusion\n\nBy following the business strategy plan outlined above, we believe that we can become the most popular pet sitting platform in the world."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your business?",
+                    "Answer": "The name of our business is \"Innovation Inc.\"."
+                },
+                {
+                    "Question": "What does your business do?",
+                    "Answer": "Our business provides consultation to businesses which want to become more innovative."
+                },
+                {
+                    "Question": "Who are your customers?",
+                    "Answer": "Our customers are businesses of all sizes."
+                },
+                {
+                    "Question": "What is your competitive advantage?",
+                    "Answer": "Our competitive advantage is our team of experienced consultants. We have a team of consultants who have a wealth of experience in different industries. This allows us to provide our clients with the best possible advice."
+                },
+                {
+                    "Question": "What are your goals for the next year?",
+                    "Answer": "Our goal for the next year is to double our revenue."
+                },
+                {
+                    "Question": "What are your biggest challenges?",
+                    "Answer": "Our biggest challenges are finding qualified consultants and convincing customers that becoming more innovative will improve their business."
+                },
+                {
+                    "Question": "What is your marketing strategy?",
+                    "Answer": "Our marketing strategy is to use online marketing and word-of-mouth."
+                },
+                {
+                    "Question": "What is your sales strategy?",
+                    "Answer": "Our sales strategy is to offer free consultations to potential customers."
+                },
+                {
+                    "Question": "What is your growth strategy?",
+                    "Answer": "Our growth strategy is to expand our team of consultants and to add more services."
+                },
+                {
+                    "Question": "What are your financial goals?",
+                    "Answer": "Our financial goal is to be profitable within the first year."
+                }
+            ],
+            "Output": "Innovation Inc. is a business consulting company that helps businesses become more innovative. The company was founded in 2020 and is based in Toronto, Canada. The company has a team of experienced consultants who have a wealth of experience in different industries. This allows them to provide their clients with the best possible advice.\n\nThe company\u2019s goal for the next year is to double their revenue. In order to achieve this goal, the company plans to expand their team of consultants and to add more services. The company will also use online marketing and word-of-mouth to generate leads. Finally, the company plans to offer free consultations to potential customers.\n\nThe company\u2019s financial goal is to be profitable within the first year. In order to achieve this goal, the company will need to generate enough revenue to cover their expenses."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the nature of your business?",
+                    "Answer": "We are a company that provides financial services to small businesses."
+                },
+                {
+                    "Question": "What are your company's strengths?",
+                    "Answer": "Our company is very good at providing personalized service to our clients. We really get to know our clients and their businesses, and we are able to give them the best possible advice. Another strength of ours is that we are very efficient and organized. We have a great system in place for handling our clients' finances."
+                },
+                {
+                    "Question": "What are your company's weaknesses?",
+                    "Answer": "One weakness of ours is that we are a relatively small company. We don't have the same resources as some of the bigger financial firms. Another weakness is that we are located in a small town. This limits our potential client base."
+                },
+                {
+                    "Question": "What are the opportunities for your company?",
+                    "Answer": "One opportunity for our company is to expand our services to include online accounting and bookkeeping. This would allow us to reach a larger client base. Another opportunity is to open a second location in a larger town or city. This would give us access to more potential clients."
+                },
+                {
+                    "Question": "What are the threats to your company?",
+                    "Answer": "One threat to our company is the possibility of new competitors moving into our area. Another threat is the possibility of a recession, which could lead to our clients cutting back on their spending."
+                },
+                {
+                    "Question": "What are your company's goals?",
+                    "Answer": "Our company's goals are to continue providing excellent service to our clients, to grow our client base, and to become the leading financial services provider in our area."
+                },
+                {
+                    "Question": "What are your company's objectives?",
+                    "Answer": "Some objectives of ours are to improve our online presence, to expand our services to include online accounting and bookkeeping, and to open a second location in a larger town or city."
+                },
+                {
+                    "Question": "What are your company's long-term goals?",
+                    "Answer": "Our long-term goal is to become the leading financial services provider in our area."
+                },
+                {
+                    "Question": "What are your company's long-term objectives?",
+                    "Answer": "Some of our long-term objectives are to expand our client base, to improve our online presence, and to become the go-to financial services provider for small businesses in our area."
+                },
+                {
+                    "Question": "What are your company's competitive advantages?",
+                    "Answer": "Some of our competitive advantages are our personalized service, our efficiency and organization, and our experience."
+                }
+            ],
+            "Output": "1. Company Overview\n\nWe are a small financial services company located in a small town. We specialize in providing personalized service and advice to small businesses. We have a great system in place for handling our clients' finances.\n\n2. Goals\n\nOur goal is to become the leading financial services provider in our area. In order to achieve this, we will continue to provide excellent service to our clients, grow our client base, and expand our services to include online accounting and bookkeeping.\n\n3. Objectives\n\nSome of our objectives are to improve our online presence, expand our services to include online accounting and bookkeeping, and open a second location in a larger town or city.\n\n4. Competitive Advantages\n\nSome of our competitive advantages are our personalized service, our efficiency and organization, and our experience.\n\n5. Implementation\n\nIn order to achieve our goals and objectives, we will focus on continuing to provide excellent service to our clients, growing our client base, and expanding our services to include online accounting and bookkeeping. We will also work on improving our online presence and expanding our marketing efforts."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/jepgsEDSIlA7qMDQqQZkfsZx",
+        "https://beta.openai.com/playground/p/V7YPxpEkZjJJ0Q4jo64EF711",
+        "https://beta.openai.com/playground/p/eW0Kzc98mPBcixxhBfcd2EiF"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1farvJuHBwAHuou7Nxp768wJ4JjbNxO3i?usp=sharing"
+}
