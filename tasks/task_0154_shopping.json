@@ -135,7 +135,7 @@
                     "Answer": "yes"
                 }
             ],
-            "output": "I recommend that you purchase the black dress for kids from Amazon.com. They have a wide selection of dresses to choose from and they offer free shipping on orders over $25. I found a black dress that is similar to the one you are looking for and it is available for $20.99."
+            "Output": "I recommend that you purchase the black dress for kids from Amazon.com. They have a wide selection of dresses to choose from and they offer free shipping on orders over $25. I found a black dress that is similar to the one you are looking for and it is available for $20.99."
         },
         {
             "QApair": [
@@ -180,7 +180,7 @@
                     "Answer": "Based on the information provided, we would recommend the Apple iPhone 8 Plus 128GB in rose gold. The phone has a 6 inch hd screen, 128gb storage capacity, and a good camera. The phone is available on Jio network."
                 }
             ],
-            "output": "We would recommend the Apple iPhone 8 Plus 128GB in rose gold. The phone has a 6 inch hd screen, 128gb storage capacity, and a good camera. The phone is available on Jio network."
+            "Output": "We would recommend the Apple iPhone 8 Plus 128GB in rose gold. The phone has a 6 inch hd screen, 128gb storage capacity, and a good camera. The phone is available on Jio network."
         }
     ],
     "Preset_link": [
