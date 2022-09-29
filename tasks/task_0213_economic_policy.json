@@ -50,7 +50,7 @@
                     "Answer": "about $300 a month"
                 }
             ],
-            "output": "The policy should aim to reduce unemployment and increase wages in the area. 1. The government should create incentives for businesses to create jobs in the area. 2. The government should create training and education programs to help residents get jobs in the area. 3. The government should negotiate with businesses to create living wage jobs in the area. 4. The government should provide transportation subsidies to residents to help them get to work. 5. The government should provide child care subsidies to residents to help them afford child care. 6. The government should provide housing subsides to residents to help them afford housing."
+            "Output": "The policy should aim to reduce unemployment and increase wages in the area. 1. The government should create incentives for businesses to create jobs in the area. 2. The government should create training and education programs to help residents get jobs in the area. 3. The government should negotiate with businesses to create living wage jobs in the area. 4. The government should provide transportation subsidies to residents to help them get to work. 5. The government should provide child care subsidies to residents to help them afford child care. 6. The government should provide housing subsides to residents to help them afford housing."
         },
         {
             "QApair": [
@@ -95,7 +95,7 @@
                     "Answer": "about $600 a month"
                 }
             ],
-            "output": "The government should invest in industry-specific training programs to help residents of mining areas find employment. The programs should be offered at a reduced cost or for free to residents of areas with high unemployment rates. The government should also provide incentives for businesses to locate in areas with high unemployment rates."
+            "Output": "The government should invest in industry-specific training programs to help residents of mining areas find employment. The programs should be offered at a reduced cost or for free to residents of areas with high unemployment rates. The government should also provide incentives for businesses to locate in areas with high unemployment rates."
         },
         {
             "QApair": [
@@ -140,7 +140,7 @@
                     "Answer": "about $200 a month"
                 }
             ],
-            "output": "The government should invest in farming and local farms to create more jobs in the area. The unemployment rate is low, so the government should focus on creating more jobs and increasing the average wage. The cost of living is high, so the government should focus on creating more affordable housing and transportation. The government should also invest in food assistance programs to help low-income families afford food."
+            "Output": "The government should invest in farming and local farms to create more jobs in the area. The unemployment rate is low, so the government should focus on creating more jobs and increasing the average wage. The cost of living is high, so the government should focus on creating more affordable housing and transportation. The government should also invest in food assistance programs to help low-income families afford food."
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/5Bo9BldMnKMmkwRIPgOgMj7u?model=text-davinci-002",
