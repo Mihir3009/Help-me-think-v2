@@ -50,7 +50,7 @@
                     "Answer": "no"
                 }
             ],
-            "output": "1. The system must be available 24 hours a day, 7 days a week. 2. The system must be able to store user profiles. 3. The system must be able to handle at least 5,000 users at once. 4. The system must be fast. 5. The system must be secure. 6. The system must have a backup. 7. The system must be scalable. 8. The system must be able to handle multiple accesses per second. 9. The system must have a disaster recovery plan. 10. The system must be available in multiple languages."
+            "Output": "1. The system must be available 24 hours a day, 7 days a week. 2. The system must be able to store user profiles. 3. The system must be able to handle at least 5,000 users at once. 4. The system must be fast. 5. The system must be secure. 6. The system must have a backup. 7. The system must be scalable. 8. The system must be able to handle multiple accesses per second. 9. The system must have a disaster recovery plan. 10. The system must be available in multiple languages."
         },
         {
             "QApair": [
@@ -95,7 +95,7 @@
                     "Answer": "must keep the coffee warm all day"
                 }
             ],
-            "output": "1. The system must be able to make coffee. 2. The system must be able to store coffee flavors. 3. The system must be able to keep the coffee warm. 4. The system must be accessible by businesses. 5. The system must have a power effect. 6. The system must be scalable. 7. The system must be able to make more coffee if needed. 8. The system must be easy to use. 9. The system must be reliable. 10. The system must be affordable."
+            "Output": "1. The system must be able to make coffee. 2. The system must be able to store coffee flavors. 3. The system must be able to keep the coffee warm. 4. The system must be accessible by businesses. 5. The system must have a power effect. 6. The system must be scalable. 7. The system must be able to make more coffee if needed. 8. The system must be easy to use. 9. The system must be reliable. 10. The system must be affordable."
         },
         {
             "QApair": [
@@ -140,7 +140,7 @@
                     "Answer": "makes sure the answers are actually correct"
                 }
             ],
-            "output": "1. The system shall be used to store homework answers. 2. The system shall be accessed by the user a few times a day at most. 3. The system shall be top secret and only accessible by the user. 4. The system shall be backed up in multiple places. 5. The system shall be smart and make sure the answers are correct. 6. The system shall be easy to use. 7. The system shall be available when needed. 8. The system shall be secure. 9. The system shall be private. 10. The system shall be scalable."
+            "Output": "1. The system shall be used to store homework answers. 2. The system shall be accessed by the user a few times a day at most. 3. The system shall be top secret and only accessible by the user. 4. The system shall be backed up in multiple places. 5. The system shall be smart and make sure the answers are correct. 6. The system shall be easy to use. 7. The system shall be available when needed. 8. The system shall be secure. 9. The system shall be private. 10. The system shall be scalable."
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/uRqMVE6naQaCpcoaoDpSBFwQ?model=text-davinci-002",
