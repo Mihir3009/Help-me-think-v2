@@ -1,0 +1,235 @@
+{
+    "Domain": "Reviews",
+    "Task": "Get the expert product reviewer to guess your product based on yes/no questions",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert product reviewer.  I will ask some yes or no questions to collect information about the product you have in mind and then I will use the information to guess what product you are thinking of. This of it as the twenty questions game.",
+        "task_specific_prompt": "Write your best guess of what the product is using the questions and answers above. Be as specific as possible."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Is your product a physical object?",
+                    "Answer": "yes."
+                },
+                {
+                    "Question": "Is your product a food item?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a toy?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product an article of clothing?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a piece of furniture?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a household appliance?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a tool?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a device?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": " Is your product a computer?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a phone?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a television?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a vehicle?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a musical instrument?",
+                    "Answer": "Kind of."
+                },
+                {
+                    "Question": "Is your product a microphone?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a set of speakers?",
+                    "Answer": "It has a pair, but is not just a pair of speakers."
+                }
+            ],
+            "Output": "The product is a Sonos Play:5 wireless speaker."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Is your product a toy?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Is your product a board game?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a video game?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a toy car?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a baby doll?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a teddy bear?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a action figure?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a toy soldier?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a toy gun?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Is your product a water gun?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in laser sight?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in flashlight?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in scope?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in bipod?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in carrying handle?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in stock?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in magazine?",
+                    "Answer": "Kinda. It is a revolver."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and has a built in magazine and is semi-automatic?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a Nerf gun that shoots foam darts and is semi-automatic?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "The product is a Nerf gun that shoots foam darts."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Is your product a toy?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a food?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a piece of furniture?",
+                    "Answer": "No, but you can lay in it."
+                },
+                {
+                    "Question": "Is your product a type of clothing?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product used for transportation?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product found in a office?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Does your product use batteries?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a book?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a household cleaning product?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a type of tool?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a musical instrument?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product found outside?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Is your product a type of sport equipment?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a game?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product a pet?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Is your product used for entertainment?",
+                    "Answer": "Not really. It is used for leisure."
+                }
+            ],
+            "Output": "I give up, what is your product? A hammock"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/K1vVGhYQhPGhGyUok2oYj9Ha?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1mlDDBjSNwdgh2QiqK0c1gzSEOMbauwq8?usp=sharing"
+}

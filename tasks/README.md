@@ -28,3 +28,11 @@ File Name | Domain | Task
 `task_0021_public places.json` | Public Places | I am asking for suggestions from GPT3 so that I can build a library
 `task_0022_natural resources.json` | Natural Resources | Advising a country on where solar energy can help it
 `task_0023_natural resources.json` | Natural Resources | Asking a university to shift its energy requirements to renewable resources to conserve natrual resources
+`task_0024_reviews.json` | Reviews | Write a restaurant yelp review about McDonald's
+`task_0025_neuroscience.json` | Neuroscience | Make a cognitive diagnosis of a person's mental state
+`task_0026_reviews.json` | Reviews | Get the expert product reviewer to guess your product based on yes/no questions
+`task_0027_reviews.json` | Reviews | Write a funny product review about a random product incorporating funny details about the end-users life.
+`task_0028_reviews.json` | Reviews | recommend movie you think I would review highly
+`task_0029_neuroscience.json` | Neuroscience | Turing test conducted by an AI
+`task_0030_neuroscience.json` | Neuroscience | determine whether a person is likely to succeed if they pursue a career in neuroscience
+`task_0031_neuroscience.json` | Neuroscience | Guess a person\ss age
