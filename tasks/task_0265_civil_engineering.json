@@ -166,10 +166,14 @@
             "Output": "The school is in pretty bad condition and needs to be renovated in order to improve the facilities and provide a better learning environment for the students. The budget for the renovation is $1 million and the timeline is one year. The specific areas that need to be renovated are the classrooms, the library, the basketball court, and the cafeteria. The expected outcome of the renovation is that the school's facilities will be improved and the students will have a better learning environment. Risks and challenges associated with the renovation include the possibility that the school may not be able to finish the renovation on time or within budget, and that the school may not be able to get the necessary permits for the renovation. However, the renovation is necessary in order to improve the school's facilities and provide a better learning environment for the students."
         }
     ],
-    "Preset_link_instance1": "https://beta.openai.com/playground/p/4ilhVfU9GqFrKn3pmUyzG41y?model=text-davinci-002",
-    "Preset_link_instance2": "https://beta.openai.com/playground/p/MQZjqmL8oopdfuAbCOpFcYA6?model=text-davinci-002",
-    "Preset_link_instance3": "https://beta.openai.com/playground/p/OVMPTyu6UbdhZocsvcULrkoW?model=text-davinci-002",
-    "screenshot_link_Instance1": "https://drive.google.com/file/d/1_DLXBz1NGMvBUpnGm6-5NJwxvWre9Ak9/view?usp=sharing",
-    "screenshot_link_Instance2": "https://drive.google.com/file/d/1kd3Lvn-OOx99d7iwNA9an0SvFydP8FR6/view?usp=sharing",
-    "screenshot_link_Instance3": "https://drive.google.com/file/d/1bvp7yhRLIoEsRZBKmPboSM_HEzb7w9YS/view?usp=sharing"
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/4ilhVfU9GqFrKn3pmUyzG41y?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/MQZjqmL8oopdfuAbCOpFcYA6?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/OVMPTyu6UbdhZocsvcULrkoW?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1_DLXBz1NGMvBUpnGm6-5NJwxvWre9Ak9/view?usp=sharing",
+        "https://drive.google.com/file/d/1kd3Lvn-OOx99d7iwNA9an0SvFydP8FR6/view?usp=sharing",
+        "https://drive.google.com/file/d/1bvp7yhRLIoEsRZBKmPboSM_HEzb7w9YS/view?usp=sharing"
+    ]
 }
