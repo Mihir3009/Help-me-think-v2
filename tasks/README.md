@@ -36,3 +36,11 @@ File Name | Domain | Task
 `task_0029_neuroscience.json` | Neuroscience | Turing test conducted by an AI
 `task_0030_neuroscience.json` | Neuroscience | determine whether a person is likely to succeed if they pursue a career in neuroscience
 `task_0031_neuroscience.json` | Neuroscience | Guess a person\ss age
+`task_0032_security.json` | security | suggest security equipment
+`task_0033_operations research.json` | operations research | efficiant passenger boarding strategy to aircraft
+`task_0034_security.json` | security | make security policies
+`task_0035_operations research.json` | operations research | vehicle estimates for logistics
+`task_0036_operations research.json` | operations research | suggest human resources for research project
+`task_0037_security.json` | security | security best practices
+`task_0038_operations research .json` | operations research  | suggesting management of air traffic
+`task_0039_security.json` | security | roberry situation solution

@@ -1,0 +1,151 @@
+{
+    "Domain": "operations research",
+    "Task": "suggest human resources for research project",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert human resource planner for a research project in NLP. I will ask some questions to collect information and then I will use the information to provide a plan for the human resources required. ",
+        "task_specific_prompt": "Write a plan of a human resources estimate and thing they need to do using the questions and answers above. Be as detailed and specific as possible"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your project?",
+                    "Answer": "The project is called \"understanding indirect answers in question answering\""
+                },
+                {
+                    "Question": "What is the focus of your project?",
+                    "Answer": "The focus of our project is to better understand how to extract information from questions that contain indirect answers."
+                },
+                {
+                    "Question": "What methods will you be using to collect data?",
+                    "Answer": "We do this by scrapping language turns from social media platforms on the web. These may include twitter, reddit etc."
+                },
+                {
+                    "Question": "What kind of data do you expect to collect?",
+                    "Answer": "We collect questions and answers. The questions are such that they expect a yes or no response. Answers on the other hand are indirect in nature and do not explicitly answer the question."
+                },
+                {
+                    "Question": "What are your plans for analyzing the data?",
+                    "Answer": "We need to analyze the date pertaining to named entities, numbers special characters etc. We need to see how these may influence the indirectness in the the reply."
+                },
+                {
+                    "Question": "What human resources do you expect to need for this project?",
+                    "Answer": "Well the exact numbers are not clear, which is why we are doing this exercise. We would need one advisor for sure, apart from that some research scientists and engineers."
+                },
+                {
+                    "Question": "What is the timeline for this project?",
+                    "Answer": "The timeline is to work in the summer for about 2 months."
+                },
+                {
+                    "Question": "What are the deliverables for this project?",
+                    "Answer": "The deliverables are a research paper with a nice corpus. "
+                },
+                {
+                    "Question": "What are the risks and challenges associated with this project?",
+                    "Answer": "Risks are that the results are not guaranteed. LLMs at times can be very unpredictable. Additionally the data quality we arrive at is also a little uncertain. "
+                },
+                {
+                    "Question": "What are the benefits of this project?",
+                    "Answer": "This would help chatbots and virtual assistants understand natural human answers, unlike synthetic direct yes/no answers."
+                }
+            ],
+            "Output": "-1 advisor -4-6 research scientists -2-3 engineers The plan for the human resources is as follows: 1. The advisor will be responsible for overseeing the project and providing guidance to the research scientists and engineers. 2. The research scientists will be responsible for collecting and analyzing the data. 3. The engineers will be responsible for developing the chatbots and virtual assistants that will use the data."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your project?",
+                    "Answer": "The project is called \"spatial commonsense\""
+                },
+                {
+                    "Question": "The focus of our project is to better understand how LLMs understand spatial commonsense",
+                    "Answer": ""
+                },
+                {
+                    "Question": "What methods will you be using to collect data?",
+                    "Answer": "We generate our own data by using certain type of templates. We vary a set of tokens at particular positions."
+                },
+                {
+                    "Question": "What kind of data do you expect to collect?",
+                    "Answer": "Data pertaining to where objects may lie in a living space, like bedrooms, bathrooms, garages etc."
+                },
+                {
+                    "Question": "What are your plans for analyzing the data?",
+                    "Answer": "Since our data is in a template form, we need to analyze where these objects come from, what type of objects are they and which rooms they belong to."
+                },
+                {
+                    "Question": "What human resources do you expect to need for this project?",
+                    "Answer": "Well the exact numbers are not clear, which is why we are doing this exercise. We would need advisor(s) for sure, apart from that some research scientists and engineers and other staff if needed."
+                },
+                {
+                    "Question": "What is the timeline for this project?",
+                    "Answer": "The timeline is to work in the summer for about 2 months."
+                },
+                {
+                    "Question": "What are the deliverables for this project?",
+                    "Answer": "The deliverables are a research paper with a nice corpus that helps LLMs understand spatial common sense"
+                },
+                {
+                    "Question": "What are the risks and challenges associated with this project?",
+                    "Answer": "Risks are that the results are not guaranteed. LLMs at times can be very unpredictable. Additionally the data quality we arrive at is also a little uncertain. Templates at times can create training biases maybe?"
+                },
+                {
+                    "Question": "What are the benefits of this project?",
+                    "Answer": "This would help chatbots and virtual assistants understand spatial common sense and thereby be more effective in human communication. "
+                }
+            ],
+            "Output": "The human resources required for this project are as follows: -1 project advisor -2 research scientists -1 engineer -1 data analyst -1 project manager"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your project?",
+                    "Answer": "The project is called \"beyond explicit arguments\""
+                },
+                {
+                    "Question": "What is the focus of your project?",
+                    "Answer": "The focus of our project is to better understand how LLMs can find arguments that occur implicitly, that is beyond a particular sentence."
+                },
+                {
+                    "Question": "What methods will you be using to collect data?",
+                    "Answer": "We use data from the wall street journal to carry out our research"
+                },
+                {
+                    "Question": "What kind of data do you expect to collect?",
+                    "Answer": "Data pertaining to what the sentence it, and where the argument occurs in reference to the predicate. Ideally we would like to go as implicit as possible."
+                },
+                {
+                    "Question": "What are your plans for analyzing the data?",
+                    "Answer": "We need to analyze what percentage of arguments first actually exist outside the sentence structure. With this then we can understand which instances to include in out corpus."
+                },
+                {
+                    "Question": "What human resources do you expect to need for this project?",
+                    "Answer": "Well the exact numbers are not clear, which is why we are doing this exercise. We would need advisor(s) for sure, apart from that some research scientists and engineers and other staff if needed."
+                },
+                {
+                    "Question": "What is the timeline for this project?",
+                    "Answer": "The timeline is to work in the summer for about 2-3 months."
+                },
+                {
+                    "Question": "What are the deliverables for this project?",
+                    "Answer": "The deliverables are a research paper with a nice corpus that helps LLMs understand arguments that occur beyond a sentence structure."
+                },
+                {
+                    "Question": "What are the risks and challenges associated with this project?",
+                    "Answer": "Risks are that the results are not guaranteed. LLMs at times can be very unpredictable. Additionally the data quality we arrive at is also a little uncertain. At the moment we are not even sure if the corpus can be scaled to several thousand instances."
+                },
+                {
+                    "Question": "What are the benefits of this project?",
+                    "Answer": "This would help chatbots and virtual assistants understand key aspects of semantics in real conversations"
+                }
+            ],
+            "Output": "The human resources estimate for this project would be as follows: -1 advisor -2-3 research scientists -1-2 engineers -1-2 other staff (as needed) The thing they need to do would be: -Carry out research to better understand how LLMs can find arguments that occur implicitly -Use data from the wall street journal to carry out their research -Analyze what percentage of arguments first actually exist outside the sentence structure -With this information, understand which instances to include in their corpus -Write a research paper with a nice corpus that helps LLMs understand arguments that occur beyond a sentence structure"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/6GTxCDlceQasF4iEJAlHxm47?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/x2f81pt1LulXQyoG83rvrhUy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Y4yk7aL5XMiTtVPb3JRg5ScQ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/16MvELJYRdI47A6e1OAveBHwm7osJIPD1?usp=sharing"
+}
