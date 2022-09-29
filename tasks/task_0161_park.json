@@ -99,7 +99,7 @@
                     "Answer": "The park is 100 acres."
                 }
             ],
-            "output": "The park should be designed to provide recreation and relaxation for the community. It should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year. The community is supportive of the park. The community's concerns about the park include safety, security, and maintenance. The park is located in Tempe, Arizona, near the college. The park is 100 acres."
+            "Output": "The park should be designed to provide recreation and relaxation for the community. It should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year. The community is supportive of the park. The community's concerns about the park include safety, security, and maintenance. The park is located in Tempe, Arizona, near the college. The park is 100 acres."
         },
         {
             "QApair": [
@@ -144,7 +144,7 @@
                     "Answer": "The top three concerns of the community are safety, enjoyment, and maintenance."
                 }
             ],
-            "output": "The park should be designed to provide recreation and relaxation for the community. It should be safe and enjoyable for the community. The park should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year."
+            "Output": "The park should be designed to provide recreation and relaxation for the community. It should be safe and enjoyable for the community. The park should include a playground, a picnic area, a walking trail, and a pond. The budget for the park is $1 million. The park should be completed within one year."
         }
     ],
     "Preset_link": [
