@@ -52,3 +52,11 @@ File Name | Domain | Task
 `task_0045_organizational behaviour.json` | ORGANIZATIONAL BEHAVIOUR | analyzing organizational behaviour
 `task_0046_national security.json` | National Security | Studying Indian National Security
 `task_0047_national security.json` | National Security | studying Infrastructure Security in a Nation
+`task_0048_tax filing.json` | Tax Filing | Tax Summary
+`task_0049_investment.json` | Investment | Advisor
+`task_0050_investment.json` | Investment | Analyst
+`task_0051_investment.json` | Investment | Teller
+`task_0052_tax filing.json` | Tax Filing | Tax Fraud
+`task_0053_tax filing.json` | Tax Filing | Tax Evasion
+`task_0054_tax filing.json` | Tax Filing | Deductions Calculator
+`task_0055_investment.json` | Investment | Startup
