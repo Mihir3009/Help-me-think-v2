@@ -60,3 +60,10 @@ File Name | Domain | Task
 `task_0053_tax filing.json` | Tax Filing | Tax Evasion
 `task_0054_tax filing.json` | Tax Filing | Deductions Calculator
 `task_0055_investment.json` | Investment | Startup
+`task_0056_social media.json` | Social Media | Writing an article on social media platform
+`task_0057_social media.json` | Social Media | Writing a review for a fast food place
+`task_0058_social media.json` | Social Media | Writing a twitter post about my trip
+`task_0059_digital imaging.json` | Digital Imaging | Writing an article on digital imaging applications
+`task_0060_digital imaging.json` | Digital Imaging | Writing a guide on digital imaging techniques
+`task_0061_social media.json` | Social Media | Writing a product promotion blog
+`task_0062_digital imaging.json` | Digital Imaging | Writing a lecture on digital imaging
