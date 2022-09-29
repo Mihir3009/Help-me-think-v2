@@ -13,3 +13,4 @@ File Name | Domain | Task
 `task_0006_biomedical.json` | Biomedical | Differential Diagnosis
 `task_0007_healthcare_administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
 `task_0008_healthcare_administration.json` | Healthcare Administration | Vaccine Inventory Management
+`task_0009_profession.json` | Profession | Use the information to describe my profession
