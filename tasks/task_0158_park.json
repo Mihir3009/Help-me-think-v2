@@ -181,7 +181,7 @@
             "output": "The best park for a child's birthday party near ASU Campus in Tempe would be Kiwanis Park. The park has a playground, swings, and slides for the child to enjoy. The party can be held in the evening after 6 PM on Sunday. The budget for the park is $200."
         }
     ],
-    "present_link": [
+    "preset_link": [
         "https://beta.openai.com/playground/p/Z2rHAgVsFQoOvBomzTTDqvcB?model=text-davinci-002",
         "https://beta.openai.com/playground/p/FEGawmteVMbsVoZPVdLw64Us?model=text-davinci-002",
         "https://beta.openai.com/playground/p/NOtYPqxriWpvDgpFatj695sY?model=text-davinci-002"
