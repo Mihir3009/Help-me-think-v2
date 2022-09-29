@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Shopping",
     "Task": "Shopping Agent",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am an expert shopping agent. I will ask some questions to collect information and then I will use the information to shop for you",
             "task_specific_prompt": "Write a shopping recommendation using the questions and answers above."
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
