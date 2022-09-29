@@ -1,0 +1,153 @@
+{
+    "Domain": "Animal Behavior",
+    "Task": "Strategy to make a Animals remember Me",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in understanding how animal make decision. I will ask some questions to collect information and then I will use the information to make animals remember me.",
+        "task_specific_prompt": "Write a way for me to behave with the animal so that the animal remembers me."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question":"How does the animal behave when it first meets you?",
+                    "Answer": "The animal feels curious when it meets me."
+                },
+                {
+                    "Question":"What does the animal like to do?",
+                    "Answer":"The animal may like to play."
+                },
+                {
+                    "Question":"What is the animal's favorite food?",
+                    "Answer":"Chicken"
+                },
+                {
+                    "Question":"What is the animal's favorite toy?",
+                    "Answer":"Ball"
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"Eating and playing"
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"IT dislikes disturbing him while eating food."
+                },
+                {
+                    "Question":"What is the animal's personality like?",
+                    "Answer":"curious"
+                },
+                {
+                    "Question":"What is the animal's socialization level?",
+                    "Answer":"Medium"
+                },
+                {
+                    "Question":"What is the animal's level of activity?",
+                    "Answer":"Medium"
+                },
+                {
+                    "Question":"What is the animal's level of intelligence?",
+                    "Answer":"Medium"
+                }
+            ],
+            "Output": "I will be Curious and playful with the animal. I will give the animal its favorite food, chicken, and I will give the animal its favorite toy, a ball. I will engage the animal in its favorite activities, eating and playing. I will not disturb the animal while it is eating.",
+            "Preset_link": "https://beta.openai.com/playground/p/Q5865Qr8tYK26efkwMOTegIb?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1Zdfgb72AMNS2s6c4ejU_oaKsIl-x8QOx/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How does the animal behave when it first meets you?",
+                    "Answer": "scared"
+                },
+                {
+                    "Question":"What does the animal like to do?",
+                    "Answer":"hide"
+                },
+                {
+                    "Question":"What is the animal's favorite food?",
+                    "Answer":"milk and break"
+                },
+                {
+                    "Question":"What is the animal's favorite toy?",
+                    "Answer":"no favorite toy but likes to chase small insects and birds"
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"sleeping"
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"being surprised"
+                },
+                {
+                    "Question":"What is the animal's personality like?",
+                    "Answer":"scared"
+                },
+                {
+                    "Question":"What is the animal's socialization level?",
+                    "Answer":"low"
+                },
+                {
+                    "Question":"What is the animal's level of activity?",
+                    "Answer":"medium"
+                },
+                {
+                    "Question":"What is the animal's level of intelligence?",
+                    "Answer":"high"
+                }
+            ],
+            "Output": "I should try to be as calm as possible when I first meet the animal. I should give it some of its favorite food, and try to engage it in its favorite activities. I should avoid surprising the animal, and instead try to build a trusting relationship with it.",
+            "Preset_link": "https://beta.openai.com/playground/p/uF5HLloPkjjUg5RBdpYMaEHe?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1Zd2zR9B-TX2FYpurOJnrmNha5yNJSMda/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How does the animal behave when it first meets you?",
+                    "Answer": "happy and curious"
+                },
+                {
+                    "Question":"What does the animal like to do?",
+                    "Answer":"play and socialize"
+                },
+                {
+                    "Question":"What is the animal's favorite food?",
+                    "Answer":"chicken, egg and meat"
+                },
+                {
+                    "Question":"What is the animal's favorite toy?",
+                    "Answer":"ball, feathers, other animal toys"
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"eat and play"
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"it dislikes being poked and having bath"
+                },
+                {
+                    "Question":"What is the animal's personality like?",
+                    "Answer":"bold"
+                },
+                {
+                    "Question":"What is the animal's socialization level?",
+                    "Answer":"high"
+                },
+                {
+                    "Question":"What is the animal's level of activity?",
+                    "Answer":"high"
+                },
+                {
+                    "Question":"What is the animal's level of intelligence?",
+                    "Answer":"low"
+                }
+            ],
+            "Output": "I will approach the animal in a gentle and curious manner. I will give the animal treats and play with the animal's favorite toys. I will be sure to keep the animal's favorite activities in mind, and avoid anything that the animal dislikes. I will be bold and friendly with the animal, and make sure to socialize with the animal regularly.",
+            "Preset_link": "https://beta.openai.com/playground/p/BDisl8YblAwp7lQdilFyFr7n?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1XRI8entI9iQZuL8WrTy-k6aHe8ijd3ff/view?usp=sharing"
+        }
+   ],
+    "Preset_link": "https://beta.openai.com/playground/p/BDisl8YblAwp7lQdilFyFr7n?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1XRI8entI9iQZuL8WrTy-k6aHe8ijd3ff/view?usp=sharing"
+}

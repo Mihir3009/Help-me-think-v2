@@ -1,0 +1,153 @@
+{
+    "Domain": "Hospitality",
+    "Task": "Nurse a patient",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert nurse. I will ask some questions to collect information and then I will use the information to nurse the patients.",
+        "task_specific_prompt": "How to nurse the patient using questions and answers above. Provide the name of medicines as well."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question":"What are the symptoms of your illness?",
+                    "Answer": "The symptoms of my illness are a high fever, a severe headache, and a rash."
+                },
+                {
+                    "Question":"What is the name of your illness?",
+                    "Answer":"The name of my illness is chickenpox."
+                },
+                {
+                    "Question":"When did you first begin experiencing these symptoms?",
+                    "Answer":"I first began experiencing these symptoms two days ago."
+                },
+                {
+                    "Question":"Have you ever had chickenpox before?",
+                    "Answer":"No, I have never had chickenpox before."
+                },
+                {
+                    "Question":"Are you currently taking any medication for your illness?",
+                    "Answer":"No, I am not currently taking any medication for my illness."
+                },
+                {
+                    "Question":"How long do you expect to have these symptoms?",
+                    "Answer":"I expect to have these symptoms for another week."
+                },
+                {
+                    "Question":"Is there anything else you would like to share about your illness?",
+                    "Answer":"No, there is nothing else I would like to share about my illness."
+                },
+                {
+                    "Question":"Do you have any other medical conditions?",
+                    "Answer":"No, I do not have any other medical conditions."
+                },
+                {
+                    "Question":"Do you have any allergies?",
+                    "Answer":"No, I do not have any allergies."
+                },
+                {
+                    "Question":"Do you have any questions for me?",
+                    "Answer":"No, I do not have any questions for you."
+                }
+            ],
+            "Output": "Based on the information provided, the patient has chickenpox. Chickenpox is a viral infection that causes a rash of small, fluid-filled blisters to break out on the skin. The rash typically appears first on the face, chest, and back and then spreads to the rest of the body. The illness usually lasts for about a week. There is no specific medication to treat chickenpox, but patients can take measures to relieve their symptoms. These include taking over-the-counter pain relievers, applying cool compresses to the rash, and taking baths in lukewarm water. Patients should also drink plenty of fluids and rest as much as possible.",
+            "Preset_link": "https://beta.openai.com/playground/p/F8ZaNxNUfGdHcNQAEcmpKqOs?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1JkGTin0X8FKN-33Z3faIWq_noUi2cv5E/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"What are the symptoms of your illness?",
+                    "Answer": "The symptoms of my illness are a high fever, body pain, and cough."
+                },
+                {
+                    "Question":"What is the name of your illness?",
+                    "Answer":"covid"
+                },
+                {
+                    "Question":"When did you first begin experiencing these symptoms?",
+                    "Answer":"I first began experiencing these symptoms three days ago."
+                },
+                {
+                    "Question":"Have you ever had these symptoms before?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question":"Are you currently taking any medication for your illness?",
+                    "Answer":"Yes, I am taking paracetamol."
+                },
+                {
+                    "Question":"How long do you expect to have these symptoms?",
+                    "Answer":"I expect to have these symptoms for another week."
+                },
+                {
+                    "Question":"Is there anything else you would like to share about your illness?",
+                    "Answer":"I am having extreme weakness and am unable to do any task."
+                },
+                {
+                    "Question":"Do you have any other medical conditions?",
+                    "Answer":"No, I do not have any other medical conditions."
+                },
+                {
+                    "Question":"Do you have any allergies?",
+                    "Answer":"I have allergy to cat hair."
+                },
+                {
+                    "Question":"Do you have any questions for me?",
+                    "Answer":"No, I do not have any questions for you."
+                }
+            ],
+            "Output": "The patient has covid and is experiencing symptoms of a high fever, body pain, and cough. The patient has been taking paracetamol, but their symptoms have not improved. The patient is expecting to have these symptoms for another week. The patient is feeling extreme weakness and is unable to do any task. Nursing care for this patient would include providing supportive care and symptom relief. The patient should continue to take paracetamol as directed and may also need additional medication for fever and pain relief. The patient should be encouraged to drink plenty of fluids and rest as much as possible.",
+            "Preset_link": "https://beta.openai.com/playground/p/g8qDWrp1SKo02SSXjfXyriF1?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/15BrHTZqTQWpFCxdUZBpnnKnsp6W1M3zT/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"What are the symptoms of your illness?",
+                    "Answer": "The symptoms of my illness are a deep cut in my knee and bleeding."
+                },
+                {
+                    "Question":"What is the name of your illness?",
+                    "Answer":"deep cut in my knee"
+                },
+                {
+                    "Question":"When did you first begin experiencing these symptoms?",
+                    "Answer":"I first began experiencing these symptoms 30 minutes ago."
+                },
+                {
+                    "Question":"Have you ever had these symptoms before?",
+                    "Answer":"No"
+                },
+                {
+                    "Question":"Are you currently taking any medication for your illness?",
+                    "Answer":"No"
+                },
+                {
+                    "Question":"How long do you expect to have these symptoms?",
+                    "Answer":"I am not sure"
+                },
+                {
+                    "Question":"Is there anything else you would like to share about your illness?",
+                    "Answer":"I am having extreme weakness and am unable to do any task."
+                },
+                {
+                    "Question":"Do you have any other medical conditions?",
+                    "Answer":"No, I do not have any other medical conditions."
+                },
+                {
+                    "Question":"Do you have any allergies?",
+                    "Answer":"I have allergy to cat hair."
+                },
+                {
+                    "Question":"Do you have any questions for me?",
+                    "Answer":"No"
+                }
+            ],
+            "Output": "Based on the information provided, the patient is likely suffering from an infection or illness related to their deep cut knee. As they are currently not taking any medication, they will need to be prescribed antibiotics to help clear the infection. They may also require pain relief medication and something to help with the swelling and inflammation.",
+            "Preset_link": "https://beta.openai.com/playground/p/ikHrmvYktWG8iSbP8n5AiPIV?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/14QITADRAHaIGVMdK3sswAAqWfWfld-t9/view?usp=sharing"
+        }
+   ],
+    "Preset_link": "https://beta.openai.com/playground/p/F8ZaNxNUfGdHcNQAEcmpKqOs?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1JkGTin0X8FKN-33Z3faIWq_noUi2cv5E/view?usp=sharing"
+}

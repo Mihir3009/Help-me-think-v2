@@ -119,3 +119,26 @@ File Name | Domain | Task
 `task_0112_healthcare administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
 `task_0113_beverages.json` | Beverages | How to be a bartender
 `task_0114_beverages.json` | Beverages | New beverage shop
+`task_0115_hospitality.json` | Hospitality | Nurse a patient
+`task_0116_animal behavior.json` | Animal Behavior | Strategy to make a Animals remember Me
+`task_0117_animal behavior.json` | Animal Behavior | Strategy to make a Animal decide to stay in my Area
+`task_0118_animal behavior.json` | Animal Behavior | Steps to teach animals social etiquette
+`task_0119_hospitality.json` | Hospitality | Customer Service
+`task_0120_hospitality.json` | Hospitality | Care for Elderly
+`task_0121_animal behavior.json` | Animal Behavior | Strategy to Communicate/Play with Animals
+`task_0122_hospitality.json` | Hospitality | Advertisement higlighting hospitality for a Hotel
+`task_0123_politics.json` | Politics | interview
+`task_0124_animals right.json` | Animals Right | survey summarizer
+`task_0125_animal right.json` | Animal Right | slogan
+`task_0126_politics.json` | Politics | rally
+`task_0127_animal rights.json` | Animal Rights | sanctuary_finder
+`task_0128_politics.json` | Politics | manifesto
+`task_0129_animal rights.json` | Animal Rights | meal plan
+`task_0130_population geography.json` | Population Geography | Issues due to Population Inequality
+`task_0131_android app development.json` | Android App Development | Color Combination and Theme Suggestion
+`task_0132_android app development.json` | Android App Development | Data Architecture of Android Application
+`task_0133_population geography.json` | Population Geography | Predicting Population Growth
+`task_0134_android app development.json` | Android App Development | To improve the engagement in android application
+`task_0135_android app development.json` | Android App Development | App Improvements
+`task_0136_population geography.json` | Population Geography | Impact of Population Change on Environment
+`task_0137_population geography.json` | Population Geography | Migration Pattern - People likely to move in or out of the city

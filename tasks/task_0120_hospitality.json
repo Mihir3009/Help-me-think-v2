@@ -1,0 +1,153 @@
+{
+    "Domain": "Hospitality",
+    "Task": "Care for Elderly",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert care taker. I will ask some questions to collect information and then I will use the information to take care of elderly.",
+        "task_specific_prompt": "Write a care for elderly using the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question":"How often does the elderly person need help?",
+                    "Answer": "Weekly"
+                },
+                {
+                    "Question":"What type of help does the elderly person need?",
+                    "Answer":"grooming and housekeeping"
+                },
+                {
+                    "Question":"What is the elderly person's schedule like?",
+                    "Answer":"relaxed"
+                },
+                {
+                    "Question":"What are the elderly person's preferences?",
+                    "Answer":"outgoing"
+                },
+                {
+                    "Question":"What are the elderly person's medical needs?",
+                    "Answer":"need to go to doctor once a week"
+                },
+                {
+                    "Question":"What are the elderly person's cognitive abilities?",
+                    "Answer":"perfectly fine"
+                },
+                {
+                    "Question":"What are the elderly person's physical abilities?",
+                    "Answer":"weak"
+                },
+                {
+                    "Question":"What is the elderly person's living situation?",
+                    "Answer":"stays alone"
+                },
+                {
+                    "Question":"What is the elderly person's financial situation?",
+                    "Answer":"Good"
+                },
+                {
+                    "Question":"What is the elderly person's mental health status?",
+                    "Answer":"in good state"
+                }
+            ],
+            "Output": "The elderly person needs help with grooming and housekeeping on a weekly basis. They have a relaxed schedule and prefer an outgoing person. They have no medical needs other than going to the doctor once a week. They are cognitively and physically able to take care of themselves but may need help with tasks that require a lot of physical strength. They live alone and have a good financial situation. They have good mental health overall.",
+            "Preset_link": "https://beta.openai.com/playground/p/yIN7HVhZrb1AS9eRj0SqpyRX?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1sciKDj1R9BZEii51HsXzb4YGj3-96JXv/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How often does the elderly person need help?",
+                    "Answer": "Daily"
+                },
+                {
+                    "Question":"What type of help does the elderly person need?",
+                    "Answer":"cleaning, grooming and housekeeping"
+                },
+                {
+                    "Question":"What is the elderly person's schedule like?",
+                    "Answer":"relaxed"
+                },
+                {
+                    "Question":"What are the elderly person's preferences?",
+                    "Answer":"prefers to stay indoors and watch tv"
+                },
+                {
+                    "Question":"What are the elderly person's medical needs?",
+                    "Answer":"need to go to doctor once a week"
+                },
+                {
+                    "Question":"What are the elderly person's cognitive abilities?",
+                    "Answer":"weak"
+                },
+                {
+                    "Question":"What are the elderly person's physical abilities?",
+                    "Answer":"weak"
+                },
+                {
+                    "Question":"What is the elderly person's living situation?",
+                    "Answer":"stays with children"
+                },
+                {
+                    "Question":"What is the elderly person's financial situation?",
+                    "Answer":"poor"
+                },
+                {
+                    "Question":"What is the elderly person's mental health status?",
+                    "Answer":"in a moderate state"
+                }
+            ],
+            "Output": "The elderly person needs help with cleaning, grooming and housekeeping on a daily basis. They have a relaxed schedule and prefer to stay indoors and watch tv. They have medical needs that require them to go to the doctor once a week. They have weak cognitive and physical abilities. They live with children and have a poor financial situation. They have a moderate mental health status.",
+            "Preset_link": "https://beta.openai.com/playground/p/HBHqXA6XmMJlY9lt5Hua6BVQ?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/19PuOY3s8XVewG5bzvkynfaB6gor1UnXF/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How often does the elderly person need help?",
+                    "Answer": "Weekly"
+                },
+                {
+                    "Question":"What type of help does the elderly person need?",
+                    "Answer":"cooking, cleaning, grooming and housekeeping"
+                },
+                {
+                    "Question":"What is the elderly person's schedule like?",
+                    "Answer":"very busy"
+                },
+                {
+                    "Question":"What are the elderly person's preferences?",
+                    "Answer":"prefers to play with pets"
+                },
+                {
+                    "Question":"What are the elderly person's medical needs?",
+                    "Answer":"need to go to doctor daily"
+                },
+                {
+                    "Question":"What are the elderly person's cognitive abilities?",
+                    "Answer":"okayish"
+                },
+                {
+                    "Question":"What are the elderly person's physical abilities?",
+                    "Answer":"weak"
+                },
+                {
+                    "Question":"What is the elderly person's living situation?",
+                    "Answer":"stays with family and pets"
+                },
+                {
+                    "Question":"What is the elderly person's financial situation?",
+                    "Answer":"moderate"
+                },
+                {
+                    "Question":"What is the elderly person's mental health status?",
+                    "Answer":"poor"
+                }
+            ],
+            "Output": "The elderly person needs help with cooking, cleaning, grooming, and housekeeping on a daily basis. They have a very busy schedule. They prefer to play with pets. They have medical needs that require them to go to the doctor daily. They have cognitive abilities that are okayish. They have physical abilities that are weak. They live with family and pets. Their financial situation is moderate. Their mental health status is poor.",
+            "Preset_link": "https://beta.openai.com/playground/p/h4xIgvCVL238RmYHiAlirJS5?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1vWnsIP0RsXz_Ijyf_14ElFtXrdtHOsOR/view?usp=sharing"
+        }
+   ],
+    "Preset_link": "https://beta.openai.com/playground/p/yIN7HVhZrb1AS9eRj0SqpyRX?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1sciKDj1R9BZEii51HsXzb4YGj3-96JXv/view?usp=sharing"
+}
