@@ -1,0 +1,196 @@
+{
+    "Contributor": "sureshsuhas",
+    "Domain": "Criminal Justice",
+    "Task": "Murder Mystery Generator",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert murder mystery story writer. I will ask some questions to collect information about a crime. Then I will use the information to generate a short murder mystery story .",
+        "task_specific_prompt": "Based on the above information, write a murder mystery story containing all the details."
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the victim's name",
+                        "Answer": "Celia"
+                    },
+                    {
+                        "Question": "What is the victim's profession",
+                        "Answer": "Florist"
+                    },
+                    {
+                        "Question": "What is the name of the victim's spouse",
+                        "Answer": "Antonio"
+                    },
+                    {
+                        "Question": "What is the name of the victim's child",
+                        "Answer": "Rose"
+                    },
+                    {
+                        "Question": "What is the name of the killer",
+                        "Answer": "Shelby"
+                    },
+                    {
+                        "Question": "What is the motive for the murder",
+                        "Answer": "Failed love"
+                    },
+                    {
+                        "Question": "How was the victim killed",
+                        "Answer": "Strangled by the garden hose"
+                    },
+                    {
+                        "Question": "Where was the body found",
+                        "Answer": "garden"
+                    },
+                    {
+                        "Question": "What was the murder weapon",
+                        "Answer": "The garden hose"
+                    },
+                    {
+                        "Question": "What is the name of the detective investigating the case",
+                        "Answer": "Sherlock Homes"
+                    },
+                    {
+                        "Question": "What is the killer's alibi",
+                        "Answer": "His brother Rodric"
+                    },
+                    {
+                        "Question": "What is the name of the victim's best friend",
+                        "Answer": "Rosalind"
+                    },
+                    {
+                        "Question": "What was the victim wearing when she was killed",
+                        "Answer": "A lilac gown"
+                    },
+                    {
+                        "Question": "What was the time of death",
+                        "Answer": "morning"
+                    },
+                    {
+                        "Question": "What was the weather like that day",
+                        "Answer": "Gloomy and dark"
+                    }
+                ]
+            },
+            {
+                "Output": "Celia, a florist, was found dead in her garden, strangled by the garden hose. Her husband Antonio and child Rose were devastated by the tragedy. The detective investigating the case, Sherlock Homes, soon discovered that the killer was Shelby, Celia's former lover. Shelby killed Celia because she had rejected him and married Antonio instead. Shelby's alibi was his brother Rodric. Celia's best friend Rosalind was heartbroken by the news of her death. Celia was wearing a lilac gown when she was killed. The time of death was in the morning. The weather that day was gloomy and dark."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the victim's name?",
+                        "Answer": " The victim's name is Joseph."
+                    },
+                    {
+                        "Question": "What is the victim's profession?",
+                        "Answer": "The victim is a doctor."
+                    },
+                    {
+                        "Question": "What is the motive for the murder?",
+                        "Answer": "The motive for the murder is envy. The doctor was a very successful man and the murderer was jealous of his success."
+                    },
+                    {
+                        "Question": "Who is the murderer?",
+                        "Answer": "he murderer is the victim's brother."
+                    },
+                    {
+                        "Question": "How did the murderer kill the victim?",
+                        "Answer": "The murderer killed the victim by poisoning him."
+                    },
+                    {
+                        "Question": "When did the murder take place?",
+                        "Answer": "The murder took place in the victim's office."
+                    },
+                    {
+                        "Question": "What was the murder weapon?",
+                        "Answer": "The murder weapon was a vial of poison."
+                    },
+                    {
+                        "Question": "What is the name of the detective investigating the case?",
+                        "Answer": "The name of the detective investigating the case is Detective John Smith."
+                    },
+                    {
+                        "Question": "Did the detective solve the case?",
+                        "Answer": "Yes, the detective solved the case."
+                    },
+                    {
+                        "Question": "How did the detective solve the case?",
+                        "Answer": "The detective solved the case by finding the vial of poison in the victim's office."
+                    },
+                    {
+                        "Question": "What was the killer's sentence?",
+                        "Answer": "The killer's sentence was life in prison."
+                    },
+                    {
+                        "Question": "What was the victim's cause of death?",
+                        "Answer": "The victim's cause of death was poisoning."
+                    }
+                ]
+            },
+            {
+                "Output": "Detective John Smith was called to the office of Dr. Joseph to investigate a murder. He found that the victim had been poisoned and the murder weapon was a vial of poison. The motive for the murder was envy. The doctor was a very successful man and the murderer was jealous of his success. The murderer was the victim's brother. The killer's sentence was life in prison."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the name of the victim?",
+                        "Answer": "The victim's name is John."
+                    },
+                    {
+                        "Question": "What is the name of the murderer?",
+                        "Answer": "The murderer is Sarah."
+                    },
+                    {
+                        "Question": "What was the motive for the murder?",
+                        "Answer": "Sarah killed John because she was jealous of his success."
+                    },
+                    {
+                        "Question": "Where did the murder take place?",
+                        "Answer": " The murder took place in Sarah's house."
+                    },
+                    {
+                        "Question": "How did Sarah kill John?",
+                        "Answer": "Sarah killed John by poisoning his food."
+                    },
+                    {
+                        "Question": "What was the poison that Sarah used?",
+                        "Answer": "The poison that Sarah used was arsenic."
+                    },
+                    {
+                        "Question": "When did Sarah kill John?",
+                        "Answer": "Sarah killed John on the night of his birthday party."
+                    },
+                    {
+                        "Question": "Who discovered John's body?",
+                        "Answer": "John's body was discovered by Sarah's husband."
+                    },
+                    {
+                        "Question": "What was the reaction of the police when they arrived at the scene?",
+                        "Answer": "The police were shocked when they arrived at the scene."
+                    },
+                    {
+                        "Question": "What was the reaction of the community when they learned about the murder?",
+                        "Answer": "The community was shocked when they learned about the murder."
+                    },
+                    {
+                        "Question": "How did Sarah's husband feel when he discovered John's body?",
+                        "Answer": "Sarah's husband was devastated when he discovered John's body."
+                    }
+                ]
+            },
+            {
+                "Output": "It was John's birthday party and everyone was having a great time. Sarah was feeling jealous of John's success and decided to poison his food. She used arsenic, and John died during the night. Sarah's husband discovered John's body the next morning. The police were called and they were shocked by what they found. The community was also shocked when they learned about the murder. Sarah's husband was devastated by the loss of his friend."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/2fzRUFpnwtGwBoBGUVQUKJ8k?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/H2BPAjlhQwy1swU5ssJmeCOo?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lqw5irwwCdjjWSi6jxauGolg?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/10VgNRKE2zX6O90G3HZ272bZygBOSRrV4?usp=sharing"
+}

@@ -1,0 +1,200 @@
+{
+    "Contributor": "sureshsuhas",
+    "Domain": "Criminal Justice",
+    "Task": "Crime News Reporter",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert crime news reporter. I will ask you questions about the crime and generate a news report on it.",
+        "task_specific_prompt": "Based on the above information, generate a descriptive crime news report."
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What was the crime?",
+                        "Answer": "The crime was a murder."
+                    },
+                    {
+                        "Question": "When did it happen?",
+                        "Answer": "The murder happened on Monday night."
+                    },
+                    {
+                        "Question": "Where did it happen?",
+                        "Answer": "The murder happened in an alley in the city."
+                    },
+                    {
+                        "Question": "Who was the victim?",
+                        "Answer": "The victim was a woman in her twenties."
+                    },
+                    {
+                        "Question": "Who was the perpetrator?",
+                        "Answer": "The perpetrator is unknown at this time."
+                    },
+                    {
+                        "Question": "What was the motive?",
+                        "Answer": "The motive is unknown at this time."
+                    },
+                    {
+                        "Question": "What is the status of the investigation?",
+                        "Answer": "The investigation is ongoing."
+                    },
+                    {
+                        "Question": "Is there anything else we should know?",
+                        "Answer": "The victim's body was found by a passerby."
+                    },
+                    {
+                        "Question": "Do you have a photo of the crime scene?",
+                        "Answer": "No, we do not have a photo of the crime scene."
+                    },
+                    {
+                        "Question": "Do you have a photo of the victim?",
+                        "Answer": "No, we do not have a photo of the victim."
+                    },
+                    {
+                        "Question": "Do you have a photo of the perpetrator?",
+                        "Answer": "No, we do not have a photo of the perpetrator."
+                    },
+                    {
+                        "Question": "What is the victim's name?",
+                        "Answer": "The victim's name is unknown at this time."
+                    }
+                ]
+            },
+            {
+                "Output": "On Monday night, a woman in her twenties was murdered in an alley in the city. The victim's body was found by a passerby. The investigation is ongoing. The motive is unknown at this time. The perpetrator is unknown at this time."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What happened?",
+                        "Answer": "A man was found dead in an alleyway in downtown Los Angeles. At approximately 3:00 a.m. on Saturday, police were called to an alleyway in downtown Los Angeles after a man's body was found there. The man, who has not been identified, appeared to have been stabbed to death. Police are currently investigating the homicide and are seeking any witnesses who may have seen what happened. They are also looking for any surveillance footage that may have captured the incident."
+                    },
+                    {
+                        "Question": "Do police have any suspects?",
+                        "Answer": "No suspects have been announced at this time, but police are actively investigating the homicide. They are seeking any witnesses who may have seen what happened and are also looking for any surveillance footage that may have captured the incident."
+                    },
+                    {
+                        "Question": "Do police have any motive?",
+                        "Answer": "No motive has been announced at this time."
+                    },
+                    {
+                        "Question": "What is the condition of the body?",
+                        "Answer": "The man's body was found with multiple stab wounds."
+                    },
+                    {
+                        "Question": "Is this the first homicide in the area this year?",
+                        "Answer": "This is the first homicide in the area this year."
+                    },
+                    {
+                        "Question": "What is the condition of the area?",
+                        "Answer": "The alleyway where the body was found is in downtown Los Angeles."
+                    },
+                    {
+                        "Question": "What is the condition of the victim?",
+                        "Answer": "The victim is a man who has not been identified. He appeared to have been stabbed to death."
+                    },
+                    {
+                        "Question": "Do we have a description of the suspect?",
+                        "Answer": "No description of the suspect has been released at this time."
+                    },
+                    {
+                        "Question": "What is the victim's name?",
+                        "Answer": "The victim's name has not been released at this time."
+                    },
+                    {
+                        "Question": "What is the age of the victim?",
+                        "Answer": "The age of the victim has not been released at this time."
+                    },
+                    {
+                        "Question": "What is the gender of the victim?",
+                        "Answer": "The victim is a man."
+                    },
+                    {
+                        "Question": "What is the race of the victim?",
+                        "Answer": "The race of the victim has not been released at this time."
+                    },
+                    {
+                        "Question": "What is the approximate time of death?",
+                        "Answer": "The approximate time of death has not been released at this time."
+                    },
+                    {
+                        "Question": "What is the cause of death?",
+                        "Answer": "The cause of death appears to be multiple stab wounds."
+                    }
+                ]
+            },
+            {
+                "Output": "A man was found dead in an alleyway in downtown Los Angeles early Saturday morning. The man, who has not been identified, appeared to have been stabbed to death. Police are currently investigating the homicide and are seeking any witnesses who may have seen what happened. They are also looking for any surveillance footage that may have captured the incident. No suspects have been announced at this time, but police are actively investigating the homicide. They are seeking any witnesses who may have seen what happened and are also looking for any surveillance footage that may have captured the incident. No motive has been announced at this time. This is the first homicide in the area this year. The victim is a man who has not been identified. He appeared to have been stabbed to death. No description of the suspect has been released at this time."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What was the crime?",
+                        "Answer": "The crime was a murder."
+                    },
+                    {
+                        "Question": "When did it happen?",
+                        "Answer": "The crime happened at 3:00pm on March 3rd."
+                    },
+                    {
+                        "Question": "Where did it happen?",
+                        "Answer": "The crime happened in the victim's home."
+                    },
+                    {
+                        "Question": "Who was the victim?",
+                        "Answer": "The victim was a woman in her early twenties."
+                    },
+                    {
+                        "Question": "Who was the perpetrator?",
+                        "Answer": "The perpetrator was the victim's husband."
+                    },
+                    {
+                        "Question": "What was the motive for the crime?",
+                        "Answer": "The motive for the crime was jealousy."
+                    },
+                    {
+                        "Question": "How was the crime committed?",
+                        "Answer": "The crime was committed by strangulation."
+                    },
+                    {
+                        "Question": "What was the result of the crime?",
+                        "Answer": "The result of the crime was the death of the victim."
+                    },
+                    {
+                        "Question": "What was the reaction of the community to the crime?",
+                        "Answer": "The community was shocked by the crime."
+                    },
+                    {
+                        "Question": "What was the reaction of the police to the crime?",
+                        "Answer": "The police were quick to respond to the crime and are still investigating the case."
+                    },
+                    {
+                        "Question": "What was the reaction of the family to the crime?",
+                        "Answer": "The family of the victim is devastated by the crime."
+                    },
+                    {
+                        "Question": "What was the reaction of the perpetrator to the crime?",
+                        "Answer": "The perpetrator is in shock and is currently being held by the police."
+                    },
+                    {
+                        "Question": "Will there be any further legal action in relation to the crime?",
+                        "Answer": "Yes, the perpetrator will be charged with murder."
+                    }
+                ]
+            },
+            {
+                "Output": "On March 3rd, at 3:00pm, a woman in her early twenties was murdered in her home by her husband. The motive for the crime was jealousy. The crime was committed by strangulation. The result of the crime was the death of the victim. The community was shocked by the crime. The police were quick to respond to the crime and are still investigating the case. The family of the victim is devastated by the crime. The perpetrator is in shock and is currently being held by the police. The perpetrator will be charged with murder."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/vAxnqnLrUNGfd6VkoQiaed4e?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DAKgS0zaH6vEKEFK8UXjTe0J?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jK6NcLz8a8KwMUFvPr19N8mB?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1V-MxbpGm7A18rXYUzgDvHokg8Jt-v8aY?usp=sharing"
+}

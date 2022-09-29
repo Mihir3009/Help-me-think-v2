@@ -1,0 +1,168 @@
+{
+    "Contributor": "sureshsuhas",
+    "Domain": "Criminal Justice",
+    "Task": "Fake Lawyer (How to get away with Anything?)",
+    "Prompt": {
+        "pre_question_prompt": "What was the nature of the crime you are accused of?",
+        "task_specific_prompt": "Using the above information, generate a report to prove my innocence against the charges of murder."
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What was the nature of the crime you are accused of?",
+                        "Answer": "Murder"
+                    },
+                    {
+                        "Question": "What is your alibi for the night of the crime?",
+                        "Answer": "I was home alone."
+                    },
+                    {
+                        "Question": "Did you have any weapons on you at the time of the crime?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Did you see the victim before the night of the crime?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What is your motive for the crime?",
+                        "Answer": "I don't have one."
+                    },
+                    {
+                        "Question": "Is there any evidence linking you to the crime?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What is your defense against the charges?",
+                        "Answer": " I didn't do it."
+                    },
+                    {
+                        "Question": "Have you ever been convicted of a crime before?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do you have any witnesses who can corroborate your defense?",
+                        "Answer": " No"
+                    },
+                    {
+                        "Question": "Do you have any prior criminal history?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do you have any mental health issues?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do you have any physical evidence that can prove your innocence?",
+                        "Answer": "No"
+                    }
+                ]
+            },
+            {
+                "Output": "The accused has no prior criminal history, no motive for the crime, no witnesses to corroborate their defense, and no physical evidence linking them to the crime. There is also no evidence of any mental health issues. Based on this information, it is clear that the accused is innocent of the charge of murder."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the nature of the crime you are accused of?",
+                        "Answer": "I am accused of embezzlement."
+                    },
+                    {
+                        "Question": "When did the alleged crime take place?",
+                        "Answer": "The crime took place over the course of several months."
+                    },
+                    {
+                        "Question": "How much money is alleged to have been stolen?",
+                        "Answer": "The total amount of money stolen is $50,000."
+                    },
+                    {
+                        "Question": "What is your defense?",
+                        "Answer": "My defense is that I did not steal the money. I have documentation to prove that I was not in possession of the funds at the time they were stolen."
+                    },
+                    {
+                        "Question": "Do you have any witnesses who can testify on your behalf?",
+                        "Answer": "Yes, I have several witnesses who can attest to my character and whereabouts during the time the crime took place."
+                    },
+                    {
+                        "Question": "What is the name of the victim in the case?",
+                        "Answer": "The victim is the company I worked for."
+                    },
+                    {
+                        "Question": "Do you have any prior criminal history?",
+                        "Answer": "No, I have no prior criminal history."
+                    },
+                    {
+                        "Question": "Do you have any other relevant information that could help your case?",
+                        "Answer": "I have a strong alibi for the time of the crime. I can provide documentation to support my alibi."
+                    }
+                ]
+            },
+            {
+                "Output": "Dear ____, I have been accused of embezzlement, but I am innocent of the charges. I have gathered the following information to prove my innocence. The crime is alleged to have taken place over the course of several months. The total amount of money stolen is $50,000. I have documentation to prove that I was not in possession of the funds at the time they were stolen. I have several witnesses who can attest to my character and whereabouts during the time the crime took place. The victim is the company I worked for. I have no prior criminal history. I have a strong alibi for the time of the crime. I can provide documentation to support my alibi. Based on the information I have provided, it is clear that I am innocent of the charges against me. I hope that this report will help to clear my name. Sincerely, [Your Name]"
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the nature of the crime?",
+                        "Answer": "Murder."
+                    },
+                    {
+                        "Question": "How many victims are there?",
+                        "Answer": "One."
+                    },
+                    {
+                        "Question": "Who is the victim?",
+                        "Answer": "Larry Fishburn"
+                    },
+                    {
+                        "Question": "When did the crime take place?",
+                        "Answer": "March 4th, 2017"
+                    },
+                    {
+                        "Question": "Where did the crime take place?",
+                        "Answer": "In Fishburn's home."
+                    },
+                    {
+                        "Question": "In Fishburn's home.",
+                        "Answer": " Failed Love"
+                    },
+                    {
+                        "Question": "What evidence do you have to prove your innocence?",
+                        "Answer": "I have an alibi who can testify that I was with her"
+                    },
+                    {
+                        "Question": "Do you have any witnesses to corroborate your alibi?",
+                        "Answer": "Yes, my girlfriend at the time."
+                    },
+                    {
+                        "Question": "What is your girlfriend's name?",
+                        "Answer": "Jessica Smith"
+                    },
+                    {
+                        "Question": "What is your girlfriend's address?",
+                        "Answer": "123 Elm Street"
+                    },
+                    {
+                        "Question": "What is your girlfriend's phone number?",
+                        "Answer": "555-555-1212"
+                    }
+                ]
+            },
+            {
+                "Output": "On March 4th, 2017, Larry Fishburn was murdered in his home. The evidence shows that the motive for the crime was failed love. The defendant has an alibi witness, Jessica Smith, who can testify that he was with her at the time of the crime. Jessica Smith's address is 123 Elm Street, and her phone number is 555-555-1212. Based on the above evidence, the defendant is innocent of the charge of murder."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3ZMIarHFIk7GC5mJ4Ed81RLz?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/W94kBY4BqkZUwSOj6DMMOVuZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/aTInWXgUDJD5rG6oGuOMDnYH?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1AGeDabfsqL_a5nNSnmRVD-v9mfuWO8gn?usp=sharing"
+}

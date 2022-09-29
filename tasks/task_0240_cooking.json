@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Cooking",
+    "Task": "writing recipe",
+    "Prompt": {
+        "pre_question_prompt": "in writing recipe",
+        "task_specific_prompt": "write a recipe"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recipe for?",
+                    "Answer": "My recipe is for a vegan chocolate cake."
+                },
+                {
+                    "Question": "What are the ingredients?",
+                    "Answer": "The ingredients are:1 cup of all-purpose flour1 cup of sugar3/4 cup of unsweetened cocoa powder1 teaspoon of baking soda1/2 teaspoon of baking powder1/2 teaspoon of salt1/2 cup of vegetable oil2 tablespoons of white vinegar2 teaspoons of vanilla extract1 cup of water"
+                },
+                {
+                    "Question": "How do you make vegan chocolate cake?",
+                    "Answer": "To make the recipe, first preheat the oven to 350 degrees Fahrenheit. Then, combine the flour, sugar, cocoa powder, baking soda, baking powder, and salt in a large bowl. In a separate bowl, whisk together the oil, vinegar, vanilla, and water. Add the wet ingredients to the dry ingredients and mix until everything is well combined. Pour the batter into an ungreased 8-inch cake pan and bake for 30 minutes. Let the cake cool before serving."
+                },
+                {
+                    "Question": "What are some tips for making a vegan chocolate cake?",
+                    "Answer": "Some tips for making the recipe include:-Be sure to preheat the oven before beginning to make the cake.-Mix the dry ingredients together before adding the wet ingredients.-Add the wet ingredients to the dry ingredients slowly and mix until everything is well combined.-Pour the batter into an ungreased cake pan to prevent the cake from sticking.-Bake the cake for the specified amount of time and let it cool completely before serving."
+                },
+                {
+                    "Question": "Can this vegan chocolate cake be made in advance?",
+                    "Answer": "Yes, a vegan chocolate cake can be made in advance. Simply bake the cake and let it cool completely. Once it is cooled, wrap the cake tightly in plastic wrap and store it in the refrigerator for up to 3 days."
+                },
+                {
+                    "Question": "How long does a vegan chocolate cake last?",
+                    "Answer": "A vegan chocolate cake will last for 3 days when stored in the refrigerator."
+                },
+                {
+                    "Question": "What is the best way to serve a vegan chocolate cake?",
+                    "Answer": "The best way to serve a vegan chocolate cake is to let it cool completely before serving. If you are serving the cake on a platter, you can garnish it with fresh fruit, chocolate shavings, or a dusting of powdered sugar."
+                },
+                {
+                    "Question": "How many people does this recipe serve?",
+                    "Answer": "The cake can serve 8 people."
+                },
+                {
+                    "Question": "Can this recipe be doubled?",
+                    "Answer": "Yes, this recipe can be doubled to make a larger cake."
+                },
+                {
+                    "Question": "Can this recipe be halved?",
+                    "Answer": "Yes, this recipe can also be halved if you only want to make a small cake."
+                }
+            ],
+            "Output": "Ingredients:1 cup of all-purpose flour1 cup of sugar3/4 cup of unsweetened cocoa powder1 teaspoon of baking soda1/2 teaspoon of baking powder1/2 teaspoon of salt1/2 cup of vegetable oil2 tablespoons of white vinegar2 teaspoons of vanilla extract1 cup of waterInstructions:1. Preheat oven to 350 degrees Fahrenheit.2. In a large bowl, combine flour, sugar, cocoa powder, baking soda, baking powder, and salt.3. In a separate bowl, whisk together oil, vinegar, vanilla, and water.4. Add wet ingredients to dry ingredients and mix until well combined.5. Pour batter into an ungreased 8-inch cake pan.6. Bake for 30 minutes.7. Let cake cool before serving."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recipe for?",
+                    "Answer": "My recipe is for a chocolate cake."
+                },
+                {
+                    "Question": "What ingredients do you need for the recipe?",
+                    "Answer": "You will need flour, sugar, eggs, butter, baking powder, and cocoa powder."
+                },
+                {
+                    "Question": "What is the first step in the recipe?",
+                    "Answer": "The first step is to preheat the oven to 350 degrees."
+                },
+                {
+                    "Question": "What is the second step in the recipe?",
+                    "Answer": "The second step is to mix together the flour, sugar, eggs, butter, baking powder, and cocoa powder."
+                },
+                {
+                    "Question": "What is the third step in the recipe?",
+                    "Answer": "The third step is to pour the batter into a cake pan and bake for 30 minutes."
+                },
+                {
+                    "Question": "What is the fourth step in the recipe?",
+                    "Answer": "The fourth step is to let the cake cool before frosting it."
+                },
+                {
+                    "Question": "What is the fifth step in the recipe?",
+                    "Answer": "The fifth step is to enjoy your delicious cake!"
+                },
+                {
+                    "Question": "Can you provide a photo of the finished cake?",
+                    "Answer": "Yes, I can provide a photo of the finished cake."
+                },
+                {
+                    "Question": "Do you have any tips for making this recipe?",
+                    "Answer": "Yes, I have tips for making this recipe. Make sure to use good quality cocoa powder and don't overmix the batter."
+                },
+                {
+                    "Question": "Do you have any variations of this recipe that we could try?",
+                    "Answer": "Yes, you could try to add coffee to the recipe to make a mocha cake."
+                }
+            ],
+            "Output": "Chocolate Cake Recipe Ingredients:1 cup flour1 cup sugar3 eggs1/2 cup butter1 tsp baking powder1/3 cup cocoa powderInstructions:1. Preheat the oven to 350 degrees.2. Mix together the flour, sugar, eggs, butter, baking powder, and cocoa powder.3. Pour the batter into a cake pan and bake for 30 minutes.4. Let the cake cool before frosting it.5. Enjoy your delicious cake!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recipe for?",
+                    "Answer": "Mashed potatoes."
+                },
+                {
+                    "Question": "What are the main ingredients?",
+                    "Answer": "Potatoes, butter, milk, and salt."
+                },
+                {
+                    "Question": "What are the steps for making the dish?",
+                    "Answer": "1. Peel and chop the potatoes.2. Boil the potatoes until they are soft.3. Mash the potatoes.4. Add the butter, milk, and salt to the potatoes and stir until combined.5. Serve the mashed potatoes."
+                },
+                {
+                    "Question": "What are some tips for making the dish?",
+                    "Answer": "-Make sure to boil the potatoes until they are very soft, otherwise they will be difficult to mash.-Add more or less butter, milk, and salt to taste."
+                },
+                {
+                    "Question": "What is your favorite thing about this dish?",
+                    "Answer": "I love how creamy and flavorful the mashed potatoes are."
+                },
+                {
+                    "Question": "What would you serve this dish with?",
+                    "Answer": "I would serve it with a grilled steak or chicken."
+                },
+                {
+                    "Question": "What is the prep time and cook time for this dish?",
+                    "Answer": "The prep time for this dish is about 15 minutes and the cook time is about 20 minutes."
+                },
+                {
+                    "Question": "How many servings does this recipe make?",
+                    "Answer": "This recipe makes 6 servings."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about this recipe?",
+                    "Answer": "I can share you the photos."
+                },
+                {
+                    "Question": "Would you like me to write the recipe for you?",
+                    "Answer": "Yes, please."
+                }
+            ],
+            "Output": "Mashed Potatoes RecipeIngredients:-6 potatoes-1/4 cup butter-1/4 cup milk-Salt to tasteInstructions:1. Peel and chop the potatoes.2. Boil the potatoes until they are soft.3. Mash the potatoes.4. Add the butter, milk, and salt to the potatoes and stir until combined.5. Serve the mashed potatoes.Tips:-Make sure to boil the potatoes until they are very soft, otherwise they will be difficult to mash.-Add more or less butter, milk, and salt to taste."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/R943GWMYUcJT3gkBSklXqJ68?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YAUHXzuiHXqf5rWwyEirbSML?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/HhWcoZJr5fM5VuQ6zK02v1UU?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/103HDYobun7KQmMIz3mcHN-fAWP9otvsF?usp=sharing"
+}

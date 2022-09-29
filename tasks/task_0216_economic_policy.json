@@ -1,0 +1,148 @@
+{
+    "Contributor": "watsonbrandon",
+    "Domain": "Economic Policy",
+    "Task": "Decide on conducting more foreign trade",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert economist. I will ask some questions to collect information and then I will use the information to help decide if you should conduct more foreign trade",
+        "task_specific_prompt": "Decide if you should conduct more foreign trade using the questions and answers above. Explain your choice."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the current state of your economy?",
+                    "Answer": "We are in a lot of debt"
+                },
+                {
+                    "Question": "What are your current trade policies?",
+                    "Answer": "We trade with everyone as much as we can"
+                },
+                {
+                    "Question": "What are your major export industries?",
+                    "Answer": "copper and steel"
+                },
+                {
+                    "Question": "What are your major import industries?",
+                    "Answer": "cars"
+                },
+                {
+                    "Question": "What are your major trading partners?",
+                    "Answer": "China"
+                },
+                {
+                    "Question": "What are the current trends in your economy?",
+                    "Answer": "The economy is dropping"
+                },
+                {
+                    "Question": "What is your government's stance on trade?",
+                    "Answer": "They want to limit trading"
+                },
+                {
+                    "Question": "What are the current obstacles to conducting more foreign trade?",
+                    "Answer": "Need more workers to make more to trade"
+                },
+                {
+                    "Question": "What are the potential benefits of conducting more foreign trade?",
+                    "Answer": "We make more money"
+                },
+                {
+                    "Question": "What are the potential risks of conducting more foreign trade?",
+                    "Answer": "Our trade partners won't like us"
+                }
+            ],
+            "output": "I would not recommend conducting more foreign trade at this time. The economy is currently in a lot of debt, which could lead to even more debt if more foreign trade is conducted. Additionally, the government is currently limiting trade, which makes it difficult to do more. Finally, there are potential risks, such as making our trade partners unhappy, that make it not worth doing more foreign trade at this time."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the current state of your economy?",
+                    "Answer": "We are doing great"
+                },
+                {
+                    "Question": "What are your current trade policies?",
+                    "Answer": "We trade only when we benefit"
+                },
+                {
+                    "Question": "What are your major export industries?",
+                    "Answer": "toys and phones"
+                },
+                {
+                    "Question": "What are your major import industries?",
+                    "Answer": "rice and bananas"
+                },
+                {
+                    "Question": "What are your major trading partners?",
+                    "Answer": "USA"
+                },
+                {
+                    "Question": "What are the current trends in your economy?",
+                    "Answer": "The economy is going stable"
+                },
+                {
+                    "Question": "What is your government's stance on trade?",
+                    "Answer": "They want to keep trading the same"
+                },
+                {
+                    "Question": "What are the current obstacles to conducting more foreign trade?",
+                    "Answer": "None"
+                },
+                {
+                    "Question": "What are the potential benefits of conducting more foreign trade?",
+                    "Answer": "We make other partners happy"
+                },
+                {
+                    "Question": "What are the potential risks of conducting more foreign trade?",
+                    "Answer": "We lose business"
+                }
+            ],
+            "output": "Based on the information provided, it would be beneficial to conduct more foreign trade. This is because the economy is doing well, trade policies are benefitting the country, there are no obstacles to foreign trade, and there are potential benefits to conducting more trade."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the current state of your economy?",
+                    "Answer": "We are fine"
+                },
+                {
+                    "Question": "What are your current trade policies?",
+                    "Answer": "We don't trade"
+                },
+                {
+                    "Question": "What are your major export industries?",
+                    "Answer": "None"
+                },
+                {
+                    "Question": "What are your major import industries?",
+                    "Answer": "None"
+                },
+                {
+                    "Question": "What are your major trading partners?",
+                    "Answer": "No one"
+                },
+                {
+                    "Question": "What are the current trends in your economy?",
+                    "Answer": "The economy is going up"
+                },
+                {
+                    "Question": "What is your government's stance on trade?",
+                    "Answer": "They don't want to trade"
+                },
+                {
+                    "Question": "What are the current obstacles to conducting more foreign trade?",
+                    "Answer": "Government resistance"
+                },
+                {
+                    "Question": "What are the potential benefits of conducting more foreign trade?",
+                    "Answer": "We could make money"
+                },
+                {
+                    "Question": "What are the potential risks of conducting more foreign trade?",
+                    "Answer": "We could anger the government"
+                }
+            ],
+            "output": "Conducting more foreign trade could be beneficial to the economy, as it has the potential to bring in more money. However, it is also risky, as it could anger the government and lead to trade restrictions being placed on the country."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/plCN2YXYjj4SJjEB2scP5Otm?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1iAyajFYUXmLpmocF64WKEVJ6IJ5vAqYe/view?usp=sharing"
+}

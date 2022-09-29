@@ -1,0 +1,180 @@
+{
+    "Contributor": "sureshsuhas",
+    "Domain": "Criminal Justice",
+    "Task": "Expert Judge",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Judge. I will ask some questions to collect information about your crime. Then I will use the information to generate a report on whether you are guilty or innocent.",
+        "task_specific_prompt": "Based on the above information, generate a report with reasons on whether the accused is guilty or innocent."
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your name?",
+                        "Answer": "My name is Chris Pine."
+                    },
+                    {
+                        "Question": "What is the nature of your crime?",
+                        "Answer": "I was caught stealing a car."
+                    },
+                    {
+                        "Question": "Where did the crime take place?",
+                        "Answer": "The crime took place in Los Angeles, California."
+                    },
+                    {
+                        "Question": "When did the crime take place?",
+                        "Answer": "The crime took place on January 1, 2020."
+                    },
+                    {
+                        "Question": "What was the value of the property stolen?",
+                        "Answer": "The value of the property stolen was $10,000."
+                    },
+                    {
+                        "Question": "What is your criminal history?",
+                        "Answer": "I have no criminal history."
+                    },
+                    {
+                        "Question": "Do you have any prior convictions?",
+                        "Answer": "I have no prior convictions."
+                    },
+                    {
+                        "Question": "Is there any evidence against you?",
+                        "Answer": "There is no evidence against me."
+                    },
+                    {
+                        "Question": "Are there any witnesses against you?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What is your defense?",
+                        "Answer": "I already have a tesla car. Why would I steal a 10,000$ car. On the day of the crime, I was on a business trip."
+                    },
+                    {
+                        "Question": "Do you have any alibi?",
+                        "Answer": "Yes, I have an alibi. I was on a business trip on the day of the crime. My clients can testify on my behalf."
+                    }
+                ]
+            },
+            {
+                "Output": "Based on the information provided, it is more likely than not that the accused is innocent of the crime. There is no evidence or witnesses linking the accused to the crime, and the accused has a strong alibi. Furthermore, the accused has no criminal history and no prior convictions. Therefore, it is recommended that the accused be found not guilty of the crime."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your name?",
+                        "Answer": "My name is John Smith."
+                    },
+                    {
+                        "Question": "What is your date of birth?",
+                        "Answer": "My date of birth is January 1, 1990."
+                    },
+                    {
+                        "Question": "What is the name of the victim?",
+                        "Answer": "The victim's name is Jane Doe."
+                    },
+                    {
+                        "Question": "What is the date of the crime?",
+                        "Answer": "The date of the crime is January 1, 2020."
+                    },
+                    {
+                        "Question": "What is the location of the crime?",
+                        "Answer": "The crime took place in my home."
+                    },
+                    {
+                        "Question": "What is the nature of the crime?",
+                        "Answer": "I was accused of murder."
+                    },
+                    {
+                        "Question": "What is your defense?",
+                        "Answer": "I was not in the home at the time of the murder."
+                    },
+                    {
+                        "Question": "What is the evidence against you?",
+                        "Answer": "The evidence against me is that I was seen in the home by a witness."
+                    },
+                    {
+                        "Question": "What is the penalty for the crime?",
+                        "Answer": "The penalty for the crime is life in prison."
+                    },
+                    {
+                        "Question": "Have you been convicted of this crime before?",
+                        "Answer": "I have not been convicted of this crime before."
+                    },
+                    {
+                        "Question": "What is your criminal history?",
+                        "Answer": "I have no criminal history."
+                    },
+                    {
+                        "Question": "Is there any other evidence that you would like to present?",
+                        "Answer": "No, I am not guilty as I have not killed anyone."
+                    },
+                    {
+                        "Question": "Do you have any witnesses that can corroborate your defense?",
+                        "Answer": "No, I do not have any witnesses that can corroborate my defense."
+                    }
+                ]
+            },
+            {
+                "Output": "The accused is innocent. There is no concrete evidence linking the accused to the crime. The only evidence against the accused is that they were seen in the home by a witness. However, the accused has a strong defense that they were not in the home at the time of the murder. There is no other evidence against the accused and they have no criminal history."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your name?",
+                        "Answer": "Pablo Escobar"
+                    },
+                    {
+                        "Question": "What is the nature of the crime you are accused of?",
+                        "Answer": "I am accused of drug trafficking."
+                    },
+                    {
+                        "Question": "What evidence do you have to support your innocence?",
+                        "Answer": "I have a drug license. "
+                    },
+                    {
+                        "Question": "Did you have any prior convictions?",
+                        "Answer": "No."
+                    },
+                    {
+                        "Question": "What is your alibi for the night of the crime?",
+                        "Answer": "I was home with my family."
+                    },
+                    {
+                        "Question": "Do you have any witnesses to support your alibi?",
+                        "Answer": "My wife and children can testify that I was home with them that night."
+                    },
+                    {
+                        "Question": "What is the prosecution's evidence against you?",
+                        "Answer": "The prosecution has evidence that I was involved in drug trafficking. They have photographic evidence of me with contraband."
+                    },
+                    {
+                        "Question": "Do you have any prior convictions?",
+                        "Answer": "Yes, I was involved with stealing."
+                    },
+                    {
+                        "Question": "What is your sentence if you are found guilty?",
+                        "Answer": "The sentence for drug trafficking is up to 20 years in prison."
+                    },
+                    {
+                        "Question": "What is the maximum sentence you could receive if you are found guilty of all charges?",
+                        "Answer": "The maximum sentence I could receive if found guilty of all charges is up to 20 years in prison."
+                    }
+                ]
+            },
+            {
+                "Output": "Pablo Escobar is accused of drug trafficking. The prosecution has evidence that he was involved in drug trafficking, including photographic evidence of him with contraband. Pablo Escobar has a prior conviction for stealing. The sentence for drug trafficking is up to 20 years in prison. The maximum sentence Pablo Escobar could receive if found guilty of all charges is up to 20 years in prison. Pablo Escobar is guilty of drug trafficking."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/tM5aaLS1JFVs7wX3upFStRvG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qSSUm6WGz5BXtDtVjEDuUuvG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UdZ37m49Lpk0K1vuPY74g1eF?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1S8mktWrh1MDeYrKI-530gkkcSMhAvMIh?usp=sharing"
+}
