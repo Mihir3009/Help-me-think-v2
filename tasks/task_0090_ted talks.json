@@ -1,0 +1,155 @@
+{
+    "Domain": "TED Talks",
+    "Task": "write a TED Talk",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert ted talk writer. I will ask some questions to collect information and then I will use the information to write a ted talk.",
+        "task_specific_prompt": "Write a ted talk using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of your talk?",
+                    "Answer": "It is about how AI has much potential for good and evil."
+                },
+                {
+                    "Question": "What are some specific examples of how AI can be used for good or evil?",
+                    "Answer": "Some specific examples of how AI can be used for good include: personal assistants that can help with things like scheduling and reminder tasks, self-driving cars that can reduce traffic accidents, and medical diagnosis tools that can help doctors more accurately identify diseases. Some specific examples of how AI can be used for evil include: facial recognition technology that can be used for mass surveillance, predictive analytics that can be used to manipulate people's behavior, and chat bots that spew hate speech."
+                },
+                {
+                    "Question": "What do you want your audience to take away from your talk?",
+                    "Answer": "I want my audience to understand that AI is a powerful tool that can be used for both good and evil, and that we need to be careful about how we use it. Ethics are very important in the future of AI."
+                },
+                {
+                    "Question": "What are your qualifications for giving this talk?",
+                    "Answer": "I have a PHD in computer science and I have been researching AI  for over 10 years."
+                },
+                {
+                    "Question": "What are some potential objections that your audience might have to your message?",
+                    "Answer": "Some potential objections that my audience might have to my message include: that AI is not really a new technology and that we have been using it for years without any negative consequences, that AI is not really capable of doing evil things, and that we can trust that the people who are creating AI will use it responsibly."
+                },
+                {
+                    "Question": "How will you address these objections?",
+                    "Answer": "I will address these objections by explaining that AI is a new and rapidly evolving technology that is becoming more and more powerful, and that we need to be careful about how we use it. I will explain that AI is capable of doing evil things, and that we need to be aware of the potential consequences of its use."
+                },
+                {
+                    "Question": "What are some possible questions that your audience might ask?",
+                    "Answer": "Some possible questions that my audience might ask include: what are the specific risks of AI, what can we do to prevent AI from being used for evil, and also how can we make sure that AI is used responsibly."
+                },
+                {
+                    "Question": "How will you answer these questions?",
+                    "Answer": "I will answer by explaining that the specific risks of AI include: the loss of privacy, the manipulation of people's behavior, and the spread of hate speech. I will explain that we can prevent AI from being used for evil by regulating its use, and by ensuring that the people who are creating AI are responsible and ethical."
+                },
+                {
+                    "Question": "Is there anything else you want to make sure to include in your talk?",
+                    "Answer": "I want to also  to include in my talk that AI has the potential to do a lot of good in the world, and that we need to be careful about how we use it."
+                },
+                {
+                    "Question": "When do you need this talk to be completed by?",
+                    "Answer": "I need this talk to be completed by  Friday."
+                }
+            ],
+            "Output": "Hello everyone. I'm here to talk about AI, and how it has the potential to be used for both good and evil. As many of you know, AI is a new and rapidly evolving technology that is becoming more and more powerful. And with great power comes great responsibility. AI can be used for good, such as personal assistants that can help with things like scheduling and reminder tasks, self-driving cars that can reduce traffic accidents, and medical diagnosis tools that can help doctors more accurately identify diseases. But AI can also be used for evil, such as facial recognition technology that can be used for mass surveillance, predictive analytics that can be used to manipulate people's behavior, and chat bots that spew hate speech. So what can we do to prevent AI from being used for evil? We need to be careful about how we use it. We need to regulate its use, and ensure that the people who are creating AI are responsible and ethical. We also need to be aware of the potential consequences of its use. AI is a powerful tool that can be used for both good and evil. Let's make sure we use it responsibly. Thank you."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the main topic or theme of your talk?",
+                    "Answer": "How to have a good work-life balance."
+                },
+                {
+                    "Question": "What are some specific points you would like to make about this topic?",
+                    "Answer": "1. You can't have a good work-life balance unless you have a good work-life balance. 2. A good work-life balance is possible if you make it a priority. 3. You need to be proactive in order to achieve a good work-life balance."
+                },
+                {
+                    "Question": "Who is your audience?",
+                    "Answer": "My audience is working professionals who are struggling to maintain a healthy work-life balance."
+                },
+                {
+                    "Question": "What is your personal experience with this topic?",
+                    "Answer": "I have struggled with maintaining a good work-life balance myself and I have seen first-hand how it can negatively impact your life."
+                },
+                {
+                    "Question": "What are some statistics or research findings that you can share about this topic?",
+                    "Answer": "80% of workers feel they don't have a good work-life balance. 50% of workers say they have to sacrifice their personal life in order to succeed at work. Only 30% of workers feel they have a good work-life balance"
+                },
+                {
+                    "Question": "What are some actionable steps that your audience can take to improve their work-life balance?",
+                    "Answer": "1. Set boundaries between work and personal life 2. Make time for activities outside of work 3. Don't be afraid to ask for help"
+                },
+                {
+                    "Question": "What is your call to action?",
+                    "Answer": "Make your work-life balance a priority and take action to improve it."
+                },
+                {
+                    "Question": "What are some potential obstacles that your audience might face when trying to achieve a better work-life balance?",
+                    "Answer": "1. Time constraints 2. Financial obligations 3. Family obligations 4. Work demands"
+                },
+                {
+                    "Question": "How can your audience overcome these obstacles?",
+                    "Answer": "1. Set realistic goals 2. Create a support system 3. Take advantage of resources 4. Be patient"
+                },
+                {
+                    "Question": "What are some resources that your audience can use to help them achieve a better work-life balance?",
+                    "Answer": "1. Time management tools 2. Financial planning resources 3. Family support resources 4. Work-life balance resources"
+                },
+                {
+                    "Question": "What are some final thoughts you would like to leave your audience with?",
+                    "Answer": "Achieving a good work-life balance is possible, but it takes effort and planning. It is worth it to make the investment in yourself to have a more balanced and fulfilling life."
+                }
+            ],
+            "Output": "Hi, everyone. I'm here today to talk about work-life balance. I know this is something that a lot of us struggle with. We feel like we have to sacrifice our personal lives in order to succeed at work. But I'm here to tell you that it is possible to have a good work-life balance. There are a few things you need to keep in mind if you want to achieve a good work-life balance. First, you need to make it a priority. It's not going to happen unless you're proactive about it. Second, you need to set boundaries between work and personal life. It's important to make time for activities outside of work. And finally, don't be afraid to ask for help. There are a few obstacles you might face when trying to achieve a better work-life balance. Time constraints, financial obligations, family obligations, and work demands can all make it difficult. But there are ways to overcome these obstacles. Set realistic goals, create a support system, take advantage of resources, and be patient. There are a lot of resources available to help you achieve a better work-life balance. Time management tools, financial planning resources, family support resources, and work-life balance"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the main topic or message that you want to communicate in your ted talk?",
+                    "Answer": "I want to communicate the importance of living in the present moment and being present in our daily lives. I want to share how the practice of mindfulness can help us to achieve this."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "My target audience is anyone who is interested in learning more about mindfulness and how it can improve our lives."
+                },
+                {
+                    "Question": "What are some specific examples or stories that you can share to illustrate your point?",
+                    "Answer": "I can share stories about my own personal experiences with mindfulness and how it has helped me to live a more present and fulfilled life. I can also share stories from other people who have benefitted from mindfulness in their own lives."
+                },
+                {
+                    "Question": "What are some of the challenges or objections that your audience might have about your topic?",
+                    "Answer": "Some people might object to the idea of mindfulness because they think it is new age or hippie. Others might think that it is too simple or easy to be of any real benefit. I want to address these objections head-on and show how mindfulness can be a powerful tool for positive change in our lives."
+                },
+                {
+                    "Question": "What are some ways that you can inspire your audience to take action on your message?",
+                    "Answer": "I can share concrete ways that mindfulness can be practiced in daily life, and how it can lead to positive outcomes like increased focus, decreased stress, and improved relationships. I will also provide resources for further exploration of mindfulness for those who are interested."
+                },
+                {
+                    "Question": "What are some final thoughts or points that you want to leave your audience with?",
+                    "Answer": "I want to leave my audience with a sense of hope and possibility. I want them to understand that mindfulness is something that anyone can practice, and that it can lead to a more peaceful and fulfilling life."
+                },
+                {
+                    "Question": "Do you have any other information that you think would be helpful for me to know in order to write your ted talk?",
+                    "Answer": "I would like for my ted talk to be around 10 minutes long."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "There is something else."
+                },
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Sarah."
+                },
+                {
+                    "Question": "Do you have a title for your ted talk?",
+                    "Answer": "My ted talk is titled, 'The Power of Mindfulness: How to Be More Present in Your Life.'"
+                }
+            ],
+            "Output": "Hello, my name is Sarah and today I want to talk to you about the power of mindfulness and how it can help us to be more present in our lives. Mindfulness is the practice of being present in the moment, and it can have a profound impact on our lives. Studies have shown that mindfulness can lead to increased focus, decreased stress, and improved relationships. But what exactly is mindfulness? Mindfulness is simply the act of paying attention to the present moment, without judgment. It sounds easy, but in practice it can be quite challenging. Our minds are always wandering, and it can be difficult to quiet the noise and focus on the present. But the benefits of mindfulness are well worth the effort. When we are present, we are able to see things more clearly and make better decisions. We are also more likely to enjoy our lives and find happiness. So how can we practice mindfulness in our daily lives? There are many ways to do this, but one simple way is to focus on our breath. Whenever we notice our minds wandering, we can bring our attention back to our breath. Another way to practice mindfulness is to take notice of the small things around us. For example, the next time you take"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/E7yS0KEnFhIEz6jlvP1Kt5cU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/C6EfBWoSHKSNuDdOpiNutBDy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GtYnoiB754gswPzDHiPZPp8D?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://1drv.ms/u/s!AmqT8OcmiyozhNk7dllmCfnz095QhQ?e=2gHc4W"
+}

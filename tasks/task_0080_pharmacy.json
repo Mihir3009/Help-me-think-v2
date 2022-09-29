@@ -1,0 +1,164 @@
+{
+    "Domain": "Pharmacy",
+    "Task": "Buying medicine from nearest pharmacy",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in helping you buy medicine from the nearest pharmacy. I will ask some questions about the medicine and will schedule a time to pick up the medicine from the nearest pharmacy store. I will use the information to save some of your time.",
+        "task_specific_prompt": "Schedule a pick-up time using the questions and answers above. Include the address and phone number of the pharmacy."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the medicine?",
+                    "Answer": "The name of the medicine is Tylenol."
+                },
+                {
+                    "Question": "What is the purpose of the medicine?",
+                    "Answer": "The purpose of the medicine is to relieve pain and fever."
+                },
+                {
+                    "Question": "How much of the medicine do you need?",
+                    "Answer": "I need two pills."
+                },
+                {
+                    "Question": "When do you need the medicine?",
+                    "Answer": "I need the medicine now."
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "My phone number is 555-555-1234."
+                },
+                {
+                    "Question": "What is your address?",
+                    "Answer": "My address is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the name of the nearest pharmacy?",
+                    "Answer": "The name of the nearest pharmacy is CVS."
+                },
+                {
+                    "Question": "What is the address of the nearest pharmacy?",
+                    "Answer": "The address of the nearest pharmacy is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the phone number of the nearest pharmacy?",
+                    "Answer": "The phone number of the nearest pharmacy is 555-555-1234."
+                },
+                {
+                    "Question": "When will the pharmacy be open?",
+                    "Answer": "The pharmacy will be open from 9am to 9pm."
+                },
+                {
+                    "Question": "When is the earliest time you can pick up the medicine?",
+                    "Answer": "The earliest time I can pick up the medicine is 10am."
+                }
+            ],
+            "Output": "I will pick up the medicine from the CVS pharmacy at 123 Main Street, New York, NY 10001 at 10am. The phone number for the pharmacy is 555-555-1234."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the medicine?",
+                    "Answer": "The name of the medicine is cetrizine."
+                },
+                {
+                    "Question": "What is the purpose of the medicine?",
+                    "Answer": "The purpose of the medicine is to combat common cold."
+                },
+                {
+                    "Question": "How much of the medicine do you need?",
+                    "Answer": "I need twenty pills."
+                },
+                {
+                    "Question": "When do you need the medicine?",
+                    "Answer": "I need the medicine after one day."
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "My phone number is 555-556-1234."
+                },
+                {
+                    "Question": "What is your address?",
+                    "Answer": "My address is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the name of the nearest pharmacy?",
+                    "Answer": "The name of the nearest pharmacy is CVS."
+                },
+                {
+                    "Question": "What is the address of the nearest pharmacy?",
+                    "Answer": "The address of the nearest pharmacy is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the phone number of the nearest pharmacy?",
+                    "Answer": "The phone number of the nearest pharmacy is 755-555-1234."
+                },
+                {
+                    "Question": "When will the pharmacy be open?",
+                    "Answer": "The pharmacy will be open from 9am to 9pm."
+                },
+                {
+                    "Question": "When is the earliest time you can pick up the medicine?",
+                    "Answer": "The earliest time I can pick up the medicine is 11 am tomorrow."
+                }
+            ],
+            "Output": "I will pick up the medicine from the CVS pharmacy tomorrow at 11am. The address of the pharmacy is 123 Main Street, New York, NY 10001 and the phone number is 755-555-1234."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the medicine?",
+                    "Answer": "The name of the medicine is levothyroxine."
+                },
+                {
+                    "Question": "What is the purpose of the medicine?",
+                    "Answer": "The purpose of the medicine is to combat thyroid."
+                },
+                {
+                    "Question": "How much of the medicine do you need?",
+                    "Answer": "I need one bottle."
+                },
+                {
+                    "Question": "When do you need the medicine?",
+                    "Answer": "I need the medicine as soon as possible."
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "My phone number is 555-557-1234."
+                },
+                {
+                    "Question": "What is your address?",
+                    "Answer": "My address is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the name of the nearest pharmacy?",
+                    "Answer": "The name of the nearest pharmacy is CVS."
+                },
+                {
+                    "Question": "What is the address of the nearest pharmacy?",
+                    "Answer": "The address of the nearest pharmacy is 123 Main Street, New York, NY 10001."
+                },
+                {
+                    "Question": "What is the phone number of the nearest pharmacy?",
+                    "Answer": "The phone number of the nearest pharmacy is 855-555-1234."
+                },
+                {
+                    "Question": "When will the pharmacy be open?",
+                    "Answer": "The pharmacy will be open from 9am to 9pm."
+                },
+                {
+                    "Question": "When is the earliest time you can pick up the medicine?",
+                    "Answer": "The earliest time I can pick up the medicine is 1 pm tomorrow."
+                }
+            ],
+            "Output": "The earliest time I can pick up the medicine is 1 pm tomorrow at the CVS pharmacy located at 123 Main Street, New York, NY 10001. The phone number for the pharmacy is 855-555-1234."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/zcjTiIuyJVDQKfyzTi2FAKIy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/S240506qmjvL4Sriln86vaco?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/kmDUlN16GrUABnc6CgLD2JHf?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1BjNMCgKDUz0FVvkLM0FjzkpZI_M9jqDw?usp=sharing"
+}
+

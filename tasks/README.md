@@ -75,3 +75,23 @@ File Name | Domain | Task
 `task_0068_performance art.json` | Performance art | Artist & Choregrapher
 `task_0069_sports.json` | Sports | Soccer referee
 `task_0070_performance art.json` | Performance art | Performance art critic
+`task_0071_stereotypes.json` | Stereotypes | Indentifying personal stereotypes
+`task_0072_stereotypes.json` | Stereotypes | Stereotyping is good or bad?
+`task_0073_petrology.json` | Petrology | Classification of a rock based on its characteristics
+`task_0074_stereotypes.json` | Stereotypes | Stereotypes people may have from their neighborhood details
+`task_0075_petrology.json` | Petrology | Importance of rocks and minerals in day to day life
+`task_0076_petrology.json` | Petrology | Suggestions for what kind of rock to use based on construction parameters
+`task_0077_petrology.json` | Petrology | Rock prediction based on the area demographics
+`task_0078_stereotypes.json` | Stereotypes | How stereotypes can impact people's lives
+`task_0079_ecommerce.json` | Ecommerce | Generate product taxonomy
+`task_0080_pharmacy.json` | Pharmacy | Buying medicine from nearest pharmacy
+`task_0081_ecommerce.json` | Ecommerce | Suggesting other products to buy based on the product bought
+`task_0082_pharmacy.json` | Pharmacy | Suggesting alternate drug or medicine
+`task_0083_ecommerce.json` | Ecommerce | Generate product description
+`task_0084_ted talks.json` | TED Talks | Recommend TED talks to watch
+`task_0085_physician assistant.json` | Physician Assistant | diagnose depression
+`task_0086_ted talks.json` | TED Talks | convince people to watch my TED talk
+`task_0087_physician assistant.json` | Physician Assistant | Be Healthy
+`task_0088_physician assistant.json` | Physician Assistant | Physician Recommender
+`task_0089_physician assistant.json` | Physician Assistant | prescribe medication
+`task_0090_ted talks.json` | TED Talks | write a TED Talk
