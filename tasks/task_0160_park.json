@@ -2,12 +2,10 @@
     "Contributor": "sangarajusrihariraju",
     "Domain": "Park",
     "Task": "Park Safety Expert",
-    "Prompt": [
-        {
+    "Prompt": {
             "pre_question_prompt": "I am a park safety expert. I will ask some questions to collect information and then I will use the information to identify how safe park is for you",
             "task_specific_prompt": "Write about how safe the park is by using the questions and answers above"
-        }
-    ],
+    },
     "Instances": [
         {
             "QApair": [
@@ -161,7 +159,7 @@
             "output": "I think the park is safe because I have never felt unsafe while visiting and I have never seen any crime. The park is also well-lit and clean, which makes it a safe environment for people to enjoy."
         }
     ],
-    "preset_link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/kpz46XKKnHUtUsLsgxeH7bxE?model=text-davinci-002",
         "https://beta.openai.com/playground/p/sjuPKB7bWVU34j6gZczTSebx?model=text-davinci-002",
         "https://beta.openai.com/playground/p/EBOiYqD8YDzemKQLooPqsVmF?model=text-davinci-002"
