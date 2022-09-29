@@ -123,7 +123,7 @@
                     "Answer": "The preferred park atmosphere is family-friendly."
                 }
             ],
-            "output": "The best park for a child's birthday party near ASU Campus in Tempe is Kiwanis Park. The park is large and has a playground, swings, and slides. The atmosphere is family-friendly and the park is open until 10 PM."
+            "Output": "The best park for a child's birthday party near ASU Campus in Tempe is Kiwanis Park. The park is large and has a playground, swings, and slides. The atmosphere is family-friendly and the park is open until 10 PM."
         },
         {
             "QApair": [
@@ -176,7 +176,7 @@
                     "Answer": "The preferred time of day is evening after 6 PM"
                 }
             ],
-            "output": "The best park for a child's birthday party near ASU Campus in Tempe would be Kiwanis Park. The park has a playground, swings, and slides for the child to enjoy. The party can be held in the evening after 6 PM on Sunday. The budget for the park is $200."
+            "Output": "The best park for a child's birthday party near ASU Campus in Tempe would be Kiwanis Park. The park has a playground, swings, and slides for the child to enjoy. The party can be held in the evening after 6 PM on Sunday. The budget for the park is $200."
         }
     ],
     "Preset_link": [
