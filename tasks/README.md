@@ -112,3 +112,147 @@ File Name | Domain | Task
 `task_0240_cooking.json` | Cooking | writing recipe
 `task_0241_cooking.json` | Cooking | saving money by cooking at home
 `task_0242_education.json` | Education | Taking standard English tests
+`task_0243_business.json` | Business | How to effectively market your product on the internet.
+`task_0244_business.json` | Business | Optimizing business finances.
+`task_0245_business.json` | Business | Writing an article to increase trustworthiness of the company
+`task_0246_psycholinguistics.json` | Psycholinguistics | Help you learn Russian.
+`task_0247_business.json` | Business | Help expand the business globally
+`task_0248_psycholinguistics.json` | Psycholinguistics | Help you understand long sentences.
+`task_0249_information_management.json` | Information Management | Room Layout Management
+`task_0250_information_management.json` | Information Management | Movie Recommendation Information System
+`task_0251_music.json` | Music | Song Lyrics Writer
+`task_0252_liberal_arts.json` | Liberal Arts | Home Remedy for Biological Diseases
+`task_0253_market_research.json` | Market Research | Product Development and Launch Planning
+`task_0254_market_research.json` | Market Research | SharkTank Investment
+`task_0255_market_research.json` | Market Research | Suggest Stock Market Investment
+`task_0256_market_research.json` | Market Research | SWOT Analysis
+`task_0257_business_strategy.json` | Business Strategy | Business Strategy Plan
+`task_0258_business_strategy.json` | Business Strategy | Employee Training
+`task_0259_business_strategy.json` | Business Strategy | Investor Pitch
+`task_0260_media.json` | Media | Magazine Article
+`task_0261_business_strategy.json` | Business Strategy | Marketing Plan
+`task_0262_media.json` | Media | News Story
+`task_0263_media.json` | Media | Radio Script
+`task_0264_civil_engineering.json` | Civil Engineering | Provide structural performance of different materials
+`task_0265_civil_engineering.json` | Civil Engineering | Suggest Renovations
+`task_0266_civil_engineering.json` | Civil Engineering | Help repair old roads or construct new ones
+`task_0267_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
+`task_0268_public_opinion.json` | Public Opinion | Estimate Public attitudes on healthcare
+`task_0269_public_opinion.json` | Public Opinion | estimate public attitudes toward mental health.
+`task_0270_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
+`task_0271_real_estate.json` | Real Estate | Real estate agent suggesting real estate properties
+`task_0272_real_estate.json` | Real Estate | Real estate agent showing real estate market trends
+`task_0273_real_estate.json` | Real Estate | Real estate agent evaluating a property
+`task_0274_college_admissions.json` | College Admissions | College consultant writing a letter of recommendation
+`task_0275_college_admissions.json` | College Admissions | college consultant suggesting a college for admission
+`task_0276_real_estate.json` | Real Estate | Real estate agent predicting future price
+`task_0277_college_admissions.json` | College Admissions | College consultant writing a statement of purpose
+`task_0278_radio_and_television.json` | Radio and Television | Task_1_radio_channel_recommendation
+`task_0279_renaissance.json` | Renaissance | Task_2_15th_century_artist
+`task_0280_radio_and_television.json` | Radio and Television | Task_1_late_night_TV_show_recommendation
+`task_0281_radio_and_television.json` | Radio and Television | Task_1_name_of_song_based_on_mood
+`task_0282_renaissance.json` | Renaissance | Task_2_write_poem_based_on_your_view_of_renaissance
+`task_0283_renaissance.json` | Renaissance | Task_2_write_play_on_your_favourite_poets_life
+`task_0284_radio_and_television.json` | Radio and Television | Task_1_favorite_TV_show_report
+`task_0285_developmental_biology.json` | Developmental Biology | Essay Writing
+`task_0286_developmental_biology.json` | Developmental Biology | Research Paper Structuring
+`task_0287_developmental_biology.json` | Developmental Biology | Lecture Notes Preparation
+`task_0288_developmental_biology.json` | Developmental Biology | Academic Book Writing
+`task_0289_small_business_management.json` | Small Business Management | Sales Manager
+`task_0290_small_business_management.json` | Small Business Management | Advertising Campaign Designer
+`task_0291_small_business_management.json` | Small Business Management | Human Resources Manager
+`task_0292_data_analysis.json` | Data Analysis | predict whether you are introvert or extrovert.
+`task_0293_data_analysis.json` | Data Analysis | summarize my feedback
+`task_0294_data_analysis.json` | Data analysis | Detect whether email is spam or not
+`task_0295_data_analysis.json` | Data analysis | best research area in computer science to pursue PHD
+`task_0296_screenwriting.json` | Screenwriting | suggest camera angles
+`task_0297_demography.json` | Demography | Write a blog on country's demography
+`task_0298_demography.json` | Demography | Demographic health report
+`task_0299_demography.json` | Demography | Paragraph for the ninth graders on language demography
+`task_0300_demography.json` | Demography | Migrants demograpics
+`task_0301_software_engineering.json` | Software Engineering | Generate docstrings
+`task_0302_recording.json` | Recording | List of Users preferences
+`task_0303_recording.json` | Recording | Create an Eco map
+`task_0304_tourism.json` | Tourism | Itinerary for tour
+`task_0305_tourism.json` | Tourism | Categorize heritage site
+`task_0306_tourism.json` | Tourism | Create a blog
+`task_0307_tourism.json` | Tourism | Categorizing the visit of the tourist
+`task_0308_ecosystems.json` | Ecosystems | Introduce specific ecosystem
+`task_0309_ecosystems.json` | Ecosystems | Design travel plan
+`task_0310_ecosystems.json` | Ecosystems | Write a tragic love story about the endangered ecosystem
+`task_0311_ecosystems.json` | Ecosystems | Write conversations between people and species living in the ecosystem
+`task_0312_swimming.json` | Swimming | Give people swimming training suggestion based on personal needs
+`task_0313_swimming.json` | Swimming | Encouraging people to swim
+`task_0314_swimming.json` | Swimming | Write an advertising word for a swimming competition
+`task_0243_business.json` | Business | How to effectively market your product on the internet.
+`task_0244_business.json` | Business | Optimizing business finances.
+`task_0245_business.json` | Business | Writing an article to increase trustworthiness of the company
+`task_0246_psycholinguistics.json` | Psycholinguistics | Help you learn Russian.
+`task_0247_business.json` | Business | Help expand the business globally
+`task_0248_psycholinguistics.json` | Psycholinguistics | Help you understand long sentences.
+`task_0249_information_management.json` | Information Management | Room Layout Management
+`task_0250_information_management.json` | Information Management | Movie Recommendation Information System
+`task_0251_music.json` | Music | Song Lyrics Writer
+`task_0252_liberal_arts.json` | Liberal Arts | Home Remedy for Biological Diseases
+`task_0253_market_research.json` | Market Research | Product Development and Launch Planning
+`task_0254_market_research.json` | Market Research | SharkTank Investment
+`task_0255_market_research.json` | Market Research | Suggest Stock Market Investment
+`task_0256_market_research.json` | Market Research | SWOT Analysis
+`task_0257_business_strategy.json` | Business Strategy | Business Strategy Plan
+`task_0258_business_strategy.json` | Business Strategy | Employee Training
+`task_0259_business_strategy.json` | Business Strategy | Investor Pitch
+`task_0260_media.json` | Media | Magazine Article
+`task_0261_business_strategy.json` | Business Strategy | Marketing Plan
+`task_0262_media.json` | Media | News Story
+`task_0263_media.json` | Media | Radio Script
+`task_0264_civil_engineering.json` | Civil Engineering | Provide structural performance of different materials
+`task_0265_civil_engineering.json` | Civil Engineering | Suggest Renovations
+`task_0266_civil_engineering.json` | Civil Engineering | Help repair old roads or construct new ones
+`task_0267_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
+`task_0268_public_opinion.json` | Public Opinion | Estimate Public attitudes on healthcare
+`task_0269_public_opinion.json` | Public Opinion | estimate public attitudes toward mental health.
+`task_0270_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
+`task_0271_real_estate.json` | Real Estate | Real estate agent suggesting real estate properties
+`task_0272_real_estate.json` | Real Estate | Real estate agent showing real estate market trends
+`task_0273_real_estate.json` | Real Estate | Real estate agent evaluating a property
+`task_0274_college_admissions.json` | College Admissions | College consultant writing a letter of recommendation
+`task_0275_college_admissions.json` | College Admissions | college consultant suggesting a college for admission
+`task_0276_real_estate.json` | Real Estate | Real estate agent predicting future price
+`task_0277_college_admissions.json` | College Admissions | College consultant writing a statement of purpose
+`task_0278_radio_and_television.json` | Radio and Television | Task_1_radio_channel_recommendation
+`task_0279_renaissance.json` | Renaissance | Task_2_15th_century_artist
+`task_0280_radio_and_television.json` | Radio and Television | Task_1_late_night_TV_show_recommendation
+`task_0281_radio_and_television.json` | Radio and Television | Task_1_name_of_song_based_on_mood
+`task_0282_renaissance.json` | Renaissance | Task_2_write_poem_based_on_your_view_of_renaissance
+`task_0283_renaissance.json` | Renaissance | Task_2_write_play_on_your_favourite_poets_life
+`task_0284_radio_and_television.json` | Radio and Television | Task_1_favorite_TV_show_report
+`task_0285_developmental_biology.json` | Developmental Biology | Essay Writing
+`task_0286_developmental_biology.json` | Developmental Biology | Research Paper Structuring
+`task_0287_developmental_biology.json` | Developmental Biology | Lecture Notes Preparation
+`task_0288_developmental_biology.json` | Developmental Biology | Academic Book Writing
+`task_0289_small_business_management.json` | Small Business Management | Sales Manager
+`task_0290_small_business_management.json` | Small Business Management | Advertising Campaign Designer
+`task_0291_small_business_management.json` | Small Business Management | Human Resources Manager
+`task_0292_data_analysis.json` | Data Analysis | predict whether you are introvert or extrovert.
+`task_0293_data_analysis.json` | Data Analysis | summarize my feedback
+`task_0294_data_analysis.json` | Data analysis | Detect whether email is spam or not
+`task_0295_data_analysis.json` | Data analysis | best research area in computer science to pursue PHD
+`task_0296_screenwriting.json` | Screenwriting | suggest camera angles
+`task_0297_demography.json` | Demography | Write a blog on country's demography
+`task_0298_demography.json` | Demography | Demographic health report
+`task_0299_demography.json` | Demography | Paragraph for the ninth graders on language demography
+`task_0300_demography.json` | Demography | Migrants demograpics
+`task_0301_software_engineering.json` | Software Engineering | Generate docstrings
+`task_0302_recording.json` | Recording | List of Users preferences
+`task_0303_recording.json` | Recording | Create an Eco map
+`task_0304_tourism.json` | Tourism | Itinerary for tour
+`task_0305_tourism.json` | Tourism | Categorize heritage site
+`task_0306_tourism.json` | Tourism | Create a blog
+`task_0307_tourism.json` | Tourism | Categorizing the visit of the tourist
+`task_0308_ecosystems.json` | Ecosystems | Introduce specific ecosystem
+`task_0309_ecosystems.json` | Ecosystems | Design travel plan
+`task_0310_ecosystems.json` | Ecosystems | Write a tragic love story about the endangered ecosystem
+`task_0311_ecosystems.json` | Ecosystems | Write conversations between people and species living in the ecosystem
+`task_0312_swimming.json` | Swimming | Give people swimming training suggestion based on personal needs
+`task_0313_swimming.json` | Swimming | Encouraging people to swim
+`task_0314_swimming.json` | Swimming | Write an advertising word for a swimming competition
