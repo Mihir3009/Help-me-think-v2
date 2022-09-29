@@ -13,4 +13,10 @@ File Name | Domain | Task
 `task_0006_biomedical.json` | Biomedical | Differential Diagnosis
 `task_0007_healthcare_administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
 `task_0008_healthcare_administration.json` | Healthcare Administration | Vaccine Inventory Management
-`task_0009_profession.json` | Profession | Use the information to describe my profession
+`task_0009_profession.json` | Profession | use the information to describe the qualification required for the job
+`task_0010_profession.json` | Profession | use the information to predict the future scope of your profession
+`task_0011_profession.json` | Profession | use the information to suggest tips to be better at your profession
+`task_0012_database.json` | Database | use the information to build an online database
+`task_0013_database.json` | Database | use the information to summarize key details of your database
+`task_0014_database.json` | Database | use the information to help you manage and maintain your database
+`task_0015_database.json` | Database | use the information to help you secure your database from threats
