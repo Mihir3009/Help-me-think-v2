@@ -133,13 +133,6 @@ File Name | Domain | Task
 `task_0261_business_strategy.json` | Business Strategy | Marketing Plan
 `task_0262_media.json` | Media | News Story
 `task_0263_media.json` | Media | Radio Script
-`task_0264_civil_engineering.json` | Civil Engineering | Provide structural performance of different materials
-`task_0265_civil_engineering.json` | Civil Engineering | Suggest Renovations
-`task_0266_civil_engineering.json` | Civil Engineering | Help repair old roads or construct new ones
-`task_0267_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
-`task_0268_public_opinion.json` | Public Opinion | Estimate Public attitudes on healthcare
-`task_0269_public_opinion.json` | Public Opinion | estimate public attitudes toward mental health.
-`task_0270_public_opinion.json` | Public Opinion | Predict Outcome of General Election and Public Opinion
 `task_0271_real_estate.json` | Real Estate | Real estate agent suggesting real estate properties
 `task_0272_real_estate.json` | Real Estate | Real estate agent showing real estate market trends
 `task_0273_real_estate.json` | Real Estate | Real estate agent evaluating a property
