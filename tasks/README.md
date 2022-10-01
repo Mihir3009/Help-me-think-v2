@@ -165,8 +165,8 @@ File Name | Domain | Task
 `task_0300_demography.json` | Demography | Migrants demograpics
 `task_0301_software_engineering.json` | Software Engineering | Generate docstrings
 `task_0302_recording.json` | Recording | List of Users preferences
-`task_0303_recording.json` | Recording | Create an Eco map
-`task_0304_tourism.json` | Tourism | Itinerary for tour
+`task_0303_tourism.json` | Tourism | Create an Eco map
+`task_0304_recording.json` | Recording | Itinerary for tour
 `task_0305_tourism.json` | Tourism | Categorize heritage site
 `task_0306_tourism.json` | Tourism | Create a blog
 `task_0307_tourism.json` | Tourism | Categorizing the visit of the tourist
