@@ -1,172 +1,152 @@
 {
-    "Contributor": "yangyijin",
+    "Contributor": "uddinmdnayem",
     "Domain": "Demography",
-    "Task": "Migrants demograpics",
+    "Task": "Paragraph for the ninth graders on language demography",
     "Prompt": {
-        "pre_question_prompt": "I am a development studies researcher. I am conducting research on migrant demographics in Bangladesh. I will ask questions to gather information on migrants from Bangladesh.",
-        "task_specific_prompt": "Based on the questions and answers above write a report on migrants demographics in Bangladesh. Use exact numbers and examples from the answers."
+        "pre_question_prompt": "I am an expert on linguistics. I will ask questions on linguistic demography to make a report.",
+        "task_specific_prompt": "Write a paragraph for the ninth graders on the linguistic demography based on these questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "How many people migrate from Bangladesh to other countries every year?",
-                    "Answer": "Answer: According to the UN Department of Economic and Social Affairs, an estimated 700,000 Bangladeshis migrated overseas in 2015."
+                    "Question": "How many languages are spoken in your country?",
+                    "Answer": "There are many languages spoken in the United States. I will list a few."
                 },
                 {
-                    "Question": "What are the main reasons for migration from Bangladesh?",
-                    "Answer": "Answer: The main reasons for migration from Bangladesh are economic opportunities, family reunification, and fleeing violence and conflict."
+                    "Question": "What is the largest language spoken in your country?",
+                    "Answer": "The largest language spoken in the United States is English."
                 },
                 {
-                    "Question": "What are the main destinations for migrants from Bangladesh?",
-                    "Answer": "Answer: The main destinations for migrants from Bangladesh are India, Pakistan, the United Arab Emirates, Saudi Arabia, and Oman. Also, a small number of people also move to western countries every year. "
+                    "Question": "What is the second largest language spoken in your country?",
+                    "Answer": "The second largest language spoken in the United States is Spanish. There are even more Spanish-speaking people in this country than there are in Spain!"
                 },
                 {
-                    "Question": "What are the effects of migration on Bangladesh?",
-                    "Answer": "Answer: Migration from Bangladesh has a number of effects on the country. First, it reduces the amount of human capital available to the country. Second, it can put strains on social cohesion as families are divided between those who have migrated and those who have not. Third, it can lead to problems of brain drain as the best and brightest leave the country in search of better opportunities elsewhere."
+                    "Question": "What languages are considered official in your country?",
+                    "Answer": "The United States has no official language. However, English is considered the de facto language for government business."
                 },
                 {
-                    "Question": "What are the effects of migration on the migrants themselves?",
-                    "Answer": "Answer: Migration can have a number of effects on the migrants themselves. First, it can provide them with new economic opportunities that they would not have had if they had stayed in Bangladesh. Second, it can help them to reunite with family members who they have not seen in a long time. Third, it can give them a chance to escape violence and conflict. "
+                    "Question": "What is the history of language in your country?",
+                    "Answer": "The United States is a very linguistically diverse country. Many languages are spoken here because of the country's history. For example, Spanish is spoken here because of the Spanish colonization of the Americas. English is spoken here because the United States was originally a British colony. And many other languages are spoken here because of the large number of immigrants who have come to the United States from all over the world."
                 },
                 {
-                    "Question": "What is the age range of most of the migrant workers in bangladesh?",
-                    "Answer": "Many studies show that the highest probability for migrating is between the ages of 20 and 30 years old. However, research also suggests that, after a decline at the age of 30 there might be another peak of migration at the older age and, in particular, following retirement, reflecting return migration"
+                    "Question": "Are there any endangered languages in your country?",
+                    "Answer": "There are endangered languages in the United States, though not as many as in other parts of the world. Some of the endangered languages spoken in the United States are Hawaiian, Iroquoian, and Algonquian."
                 },
                 {
-                    "Question": "What is the female to male ratio of migrant workers in bangladesh?",
-                    "Answer": "Answer: There is no definitive answer to this question as the ratio of female to male migrant workers in Bangladesh varies depending on the destination country. However, studies have shown that the vast majority of migrant workers from Bangladesh are male."
+                    "Question": "What is the most common language spoken in your country?",
+                    "Answer": "English is by far the most prominent spoken language in the U.S., with over 239 million English-speaking people across the country."
                 },
                 {
-                    "Question": "What are the top 5 most common countries of destination for Bangladeshi migrants?",
-                    "Answer": "Answer: The top 5 most common countries of destination for Bangladeshi migrants are India, Pakistan, the United Arab Emirates, Saudi Arabia, and Oman."
+                    "Question": "What languages are spoken in your country besides English?",
+                    "Answer": "Besides English, the most commonly spoken languages in the United States are Spanish, Chinese, and French."
                 },
                 {
-                    "Question": "What are the top 5 most common occupations of Bangladeshi migrants?",
-                    "Answer": "Answer: The top 5 most common occupations of Bangladeshi migrants are domestic work, construction work, agriculture, manufacturing, and retail."
+                    "Question": "What is the demographics of language in your country?",
+                    "Answer": "The demographics of language in the United States are quite diverse. The census reports that there are between 350 and 430 languages spoken in the United States of America, making it one of the most linguistically diverse countries in the world."
                 },
                 {
-                    "Question": "What are the top 5 most common reasons for Bangladeshi migrants to return home?",
-                    "Answer": "Answer: The top 5 most common reasons for Bangladeshi migrants to return home are family reunification, retirement, lack of work opportunities, homesickness, and violence."
-                },
-                {
-                    "Question": "What are the top 5 most common problems faced by Bangladeshi migrants?",
-                    "Answer": "Answer: The top 5 most common problems faced by Bangladeshi migrants are language barriers, cultural differences, discrimination, homesickness, and violence."
-                },
-                {
-                    "Question": "What are the top 5 most common benefits of Bangladeshi migration?",
-                    "Answer": "Answer: The top 5 most common benefits of Bangladeshi migration are economic opportunities, family reunification, exposure to new cultures, escape from violence and conflict, and improved quality of life."
+                    "Question": "What are some common language-related problems in your country?",
+                    "Answer": "One of the most common language-related problems in the United States is the difficulty of communication between people who speak different languages. This can be a problem in areas where there are large numbers of immigrants or in areas where there are many tourists."
                 }
             ],
-            "Output": "According to the UN Department of Economic and Social Affairs, an estimated 700,000 Bangladeshis migrated overseas in 2015. The main reasons for migration from Bangladesh are economic opportunities, family reunification, and fleeing violence and conflict. The main destinations for migrants from Bangladesh are India, Pakistan, the United Arab Emirates, Saudi Arabia, and Oman.\n\nMigration from Bangladesh has a number of effects on the country. First, it reduces the amount of human capital available to the country. Second, it can put strains on social cohesion as families are divided between those who have migrated and those who have not. Third, it can lead to problems of brain drain as the best and brightest leave the country in search of better opportunities elsewhere.\n\nMigration can have a number of effects on the migrants themselves. First, it can provide them with new economic opportunities that they would not have had if they had stayed in Bangladesh. Second, it can help them to reunite with family members who they have not seen in a long time. Third, it can give them a chance to escape violence and conflict.\n\nThe top 5 most common countries of destination for Bangladeshi migrants are India, Pakistan, the United Arab Emirates, Saudi Arabia, and Oman. The top 5 most"
+            "Output": "The United States is a linguistically diverse country, with many different languages spoken throughout the country. The most common language spoken in the United States is English, but there are also many people who speak Spanish, Chinese, and French. There are some common language-related problems in the United States, such as the difficulty of communication between people who speak different languages. However, the United States is also a very linguistically diverse country, with many different languages spoken throughout the country."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are the main motivations for Indian migrants to leave their home country?",
-                    "Answer": "Some of the main motivations for Indian migrants to leave their home country include seeking better economic opportunities, escaping poverty or political instability, or seeking educational opportunities."
+                    "Question": "What is the first language of the majority of people in the world?",
+                    "Answer": "The first language of the majority of people in the world is Mandarin Chinese."
                 },
                 {
-                    "Question": "What are the main destinations for Indian migrants?",
-                    "Answer": "Some of the main destinations for Indian migrants include the United Arab Emirates, the United States, Canada, Australia, and Europe."
+                    "Question": "What is the second language of the majority of people in the world?",
+                    "Answer": "The second language of the majority of people in the world is English."
                 },
                 {
-                    "Question": "What are the challenges that Indian migrants face in their new countries?",
-                    "Answer": "Some of the challenges that Indian migrants face in their new countries include cultural adjustment, language barriers, and discrimination."
+                    "Question": "What is the third language of the majority of people in the world?",
+                    "Answer": "The third language of the majority of people in the world is Spanish"
                 },
                 {
-                    "Question": "What are the main ways that Indian migrants maintain contact with their home country?",
-                    "Answer": "Some of the main ways that Indian migrants maintain contact with their home country include using social media, video calling, and visiting when they can."
+                    "Question": "What is the fourth language of the majority of people in the world?",
+                    "Answer": "The fourth language of the majority of people in the world is Arabic."
                 },
                 {
-                    "Question": "What are the main ways that Indian migrants have been able to successfully integrate into their new countries?",
-                    "Answer": "Some of the main ways that Indian migrants have been able to successfully integrate into their new countries include finding work in their field, making friends with locals, and getting involved in the local community."
+                    "Question": "What is the fifth language of the majority of people in the world?",
+                    "Answer": "The fifth language of the majority of people in the world is Hindi."
                 },
                 {
-                    "Question": "What are the main ways that Indian migrants have been able to maintain their cultural identity in their new countries?",
-                    "Answer": "Some of the main ways that Indian migrants have been able to maintain their cultural identity in their new countries include celebrating traditional holidays, cooking traditional food, and listening to Indian music."
+                    "Question": "What is the sixth language of the majority of people in the world?",
+                    "Answer": "The sixth language of the majority of people in the world is Bengali."
                 },
                 {
-                    "Question": "What advice would you give to new Indian migrants?",
-                    "Answer": "Some advice that would be given to new Indian migrants includes being prepared for culture shock, being willing to learn about the new culture, and making an effort to learn the local language."
+                    "Question": "What is the seventh language of the majority of people in the world?",
+                    "Answer": "The seventh language of the majority of people in the world is Portuguese."
                 },
                 {
-                    "Question": "What do you think is the future of Indian migration?",
-                    "Answer": "The future of Indian migration is difficult to predict, but it is likely that there will continue to be a significant number of Indians migrating to various countries in search of better economic opportunities."
+                    "Question": "What is the eighth language of the majority of people in the world?",
+                    "Answer": "The eighth language of the majority of people in the world is Russian."
                 },
                 {
-                    "Question": "What do you think are the most important issues facing Indian migrants today?",
-                    "Answer": "Some of the most important issues facing Indian migrants today include finding gainful employment, integrating into the local community, and dealing with homesickness."
+                    "Question": "What is the ninth language of the majority of people in the world?",
+                    "Answer": "The ninth language of the majority of people in the world is Japanese."
                 },
                 {
-                    "Question": "What do you think are the most important issues facing India with regards to migration?",
-                    "Answer": "Some of the most important issues facing India with regards to migration include brain drain, the impact of remittances on the economy, and the challenges of integrating returned migrants."
-                },
-                {
-                    "Question": "What do you think is the future of Indian migration?",
-                    "Answer": "The future of Indian migration is difficult to predict, but it is likely that there will continue to be a significant number of Indians migrating to various countries in search of better economic opportunities."
+                    "Question": "What is the tenth language of the majority of people in the world?",
+                    "Answer": "The tenth language of the majority of people in the world is German."
                 }
             ],
-            "Output": "India is a country of over 1.3 billion people, and it is estimated that around 15 million of them are migrants. That is just over 1% of the population. The top five countries that Indian migrants come from are:\n\n1. United Arab Emirates\n2. United States\n3. Canada\n4. Australia\n5. Europe\n\nThe main motivations for Indian migrants to leave their home country are seeking better economic opportunities, escaping poverty or political instability, or seeking educational opportunities. The main destinations for Indian migrants are the United Arab Emirates, the United States, Canada, Australia, and Europe.\n\nThe challenges that Indian migrants face in their new countries include cultural adjustment, language barriers, and discrimination. The main ways that Indian migrants maintain contact with their home country are using social media, video calling, and visiting when they can.\n\nThe main ways that Indian migrants have been able to successfully integrate into their new countries include finding work in their field, making friends with locals, and getting involved in the local community. The main ways that Indian migrants have been able to maintain their cultural identity in their new countries include celebrating traditional holidays, cooking traditional food, and listening to Indian music."
+            "Output": "The majority of people in the world speak Mandarin Chinese as their first language. English is the second language for most people, followed by Spanish, Arabic, and Hindi. Bengali, Portuguese, Russian, and Japanese are also widely spoken languages. German is the tenth most common language spoken in the world."
         },
         {
             "QApair": [
                 {
-                    "Question": "How many African migrants are there in total?",
-                    "Answer": "There is no definitive answer to this question as it is difficult to accurately estimate the number of African migrants. However, according to the United Nations Department of Economic and Social Affairs, there were an estimated 24.9 million African migrants in 2010. This number is likely to have increased in recent years."
+                    "Question": "What are the effects of linguistic demography on the development of language?",
+                    "Answer": "There is not a lot of research on the effects of linguistic demography on language development, but it is likely that it has some influence. Linguistic demography refers to the study of the size, distribution, and composition of language communities. It can provide information on how languages are used and how they change over time. This information can be used to understand how languages are acquired and how they develop."
                 },
                 {
-                    "Question": "Where do most African migrants come from?",
-                    "Answer": "There is no definitive answer to this question as it depends on the region of Africa. However, according to the United Nations Department of Economic and Social Affairs, the top five sending countries of African migrants in 2010 were Nigeria, Egypt, Ethiopia, Morocco, and South Africa."
+                    "Question": "What is the relationship between linguistic demography and language change?",
+                    "Answer": "Linguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "Where do most African migrants go?",
-                    "Answer": "There is no definitive answer to this question as it depends on the region of Africa. However, according to the United Nations Department of Economic and Social Affairs, the top five receiving countries of African migrants in 2010 were South Africa, Egypt, Libya, Algeria, and Tunisia."
+                    "Question": "What are the effects of linguistic demography on language acquisition?",
+                    "Answer": "Linguistic demography can influence language acquisition in a number of ways. For example, it can affect the rate of acquisition, the order of acquisition, and the type of acquisition that occurs. It can also affect how languages are used and how they develop."
                 },
                 {
-                    "Question": "What are the main reasons for African migrants to move?",
-                    "Answer": "There is no definitive answer to this question as it depends on the individual migrant's reasons for moving. However, some of the reasons why African migrants may move include seeking better economic opportunities, fleeing conflict or persecution, or reuniting with family members who have already migrated."
+                    "Question": "What are the effects of linguistic demography on language use?",
+                    "Answer": "Linguistic demography can influence language use in a number of ways. For example, it can affect the frequency of use, the context of use, and the type of use that occurs. It can also affect how languages are acquired and how they develop."
                 },
                 {
-                    "Question": "What are the main challenges faced by African migrants?",
-                    "Answer": "Some of the main challenges faced by African migrants include xenophobia, racism, and discrimination; limited access to social services; and difficulty finding employment."
+                    "Question": "What are the effects of linguistic demography on language development?",
+                    "Answer": "Linguistic demography can influence language development in a number of ways. For example, it can affect the rate of development, the direction of development, and the type of development that occurs. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "What are the main contributions of African migrants to their host countries?",
-                    "Answer": "African migrants make significant contributions to their host countries through their labour, skills, and entrepreneurialism. They also often send remittances back to their home countries, which can help to alleviate poverty and support economic development."
+                    "Question": "What are the effects of linguistic demography on the maintenance of language diversity?",
+                    "Answer": "Linguistic demography can influence language diversity in a number of ways. For example, it can affect the number of languages that are spoken, the distribution of languages, and the type of languages that are spoken. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "What is the future of African migration?",
-                    "Answer": "There is no definitive answer to this question as it is difficult to predict the future. However, it is likely that African migration will continue to grow in the coming years as more and more people seek to leave their home countries in search of better economic opportunities, safety, and a better quality of life."
+                    "Question": "What are the effects of linguistic demography on language extinction?",
+                    "Answer": "Linguistic demography can influence language extinction in a number of ways. For example, it can affect the rate of extinction, the order of extinction, and the type of extinction that occurs. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "What can be done to support African migrants?",
-                    "Answer": "There are various things that can be done to support African migrants, such as increasing access to social services, providing financial assistance, and increasing awareness of the rights and contributions of migrants."
+                    "Question": "What are the effects of linguistic demography on bilingualism and multilingualism?",
+                    "Answer": "Linguistic demography can influence bilingualism and multilingualism in a number of ways. For example, it can affect the rate of bilingualism and multilingualism, the order of bilingualism and multilingualism, and the type of bilingualism and multilingualism that occurs. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "What are the benefits of migration for African countries?",
-                    "Answer": "There are various benefits of migration for African countries, such as brain gain, remittances, and increased cultural awareness."
+                    "Question": "What are the effects of linguistic demography on language contact?",
+                    "Answer": "Linguistic demography can influence language contact in a number of ways. For example, it can affect the rate of contact, the type of contact that occurs, and the type of languages that are in contact. It can also affect how languages are acquired and how they are used."
                 },
                 {
-                    "Question": "What are the risks of migration for African countries?",
-                    "Answer": "There are various risks of migration for African countries, such as brain drain, increased crime, and social upheaval."
-                },
-                {
-                    "Question": "What are some of the success stories of African migrants?",
-                    "Answer": "There are various success stories of African migrants, such as those who have started successful businesses, become professionals, or made significant contributions to their host countries."
-                },
-                {
-                    "Question": "What are some of the challenges faced by African migrants?",
-                    "Answer": "Some of the challenges faced by African migrants include xenophobia, racism, and discrimination; limited access to social services; and difficulty finding employment."
+                    "Question": "What are the effects of linguistic demography on language change?",
+                    "Answer": "Linguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used."
                 }
             ],
-            "Output": "Based on the questions and answers above, the following can be concluded about migrant demographics in Africa:\n\n-There is no definitive answer to the question of how many African migrants there are in total, but the estimate is 24.9 million\n-The top five sending countries of African migrants are Nigeria, Egypt, Ethiopia, Morocco, and South Africa\n-The top five receiving countries of African migrants are South Africa, Egypt, Libya, Algeria, and Tunisia\n-Reasons for African migrants to move include seeking better economic opportunities, fleeing conflict or persecution, or reuniting with family members who have already migrated\n-The main challenges faced by African migrants include xenophobia, racism, and discrimination; limited access to social services; and difficulty finding employment\n-African migrants make significant contributions to their host countries through their labour, skills, and entrepreneurialism\n-The future of African migration is difficult to predict, but it is likely that African migration will continue to grow in the coming years\n-There are various things that can be done to support African migrants, such as increasing access to social services, providing financial assistance, and increasing awareness of the rights and contributions of migrants\n-There are various benefits of migration for African countries, such as brain gain, remittances"
+            "Output": "Linguistic demography is the study of the size, distribution, and composition of language communities. It can provide information on how languages are used and how they change over time. This information can be used to understand how languages are acquired and how they develop.\n\nLinguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used.\n\nLinguistic demography can also influence language acquisition and language use. For example, it can affect the rate of acquisition, the order of acquisition, and the type of acquisition that occurs. It can also affect the frequency of use, the context of use, and the type of use that occurs.\n\nLinguistic demography can also influence language development. For example, it can affect the rate of development, the direction of development, and the type of development that occurs.\n\nLinguistic demography can also influence language diversity. For example, it can affect the number of languages that are spoken, the distribution of languages, and the type of languages that are spoken.\n\nLinguistic demography can also influence language extinction. For example, it can affect the rate of extinction, the order of extinction, and the type of extinction that occurs.\n\nLinguistic demography can also influence bilingualism and multilingualism. For example, it can affect the rate of bilingualism and multilingualism, the order of bilingualism and multilingualism, and the type of bilingualism and multilingualism that occurs.\n\nLinguistic demography can also influence language contact. For example, it can affect the rate of contact, the type of contact that occurs, and the type of languages that are in contact."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/FTFU7qvahJ641eT4pi0omAfd?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/7SkwnXxejhzMj31cyyyLDLYq?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/b8z2cS8U7JSNWXqZJmRv5mVM?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/UVTNZxFrXua0k7mTcaUAzvOZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6DwcHkCwsKdovEynZhKczaav?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/skUAJ1qZRKzFYRoUop9GAyZM?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1BO1enDnDxIbPnly9f0iwB1nWSoEzQjf1?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1a69rrTzjAI9xVWSVywfNe3wrWnt-3kcZ?usp=sharing"
 }

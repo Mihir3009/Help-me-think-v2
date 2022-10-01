@@ -1,156 +1,192 @@
 {
-    "Contributor": "yangyijin",
+    "Contributor": "yerramshivani",
     "Domain": "Tourism",
-    "Task": "Categorize heritage site",
+    "Task": "Itinerary for tour",
     "Prompt": {
-        "pre_question_prompt": "I am an expert on finding heritage sites. I will ask some questions to collect information and then I will use the information to categorize them as heritage sites.",
-        "task_specific_prompt": "Given a site, the following tips will help you to categorize it as a heritage site."
+        "pre_question_prompt": "I am an expert tourist guide. I will ask some questions to collect information and then I will use the information to generate an itinerary for your tour.",
+        "task_specific_prompt": "Write a itinerary using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the site?",
-                    "Answer": "The name of the site is the Palace of Versailles."
+                    "Question": "What are your tour goals?",
+                    "Answer": "My tour goals are to see the sights, learn about the culture and do some adventurous activities with my friends."
                 },
                 {
-                    "Question": "What is the date of the site?",
-                    "Answer": "The date of the site is 1682."
+                    "Question": "What are your preferred tour activities?",
+                    "Answer": "My preferred tour activities would be to visit historical places, party with my friends, and go on some adventures and probably on a hike too."
                 },
                 {
-                    "Question": "What is the country of the site?",
-                    "Answer": "The country of the site is France."
+                    "Question": "What is your preferred tour pace?",
+                    "Answer": "My preferred tour pace would be to take it slow and steady so we can enjoy everything the place has to offer without feeling rushed. I also wouldnt want to miss any places by spending a lot of time at one place."
                 },
                 {
-                    "Question": "What is the significance of the site?",
-                    "Answer": "The significance of the site is that it was the home of the Kings of France for over 100 years."
+                    "Question": "What is your ideal tour group size?",
+                    "Answer": "I am travelling with my family and we are a group of four."
                 },
                 {
-                    "Question": "What is the type of site?",
-                    "Answer": "The type of site is a palace."
+                    "Question": "What is your preferred tour duration?",
+                    "Answer": "I would prefer a tour duration of around 15 days so that we can cover most of the places without feeling too rushed."
                 },
                 {
-                    "Question": "What is the condition of the site?",
-                    "Answer": "The condition of the site is excellent."
+                    "Question": "What is your preferred tour time of year?",
+                    "Answer": "I would prefer a tour during the winter months in India so that we can enjoy the weather as it wouldn\ufffdt be very harsh and its suitable for travel."
                 },
                 {
-                    "Question": "Is the site open to the public?",
-                    "Answer": "Yes, the site is open to the public."
+                    "Question": "What is your preferred tour budget?",
+                    "Answer": "I would prefer a tour budget of around Rs. 30000/- per person so that we can have a comfortable tour without spending too much and also can make most of it."
                 },
                 {
-                    "Question": "What is the name of the organization that manages the site?",
-                    "Answer": "The organization that manages the site is the Palace valley organization."
+                    "Question": "What are your preferred tour accommodations?",
+                    "Answer": "My preferred tour accommodations would be a 3 star hotel with all the basic amenities like a swimming pool, spa, gym, etc. Also, I would prefer if it has a jacuzzi."
                 },
                 {
-                    "Question": "What is the website of the organization that manages the site?",
-                    "Answer": "The website of the organization that manages the site is www.palaceofversailles.org."
+                    "Question": "What are your other preferred tour amenities?",
+                    "Answer": "My other preferred tour amenities would be a tour guide who is knowledgeable about the places we are visiting and can give us a lot of information about the culture and history. Also, I would prefer if the tour guide is friendly and can take us to some hidden places which are not very famous but are worth visiting. I would also prefer local food so I would like to visit the local restaurants and also local handlooms or shops for some shopping."
                 },
                 {
-                    "Question": "What is the contact information for the organization that manages the site?",
-                    "Answer": "The contact information for the organization that manages the site is +33 1 30 21 41 00."
+                    "Question": "What are your dietary restrictions?",
+                    "Answer": "I don\ufffdt have any restrictions and I\ufffdm open to try all the local dishes."
+                },
+                {
+                    "Question": "What are your tour transportation preferences?",
+                    "Answer": "I would prefer a car with a driver who can take us places without hassle."
+                },
+                {
+                    "Question": "Do you have any other preferences or requirements that we should know about?",
+                    "Answer": "Yes we would need extra baggage space."
+                },
+                {
+                    "Question": "Do you have any questions for us?",
+                    "Answer": "No, Im good."
                 }
             ],
-            "Output": "1. Check the date of the site. If the site is more than 100 years old, it is likely a heritage site.\n\n2. Check the country of the site. If the site is located in a country with a long history, it is likely a heritage site.\n\n3. Check the significance of the site. If the site is associated with an important event or person in history, it is likely a heritage site.\n\n4. Check the type of site. If the site is a palace, church, or other type of important building, it is likely a heritage site.\n\n5. Check the condition of the site. If the site is well-preserved and open to the public, it is likely a heritage site.\n"
+            "Output": "Day 1: Arrive in India and check into the hotel. Relax and take a dip in the pool.Day 2: Wake up early and explore the historical places in the city. In the evening, party with your friends in the hotel.Day 3: Today, go on an adventure hike with your friends.Day 4: Visit the local shops and handlooms to do some shopping. In the evening, try the local cuisine in the restaurants.Day 5: Today, visit the hidden places which are not very famous but are worth visiting.Day 6: Relax in the hotel and take some time to enjoy the amenities.Day 7: Wake up early and explore the city some more.Day 8: Today, visit the historical places and learn about the culture.\n\n\nDay 9: Today, go on an adventure hike with your friends.\n\n\nDay 10: Visit the local shops and handlooms to do some shopping. In the evening, try the local cuisine in the restaurants.\n\n\nDay 11: Today, visit the hidden places which are not very famous but are worth visiting.\n\n\nDay 12: Relax in the hotel and take some time to enjoy the amenities."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the site?",
-                    "Answer": "The name of the site is the Taj mahal."
+                    "Question": "What are your tour goals?",
+                    "Answer": "My tour goals are to party a lot and explore the night life at some happening places."
                 },
                 {
-                    "Question": "What is the date of the site?",
-                    "Answer": "The date of the site is 1632."
+                    "Question": "What are your preferred tour activities?",
+                    "Answer": "My preferred tour activities would be sky gazing, hiking and camping."
                 },
                 {
-                    "Question": "What is the country of the site?",
-                    "Answer": "The country of the site is India."
+                    "Question": "What is your preferred tour pace?",
+                    "Answer": "My preferred tour pace would be to take it slow but try and visit all the places on my wishlist."
                 },
                 {
-                    "Question": "What is the significance of the site?",
-                    "Answer": "The significance of the site is that it was the tomb of the then Emperor Shah Jahan's wife Mumtaz.It is believed to be a symbol of love and is one of the seven wonders in the world."
+                    "Question": "What is your ideal tour group size?",
+                    "Answer": "I would prefer a large small and tight-knit group."
                 },
                 {
-                    "Question": "What is the type of site?",
-                    "Answer": "The type of site is a tomb."
+                    "Question": "What is your preferred tour duration?",
+                    "Answer": "I would prefer a tour duration of around 5 days."
                 },
                 {
-                    "Question": "What is the condition of the site?",
-                    "Answer": "The condition of the site is heritage monument."
+                    "Question": "What is your preferred tour time of year?",
+                    "Answer": "I would prefer a tour during the winter months in India so that we can enjoy the weather as it wouldnt be very harsh and its suitable for travel."
                 },
                 {
-                    "Question": "Is the site open to the public?",
-                    "Answer": "Yes, the site is open to the public and has specific visiting hours."
+                    "Question": "What is your preferred tour budget?",
+                    "Answer": "I would prefer a tour budget of around Rs. 10000/- per person as its a short vacation."
                 },
                 {
-                    "Question": "What is the name of the organization that manages the site?",
-                    "Answer": "The organization that manages the site is the Archaeological Survey of India."
+                    "Question": "What are your preferred tour accommodations?",
+                    "Answer": "My preferred tour accommodations would be a 3 star hotel with all the basic amenities like a swimming pool, spa, gym, etc."
                 },
                 {
-                    "Question": "What is the website of the organization that manages the site?",
-                    "Answer": "The website of the organization that manages the site is www.tajmahal.gov.in."
+                    "Question": "What are your other preferred tour amenities?",
+                    "Answer": "My other preferred tour amenities would be a tour guide who is knowledgeable about the places we are visiting and can give us a lot of information about the culture and history. Also, I would prefer if the tour guide is friendly and can take us to some hidden places which are not very famous but are worth visiting. I would also prefer local food so I would like to visit the local restaurants and also local handlooms or shops for some shopping."
                 },
                 {
-                    "Question": "What is the contact information for the organization that manages the site?",
-                    "Answer": "The contact information for the organization that manages the site is +91 917  21 41 00."
+                    "Question": "What are your dietary restrictions?",
+                    "Answer": "I don\ufffdt have any restrictions and I\ufffdm excited to try new dishes."
+                },
+                {
+                    "Question": "What are your tour transportation preferences?",
+                    "Answer;": "I would prefer public transportation."
+                },
+                {
+                    "Question": "Do you have any other preferences or requirements that we should know about?",
+                    "Answer": "Yes we would need extra baggage space."
+                },
+                {
+                    "Question": "Do you have any questions for us?",
+                    "Answer": "No, I\ufffdm good."
                 }
             ],
-            "Output": "1. -The site should have a historical significance.\n-The site should be at least 50 years old. \n-The site should be well preserved. \n-The site should be open to the public. \n-There should be an organization that manages the site.\n"
+            "Output": "Day 1:\n\n\n- Arrive at the airport and meet your tour guide.\n- Take a bus/train/taxi to your hotel.\n- Check into the hotel and relax for a bit.\n- In the evening, head out to explore the nightlife in the city.\n- Visit some bars and clubs and have a great time!\n\n\nDay 2:\n\n\n- After breakfast, head out for a day of exploring the city.\n- Visit some of the famous tourist spots and learn about the history and culture.\n- In the evening, head to a local restaurant for dinner and try some delicious food.\n- Spend the rest of the night stargazing or hiking.\n\n\nDay 3:\n\n\n- Today, head out for a day of hiking and camping.\n- Explore the beautiful nature and take in the fresh air.\n- Spend the night camping under the stars.\n\n\nDay 4:\n\n\n- After breakfast, head out for a day of shopping.\n- Visit some local handlooms and shops and buy some souvenirs.\n- In the evening, head back to the hotel and relax."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the site?",
-                    "Answer": "The name of the site is the Statue of Liberty."
+                    "Question": "What are your tour goals?",
+                    "Answer": "My tour goals are to visit pilgrimages in southern india."
                 },
                 {
-                    "Question": "What is the date of the site?",
-                    "Answer": "The date of the site is 1886."
+                    "Question": "What are your preferred tour activities?",
+                    "Answer": "My preferred tour activities would be visiting temples, and places of religious importance."
                 },
                 {
-                    "Question": "What is the country of the site?",
-                    "Answer": "The country of the site is United states of America."
+                    "Question": "What is your preferred tour pace?",
+                    "Answer": "My preferred tour pace would be to take it slow but try and visit all the places on my list."
                 },
                 {
-                    "Question": "What is the significance of the site?",
-                    "Answer": "The Statue of Liberty is one of the most recognizable statues in the United States. It is often seen as a symbol of freedom and justice, core principles in the United States' Declaration of Independence from the British Empire."
+                    "Question": "What is your ideal tour group size?",
+                    "Answer": "I am travelling with my family and we are a group of four."
                 },
                 {
-                    "Question": "What is the type of site?",
-                    "Answer": "The type of site is a tomb."
+                    "Question": "What is your preferred tour duration?",
+                    "Answer": "I would prefer a tour duration of around 5 days."
                 },
                 {
-                    "Question": "What is the condition of the site?",
-                    "Answer": "The condition of the site is Cultural monument."
+                    "Question": "What is your preferred tour time of year?",
+                    "Answer": "I would prefer a tour during the winter months in India so that we can enjoy the weather as it wouldn\ufffdt be very harsh and its suitable for travel."
                 },
                 {
-                    "Question": "Is the site open to the public?",
-                    "Answer": "The Statue of Liberty Museum and Liberty Island grounds remain fully accessible to all people."
+                    "Question": "What is your preferred tour budget?",
+                    "Answer": "My total budget would be Rs. 50000 as i believe it would suffice."
                 },
                 {
-                    "Question": "What is the name of the organization that manages the site?",
-                    "Answer": "The organization that manages the site is the National Park Service."
+                    "Question": "What are your preferred tour accommodations?",
+                    "Answer": "My preferred tour accommodations would be a 3 star hotel with all the basic amenities and a decent room service."
                 },
                 {
-                    "Question": "What is the website of the organization that manages the site?",
-                    "Answer": "The website of the organization that manages the site is www.nps.gov."
+                    "Question": "What are your other preferred tour amenities?",
+                    "Answer": "My other preferred tour amenities would be a tour guide who is knowledgeable about the places we are visiting and can give us a lot of information about the culture and history of the temples."
                 },
                 {
-                    "Question": "What is the contact information for the organization that manages the site?",
-                    "Answer": "The contact information for the organization that manages the site is +1 917  21 41 00."
+                    "Question": "What are your dietary restrictions?",
+                    "Answer": "I am vegetarian."
+                },
+                {
+                    "Question": "What are your tour transportation preferences?",
+                    "Answer": "I would prefer a car with a driver who can take us places without hassle."
+                },
+                {
+                    "Question": "Do you have any other preferences or requirements that we should know about?",
+                    "Answer": "Yes we would need extra baggage space."
+                },
+                {
+                    "Question": "Do you have any questions for us?",
+                    "Answer": "No, I\ufffdm good."
                 }
             ],
-            "Output": "First, check the date of the site. If the site is more than 100 years old, it is likely a heritage site. \n\nSecond, check the country of the site. If the site is located in a country with a history of protecting heritage sites, it is likely a heritage site. \n\nThird, check the significance of the site. If the site is of historical or cultural importance, it is likely a heritage site. \n\nFourth, check the type of site. If the site is a tomb, temple, or other type of religious or spiritual site, it is likely a heritage site. \n\nFinally, check the condition of the site. If the site is well-preserved and open to the public, it is likely a heritage site.\n"
+            "Output": "Day 1:\n- Arrive in Chennai and check into your hotel\n- In the afternoon, visit the Kapaleeshwarar Temple and the Parthasarathy Temple\n- In the evening, stroll along Marina Beach\n\n\nDay 2:\n- Drive to Pondicherry and visit Auroville, the Sri Aurobindo Ashram, and the Manakula Vinayagar Temple\n- In the evening, walk around the French Colony\n\n\nDay 3:\n- Drive to Tiruvannamalai and visit the Annamalaiyar Temple\n- In the afternoon, hike up Arunachala Hill\n- In the evening, attend the Girivalam procession\n\n\nDay 4:\n- Drive to Kanchipuram and visit the Ekambareswarar Temple, the Kamakshi Amman Temple, and the Varadaraja Temple\n- In the evening, browse the silk shops\n\n\nDay 5:\n- Drive back to Chennai and visit the Sri Vadapalani Andavar Temple\n- In the afternoon, visit the Chennai Museum\n- In the evening, enjoy a traditional Tamil meal"
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/iUAV6IsAVhU0x8QqYE0Shzjk?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/WNkVHNhdPq49jtAFEkronVSV?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/JqLAyaBILlbGG8xvwH2fteoL?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/krsxwwdDuXHuVqoMiLRhAt1n?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/W8MhPkCQJtfIzBho4vnyR6kg?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/XHWmFCnW6bRguTf91Hg0YKOV?model=text-davinci-002"
     ],
     "screenshot link": [
-        "https://drive.google.com/file/d/1Qd_FtNqsjhvecF9J-oC2c1m5JWYuY5k_/view?usp=sharing",
-        "https://drive.google.com/file/d/1l4MUjPTPEFE1AFBYT8ommM4gvh8q0GD_/view?usp=sharing",
-        "https://drive.google.com/file/d/193r7jRNiVL3xc5GHV4DD3V44AS4XHydK/view?usp=sharing"
+        "https://drive.google.com/file/d/1lPuQceS5vGXMrp3lzmKsDo5A5OOgAtUk/view?usp=sharing",
+        "https://drive.google.com/file/d/1PcrAqpBMyis3QvarQfV7DaYMPZXpd4x9/view?usp=sharing",
+        "https://drive.google.com/file/d/1i5IbvlHQDWBYrf4Kegd0ZAx9URKx902n/view?usp=sharing"
     ]
 }

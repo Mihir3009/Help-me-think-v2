@@ -1,152 +1,152 @@
 {
-    "Contributor": "yangyijin",
+    "Contributor": "sinhasakshi",
     "Domain": "Radio and Television",
-    "Task": "Task_1_late_night_TV_show_recommendation",
+    "Task": "Task_1_name_of_song_based_on_mood",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in suggesting a late night TV show. I will ask some questions to collect information and then I will use the information to predict a late night TV show.",
-        "task_specific_prompt": "Suggest a late night TV show using the questions and answers above."
+        "pre_question_prompt": "I am an expert in suggesting the name of the song depending on your mood right now. I will ask some questions to collect information and then I will use the information to suggest name of the song.",
+        "task_specific_prompt": "Suggest a name of the song using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What are some of your favorite topics?",
-                    "Answer": "My favorite topics include comedy, news, and politics."
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling happy and content."
                 },
                 {
-                    "Question": "What are some of your favorite comedians?",
-                    "Answer": "My favorite comedians include Jimmy Fallon, Seth Meyers, and Trevor Noah."
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am spending time with my family."
                 },
                 {
-                    "Question": "Do you prefer light-hearted or serious programming?",
-                    "Answer": "I prefer light-hearted programming."
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning to go back to school and get my degree."
                 },
                 {
-                    "Question": "What time do you usually go to bed?",
-                    "Answer": "I usually go to bed at 11pm."
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I believe that love is the most important thing in life."
                 },
                 {
-                    "Question": "Do you have any preferred networks?",
-                    "Answer": "I prefer network television over cable television."
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is green."
                 },
                 {
-                    "Question": "Do you have any other preferred genres?",
-                    "Answer": "My other preferred genres include talk shows and game shows."
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is summer."
                 },
                 {
-                    "Question": "Do you have any preferred hosts?",
-                    "Answer": "I prefer hosts who are funny and personable."
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is sushi."
                 },
                 {
-                    "Question": "What age group are you in?",
-                    "Answer": "I am in my 20s."
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is reading."
                 },
                 {
-                    "Question": "Do you live in a city or a rural area?",
-                    "Answer": "I live in a city."
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the beach."
                 },
                 {
-                    "Question": "Do you have any other preferences?",
-                    "Answer": "I prefer shows that are live and interactive."
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is country"
                 }
             ],
-            "Output": "I would suggest The Tonight Show Starring Jimmy Fallon."
+            "Output": "The song that I would suggest is Here Comes the Sun by The Beatles."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are some of your favorite topics?",
-                    "Answer": "My favorite topics include horror, mystery, and thriller."
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling sad and lonely."
                 },
                 {
-                    "Question": "What are some of your favorite comedians?",
-                    "Answer": "My favorite comedians include Ellen Lee DeGeneres, James Edward Franco, and Howard Allan Stern."
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am watching a movie."
                 },
                 {
-                    "Question": "Do you prefer light-hearted or serious programming?",
-                    "Answer": "I prefer serious programming."
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning maintain a work-life balance."
                 },
                 {
-                    "Question": "What time do you usually go to bed?",
-                    "Answer": "I usually go to bed at 12pm."
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I believe that love is life."
                 },
                 {
-                    "Question": "Do you have any preferred networks?",
-                    "Answer": "I prefer cable television over network television."
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is grey."
                 },
                 {
-                    "Question": "Do you have any other preferred genres?",
-                    "Answer": "My other preferred genres include reality shows and drama shows."
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is winter."
                 },
                 {
-                    "Question": "Do you have any preferred hosts?",
-                    "Answer": "I prefer hosts who are bold and progressive."
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is soup."
                 },
                 {
-                    "Question": "What age group are you in?",
-                    "Answer": "I am in my 50s."
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is traveling."
                 },
                 {
-                    "Question": "Do you live in a city or a rural area?",
-                    "Answer": "I live in a city."
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the mountains."
                 },
                 {
-                    "Question": "Do you have any other preferences?",
-                    "Answer": "I prefer shows that are current and informative."
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is jazz."
                 }
             ],
-            "Output": "My suggestion for a late night TV show is the Daily Show with Trevor Noah. It is a current and informative show that is perfect for people who want to stay up to date on the latest news. Additionally, Trevor Noah is a progressive and bold host that appeals to a wide range of viewers."
+            "Output": "The song I would suggest is Sad and Lonely by Billie Holiday."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are some of your favorite topics?",
-                    "Answer": "My favorite topics include documentaries, biographies, and history."
+                    "Question": "What kind of mood are you in right now?",
+                    "Answer": "I am feeling excited and chirpy."
                 },
                 {
-                    "Question": "What are some of your favorite comedians?",
-                    "Answer": "My favorite comedians include James Eugene Carrey, Jon Stewart, and David Michael Letterman."
+                    "Question": "What are you doing right now?",
+                    "Answer": "I am dancing to my favorite song."
                 },
                 {
-                    "Question": "Do you prefer light-hearted or serious programming?",
-                    "Answer": "I prefer serious programming."
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am planning to get a promotion."
                 },
                 {
-                    "Question": "What time do you usually go to bed?",
-                    "Answer": "I usually go to bed at 8pm."
+                    "Question": "What are your thoughts on love?",
+                    "Answer": "I don't believe in love."
                 },
                 {
-                    "Question": "Do you have any preferred networks?",
-                    "Answer": "I prefer cable television over network television."
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is red."
                 },
                 {
-                    "Question": "Do you have any other preferred genres?",
-                    "Answer": "My other preferred genres include historical shows and biographical shows."
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is summer."
                 },
                 {
-                    "Question": "Do you have any preferred hosts?",
-                    "Answer": "I prefer hosts who are knowledgable and informative."
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is dumplings."
                 },
                 {
-                    "Question": "What age group are you in?",
-                    "Answer": "I am in my 70s."
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is sketching."
                 },
                 {
-                    "Question": "Do you live in a city or a rural area?",
-                    "Answer": "I live in a rural area."
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is Iceland."
                 },
                 {
-                    "Question": "Do you have any other preferences?",
-                    "Answer": "I prefer shows that are factual and non fictional."
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is hip hop."
                 }
             ],
-            "Output": "The show that I would suggest is The Daily Show with Jon Stewart."
+            "Output": "The song that I would suggest is Can't Stop the Feeling! by Justin Timberlake."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/RcnlE01o8DCylrPv8IAv6SUS?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/itttmXp9YA0sKlnp64PdSkXW?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/PzfsCRN2rlvBH3pBSr478bAw?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/R2PxQAy67CoYZaCt75IYfYqJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Kt9D3DEW8JKAtVtIr5O7w71K?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9G4g0rZUR3S185yzexoaqiVP?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1mCKEW8VTWnPHRm_XrkNcBICP0bRpBxYz?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1E-7BQSiVdV8fXmP8lOCBgNl9bWOLcR2L?usp=sharing"
 }
