@@ -1,0 +1,151 @@
+{
+    "Domain": "Profession",
+    "Task": "use the information to predict the future scope of your profession",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert professional analyzer. I will ask some questions to collect information and then I will use the information to predict the future scope of your profession.",
+        "task_specific_prompt": "Write a prediction of the future scope of my profession using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your profession?",
+                    "Answer": "I am a Software Developer."
+                },
+                {
+                    "Question": "Where do you work?",
+                    "Answer": "I work for a software company called Google."
+                },
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "My job title is Software Development Engineer."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "My responsibilities include designing, developing, testing, and deploying software applications."
+                },
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have a Bachelor's degree in Computer Science."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "My skills include programming, software development, and computer science. I am also skilled in Machine Learning, specifically in NLP."
+                },
+                {
+                    "Question": "What are your future career goals?",
+                    "Answer": "My future career goals include continuing to work as a software developer for Google, and eventually becoming a software development manager."
+                },
+                {
+                    "Question": "What is the future scope of your profession?",
+                    "Answer": "The future scope of my profession is very good. The demand for software developers is expected to grow at a rapid pace in the next few years."
+                },
+                {
+                    "Question": "What are the future career opportunities for software developers?",
+                    "Answer": "There will be many future career opportunities for software developers, especially in the area of Machine Learning."
+                },
+                {
+                    "Question": "What is the future scope of your company?",
+                    "Answer": "Google is expected to continue to grow at a rapid pace in the next few years."
+                }
+            ],
+            "Output": "The future scope of my profession is very good. The demand for software developers is expected to grow at a rapid pace in the next few years. There will be many future career opportunities for software developers, especially in the area of Machine Learning. Google is expected to continue to grow at a rapid pace in the next few years."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your profession?",
+                    "Answer": "I am a Artwork grader."
+                },
+                {
+                    "Question": "Where do you work?",
+                    "Answer": "I work at the French Art Museum."
+                },
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "My job title is Art Grader."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "My responsibilities include maintaining artwork,  grading new art pieces, and deciding whether to display the new art pieces."
+                },
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have a Bachelor's degree in Visual Arts."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "My skills include creating digital and traditional artwork."
+                },
+                {
+                    "Question": "What are your future career goals?",
+                    "Answer": "My future career goals include continuing to work in the field of art and continue maintaining the high standards expected in the artwork present at the museum."
+                },
+                {
+                    "Question": "What is the future scope of your profession?",
+                    "Answer": "The future scope of my profession is pretty dull. The demand for traditional artwork is decreasing day by day with the increase in people preferring digital artwork collections."
+                },
+                {
+                    "Question": "What are the future career opportunities for software developers?",
+                    "Answer": "Future career opportunities for artists are quite limited. An artist may choose to continue working on a single style or artwork or may choose to work on different forms of art to maintain constant revenue."
+                },
+                {
+                    "Question": "What is the future scope of your company?",
+                    "Answer": "The French Art Museum is expected to have around 2 million visitors in the next year. Though the future of the Museum is good, the artists and art graders would have a tough time finding alternative jobs."
+                }
+            ],
+            "Output": "The future scope of my profession is quite limited. The demand for traditional artwork is decreasing day by day with the increase in people preferring digital artwork collections. Future career opportunities for artists are quite limited. An artist may choose to continue working on a single style or artwork or may choose to work on different forms of art to maintain constant revenue."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your profession?",
+                    "Answer": "I am a Professional Photographer."
+                },
+                {
+                    "Question": "Where do you work?",
+                    "Answer": "I work at a private media group."
+                },
+                {
+                    "Question": "What is your job title?",
+                    "Answer": "My job title is Wildlife Photographer."
+                },
+                {
+                    "Question": "What are your responsibilities?",
+                    "Answer": "My responsibilities include capturing photos and videos of animals and wildlife which is broadcasted in the media."
+                },
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have a Bachelor's degree in Arts."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "My skills include working with professional photography equipment, capturing images and videos, and performing image corrections."
+                },
+                {
+                    "Question": "What are your future career goals?",
+                    "Answer": "My future career goals include continuing to work in the field of photography to capture unique photos and videos of the highest quality for media broadcasting."
+                },
+                {
+                    "Question": "What is the future scope of your profession?",
+                    "Answer": "The future scope of my profession is good. With the increasing adoption of internet technology, more and more viewers consume content leading to an increase in revenue."
+                },
+                {
+                    "Question": "What are the future career opportunities for software developers?",
+                    "Answer": "There are many future career opportunities for photographers. A photographer can switch between multiple photography fields such as Nature Photography, Studio Photography, or can even join major media production firms."
+                },
+                {
+                    "Question": "What is the future scope of your company?",
+                    "Answer": "The future scope of my company is brilliant. The increase in the number of viewers in recent years has provided a huge revenue boost."
+                }
+            ],
+            "Output": "The future scope of my profession is good. With the increasing adoption of internet technology, more and more viewers consume content leading to an increase in revenue. There are many future career opportunities for photographers. A photographer can switch between multiple photography fields such as Nature Photography, Studio Photography, or can even join major media production firms. The future scope of my company is brilliant. The increase in the number of viewers in recent years has provided a huge revenue boost."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/nINploza3NAIokWVZNgW6cz7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TmyGjrI05o6lRe1b3Cpy6WNO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/HwnIhfhwbvc7UOEfNCGjAvHY?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Sb-Mu09AI12mD-A56zFkY8AsdAZYxa1K?usp=sharing"
+}

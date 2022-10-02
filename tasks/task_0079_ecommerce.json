@@ -1,0 +1,152 @@
+{
+    "Domain": "Ecommerce",
+    "Task": "Generate product taxonomy",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in generating product taxonomy. I will ask some questions to collect information and then I will use the information to generate the product taxonomy.",
+        "task_specific_prompt": "Write a product taxonomy using the questions and answers above. Include all useful information."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a fantasy book written for children."
+                },
+                {
+                    "Question": "What are the different elements of the product?",
+                    "Answer": "The different elements of the product are the characters, the setting, the plot, and the illustrations."
+                },
+                {
+                    "Question": "What are the different ways that the product can be used?",
+                    "Answer": "The product can be used as a bedtime story, as a teaching tool, or as a source of entertainment."
+                },
+                {
+                    "Question": "What are the different ways that the product can be organized?",
+                    "Answer": "The product can be organized by theme, by character, by setting, or by plot."
+                },
+                {
+                    "Question": "What are the different ways that the product can be accessed?",
+                    "Answer": "The product can be accessed online, in a physical book format, or through an audio book."
+                },
+                {
+                    "Question": "What are the different ways that the product can be distributed?",
+                    "Answer": "The product can be distributed online, in a physical book format, or through an audio book."
+                },
+                {
+                    "Question": "What are the different ways that the product can be promoted?",
+                    "Answer": "The product can be promoted online, through word-of-mouth, or through advertisements."
+                },
+                {
+                    "Question": "What are the different target audiences for the product?",
+                    "Answer": "The target audiences for the product are children, parents, and educators."
+                },
+                {
+                    "Question": "What are the different features of the product?",
+                    "Answer": "The features of the product include the length of the book, the number of pages, the number of illustrations, the type of binding, and the price."
+                },
+                {
+                    "Question": "What are the different benefits of the product?",
+                    "Answer": "The benefits of the product include the entertainment value, the educational value, and the ability to engage the imagination."
+                }
+            ],
+            "Output": "Write a product taxonomy using the questions and answers above. Include all useful information. Fantasy Book for Children -Characters -Setting -Plot -Illustrations Uses: -Bedtime story -Teaching tool -Source of entertainment Organization: -Theme -Character -Setting -Plot Access:  -Online -Physical book -Audio book Distribution -Online -Physical book -Audio book Promotion: -Online -Word-of-mouth -Advertisements Target Audience: -Children -Parents -Educators Features: -Length of book -Number of pages -Number of illustrations -Type of binding -Price Benefits: -Entertainment value -Educational value -Ability"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a dress designed by women."
+                },
+                {
+                    "Question": "What are the different elements of the product?",
+                    "Answer": "The different elements of the product are the design, the cloth type, and the price."
+                },
+                {
+                    "Question": "What are the different ways that the product can be used?",
+                    "Answer": "The product can be worn during parties and weddings."
+                },
+                {
+                    "Question": "What are the different ways that the product can be organized?",
+                    "Answer": "The product can be organized by design, visual appeal, or by setting."
+                },
+                {
+                    "Question": "What are the different ways that the product can be accessed?",
+                    "Answer": "The product can be accessed online, or in the nearest Walmart store."
+                },
+                {
+                    "Question": "What are the different ways that the product can be distributed?",
+                    "Answer": "The product can be distributed online,  or in the nearest Walmart store."
+                },
+                {
+                    "Question": "What are the different ways that the product can be promoted?",
+                    "Answer": "The product can be promoted through the opinion of people, or through advertisements by celebrities."
+                },
+                {
+                    "Question": "What are the different target audiences for the product?",
+                    "Answer": "The target audiences for the product are teen girls and women."
+                },
+                {
+                    "Question": "What are the different features of the product?",
+                    "Answer": "The fatures of the product include stunning design with a slit at the bottom, lustrous cloth material at affordable price."
+                },
+                {
+                    "Question": "What are the different benefits of the product?",
+                    "Answer": "The benefits of the product include the feeling of being comfortable and showing elegance where its needed."
+                }
+            ],
+            "Output": "-Product: Dress -Design: Different Elements -Can be used for: Parties and Weddings -Organized by: Design, Visual appeal, or by setting -Accessible: Online or in store -Distributed: Online or in store -Promoted: By people or through advertisements -Target Audience: Teen girls and women -Features: Stunning design, slit at bottom, lustrous cloth material, affordable price -Benefits: Feeling of being comfortable, showing elegance"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a laptop."
+                },
+                {
+                    "Question": "What are the different elements of the product?",
+                    "Answer": "The different elements of the product are the design, the build type, the specifications and the price."
+                },
+                {
+                    "Question": "What are the different ways that the product can be used?",
+                    "Answer": "The product can be used by professionals for business, gaming and personal use."
+                },
+                {
+                    "Question": "What are the different ways that the product can be organized?",
+                    "Answer": "The product can be organized by design, features, or by price."
+                },
+                {
+                    "Question": "What are the different ways that the product can be accessed?",
+                    "Answer": "The product can be accessed online, or in the nearest manufacturer's store."
+                },
+                {
+                    "Question": "What are the different ways that the product can be distributed?",
+                    "Answer": "The product can be distributed online,  or in the nearest Target store."
+                },
+                {
+                    "Question": "What are the different ways that the product can be promoted?",
+                    "Answer": "The product can be promoted through the opinion of tech-savvy people, or through advertisements by celebrities."
+                },
+                {
+                    "Question": "What are the different target audiences for the product?",
+                    "Answer": "The target audiences for the product are software professionals, businessmen and gamers."
+                },
+                {
+                    "Question": "What are the different features of the product?",
+                    "Answer": "The features of the product include stunning design with 16GB RAM and 512 GB SSD processed by Intel i7 9th gen which comes at an affordable price."
+                },
+                {
+                    "Question": "What are the different benefits of the product?",
+                    "Answer": "The benefits of the product include tasks done faster than ever before, great value for money"
+                }
+            ],
+            "Output": "-Laptop --Design --Build type --Specifications --Price -Use --Professional --Business --Gaming --Personal -Organize --Design --Features --Price -Access --Online --Manufacturer's store -Distribute --Online --Target store -Promote --Opinion of tech-savvy people --Advertisements by celebrities -Target audience --Software professionals --Businessmen --Gamers -Features --Stunning design --16GB RAM --512 GB SSD --Intel i7 9th gen -Benefits --Tasks done faster than ever before --Great value for money"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/LrJAqWeODCJzvsDSBJ9fq1Os?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/giiZJNPS8WVMs30PKj90TLFL?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ONgFNlbAT8eTWp45ejbHFWKq?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1NQ-6qDksqYBhqaJo9cr4EottyU87_WQX?usp=sharing"
+}
+

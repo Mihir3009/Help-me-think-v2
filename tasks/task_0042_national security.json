@@ -1,0 +1,147 @@
+{
+    "Domain": "National Security",
+    "Task": "analysing dimensions of national security",
+    "Prompt": {
+        "pre_question_prompt": "I am analysing dimensions of national security. I will ask some questions to collect information and then I will use the information to study national security.",
+        "task_specific_prompt": ""
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main threats to national security?",
+                    "Answer": "The main threats to national security include terrorism, espionage, cyber attacks, and natural disasters."
+                },
+                {
+                    "Question": "How do these threats impact national security?",
+                    "Answer": "These threats can impact national security by causing physical or economic damage, disrupting critical infrastructure, or harming people."
+                },
+                {
+                    "Question": "What are the government's national security priorities?",
+                    "Answer": "The government’s national security priorities include protecting the country from terrorist attacks, safeguarding critical infrastructure, and responding to natural disasters."
+                },
+                {
+                    "Question": "What policies and measures does the government take to protect national security?",
+                    "Answer": "The government takes a number of policies and measures to protect national security, including intelligence gathering, law enforcement, and military action."
+                },
+                {
+                    "Question": "What is the role of the public in national security?",
+                    "Answer": "The public plays an important role in national security by being aware of potential threats and reporting suspicious activity."
+                },
+                {
+                    "Question": "What is the role of the private sector in national security?",
+                    "Answer": "The private sector also plays an important role in national security by developing and implementing security measures, such as security cameras and cyber security systems."
+                },
+                {
+                    "Question": "What are the challenges in protecting national security?",
+                    "Answer": "Some of the challenges in protecting national security include the constantly changing nature of threats, the need for cooperation among different government agencies, and the challenge of balancing security with civil liberties."
+                },
+                {
+                    "Question": "How is national security changing?",
+                    "Answer": "National security is changing in response to the evolving nature of threats. The government is increasingly relying on the private sector to help protect national security, and the public is playing a more active role in national security."
+                },
+                {
+                    "Question": "What are the future challenges for national security?",
+                    "Answer": "The future challenges for national security include the continued threat of terrorism, the proliferation of cyber attacks, and the threat of natural disasters."
+                },
+                {
+                    "Question": "What is the role of technology in national security?",
+                    "Answer": "Technology plays an important role in national security by providing the government with tools to gather intelligence, monitor activities, and respond to threats."
+                }
+            ],
+            "Output": "The main threats to national security include terrorism, espionage, cyber attacks, and natural disasters. These threats can impact national security by causing physical or economic damage, disrupting critical infrastructure, or harming people. The government’s national security priorities include protecting the country from terrorist attacks, safeguarding critical infrastructure, and responding to natural disasters. The government takes a number of policies and measures to protect national security, including intelligence gathering, law enforcement, and military action. The public plays an important role in national security by being aware of potential threats and reporting suspicious activity. The private sector also plays an important role in national security by developing and implementing security measures, such as security cameras and cyber security systems. Some of the challenges in protecting national security include the constantly changing nature of threats, the need for cooperation among different government agencies, and the challenge of balancing security with civil liberties. National security is changing in response to the evolving nature of threats. The government is increasingly relying on the private sector to help protect national security, and the public is playing a more active role in national security. The future challenges for national security include the continued threat of terrorism, the proliferation of cyber attacks, and the threat of natural disasters."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the dimensions of national security?",
+                    "Answer": "The dimensions of national security include political, infrastructure, economic, computer, ecological, and physical security."
+                },
+                {
+                    "Question": "What are the main threats to each dimension of national security?",
+                    "Answer": "The main threats to each dimension of national security vary depending on the specific dimension. For example, the main threats to political security may include coups, revolutions, and civil wars, while the main threats to economic security may include inflation, recession, and trade deficits."
+                },
+                {
+                    "Question": "What are the main goals of national security policy?",
+                    "Answer": "The main goals of national security policy are to protect the country from external and internal threats and to promote the country's interests abroad."
+                },
+                {
+                    "Question": "What are the main tools of national security policy?",
+                    "Answer": "The main tools of national security policy include diplomacy, economic sanctions, military force, and intelligence gathering."
+                },
+                {
+                    "Question": " What are the main challenges to national security?",
+                    "Answer": "The main challenges to national security include terrorism, proliferation of weapons of mass destruction, cyber attacks, and natural disasters."
+                },
+                {
+                    "Question": "What is the role of the government in national security?",
+                    "Answer": "The role of the government in national security is to protect the country from external and internal threats, to promote the country's interests abroad, and to provide for the common defence."
+                },
+                {
+                    "Question": "What is the role of the military in national security?",
+                    "Answer": "The role of the military in national security is to protect the country from external threats, to provide for the common defence, and to support the civilian authorities in times of emergency."
+                },
+                {
+                    "Question": "What is the role of intelligence agencies in national security?",
+                    "Answer": "The role of intelligence agencies in national security is to gather and analyse information about external and internal threats, to provide intelligence to the government and the military, and to carry out covert operations."
+                },
+                {
+                    "Question": "What is the role of the media in national security?",
+                    "Answer": "The role of the media in national security is to provide information to the public about national security threats and policies, to report on the activities of the government and the military, and to serve as a watchdog against government abuses."
+                },
+                {
+                    "Question": "What is the role of the private sector in national security?",
+                    "Answer": "The role of the private sector in national security is to provide goods and services to the government and the military, to develop and deploy new technologies, and to invest in research and development."
+                }
+            ],
+            "Output": "National security is a broad concept that encompasses a range of different issues and concerns. The dimensions of national security include political, economic, social, cultural, environmental, and military security. The main threats to national security vary depending on the specific dimension. For example, the main threats to political security may include coups, revolutions, and civil wars, while the main threats to economic security may include inflation, recession, and trade deficits. The main goals of national security policy are to protect the country from external and internal threats and to promote the country's interests abroad. The main tools of national security policy include diplomacy, economic sanctions, military force, and intelligence gathering. The main challenges to national security include terrorism, proliferation of weapons of mass destruction, cyber attacks, and natural disasters. The role of the government in national security is to protect the country from external and internal threats, to promote the country's interests abroad, and to provide for the common defence. The role of the military in national security is to protect the country from external threats, to provide for the common defence, and to support the civilian authorities in times of emergency. The role of intelligence agencies in national security is to gather and analyse information about external and internal threats, to provide intelligence to the government and the military, and to carry out covert operations. The role of the media in national security is to provide information to the public about national security threats and policies, to report on the activities of the government and the military, and to serve as a watchdog against government abuses. The role of the private sector in national security is to provide goods and services to the government and the military, to develop and deploy new technologies, and to invest in research and development."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How national security affects public peace?",
+                    "Answer": "National security affects public peace in a variety of ways. It can help to deter crime and terrorism, and protect citizens from harm. It can also help to resolve conflicts and build trust between different groups within a society."
+                },
+                {
+                    "Question": "What are the benefits of national security?",
+                    "Answer": "The benefits of national security include deterring crime and terrorism, protecting citizens from harm, and resolving conflicts. It can also help to build trust between different groups within a society."
+                },
+                {
+                    "Question": "What are the costs of national security?",
+                    "Answer": "The costs of national security can include economic costs, such as the cost of maintaining a military force, and social costs, such as the loss of civil liberties."
+                },
+                {
+                    "Question": "How has national security changed over time?",
+                    "Answer": "National security has changed over time in response to changes in the international environment and the development of new technologies."
+                },
+                {
+                    "Question": "What challenges does national security face in the future?",
+                    "Answer": "Some challenges that national security may face in the future include the spread of nuclear weapons, the growth of international terrorism, and the rise of new technological threats."
+                },
+                {
+                    "Question": "What policies should be adopted to improve national security?",
+                    "Answer": "There is no easy answer to this question, as the best policies to improve national security will vary depending on the specific threats and challenges faced by a country."
+                },
+                {
+                    "Question": "What role should the international community play in national security?",
+                    "Answer": "The role of the international community in national security is to promote peace and stability around the world."
+                },
+                {
+                    "Question": "What is the relationship between national security and human rights?",
+                    "Answer": "The relationship between national security and human rights is complex. On the one hand, national security can be used to justify violating human rights, such as through the use of torture. On the other hand, human rights can help to promote national security, by protecting the rights of minorities and promoting social cohesion."
+                },
+                {
+                    "Question": "What is the relationship between national security and the environment?",
+                    "Answer": "The relationship between national security and the environment is complex. On the one hand, environmental problems can pose a threat to national security, such as through the effects of climate change. On the other hand, environmental protection can help to promote national security, by preventing environmental disasters and protecting vital resources."
+                },
+                {
+                    "Question": "What is the relationship between national security and the economy?",
+                    "Answer": "The relationship between national security and the economy is complex. On the one hand, economic problems can pose a threat to national security, such as through the effects of a recession. On the other hand, a strong economy can help to promote national security, by providing the resources needed to fund national security measures."
+                }
+            ],
+            "Output": "National security refers to the security of a nation state, including its citizens, economy, and infrastructure. It encompasses a wide range of issues, including military security, economic security, environmental security, and social security. Military security refers to the protection of a nation state from military threats. This can include the development and maintenance of a strong military force, as well as the implementation of policies to reduce the risk of military conflict. Economic security refers to the protection of a nation state's economy from external threats. This can include the development of policies to promote economic stability and growth, as well as the implementation of trade and investment barriers to protect domestic industries. Environmental security refers to the protection of a nation state from environmental threats. This can include the development of policies to protect the environment, as well as the implementation of measures to reduce the impact of environmental problems such as climate change. Social security refers to the protection of a nation state's citizens from social threats. This can include the development of policies to promote social cohesion, as well as the implementation of measures to protect the rights of minorities."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/pAIdJCNeAvG4OziImX1mKQj6?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1nwyNVIGtFEqgxGxqAQWtLaLIEAnw9aX5?usp=sharing"
+}

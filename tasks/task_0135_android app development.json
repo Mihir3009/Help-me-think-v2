@@ -1,0 +1,151 @@
+{
+    "Domain":"Android App Development",
+    "Task":"App Improvements",
+    "Prompt":{
+        "pre_question_prompt":"I am an expert in comparing different android applications. I will ask some questions to collect information and then I will use the information to review similar apps and suggest some improvements to the new android app.",
+        "task_specific_prompt":"Write some pros and cons of the current app using the questions and answers above. Also, suggest some improvements to make the app better."
+    },
+    "Instances":[
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of your app?",
+                    "Answer":"The name of my app is EatIndoors."
+                },
+                {
+                    "Question":"What is the purpose of your app?",
+                    "Answer":"The purpose of my app is to help people find restaurants that offer delivery and takeout options."
+                },
+                {
+                    "Question":"How does your app work?",
+                    "Answer":"After the user enters their location, the app displays a list of restaurants in the area that offer delivery and takeout options. Users can filter the results by cuisine, price, or rating."
+                },
+                {
+                    "Question":"What are the main features of your app?",
+                    "Answer":"The main features of my app are the ability to search for restaurants by location, cuisine, price, or rating."
+                },
+                {
+                    "Question":"What makes your app unique?",
+                    "Answer":"There are a few things that make my app unique. First, we offer a wide range of cuisines to choose from. Second, users can filter the results by price, which is something that not all apps offer. Third, our rating system is based on reviews from trusted sources, so users can be sure that they're getting accurate information."
+                },
+                {
+                    "Question":"Who is your target audience?",
+                    "Answer":"Our target audience is anyone who is looking for a delivery or takeout option from a restaurant."
+                },
+                {
+                    "Question":"How do you plan to monetize your app?",
+                    "Answer":"We plan to monetize our app by charging a subscription fee and also commission from the restaurants."
+                },
+                {
+                    "Question":"What are your long-term goals for your app?",
+                    "Answer":"Our long-term goals are to become the #1 app for delivery and takeout options and to help people save time and money when they're looking for a restaurant."
+                },
+                {
+                    "Question":"What are your thoughts on the current state of the app market?",
+                    "Answer":"The current state of the app market is very competitive. There are a lot of apps out there that offer similar services, so it's important to offer something unique that will set your app apart from the rest."
+                },
+                {
+                    "Question":"What do you think are the most important factors to consider when developing an app?",
+                    "Answer":"There are a few factors that I think are important to consider when developing an app. First, you need to make sure that your app is giving something unique that will appeal to your target audience. Second, you need to make sure that your app is easy to use and navigate. Third, you need to make sure that your app is compatible with a wide range of devices."
+                }
+            ],
+            "Output":"PROS: -Offers a wide range of cuisines -Users can filter results by price -App is easy to use and navigate CONS: -The app market is very competitive -May be difficult to set the app apart from other similar apps SUGGESTED IMPROVEMENTS: -Offer discounts or coupons to users -Add a section for user reviews and ratings -Make the app available in multiple languages"
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of your app?",
+                    "Answer":"TaxiGo"
+                },
+                {
+                    "Question":"What is the app's primary purpose?",
+                    "Answer":"The primary purpose of TaxiGo is to provide an easy and convenient way for users to book a taxi."
+                },
+                {
+                    "Question":"What are the app's main features?",
+                    "Answer":"The main features of TaxiGo include the ability to book a taxi, view the taxi's location on a map, and pay for the taxi fare."
+                },
+                {
+                    "Question":"What is your target audience?",
+                    "Answer":"The target audience for TaxiGo is people who need to book a taxi."
+                },
+                {
+                    "Question":"What are your competitors?",
+                    "Answer":"Some of the competitors for TaxiGo include Uber, Lyft, and Sidecar."
+                },
+                {
+                    "Question":"What are your app's strengths?",
+                    "Answer":"Some of the strengths of TaxiGo include its simplicity and ease of use."
+                },
+                {
+                    "Question":"What are your app's weaknesses?",
+                    "Answer":"Some of the weaknesses of TaxiGo include its limited features and lack of customer support."
+                },
+                {
+                    "Question":"What are some areas for improvement?",
+                    "Answer":"Some areas for improvement for TaxiGo include adding more features, such as the ability to pay by card, and increasing customer support."
+                },
+                {
+                    "Question":"What is your overall opinion of the app?",
+                    "Answer":"Overall, I think TaxiGo is a decent app, but it could be improved by adding more features and increasing customer support."
+                },
+                {
+                    "Question":"Would you recommend this app to others?",
+                    "Answer":"I would not recommend this app to others as it still lacks some important areas."
+                }
+            ],
+            "Output":"Some pros of TaxiGo include its simplicity and ease of use. However, some cons of the app include its limited features and lack of customer support. To improve the app, I would suggest adding more features, such as the ability to pay by card, and increasing customer support."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of your app?",
+                    "Answer":"Songs24"
+                },
+                {
+                    "Question":"What is the purpose of your app?",
+                    "Answer":"The purpose of this app is to provide users with a way to listen to and download music for free."
+                },
+                {
+                    "Question":"What are the main features of your app?",
+                    "Answer":"The main features of this app are that it is free to use and provides a large selection of songs to choose from."
+                },
+                {
+                    "Question":"How does your app compare to similar apps?",
+                    "Answer":"The main difference between this app and similar apps is that the app is free to use. Other apps may charge a monthly fee or a per-song fee. This app has a larger selection of songs than most other apps."
+                },
+                {
+                    "Question":"What are some potential improvements that could be made to your app?",
+                    "Answer":"Some improvements that could be made to this app include adding more songs, adding a search function, and making the interface more user-friendly."
+                },
+                {
+                    "Question":"What do you think users will like most about your app?",
+                    "Answer":"The thing that users will like most is that it is free to use and provides a large selection of songs to choose from."
+                },
+                {
+                    "Question":"What do you think users will dislike most about your app?",
+                    "Answer":"There is no search function."
+                },
+                {
+                    "Question":"Do you have any concerns about your app?",
+                    "Answer":"The one concern is that there is no search function."
+                },
+                {
+                    "Question":"What do you think users will find most useful about your app?",
+                    "Answer":"It is free to use and provides a large selection of songs to choose from."
+                },
+                {
+                    "Question":"What do you think users will find least useful about your app?",
+                    "Answer":"The least useful thing about my app is no search function."
+                }
+            ],
+            "Output":"PROS: -It is free to use -A large selection of songs to choose from CONS: -There is no search function SUGGESTED IMPROVEMENTS: -Add more songs -Add a search function -Make the interface more user-friendly"
+        }
+    ],
+    "Preset_link":[
+        "https://beta.openai.com/playground/p/Py7Ogs6wUpPiaqxwFlVbzXxF?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/MSwpIJK9HPqwmOnzPCLXhdtA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GdUyXPzRHdWT0trxqzBkDEfz?model=text-davinci-002"
+    ],
+    "screenshot_link":"https://drive.google.com/drive/folders/10M7iQ2PxyIwVJloh9gytB_fR4ap04HLR?usp=sharing"
+}

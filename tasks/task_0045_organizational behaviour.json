@@ -1,0 +1,147 @@
+{
+    "Domain": "ORGANIZATIONAL BEHAVIOUR",
+    "Task": "analyzing organizational behaviour",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in analysing organizational behaviour. I will ask some questions to collect information and then I will use the information to analyze the behaviour of an organisation named Apple.",
+        "task_specific_prompt": "Write a detailed organizational behaviour of Apple using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How would you describe Apple's organizational structure?",
+                    "Answer": "Apple's organizational structure is very centralized, with decisions being made at the top by a small group of executives."
+                },
+                {
+                    "Question": "What do you think are the main drivers of Apple's success?",
+                    "Answer": "There are a few main drivers of Apple's success. One is its innovative and high-quality products. Another is its strong brand and marketing capabilities. And finally, its disciplined execution, which has helped it to consistently deliver strong financial results."
+                },
+                {
+                    "Question": "What do you think are the main challenges facing Apple?",
+                    "Answer": "The main challenges facing Apple are sustaining its high growth rate, dealing with increasing competition, and managing its large and complex supply chain."
+                },
+                {
+                    "Question": "How do you think Apple's organizational structure and culture affects its performance?",
+                    "Answer": "Apple's organizational structure and culture have a big impact on its performance. The company's centralized structure enables it to make quick decisions and move quickly to implement them. And its culture of innovation and discipline helps it to continually develop new products and services that meet the needs of its customers."
+                },
+                {
+                    "Question": "What do you think Apple could do to improve its performance?",
+                    "Answer": "There are a few things Apple could do to improve its performance. One is to continue to invest in research and development to maintain its competitive edge. Another is to expand its presence in emerging markets. And finally, it could continue to focus on operational efficiency to improve its profitability."
+                },
+                {
+                    "Question": "Do you think Apple is a well-run company? Why or why not?",
+                    "Answer": "Apple is a well-run company because of its strong financial results and its ability to consistently innovate and deliver high-quality products."
+                },
+                {
+                    "Question": "What do you think Apple could do to improve its corporate culture?",
+                    "Answer": "Apple could continue to invest in employee training and development to maintain its culture of innovation and discipline."
+                },
+                {
+                    "Question": "What do you think Apple could do to improve its communication with shareholders?",
+                    "Answer": "Apple could improve its communication with shareholders by holding more regular and informative investor relations events."
+                },
+                {
+                    "Question": "What do you think Apple could do to improve its relationships with employees?",
+                    "Answer": "Apple could improve its relationships with employees by continuing to invest in employee training and development, and by communicating its strategy and plans more effectively."
+                },
+                {
+                    "Question": "What do you think Apple could do to improve its relationships with suppliers?",
+                    "Answer": "Apple could improve its relationships with suppliers by providing more transparency into its plans and by working more collaboratively to find solutions to problems."
+                }
+            ],
+            "Output": "Apple is a highly successful company that has been able to achieve strong financial results and consistent innovation. A big part of its success is due to its organizational structure and culture. Apple is very centralized, with decisions being made at the top by a small group of executives. This enables the company to make quick decisions and move quickly to implement them. Apple's culture of innovation and discipline helps it to continually develop new products and services that meet the needs of its customers. The company is also very disciplined in its execution, which has helped it to consistently deliver strong financial results. Despite its successes, Apple faces some challenges that could impact its future performance. One big challenge is sustaining its high growth rate. As the company gets bigger, it becomes more difficult to maintain the same level of growth. Another challenge is dealing with increasing competition. As Apple's market share grows, it becomes a bigger target for competitors. And finally, Apple has to manage its large and complex supply chain. This can be a challenge because Apple needs to maintain high standards for its products while also keeping costs under control. To continue its success, Apple needs to keep investing in research and development to maintain its competitive edge. The company also needs to expand its presence in emerging markets. And finally, it needs to continue to focus on operational efficiency to improve its profitability."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Does Apple give their employees benefits or incentives?",
+                    "Answer": "Yes, Apple offers a variety of benefits and incentives to their employees. These benefits and incentives include medical and dental insurance, a 401(k) retirement savings plan, and employee stock purchase options. Apple also offers a number of perks to their employees, such as free Apple products, gym membership discounts, and tuition reimbursement."
+                },
+                {
+                    "Question": "How does Apple handle employee conflict?",
+                    "Answer": "Apple has a variety of policies and procedures in place to handle employee conflict. These policies and procedures include mediation, conflict resolution training, and a zero-tolerance policy for workplace violence. In addition, Apple has an employee assistance program that provides counseling and support to employees who are experiencing personal or work-related problems."
+                },
+                {
+                    "Question": " What is Apple's policy on employee attendance?",
+                    "Answer": "Apple has a policy of 'no tolerance' for excessive absences. This policy is designed to ensure that employees are productive and meeting the company's high standards. Employees who are absent for more than three days in a row without a doctor's note or other approved excuse will be subject to disciplinary action, up to and including termination."
+                },
+                {
+                    "Question": " What are Apple's expectations for employee dress code?",
+                    "Answer": "Apple has a professional dress code that is business casual. This means that employees are expected to dress in a way that is neat and presentable, but not overly formal. Jeans are typically allowed, but they must be clean and in good condition. Shorts, tank tops, and flip-flops are not allowed."
+                },
+                {
+                    "Question": " How does Apple motivate their employees?",
+                    "Answer": "Apple motivates their employees by offering a variety of benefits and incentives. These benefits and incentives include medical and dental insurance, a 401(k) retirement savings plan, and employee stock purchase options. Apple also offers a number of perks to their employees, such as free Apple products, gym membership discounts, and tuition reimbursement."
+                },
+                {
+                    "Question": " What is Apple's policy on employee development?",
+                    "Answer": "Apple has a policy of investing in employee development. The company offers a number of training and development programs to help employees improve their skills and knowledge. In addition, Apple provides tuition reimbursement for employees who wish to pursue higher education."
+                },
+                {
+                    "Question": " What is Apple's policy on employee privacy?",
+                    "Answer": "Apple has a policy of protecting employee privacy. The company does not share employee information with third parties without the employee's consent. In addition, Apple has a number of security measures in place to protect employee data, such as encryption and password protection."
+                },
+                {
+                    "Question": " What is Apple's policy on employee safety?",
+                    "Answer": "Apple has a policy of protecting employee safety. The company has a number of safety measures in place, such as fire extinguishers, first aid kits, and evacuation procedures. In addition, Apple requires all employees to complete safety training."
+                },
+                {
+                    "Question": " What is Apple's policy on employee relations?",
+                    "Answer": "Apple has a policy of maintaining positive employee relations. The company has a number of programs and initiatives in place to promote employee morale, such as team-building activities, social events, and employee recognition programs. In addition, Apple provides a number of resources to employees to help them resolve personal or work-related problems."
+                },
+                {
+                    "Question": " What is Apple's policy on employee-customer relations?",
+                    "Answer": "Apple has a policy of maintaining positive employee-customer relations."
+                }
+            ],
+            "Output": "Apple is a company that values its employees and works to create a positive work environment. The company offers a variety of benefits and incentives to employees, including medical and dental insurance, a 401(k) retirement savings plan, and employee stock purchase options. Apple also offers a number of perks to employees, such as free Apple products, gym membership discounts, and tuition reimbursement. The company has a policy of 'no tolerance' for excessive absences and requires employees to dress in a business casual manner. Apple motivates employees by offering a variety of benefits and incentives, and invests in employee development by providing training and development programs and tuition reimbursement. The company protects employee privacy and safety and promotes positive employee relations."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Does Apple stress on sociological and psychology issues of their employees?",
+                    "Answer": "Yes, Apple does stress on sociological and psychology issues of their employees. For example, the company has a team of industrial-organizational psychologists who help design Apple's employee selection process and work to ensure that the company's workplace is conducive to employee productivity and satisfaction."
+                },
+                {
+                    "Question": " How does Apple ensure that their employees are productive and satisfied?",
+                    "Answer": "Apple ensures employee productivity and satisfaction through a variety of means, including the offering of employee benefits and development opportunities."
+                },
+                {
+                    "Question": " What are some of the employee benefits and development opportunities offered by Apple?",
+                    "Answer": "Some of the employee benefits offered by Apple include health insurance, paid time off, and retirement savings plans. Development opportunities offered by the company include job training and career development programs."
+                },
+                {
+                    "Question": " Does Apple have any policies or practices in place to promote diversity and inclusion in the workplace?",
+                    "Answer": "The company has a diversity and inclusion council made up of employees from a variety of backgrounds, and it offers training on unconscious bias and cultural competence."
+                },
+                {
+                    "Question": " What are some of the challenges that Apple faces in maintaining a diverse and inclusive workplace?",
+                    "Answer": "Some of the challenges that Apple faces in maintaining a diverse and inclusive workplace include attracting and retaining a diverse workforce, and dealing with unconscious bias and prejudice."
+                },
+                {
+                    "Question": " How does Apple maintain the diversity in the marketplace as well?",
+                    "Answer": "The company offers supplier diversity training to its employees, and it has a goal of sourcing goods and services from a diverse set of suppliers."
+                },
+                {
+                    "Question": " What are some of the challenges that Apple faces in maintaining a diverse supplier base?",
+                    "Answer": "Some of the challenges that Apple faces in maintaining a diverse supplier base include finding suppliers that meet the company's standards for quality and diversity, and maintaining relationships with these suppliers."
+                },
+                {
+                    "Question": " What are some of the ways that Apple has been successful in promoting diversity and inclusion in the workplace?",
+                    "Answer": "Some of the ways that Apple has been successful in promoting diversity and inclusion in the workplace include offering employee benefits and development opportunities, having a diversity and inclusion council, and offering supplier diversity training."
+                },
+                {
+                    "Question": " What challenges does Apple face when competing against companies like Microsoft or Google in the workplace?",
+                    "Answer": "Some of the challenges that Apple faces when competing against companies like Microsoft or Google in the workplace include attracting and retaining top talent, and promoting a culture of innovation."
+                },
+                {
+                    "Question": " How much time does it take to a fresher at Apple to adjust in the workplace?",
+                    "Answer": "It typically takes a fresher at Apple several weeks to a few months to adjust to the workplace."
+                }
+            ],
+            "Output": "Apple is a company that stresses on sociological and psychology issues of their employees. The company has a team of industrial-organizational psychologists who help design Apple's employee selection process and work to ensure that the company's workplace is conducive to employee productivity and satisfaction. Apple ensures employee productivity and satisfaction through a variety of means, including the offering of employee benefits and development opportunities. Some of the employee benefits offered by Apple include health insurance, paid time off, and retirement savings plans. Development opportunities offered by the company include job training and career development programs. The company has a diversity and inclusion council made up of employees from a variety of backgrounds, and it offers training on unconscious bias and cultural competence. Some of the challenges that Apple faces in maintaining a diverse and inclusive workplace include attracting and retaining a diverse workforce, and dealing with unconscious bias and prejudice. The company offers supplier diversity training to its employees, and it has a goal of sourcing goods and services from a diverse set of suppliers. Some of the challenges that Apple faces in maintaining a diverse supplier base include finding suppliers that meet the company's standards for quality and diversity, and maintaining relationships with these suppliers. Some of the ways that Apple has been successful in promoting diversity and inclusion in the workplace include offering employee benefits and development opportunities, having a diversity and inclusion council, and offering supplier diversity training. Some of the challenges that Apple faces when competing against companies like Microsoft or Google in the workplace include attracting and retaining top talent, and promoting a culture of innovation. It typically takes a fresher at Apple several weeks to a few months to adjust to the workplace."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/vdXzDQDIq1naQOg0O7ZOBcu7?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1kGDUOPyEk04O_lpkV9c41fcKVd0lydhC?usp=sharing"
+}

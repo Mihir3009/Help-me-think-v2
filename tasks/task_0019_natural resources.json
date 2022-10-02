@@ -1,0 +1,147 @@
+{
+    "Domain": "Natural Resources",
+    "Task": "As an enviromentalist I want to understand the company energy usages",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert environmentalist. I will ask some questions to collect information and then I will use the information to estimate the natural resources consumed by a company.",
+        "task_specific_prompt": "Use the above questions and answers to create a Report of the company so that I can submit it to the government. Add a few recommendations too."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of your company?",
+                    "Answer": "It has around 1000 employees."
+                },
+                {
+                    "Question": "What are the main products or services of your company?",
+                    "Answer": "The company manufactures and sells electronic products."
+                },
+                {
+                    "Question": "What are the main materials used in your products or services?",
+                    "Answer": "The company uses electronic components and materials."
+                },
+                {
+                    "Question": "How much waste does your company produce each year?",
+                    "Answer": "The company produces around 10,000 tons of waste each year."
+                },
+                {
+                    "Question": "What are the main sources of energy used by your company?",
+                    "Answer": "The company uses electricity and natural gas."
+                },
+                {
+                    "Question": "What are the main transportation modes used by your company?",
+                    "Answer": "The company uses air, rail, and road transportation."
+                },
+                {
+                    "Question": "What are the main types of natural resources used by your company?",
+                    "Answer": "The company uses water, air, land, and minerals."
+                },
+                {
+                    "Question": "What are the main types of environmental impacts caused by your company?",
+                    "Answer": "The company causes air pollution, water pollution, and land pollution."
+                },
+                {
+                    "Question": "What are the main environmental regulations that your company must follow?",
+                    "Answer": "The company must follow air pollution, water pollution, and land pollution regulations."
+                },
+                {
+                    "Question": "What are the main environmental management practices used by your company?",
+                    "Answer": "The company uses environmental impact assessments, environmental management plans, and environmental audits."
+                }
+            ],
+            "Output": "Report: This report provides an estimate of the natural resources consumed by a company with around 1000 employees. The company manufactures and sells electronic products. The main materials used in the products are electronic components and materials. The company produces around 10,000 tons of waste each year. The main sources of energy used by the company are electricity and natural gas. The main transportation modes used by the company are air, rail, and road transportation. The main types of natural resources used by the company are water, air, land, and minerals. The main types of environmental impacts caused by the company are air pollution, water pollution, and land pollution. The main environmental regulations that the company must follow are air pollution, water pollution, and land pollution regulations. The main environmental management practices used by the company are environmental impact assessments, environmental management plans, and environmental audits. Recommendations: The company should continue to use environmental impact assessments, environmental management plans, and environmental audits to reduce its environmental impacts. The company should also consider using renewable sources of energy to reduce its reliance on fossil fuels."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of your company?",
+                    "Answer": "It has around 100 employees."
+                },
+                {
+                    "Question": "What are the main products or services of your company?",
+                    "Answer": "The company manufactures and sells pharmaceutical products."
+                },
+                {
+                    "Question": "What are the main materials used in your products or services?",
+                    "Answer": "The company uses chemical components and materials."
+                },
+                {
+                    "Question": "How much waste does your company produce each year?",
+                    "Answer": "The company produces around 500 tons of waste each year."
+                },
+                {
+                    "Question": "What are the main sources of energy used by your company?",
+                    "Answer": "The company uses electricity."
+                },
+                {
+                    "Question": "What are the main transportation modes used by your company?",
+                    "Answer": "The company uses road transportation."
+                },
+                {
+                    "Question": "What are the main types of natural resources used by your company?",
+                    "Answer": "The company uses water, land, and minerals."
+                },
+                {
+                    "Question": "What are the main types of environmental impacts caused by your company?",
+                    "Answer": "The company causes air pollution and water pollution"
+                },
+                {
+                    "Question": "What are the main environmental regulations that your company must follow?",
+                    "Answer": "The company must follow air pollution and water pollution."
+                },
+                {
+                    "Question": "What are the main environmental management practices used by your company?",
+                    "Answer": "The company uses environmental impact assessments, environmental management plans, and environmental audits. It also adheres to international carbon footprint plans."
+                }
+            ],
+            "Output": "Report on the Environmental Impact of Pharmaceutical Company The company is a pharmaceutical company with 100 employees. The company manufactures and sells pharmaceutical products. The main materials used in the products are chemical components and materials. The company produces 500 tons of waste each year. The main sources of energy used by the company are electricity. The main transportation modes used by the company are road transportation. The main types of natural resources used by the company are water, land, and minerals. The main types of environmental impacts caused by the company are air pollution and water pollution. The main environmental regulations that the company must follow are air pollution and water pollution. The main environmental management practices used by the company are environmental impact assessments, environmental management plans, and environmental audits. The company also adheres to international carbon footprint plans. Recommendations: The company should continue to follow all environmental regulations and management practices. The company should also look for ways to reduce its waste production."
+        },
+        {
+            "QApair": [
+                {
+                  "Question": "What is the size of your company?",
+                  "Answer": "It has around 500 employees."
+                },
+                {
+                  "Question": "What are the main products or services of your company?",
+                  "Answer": "The company manufactures and sells packaged food products."
+                },
+                {
+                  "Question": "What are the main materials used in your products or services?",
+                  "Answer": "The company uses fruits, vegetables, and cooking oils."
+                },
+                {
+                  "Question": "How much waste does your company produce each year?",
+                  "Answer": "The company produces around 1000 tons of waste each year."
+                },
+                {
+                  "Question": "What are the main sources of energy used by your company?",
+                  "Answer": "The company uses electricity and coal."
+                },
+                {
+                  "Question": "What are the main transportation modes used by your company?",
+                  "Answer": "The company uses water and road transportation."
+                },
+                {
+                  "Question": "What are the main types of natural resources used by your company?",
+                  "Answer": "The company uses water, land, and soil."
+                },
+                {
+                  "Question": "What are the main types of environmental impacts caused by your company?",
+                  "Answer": "The company causes air pollution and water pollution."
+                },
+                {
+                  "Question": "What are the main environmental regulations that your company must follow?",
+                  "Answer": "The company must follow air pollution and water pollution."
+                },
+                {
+                  "Question": "What are the main environmental management practices used by your company?",
+                  "Answer": "The company uses environmental impact assessments, environmental management plans, and environmental audits. It also adheres to international carbon footprint plans."
+                }
+              ],
+            "Output": "The company under study is a food manufacturing company with 500 employees. The company uses fruits, vegetables, and cooking oils as main materials in their products. They produce around 1000 tons of waste each year and their main sources of energy are electricity and coal. The company uses water and road transportation as their main transportation modes. The company uses water, land, and soil as their main types of natural resources. The company causes air pollution and water pollution as their main types of environmental impacts. The company must follow air pollution and water pollution regulations. The company uses environmental impact assessments, environmental management plans, and environmental audits as their main environmental management practices. The company adheres to international carbon footprint plans. The company is doing well in terms of environmental management, however, there are a few recommendations that can be made. Firstly, the company should focus on reducing their waste production. Secondly, they should look for alternative sources of energy that are more environmentally friendly. Lastly, they should focus on reducing their transportation emissions."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/6Jjtxl7Mbm9SgfRB3PTqx4Vg?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1-slGkbzLtrNzj2__cJDUz20Hb8FM70fS/view?usp=sharing"
+}

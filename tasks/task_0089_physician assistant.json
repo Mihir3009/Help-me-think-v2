@@ -1,0 +1,150 @@
+{
+    "Domain": "Physician Assistant",
+    "Task": "prescribe medication",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Physician Assistant. I will ask some questions to collect information and then I will use the information to prescribe medication if necessary.",
+        "task_specific_prompt": "Write any medications that I should take using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your symptoms?",
+                    "Answer": "I cough sometimes."
+                },
+                {
+                    "Question": "Do you have a fever?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Do you have any other symptoms?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What are your other symptoms?",
+                    "Answer": "I feel pain in my foot."
+                },
+                {
+                    "Question": "Do you have any other medical conditions?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What are your other medical conditions?",
+                    "Answer": "I have diabetes."
+                },
+                {
+                    "Question": "Do you take any medications?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What medications do you take?",
+                    "Answer": "I take insulin for my diabetes."
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What are your allergies?",
+                    "Answer": "I am allergic to penicillin."
+                }
+            ],
+            "Output": "You should take insulin for your diabetes and avoid penicillin."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your symptoms?",
+                    "Answer": "None."
+                },
+                {
+                    "Question": "When did you first start experiencing these symptoms?",
+                    "Answer": "Never."
+                },
+                {
+                    "Question": "Do you have any other medical conditions?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Are you taking any other medications?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do you have any family history of medical conditions?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What is your family history of medical conditions?",
+                    "Answer": "My family has a history of heart disease, diabetes, and high blood pressure."
+                },
+                {
+                    "Question": "What is your current diet?",
+                    "Answer": "I am currently on a low-carbohydrate diet."
+                },
+                {
+                    "Question": "Do you smoke or drink alcohol?",
+                    "Answer": "No, I do not smoke or drink alcohol."
+                },
+                {
+                    "Question": "Do you have any stress in your life?",
+                    "Answer": "No, I do not have any stress in my life."
+                }
+            ],
+            "Output": "There are no medications that I should take based on the information above."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the patient's name?",
+                    "Answer": "The patient's name is Jack."
+                },
+                {
+                    "Question": "What is the patient's age?",
+                    "Answer": "The patient is 23 years old."
+                },
+                {
+                    "Question": "What is the patient's current medical condition?",
+                    "Answer": "The patient has a cold."
+                },
+                {
+                    "Question": "What is the patient's current medication list?",
+                    "Answer": "The patient is not currently taking any medication."
+                },
+                {
+                    "Question": "What are the patient's allergies?",
+                    "Answer": "The patient does not have any known allergies."
+                },
+                {
+                    "Question": "What is the patient's current weight?",
+                    "Answer": "The patient's current weight is 150 pounds."
+                },
+                {
+                    "Question": "What is the patient's height?",
+                    "Answer": "The patient's height is 5'10."
+                },
+                {
+                    "Question": "What is the patient's current blood pressure?",
+                    "Answer": "The patient's current blood pressure is 120/80 mmHg."
+                },
+                {
+                    "Question": "What is the patient's current heart rate?",
+                    "Answer": "The patient's current heart rate is 70 beats per minute."
+                },
+                {
+                    "Question": "What is the patient's current temperature?",
+                    "Answer": "The patient's current temperature is 98.6 degrees Fahrenheit."
+                }
+            ],
+            "Output": "Based on the information above, the patient should take ibuprofen for pain relief and a decongestant for the cold."
+        }
+        ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/7gRlf0ylEavzJrvJwBVBofJ9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1XQJhHKahmDAQm6bIe20T1Wr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dbrLQiEcCse6BuhcSGE1cjh3?model=text-davinci-002"],
+    "screenshot_link": "https://1drv.ms/u/s!AmqT8OcmiyozhNlCaFkiws1WxqumEg?e=7vtgLw"
+    }
