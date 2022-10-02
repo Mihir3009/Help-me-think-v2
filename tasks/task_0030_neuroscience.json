@@ -1,0 +1,147 @@
+{
+    "Domain": "Neuroscience",
+    "Task": "determine whether a person is likely to succeed if they pursue a career in neuroscience",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Neuroscientist professor.  I will ask some questions to collect information about your temperament and then I will use the information to recommend whether you should pursue a career in neuroscience. Not everyone has the knack for it.",
+        "task_specific_prompt": "Write whether you are inclined or disinclined to recommend this person pursue a career in neuroscience using the questions and answers above. Make sure to give a detailed explanation of your reasoning, and highlight any concerns you may have."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of things interest you?",
+                    "Answer": "I like to build things and solve problems."
+                },
+                {
+                    "Question": "What kind of things do you like to build?",
+                    "Answer": "When I was a kid, I liked to build forts in the woods. Now, I like to work on cars in my spare time."
+                },
+                {
+                    "Question": "What kind of problems do you like to solve?",
+                    "Answer": "I like to solve puzzles and figure out how things work. I also enjoy helping people, so I often try to find ways to make their lives easier."
+                },
+                {
+                    "Question": "Why do you think you would like a career in neuroscience?",
+                    "Answer": "In my view the brain is just a complex machine that we don't yet fully understand. I want to learn what makes it tick and see if I can one day build a better one."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for a successful neuroscientist?",
+                    "Answer": "I think having a good understanding of both the complex biology of the brain as well as the principles of physics and engineering is essential. You also need to be able to think creatively to come up with new ways to study the brain and solve problems."
+                },
+                {
+                    "Question": "What do you think are the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "Ethics. We cannot simply rip apart a brain to see what's going on in the same way we can with an engine."
+                },
+                {
+                    "Question": "Do you think you have the qualities necessary to be a successful neuroscientist?",
+                    "Answer": "I believe so, yes."
+                },
+                {
+                    "Question": "What are your thoughts on the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "I think that while it may seem unethical, studying animals is a necessary lesser evil considering the potential benefits to human society."
+                },
+                {
+                    "Question": "Would you be willing to study animals in your research?",
+                    "Answer": "Yes, I would be willing to study animals in my research."
+                },
+                {
+                    "Question": "What do you think motivates you to work in neuroscience?",
+                    "Answer": "curiosity."
+                }
+            ],
+            "Output": "I am inclined to recommend this person pursue a career in neuroscience. They have a genuine interest in the field and seem to have the necessary qualities for success. My only concern would be their ability to handle the ethical challenges that come with the territory."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of things interest you?",
+                    "Answer": "Painting and playing the violin."
+                },
+                {
+                    "Question": "What kind of things do you like to build?",
+                    "Answer": "Works of art that inspire others."
+                },
+                {
+                    "Question": "What kind of problems do you like to solve?",
+                    "Answer": "How to express my feelings either through music or on canvas in a way that others can relate to."
+                },
+                {
+                    "Question": "Why do you think you would like a career in neuroscience?",
+                    "Answer": "While I have no experience in the area, I am always willing to try new things."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for a successful neuroscientist?",
+                    "Answer": "I am not sure. I don't know any neuroscientists."
+                },
+                {
+                    "Question": "What do you think are the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "Probably learning all the necessary terminology."
+                },
+                {
+                    "Question": "Do you think you have the qualities necessary to be a successful neuroscientist?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "What are your thoughts on the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "I am always up for a challenge, but there are so many unknown unknowns that I am a bit hesitant. "
+                },
+                {
+                    "Question": "Would you be willing to study animals in your research?",
+                    "Answer": "I could never stomach it."
+                },
+                {
+                    "Question": "What do you think motivates you to work in neuroscience?",
+                    "Answer": "Honestly? My parents recommended it because they think I am wasting my potential."
+                }
+            ],
+            "Output": "I am disinclined to recommend this person pursue a career in neuroscience. Their primary interests appear to be in the arts, and they do not seem to have any particular affinity for or interest in solving scientific problems. Additionally, they express some hesitancy and lack of confidence in their ability to succeed in the field."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of things interest you?",
+                    "Answer": "I love paintball and playing hockey."
+                },
+                {
+                    "Question": "What kind of things do you like to build?",
+                    "Answer": "I like to built snares to rabbits in the woods."
+                },
+                {
+                    "Question": "What kind of problems do you like to solve?",
+                    "Answer": "How to improve myself."
+                },
+                {
+                    "Question": "Why do you think you would like a career in neuroscience?",
+                    "Answer": "I want to know more about the mind so that I can understand myself better."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for a successful neuroscientist?",
+                    "Answer": "Probably studiousness and the ability to collaborate with others. I am not the best at the first, but I extensive experience being a team player."
+                },
+                {
+                    "Question": "What do you think are the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "The monumental amount studying required to get up to speed."
+                },
+                {
+                    "Question": "Do you think you have the qualities necessary to be a successful neuroscientist?",
+                    "Answer": "Well, I am a stubborn hard worker, so I think I can compensate for my weaknesses with shear effort."
+                },
+                {
+                    "Question": "What are your thoughts on the biggest challenges you would face as a neuroscientist?",
+                    "Answer": "I think it'll be a rough couple of years to start, but I have yet to find a challenge I cannot overcome."
+                },
+                {
+                    "Question": "Would you be willing to study animals in your research?",
+                    "Answer": "I haven't really thought about it before. I guess it depends on the kind of research."
+                },
+                {
+                    "Question": "What do you think motivates you to work in neuroscience?",
+                    "Answer": "A desire for self improvement."
+                }
+            ],
+            "Output": "I would recommend this person pursue a career in neuroscience. They are clearly motivated by a desire to understand themselves better, and they have the qualities necessary to be successful in the field. They may face some challenges in the beginning, but I believe they have the ability to overcome them."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/00wEHJrcmxMJCVUL891d0qVX?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1mlDDBjSNwdgh2QiqK0c1gzSEOMbauwq8?usp=sharing"
+}

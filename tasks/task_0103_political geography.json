@@ -1,0 +1,155 @@
+{
+    "Domain": "Political Geography",
+    "Task": "To suggest whether the country is geographically protected from war.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert political geographer. I will ask some questions to collect information and then I will use the information to suggest whether the country is geographically protected from war.",
+        "task_specific_prompt": "Write your opinion on my country's geographical protection based on the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the country's topography like?",
+                    "Answer": "The country is mostly mountainous with some flat plains."
+                },
+                {
+                    "Question": "What is the country's climate like?",
+                    "Answer": "The climate is mostly temperate, but there are also some areas that are tropical or arctic."
+                },
+                {
+                    "Question": "What is the country's proximity to other countries?",
+                    "Answer": "The country is close to several other countries."
+                },
+                {
+                    "Question": "Does the country have any natural barriers?",
+                    "Answer": "The country has several natural barriers, including mountains and oceans."
+                },
+                {
+                    "Question": "Does the country have a strong military?",
+                    "Answer": "The country has a strong military."
+                },
+                {
+                    "Question": "Does the country have a history of being involved in wars?",
+                    "Answer": "The country has a history of being involved in wars."
+                },
+                {
+                    "Question": "Is the country a member of any international organizations?",
+                    "Answer": "The country is a member of the United Nations."
+                },
+                {
+                    "Question": "What is the economic situation in the country?",
+                    "Answer": "The country has an 8.7% GDP Growth."
+                },
+                {
+                    "Question": "What is the political situation in the country?",
+                    "Answer": "The country is democratic."
+                },
+                {
+                    "Question": "What is the social situation in the country?",
+                    "Answer": "The country's social situation is good. The infant mortality rate is low and the life expectancy is high."
+                }
+            ],
+            "Output": "The country is geographically protected from war. The country has several natural barriers, including mountains and oceans, and it is also a member of the United Nations. The country has a strong military and a history of being involved in wars."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the country's topography like?",
+                    "Answer": "The country's topography is mostly desert and flat land."
+                },
+                {
+                    "Question": "What is the country's climate like?",
+                    "Answer": "The country's climate is extremely hot and dry."
+                },
+                {
+                    "Question": "What is the country's vegetation like?",
+                    "Answer": "The country's vegetation is sparse and consists mostly of scrub brush and cacti."
+                },
+                {
+                    "Question": "What is the country's location?",
+                    "Answer": "The country is located in the middle of asia."
+                },
+                {
+                    "Question": "What is the country's population density?",
+                    "Answer": "The country's population density is very low."
+                },
+                {
+                    "Question": "What is the country's economy like?",
+                    "Answer": "The country's economy is poor and underdeveloped."
+                },
+                {
+                    "Question": "What is the country's political situation?",
+                    "Answer": "The country is politically unstable."
+                },
+                {
+                    "Question": "What is the country's history?",
+                    "Answer": "The country has no history of war and conflict."
+                },
+                {
+                    "Question": "What is the country's military like?",
+                    "Answer": "The country does not have a strong military."
+                },
+                {
+                    "Question": "What is the country's relationship with its neighbors?",
+                    "Answer": "The country does not have good relations with its neighbors."
+                },
+                {
+                    "Question": "What is the country's relationship with the rest of the world?",
+                    "Answer": "The country does not have good relations with the rest of the world."
+                }
+            ],
+            "Output": "Based on the information provided, it is unlikely that the country is geographically protected from war. The country's lack of a strong military, unstable political situation, and poor relations with its neighbors and the rest of the world make it vulnerable to attack. Additionally, the country's location in the middle of Asia makes it a strategic target for powers looking to control the region."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the topography of the country?",
+                    "Answer": "The country is made up of forests and rivers."
+                },
+                {
+                    "Question": "What is the climate like in the country?",
+                    "Answer": "The climate is rainy."
+                },
+                {
+                    "Question": "What is the size of the country?",
+                    "Answer": "The size of the country is 3.797 million mi²."
+                },
+                {
+                    "Question": "What is the population density of the country?",
+                    "Answer": "The population density of the country is 42 people per mi²."
+                },
+                {
+                    "Question": "What is the GDP per capita of the country?",
+                    "Answer": "The GDP per capita of the country is $30,000."
+                },
+                {
+                    "Question": "What is the average life expectancy in the country?",
+                    "Answer": "The average life expectancy in the country is 69 years."
+                },
+                {
+                    "Question": "What is the infant mortality rate in the country?",
+                    "Answer": "The infant mortality rate in the country is 6 per 1,000 births."
+                },
+                {
+                    "Question": "What is the literacy rate in the country?",
+                    "Answer": "The literacy rate in the country is 90%."
+                },
+                {
+                    "Question": "What is the unemployment rate in the country?",
+                    "Answer": "The unemployment rate in the country is 4%."
+                },
+                {
+                    "Question": "What is the Gini coefficient in the country?",
+                    "Answer": "The Gini coefficient in the country is 0.41."
+                },
+                {
+                    "Question": "What is the HDI in the country?",
+                    "Answer": "The HDI in the country is 0.8."
+                }
+            ],
+            "Output": "Based on the information provided, it seems that the country is geographically protected from war. The country has a dense forest cover and is quite large in size. Additionally, the country's population density is low and its GDP per capita is high. Furthermore, the average life expectancy is quite high and the infant mortality rate is low. Lastly, the literacy rate and unemployment rate are both low. All of these factors suggest that the country is economically and socially stable, which in turn makes it less likely to be involved in a war."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/lWiX3yNXSBsjiymmy49XJBu5?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1DHEsSCGe9EcP7RaU__adz3t1lNoCAPch?usp=sharing"
+}

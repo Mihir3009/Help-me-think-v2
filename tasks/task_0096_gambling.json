@@ -1,0 +1,147 @@
+{
+    "Domain": "Gambling",
+    "Task": "Predicting satellite's next maintenance time based on its data",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in predicting satellite's next maintenance time based on its data. I will ask some questions to collect information and then I will use the information to predict the next maintenance time for the given satellite.",
+        "task_specific_prompt": "Write satellite's next maintenance time using the questions and answers above and include all the details. Give in detail data for maintenance and reason:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the person's age?",
+                    "Answer": "Person's age is 35 years."
+                },
+                {
+                    "Question": "What is the person's gender?",
+                    "Answer": "Person's gender is male."
+                },
+                {
+                    "Question": "What is the person's occupation?",
+                    "Answer": "Person's occupation is a doctor."
+                },
+                {
+                    "Question": "Does the person have any history of gambling addiction?",
+                    "Answer": "No, the person does not have any history of gambling addiction."
+                },
+                {
+                    "Question": "Has the person ever had any financial problems?",
+                    "Answer": "No, the person has not had any financial problems."
+                },
+                {
+                    "Question": "Does the person have any family members who are addicted to gambling?",
+                    "Answer": "No, the person does not have any family members who are addicted to gambling."
+                },
+                {
+                    "Question": "What is the person's weekly income?",
+                    "Answer": "The person's weekly income is $2,000."
+                },
+                {
+                    "Question": "How often does the person gamble?",
+                    "Answer": "The person gambles occasionally, about once a week."
+                },
+                {
+                    "Question": "How much money does the person usually gamble with?",
+                    "Answer": "The person usually gambles with $100."
+                },
+                {
+                    "Question": "Does the person usually win or lose when gambling?",
+                    "Answer": "The person usually loses when gambling."
+                }
+            ],
+            "Output": "The person will not become a gambling addict. Although the person gambles occasionally and usually loses, they do not have any other risk factors for gambling addiction. They have a steady income and do not have any financial problems or family members who are addicted to gambling."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the person's age?",
+                    "Answer": "Person's age is 65 years."
+                },
+                {
+                    "Question": "What is the person's gender?",
+                    "Answer": "Person's gender is male."
+                },
+                {
+                    "Question": "What is the person's occupation?",
+                    "Answer": "Person's occupation is a businessman."
+                },
+                {
+                    "Question": "Does the person have any history of gambling addiction?",
+                    "Answer": "Yes, the person does have history of gambling addiction when he was at the age of 25."
+                },
+                {
+                    "Question": "Has the person ever had any financial problems?",
+                    "Answer": "No, the person has not had any financial problems."
+                },
+                {
+                    "Question": "Does the person have any family members who are addicted to gambling?",
+                    "Answer": "No, the person does not have any family members who are addicted to gambling."
+                },
+                {
+                    "Question": "What is the person's weekly income?",
+                    "Answer": "The person's weekly income is $8,000."
+                },
+                {
+                    "Question": "How often does the person gamble?",
+                    "Answer": "The person gambles occasionally, about thrice a week."
+                },
+                {
+                    "Question": "How much money does the person usually gamble with?",
+                    "Answer": "The person usually gambles with $1000."
+                },
+                {
+                    "Question": "Does the person usually win or lose when gambling?",
+                    "Answer": "The person usually wins when gambling."
+                }
+            ],
+            "Output": "The person will not become gambling addict because the person only gambles occasionally and has a history of gambling addiction when he was at the age of 25. The person usually wins when gambling, which means that the person is not addicted to gambling."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the person's age?",
+                    "Answer": "Person's age is 15 years."
+                },
+                {
+                    "Question": "What is the person's gender?",
+                    "Answer": "Person's gender is female."
+                },
+                {
+                    "Question": "What is the person's occupation?",
+                    "Answer": "Person's occupation is a student."
+                },
+                {
+                    "Question": "Does the person have any history of gambling addiction?",
+                    "Answer": "NO, the person does not have any history of gambling addiction."
+                },
+                {
+                    "Question": "Has the person ever had any financial problems?",
+                    "Answer": "Yes, the person has financial problems."
+                },
+                {
+                    "Question": "Does the person have any family members who are addicted to gambling?",
+                    "Answer": "No, the person does not have any family members who are addicted to gambling."
+                },
+                {
+                    "Question": "What is the person's weekly income?",
+                    "Answer": "The person's weekly income is $0."
+                },
+                {
+                    "Question": "How often does the person gamble?",
+                    "Answer": "The person gambles thrice time in a period of two days."
+                },
+                {
+                    "Question": "How much money does the person usually gamble with?",
+                    "Answer": "The person usually gambles with $50."
+                },
+                {
+                    "Question": "Does the person usually win or lose when gambling?",
+                    "Answer": "The person sometimes wins sometimes loses when gambling."
+                }
+            ],
+            "Output": "The person will not become gambling addict. Although the person gambles thrice a week, the amount of money that the person gamble is not too much. In addition, the person does not have any financial problems and has a steady income. The person also does not have any family members who are addicted to gambling."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/JZMFLwZuYmWyeG8Cq3p1en5v?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1VGBdx2PPSy33cT5hzLnEc9LMTRaL5YOW?usp=sharing"
+}

@@ -1,0 +1,147 @@
+{
+    "Domain": "ORGANIZATIONAL BEHAVIOUR",
+    "Task": "Effects of behaviour of an organization like Stanford University",
+    "Prompt": {
+        "pre_question_prompt": "I am analyzing effects of behaviour of a university. I will ask some questions to collect information and then I will use the information to study the behavior of an organisation like Stanford University.",
+        "task_specific_prompt": "Write a detailed organizational behaviour of Stanford University using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of organisation is Stanford University?",
+                    "Answer": " Stanford University is a private research university located in Stanford, California."
+                },
+                {
+                    "Question": "What is the mission of Stanford University?",
+                    "Answer": " The mission of Stanford University is to educate its students to their fullest potential as citizens and leaders in a complex, changing world."
+                },
+                {
+                    "Question": "What are the main goals of Stanford University?",
+                    "Answer": " The main goals of Stanford University are to provide a world-class education to its students, to conduct groundbreaking research, and to serve the needs of society."
+                },
+                {
+                    "Question": "What are the main strategies that Stanford University uses to achieve its goals?",
+                    "Answer": "The main strategies that Stanford University uses to achieve its goals are to provide a world-class education to its students, to conduct groundbreaking research, and to serve the needs of society."
+                },
+                {
+                    "Question": "What are the main sources of revenue for Stanford University?",
+                    "Answer": "The main sources of revenue for Stanford University are tuition, research grants, and donations."
+                },
+                {
+                    "Question": "How does Stanford University use its resources to achieve its goals?",
+                    "Answer": "Stanford University uses its resources to achieve its goals by investing in its students, faculty, and facilities."
+                },
+                {
+                    "Question": "What are the main challenges that Stanford University faces?",
+                    "Answer": "The main challenges that Stanford University faces are to maintain its world-class reputation, to continue to attract top students and faculty, and to keep up with the changing needs of society."
+                },
+                {
+                    "Question": "What is the impact of Stanford University on the world?",
+                    "Answer": "Stanford University has a positive impact on the world by educating its students to their fullest potential as citizens and leaders in a complex, changing world."
+                },
+                {
+                    "Question": "What is the future of Stanford University?",
+                    "Answer": "The future of Stanford University is to continue to provide a world-class education to its students, to conduct groundbreaking research, and to serve the needs of society."
+                },
+                {
+                    "Question": "What are the implications of Stanford University's actions on the world?",
+                    "Answer": "The implications of Stanford University's actions on the world are positive."
+                }
+            ],
+            "Output": "Stanford University is a private research university located in Stanford, California. The university was founded in 1885 by Leland and Jane Stanford in memory of their only child, Leland Stanford Jr., who had died of typhoid fever at the age of 15 the previous year. The university is organized into seven schools: Humanities and Sciences, Earth, Energy and Environmental Sciences, Business, Education, Law, Medicine, and Engineering. The mission of Stanford University is to educate its students to their fullest potential as citizens and leaders in a complex, changing world. The university seeks to create a community of scholars that fosters intellectual excellence and provides leadership in addressing the world's pressing problems. The main goals of Stanford University are to provide a world-class education to its students, to conduct groundbreaking research, and to serve the needs of society. The university achieves these goals by investing in its students, faculty, and facilities. The main strategies that Stanford University uses to achieve its goals are to provide a world-class education to its students, to conduct groundbreaking research, and to serve the needs of society. The university achieves these goals by investing in its students, faculty, and facilities."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main drivers of Stanford University's behaviour?",
+                    "Answer": "Some of the main drivers of Stanford University's behaviour include its mission, values, and goals. The university also takes into account the stakeholders' needs and expectations when making decisions. Another driver of Stanford University's behaviour is the external environment in which it operates, including the competitive landscape and government regulations."
+                },
+                {
+                    "Question": "What are some of the main challenges Stanford University faces in terms of its behaviour?",
+                    "Answer": "Some of the main challenges Stanford University faces in terms of its behaviour include maintaining its high standards while accommodating a growing student population, managing its large endowment responsibly, and dealing with the negative publicity that can come with being a wealthy and prestigious institution."
+                },
+                {
+                    "Question": "How does Stanford University's behaviour compare to that of other universities?",
+                    "Answer": "Stanford University's behaviour generally compares favourably to that of other universities. However, there are some areas where it falls short, such as in its handling of sexual assault allegations and its investment in coal companies."
+                },
+                {
+                    "Question": "What are some of the potential consequences of Stanford University's behaviour?",
+                    "Answer": "Some of the potential consequences of Stanford University's behaviour include losing the trust of its stakeholders, damaging its reputation, and facing legal action."
+                },
+                {
+                    "Question": "What can be done to improve Stanford University's behaviour?",
+                    "Answer": "Some ways to improve Stanford University's behaviour include being more transparent about its decision-making process, and being more responsive to stakeholder concerns."
+                },
+                {
+                    "Question": "What is Stanford University's overall approach to behaviour?",
+                    "Answer": "Stanford University's overall approach to behaviour is to balance the interests of its various stakeholders while adhering to its mission and values."
+                },
+                {
+                    "Question": "How does Stanford University's behaviour impact its stakeholders?",
+                    "Answer": "Stanford University's behaviour can impact its stakeholders in both positive and negative ways. For example, the university's investment in coal companies has been criticized by some environmental groups, but its commitment to research and innovation has benefited many students and faculty members."
+                },
+                {
+                    "Question": "What are some of the ethical considerations Stanford University must take into account when making decisions about behaviour?",
+                    "Answer": "Some of the ethical considerations Stanford University must take into account when making decisions about behaviour include the impact of its actions on vulnerable groups, the environment, and future generations. The university must also consider its obligations to its donors and the public."
+                },
+                {
+                    "Question": "What are some of the legal considerations Stanford University must take into account when making decisions about behaviour?",
+                    "Answer": "Some of the legal considerations Stanford University must take into account when making decisions about behaviour include compliance with anti-discrimination laws, environmental regulations, and the terms of its endowment."
+                },
+                {
+                    "Question": "What are some of the practical considerations Stanford University must take into account when making decisions about behaviour?",
+                    "Answer": "Some of the practical considerations Stanford University must take into account when making decisions about behaviour include the feasibility of its plans, the costs of implementation, and the potential for negative publicity."
+                }
+            ],
+            "Output": "Stanford University is a private research university located in Stanford, California. The university was founded in 1885 by Leland and Jane Stanford, and it opened its doors in 1891. Stanford University is one of the world's leading research universities, and it is also one of the most prestigious institutions of higher learning in the United States. The university has a highly selective admissions process, and it is known for its academic excellence, wealth, and privileged location in the Silicon Valley. Stanford University's behaviour is driven by its mission, values, and goals. The university's mission is to seek solutions to global challenges through education, research, and public service. Its values include personal excellence, diversity and inclusion, and ethical conduct. Stanford University's goal is to be the preeminent university for teaching, learning, and research. The university takes into account the needs and expectations of its various stakeholders when making decisions about behaviour. Stanford University's stakeholders include its students, faculty, staff, alumni, donors, and the general public."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its students?",
+                    "Answer": "A Stanford researcher found that too much homework can negatively affect kids, especially their lives away from school, where family, friends and activities matter."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its staff?",
+                    "Answer": "The pressure that Stanford University puts on its staff to succeed can lead to a lot of stress and anxiety. This can affect their work performance and also their personal lives."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its reputation?",
+                    "Answer": "Stanford's reputation can be negatively affected by its behaviour if it is perceived as being overly demanding or excessively competitive. This could lead to prospective students and staff choosing to go elsewhere."
+                },
+                {
+                    "Question": " How do you think Stanford University's behaviour affects its relationships with other organizations?",
+                    "Answer": "If Stanford is perceived as being difficult to work with, other organizations may be reluctant to partner with them. This could limit Stanford's ability to collaborate and innovate."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its financial stability?",
+                    "Answer": "Stanford's financial stability could be affected if its behaviour leads to decreased donations or decreased enrolment."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its ability to attract and retain students and staff?",
+                    "Answer": "If Stanford's behaviour is perceived as being too demanding or competitive, it could dissuade prospective students and staff from attending or working there."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its ability to achieve its goals?",
+                    "Answer": "If Stanford's behaviour is perceived as being too demanding or competitive, it could hinder the university's ability to achieve its academic and research goals."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its image?",
+                    "Answer": "Stanford's image could be negatively affected by its behaviour if it is perceived as being too demanding or excessively competitive. This could lead to prospective students and staff choosing to go elsewhere."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects its community?",
+                    "Answer": "Stanford's behaviour could negatively affect its community if it is perceived as being too demanding or excessively competitive. This could lead to decreased support for the university."
+                },
+                {
+                    "Question": "How do you think Stanford University's behaviour affects the world?",
+                    "Answer": "Stanford's behaviour could negatively affect the world if it is perceived as being too demanding or excessively competitive. This could lead to decreased support for the university and its research."
+                }
+            ],
+            "Output": "Stanford University's behaviour can have a negative effect on the people associated with the university, including students, staff, and the community at large. The pressure that Stanford puts on its students and staff to succeed can lead to a lot of stress and anxiety, which can in turn affect their work performance and personal lives. The university's reputation can also be harmed if it is seen as being too demanding or excessively competitive. This could lead to prospective students and staff choosing to go elsewhere. Additionally, Stanford's behaviour could negatively affect its relationships with other organizations, its financial stability, and its ability to achieve its goals."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/EG5MXeppJ4d0SJiW9mgygUMe?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1yDwzKMktA4YbV9iI06k_19bH2EIwV7uG?usp=sharing"
+}

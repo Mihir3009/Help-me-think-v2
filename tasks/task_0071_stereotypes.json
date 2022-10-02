@@ -1,0 +1,148 @@
+{
+    "Domain": "Stereotypes",
+    "Task": "Indentifying personal stereotypes",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in indentifying personal stereotypes . I will ask some questions to collect information and then I will use the information to identify stereotypes you have.",
+      "task_specific_prompt": "Based on the above information, identify what stereotypes I might have and summarize?"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "What is your favorite color?",
+            "Answer": "Blue"
+          },
+          {
+            "Question": "What is your favorite food?",
+            "Answer": "Pizza"
+          },
+          {
+            "Question": "What is your favorite hobby?",
+            "Answer": "Fantasy novel reading"
+          },
+          {
+            "Question": "What is your favorite animal?",
+            "Answer": "Lion, because its fierce"
+          },
+          {
+            "Question": "What is your favorite type of music?",
+            "Answer": "Slow melody"
+          },
+          {
+            "Question": "What is your favorite season?",
+            "Answer": "Spring"
+          },
+          {
+            "Question": "What is your favorite sport?",
+            "Answer": "Soccer"
+          },
+          {
+            "Question": "What is your favorite TV show?",
+            "Answer": "Game of thrones"
+          },
+          {
+            "Question": "What is your favorite movie?",
+            "Answer": "Avatar"
+          },
+          {
+            "Question": "What is your favorite book?",
+            "Answer": "Lord of the Rings"
+          }
+        ],
+        "Output": "The individual may be perceived as being shy or introverted because they enjoy reading fantasy novels and their favorite color is blue. They may also be considered to be a 'nerd' or 'geek' because they are interested in Game of Thrones and Lord of the Rings. Additionally, the individual may be considered to be active and athletic because they enjoy soccer and their favorite animal is a lion."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is your favorite color?",
+            "Answer": "red"
+          },
+          {
+            "Question": "What is your favorite food?",
+            "Answer": "chicken wings"
+          },
+          {
+            "Question": "What is your favorite hobby?",
+            "Answer": "Pranking friends"
+          },
+          {
+            "Question": "What is your favorite animal?",
+            "Answer": "wolf"
+          },
+          {
+            "Question": "What is your favorite type of music?",
+            "Answer": "Metallic"
+          },
+          {
+            "Question": "What is your favorite season?",
+            "Answer": "Summer"
+          },
+          {
+            "Question": "What is your favorite sport?",
+            "Answer": "Rugby"
+          },
+          {
+            "Question": "What is your favorite TV show?",
+            "Answer": "Breaking bad"
+          },
+          {
+            "Question": "What is your favorite movie?",
+            "Answer": "Titanic"
+          },
+          {
+            "Question": "What is your favorite book?",
+            "Answer": "The Love Hypothesis"
+          }
+        ],
+        "Output": "The stereotypes I might have are that I am aggressive, I like to eat unhealthy food, I am a daredevil, I am a loner, I am not very intelligent, and I am not very cultured."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is your favorite color?",
+            "Answer": "white"
+          },
+          {
+            "Question": "What is your favorite food?",
+            "Answer": "salad"
+          },
+          {
+            "Question": "What is your favorite hobby?",
+            "Answer": "hanging out with friends"
+          },
+          {
+            "Question": "What is your favorite animal?",
+            "Answer": "dog"
+          },
+          {
+            "Question": "What is your favorite type of music?",
+            "Answer": "indie"
+          },
+          {
+            "Question": "What is your favorite season?",
+            "Answer": "winter"
+          },
+          {
+            "Question": "What is your favorite sport?",
+            "Answer": "chess"
+          },
+          {
+            "Question": "What is your favorite TV show?",
+            "Answer": "Friends"
+          },
+          {
+            "Question": "What is your favorite movie?",
+            "Answer": "Rushhour"
+          },
+          {
+            "Question": "What is your favorite book?",
+            "Answer": "Harry Potter"
+          }
+        ],
+        "Output": "The person might have the following stereotypes: they are introverted, they are intelligent, they are detail-oriented, they are calm, and they are analytical."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/ks5E8WcxAgi6s7VSseVhS749?model=text-davinci-002", "https://beta.openai.com/playground/p/gkl1WUDkiHecMUVZjFB2dfAn?model=text-davinci-002", "https://beta.openai.com/playground/p/HIiITNKQmAAgzMN8DIi2aiK4?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1BXikuLhwYqcFhdkyshuz-huWj8Em-Z8J?usp=sharing"
+  }
+    

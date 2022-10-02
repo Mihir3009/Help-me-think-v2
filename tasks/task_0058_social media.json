@@ -1,0 +1,151 @@
+{
+    "Domain": "Social Media",
+    "Task": "Writing a twitter post about my trip",
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How was your trip?",
+                    "Answer": "My trip was great! I had a lot of fun and I got to see some amazing things. I would definitely recommend it to anyone. We travelled to Uttarakhand, India. It was mesmerizing!"
+                },
+                {
+                    "Question": "What did you like most about the trip?",
+                    "Answer": "There were so many things that I liked about the trip, but if I had to choose one thing, it would be the people. Everyone was so friendly and welcoming. I felt like I was part of a big family. Also, the food they cooked was so delicious and the warm curry in the cold weather was the perfect thing to eat."
+                },
+                {
+                    "Question": "What would you say was the most memorable part of the trip?",
+                    "Answer": "There are so many memorable moments from the trip, but one that stands out is when we went to see the sunset at the Ganga Aarti ceremony in Rishikesh. It was such a beautiful and spiritual experience. The colors, the music, the river... it was all so perfect. The sounds of the bells in the background along with the waves in the river Ganga filled my heart and soul with positive energy."
+                },
+                {
+                    "Question": "Tell us one thing you learned on the trip.",
+                    "Answer": "I learned that no matter where you come from or what your beliefs are, we are all connected. We are all part of one big human family. And that is something that we should never forget. The locals treated me as one of their own. They brought me gifts and some traditional outfits which made me feel like I am no foreigner."
+                },
+                {
+                    "Question": "Would you recommend this trip to others? Why or why not?",
+                    "Answer": "I would definitely recommend this trip to others! It was an amazing experience and I am so grateful that I got to be a part of it. I think everyone should have the opportunity to see India and experience the beauty and culture of this country. Also, we went on a snow hike and saw a temple on top of the mountain. While coming down we had fun sliding down the snowy mountain side. After the hike we went to the banks of River Ganga and did river rafting. It was an adventurous experience."
+                },
+                {
+                    "Question": "What was your favorite part of the trip?",
+                    "Answer": "My favorite part of the trip was the river rafting experience. It was so much fun and it was so beautiful rafting down the river with the mountains in the background. Additionally, we did a lot of shopping in the mall road. I have so many new and fashionable clothes now!"
+                },
+                {
+                    "Question": "If someone was considering taking this trip, what would you tell them?",
+                    "Answer": "I would tell them to go for it! It is an amazing experience and I am sure they will love it as much as I did. Although, I would also advise them to pack a lot of woolen socks and gloves as it gets really cold. Additionally, get something to eat and drink while traveling because there are not many restaurants or shops along the way in the mountains."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about the trip?",
+                    "Answer": "We went to a place known as 'Chopta' where we stayed in tents and had parathas for lunch. After the lunch we rested till the evening and had a party around the bonfire in the middle of the tents. It was a really serene experience."
+                },
+                {
+                    "Question": "Do you have any tips for packing for a trip like this?",
+                    "Answer": "I would recommend packing light but warm clothes. Also, don't forget to pack your sunscreen, hats, and sunglasses. And lastly, don't forget to pack your camera because you will want to take a lot of pictures! Additionally, some medicines as well, because these mountains are really far from urban civilization and not many doctors reside in these areas."
+                },
+                {
+                    "Question": "Do you have any advice for others who might be considering this trip?",
+                    "Answer": "I would advise them to go for it! It is an amazing experience and I am sure they will love it as much as I did. Although, I would also advise them to pack a lot of woolen socks and gloves as it gets really cold. Additionally, get something to eat and drink while traveling because there are not many restaurants or shops along the way in the mountains."
+                }
+            ],
+            "Output": "Just got back from the most amazing trip to Uttarakhand, India! I had so much fun and I got to see some amazing things. The people were so friendly and welcoming, and the food was delicious. I would definitely recommend it to anyone. Here are some of my favorite moments from the trip: -The sunset at the Ganga Aarti ceremony in Rishikesh. It was such a beautiful and spiritual experience. -The snow hike and seeing a temple on top of the mountain. -River rafting down the river Ganga. It was so much fun and the scenery was beautiful. -Shopping in the mall road. I have so many new and fashionable clothes now! If you're considering taking this trip, just go for it! You won't regret it."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1) What is the purpose of your trip?",
+                    "Answer": "The purpose of my trip was to explore the country of Singapore and have a fun and relaxed vacation."
+                },
+                {
+                    "Question": "2) Where did you go in Singapore?",
+                    "Answer": "I went to many places in Singapore, but some of my favorites were Sentosa Island, Universal Studios Singapore, and the Singapore Zoo. We also went to Singapore Night Safari, Gardens by the Bay, SEA Aquarium and the Adventure Cove Waterpark."
+                },
+                {
+                    "Question": "3) What did you think of Singapore?",
+                    "Answer": "I absolutely loved Singapore! It is such a clean and safe city with so much to do. I would definitely recommend it to anyone looking for a fun and relaxing vacation. Yes, in general Singapore is expensive destination especially from the accommodation point of view, but you can always find a smart deal if you monitor the market in advance and do planning wisely. Taxi and public transport is most affordable."
+                },
+                {
+                    "Question": "4) What were some of your favorite things to do in Singapore?",
+                    "Answer": "I loved exploring all the different places in Singapore. Sentosa Island was so much fun with all the different attractions and Universal Studios Singapore was a blast. I also loved the Singapore Zoo and the Night Safari. We also went street art spotting in Haji Lane, saw colorful houses on Koon Seng Road, did stargazing at the Science Centre’s Observatory Dock and visited the Chek Java Wetlands."
+                },
+                {
+                    "Question": "5) Would you recommend Singapore to others?",
+                    "Answer": "I would absolutely recommend Singapore to others! Especially to someone who wants to relax and party at the same time. It is a must visit place. It is clean and safe and has much more to do!"
+                },
+                {
+                    "Question": "6) What tips would you give to others planning to visit Singapore?",
+                    "Answer": "My tips for others planning to visit Singapore would be to definitely try the local food, it is amazing! I would also recommend going to Sentosa Island and Universal Studios Singapore. And lastly, Singapore is a very safe city so don’t worry about walking around at night. Singapore's vibrant nightlife scene is an unmissable experience. From award-winning cocktail bars to glitzy nightclubs and world-class music festivals, there is never a dull moment in the Lion City."
+                },
+                {
+                    "Question": "7) What was your favorite thing about Singapore?",
+                    "Answer": "My favorite thing about Singapore was how clean and safe it was. I felt very comfortable walking around the city at night and I never felt like I was in danger. I also loved the food in Singapore, it was amazing! I liked the fish head curry, sataya and the kaya toast. All the food was delicious and felt authentic."
+                },
+                {
+                    "Question": "8) What were some of your least favorite things about Singapore?",
+                    "Answer": "I didn’t really have any least favorite things about Singapore. If I had to choose something, it would be that it is a bit more expensive than other Southeast Asian countries. But overall, I loved my experience in Singapore and I would definitely recommend it to others!"
+                },
+                {
+                    "Question": "9) Would you visit Singapore again?",
+                    "Answer": "I would absolutely visit Singapore again! I had such an amazing time there and I would love to go back and explore more of the country. Additionally, I haven't visited all the places yet. There's only so much you can do in one trip. I will plan another trip to Singapore to tick everything off of my checklist."
+                },
+                {
+                    "Question": "10) What advice would you give to others planning to visit Singapore?",
+                    "Answer": "My advice to others planning to visit Singapore would be to try the local food, it is amazing! I would also recommend going to Sentosa Island and Universal Studios Singapore. And lastly, Singapore is a very safe city so don’t worry about walking around at night."
+                }
+            ],
+            "Output": "I had such an amazing time in Singapore! The purpose of my trip was to explore the country and have a fun and relaxed vacation and I definitely accomplished that. I went to so many different places and tried so many new things. I loved Sentosa Island, Universal Studios Singapore, and the Singapore Zoo. We also went to Singapore Night Safari, Gardens by the Bay, SEA Aquarium, and the Adventure Cove Waterpark. I absolutely loved Singapore! It is such a clean and safe city with so much to do. I would definitely recommend it to anyone looking for a fun and relaxing vacation. My tips for others planning to visit Singapore would be to definitely try the local food, it is amazing! I would also recommend going to Sentosa Island and Universal Studios Singapore. And lastly, Singapore is a very safe city so don’t worry about walking around at night. I would absolutely visit Singapore again! I had such an amazing time there and I would love to go back and explore more of the country. Additionally, I haven't visited all the places yet. There's only so much you can do in one trip. I will plan another trip to Singapore to tick everything off of my checklist."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. How was your trip?",
+                    "Answer": "The trip was fabulous. It was a month long trip to different parts of Europe. I enjoyed a lot. Lot of variety in food, drinks and culture overall. I really enjoyed this trip and will cherish it forever."
+                },
+                {
+                    "Question": "2. What was your favorite part of the trip?",
+                    "Answer": "There were many great parts to the trip, but if I had to narrow it down, I would say my favorite part was exploring the different cultures. I loved learning about the history and customs of each place I visited. It was truly eye-opening and I am so grateful to have had the opportunity to do it. Additionally, I visited so many historical places and wonders of the world. It was a once in a lifetime experience."
+                },
+                {
+                    "Question": "3. What did you learn on your trip?",
+                    "Answer": "I learned so much on my trip. As I mentioned, I learned about the different cultures and customs of the places I visited. I also learned a lot about the history of each place. Additionally, I learned how to navigate different cities and how to use different modes of transportation. I also learned a lot about myself. I am now more confident and independent. I truly feel like I grew and learned a lot on this trip. Also, I learnt about the vast history of Europe and how it developed into a continent."
+                },
+                {
+                    "Question": "4. What are your tips for others who are planning a similar trip?",
+                    "Answer": "My biggest tip would be to just go for it. Don't overthink it or try to plan everything out perfectly. Just get out there and enjoy yourself. Also, be open to new experiences and don't be afraid to step out of your comfort zone. Lastly, make sure to take lots of pictures and videos to remember the trip by. Europe is a place where everyone is very friendly and accommodating. The locals every where are very helpful so there's nothing to worry about. I would advise everyone to try out everything. You wouldn't regret it."
+                },
+                {
+                    "Question": "5. How did you feel after the trip?",
+                    "Answer": "I felt amazing after the trip. It was an incredible experience and I am so grateful for it. I feel like I grew a lot as a person and I learned so much. I am now more confident and independent. I also feel more connected to different cultures and customs. Additionally, I feel like I have a new appreciation for life and for all the different wonders of the world. Additionally, I felt like I have accomplished much more in life. Especially when you travel the world your outlook towards life changes. It gives you a totally new perspective towards your life."
+                },
+                {
+                    "Question": "6. What are your plans for future trips?",
+                    "Answer": "I am definitely planning on more trips in the future. I want to see more of the world and I want to experience even more different cultures. I am also planning on longer trips so that I can really immerse myself in the experience. Additionally, I am planning on doing more solo trips so that I can really challenge myself and grow even more as a person."
+                },
+                {
+                    "Question": "7. What advice would you give to someone who is thinking of taking a similar trip?",
+                    "Answer": "Just go for it. Don't overthink it or try to plan everything out perfectly. Just get out there and enjoy yourself. Also, be open to new experiences and don't be afraid to step out of your comfort zone. Lastly, make sure to take lots of pictures and videos to remember the trip by. Europe is a place where everyone is very friendly and accommodating. The locals every where are very helpful so there's nothing to worry about. I would advise everyone to try out everything. You wouldn't regret it."
+                },
+                {
+                    "Question": "8. What was the most challenging part of the trip?",
+                    "Answer": "There really wasn't a challenging part of the trip. I would say the most challenging part was just trying to fit everything in because there is so much to see and do in Europe. Additionally, I found that the most challenging part was saying goodbye to all the new friends I made on the trip. Additionally, Europe such a large place, you have to beware of tourist traps everywhere. It is very much possible that you fall into a tourist trap and end up paying much more than the normal cost of a product or a service."
+                },
+                {
+                    "Question": "9. What would you do differently next time?",
+                    "Answer": "There really isn't anything I would do differently. I would just say that I would try to visit even more places next time. Additionally, I would try to stay longer in each place so that I can really experience and learn more about the culture. Lastly, I would try to take even more pictures and videos. Additionally, I would like to try and eat more local food and immerse myself into the local cusine everywhere I go."
+                },
+                {
+                    "Question": "10. Any other comments?",
+                    "Answer": "This trip was truly amazing and I am so grateful for it. I would recommend it to everyone. It is a once in a lifetime experience. I am so glad I took the opportunity to do it."
+                }
+            ],
+            "Output": "Twitter Post: I just got back from an amazing trip to Europe and I am still in awe. I visited so many different places and experienced so many different cultures. It was truly a once in a lifetime experience. I am so grateful for it. Some of my favorite parts of the trip were exploring the different cultures and learning about the history of each place. I also loved visiting all the historical places and wonders of the world. It was truly eye-opening. I learned so much on this trip. I feel like I grew a lot as a person and I am now more confident and independent. I also have a new appreciation for life. If you are thinking of taking a similar trip, just go for it. You won't regret it."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/BqO0J6V3RXpyA78NzVT7hKC9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/35YgvblwjEMYvXEHVckUyMWH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fKCYsj1zE9nPMoiZa7gqSjRo?model=text-davinci-002"
+    ],
+    "Prompt": {
+        "pre_question_prompt": "I am an expert social media influencer. I will ask some questions to collect information and then I will use the information to write a twitter post about my trip.",
+        "task_specific_prompt": "Write a twitter post about my trip using the questions and answers above. Make it long and detailed. Add additional information you can find."
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/11e0kkqTp44oOtiC6VervxE_8blIARy93?usp=sharing"
+}

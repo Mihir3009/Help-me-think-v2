@@ -1,0 +1,147 @@
+{
+    "Domain": "Petrology",
+    "Task": "Suggestions for what kind of rock to use based on construction parameters",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in petrology and construction. I will ask some questions to collect information about what you're building and then I will use the information to suggest what kind of rocks should be used for that construction .",
+      "task_specific_prompt": "Based on the above information, what kind of materials and rocks and their petrology can be used for mentioned construction and where can that rock be found, and what its advantages and disadvantages?"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "What are you building?",
+            "Answer": "A road."
+          },
+          {
+            "Question": "What are the dimensions of the road?",
+            "Answer": "The road is 10 feet wide and 1,000 feet long."
+          },
+          {
+            "Question": "What is the purpose of the road?",
+            "Answer": "The road is for cars to drive on."
+          },
+          {
+            "Question": "What is the climate like in the area where the road will be built?",
+            "Answer": "The climate is temperate."
+          },
+          {
+            "Question": "What kind of traffic will the road be able to handle?",
+            "Answer": "The road will be able to handle light to moderate traffic."
+          },
+          {
+            "Question": "What is the soil like in the area where the road will be built?",
+            "Answer": "The soil is sandy."
+          },
+          {
+            "Question": "What is the terrain like in the area where the road will be built?",
+            "Answer": "The terrain is flat."
+          },
+          {
+            "Question": "What is the budget for the project?",
+            "Answer": "The budget is $100,000."
+          },
+          {
+            "Question": "What is the timeline for the project?",
+            "Answer": "The timeline for the project is one year."
+          },
+          {
+            "Question": "What are the specifications for the road?",
+            "Answer": "The specifications for the road are that it must be 10 feet wide and 1,000 feet long"
+          }
+        ],
+        "Output": "Some suggested rocks that could be used for the construction of the road include: Granite: Granite is a tough and durable rock that is resistant to weathering and wear. It is a good choice for construction projects that need to withstand heavy traffic and harsh conditions. Granite can be found in many parts of the world, including Canada, India, the United States, and Brazil. Limestone: Limestone is a sedimentary rock that is soft and easy to work with. It is a good choice for construction projects that require a lot of shaping and carving. Limestone is found in many parts of the world, including the United Kingdom, Germany, Italy, and the United States. Sandstone: Sandstone is a sedimentary rock that is easy to work with and is durable. It is a good choice for construction projects that need to be able to withstand heavy traffic. Sandstone can be found in many parts of the world, including the United States, Australia, India, and Brazil."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What are you building?",
+            "Answer": "A road."
+          },
+          {
+            "Question": "What are the dimensions of the road?",
+            "Answer": "The road is 2000 feet wide and 10,000 feet long."
+          },
+          {
+            "Question": "What is the purpose of the road?",
+            "Answer": "The road is for heavy vehicles it should be very strong."
+          },
+          {
+            "Question": "What is the climate like in the area where the road will be built?",
+            "Answer": "The climate is very cold."
+          },
+          {
+            "Question": "What kind of traffic will the road be able to handle?",
+            "Answer": "The road will be able to handle heavy traffic."
+          },
+          {
+            "Question": "What is the soil like in the area where the road will be built?",
+            "Answer": "The soil is red in color and very hard."
+          },
+          {
+            "Question": "What is the terrain like in the area where the road will be built?",
+            "Answer": "The terrain is flat."
+          },
+          {
+            "Question": "What is the budget for the project?",
+            "Answer": "The budget is limited."
+          },
+          {
+            "Question": "What is the timeline for the project?",
+            "Answer": "The timeline for the project is two years."
+          },
+          {
+            "Question": "What are the specifications for the road?",
+            "Answer": "The road is 2000 feet wide and 10,000 feet long."
+          }
+        ],
+        "Output": "There are many different types of rocks that could be used for this road construction project. Some rocks that would be suitable include granite, limestone, sandstone, and basalt. These rocks are all strong and durable, and can be found in many different locations. The main advantage of using these types of rocks is that they are very strong and will be able to withstand heavy traffic and wear and tear. The main disadvantage of using these types of rocks is that they are relatively expensive."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What are you building?",
+            "Answer": "A road."
+          },
+          {
+            "Question": "What are the dimensions of the road?",
+            "Answer": "The road would be very narrow and 50 km long."
+          },
+          {
+            "Question": "What is the purpose of the road?",
+            "Answer": "The road is for providing means of transport to a hilly area."
+          },
+          {
+            "Question": "What is the climate like in the area where the road will be built?",
+            "Answer": "it is windy and rainy."
+          },
+          {
+            "Question": "What kind of traffic will the road be able to handle?",
+            "Answer": "Traffict would be less."
+          },
+          {
+            "Question": "What is the soil like in the area where the road will be built?",
+            "Answer": "The soil is very slippery due to rain."
+          },
+          {
+            "Question": "What is the terrain like in the area where the road will be built?",
+            "Answer": "Hilly terrain."
+          },
+          {
+            "Question": "What is the budget for the project?",
+            "Answer": "The budget is not of concern."
+          },
+          {
+            "Question": "What is the timeline for the project?",
+            "Answer": "The timeline for the project is 6 months."
+          },
+          {
+            "Question": "What are the specifications for the road?",
+            "Answer": "The road would be very narrow and 50 km long."
+          }
+        ],
+        "Output": "Some possible rocks that could be used for this construction include granite, gneiss, and shale. These rocks can be found in many places around the world, and each has its own advantages and disadvantages. Granite, for example, is very strong and durable, but it is also very heavy, making it difficult to transport and work with. Gneiss is also strong and durable, but it is not as heavy as granite, making it easier to work with. Shale is a relatively soft rock, but it is very easy to work with and transport."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/iyNHXM2jO48WCiL9YhkHtzhX?model=text-davinci-002", "https://beta.openai.com/playground/p/mr1ZmwPlwGh2CZXUnG3aQKwe?model=text-davinci-002", "https://beta.openai.com/playground/p/ztUcgP23P9OsMxphfKg8XRut?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1HhyTeWzCnZtrdVGunIoLs1HDJ3Z2t9Zg?usp=sharing"
+  }

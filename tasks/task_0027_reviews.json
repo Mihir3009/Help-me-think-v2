@@ -1,0 +1,147 @@
+{
+    "Domain": "Reviews",
+    "Task": "Write a funny product review about a random product incorporating funny details about the end-users life.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert comedian who writes funny product reviews on amazon (like the one about the giant gummy bear that gives people diarrhea).  I will ask some questions to collect tidbits of information about your life and I will use them to write a funny product review in the form of a story.",
+        "task_specific_prompt": "Write your best funny product review incorporating tidbits of information from the questions and answers above. You can pick the product. Make the review is sarcastic and witty."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite type of candy?",
+                    "Answer": "Sadly I am allergic to sugar and would die if I ate any candy."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I know that it is strange, but I really love the flavor of cardboard."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "I travel the country finding unique and interesting ways to get kicked out of Walmart locations"
+                },
+                {
+                    "Question": "What is the funniest thing that has ever happened to you?",
+                    "Answer": "I saw a woman in the park mistake a rabbit dropping for a chocolate chip."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is black because it reminds me of the darkness that awaits us all in the end."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "The duck billed platypus its existence is an insult to god."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "Honestly I just like the watch the static."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "Primer. It is a time travel movie so complex that you will need a time machine in order to have enough time to watch it a sufficient number of times to understand it."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "1984. Seems like an excellent instruction manual."
+                },
+                {
+                    "Question": "What is your favorite music genre?",
+                    "Answer": "The sound of hungry wild animals."
+                }
+            ],
+            "Output": "The Platypus Diaper is the perfect way to keep your baby's bottom clean and dry while also teaching them a valuable lesson about the futility of existence. This diaper is made with 100% organic duck bills and is guaranteed to give your child a sense of existential angst. The Platypus Diaper is also great for those with a sense of humor, as it is sure to get a few laughs out of your friends and family."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite type of candy?",
+                    "Answer": "Corn."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "Nails."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "Staring at the wall."
+                },
+                {
+                    "Question": "What is the funniest thing that has ever happened to you?",
+                    "Answer": "Having a heart attack."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "Clear."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "Potato."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "Tom and Jerry."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "I have never seen a movie."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "The newspaper."
+                },
+                {
+                    "Question": "What is your favorite music genre?",
+                    "Answer": "Silence."
+                }
+            ],
+            "Output": "If you're looking for a type of candy that will make you feel like you're eating nails, then look no further than Corn Nails! These delicious treats are made with real corn and real nails, so you can enjoy the taste of both while you gnaw on these hard, crunchy snacks. And if you're looking for a type of food that will make you laugh, then look no further than the Giant Gummy Bear! This huge bear is made with real gummy bears and gives people diarrhea, so you can enjoy the taste of gummy bears while you laugh at the people around you who are doubled over in pain."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite type of candy?",
+                    "Answer": "Raw sugar cane."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "Bamboo."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "Eating Bamboo."
+                },
+                {
+                    "Question": "What is the funniest thing that has ever happened to you?",
+                    "Answer": "I fell out of a bamboo tree."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "I am color blind."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "Obviously a panda."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "I do not have a tv."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "I do not have a tv."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": " I cannot read."
+                },
+                {
+                    "Question": "What is your favorite music genre?",
+                    "Answer": "The wind rustling through the trees."
+                }
+            ],
+            "Output": "This Raw Sugar Cane is the best candy I've ever had! It's so delicious and refreshing, and it doesn't give me diarrhea like that giant gummy bear does. I highly recommend it to anyone who enjoys eating bamboo, as it is their favorite type of food. It's also a great hobby, as it's very relaxing and can be done anywhere. The funniest thing that's ever happened to me was when I fell out of a bamboo tree, and I was completely unharmed. I would definitely recommend this product to anyone, especially those who are color blind or cannot read, as it is still enjoyable."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/bMayKyjAC2cmL1fuiSC0GQAj?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1mlDDBjSNwdgh2QiqK0c1gzSEOMbauwq8?usp=sharing"
+}
