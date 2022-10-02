@@ -1,0 +1,156 @@
+{
+    "Contributor": "kannanmohithjothi",
+    "Domain": "International Relations",
+    "Task": "International Relations Information Provider",
+    "Prompt": {
+        "pre_question_prompt": "I am an international relations information provider. I will ask some questions to collect information and then I will use the information to provide you with information.",
+        "task_specific_prompt": "Generate a detailed summary about relation between both the countries based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to know about?",
+                    "Answer": "The United States and North Korea."
+                },
+                {
+                    "Question": "Do you want to know about the full history between both the nations?",
+                    "Answer": "Yes, I would like to know about the full history between both countries."
+                },
+                {
+                    "Question": "Would like to know about the economic condition of the two nations?",
+                    "Answer": "Yes, I would like to know about the economic conditions of both countries."
+                },
+                {
+                    "Question": "Would you like to know about the political situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the political situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the military situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the military situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the current events between the two nations?",
+                    "Answer": "Yes, I would like to know about the current events between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the cultural ties between the two nations?",
+                    "Answer": "Yes, I would like to know about the cultural ties between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the travel information between the two nations?",
+                    "Answer": "Yes, I would like to know about the travel information between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the visa requirements between the two nations?",
+                    "Answer": "Yes, I would like to know about the visa requirements between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the trade between the two nations?",
+                    "Answer": "Yes, I would like to know about the trade between both countries."
+                }
+            ],
+            "Output": "The United States and North Korea have a long and complicated history. The two countries have been in a state of war since 1950, when North Korea invaded South Korea in an attempt to reunify the peninsula. The United States intervened on behalf of South Korea, and the war eventually ended in a stalemate. In the years since, the two countries have remained locked in a cycle of tension and mistrust. The economic conditions of both countries are quite different. The United States is one of the richest and most developed countries in the world, while North Korea is one of the poorest and most isolated. The political situation between the two countries is also quite different. The United States is a democracy, while North Korea is a dictatorship. The military situation between the two countries is also highly fraught. The United States has a much larger and more technologically advanced military than North Korea, but North Korea has a large and well-trained military, and it is believed to have a significant number of nuclear weapons. The current events between the two countries are dominated by the ongoing nuclear crisis. North Korea has been pursuing a nuclear weapons program for many years, in defiance of international law. The United States has been trying to pressure North Korea to give up its nuclear program through a combination of"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to know about?",
+                    "Answer": "The United States and India."
+                },
+                {
+                    "Question": "Do you want to know about the full history between both the nations?",
+                    "Answer": "Yes, I would like to know about the full history between both countries."
+                },
+                {
+                    "Question": "Would like to know about the economic condition of the two nations?",
+                    "Answer": "Yes, I would like to know about the economic conditions of both countries."
+                },
+                {
+                    "Question": "Would you like to know about the political situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the political situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the military situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the military situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the current events between the two nations?",
+                    "Answer": "Yes, I would like to know about the current events between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the cultural ties between the two nations?",
+                    "Answer": "Yes, I would like to know about the cultural ties between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the travel information between the two nations?",
+                    "Answer": "Yes, I would like to know about the travel information between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the visa requirements between the two nations?",
+                    "Answer": "Yes, I would like to know about the visa requirements between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the trade between the two nations?",
+                    "Answer": "Yes, I would like to know about the trade between both countries."
+                }
+            ],
+            "Output": "The United States and India have a long and complex history. The economic conditions of both countries are strong, but there are some political tensions between them. The military situation is stable, but there are current events that could cause tensions. The cultural ties between the two nations are strong, and there is a lot of travel and trade between them. The visa requirements between the two nations are fairly straightforward."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to know about?",
+                    "Answer": "The United States and Russia."
+                },
+                {
+                    "Question": "Do you want to know about the full history between both the nations?",
+                    "Answer": "Yes, I would like to know about the full history between both countries."
+                },
+                {
+                    "Question": "Would like to know about the economic condition of the two nations?",
+                    "Answer": "Yes, I would like to know about the economic conditions of both countries."
+                },
+                {
+                    "Question": "Would you like to know about the political situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the political situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the military situation between the two nations?",
+                    "Answer": "Yes, I would like to know about the military situation between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the current events between the two nations?",
+                    "Answer": "Yes, I would like to know about the current events between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the cultural ties between the two nations?",
+                    "Answer": "Yes, I would like to know about the cultural ties between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the travel information between the two nations?",
+                    "Answer": "Yes, I would like to know about the travel information between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the visa requirements between the two nations?",
+                    "Answer": "Yes, I would like to know about the visa requirements between both countries."
+                },
+                {
+                    "Question": "Would you like to know about the trade between the two nations?",
+                    "Answer": "Yes, I would like to know about the trade between both countries."
+                }
+            ],
+            "Output": "The United States and Russia have a long and complicated history. The two countries have been involved in many wars and conflicts, both hot and cold. The economic condition of both countries has always been a point of contention, and the political situation between the two nations has been strained for many years. The military situation between the two countries is also very complex, and the current events between the two nations are constantly in flux. The cultural ties between the two countries are strong, and the travel information between the two nations is readily available. The visa requirements between the two countries can be quite complicated, and the trade between the two nations is always evolving."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/cbgEfs1Lw20Su8EGSlHQq8uv?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NoNjRTW4REVdYBYmBstKHumP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fDGv59v0d0UaBfISmnwFrX9k?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/18PIgN85tQy7D7C_0Wczfsvnmg-AG6F9S/view?usp=sharing",
+        "https://drive.google.com/file/d/1zWaUJfEA9AT2nEvAvGHIZaLM3h-_ar-r/view?usp=sharing",
+        "https://drive.google.com/file/d/1qF4JCiZ79eNayQ4Y3JqigZ_UZdydUAfS/view?usp=sharing"
+    ]
+}

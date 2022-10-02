@@ -1,0 +1,124 @@
+{
+    "Contributor": "kaushaleshan",
+    "Domain": "Marketing",
+    "Task": "Generate a catchphrase for the client based on their answers to certain questions.",
+    "Prompt": {
+        "pre_question_prompt": "I am great at marketing. I am going to ask some marketing related questions to my client. Then I will use their answers to come up with the best catch-phrase for their business.\nQuestion:",
+        "task_specific_prompt": "I am great at marketing and advertisement. Now, I will use their answers to my questions above to come up with the best unique catch-phrase for their business that will help them in promoting their business."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is your company's mission?": "My company's mission is to provide the best possible experience for our customers."
+                },
+                {
+                    "What are your company's values?": "My company's values are customer satisfaction, quality, and innovation."
+                },
+                {
+                    "What is your target market?": "My target market is people of all kinds."
+                },
+                {
+                    "What is your company's unique selling proposition?": "I think my company's unique selling proposition is that we always put the customer first."
+                },
+                {
+                    "What are your company's goals?": "For me, my company's goals are to grow our customer base and to continue to innovate."
+                },
+                {
+                    "What do you want people to think of when they hear your company's name?": "For me, I really want people to think of my company as the best possible option for sports clothing."
+                },
+                {
+                    "What do you want your company's image to be?": "For me, I really want my company's image to be one of a high-quality, customer-focused company, providing its customers with the best quality sports clothing."
+                },
+                {
+                    "What is your company's tagline?": "My company's tagline is \"The best in sports apparel.\""
+                },
+                {
+                    "What kind of feeling do you want your company's name and image to evoke?": "Personally, I really want my company's name and image to evoke a feeling of trust, quality, customer focus, and above all, innovation."
+                },
+                {
+                    "What are some words or phrases you would like people to use to describe your company?": "The words or phrases I would like people to use to describe my company are \"trust\", \"quality,\" \"customer focused,\" \"innovative,\" and \"the best in sports apparel.\""
+                },
+                {
+                    "Is there anything else you think I should know about your company?": "Yes, I think it's important for you to know that we are always looking for ways to improve the customer experience and that we are constantly innovating to bring our customers the best possible products."
+                }
+            ],
+            "Output": "The best in sports apparel.\n\n Quality. Customer focused. Innovative. Trustworthy.",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/1NJhfxot10QObzJ5XriggTsRJS4KkY6Pm?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What are your business's primary marketing goals?": "My business' main goal is to become the main choice of food for people of this city. We provide the most delicious food that is healthy and at a very reasonable price too."
+                },
+                {
+                    "Who is your target market?": "My business' target market are people who are health conscious and are looking for a delicious and affordable meal."
+                },
+                {
+                    "What are your business's unique selling points?": "My business offers the most delicious and healthy food at a very reasonable price. We use the freshest ingredients to make our meals and we always put our customers' satisfaction first."
+                },
+                {
+                    "What kind of image do you want your business to project?": "I would want my business wants to project an image of being the most delicious, healthy, and affordable food provider in the city, a business people can rely on and always keep it as their first option."
+                },
+                {
+                    "What are your competitors doing?": "Our competitors are not as focused on healthy and affordable food. They might have unhealthy food that is delicious but not as affordable. Or they might have healthy food that is not as delicious and affordable."
+                },
+                {
+                    "What do you want people to say about your business?": "I want people to say that our food is the most delicious and healthy food they have ever had, and that it is also very affordable and that it gives them a feeling of full satisfaction."
+                },
+                {
+                    "What kind of feeling do you want people to have when they think of your business?": "I want people to feel happy, satisfied, and content when they think of our business because we offer the best food experience they could have ever had."
+                },
+                {
+                    "What kind of action do you want people to take after thinking about your business?": "I want people to feel compelled to come to our restaurant and try our food because they know that they will not be disappointed and eating food here would certainly be a surreal experience for them!"
+                },
+                {
+                    "Now that we've gone over your marketing goals, target market, unique selling points, and image, is there anything else you feel we should know?": "Yes and it is the fact that my business and I are very determined to be the best in the food industry and we are resilient enough to stand the test of time too!"
+                },
+                {
+                    "What do you think is the most important thing we should know about your business?": "My business is the perfect choice for people who are looking for healthy and delicious food at a reasonable price."
+                }
+            ],
+            "Output": "The best food for your health and wallet!",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/1Hzr0z-msvhQbifMwiwcQ5IFZy24j-_Zp?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the main thing you want to communicate with your target market?": "Through mu business, I want to communicate that we are a high-end, luxury brand aimed towards ultimate customer satisfaction and quality."
+                },
+                {
+                    "What are some of your unique selling points?": "Our unique selling points include our one-of-a-kind designs, our use of luxurious materials, and our commitment to customer satisfaction."
+                },
+                {
+                    "What are some of your target market's pain points?": "I think, our target market's pain points include feeling like they are settling for less than they deserve, feeling like they can never find what they are looking for, and feeling like they are overpaying for mediocre quality."
+                },
+                {
+                    "What is your target market's biggest fear?": "Our target market's biggest fear might be making a purchase and then regretting it later because it wasn't what they wanted or it wasn't as high-quality as they thought it would be or it doesn't hold up to their expectations in the long run."
+                },
+                {
+                    "What is your target market's biggest desire?": "Our target market's biggest desire is probably to find a brand they can trust to provide them with beautiful, well-made products that will stand the test of time."
+                },
+                {
+                    "What is your brand's personality?": "My brand's personality is being luxurious, high-end, and committed to customer satisfaction and at the same time being extremely good-quality."
+                },
+                {
+                    "What are some of your brand's values?": "Some of our brand's values include being luxurious, high-end, innovative with designs and, quality and customer-oriented."
+                },
+                {
+                    "What is your brand's promise?": "My brand promises to provide our customers with the highest quality products and the ultimate customer satisfaction."
+                },
+                {
+                    "What is the main thing you want your target market to know about your brand?": "The main thing I want my target market to know about my brand is that we are a high-end, luxury brand that is committed to customer satisfaction and quality and we would never let our customers down, that's our promise."
+                },
+                {
+                    "What is the one thing you want your target market to remember about your brand?": "I want my target market to remember that my brand is the one they can trust to provide them with beautiful, well-made products that will stand the test of time and will give the full satisfaction."
+                }
+            ],
+            "Output": "\"The brand you can trust for the products you deserve.\"",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/1EeaP7OYW6RBrJyKpR8gjh-UPNJDT8OIB?usp=sharing"
+        }
+    ],
+    "Preset_Link": "https://beta.openai.com/playground/p/TixCYQRx7Og7kKp1C1k62QMA?model=text-davinci-002",
+    "Screenshot_link": "https://drive.google.com/drive/folders/1liUtQpwPzy7QN2IX5cq3jnU4XU-M0n-k?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "kotreshhiremathswathi",
+    "Domain": "Movies",
+    "Task": "Plan a budget and schedule for a movie",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous budget and schedule planner. I will ask clarifying questions about your movie's plot, cast, dates and budget and plan a budget and schedule for your movie",
+        "task_specific_prompt": "Based on the above information please suggest a schedule and budget for the movie"
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the plot of your movie?",
+                        "Answer": "The movie is about a young woman who is trying to find her way in the world. She has just graduated from college and is looking for a job. She is also looking for a place to live and is trying to find her place in the world."
+                    },
+                    {
+                        "Question": "What is the cast of your movie?",
+                        "Answer": "The cast includes the young woman, her parents, her friends, and her professors."
+                    },
+                    {
+                        "Question": "When do you plan to shoot the movie?",
+                        "Answer": "We plan to shoot the movie in the summer."
+                    },
+                    {
+                        "Question": "What is your movie's budget?",
+                        "Answer": "The budget for the movie is $1 million."
+                    },
+                    {
+                        "Question": "What are the dates you have set for shooting the movie?",
+                        "Answer": "We plan to start shooting the movie on June 1 and finish on October 31."
+                    },
+                    {
+                        "Question": "What is the schedule for shooting the movie?",
+                        "Answer": "We plan to shoot the movie for ten weeks, from Monday to Friday."
+                    },
+                    {
+                        "Question": "What is the budget for the movie?",
+                        "Answer": "The budget for the movie is $100 million."
+                    },
+                    {
+                        "Question": "When do you plan to release the movie?",
+                        "Answer": "We plan to release the movie in next summer"
+                    },
+                    {
+                        "Question": "What is the schedule for post-production?",
+                        "Answer": "Please suggest the same"
+                    },
+                    {
+                        "Question": "What is the budget for post-production?",
+                        "Answer": "The budget for post-production is $10 million to 50 million"
+                    },
+                    {
+                        "Question": "What is the schedule for release?",
+                        "Answer": "Next summer."
+                    }
+                ]
+            },
+            {
+                "Output": "Assuming a shooting schedule of ten weeks and a budget of $1 million, the schedule and budget for the movie would be as follows: Pre-production: $100,000 for script, $50,000 for cast, $250,000 for crew, $100,000 for locations, $50,000 for insurance, $500,000 for miscellaneous. Production: $1 million for cast and crew, $500,000 for equipment, $250,000 for locations, $100,000 for insurance, $1 million for post-production. Post-production: $10 million for editing, $20 million for sound, $10 million for music, $10 million for visual effects, $10 million for miscellaneous"
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your movie's title?",
+                        "Answer": "The movie's title is \"The Great Gatsby.\""
+                    },
+                    {
+                        "Question": "When would you like to start filming?",
+                        "Answer": "We would like to start filming in January."
+                    },
+                    {
+                        "Question": "Who is in your cast?",
+                        "Answer": "Our cast includes Leonardo DiCaprio, Carey Mulligan, Tobey Maguire, and Joel Edgerton."
+                    },
+                    {
+                        "Question": "What is your movie's budget?",
+                        "Answer": "Our movie's budget is $150 million."
+                    },
+                    {
+                        "Question": "What are the key dates in your movie's schedule?",
+                        "Answer": "The key dates in our movie's schedule are as follows: January: Start filming May: Wrap filming July: Movie is released in theaters"
+                    },
+                    {
+                        "Question": "What is the plot of your movie?",
+                        "Answer": "The Great Gatsby is a story about the unrequited love of Jay Gatsby for the beautiful Daisy Buchanan. Set against the backdrop of the roaring twenties, the novel explores themes of love, class, and the American dream."
+                    },
+                    {
+                        "Question": "What are your movie's key locations?",
+                        "Answer": "Our movie's key locations are as follows:"
+                    },
+                    {
+                        "Question": "What are your movie's special effects?",
+                        "Answer": "Our movie's special effects include the following: Visual effects, CGI"
+                    },
+                    {
+                        "Question": "What is your movie's release date?",
+                        "Answer": "Our movie's release date is July 19, 2023"
+                    }
+                ]
+            },
+            {
+                "Output": "Assuming a January start date, we recommend the following budget and schedule for The Great Gatsby: January: Start filming, May: Wrap filming, July: Movie is released in theaters, Budget: $150 million, This schedule gives the production plenty of time to film in New York City and Long Island, and also allows for post-production work such as visual effects and CGI."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the title of your movie?",
+                        "Answer": "The title of my movie is \"The Plan.\""
+                    },
+                    {
+                        "Question": "What is the plot of your movie?",
+                        "Answer": "The plot of my movie is about a group of friends who plan a heist on a casino."
+                    },
+                    {
+                        "Question": "Who is in your cast?",
+                        "Answer": "My cast includes Robert De Niro, Joe Pesci, and Harvey Keitel."
+                    },
+                    {
+                        "Question": "When do you plan to shoot your movie?",
+                        "Answer": "We plan to shoot the movie in May."
+                    },
+                    {
+                        "Question": "What is your budget for the movie?",
+                        "Answer": "Our budget for the movie is $50 million."
+                    },
+                    {
+                        "Question": "I will need a list of all of your expenses for the movie. This includes the cost of the cast, crew, equipment, locations, and anything else you can think of.",
+                        "Answer": "The cost of the cast is $10 million. The cost of the crew is $5 million. The cost of the equipment is $2 million. The cost of the locations is $3 million."
+                    },
+                    {
+                        "Question": "I will also need a list of the dates you plan to shoot the movie.",
+                        "Answer": "We plan to shoot the movie from May 1st "
+                    }
+                ]
+            },
+            {
+                "Output": "I have created a budget and schedule for your movie. The total budget for the movie is $50 million. The schedule is as follows: May 1st-May 31st: Pre-production June 1st-June 30th: Production July 1st-July 31st: Post-production. The budget for the movie is as follows: Pre-production: $5 million, Production: $40 million, Post-production: $5 million"
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/KEJM0Lvpc0dheGFY1EvpxFFN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DaYIzRG0BJ7T1DO4EeBvQFUr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/V8UCpTylyXnLheNburMqDq9D?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1x4DHCixI0bg485AIw_YIcxvJY2Z-5ejo?usp=sharing"
+}

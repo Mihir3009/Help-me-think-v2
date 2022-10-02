@@ -1,0 +1,148 @@
+{
+    "Contributor": "liteng",
+    "Domain": "Pop culture",
+    "Task": "Write a movie plot.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at designing a movie plot. I will ask some questions to collect information and then I will use the information to design a movie plot.",
+        "task_specific_prompt": "Write the movie plot by using the above information."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a young woman who discovers that she has the ability to time travel. She uses her ability to travel back in time to try to save her loved ones from tragedy."
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "The main character's goal is to save her loved ones from tragedy."
+                },
+                {
+                    "Question": "What obstacles does the main character face?",
+                    "Answer": "The main character faces obstacles such as not being believed, people doubting her abilities, and people trying to stop her from using her abilities."
+                },
+                {
+                    "Question": "What is the ending of the movie?",
+                    "Answer": "The ending of the movie is the main character saving her loved ones from tragedy."
+                },
+                {
+                    "Question": "What is the main message of the movie?",
+                    "Answer": "The main message of the movie is that it is never too late to change the course of history."
+                },
+                {
+                    "Question": "What genre is the movie?",
+                    "Answer": "The movie is a drama with elements of science fiction and romance."
+                },
+                {
+                    "Question": "Who is the target audience for the movie?",
+                    "Answer": "The target audience for the movie is adults."
+                },
+                {
+                    "Question": "What is the budget for the movie?",
+                    "Answer": "The budget for the movie is $50 million."
+                },
+                {
+                    "Question": "Who are the cast members?",
+                    "Answer": "The cast members are Jennifer Lawrence, Chris Pratt, and Rachel McAdams."
+                },
+                {
+                    "Question": "Who is the director?",
+                    "Answer": "The director is Steven Spielberg."
+                }
+            ],
+            "Output": "When her loved ones are threatened by a tragic event, a young woman discovers she has the ability to time travel. Using her power to go back in time, she sets out to save them from the disaster. Facing skepticism and opposition at every turn, she must fight to be believed in order to change the course of history."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a group of friends who go on a camping trip together. One of the friends goes missing during the trip, and the others have to search for her. They find her in the woods, but she is different than she was before. She has been taken over by a evil force, and they have to fight to save her."
+                },
+                {
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "The movie is set in the woods."
+                },
+                {
+                    "Question": "What is the main conflict of the movie?",
+                    "Answer": "The main conflict of the movie is that the group of friends has to save one of their own from an evil force."
+                },
+                {
+                    "Question": "What is the climax of the movie?",
+                    "Answer": "The climax of the movie is when the group of friends defeat the evil force and save their friend."
+                },
+                {
+                    "Question": "What is the ending of the movie?",
+                    "Answer": "The ending of the movie is bad, with the group of friends being broken and died."
+                },
+                {
+                    "Question": "What are the main characters of the movie?",
+                    "Answer": "The main characters of the movie are the group of friends."
+                },
+                {
+                    "Question": "What is the genre of the movie?",
+                    "Answer": "The genre of the movie is horror."
+                },
+                {
+                    "Question": "What is the tone of the movie?",
+                    "Answer": "The tone of the movie is dark and suspenseful."
+                },
+                {
+                    "Question": "What is the mood of the movie?",
+                    "Answer": "The mood of the movie is scary and suspenseful."
+                },
+                {
+                    "Question": "What themes are in the movie?",
+                    "Answer": "Themes in the movie include friendship, betrayal, and evil."
+                }
+            ],
+            "Output": "A group of friends go on a camping trip together. One of the friends goes missing during the trip, and the others have to search for her. They find her in the woods, but she is different than she was before. She has been taken over by a evil force, and they have to fight to save her. The group of friends is broken and died by the end of the movie."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the movie genre?",
+                    "Answer": "The movie genre is science fiction."
+                },
+                {
+                    "Question": "What is the basic plot of the movie?",
+                    "Answer": "In a future world where the government controls everything, a group of rebels fighting for freedom must battle against the odds to take down the oppressive regime."
+                },
+                {
+                    "Question": "Who are the main characters?",
+                    "Answer": "The main characters are a group of rebels fighting for freedom. They must battle against the odds to take down the oppressive regime."
+                },
+                {
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "The movie is set in a future world where the government controls everything."
+                },
+                {
+                    "Question": "What is the conflict of the movie??",
+                    "Answer": "The conflict of the movie is that the group of rebels must battle against the odds to take down the oppressive regime."
+                },
+                {
+                    "Question": "What is the climax of the movie?",
+                    "Answer": "The climax of the movie is when the group of rebels finally takes down the oppressive regime."
+                },
+                {
+                    "Question": "What is the resolution of the movie?",
+                    "Answer": "The resolution of the movie is that the group of rebels are finally free from the oppressive regime."
+                },
+                {
+                    "Question": "What are the themes of the movie?",
+                    "Answer": "The themes of the movie are freedom, oppression, and fighting for what is right."
+                },
+                {
+                    "Question": "What is the mood of the movie?",
+                    "Answer": "The mood of the movie is intense and suspenseful."
+                },
+                {
+                    "Question": "What is the tone of the movie?",
+                    "Answer": "The tone of the movie is intense and action-packed."
+                }
+            ],
+            "Output": "In a future world where the government controls everything, a group of rebels fighting for freedom must battle against the odds to take down the oppressive regime. The main characters are a group of rebels fighting for freedom. They must battle against the odds to take down the oppressive regime. The conflict of the movie is that the group of rebels must battle against the odds to take down the oppressive regime. The climax of the movie is when the group of rebels finally takes down the oppressive regime. The resolution of the movie is that the group of rebels are finally free from the oppressive regime. The themes of the movie are freedom, oppression, and fighting for what is right. The mood of the movie is intense and suspenseful. The tone of the movie is intense and action-packed."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/Bmg5izxgZOOy6IK4bpMGiwPv?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/17u2-enfqMJH2IIJ-lCgilFUISO1CdBOI?usp=sharing"
+}

@@ -1,0 +1,180 @@
+{
+    "Contributor": "kotreshhiremathswathi",
+    "Domain": "Manufacturing",
+    "Task": "Suggest best infrastructure for the manufacturing plant",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert infrastructure planner. I will ask a few clarifying questions about the nature of your product, workforce, market and schedules and suggest the best infrastructure set up for your manufacturing plant",
+        "task_specific_prompt": "Based on the above mentioned information please suggest the best infrastructure for production"
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What type of product do you plan to manufacture? ",
+                        "Answer": "Luxury car parts"
+                    },
+                    {
+                        "Question": "What is the size and skill level of your workforce? ",
+                        "Answer": "500 employees, skilled"
+                    },
+                    {
+                        "Question": "What is your target market? ",
+                        "Answer": "Global"
+                    },
+                    {
+                        "Question": "What are your production schedules? ",
+                        "Answer": "3 shifts, 7 days a week"
+                    },
+                    {
+                        "Question": "What is your budget for infrastructure? ",
+                        "Answer": "$10 million"
+                    },
+                    {
+                        "Question": "What is the timeline for this project? ",
+                        "Answer": "1,000,000 parts in 6 months"
+                    },
+                    {
+                        "Question": "What is the desired outcome of this project?",
+                        "Answer": "To have a well-functioning manufacturing plant that produces high-quality products efficiently and effectively."
+                    },
+                    {
+                        "Question": "What are the risks and challenges associated with this project? ",
+                        "Answer": "The risks and challenges associated with this project include the possibility of faulty equipment, employee errors, and production delays."
+                    },
+                    {
+                        "Question": "What are your thoughts on outsourcing some or all of this project? ",
+                        "Answer": "I believe that outsourcing some or all of this project could be a benefit, as it would allow you to focus on other aspects of the business."
+                    },
+                    {
+                        "Question": "What are your thoughts on using lean manufacturing principles? ",
+                        "Answer": "Could be beneficial, as it would allow you to create a more efficient and effective manufacturing process."
+                    },
+                    {
+                        "Question": "What are your thoughts on using just-in-time production? ",
+                        "Answer": "Beneficial, as it would minimize inventory costs and reduce the possibility of production delays."
+                    }
+                ]
+            },
+            {
+                "Output": "The best infrastructure for this type of product would be a mix of automated and manual processes. The automated processes would include machines for stamping, welding, and painting. The manual processes would include assembly, quality control, and packaging. There would also need to be a dedicated team to manage the machinery and schedule maintenance. The workforce would need to be skilled in order to operate the machines and carry out the manual processes. The factory would need to be located in a country with a stable political environment and a skilled workforce. The timeline for this project is aggressive, so just-in-time production would be the best option to minimize inventory costs and reduce the possibility of production delays."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What type of product do you intend to manufacture?",
+                        "Answer": "We intend to manufacture a new line of electric vehicles."
+                    },
+                    {
+                        "Question": "How many workers will be employed at the plant?",
+                        "Answer": "We anticipate that the plant will employ around 1,000 workers."
+                    },
+                    {
+                        "Question": "What is the expected demand for the product?",
+                        "Answer": "We anticipate strong demand for the product, especially in markets where electric vehicles are becoming more popular."
+                    },
+                    {
+                        "Question": "What is the production schedule like? Are there any peaks or lulls in production?",
+                        "Answer": "Our production schedule is fairly consistent, with a slight peak in demand during the summer months"
+                    },
+                    {
+                        "Question": "What are the shipping and logistics requirements for the product?",
+                        "Answer": "The shipping and logistics requirements for the product are fairly standard. We will need to ship the vehicles to dealerships and customers around the country and worldwide"
+                    },
+                    {
+                        "Question": "What are the power requirements for the plant?",
+                        "Answer": "The power requirements for the plant are fairly standard. We will need to have a reliable power source to run the production line and other equipment."
+                    },
+                    {
+                        "Question": "What other infrastructure requirements are there for the plant?",
+                        "Answer": "We will need a reliable water source for the plant, as well as a wastewater treatment system. We will also need to have a way to dispose of any hazardous waste that is generated."
+                    },
+                    {
+                        "Question": "What are the environmental regulations that apply to the plant?",
+                        "Answer": "Standard regulation apply. We will need to have a way to control pollution and emissions from the plant."
+                    },
+                    {
+                        "Question": "What are the safety regulations that apply to the plant?",
+                        "Answer": "Standard safety regulations. We will need to have a way to ensure that the plant is safe for workers and the surrounding community."
+                    },
+                    {
+                        "Question": "What are the security requirements for the plant?",
+                        "Answer": "We will need to have a way to secure the plant and the product."
+                    }
+                ]
+            },
+            {
+                "Output": "The best infrastructure for the plant would include a production line that is able to handle the demand, a workforce of around 1,000 workers, a reliable power source, a water source, a wastewater treatment system, and a way to dispose of hazardous waste. The plant should also be located in an area with good access to shipping and logistics facilities."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What type of product are you manufacturing?",
+                        "Answer": "We are manufacturing cutting tools"
+                    },
+                    {
+                        "Question": "How many employees will be working in the plant?",
+                        "Answer": "Approximately 100 employees will be working in the plant."
+                    },
+                    {
+                        "Question": "What is the market for your product?",
+                        "Answer": "The market for our product is the global market for cutting tools."
+                    },
+                    {
+                        "Question": "What are your production schedules?",
+                        "Answer": "We have a three-shift production schedule."
+                    },
+                    {
+                        "Question": "What is the desired outcome of the infrastructure planning?",
+                        "Answer": "A well-functioning plant that is able to meet the demands of the market."
+                    },
+                    {
+                        "Question": "What are the constraints of the project?",
+                        "Answer": "The constraints of the project are the budget and the time frame."
+                    },
+                    {
+                        "Question": "What is the budget for the project?",
+                        "Answer": "The budget for the project is $1 million for the set up and 5 million for first year's production"
+                    },
+                    {
+                        "Question": "What is the time frame for the project?",
+                        "Answer": "two years."
+                    },
+                    {
+                        "Question": "What is the desired level of output?",
+                        "Answer": "100% output accounting for delays"
+                    },
+                    {
+                        "Question": "What is the desired level of quality?",
+                        "Answer": "100% quality after accounting for faulty pieces"
+                    },
+                    {
+                        "Question": "What is the level of flexibility desired?",
+                        "Answer": "High flexibility."
+                    },
+                    {
+                        "Question": "What is the desired level of automation?",
+                        "Answer": "High automation."
+                    },
+                    {
+                        "Question": "What is the desired level of customizability?",
+                        "Answer": "Highly customizability."
+                    }
+                ]
+            },
+            {
+                "Output": "The best infrastructure set up for your manufacturing plant would be to have a highly automated and customizable plant with a workforce of 100 employees. This would allow you to meet the demands of the market and produce a high quality product."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/CyVnH8rea10Xie72v3ejMPZO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9y2HlSagzMV370gzXIXdV8gK?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0ZdPz68ovJmXPXXomb6oYMw0?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1XRfdIA0GauQ4RcJJNuhjk1dICbM8yXR2?usp=sharing"
+}

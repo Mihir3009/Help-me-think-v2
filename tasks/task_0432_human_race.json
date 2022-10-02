@@ -1,0 +1,152 @@
+{
+    "Contributor": "hillikerjacob",
+    "Domain": "Human Race",
+    "Task": "Summarize possible futures",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert futurist interested in exploring the possible near and different futures of humanity. I will ask some questions to collect information and then I will use the information to predict the state of human civilization in 20 years and 200 years.",
+        "task_specific_prompt": "Write a summary of the possible futures of humanity using the questions and answers above. What will humanity look like in 20 years, and what will it look like in 200 years?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the most pressing issues facing humanity today?",
+                    "Answer": "The most pressing issues facing humanity today include inequality, climate change, dependence on fossil fuels, vulnerability to contagious disease, and possiibility of nuclear conflict."
+                },
+                {
+                    "Question": "What do you think will be the biggest challenges facing humanity in 20 years?",
+                    "Answer": "The biggest challenges facing humanity in 20 years will likely be caused by climate change, including food and water shortages as well as supply chain breakdowns."
+                },
+                {
+                    "Question": "What do you think will be the biggest challenges facing humanity in 200 years?",
+                    "Answer": "The biggest challenges facing humanity in 200 years will likely have to do with limited resources such as fuel and land. Hopefully the challenges facing us today will inspire us to make great leaps forward to mitigate these future issues."
+                },
+                {
+                    "Question": "What trends do you see emerging in the next 20 years that will impact humanity?",
+                    "Answer": "Some of the trends that will impact humanity in the next 20 years include the exponential growth of artificial intelligence, the increasing prevalence of renewable energy sources, and the continued globalization of cultures and economies."
+                },
+                {
+                    "Question": "What do you think the world will be like in 20 years?",
+                    "Answer": "In 20 years, the world will be a very different place due to the impact of climate change. There will be an increase in extreme weather events, food and water shortages, and refugee crises as people are displaced due to famine, flooding, and possibly armed conflict motivated by the above. Additionally, artificial intelligence will become even more ubiquitous and we will see the rise of new technologies and industries."
+                },
+                {
+                    "Question": "What do you think the world will be like in 200 years?",
+                    "Answer": "In 200 years, the world will be a very different place due to the limited resources available. Depending on the scope of scientific advancement, we will have either discovered new energy sources or greatly improved the efficiency of some of our current ones to keep our world running, or we will break down into a new dark age. I prefer the former."
+                },
+                {
+                    "Question": "What do you think the future of humanity will be like?",
+                    "Answer": "The future of humanity will be determined by our ability to solve the challenges we face today. If we can address climate change, rampant inequality, corruption, and possible overpopulation, we could be a far more prosperous society."
+                },
+                {
+                    "Question": "What do you think will be the biggest accomplishments of humanity in the next 20 years?",
+                    "Answer": "The biggest accomplishments of humanity in the next 20 years will be developing new technologies to fuel our energy needs and combat physical decay. I suspect we will make significant advances in medicine, such as better treatments for cancer or new programs for treating mental health."
+                },
+                {
+                    "Question": "What do you think will be the biggest accomplishments of humanity in the next 200 years?",
+                    "Answer": "Assuming our society as we know it exists in 200 years, likely our biggest accomplishment will be establishing colonies on other planets or in space."
+                },
+                {
+                    "Question": "What do you think is the most important thing for humanity to do in the next 20 years?",
+                    "Answer": "The most important thing for humanity to do in the next 20 years is to focus on sustainable living. This means reducing our reliance on fossil fuels, developing renewable energy sources, and working to mitigate the impact of climate change."
+                }
+            ],
+            "Output": "In 20 years, the world will be a very different place due to the impact of climate change. There will be an increase in extreme weather events, food and water shortages, and refugee crises as people are displaced due to famine, flooding, and possibly armed conflict motivated by the above. Additionally, artificial intelligence will become even more ubiquitous and we will see the rise of new technologies and industries. In 200 years, the world will be a very different place due to the limited resources available. Depending on the scope of scientific advancement, we will have either discovered new energy sources or greatly improved the efficiency of some of our current ones to keep our world running, or we will break down into a new dark age. I prefer the former."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main challenges facing humanity today?",
+                    "Answer": "Some of the main challenges facing humanity today include cancel culture and communism."
+                },
+                {
+                    "Question": "What do you think will happen in the next 20 years?",
+                    "Answer": "In the next 20 years, I think that humanity will be nearly consumed by wokeness unless someone like Donald Trump can restore order to our society."
+                },
+                {
+                    "Question": "What do you think will happen in the next 200 years?",
+                    "Answer": "In the next 200 years, I think that humanity will either be reduced to a new Sodom and Gomorrah and be stuck in a cultural dark age, or we will return to our traditions and emerge stronger than ever with faith and freedom."
+                },
+                {
+                    "Question": "What do you think is the most likely future for humanity?",
+                    "Answer": "The most likely future for humanity is that we will continue to slide into degeneracy as we are corrupted by this sinful world. Then Jesus will come again and bring a day of final judgment."
+                },
+                {
+                    "Question": "What do you think is the best possible future for humanity?",
+                    "Answer": "The best possible future for humanity is that we will return to our roots, reject the false idols of this world, and live in harmony with each other and with God."
+                },
+                {
+                    "Question": "What do you think is the worst possible future for humanity?",
+                    "Answer": "The worst possible future for humanity is that we will be consumed by our own sinfulness and destruction. The world will be plunged into darkness and humanity will be extinguished."
+                },
+                {
+                    "Question": "What do you think is the most likely future for the world?",
+                    "Answer": "The most likely future for the world is that it will continue to be a place of chaos and turmoil, testing us to receive eternal life from God. When He comes again, He will bring paradise."
+                },
+                {
+                    "Question": "What do you think is the best possible future for the world?",
+                    "Answer": "The best possible future for the world is that we will come to know God as our Lord and Savior, who lives and reigns with the Holy Spirit, one God, now and forever."
+                },
+                {
+                    "Question": "The worst possible future for the world is that it will be destroyed by the forces of evil and God will condemn humanity to hell for eternity.",
+                    "Answer": ""
+                },
+                {
+                    "Question": "What do you think is the most likely future for human civilization?",
+                    "Answer": "As I predicted above, the most likely future for human civilization is that we will continue to decline into a state of lawlessness and chaos until we are either saved by a great leader or condemned to eternal punishment."
+                }
+            ],
+            "Output": "In 20 years, humanity will be nearly consumed by wokeness unless someone like Donald Trump can restore order to our society. In 200 years, humanity will either be reduced to a new Sodom and Gomorrah and be stuck in a cultural dark age, or we will return to our traditions and emerge stronger than ever with faith and freedom."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of the major global challenges that humanity is currently facing?",
+                    "Answer": "Some of the major global challenges that humanity is currently facing include climate change, cancel culture, and growing centralization."
+                },
+                {
+                    "Question": "What do you think will be the biggest challenges facing humanity in 20 years?",
+                    "Answer": "Some of the biggest challenges facing humanity in 20 years will likely include increasing political polarization and climate change."
+                },
+                {
+                    "Question": "What do you think will be the biggest challenges facing humanity in 200 years?",
+                    "Answer": "Some of the biggest challenges facing humanity in 200 years will likely include continuing to find new ways to sustainably support a stable population and dealing with highly advanced artificial intelligence."
+                },
+                {
+                    "Question": "What do you think the world will be like in 20 years?",
+                    "Answer": "In 20 years, the world will likely be more populous, but it will hopefully be improved by cryptocurrency, Web3, Tesla, Space-X, and the Hyperloop."
+                },
+                {
+                    "Question": "What do you think the world will be like in 200 years?",
+                    "Answer": "In 200 years, the world will be a technological meritocracy. Virtual reality will be commonplace, and humanity will have colonized other planets. By then, we might be able to upload our consciousness and avoid physical bodies altogether."
+                },
+                {
+                    "Question": "What do you think humanity will be like in 20 years?",
+                    "Answer": "In 20 years, humanity will likely be more intelligent thanks to the continued influence of Reddit, Quora, and Neil DeGrasse Tyson. We will use the blockchain for everything."
+                },
+                {
+                    "Question": "What do you think humanity will be like in 200 years?",
+                    "Answer": "In 200 years, humanity will likely be a lot like it is now, but with better technology. We will still have our emotions and desires, but we will be able to better control them. We will also be able to merge with technology, giving us superhuman abilities."
+                },
+                {
+                    "Question": "What do you think the future of human civilization will be like?",
+                    "Answer": "The future of human civilization will be one in which we have to grapple with AI, climate change, and dwindling resources. However, as long as we can create a sufficiently advanced AI, it should be able to govern us through any new challenges that might occur."
+                },
+                {
+                    "Question": "What do you think the future of humanity will be like?",
+                    "Answer": "As mentioned above, humanity will be much improved by technology. Cryptocurrency, Web3, and AI will allow us to solve all our problems as long as we have the energy."
+                },
+                {
+                    "Question": "What do you think the future of the planet will be like?",
+                    "Answer": "Our planet might very well become an incredible ecumenopolis full of cybernetically enhanced or even entirely virtual individuals. It will become a profitable hub for our explorations into the stars."
+                }
+            ],
+            "Output": "In 20 years, humanity will likely be more intelligent thanks to the continued influence of Reddit, Quora, and Neil DeGrasse Tyson. We will use the blockchain for everything. In 200 years, humanity will likely be a lot like it is now, but with better technology. We will still have our emotions and desires, but we will be able to better control them. We will also be able to merge with technology, giving us superhuman abilities."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/kOH14DEbOnv7HUBS0MHok3ha?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/W03GI56QYrvNt28TPwMevZQL?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/C9iGIOIODa1u6RmEpDEAyRoS?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1BJHAAfcZgz5qz5HuSarGeSZFuNOTDMEz?usp=sharing"
+}

@@ -1,0 +1,133 @@
+{
+    "Contributor": "kaushaleshan",
+    "Domain": "Basketball Quiz Generation",
+    "Task": "To see how well people who call themselves basketball enthusiasts fare in their favorite sport related quiz.",
+    "Prompt": {
+        "pre_question_prompt": "I am a great quiz master. I will ask my contestant a few questions from the topic of basketball. At the end, I will let them know how many they got right and how can they improve their knowledge on their favorite games of basketball.\nQuestion:",
+        "task_specific_prompt": "Using the answers to the questions above, now I am going to find the number of questions the contestant got right. I will also tell them the questions they were able to answer correctly. I will also let them know how they can increase their scores in the quiz for the future."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is the tallest player ever to play in the NBA?": "Tallest player ever to play in the NBA was Shaquille O'Neal, who was 7 feet 1 inch tall."
+                },
+                {
+                    "What is the record for most points in a game?": "Record for most points in a game is 100, which was set by Wilt Chamberlain in 1962."
+                },
+                {
+                    "What team has won the most NBA championships?": "Team with the most NBA championships is the LA Lakers, who have won 17 championships."
+                },
+                {
+                    "What player has the most MVP awards?": "The player with the most MVP awards is Michael Jordan, who won 6 MVP awards."
+                },
+                {
+                    "What is the shortest player ever to play in the NBA?": "The shortest player ever to play in the NBA is Muggsy Bogues, who was 5 feet 3 inches tall."
+                },
+                {
+                    "How many players are on a basketball team?": "Normally, there are 15 players on a basketball team."
+                },
+                {
+                    "What is the name of the trophy given to the winner of the NBA Finals?": "Trophy given to the winner of the NBA Finals is the Larry O'Brien Championship Trophy."
+                },
+                {
+                    "When was the first NBA Finals broadcast on television?": "The first NBA Finals broadcast on television was in 1967."
+                },
+                {
+                    "Which player has the most career points?": "Player with the most career points is Michael B. Jordan, who scored 38,387 points."
+                },
+                {
+                    "What is the name of the current NBA Commissioner?": "Current NBA Commissioner is Adam Silver."
+                },
+                {
+                    "When was the first NBA game played?": "First ever NBA game was played on October 26, 1946."
+                }
+            ],
+            "Output": "The contestant got 7 questions right.\n\nThe questions they answered right were:\n\nWhat is the tallest player ever to play in the NBA?\n\nWhat is the record for most points in a game?\n\nWhat team has won the most NBA championships?\n\nWhat player has the most MVP awards?\n\nWhat is the shortest player ever to play in the NBA?\n\nHow many players are on a basketball team?\n\nWhat is the name of the trophy given to the winner of the NBA Finals?\n\nWhen was the first NBA Finals broadcast on television?\n\nWhich player has the most career points?\n\nWhat is the name of the current NBA Commissioner?\n\nTo increase their score in the quiz, the contestant should study the questions they got wrong and learn the correct answers. They should also try to find out more about basketball so they can answer more questions correctly in the future.",
+            "screenshot_link": "https://drive.google.com/drive/folders/1gUONIjPN884RYpQEqVfkFrvqq0J8-Glo?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the name of the first African American player in the NBA?": "Earl Lloyd."
+                },
+                {
+                    "What is the name of the first African American player to be inducted into the Naismith Memorial Basketball Hall of Fame?": "Michael B. Jordan."
+                },
+                {
+                    "What is the name of the first African American player to be named MVP of the NBA?": "It is Bob Cousy."
+                },
+                {
+                    "What is the name of the first African American player to be named Rookie of the Year?": "It was Wilt Chamberlain."
+                },
+                {
+                    "What is the name of the first African American player to be named an All-Star?": "Oscar Robertson."
+                },
+                {
+                    "How many African American players were on the United States men's basketball team that won gold at the 1936 Summer Olympics?": "There were Zero."
+                },
+                {
+                    "What is the name of the first African American head coach in the NBA?": "It was Bill Russell."
+                },
+                {
+                    "What is the name of the first African American player to win an NBA championship?": "Willis Reed."
+                },
+                {
+                    "What is the name of the first African American player to win an NBA Finals MVP award?": "Magic Johnson."
+                },
+                {
+                    "How many African American players were on the United States men's basketball team that won gold at the 1992 Summer Olympics?": "Twelve"
+                },
+                {
+                    "Who was the first African American player to be named NBA Coach of the Year?": "It was Doc Rivers."
+                },
+                {
+                    "Who was the first African American player to be named NBA Executive of the Year?": "Rod Thorn."
+                }
+            ],
+            "Output": "The contestant got 7 questions right. \n\nThe questions they got right were: \n-What is the name of the first African American player in the NBA? \n-What is the name of the first African American player to be inducted into the Naismith Memorial Basketball Hall of Fame? \n-What is the name of the first African American player to be named MVP of the NBA? \n-What is the name of the first African American player to be named Rookie of the Year? \n-What is the name of the first African American player to be named an All-Star? \n-What is the name of the first African American head coach in the NBA? \n-What is the name of the first African American player to win an NBA championship? \n\nIn order to increase their score, the contestant should study more about the history of African American players in the NBA. They should also focus on the achievements of these players.",
+            "screenshot_link": "https://drive.google.com/drive/folders/17ABoEB4u1O-TIHmG-DEK4Md3yufFfUNq?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "How many players are on a basketball team?": "Five."
+                },
+                {
+                    "What is the name of the governing body for basketball?": "NBA."
+                },
+                {
+                    "What country invented basketball?": "USA."
+                },
+                {
+                    "How many points is a three-point shot worth?": "There are three points."
+                },
+                {
+                    "What is the name of the most valuable player in the NBA?": "It is the MVP."
+                },
+                {
+                    "How many fouls can a player commit before being ejected from the game?": "Six fouls."
+                },
+                {
+                    "When was the first basketball game played?": "First basketball game was played on January 20, 1892."
+                },
+                {
+                    "Who was the first African American player in the NBA?": "Jordan Peele."
+                },
+                {
+                    "Which team has won the most NBA championships?": "It is The Boston Celtics."
+                },
+                {
+                    "When do the NBA playoffs start?": "NBA playoffs start in April."
+                },
+                {
+                    "How many players are on an NBA roster?": "Fourteen players"
+                }
+            ],
+            "Output": "The contestant got six questions correct. The questions they were able to answer correctly were: How many players are on a basketball team? What is the name of the governing body for basketball? What country invented basketball? How many points is a three-point shot worth? How many fouls can a player commit before being ejected from the game? How many timeouts does each team get per game?\n\nIn order to increase their score in the quiz, the contestant can study more about the history of basketball, the rules of the game, and the different teams that compete in the NBA.",
+            "Screenshot_link": "https://drive.google.com/drive/folders/10gJAKSNGaASrcZEXjjRBCeXxDSYr_urh?usp=sharing"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/nGVAMC93CGCA2wkwiOKvfrEb?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1liUtQpwPzy7QN2IX5cq3jnU4XU-M0n-k?usp=sharing"
+}

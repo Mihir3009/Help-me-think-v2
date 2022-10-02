@@ -1,0 +1,122 @@
+{
+    "Contributor": "kaharjashpramod",
+    "Domain": "Knowledge Base",
+    "Task": "Brand promos",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in creating a knowledge base. I will ask some questions to collect information and then I will use the information to make knowledge base $instace_specific_prompt$",
+        "task_specific_prompt": "using the questions and answers above, give the knowledge base for $instace_specific_prompt$"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How to take a screenshot on a Samsung Galaxy smartphone?",
+                    "Answer": "To take a screenshot on a Samsung Galaxy smartphone, simply: 1. Press and hold the Power button and the Volume down button at the same time 2. You'll hear a shutter sound and see an animation as the screenshot is taken. 3. The screenshot will be saved in the Screenshots folder in the Gallery app."
+                },
+                {
+                    "Question": "How to enable/disable developer options on a Samsung Galaxy smartphone?",
+                    "Answer": "Developer options can be enabled on a Samsung Galaxy smartphone by going to: 1. Settings > About phone. 2. Tap on the Build number item seven times. 3. A message will appear saying that you are now a developer. 4. Go back to the previous screen and you will see the Developer options item now present. To disable developer options, simply go to Settings > Developer options and toggle the Off switch."
+                },
+                {
+                    "Question": "How to enable/disable USB debugging on a Samsung Galaxy smartphone?",
+                    "Answer": "USB debugging can be enabled on a Samsung Galaxy smartphone by going to: 1. Settings > About phone 2. Tap on the Build number item seven times. 3. A message will appear saying that you are now a developer. 4. Go back to the previous screen and you will see the Developer options item now present. 5. Tap on Developer options and then toggle the USB debugging switch to the On position. To disable USB debugging, simply go to Settings > Developer options and toggle the USB debugging switch to the Off position.                    "
+                },
+                {
+                    "Question": "How to factory reset a Samsung Galaxy smartphone?",
+                    "Answer": "There are two ways to factory reset a Samsung Galaxy smartphone: 1. From the Settings menu. 2. Tap on the General management option. 3. Tap on the Reset option. 4. Tap on the Factory data reset option. 5. Tap on the Reset device button. 6. Enter your PIN/password if prompted. 7. Tap on the Delete all button."
+                },
+                {
+                    "Question": "How to boot a Samsung Galaxy smartphone into recovery mode?",
+                    "Answer": "There are two ways to boot a Samsung Galaxy smartphone into recovery mode: 1. From the Settings menu: 2. Tap on the General management option. 3. Tap on the Reset option. 4. Tap on the Factory data reset option. 5. Tap on the Reset device button. 6. Enter your PIN/password if prompted. 7. Tap on the Delete all button."
+                },
+                {
+                    "Question": "How to boot a Samsung Galaxy smartphone into download mode?",
+                    "Answer": "The website of the library is https://lib.asu.edu/hayden."
+                },
+                {
+                    "Question": "What services does the library offer?",
+                    "Answer": "To boot a Samsung Galaxy smartphone into download mode, simply: 1. Turn off the device. 2. Press and hold the Volume down key and the Bixby key, then press and hold the Power key. 3. When the Android logo displays, release all three keys. 4. An 'Installing system update' message will show for 30 - 60 seconds before the Android system recovery menu options appear. 5. Press the Volume down key several times key to highlight wipe data / factory reset. 6. Press Power button to select. 7. Press the Volume down key until 'Yes -- delete all user data' is highlighted. 8. Press Power button to select and start"
+                }
+            ],
+            "Output": "The Samsung Knowledge Base is the perfect resource for those who want to learn more about their Samsung Galaxy smartphone. From taking screenshots and enabling developer options, to factory resetting and booting into recovery mode, the Knowledge Base has everything you need to know about your Samsung Galaxy smartphone."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the different types of products offered by Apple?",
+                    "Answer": "Apple offers a variety of electronic products, including the iPhone, iPad, iPod, and Macintosh computer."
+                },
+                {
+                    "Question": "What are the different types of services offered by Apple?",
+                    "Answer": "Apple offers a variety of services, including the iTunes Store, App Store, iMessage, and iCloud."
+                },
+                {
+                    "Question": "What is the history of Apple?",
+                    "Answer": "Apple was founded in 1976 by Steve Jobs and Steve Wozniak."
+                },
+                {
+                    "Question": "What is Apple's mission statement?",
+                    "Answer": "Apple's mission statement is to bring the best personal computing experience to students, educators, creative professionals and consumers around the world through its innovative hardware, software and Internet offerings"
+                },
+                {
+                    "Question": "What are Apple's core values?",
+                    "Answer": "Apple's core values are simplicity, creativity, and innovation."
+                },
+                {
+                    "Question": "What are some of Apple's most popular products?",
+                    "Answer": "Apple's most popular products include the iPhone, iPad, iPod, and Macintosh computer."
+                },
+                {
+                    "Question": "What are some of the awards that Apple has won?",
+                    "Answer": "Apple has won a variety of awards, including the Grammy Award for Best Engineered Album, the Emmy Award for Outstanding Commercial, and the Academy Award for Best Original Song."
+                },
+                {
+                    "Question": "What is Apple's market share?",
+                    "Answer": "Apple's market share is approximately 20%"
+                }
+            ],
+            "Output": "Apple is a leading electronics company that offers a variety of products and services. Its mission is to bring the best personal computing experience to students, educators, creative professionals and consumers around the world. Apple's core values are simplicity, creativity, and innovation. Some of its most popular products include the iPhone, iPad, iPod, and Macintosh computer. Apple has won a variety of awards, including the Grammy Award for Best Engineered Album, the Emmy Award for Outstanding Commercial, and the Academy Award for Best Original Song. Apple's market share is approximately 20%."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the Tesla Model S?",
+                    "Answer": "The Tesla Model S is a full-size luxury sedan produced by Tesla Motors. It was first introduced in 2012, and is currently in its second generation."
+                },
+                {
+                    "Question": "How does the Tesla Model S work?",
+                    "Answer": "The Tesla Model S is an all-electric vehicle, meaning that it does not rely on any fossil fuels for power. Instead, it is powered by a large battery pack that is located underneath the floor of the car. This battery pack powers an electric motor, which in turn drives the wheels of the car."
+                },
+                {
+                    "Question": "What are the benefits of the Tesla Model S?",
+                    "Answer": "The Tesla Model S offers a number of benefits over traditional gasoline-powered cars. Firstly, it produces zero emissions, meaning that it is much better for the environment. Secondly, it is significantly cheaper to operate and maintain than a gasoline-powered car. Finally, the Tesla Model S is extremely fast and smooth to drive."
+                },
+                {
+                    "Question": "What are the disadvantages of the Tesla Model S?",
+                    "Answer": "The Tesla Model S does have a few disadvantages. Firstly, it is significantly more expensive than a traditional gasoline-powered car. Secondly, the range of the Tesla Model S is limited by its battery pack size, meaning that it cannot travel as far on a single charge as a gasoline-powered car can on a full tank of gas."
+                },
+                {
+                    "Question": "How much does the Tesla Model S cost?",
+                    "Answer": "The Tesla Model S starts at $75,000."
+                },
+                {
+                    "Question": "What is the top speed of the Tesla Model S?",
+                    "Answer": "The Tesla Model S has a top speed of 155 mph."
+                }
+            ],
+            "Output": "Looking for a luxurious, all-electric car that's better for the environment and cheaper to operate? Look no further than the Tesla Model S! This vehicle offers a range of benefits over traditional gasoline cars, including zero emissions, a much lower operating cost, and impressive performance. Plus, the Tesla Model S is now more affordable than ever, starting at just $75,000. So why wait? Make the switch to the Tesla Model S today!"
+        }
+    ],
+    "Preset_link": [
+        {
+            "Link 1": "https://beta.openai.com/playground/p/7fGdnOpch2ij8JkqpEbOfMYT?model=text-davinci-002"
+        },
+        {
+            "Link 1": "https://beta.openai.com/playground/p/VPjN62EK2vhbcKiHvMZUduFo?model=text-davinci-002"
+        },
+        {
+            "Link 1": "https://beta.openai.com/playground/p/dgetllisdrGw3slruKeParvj?model=text-davinci-002"
+        }
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1PiYHDsdGvjtEb2yZM61v5bt3DRmo9KET?usp=sharing"
+}

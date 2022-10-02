@@ -1,0 +1,209 @@
+{
+    "Contributor": "khajuriabrijbhushan",
+    "Domain": "Broadcast Jouranlism",
+    "Task": "Documentary Script Generation",
+    "Prompt": {
+        "pre_question_prompt": "I am a $genre$ Documentary Script Writer. I will ask 15 questions to an $expert-resource$ about $topic$.",
+        "intermediate_prompt": "I am the $expert-resource$. I will answer above questions in detail.",
+        "task_specific_prompt": "Create a $genre$ documentary script for above answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the scientific name for the cheetah?",
+                    "Answer": "1. The scientific name for the cheetah is Acinonyx jubatus."
+                },
+                {
+                    "Question": "2. What are the cheetah's closest relatives?",
+                    "Answer": "2. The cheetah's closest relatives are the jaguar and the leopard."
+                },
+                {
+                    "Question": "3. How many subspecies of cheetah are there?",
+                    "Answer": "3. There are four subspecies of cheetah: the Asiatic cheetah, the Iranian cheetah, the Northwest African cheetah, and the South African cheetah."
+                },
+                {
+                    "Question": "4. Where do cheetahs live?",
+                    "Answer": "4. Cheetahs live in Africa and Asia."
+                },
+                {
+                    "Question": "5. What kind of habitat do cheetahs prefer?",
+                    "Answer": "5. Cheetahs prefer open habitats such as savannas and grasslands."
+                },
+                {
+                    "Question": "6. How long do cheetahs live in the wild?",
+                    "Answer": "6. Cheetahs in the wild typically live for 10-12 years."
+                },
+                {
+                    "Question": "7. What do cheetahs eat?",
+                    "Answer": "7. Cheetahs eat mostly mammals such as gazelles, impalas, and rabbits."
+                },
+                {
+                    "Question": "8. How big are cheetahs?",
+                    "Answer": "8. Cheetahs are about the size of a large dog. Males can be up to six feet long, including the tail, and females can be up to five feet long."
+                },
+                {
+                    "Question": "9. How much do cheetahs weigh?",
+                    "Answer": "9. Cheetahs weigh between 60 and 140 pounds."
+                },
+                {
+                    "Question": "10. What is the cheetah's top speed?",
+                    "Answer": "10. The cheetah's top speed is around 70 miles per hour."
+                },
+                {
+                    "Question": "11. How do cheetahs hunt?",
+                    "Answer": "11. Cheetahs typically hunt in short bursts of speed, chasing their prey until it is exhausted."
+                },
+                {
+                    "Question": "12. What are the main threats to cheetahs?",
+                    "Answer": "12. The main threats to cheetahs are habitat loss and conflict with humans."
+                },
+                {
+                    "Question": "13. How many cheetahs are left in the wild?",
+                    "Answer": "13. There are an estimated 7,500-10,000 cheetahs left in the wild."
+                },
+                {
+                    "Question": "14. What is being done to conserve cheetahs?",
+                    "Answer": "14. Conservation efforts for cheetahs include habitat protection and education programs to reduce conflict with humans."
+                },
+                {
+                    "Question": "15. Where can I see cheetahs in the wild?",
+                    "Answer": "15. You can see cheetahs in the wild in many African countries, including Kenya, Tanzania, and South Africa."
+                }
+            ],
+            "Output": "\nThe cheetah is a stunningly beautiful animal, and it is one of the fastest creatures on Earth. But cheetahs are also endangered, with only an estimated 7,500 to 10,000 left in the wild. In this documentary, we'll explore the cheetah's natural habitat, diet, and hunting habits, as well as the threats this magnificent animal faces. We'll also learn about the efforts being made to protect cheetahs and their habitat. So let's take a closer look at the amazing cheetah.\n\nThe scientific name for the cheetah is Acinonyx jubatus. Cheetahs are closely related to jaguars and leopards, and there are four subspecies of cheetah: the Asiatic cheetah, the Iranian cheetah, the Northwest African cheetah, and the South African cheetah. Cheetahs live in Africa and Asia, and they prefer open habitats such as savannas and grasslands.\n\nCheetahs in the wild typically live for 10 to 12 years. They are carnivores, and their diet consists mostly of mammals such as gazelles, impalas, and rabbits. Cheetahs are about the size of a large dog, with males reaching up to six feet in length, including the tail. Females are typically five feet in length. Cheetahs weigh between 60 and 140 pounds.\n\nThe cheetah's top speed is around 70 miles per hour, making it one of the fastest creatures on Earth. Cheetahs typically hunt in short bursts of speed, chasing their prey until it is exhausted.\n\nThe main threats to cheetahs are habitat loss and conflict with humans. As human populations expand, cheetahs are losing the open habitats they need to survive. And as humans and cheetahs come into contact with each other, there is often conflict. Cheetahs are sometimes killed by farmers who see them as a threat to their livestock.\n\nConservation efforts for cheetahs include habitat protection and education programs to reduce conflict with humans. By raising awareness about the plight of the cheetah, we can all help to ensure that this magnificent animal does not become extinct."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the history of tourism in India?",
+                    "Answer": "1. The history of tourism in India can be traced back to the times of the ancient Indus Valley Civilization, when people from all over the world came to India to trade. India was also a popular destination for Buddhist pilgrims, who came to visit the holy sites associated with the life of the Buddha. In the medieval period, India was once again a popular destination for foreign travelers, who came to see the country's architectural wonders and to learn about its rich culture and history. The modern era of tourism in India began in the late 19th century, when the country was opened up to foreign travelers by the British Raj. Since then, India has become one of the world's most popular tourist destinations, attracting visitors from all over the globe."
+                },
+                {
+                    "Question": "2. What are the most popular tourist destinations in India?",
+                    "Answer": "2. The most popular tourist destinations in India include the Taj Mahal, the Ajanta and Ellora Caves, the temples of Khajuraho and Konark, the hill stations of Shimla and Darjeeling, and the beaches of Goa."
+                },
+                {
+                    "Question": "3. What are the best times of year to visit India for tourism?",
+                    "Answer": "3. The best times of year to visit India for tourism are during the cooler months from October to March."
+                },
+                {
+                    "Question": "4. What are some of the unique aspects of tourism in India?",
+                    "Answer": "4. Some of the unique aspects of tourism in India include its rich culture and history, its diverse landscape, and its many sacred sites and pilgrimage centers."
+                },
+                {
+                    "Question": "5. What are the challenges faced by tourism in India?",
+                    "Answer": "5. The challenges faced by tourism in India include infrastructure development, safety and security concerns, and environmental issues."
+                },
+                {
+                    "Question": "6. What is the government doing to promote tourism in India?",
+                    "Answer": "6. The government is promoting tourism in India through initiatives such as the development of world-class infrastructure, the launch of e-visas, and the promotion of responsible tourism."
+                },
+                {
+                    "Question": "7. What are the major industries associated with tourism in India?",
+                    "Answer": "7. The major industries associated with tourism in India include the hospitality industry, the travel and transport industry, the retail sector, and the construction industry."
+                },
+                {
+                    "Question": "8. What are the most popular tourist activities in India?",
+                    "Answer": "8. The most popular tourist activities in India include sightseeing, shopping, and visiting historical and religious sites."
+                },
+                {
+                    "Question": "9. What are the most popular tourist attractions in India?",
+                    "Answer": "9. The most popular tourist attractions in India include the Taj Mahal, the Ajanta and Ellora Caves, the temples of Khajuraho and Konark, the hill stations of Shimla and Darjeeling, and the beaches of Goa."
+                },
+                {
+                    "Question": "10. What are the prices like for tourism in India?",
+                    "Answer": "10. Prices for tourism in India are very reasonable, especially when compared to other popular tourist destinations."
+                },
+                {
+                    "Question": "11. What is the infrastructure like for tourism in India?",
+                    "Answer": "11. The infrastructure for tourism in India is constantly improving, with new hotels, restaurants, and transport options being developed all the time."
+                },
+                {
+                    "Question": "12. What is the tourist visa process like for India?",
+                    "Answer": "12. The tourist visa process for India is very straightforward and can be easily completed online."
+                },
+                {
+                    "Question": "13. What are the safety concerns for tourism in India?",
+                    "Answer": "13. Safety concerns for tourism in India are generally not an issue, as the country is relatively safe for travelers. However, it is always advisable to take precautions and to be aware of your surroundings."
+                },
+                {
+                    "Question": "14. What are the cultural considerations for tourism in India?",
+                    "Answer": "14. Cultural considerations for tourism in India include being respectful of local customs and traditions, and being aware of dress codes in certain areas."
+                },
+                {
+                    "Question": "15. What are the sustainable tourism initiatives in India?",
+                    "Answer": "15. Sustainable tourism initiatives in India include the development of eco-friendly tourist infrastructure, the promotion of green tourism practices, and the support of local communities."
+                }
+            ],
+            "Output": "India is a land of contrasts, a country where the ancient and the modern sit side by side. It is a country with a rich history and a bright future. And it is a country that is fast becoming one of the most popular tourist destinations in the world.\n\nThe history of tourism in India can be traced back to the times of the ancient Indus Valley Civilization, when people from all over the world came to India to trade. India was also a popular destination for Buddhist pilgrims, who came to visit the holy sites associated with the life of the Buddha. In the medieval period, India was once again a popular destination for foreign travelers, who came to see the country's architectural wonders and to learn about its rich culture and history. The modern era of tourism in India began in the late 19th century, when the country was opened up to foreign travelers by the British Raj. Since then, India has become one of the world's most popular tourist destinations, attracting visitors from all over the globe.\n\nThe most popular tourist destinations in India include the Taj Mahal, the Ajanta and Ellora Caves, the temples of Khajuraho and Konark, the hill stations of Shimla and Darjeeling, and the beaches of Goa.\n\nThe best times of year to visit India for tourism are during the cooler months from October to March.\n\nSome of the unique aspects of tourism in India include its rich culture and history, its diverse landscape, and its many sacred sites and pilgrimage centers.\n\nThe challenges faced by tourism in India include infrastructure development, safety and security concerns, and environmental issues.\n\nThe government is promoting tourism in India through initiatives such as the development of world-class infrastructure, the launch of e-visas, and the promotion of responsible tourism.\n\nThe major industries associated with tourism in India include the hospitality industry, the travel and transport industry, the retail sector, and the construction industry.\n\nThe most popular tourist activities in India include sightseeing, shopping, and visiting historical and religious sites.\n\nThe most popular tourist attractions in India include the Taj Mahal, the Ajanta and Ellora Caves, the temples of Khajuraho and Konark, the hill stations of Shimla and Darjeeling, and the beaches of Goa.\n\nPrices for tourism in India are very reasonable, especially when compared to other popular tourist destinations.\n\nThe infrastructure for tourism in India is constantly improving, with new hotels, restaurants, and transport options being developed all the time.\n\nThe tourist visa process for India is very straightforward and can be easily completed online.\n\nSafety concerns for tourism in India are generally not an issue, as the country is relatively safe for travelers. However, it is always advisable to take precautions and to be aware of your surroundings.\n\nCultural considerations for tourism in India include being respectful of local customs and traditions, and being aware of dress codes in certain areas.\n\nSustainable tourism initiatives in India include the development of eco-friendly tourist infrastructure, the promotion of green tourism practices, and the support of local communities."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What are the different tribes in South Africa?",
+                    "Answer": "1. There are many different tribes in South Africa. The largest ones are the Zulu, Xhosa, and Pedi."
+                },
+                {
+                    "Question": "2. What are their customs and beliefs?",
+                    "Answer": "2. Customs and beliefs vary between the different tribes, but many of them share similar beliefs in ancestor worship and animism."
+                },
+                {
+                    "Question": "3. What is their history?",
+                    "Answer": "3. The history of the tribes in South Africa is a long and complex one. They have a rich history of art, music, and dance."
+                },
+                {
+                    "Question": "4. How do they currently live?",
+                    "Answer": "4. Many tribes now live in urban areas, but some still live in rural areas and practice traditional subsistence farming."
+                },
+                {
+                    "Question": "5. What are their unique features?",
+                    "Answer": "5. Some of the unique features of the different tribes include their traditional dress, hairstyles, and body art."
+                },
+                {
+                    "Question": "6. What are their traditional dishes?",
+                    "Answer": "6. Traditional dishes vary between the different tribes, but many of them include maize, beans, and meat."
+                },
+                {
+                    "Question": "7. What is their music like?",
+                    "Answer": "7. The music of the different tribes is very diverse. It includes traditional folk music, as well as more modern styles."
+                },
+                {
+                    "Question": "8. What are their traditional dances?",
+                    "Answer": "8. Traditional dances are an important part of many tribal cultures. They are often used for ceremonial purposes, as well as for entertainment."
+                },
+                {
+                    "Question": "9. What is their art like?",
+                    "Answer": "9. The art of the different tribes is also very diverse. It includes traditional painting, sculpture, and pottery, as well as more modern styles."
+                },
+                {
+                    "Question": "10. What is their relationship with the natural world?",
+                    "Answer": "10. The different tribes have a deep connection to the natural world. They often use natural materials in their art and music, and have a deep knowledge of the plants and animals in their environment."
+                },
+                {
+                    "Question": "11. What is their relationship with other tribes?",
+                    "Answer": "11. The different tribes have a long history of conflict and cooperation with each other. In recent years, there has been a lot of effort to promote peace and understanding between the different tribes."
+                },
+                {
+                    "Question": "12. What is their relationship with the government?",
+                    "Answer": "12. The different tribes have a complex relationship with the government. Some tribes are very supportive of the government, while others are critical of it."
+                },
+                {
+                    "Question": "13. What are the challenges they face?",
+                    "Answer": "13. The challenges faced by the different tribes vary. Some of the challenges include poverty, unemployment, and disease."
+                },
+                {
+                    "Question": "14. What are the opportunities they have?",
+                    "Answer": "14. The different tribes have many opportunities. These include the opportunity to learn about and celebrate their culture, the opportunity to earn a living, and the opportunity to interact with people from all over the world."
+                },
+                {
+                    "Question": "15. What is their vision for the future?",
+                    "Answer": "15. The different tribes have a variety of visions for the future. Some of the things they hope for include peace, prosperity, and the opportunity to share their culture with the world."
+                }
+            ],
+            "Output": "The tribes of South Africa are a rich and diverse people with a long and complex history. They have a deep connection to the natural world, and a rich culture of art, music, and dance. The different tribes have a long history of conflict and cooperation with each other. In recent years, there has been a lot of effort to promote peace and understanding between the different tribes. The challenges faced by the different tribes vary. Some of the challenges include poverty, unemployment, and disease. The different tribes have many opportunities. These include the opportunity to learn about and celebrate their culture, the opportunity to earn a living, and the opportunity to interact with people from all over the world. The different tribes have a variety of visions for the future. Some of the things they hope for include peace, prosperity, and the opportunity to share their culture with the world."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/HTG74VigLJNvOQtaq6Bod5RS?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1TrVN6fLfKSZ-1rgexNnxLWFPqPv1hCon?usp=sharing"
+}

@@ -1,0 +1,121 @@
+{
+    "Contributor": "kaushaleshan",
+    "Domain": "Marketing - AI Powered Tool to make a study plan",
+    "Task": "Coming up with a study plan for the client to ameliorate their knowledge in the field of marketing and make them adept.",
+    "Prompt": {
+        "pre_question_prompt": "I am a great teacher in the field of marketing. I will ask some questions to my client about how much they know about marketing. Based on their answers to my questions, I will come up for a study plan for them.",
+        "task_specific_prompt": "I am a great teacher in the field of marketing. Now I will come up with a great study plan for my client based on the answers they have given to my questions above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "How much do you know about marketing?": "I would say I am a beginner in this field."
+                },
+                {
+                    "What do you hope to learn from studying marketing?": "Personally, I would like to learn the basic concepts of marketing and how to apply them in order to create successful marketing campaigns."
+                },
+                {
+                    "What do you think are the most important aspects of marketing?": "Being a novice in this field, I believe that there are many important aspects of marketing, but some of the most important ones include understanding your target audience, creating a unique selling proposition, and having a well-defined marketing strategy."
+                },
+                {
+                    "What do you think are the most important skills for a successful marketer?": "Being a novice in this field I actually have not a lot of knowledge about this. But, I would say it is very important to have a brand name and a good audience with a loyal customer base."
+                },
+                {
+                    "What do you think are the most common mistakes made in marketing?": "I think some of the most common mistakes made in marketing include not properly understanding your target audience, not having a clear marketing strategy, and not staying up-to-date with industry trends."
+                },
+                {
+                    "What do you think is the most important thing to keep in mind when planning a marketing campaign?": "Being a novice, I don't know the answer to this question."
+                },
+                {
+                    "What do you think is the most important thing to keep in mind when executing a marketing campaign?": "Since I am not too well-versed with the field of marketing, I am not too sure about this."
+                },
+                {
+                    "What do you think is the most important thing to keep in mind when evaluating the success of a marketing campaign?": "Not too sure, since I am still a beginner."
+                },
+                {
+                    "What other questions do you have about marketing?": "I would like to know more about the different types of marketing, and how to measure the success of a marketing campaign."
+                },
+                {
+                    "Do you have any experience with marketing?": "To be honest, I am still a beginner, and I have very little experience with marketing."
+                }
+            ],
+            "Output": "My client should start by studying the basics of marketing. They should learn about concepts such as target audiences, unique selling propositions, and marketing strategies. Additionally, they should also learn about the different types of marketing and how to measure the success of marketing campaigns. My client should also gain some experience with marketing by working on marketing campaigns.",
+            "ScreenShot Link": "https://drive.google.com/drive/folders/1NcZkF-a8Amn2akRNagR1-0ijkwjWXLsH?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "How much do you know about marketing?": "I know very little about marketing. "
+                },
+                {
+                    "What do you hope to learn from a marketing course?": "I hope to learn about the different aspects of marketing, including market research, advertising, and product promotion, different marketing tools, how to start, develop and grow marketing campaigns."
+                },
+                {
+                    "What do you think are the most important skills for a successful marketing career?": "I think some important skills for marketing are creativity, good communication, strong analytical ability, and good people skills."
+                },
+                {
+                    "What do you think are the biggest challenges marketing professionals face?": "I can't answer this question to the best of my ability since I am not well-versed with the field of marketing."
+                },
+                {
+                    "What do you think are the most important trends in marketing?": "I can't answer this question properly since I am not well-versed with the field of marketing."
+                },
+                {
+                    "What do you think is the future of marketing?": "I think it will be really important for every field in the future, but again, I can't answer this question properly since I am not well-versed with the field of marketing."
+                },
+                {
+                    "What do you think are the most important skills for a successful marketing career?": "I think some important skills for marketing are creativity, good communication, strong analytical ability, and good people skills but again, I cannot answer this question completely due to my lack of knowledge in this field"
+                },
+                {
+                    "What do you think are the biggest challenges marketing professionals face?": "I am not sure, but I think one of the challenges marketing professionals face is that they need to be able to adapt to change quickly since the landscape is always changing."
+                },
+                {
+                    "What do you think is the future of marketing?": "I think the future of marketing is going to be really important for every field, but I am not sure what specifically is going to change or stay the same."
+                },
+                {
+                    "What do you think are the most important skills for a successful marketing career?": "You have already asked me this question. Ask me something else."
+                }
+            ],
+            "Output": "First, we will review the basics of marketing. This will include key concepts such as market research, target markets, and product positioning. We will also cover the different marketing tools available and how to select the right ones for your business.\n\nNext, we will dive into more advanced topics such as developing and managing marketing campaigns, using social media for marketing purposes, and email marketing. We will also discuss effective ways to measure marketing performance and ROI.\n\nFinally, we will discuss the future of marketing and the skills that will be needed to be successful in this ever-changing field.",
+            "ScreenShot Link": "https://drive.google.com/drive/folders/14jS34ielfmUArEqO2X5hifmohFu9lSui?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is your level of experience with marketing?": "I am a beginner in this field with just some knowledge on ROI."
+                },
+                {
+                    "What do you hope to learn from this course?": "I would like to learn about how to measure the effectiveness of my marketing campaigns and how to optimize them for better results. I would also like to learn about marketing strategies and tools."
+                },
+                {
+                    "What are your specific goals for taking this course?": "I expect that by the end of this course, I should be able to measure the ROI of my marketing campaigns and optimize them for better results. I should also be able to develop marketing strategies and tools that can be used in my business. I would like to be a lot more confident in this field by the end of this course with enough practical knowledge to make a successful business."
+                },
+                {
+                    "Do you have any prior knowledge of marketing?": "As I have said before, I have some knowledge of ROI, but I am not confident enough to say that I know marketing."
+                },
+                {
+                    "What is your budget for this course?": "I am ready to spend up to $500 on this course. I just want it to be super effective."
+                },
+                {
+                    "When would you like to start the course?": "I would like to start the course as soon as possible."
+                },
+                {
+                    "What is the duration of the course?": "That depends on the depth I will be going for. Ideally, I am looking for a course that is around 8 to 10 weeks long."
+                },
+                {
+                    "Do you have any other questions?": "Yes, just one. If the course would be able to cover all my needs and requirements and make me a good marketeer. "
+                },
+                {
+                    "The course will be able to cover all your needs and requirements and make you a good marketeer.": ""
+                },
+                {
+                    "Do you have any other questions?": "No, that is all for now."
+                }
+            ],
+            "Output": "The study plan will include the following topics:\n\n- How to measure the effectiveness of marketing campaigns\n- How to optimize marketing campaigns for better results\n- Marketing strategies and tools\n- How to develop marketing strategies and tools\n- How to measure the ROI of marketing campaigns\n- How to make a successful business in marketing",
+            "ScreenShot Link": "https://drive.google.com/drive/folders/1QX_XJyDzVbPOY2iL_383geM-az8dh0iS?usp=sharing"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/0622Ge9nMZT8jevHo9q2cvDk?model=text-davinci-002",
+    "ScreenShot Link": "https://drive.google.com/drive/folders/1liUtQpwPzy7QN2IX5cq3jnU4XU-M0n-k?usp=sharing"
+}

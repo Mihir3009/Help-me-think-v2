@@ -1,0 +1,152 @@
+{
+    "Contributor": "linli",
+    "Domain": "Car service",
+    "Task": "Which upgrades should I buy for my car",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in vehicle upgrades. I will ask some questions to collect information and then I will use the information to find the upgrades that are worth the price.",
+        "task_specific_prompt": "Write a list of the upgrades that I should consider buying using the questions and answers above. List the prices and the functions as well."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$3000."
+                },
+                {
+                    "Question": "What is your vehicle make and model?",
+                    "Answer": "Honda Civic."
+                },
+                {
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Conservative."
+                },
+                {
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Better gas mileage, better handling, less vibration."
+                },
+                {
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "Highways."
+                },
+                {
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Upgrades that work well on Sedans."
+                },
+                {
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "As many as possible within the budget."
+                },
+                {
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I want them to be installed."
+                },
+                {
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "ASAP"
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "1. A set of coilovers for better handling ($500).\n2. A set of performance tires for better grip ($600).\n3. A cold air intake for better airflow ($200).\n4. A header and exhaust system for more power ($1000).\n5. A set of brakes for better stopping power ($500).\n6. A set of shocks and struts for a smoother ride ($600)."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$10000."
+                },
+                {
+                    "Question": "What is your vehicle make and model?",
+                    "Answer": "Tesla Model S."
+                },
+                {
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Aggressive."
+                },
+                {
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Battery longevity, better milage per charge, better lane assist."
+                },
+                {
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "City Streets, occasionally on highways."
+                },
+                {
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Upgrades that are specific to electric cars."
+                },
+                {
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "Probably 5 or less."
+                },
+                {
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I want them to be installed."
+                },
+                {
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "Within 2 months."
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "Please stay in the budget. If the sum of the prices excesses the budget, please remove the upgrades from the cheapest first."
+                }
+            ],
+            "Output": "1. A longer-range battery pack \u2013 this will increase the distance the car can travel on a single charge, and will cost between $5000 and $8000.\n2. Better tires \u2013 these will improve the car\u2019s handling and grip, and will cost between $500 and $1000.\n3. A more powerful motor \u2013 this will improve the car\u2019s acceleration and top speed, and will cost between $2000 and $4000.\n4. Better brakes \u2013 these will improve the car\u2019s braking performance, and will cost between $500 and $1000.\n5. A suspension upgrade \u2013 this will improve the car\u2019s ride quality and handling, and will cost between $500 and $2000."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$2300."
+                },
+                {
+                    "Question": "What is your vehicle make and model?",
+                    "Answer": "Toyota Camry."
+                },
+                {
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Average."
+                },
+                {
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Better breaking, safety, more durable."
+                },
+                {
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "Mostly city streets."
+                },
+                {
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Specific to my vehicle."
+                },
+                {
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "3 upgrades."
+                },
+                {
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I can do it myself."
+                },
+                {
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "Now."
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "I want the cost of the upgrades stay within the budget."
+                }
+            ],
+            "Output": "1. A set of better brakes for the Toyota Camry - $600\n2. A new engine air filter for the Toyota Camry - $30\n3. A set of new tires for the Toyota Camry - $700"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/0DxzkeQ3JamZWed9slEzncA9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jTCRkaNXr0GAHEW2b37rHEJ9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JFHAoPKc7gfn2xpAHfCY4h4n?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1UYzNd4_rWqHm-0B32lSrUXfMsZgb-pcX?usp=sharing"
+}

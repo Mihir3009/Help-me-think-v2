@@ -1,0 +1,144 @@
+{
+    "Contributor": "kotreshhiremathswathi",
+    "Domain": "Manufacturing",
+    "Task": "Creaty safety rules and policies for manufacturing plant",
+    "Prompt": {
+        "pre_question_prompt": "I am an excellent policy maker. I will ask clarifying questions about your factory and create work safety rules for your manufacturing plant",
+        "task_specific_prompt": "Based on the above information please suggest safety policies for the manufacturing plant"
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What are some of the potential hazards in your factory?",
+                        "Answer": "Heavy objects, sharp tools, furnaces"
+                    },
+                    {
+                        "Question": "What are some of the safety procedures you have in place?",
+                        "Answer": "Helmets and warning signs"
+                    },
+                    {
+                        "Question": "What are some of the things you would like to see improve in regards to safety in the factory?",
+                        "Answer": "More training for employees on safety procedures"
+                    },
+                    {
+                        "Question": "How often do you review your safety procedures?",
+                        "Answer": "Every six months."
+                    },
+                    {
+                        "Question": "How many employees have been injured in the factory in the past year?",
+                        "Answer": "Five"
+                    },
+                    {
+                        "Question": "What do you think are the main causes of accidents in the factory?",
+                        "Answer": "lack of training"
+                    },
+                    {
+                        "Question": "What can be done to reduce the number of accidents in the factory?",
+                        "Answer": "Please suggest the same"
+                    },
+                    {
+                        "Question": "Do you have a first aid kit in the factory?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Do you have a designated person responsible for safety in the factory?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Who is responsible for enforcing safety rules in the factory?",
+                        "Answer": "The safety manager"
+                    },
+                    {
+                        "Question": "What are the consequences for not following safety rules in the factory?",
+                        "Answer": "Fines or dismissal"
+                    }
+                ]
+            },
+            {
+                "Output": "1. All employees must receive safety training before starting work. 2. All employees must wear the proper safety gear while working. 3. All accidents must be reported to the safety manager immediately. 4. The factory must be regularly inspected for safety hazards. 5. There must be a designated person responsible for safety at all times. 6. Safety rules must be enforced."
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is the most dangerous part of your factory?",
+                        "Answer": "The most dangerous part of our factory is the High voltage equipment"
+                    },
+                    {
+                        "Question": "What are some of the safety hazards present in your factory?",
+                        "Answer": ""
+                    },
+                    {
+                        "Question": "What are your factory's safety procedures?",
+                        "Answer": "regular safety inspections"
+                    },
+                    {
+                        "Question": "What are some of the dangers of not following safety procedures in your factory?",
+                        "Answer": "Electric Shocks"
+                    },
+                    {
+                        "Question": "What are some of the safety rules you would like to see implemented in your factory?",
+                        "Answer": "More training on handling equipment"
+                    },
+                    {
+                        "Question": "Is there anything else you would like to add?",
+                        "Answer": "No"
+                    }
+                ]
+            },
+            {
+                "Output": "All workers must receive training on how to safely handle equipment -Regular safety inspections must be conducted -Any workers who do not follow safety procedures must be disciplined -High voltage equipment must be properly labeled and workers must be made aware of the dangers it poses -All electrical hazards must be mitigated"
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What are some of the dangers present in your factory?",
+                        "Answer": "Hazardous chemicals and heavy equipment."
+                    },
+                    {
+                        "Question": "What are your company's policies for dealing with these hazards?",
+                        "Answer": "Safety garments, masks and warning signs"
+                    },
+                    {
+                        "Question": "What are your policies for employee training on safety procedures?",
+                        "Answer": "Expert handling of chemicals"
+                    },
+                    {
+                        "Question": "What are your policies for investigating accidents?",
+                        "Answer": "Accidents will be investigated by the safety committee."
+                    },
+                    {
+                        "Question": "What are your policies for dealing with unsafe conditions?",
+                        "Answer": "Unsafe conditions will be corrected by the safety committee."
+                    },
+                    {
+                        "Question": "What are your policies for employee safety?",
+                        "Answer": "Hazmat suits and detectors"
+                    },
+                    {
+                        "Question": "What are your policies for safety in the event of an emergency?",
+                        "Answer": "Emergency procedures will be followed by the safety committee."
+                    },
+                    {
+                        "Question": "What are your policies for safety inspections?",
+                        "Answer": "Safety inspections will be conducted by the safety committee."
+                    }
+                ]
+            },
+            {
+                "Output": "1. Employees must wear appropriate safety gear when handling hazardous chemicals and heavy objects. 2. Employees must be properly trained in safety procedures before handling hazardous chemicals and heavy objects. 3. Unsafe conditions must be reported to the safety committee so that they can be corrected. 4. Accidents must be investigated by the safety committee. 5. Emergency procedures must be followed by the safety committee in the event of an emergency. 6. Safety inspections must be conducted by the safety committee."
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/KfIFEys7nlR0OZt4SoUkKGHe?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PVnbtn4AVE0NLkm0W8ahRiKq?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/X2LWe3upIi3vQwl90if1gAXf?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1XKyHtGwB6rVKbWg87PXffC4tcm1cM2US?usp=sharing"
+}

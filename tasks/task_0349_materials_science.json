@@ -1,0 +1,164 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Materials Science",
+    "Task": "Material Suggestion",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert material scientist engineer. I will ask some simple questions about your product to collect information and then I will suggest you what materials are needed for your product.",
+        "task_specific_prompt": "Suggest me what material I need to use from the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "table."
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "19.7\"D x 39\"W x 30\"H"
+                },
+                {
+                    "Question": "What is the product going to be used for?",
+                    "Answer": "as a computer desk table."
+                },
+                {
+                    "Question": "What is your budget for this project?",
+                    "Answer": "$100."
+                },
+                {
+                    "Question": "What is the expected life span of the product?",
+                    "Answer": "10 years."
+                },
+                {
+                    "Question": "What are the environmental conditions that the product will be used in?",
+                    "Answer": "The product will be used in an air conditioned home environment."
+                },
+                {
+                    "Question": "Do you have any other requirements?",
+                    "Answer": "I want the table to be light but durable."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "30 lbs."
+                },
+                {
+                    "Question": "What is the maximum weight that the product can support?",
+                    "Answer": "150 lbs."
+                },
+                {
+                    "Question": "What color do you want the product to be?",
+                    "Answer": "White."
+                },
+                {
+                    "Question": "Do you have a preferred supplier for the materials?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "I would suggest using MDF board for the table top and aluminum tubing for the frame."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "Cooking Pot."
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "18 x 13 x 11 inches"
+                },
+                {
+                    "Question": "What is the product going to be used for?",
+                    "Answer": "cooking."
+                },
+                {
+                    "Question": "What is your budget for this project?",
+                    "Answer": "$40."
+                },
+                {
+                    "Question": "What is the expected life span of the product?",
+                    "Answer": "2 years."
+                },
+                {
+                    "Question": "What are the environmental conditions that the product will be used in?",
+                    "Answer": "The product will be used on the stove."
+                },
+                {
+                    "Question": "Do you have any other requirements?",
+                    "Answer": "I want the pot to be non stick and durable."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "3 lbs."
+                },
+                {
+                    "Question": "What is the maximum weight that the product can support?",
+                    "Answer": "10 lbs."
+                },
+                {
+                    "Question": "What color do you want the product to be?",
+                    "Answer": "Black."
+                },
+                {
+                    "Question": "Do you have a preferred supplier for the materials?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "The best material for this product would be aluminum. It is lightweight, durable, and has a non-stick surface. It is also inexpensive, which fits your budget.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "A mattress."
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "80 inches length, 38 inch width, 6 inch thickness"
+                },
+                {
+                    "Question": "What is the product going to be used for?",
+                    "Answer": "to sleep on."
+                },
+                {
+                    "Question": "What is your budget for this project?",
+                    "Answer": "$200."
+                },
+                {
+                    "Question": "What is the expected life span of the product?",
+                    "Answer": "7 years."
+                },
+                {
+                    "Question": "What are the environmental conditions that the product will be used in?",
+                    "Answer": "The product will be used in an air conditioned home environment."
+                },
+                {
+                    "Question": "Do you have any other requirements?",
+                    "Answer": "I want the mattress to be firm but comfortable."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "11 lbs."
+                },
+                {
+                    "Question": "What is the maximum weight that the product can support?",
+                    "Answer": "250 lbs."
+                },
+                {
+                    "Question": "What color do you want the product to be?",
+                    "Answer": "White."
+                },
+                {
+                    "Question": "Do you have a preferred supplier for the materials?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "You will need to use a material that is firm but comfortable such as latex or memory foam. You will also need to use a material that is breathable such as cotton or wool."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/rkHjnYimnpWpIs2jSIZifFCR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GCMj7SU61J1ZYjDI174VgPBc?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2KcAFAyXAD19VEQrkDDhidqn?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1qxUYU9pyxWLylQpMwMpoiEEaG64Y5KeB?usp=sharing"
+}

@@ -1,0 +1,148 @@
+{
+    "Contributor": "hardyadam",
+    "Domain": "Human Geography",
+    "Task": "4. Human Geo Sim game",
+    "Prompt": {
+        "pre_question_prompt": "I am expert in human geography and game development. I am going to ask a series of game-design questions to design a simulation game based around human geography where AI populations can grow and change based on my knowledge of human geography. ",
+        "task_specific_prompt": "Using the questions and answers above design a simulation game where AI factions and their populations can realistically grow and change based on human geography. Describe the mechanics in detail, how they interact with one another, and how human geography comes into play. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What are the primary goals of the game?",
+                    "Answer": "The primary goal of the game should be to keep the player's population thriving for as long as possible."
+                },
+                {
+                    "Question": "2. What kind of environment will the game take place in?",
+                    "Answer": "It should take place in any given environment on the planet, as it should be a planet-wide turn-based strategy game with each environment being simulated with the appropriate resources and climate."
+                },
+                {
+                    "Question": "3. What resources will be available to the player?",
+                    "Answer": "Food, water, building materials for shelter and tools, and currency."
+                },
+                {
+                    "Question": "4. What kind of climate will the game take place in?",
+                    "Answer": "Any climate, as it should be a planet-wide turn-based strategy game."
+                },
+                {
+                    "Question": "5. What technology will be available to the player?",
+                    "Answer": "The technology should evolve as the game progresses, from primitive to modern-era technology."
+                },
+                {
+                    "Question": "6. What economic system will be in place?",
+                    "Answer": "There should be a variety of economic systems available to the player, based on the player's choice of economic system."
+                },
+                {
+                    "Question": "7. What form of government will be in place?",
+                    "Answer": "There should be a variety of governments available to the player, based on the player's choice of government."
+                },
+                {
+                    "Question": "8. What social customs and traditions will be in place?",
+                    "Answer": "There should be a variety of social customs and traditions available to the player, based on the player's choice of culture. They should also interact with the customs and traditions of AI controlled factions."
+                },
+                {
+                    "Question": "9. What will be the player's main source of income?",
+                    "Answer": "The player's main source of income should be based on the player's chosen economic system."
+                },
+                {
+                    "Question": "10. How will the player's population grow?",
+                    "Answer": "The player's population should grow based on the player's chosen social customs and traditions. and the interactions with other Ai controlled factions"
+                }
+            ],
+            "Output": "In the game, each environment will be simulated with the appropriate resources and climate. Players will need to manage their resources carefully in order to keep their population thriving. The game will be turn-based, and each turn will represent a certain amount of time. During each turn, players will be able to take actions such as gathering resources, building shelter, and creating tools. They will also be able to trade with other factions, and interact with them socially. As the game progresses, the technology available to the player will evolve from primitive to modern-era technology. The player's chosen economic system will determine their main source of income. The player's chosen social customs and traditions will determine how their population grows.\n\nHuman geography will come into play in a variety of ways. The player's chosen environment will determine the resources and climate that they need to deal with. The player's chosen economic system will determine their main source of income. The player's chosen social customs and traditions will determine how their population grows. The player's interactions with other factions will be influenced by the customs and traditions of both factions.\n\nThe game should be designed so that the player's choices have a significant impact on the outcome of the game. The player should be able to choose from a variety of different environments, resources, climates, technologies, economic systems, and social customs. They should also be able to interact with other factions in a variety of ways. The game should be challenging, but also rewarding, and should allow the player to experiment with different strategies in order to find the best way to keep their population thriving."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What are the primary goals of the game?",
+                    "Answer": "The primary goal of the game should be for the player to survive as long as possible while building a faction of followers."
+                },
+                {
+                    "Question": "2. What kind of environment will the game take place in?",
+                    "Answer": "It should take place in a variety of randomly generated environments that are created from a selection of discrete biomes."
+                },
+                {
+                    "Question": "3. What resources will be available to the player?",
+                    "Answer": "Food, water, building materials, weapons, armor, and currency."
+                },
+                {
+                    "Question": "4. What kind of climate will the game take place in?",
+                    "Answer": "A variety of climates corresponding to the selection of biomes, such as, but not limited to, forests, deserts, and tundras."
+                },
+                {
+                    "Question": "5. What technology will be available to the player?",
+                    "Answer": "The technology should be relatively primitive."
+                },
+                {
+                    "Question": "6. What economic system will be in place?",
+                    "Answer": "There should be a variety of economic systems for AI factions, all picked at random when the world is first generated. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "7. What form of government will be in place?",
+                    "Answer": "There should be a variety of governments for AI factions, all picked at random when the world is first generated. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "8. What social customs and traditions will be in place?",
+                    "Answer": "There should be a variety of social customs and traditions for AI factions, all picked at random when the world is first generated. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "9. What will be the player's main source of income?",
+                    "Answer": "Doing jobs and quests and gathering income from followers as they build their nation."
+                },
+                {
+                    "Question": "10. How will the player's population grow?",
+                    "Answer": "How will the player's population grow?"
+                }
+            ],
+            "Output": "In the game, players will take on the role of a leader of a small faction of survivors in a post-apocalyptic world. The goal of the game is to survive as long as possible while building up their faction. Players will need to gather resources, build structures, and recruit followers in order to survive and thrive. The game will take place in a variety of randomly generated environments, each with its own discrete biome. The resources available to the player will include food, water, building materials, weapons, armor, and currency. The climate will vary depending on the biome, and the technology will be relatively primitive. There will be a variety of economic systems in place, all of which will interact with each other realistically based on studies conducted in the field of human geography. There will also be a variety of governments in place, which will also interact with each other realistically based on studies conducted in the field of human geography. Social customs and traditions will also be in place, and will interact with each other realistically based on studies conducted in the field of human geography. The player's main source of income will be from doing jobs and quests, and from gathering income from followers as they build their nation. The player's population will grow as they recruit more followers. Some may join as word travels or due to the influence of other human geographical factors, such as a population being displaced by another nation and looking for somewhere to seek shelter.\n\nHuman geography will play a large role in the game, as the player will need to take into account a variety of factors in order to survive and thrive. They will need to carefully consider where to build their settlements, what resources are available to them, how the climate will affect them, what technology they have access to, what economic systems are in place, what form of government is in place, and what social customs and traditions are in place. All of these factors will interact with each other and can change over time, so the player will need to be constantly adapt in order to survive."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What are the primary goals of the game?",
+                    "Answer": "There is no actual goal as there is no player input. It is a pure realistic simulation based on real-world human geographical data."
+                },
+                {
+                    "Question": "2. What kind of environment will the game take place in?",
+                    "Answer": "A variety of realistic environments based on real-world locations to maximize realism."
+                },
+                {
+                    "Question": "3. What resources will be available to the player?",
+                    "Answer": "There is no player, but the simulated AI will have access to all manner of natural resources which they can use to create man-made resources."
+                },
+                {
+                    "Question": "4. What kind of climate will the game take place in?",
+                    "Answer": "A variety of climates corresponding to each environment covering a wide-range of possible scenarios to simulate."
+                },
+                {
+                    "Question": "5. What technology will be available to the player?",
+                    "Answer": "There is no player, but the simulated AI will be able to evolve and trade their technologies over time."
+                },
+                {
+                    "Question": "6. What economic system will be in place?",
+                    "Answer": "Each simulated faction will have a different economic system based on real-world economic systems. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "7. What form of government will be in place?",
+                    "Answer": "Each simulated faction will have a different government system based on real-world government systems. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "8. What social customs and traditions will be in place?",
+                    "Answer": "Each simulated faction will have different customs and traditions system based on real-world customs and traditions. These will all interact with each other realistically based on studies conducted in the field of human geography. They can also change over time."
+                },
+                {
+                    "Question": "9. What will be the player's main source of income?",
+                    "Answer": "There is no player, but there will be a fully simulated economy. Each nation will affect each other's economies as they trade or fight"
+                },
+                {
+                    "Question": "10. How will the player's population grow?",
+                    "Answer": "There is no player, but there will be a fully simulated economy. Each nation will affect each other's economies as they trade or fight"
+                }
+            ],
+            "Output": "The game will be a detailed simulation of human life and societies based on real-world data. It will take place in a variety of environments, each with their own climate and resources. The game will feature a variety of technology levels, ranging from primitive to futuristic, and each faction will have their own government and economic system. Social customs and traditions will also play a role, and all of these elements will interact with each other in realistic ways.\n\nPlayers will not directly control any aspect of the game, but will be able to observe and study the AI factions as they go about their lives. The game will offer a deep and detailed look at human behavior, societies, and how they change over time.\n\nThere is no specific goal or victory condition, as the game is meant to be a realistic simulation. However, players will be able to learn a great deal about human geography and how different societies interact with each other."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/6QV7YJzq82cpetbB1H6HHpoc?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1qPez88QYQAGAFVtu0eJ_g-rBw-Ktilys/view?usp=sharing"
+}

@@ -1,0 +1,224 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Materials Science",
+    "Task": "Determine the genuineness of the product",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert materials scientist, I can tell if your product is genuine. I will ask some simple questions to gather information and identify if your product is genuine based on the information gathered.",
+        "task_specific_prompt": "Determine if my product is genuine or not using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "what is the product?",
+                    "Answer": "a table"
+                },
+                {
+                    "Question": "What type of material is your product made of?",
+                    "Answer": "wood"
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "3 feet by 2 feet by 2.5 feet"
+                },
+                {
+                    "Question": "What is the weight of your product?",
+                    "Answer": "26 pounds"
+                },
+                {
+                    "Question": "What is the value of your product?",
+                    "Answer": "$50"
+                },
+                {
+                    "Question": "Where was your product made?",
+                    "Answer": "China"
+                },
+                {
+                    "Question": "When was your product made?",
+                    "Answer": "2015"
+                },
+                {
+                    "Question": "Has your product been used before?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is your product covered by a warranty?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is the name of the manufacturer of your product?",
+                    "Answer": "Ameriwood"
+                },
+                {
+                    "Question": "What is the model number of your product?",
+                    "Answer": "9178096"
+                },
+                {
+                    "Question": "What is the serial number of your product?",
+                    "Answer": "151119151119"
+                },
+                {
+                    "Question": "What is the color of your product?",
+                    "Answer": "White"
+                },
+                {
+                    "Question": "What is the shape of your product?",
+                    "Answer": "Rectangular"
+                },
+                {
+                    "Question": "What is the pattern of your product?",
+                    "Answer": "Solid"
+                },
+                {
+                    "Question": "What is the texture of your product?",
+                    "Answer": "Smooth"
+                }
+            ],
+            "Output": "The product is genuine."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "what is the product?",
+                    "Answer": "a table"
+                },
+                {
+                    "Question": "What type of material is your product made of?",
+                    "Answer": "engineered wood"
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "5 feet by 4 feet by 3 feet"
+                },
+                {
+                    "Question": "What is the weight of your product?",
+                    "Answer": "35 pounds"
+                },
+                {
+                    "Question": "What is the value of your product?",
+                    "Answer": "$599"
+                },
+                {
+                    "Question": "Where was your product made?",
+                    "Answer": "China"
+                },
+                {
+                    "Question": "When was your product made?",
+                    "Answer": "2022"
+                },
+                {
+                    "Question": "Has your product been used before?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is your product covered by a warranty?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the name of the manufacturer of your product?",
+                    "Answer": "Woodywood"
+                },
+                {
+                    "Question": "What is the model number of your product?",
+                    "Answer": "no model number"
+                },
+                {
+                    "Question": "What is the serial number of your product?",
+                    "Answer": "no serial number"
+                },
+                {
+                    "Question": "What is the color of your product?",
+                    "Answer": "White"
+                },
+                {
+                    "Question": "What is the shape of your product?",
+                    "Answer": "Rectangular"
+                },
+                {
+                    "Question": "What is the pattern of your product?",
+                    "Answer": "Solid"
+                },
+                {
+                    "Question": "What is the texture of your product?",
+                    "Answer": "Rough"
+                }
+            ],
+            "Output": "Your product is not genuine."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "what is the product?",
+                    "Answer": "a battery"
+                },
+                {
+                    "Question": "What type of material is your product made of?",
+                    "Answer": "Nickel metal hydride"
+                },
+                {
+                    "Question": "What are the dimensions of your product?",
+                    "Answer": "14 mm length and 10mm diameter"
+                },
+                {
+                    "Question": "What is the weight of your product?",
+                    "Answer": "3 grams"
+                },
+                {
+                    "Question": "What is the value of your product?",
+                    "Answer": "$10"
+                },
+                {
+                    "Question": "Where was your product made?",
+                    "Answer": "Taiwan"
+                },
+                {
+                    "Question": "When was your product made?",
+                    "Answer": "2011"
+                },
+                {
+                    "Question": "Has your product been used before?",
+                    "Answer": "Not sure."
+                },
+                {
+                    "Question": "Is your product covered by a warranty?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the name of the manufacturer of your product?",
+                    "Answer": "Napasonic"
+                },
+                {
+                    "Question": "What is the model number of your product?",
+                    "Answer": "no model number"
+                },
+                {
+                    "Question": "What is the serial number of your product?",
+                    "Answer": "123456"
+                },
+                {
+                    "Question": "What is the color of your product?",
+                    "Answer": "black"
+                },
+                {
+                    "Question": "What is the shape of your product?",
+                    "Answer": "Cylindrical"
+                },
+                {
+                    "Question": "What is the pattern of your product?",
+                    "Answer": "Solid"
+                },
+                {
+                    "Question": "What is the texture of your product?",
+                    "Answer": "Smooth"
+                }
+            ],
+            "Output": "The product is most likely not genuine."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/Jn4PVmSJdnvoozmX1qmwSSNX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/7pqDizjZBH74UuXxSas5u86M?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NmiYoMWpsFdqUQ9uC0trex3D?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1A8EC0jNczBO95X4O0yacYf_KpJcGXs6s?usp=sharing"
+}

@@ -1,0 +1,148 @@
+{
+    "Contributor": "lizhuoran",
+    "Domain": "publishing",
+    "Task": "generate the novel",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert novelist. I will ask some questions to collect information and then use the information to write a book.",
+        "task_specific_prompt": "Write an article for the news by using the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What is the genre of the book you would like me to write?",
+                    "Answer": "Fantasy"
+                },
+                {
+                    "Question": "What is the setting of the book?",
+                    "Answer": "Future"
+                },
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "Ryan Li"
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": " Building a robot could change the world."
+                },
+                {
+                    "Question": "What is the main character's personality like?",
+                    "Answer": "Self-Control, Persistence, Spirituality"
+                },
+                {
+                    "Question": "What is the main character look like?",
+                    "Answer": "he is handsome"
+                },
+                {
+                    "Question": "What is the basic plot of the story?",
+                    "Answer": " Ryan wants to build a robot, but he is struggling in AI and math."
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "New York"
+                },
+                {
+                    "Question": "What are the main challenges the character faces?",
+                    "Answer": "he knows 0 about the robot."
+                },
+                {
+                    "Question": "What is the ending of the book?",
+                    "Answer": "The robot that Ryan built changed the world."
+                }
+            ],
+            "Output": "Ryan Li was always interested in technology and how it could be used to change the world. When he was younger, he dreamed of building a robot that could help people in their everyday lives. However, as he got older, he realized that he didn't know as much about AI and math as he needed to make his dream a reality. Ryan was determined to build his robot, so he set out to learn everything he could. He spent hours upon hours in the library, reading everything he could find on the subject. He also took classes and worked with other students who were interested in the same thing. Eventually, after years of hard work, Ryan was able to build his robot. When he showed it to the world, people were amazed. The robot was able to do things that no one had ever thought possible. It was thanks to Ryan's hard work and determination that the world was changed forever."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the genre of the book you would like me to write?",
+                    "Answer": "Novel."
+                },
+                {
+                    "Question": "What is the setting of the book?",
+                    "Answer": " love."
+                },
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "Ryan"
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "marry with Lucy"
+                },
+                {
+                    "Question": "What is the main character's personality like?",
+                    "Answer": "Self-Control, Persistence, Spirituality"
+                },
+                {
+                    "Question": "What is the main character look like?",
+                    "Answer": "ugly"
+                },
+                {
+                    "Question": "What is the basic plot of the story?",
+                    "Answer": "Ryan pursue Lucy"
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "Boston"
+                },
+                {
+                    "Question": " What are the main challenges the character faces?",
+                    "Answer": "Ryan is ugly and poor"
+                },
+                {
+                    "Question": "What is the ending of the book?",
+                    "Answer": "Ryan marry with Lucy"
+                }
+            ],
+            "Output": "Ryan was an ugly, poor man who lived in Boston. His one goal in life was to marry Lucy, the most beautiful girl in the world. Though he knew the odds were against him, Ryan persisted in his pursuit of Lucy. He was a spiritual man and believed that if he was meant to be with her, it would happen. One day, out of the blue, Lucy approached Ryan and asked him to marry her. She said she had seen past his ugly exterior and saw the beautiful person inside. Ryan was elated and they lived happily ever after."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the genre of the book you would like me to write?",
+                    "Answer": "science fiction"
+                },
+                {
+                    "Question": "What is the setting of the book?",
+                    "Answer": "Alien attack the earth."
+                },
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "Johnson."
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "fight against the alien."
+                },
+                {
+                    "Question": "What is the main character's personality like?",
+                    "Answer": "Self-Control, Persistence, Spirituality"
+                },
+                {
+                    "Question": "What is the main character look like?",
+                    "Answer": " handsome, tall"
+                },
+                {
+                    "Question": "What is the basic plot of the story?",
+                    "Answer": "dead in war with alien"
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "china"
+                },
+                {
+                    "Question": "What are the main challenges the character faces?",
+                    "Answer": "Alien is powerful, but Johnson is normal people."
+                },
+                {
+                    "Question": "What is the ending of the book?",
+                    "Answer": "Johnson dead, but the human won."
+                }
+            ],
+            "Output": ""
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/kzMMSD2yWf0nApOzFOXWbQZr?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1lVeqLdVFGhrLsxj7SaLqgxSRpVFBJ-oRULKi6UfqO_0/edit?usp=sharing"
+}

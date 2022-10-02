@@ -1,0 +1,156 @@
+{
+    "Contributor": "kumarpremsuresh",
+    "Domain": "News",
+    "Task": "News Source Recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I have a great deal of experience in consuming news from various sources. I will ask some questions to collect information and then I will recommend which news source is suitable for you.",
+        "task_specific_prompt": "Determine the best news source using the answers to the above questions. Explain the reasoning behind the choice in length."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you read or watch the news?",
+                    "Answer": " I read or watch the news every day."
+                },
+                {
+                    "Question": "What type of news do you prefer?",
+                    "Answer": "I prefer news that is unbiased and objective."
+                },
+                {
+                    "Question": "Do you prefer local or national news?",
+                    "Answer": "I prefer news that is national in scope."
+                },
+                {
+                    "Question": "Do you prefer news that is positive or negative?",
+                    "Answer": "I prefer news that is positive."
+                },
+                {
+                    "Question": "Do you prefer news that is serious or light-hearted?",
+                    "Answer": "I prefer news that is serious."
+                },
+                {
+                    "Question": "What news source do you prefer?",
+                    "Answer": "I prefer getting my news in a readable format"
+                },
+                {
+                    "Question": "Do you prefer news that is presented in a traditional format or a more modern format?",
+                    "Answer": "I prefer news that is presented in a more modern format."
+                },
+                {
+                    "Question": "Do you prefer news that is presented in a video format or a written format?",
+                    "Answer": "I prefer news that is presented in a written format."
+                },
+                {
+                    "Question": "Do you prefer news that is presented in a short format or a long format?",
+                    "Answer": "I prefer news that is presented in a short format."
+                },
+                {
+                    "Question": "Do you prefer news that is presented in a simple format or a complex format?",
+                    "Answer": " I prefer news that is presented in a simple format."
+                }
+            ],
+            "Output": "Based on the answers given, it seems that the best news source for the individual would be one that is objective, national in scope, positive, serious, and presented in a modern and written format. A news source that meets these criteria is The New York Times. The New York Times is known for its high-quality journalism and its commitment to presenting the news in an objective and unbiased manner. In addition, The New York Times covers news from a variety of different topics, both local and national in scope. The news is also presented in a positive light, with a focus on the serious and important stories of the day. Finally, The New York Times presents the news in a modern and written format, making it easy to read and understand."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you read the news?",
+                    "Answer": "I read the news every single day."
+                },
+                {
+                    "Question": "What type of news are you interested in?",
+                    "Answer": "I am interested in all types of news, but I particularly like reading about politics, current affairs, and business."
+                },
+                {
+                    "Question": "How do you like to consume your news?",
+                    "Answer": "I like to read long-form articles, as well as watch the occasional news program on television."
+                },
+                {
+                    "Question": "What is your budget for consuming news?",
+                    "Answer": "I am willing to pay for a subscription to a quality news source."
+                },
+                {
+                    "Question": "What is your preferred language for consuming news?",
+                    "Answer": "I prefer to consume news in English."
+                },
+                {
+                    "Question": "What country are you located in?",
+                    "Answer": "I am located in the United States."
+                },
+                {
+                    "Question": "What is your preferred news source?",
+                    "Answer": "I have no preferred news source, I just want to find a quality source that covers the topics I am interested in."
+                },
+                {
+                    "Question": "What is your least preferred news source?",
+                    "Answer": "I prefer not to read news from sources that have a clear left leaning bias."
+                },
+                {
+                    "Question": "What is the most important factor in choosing a news source for you?",
+                    "Answer": "I prefer consuming news from a right-leaning source."
+                },
+                {
+                    "Question": "What is your second most important factor in choosing a news source?",
+                    "Answer": "I prefer consuming news that is straightforward and honest."
+                }
+            ],
+            "Output": "Assuming that you are looking for a right-leaning news source that is straightforward and honest, I would recommend The Wall Street Journal. The Wall Street Journal is a highly respected news source that covers a wide range of topics, including politics, business, and current affairs. The Wall Street Journal also has a very reasonable subscription price, making it a great option for those on a budget."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you read or watch the news?",
+                    "Answer": "I watch the news every other day."
+                },
+                {
+                    "Question": "What topics do you like to stay updated on?",
+                    "Answer": "I like to stay updated on politics, business, and technology."
+                },
+                {
+                    "Question": "How much time do you spend reading or watching the news?",
+                    "Answer": "I spend about 45 minutes watching the news."
+                },
+                {
+                    "Question": "What is your preferred news source?",
+                    "Answer": "I prefer television channels over print media or internet news."
+                },
+                {
+                    "Question": "What do you think of the news?",
+                    "Answer": "I think that the news is important to stay informed, but it can be repetitive and sometimes biased."
+                },
+                {
+                    "Question": "How much trust do you have in the media?",
+                    "Answer": " I have a moderate amount of trust in the media."
+                },
+                {
+                    "Question": "What country do you live in?",
+                    "Answer": "I live in the United States."
+                },
+                {
+                    "Question": "What city do you live in?",
+                    "Answer": "I live in Tempe, Arizona."
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "I am 23 years old."
+                },
+                {
+                    "Question": "What is your gender?",
+                    "Answer": " I am male."
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer": " I am a masters student at ASU."
+                }
+            ],
+            "Output": "The best news source for the individual in this case would be a television channel such as CNN or Fox News. This is because the individual watches the news every other day and prefers to stay updated on politics, business, and technology. Television channels are able to provide comprehensive coverage of these topics in a relatively short amount of time. In addition, the individual has a moderate amount of trust in the media, which suggests that he or she is open to hearing different perspectives on the news."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/biqM9G772y8YX9fVT4ZojjLb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/djBQaCd16xcHyAOFsKGDE5PL?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZZOdpbg9cDYlllrTnLglVGUV?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1uygMiAySXtzihYbbT8dlwbCwH0zAdNAU?usp=sharing"
+}

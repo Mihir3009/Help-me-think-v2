@@ -1,0 +1,148 @@
+{
+    "Contributor": "kantakash",
+    "Domain": "Logic",
+    "Task": "I want to use logic to predict and buy stocks",
+    "Prompt": {
+        "pre_question_prompt": "I am a trader. I will ask some questions to collect information and then I will use the information to use logic to predict stocks.",
+        "task_specific_prompt": "Write a  summary if I should buy the company stock using logic using the questions and answers above."
+    },
+    "Intances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the company's sales for the past three years?",
+                    "Answer": "The company's sales for the past three years were $1.2 billion, $1.6 billion, and $2.0 billion."
+                },
+                {
+                    "Question": "What is the company's current stock price?",
+                    "Answer": "The current stock price is $100 per share."
+                },
+                {
+                    "Question": "What is the company's earnings per share for the past three years?",
+                    "Answer": "The company's earnings per share for the past three years were $4.00, $5.00, and $6.00."
+                },
+                {
+                    "Question": "What is the company's price to earnings ratio for the past three years?",
+                    "Answer": "The company's price to earnings ratio for the past three years was 25, 20, and 16."
+                },
+                {
+                    "Question": "What is the company's dividends per share for the past three years?",
+                    "Answer": "The company's dividends per share for the past three years were $1.00, $1.50, and $2.00."
+                },
+                {
+                    "Question": "What is the company's return on equity for the past three years?",
+                    "Answer": "The company's return on equity for the past three years was 20%, 25%, and 30%."
+                },
+                {
+                    "Question": "What is the company's current share price?",
+                    "Answer": "The company's current share price is $100 per share."
+                },
+                {
+                    "Question": "What is the company's book value per share?",
+                    "Answer": "The company's book value per share is $10."
+                },
+                {
+                    "Question": "What is the company's price to book ratio?",
+                    "Answer": "The company's price to book ratio is 10."
+                },
+                {
+                    "Question": "What is the company's debt to equity ratio?",
+                    "Answer": "The company's debt to equity ratio is 0.5."
+                }
+            ],
+            "Output": "The company's sales have increased steadily over the past three years, and its earnings per share have also increased during that time. The company's current stock price is $100 per share, and its price to earnings ratio is 16, which is lower than it has been in the past three years. The company also has a dividend yield of 2%, which is higher than the average dividend yield for companies in its industry. Based on the information above, it seems like the company's stock is a good buy at its current price."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the company's sales for the past three years?",
+                    "Answer": "The company's sales for the past three years were $0.1 billion, $0.05 billion, and $0.01 billion."
+                },
+                {
+                    "Question": "What is the company's current stock price?",
+                    "Answer": "The current stock price is $9 per share."
+                },
+                {
+                    "Question": "What is the company's earnings per share for the past three years?",
+                    "Answer": "The company's earnings per share for the past three years were $1.00, $0.00, and $0.00."
+                },
+                {
+                    "Question": "What is the company's price to earnings ratio for the past three years?",
+                    "Answer": "The company's price to earnings ratio for the past three years was 200, 150, and 190."
+                },
+                {
+                    "Question": "What is the company's dividends per share for the past three years?",
+                    "Answer": "The company's dividends per share for the past three years were $0.00, $0.02, and $0.01"
+                },
+                {
+                    "Question": "What is the company's return on equity for the past three years?",
+                    "Answer": "The company's return on equity for the past three years was 1%, -2%, and 1%."
+                },
+                {
+                    "Question": "What is the company's current share price?",
+                    "Answer": "The company's current share price is $9 per share."
+                },
+                {
+                    "Question": "What is the company's book value per share?",
+                    "Answer": "The company's book value per share is $10."
+                },
+                {
+                    "Question": "What is the company's price to book ratio?",
+                    "Answer": "The company's price to book ratio is 5."
+                },
+                {
+                    "Question": "What is the company's debt to equity ratio?",
+                    "Answer": "The company's debt to equity ratio is 1.2."
+                }
+            ],
+            "Output": "The company's sales have been declining for the past three years, but its stock price has been relatively stable. The company has a high price to earnings ratio, which may indicate that it is overvalued. However, the company also has a high book value per share, which indicates that it may be undervalued. The company's debt to equity ratio is relatively high, which may be a concern. Overall, the company appears to be a risky investment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the company's sales for the past three years?",
+                    "Answer": "The company's sales for the past three years were $3 billion, $5 billion, and $7 billion."
+                },
+                {
+                    "Question": "What is the company's current stock price?",
+                    "Answer": "The current stock price is $200 per share."
+                },
+                {
+                    "Question": "What is the company's earnings per share for the past three years?",
+                    "Answer": "The company's earnings per share for the past three years were $20.00, $25.00, and $50.00."
+                },
+                {
+                    "Question": "What is the company's price to earnings ratio for the past three years?",
+                    "Answer": "The company's price to earnings ratio for the past three years was 1, 2, and 0.5."
+                },
+                {
+                    "Question": "What is the company's dividends per share for the past three years?",
+                    "Answer": "The company's dividends per share for the past three years were $5, $10, and $20"
+                },
+                {
+                    "Question": "What is the company's return on equity for the past three years?",
+                    "Answer": "The company's return on equity for the past three years was 15%, 25%, and 67%."
+                },
+                {
+                    "Question": "What is the company's current share price?",
+                    "Answer": "The company's current share price is $200 per share."
+                },
+                {
+                    "Question": "What is the company's book value per share?",
+                    "Answer": "The company's book value per share is $10."
+                },
+                {
+                    "Question": "What is the company's price to book ratio?",
+                    "Answer": "The company's price to book ratio is 5."
+                },
+                {
+                    "Question": "What is the company's debt to equity ratio?",
+                    "Answer": "The company's debt to equity ratio is 1.2."
+                }
+            ],
+            "Output": "I should buy the company stock because the company's sales have been increasing each year, the company has a low price to earnings ratio, and the company has a high return on equity."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/Bz3mBAIJGj7K5BSUGSAFwwmL?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ui8vtpUyYOBDEHgNZt9LS1KJyingsSRH/view?usp=sharing"
+}

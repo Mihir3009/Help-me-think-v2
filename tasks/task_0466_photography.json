@@ -1,0 +1,152 @@
+{
+    "Contributor": "lakshmisettiabhishekkumar",
+    "Domain": "Photography",
+    "Task": "Step by Step procedure for how to edit a photo like a professional",
+    "Prompt": {
+        "pre_question_prompt": "I am an professional photographer and editor. I will ask some questions to collect information and then I will use the information to guide you editing a picture that you clicked",
+        "task_specific_prompt": "Tell me how should I edit the photo step by step using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the photo?",
+                    "Answer": "The subject of the photo is a college building."
+                },
+                {
+                    "Question": "What is the mood or feeling that you want to convey with the photo?",
+                    "Answer": "The mood that I want to convey with this photo is one of professionalism and sophistication."
+                },
+                {
+                    "Question": "What colors are dominant in the photo?",
+                    "Answer": "The colors that are dominant in this photo are shades of gray and white."
+                },
+                {
+                    "Question": "What do you want the final photo to look like?",
+                    "Answer": "I want the final photo to look clean, awestruck and crisp."
+                },
+                {
+                    "Question": "Do you have any specific editing requests?",
+                    "Answer": "Some specific editing requests I have are to increase the contrast and to make the colors more vibrant."
+                },
+                {
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "Yes, I do"
+                },
+                {
+                    "Question": "What is the occasion for which this photo will be used?",
+                    "Answer": "This photo will be used for my college  journal."
+                },
+                {
+                    "Question": "Do you have any specific ideas or themes in mind for the journal?",
+                    "Answer": "The specific idea I have in mind for the journal is to create a clean and sophisticated look."
+                },
+                {
+                    "Question": "Do you want the photo to be edited in black and white or in color?",
+                    "Answer": "I would like the photo to be in colourful and vibrant way."
+                },
+                {
+                    "Question": "Do you have any other specific requests?",
+                    "Answer": "Yes, I would like the photo to be edited in a way that makes the college building look more professional and the quality should be retained."
+                }
+            ],
+            "Output": "Step 1: Open the photo in your editing software. Step 2: Increase the contrast by moving the contrast slider to the right. Step 3: Make the colors more vibrant by increasing the saturation. Step 4: To make the college building look more professional, increase the clarity and sharpness"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the photo?",
+                    "Answer": "The subject of the photo is a person."
+                },
+                {
+                    "Question": "What is the mood or feeling of the photo?",
+                    "Answer": "The mood of the photo is happy and bright."
+                },
+                {
+                    "Question": "What do you want to emphasize in the photo?",
+                    "Answer": "I want to emphasize the person's smile in the photo."
+                },
+                {
+                    "Question": "What colors do you want to use in the photo?",
+                    "Answer": "I want to use bright colors in the photo."
+                },
+                {
+                    "Question": "Do you want to add any text or graphics to the photo?",
+                    "Answer": "I want to add text to the photo."
+                },
+                {
+                    "Question": "Do you want to change the background of the photo?",
+                    "Answer": "I want to change the background of the photo."
+                },
+                {
+                    "Question": "What other edits do you want to make to the photo?",
+                    "Answer": "I want to crop the photo to 4:3 ratio and make it smaller."
+                },
+                {
+                    "Question": "Do you have any specific instructions for me?",
+                    "Answer": "I would like you to make the person's smile the focus of the photo."
+                },
+                {
+                    "Question": "Is there anything else you want to tell me about the photo?",
+                    "Answer": "Yes, Please remove the pimples on the cheeks."
+                },
+                {
+                    "Question": "Do you have any other photos that I can use to create a collage?",
+                    "Answer": "No, I do not have any other photos."
+                }
+            ],
+            "Output": "First, open the photo in an editing program. Next, crop the photo to a 4:3 ratio.Then, make the photo smaller. Next, change the background of the photo. Then, add text to the photo. Finally, focus on the person's smile and make it the focus of the photo."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "The occasion is my cousin's wedding."
+                },
+                {
+                    "Question": "What is the setting?",
+                    "Answer": "The setting is in a wedding hall."
+                },
+                {
+                    "Question": "What is the mood?",
+                    "Answer": "The mood is happy and festive."
+                },
+                {
+                    "Question": "What colors are prominent in the photo?",
+                    "Answer": "The colors are white, gold, and pink."
+                },
+                {
+                    "Question": "What is the composition of the photo?",
+                    "Answer": "The composition of the photo is a group of people standing in front of a decorated stage."
+                },
+                {
+                    "Question": "Who is the subject of the photo?",
+                    "Answer": "The subject of the photo is the bride and groom."
+                },
+                {
+                    "Question": "What do you want the edited photo to look like?",
+                    "Answer": "I want the edited photo to look like a professionally edited wedding photo."
+                },
+                {
+                    "Question": "Do you have any specific requests for the editing?",
+                    "Answer": "I would like the exposure and color balance to be corrected, and I would like the photo to be cropped to focus on the bride and groom."
+                },
+                {
+                    "Question": "Do you have any other photos from the same event that you would like edited in a similar style?",
+                    "Answer": "Yes, I have several other photos from the same event that I would like edited in a similar style."
+                },
+                {
+                    "Question": "Do you have any ideas for the final product?",
+                    "Answer": "Yes, I would like the final product to be a print that I can frame and hang on my wall."
+                }
+            ],
+            "Output": "1. Open the photo in Photoshop.\n\n2. Go to the \"Exposure\" adjustment layer and increase the \"Exposure\" value until the photo looks correctly exposed.\n\n3. Go to the \"Color Balance\" adjustment layer and adjust the \"Midtones\" until the colors in the photo look natural.\n\n4. Crop the photo to focus on the bride and groom.\n\n5. Save the edited photo as a JPEG file.\n\n6. Print the edited photo on photo paper using a high-quality printer."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/whB7jnHQXehz522nfHiAePCT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/uHpTxdO4N8ORIi0QINJ79pqk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0W8fO1YHx6X272yvAduLLcXJ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1bovWsQ22XzuZQtpjktSqV8tZFOf3z5_-?usp=sharing"
+}

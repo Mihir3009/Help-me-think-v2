@@ -1,0 +1,166 @@
+{
+    "Contributor": "lakhanpalsanyam",
+    "Domain": "Mechanical Engineering",
+    "Task": "Building an army robot.",
+    "Prompt": [
+        {
+            "pre_question_prompt": "I am an expert in building army robots. Ask me 10 questions related to it and I will answer them. At last we will build one robot from scratch.",
+            "task_specific_prompt": "Tell in 10 steps how will you make an army robot based on the question and answer pairs above."
+        },
+        {
+            "pre_question_prompt": "I am an expert in building army robots. Ask me 10 questions related to it and I will answer them. At last we will build one robot from scratch.",
+            "task_specific_prompt": "Tell in 10 steps how will you make an army robot based on the question and answer pairs above and tell the cost in $ to build one."
+        },
+        {
+            "pre_question_prompt": "I am an expert in building army robots. Ask me 10 questions related to it and I will answer them. At last, we will build one robot from scratch.",
+            "task_specific_prompt": "Based on the above question and answer pairs, give detailed steps on how to build an air combat army robot."
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the most important considerations when designing an army robot?",
+                    "Answer": "The most important  considerations when designing an army robot are its size, speed, strength, and durability."
+                },
+                {
+                    "Question": "How much does an average army robot cost to build?",
+                    "Answer": "The cost of an average army robot depends on the size, speed, strength, and durability."
+                },
+                {
+                    "Question": "What are the benefits of using army robots?",
+                    "Answer": "The benefits of using army robots are that they can be used for reconnaissance, to carry supplies, and to attack and destroy enemy targets."
+                },
+                {
+                    "Question": "How does the size of an army robot affect its performance?",
+                    "Answer": "The size of an army robot can affect its performance in terms of speed, strength, and durability."
+                },
+                {
+                    "Question": "How does the speed of an army robot affect its performance?",
+                    "Answer": "The speed of an army robot can affect its performance in terms of how quickly it can reach its destination, how easily it can avoid enemy fire, and how much damage it can inflict on enemy targets."
+                },
+                {
+                    "Question": "How does the strength of an army robot affect its performance?",
+                    "Answer": "The strength of an army robot can affect its performance in terms of how much damage it can inflict on enemy targets and how easily it can destroy enemy targets."
+                },
+                {
+                    "Question": "How does the durability of an army robot affect its performance?",
+                    "Answer": "The durability of an army robot can affect its performance in terms of how long it can stay in combat and how much damage it can withstand before being destroyed."
+                },
+                {
+                    "Question": "What are the most common types of army robots?",
+                    "Answer": "The most common types of army robots are reconnaissance robots, supply robots, and attack robots."
+                },
+                {
+                    "Question": "What are the differences between the types of army robots?",
+                    "Answer": "The differences between the types of army robots are in their size, speed, strength, and durability."
+                },
+                {
+                    "Question": "How can army robots be customized to meet the needs of a specific mission?",
+                    "Answer": "Army robots can be customized to meet the needs of a specific mission by changing their size, speed, strength, and durability."
+                }
+            ],
+            "Output": "' \n1. Choose the size, speed, strength, and durability of the army robot.\n\n2. Choose the type of army robot.\n\n3. Customize the army robot to meet the needs of the specific mission.\n\n4. Choose the size, speed, strength, and durability of the army robot.\n\n5. Choose the type of army robot.\n\n6. Customize the army robot to meet the needs of the specific mission.\n\n7. Choose the size, speed, strength, and durability of the army robot.\n\n8. Choose the type of army robot.\n\n9. Customize the army robot to meet the needs of the specific mission.\n\n10. Choose the size, speed, strength, and durability of the army robot.\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much would it cost to build an army robot?",
+                    "Answer": "The cost of building an army robot would vary depending on the size and complexity of the robot. A small, simple robot could cost a few hundred dollars to build, while a large, complex robot could cost tens of thousands of dollars."
+                },
+                {
+                    "Question": "What materials would be needed to build an army robot?",
+                    "Answer": "Some of the materials that would be needed to build an army robot include metal, plastic, sensors, motors, and a controller."
+                },
+                {
+                    "Question": "How long would it take to build an army robot?",
+                    "Answer": "The time it would take to build an army robot would depend on the size and complexity of the robot. A small, simple robot could be built in a few hours, while a large, complex robot could take weeks or even months to build."
+                },
+                {
+                    "Question": "What kind of sensors would be needed to build an army robot?",
+                    "Answer": "Some of the sensors that would be needed to build an army robot include light sensors, proximity sensors, and GPS."
+                },
+                {
+                    "Question": "What kind of motors would be needed to build an army robot?",
+                    "Answer": "Some of the motors that would be needed to build an army robot include electric motors, hydraulic motors, and pneumatic motors."
+                },
+                {
+                    "Question": "What controller would be needed to build an army robot?",
+                    "Answer": "A controller would be needed to build an army robot in order to control the various motors and sensors. The type of controller used would depend on the specific requirements of the robot."
+                },
+                {
+                    "Question": "What other components would be needed to build an army robot?",
+                    "Answer": "In addition to the materials, sensors, motors, and controller, other components that would be needed to build an army robot include a power source, a chassis, and wires."
+                },
+                {
+                    "Question": "How could an army robot be used in combat?",
+                    "Answer": "An army robot could be used in combat in a variety of ways, such as carrying supplies, providing reconnaissance, or even engaging in combat directly."
+                },
+                {
+                    "Question": "What are some of the risks involved in using army robots in combat?",
+                    "Answer": "Some of the risks involved in using army robots in combat include the possibility of the robots malfunctioning or being hacked, and the possibility that the robots could cause collateral damage."
+                },
+                {
+                    "Question": "What are some of the benefits of using army robots in combat?",
+                    "Answer": "Some of the benefits of using army robots in combat include the possibility of reducing casualties, increasing the efficiency of combat operations, and providing a new level of flexibility and options in combat."
+                }
+            ],
+            "Output": "' \n1. Decide on the size and complexity of the robot.\n2. Gather the materials needed, including metal, plastic, sensors, motors, and a controller.\n3. Build the robot, which could take a few hours for a simple robot or weeks for a complex one.\n4. Install the various sensors, including light sensors, proximity sensors, and GPS.\n5. Install the motors, including electric motors, hydraulic motors, and pneumatic motors.\n6. Install the controller, which will be used to control the various motors and sensors.\n7. Install the power source, chassis, and wires.\n8. Test the robot to ensure it is functioning properly.\n9. Paint or otherwise camouflage the robot.\n10. Deploy the robot into combat.\n\n\nThe cost of building an army robot would vary depending on the size and complexity of the robot. A small, simple robot could cost a few hundred dollars to build, while a large, complex robot could cost tens of thousands of dollars.\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of army robots are best in combat in the air?",
+                    "Answer": "The best army robots for combat in the air are those that are agile and have powerful weapons. They should also be able to withstand enemy fire and be able to fly for long periods of time."
+                },
+                {
+                    "Question": "What type of army robots are best in combat on the ground?",
+                    "Answer": "The best army robots for combat on the ground are those that are heavily armored and have powerful weapons. They should also be able to move quickly and be able to take on multiple targets at once."
+                },
+                {
+                    "Question": "What type of army robots are best in combat in water?",
+                    "Answer": "The best army robots for combat in water are those that are fast and have powerful weapons. They should also be able to withstand enemy fire and be able to stay underwater for long periods of time."
+                },
+                {
+                    "Question": "What are the best weapons for army robots?",
+                    "Answer": "The best weapons for army robots are those that are powerful and can take out multiple targets at once. They should also be able to inflict a lot of damage and be able to penetrate enemy armor."
+                },
+                {
+                    "Question": "What are the best defenses for army robots?",
+                    "Answer": "The best defenses for army robots are those that are heavily armored and can deflect enemy fire. They should also be able to move quickly and be able to take on multiple targets at once."
+                },
+                {
+                    "Question": "What type of army robots are best in scouting missions?",
+                    "Answer": "The best army robots for scouting missions are those that are small and agile. They should also be able to fly for long periods of time and be able to take on multiple targets at once."
+                },
+                {
+                    "Question": "What type of army robots are best in rescue missions?",
+                    "Answer": "The best army robots for rescue missions are those that are small and agile. They should also be able to fly for long periods of time and be able to take on multiple targets at once."
+                },
+                {
+                    "Question": "What type of army robots are best in search and destroy missions?",
+                    "Answer": "The best army robots for search and destroy missions are those that are heavily armed and can move quickly. They should also be able to take on multiple targets at once and be able to withstand enemy fire."
+                },
+                {
+                    "Question": "What type of army robots are best in stealth missions?",
+                    "Answer": "The best army robots for stealth missions are those that are small and agile. They should also be able to fly for long periods of time and be able to take on multiple targets at once."
+                },
+                {
+                    "Question": "What are the best sensors for army robots?",
+                    "Answer": "The best sensors for army robots are those that are powerful and can take in a lot of information at once. They should also be able to process this information quickly and be able to make decisions based on it."
+                }
+            ],
+            "Output": "' \n1. The first step is to choose the right frame for the pentacopter. The frame needs to be strong enough to support the weight of the pentacopter and the motors. It also needs to be big enough to fit all the parts.\n2. The second step is to choose the right motors for the pentacopter. The motors need to be powerful enough to lift the pentacopter and the battery. They also need to be durable.\n3. The third step is to choose the right ESCs for the pentacopter. The ESCs need to be able to control the motors. They also need to be durable.\n4. The fourth step is to choose the right propellers for the pentacopter. The propellers need to be the right size and pitch for the motors. They also need to be durable.\n5. The fifth step is to choose the right flight controller for the pentacopter. The flight controller needs to be able to control the motors and the ESCs. It also needs to be durable.\n6. The sixth step is to choose the right battery for the pentacopter. The battery needs to be able to power the motors and the flight controller. It also needs to be durable.\n7. The seventh step is to assemble the pentacopter. First, the frame is assembled. Then, the motors, ESCs, and propellers are assembled. After that, the flight controller is assembled. Finally, the battery is assembled.\n8. The eighth step is to test the pentacopter. First, the frame is tested. Then, the motors, ESCs, and propellers are tested. After that, the flight controller is tested. Finally, the battery is tested.\n9. The ninth step is to fly the pentacopter. First, the pentacopter is turned on. Then, the throttle is increased and the pentacopter takes off. After that, the pentacopter is flown around. Finally, the pentacopter is landed.\n10. The tenth step is to troubleshoot the pentacopter. If the pentacopter is not flying correctly, then the problem is diagnosed and fixed.\n\n\nIt would cost around $500 to build a pentacopter from scratch.\n'"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/G3jYHlmRuCTvyDbS2oP3gxas?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/V64ahlfVFqFje7uwIUj3VVhM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lKIddyN1rcAJx2LhLawnCV4T?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/drive/folders/159iuwhxDx_KDG6M3VL36kS-XQ_0P4MqA?usp=sharing",
+        "https://drive.google.com/drive/folders/1Bvjb0an5QC4Ko_w_UMQOoK1TLF-kzsiU?usp=sharing",
+        "https://drive.google.com/drive/folders/17iTvg3F2F6OnoFOec8U_IuWlqP-CENnM?usp=sharing"
+    ]
+}

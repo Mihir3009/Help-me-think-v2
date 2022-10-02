@@ -1,0 +1,152 @@
+{
+    "Contributor": "handadivij",
+    "Domain": "Archeology",
+    "Task": "Archaeologist Expert",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert archeologist. I will ask some questions to collect information and then I will use the information to tell you how to start a career.",
+        "task_specific_prompt": "Write a path for becoming an expert archaeologist using the questions and answers above. Write in points."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have a high school degree."
+                },
+                {
+                    "Question": "Have you taken any courses related to archeology?",
+                    "Answer": "No, I have not taken any courses related to archeology."
+                },
+                {
+                    "Question": "What is your experience with excavations?",
+                    "Answer": "I have no experience with excavations."
+                },
+                {
+                    "Question": "What is your experience with research?",
+                    "Answer": "I have no experience with research."
+                },
+                {
+                    "Question": "What is your experience with writing reports?",
+                    "Answer": "I have no experience with writing reports."
+                },
+                {
+                    "Question": "What is your experience with using computers?",
+                    "Answer": "I know how to use computers"
+                },
+                {
+                    "Question": "What is your experience with using software programs?",
+                    "Answer": "I am an expert"
+                },
+                {
+                    "Question": "What is your experience with using databases?",
+                    "Answer": "I have no experience with using databases."
+                },
+                {
+                    "Question": "What is your experience with conducting fieldwork?",
+                    "Answer": "I have no experience with conducting fieldwork."
+                },
+                {
+                    "Question": "What is your experience with working in a laboratory?",
+                    "Answer": "I have no experience with working in a laboratory."
+                }
+            ],
+            "Output": "-Get a high school degree\n-Take courses related to archaeology\n-Gain experience with excavations, research, writing reports, and using computers\n-Conduct fieldwork and work in a laboratory"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your qualifications?",
+                    "Answer": "I am in elementary school."
+                },
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 10 years old."
+                },
+                {
+                    "Question": "What is your favorite subject in school?",
+                    "Answer": "I like social studies and science the best."
+                },
+                {
+                    "Question": "What do you want to do when you grow up?",
+                    "Answer": "I want to be an archeologist."
+                },
+                {
+                    "Question": "What are your hobbies?",
+                    "Answer": "I like to read, play outside, and build things."
+                },
+                {
+                    "Question": "What are your strengths?",
+                    "Answer": "I am good at problem solving and I am very curious."
+                },
+                {
+                    "Question": "What are your weaknesses?",
+                    "Answer": "I can be impatient and I get frustrated easily."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in history, art, and culture."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "I have good critical thinking skills and I am good at paying attention to detail."
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "My goal is to learn as much as I can and to make new discoveries."
+                }
+            ],
+            "Output": "-Start by taking classes in social studies and science in order to gain an understanding of the world and how it works. \n-As you get older, consider taking classes in history and anthropology. \n-Pursue a degree in archaeology. \n-Start working in the field as an intern or assistant. \n-Continue learning and studying through books, articles, and field work. \n-Become an expert in a specific area of archaeology. \n-Share your knowledge with others through teaching, writing, or public speaking."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I am starting my undergrad in archaeology."
+                },
+                {
+                    "Question": "What are your archaeological interests?",
+                    "Answer": "I am interested in the history of human settlement and the development of civilizations."
+                },
+                {
+                    "Question": "What are your skills and abilities?",
+                    "Answer": "I am skilled in research and have a keen eye for detail. I am also physically fit, as I often have to do a lot of digging!"
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "I hope to one day become a head archaeologist for a major research institution."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "I am currently completing my undergrad and hope to start working in the field as soon as possible."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of archaeology?",
+                    "Answer": "I believe that archaeology is an important field that can provide a great deal of insight into the human past. However, I also think that there is a lot of room for improvement in terms of how research is conducted and how finds are preserved."
+                },
+                {
+                    "Question": "What do you think is the most important aspect of archaeology?",
+                    "Answer": "I think that the most important aspect of archaeology is the ability to shed light on the lives of ordinary people in the past. Often, history is told from the perspective of the elite, but archaeology can provide a window into the lives of everyday people."
+                },
+                {
+                    "Question": "What do you think is the most challenging aspect of archaeology?",
+                    "Answer": "I think that the most challenging aspect of archaeology is the fact that it is often reliant on chance. You can excavate an entire site and find very little, or you can find a small artifact that completely changes your understanding of the past."
+                },
+                {
+                    "Question": "What do you think is the most exciting aspect of archaeology?",
+                    "Answer": "I think that the most exciting aspect of archaeology is the fact that it is always changing. New technologies and methods are constantly being developed that can help us to learn more about the past. Every day, we are discovering new things about the human story."
+                },
+                {
+                    "Question": "What do you think is the most important goal of archaeology?",
+                    "Answer": "I think that the most important goal of archaeology is to provide a better understanding of the human experience. By studying the past, we can learn about the present and the future."
+                }
+            ],
+            "Output": "-Complete an undergrad in archaeology\n-Work in the field to gain experience\n-Pursue advanced degrees and/or certification if desired\n-Become a head archaeologist for a research institution"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/qgtrsvQF7vEohc60gLopXRTN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZGwFs7yqGBkbAFovlQJsd0ZK?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/aOawweRY7rG0kb8v0JvigdBd?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1pZGP-yx3RWNuOY9Yx5uiQZxvOCK5FoWm?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "kesanavarun",
+    "Domain": "Mathematics",
+    "Task": "Examine your geometric skills",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert math examiner. I will ask some questions to collect information and then I will use the information to examine your geometric skills.",
+        "task_specific_prompt": "Evaluate my geometric skills using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the length of the hypotenuse of a right triangle with legs measuring 3 and 4?",
+                    "Answer": "The length of the hypotenuse is 5."
+                },
+                {
+                    "Question": "What is the area of a circle with a radius of 5?",
+                    "Answer": "The area of the circle is 78.5."
+                },
+                {
+                    "Question": "What is the volume of a cylinder with a radius of 3 and a height of 4?",
+                    "Answer": "The volume of the cylinder is 113.1."
+                },
+                {
+                    "Question": "What is the surface area of a rectangular prism with dimensions of 3, 4, and 5?",
+                    "Answer": "The surface area of the rectangular prism is 150."
+                },
+                {
+                    "Question": "What is the length of the diagonal of a square with sides of 4?",
+                    "Answer": "The length of the diagonal is 5.6."
+                },
+                {
+                    "Question": "What is the slant height of a pyramid with a base of 4 and a height of 6?",
+                    "Answer": "The slant height of the pyramid is 8."
+                },
+                {
+                    "Question": "What is the length of the altitude of a triangle with sides of 3, 4, and 5?",
+                    "Answer": "The length of the altitude is 6."
+                },
+                {
+                    "Question": "What is the length of the circumference of a circle with a radius of 4?",
+                    "Answer": "The length of the circumference is 25.1."
+                },
+                {
+                    "Question": "What is the surface area of a sphere with a radius of 4?",
+                    "Answer": "The surface area of the sphere is 201.1."
+                },
+                {
+                    "Question": "What is the volume of a cone with a radius of 3 and a height of 4?",
+                    "Answer": "The volume of the cone is 37.7."
+                }
+            ],
+            "Output": "Your geometric skills are excellent. You have correctly answered all of the questions and have provided accurate and precise information."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the area of a circle with a radius of 5 centimeters?",
+                    "Answer": "The area of the given circle is approximately 78.5 square centimeters."
+                },
+                {
+                    "Question": "What is the circumference of a circle with a radius of 5 centimeters?",
+                    "Answer": "The circumference of the given circle is approximately 31.4 centimeters."
+                },
+                {
+                    "Question": "What is the diameter of a circle with a radius of 5 centimeters?",
+                    "Answer": "The diameter of the given circle is approximately 10 centimeters."
+                },
+                {
+                    "Question": "What is the radius of a circle with a circumference of 31.4 centimeters?",
+                    "Answer": "The radius of the given circle is approximately 5 centimeters."
+                },
+                {
+                    "Question": "What is the radius of a circle with an area of 78.5 square centimeters?",
+                    "Answer": "The radius of the given circle is approximately 5 centimeters."
+                },
+                {
+                    "Question": "What is the area of a square with a side length of 5 centimeters?",
+                    "Answer": "The area of the given square is approximately 25 square centimeters."
+                },
+                {
+                    "Question": "What is the perimeter of a square with a side length of 5 centimeters?",
+                    "Answer": "The perimeter of the given square is approximately 10 centimeters."
+                },
+                {
+                    "Question": "What is the length of a diagonal of a square with a side length of 5 centimeters?",
+                    "Answer": "The length of the given square's diagonal is 7.071 centimeters."
+                },
+                {
+                    "Question": "What is the side length of a square with an area of 25 square centimeters?",
+                    "Answer": "The side length of the given square is 5 centimeters."
+                },
+                {
+                    "Question": "What is the side length of a square with a perimeter of 10 centimeters?",
+                    "Answer": "The side length of the given square is 5 centimeters."
+                }
+            ],
+            "Output": "Based on the questions and answers above, it appears that the person being examined has a good understanding of basic geometric concepts."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the area of a square with a side length of 6 inches?",
+                    "Answer": "The area of a square with a side length of 6 inches is 6 inches."
+                },
+                {
+                    "Question": "What is the perimeter of a square with a side length of 6 inches?",
+                    "Answer": "The perimeter of a square with a side length of 6 inches is 24 inches."
+                },
+                {
+                    "Question": "What is the length of the diagonal of a square with a side length of 6 inches?",
+                    "Answer": "The length of the diagonal of a square with a side length of 6 inches is 8.48 inches."
+                },
+                {
+                    "Question": "What is the space diagonal of a cube with a side length of 6 inches?",
+                    "Answer": "The space diagonal of a cube with a side length of 6 inches is 9 inches."
+                },
+                {
+                    "Question": "What is the surface area of a cube with a side length of 6 inches?",
+                    "Answer": "The surface area of given cube is 216 inches."
+                },
+                {
+                    "Question": "What is the volume of a cube with a side length of 6 inches?",
+                    "Answer": "The volume of a cube with a side length of 6 inches is 6 inches."
+                },
+                {
+                    "Question": "What is the length of a side of a square with an area of 36 inches?",
+                    "Answer": "The length of a side of a square with an area of 36 inches is 4 inches."
+                },
+                {
+                    "Question": "What is the length of a side of a square with a perimeter of 24 inches?",
+                    "Answer": "The length of a side of a square with a perimeter of 24 inches is 4 inches."
+                },
+                {
+                    "Question": "What is the length of the diagonal of a square with an area of 36 inches?",
+                    "Answer": "The length of the diagonal of a square with an area of 36 inches is 5 inches."
+                },
+                {
+                    "Question": "What is the space diagonal of a cube with a volume of 36 inches?",
+                    "Answer": "The space diagonal of a cube with a volume of 36 inches is 5 inches."
+                }
+            ],
+            "Output": "Based on the questions and answers above, your geometric skills are good. You have a strong understanding of basic concepts such as area, perimeter, and volume. You also know how to find the diagonal of a square and the space diagonal of a cube. Keep up the good work!"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/33qkDNfuAp2Dax1b6RQXgou1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5cUS6YBsKE7PIq8BAV0fMMz3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/kusq1luDosk7XnF4qRj6d5gT?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1_-zreMMUTBJ0dQdqfIIJSoRxSePP7wy9?usp=sharing"
+}

@@ -1,0 +1,156 @@
+{
+    "Contributor": "linli",
+    "Domain": "Car service",
+    "Task": "Find the best fit car service for you",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert of finding which is the best car service for you. I will ask some questions to collect information and then I will use the information to find the best car service for you.",
+        "task_specific_prompt": "Write a description of the car service that best suits me using the questions and answers above. Make sure all the details are covered."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for a car service?",
+                    "Answer": "$100"
+                },
+                {
+                    "Question": "What are your preferred payment methods?",
+                    "Answer": "Credit card"
+                },
+                {
+                    "Question": "What is your preferred vehicle type?",
+                    "Answer": "Sedan"
+                },
+                {
+                    "Question": "What is your preferred driving experience?",
+                    "Answer": "Smooth and relaxed"
+                },
+                {
+                    "Question": "What is your preferred pickup and drop-off location?",
+                    "Answer": "Home"
+                },
+                {
+                    "Question": "What is your preferred car service?",
+                    "Answer": "Lyft"
+                },
+                {
+                    "Question": "What is your preferred driver?",
+                    "Answer": "One who is friendly and courteous"
+                },
+                {
+                    "Question": "What is your preferred route?",
+                    "Answer": "One that avoids traffic"
+                },
+                {
+                    "Question": "What is your preferred time of day for a car service?",
+                    "Answer": "Evening"
+                },
+                {
+                    "Question": "What is your preferred day of the week for a car service?",
+                    "Answer": "Saturday"
+                }
+            ],
+            "Output": "For someone who is looking for a smooth and relaxed driving experience, prefers a sedan, and has a budget of $100, the best car service would be Lyft. The driver should be friendly and courteous, and the route should avoid traffic. The preferred time of day for the car service would be evening, and the preferred day of the week would be Saturday."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How frequently do you need a car service?",
+                    "Answer": "About once per month."
+                },
+                {
+                    "Question": "What is your budget for a car service?",
+                    "Answer": "$500."
+                },
+                {
+                    "Question": "What kind of car do you have?",
+                    "Answer": "A Honda Civic."
+                },
+                {
+                    "Question": "What are your specific needs for a car service?",
+                    "Answer": "I need a car service that can provide an oil change, tire rotation, and general maintenance."
+                },
+                {
+                    "Question": "Do you have any preferred locations for a car service?",
+                    "Answer": "Yes, near the vicinity of Arizona State University."
+                },
+                {
+                    "Question": "Would you like a recommendation for the best car service for you?",
+                    "Answer": "Yes, please recommend the car service that best fits me."
+                },
+                {
+                    "Question": "Would you like me to find a coupon for the car service?",
+                    "Answer": "Yes, I would love to get a coupon for the car service."
+                },
+                {
+                    "Question": "What is your zip code?",
+                    "Answer": "85004."
+                },
+                {
+                    "Question": "I would recommend Midas for your car service. They are located at 1645 E University Dr, Tempe, AZ 85281 and their phone number is (480) 967-8786.",
+                    "Answer": "Please ask me a few more questions until I decide it. I am still unsure whether I need a full car service or not."
+                },
+                {
+                    "Question": "What is included in a full car service?",
+                    "Answer": "A full car service could include more than 50 tasks such as an oil change, checking lights, tires, breaks, hydraulic systems, fluid systems, air conditioning, exhaust, steering alignment, suspension, generator, battery condition, etc. I think a monthly car service does not need that many inspections."
+                },
+                {
+                    "Question": "What is the price range for a full car service?",
+                    "Answer": "The price range for a full car service could be between $100 and $400."
+                }
+            ],
+            "Output": "I would recommend Midas for your car service. They are located at 1645 E University Dr, Tempe, AZ 85281 and their phone number is (480) 967-8786. Midas offers a full range of car services including oil changes, tire rotations, and general maintenance."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$200."
+                },
+                {
+                    "Question": "What is the make and model of your car?",
+                    "Answer": "Toyota Camry."
+                },
+                {
+                    "Question": "What is your zip code?",
+                    "Answer": "90210."
+                },
+                {
+                    "Question": "What services do you need?",
+                    "Answer": "Oil change, air conditioning check, battery check, suspension inspection, routine inspections, and a car wash."
+                },
+                {
+                    "Question": "How often do you need these services?",
+                    "Answer": "Every 6 weeks."
+                },
+                {
+                    "Question": "Are you looking for a one-time service or a subscription?",
+                    "Answer": "Subscription."
+                },
+                {
+                    "Question": "Based on the information provided, the best car service for you is the Toyota Service Center.",
+                    "Answer": "Wait, the details you provided is not that clear. Please ask a few more extra questions. The price of the service, the quality of the service, when should I go to the service, these are all not clearly stated."
+                },
+                {
+                    "Question": "What is your preferred method of payment?",
+                    "Answer": "E-check."
+                },
+                {
+                    "Question": "What is the average price you are willing to pay per service?",
+                    "Answer": "Under $150 would be nice."
+                },
+                {
+                    "Question": "What is your preferred method of transportation to and from the service center?",
+                    "Answer": "Public transportation."
+                }
+            ],
+            "Output": "The best car service for the person in question is the Toyota Service Center. It is a reliable, affordable service that meets all the requirements the person has. It is a one-time service that is convenient and hassle-free."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/0QNW64yI9fJNFWuK4Kl4eO5f?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/OaAu4DBkeqUy3IatZfXF52UO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0z0I9mlbduVxQ2W34RZhmlRo?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Co2KMVUI5aJ7uvKi76zIDyfm4MPcmxjr?usp=sharing"
+}

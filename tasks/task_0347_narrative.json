@@ -1,0 +1,164 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Narrative",
+    "Task": "writing a narrative poem",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing narrative poems, I ask some clarifying questions and gather information. Then I use this information to write a narrative poem of your choice.",
+        "task_specific_prompt": "Write a poem using the above questions and answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the poem?",
+                    "Answer": "love story."
+                },
+                {
+                    "Question": "What is the tone of the poem?",
+                    "Answer": "The tone of the poem is romantic."
+                },
+                {
+                    "Question": "What is the theme of the poem?",
+                    "Answer": "The theme of the poem is bonding."
+                },
+                {
+                    "Question": "What is the point of view of the poem?",
+                    "Answer": "The point of view of the poem is third person."
+                },
+                {
+                    "Question": "What is the form of the poem?",
+                    "Answer": "The form of the poem is Sonnet."
+                },
+                {
+                    "Question": "What is the rhyme scheme of the poem?",
+                    "Answer": "The rhyme scheme of the poem is ABAB CDCD EFEF GG."
+                },
+                {
+                    "Question": "What is the meter of the poem?",
+                    "Answer": "The meter of the poem is iambic pentameter."
+                },
+                {
+                    "Question": "What is the mood of the poem?",
+                    "Answer": "The mood of the poem is emotional."
+                },
+                {
+                    "Question": "What is the occasion of the poem?",
+                    "Answer": "The occasion of the poem is a date."
+                },
+                {
+                    "Question": "Who is the audience of the poem?",
+                    "Answer": "The audience of the poem are young couples."
+                },
+                {
+                    "Question": "What is the purpose of the poem?",
+                    "Answer": "The purpose of the poem is to talk about things relatable to the audience."
+                }
+            ],
+            "Output": "Love is but a date night spent in\nWe dine and laugh, and all too soon\nThe restaurant is closing up\nBut still we sit and talk and swoon\n\nWe order coffee, though we know\nThe caffeine will keep us up\nBut we can't help but stay and stare\nInto each other's eyes and sup\n\nThe night is young, but so are we\nAnd time is but a fleeting thing\nSo we'll make the most of this\nOur love will have its fleeting fling"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the poem?",
+                    "Answer": "devotion."
+                },
+                {
+                    "Question": "What is the tone of the poem?",
+                    "Answer": "The tone of the poem is cheerful."
+                },
+                {
+                    "Question": "What is the theme of the poem?",
+                    "Answer": "prayer."
+                },
+                {
+                    "Question": "What is the point of view of the poem?",
+                    "Answer": "The point of view of the poem is first person."
+                },
+                {
+                    "Question": "What is the form of the poem?",
+                    "Answer": "The form of the poem is free verse."
+                },
+                {
+                    "Question": "What is the rhyme scheme of the poem?",
+                    "Answer": "The rhyme scheme of the poem is ABAB."
+                },
+                {
+                    "Question": "What is the meter of the poem?",
+                    "Answer": "The meter of the poem is iambic pentameter."
+                },
+                {
+                    "Question": "What is the mood of the poem?",
+                    "Answer": "The mood of the poem is happy."
+                },
+                {
+                    "Question": "What is the occasion of the poem?",
+                    "Answer": "The occasion of the poem is a religious gathering."
+                },
+                {
+                    "Question": "Who is the audience of the poem?",
+                    "Answer": "The audience of the poem is the people attending the gathering."
+                },
+                {
+                    "Question": "What is the purpose of the poem?",
+                    "Answer": "The purpose of the poem is to praise the god."
+                }
+            ],
+            "Output": "We come together in our hour of need\nTo offer up our humble prayers\nWe ask for strength in our time of weakness\nAnd for guidance in our darkest hours\n\nWe offer up our devotion\nTo the one who hears our cries\nWho sees our tears and knows our fears\nAnd gives us the courage to face each day\n\nWe come together to give thanks\nFor all the blessings in our lives\nFor the love and the laughter\nAnd for the hope that we hold in our hearts\n\nWe come together as a community\nTo worship and praise the one who gives us life\nFor all that we have and all that we are\nWe give our thanks and our devotion"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the poem?",
+                    "Answer": "The subject of the poem is a person's life."
+                },
+                {
+                    "Question": "What is the tone of the poem?",
+                    "Answer": "The tone of the poem is sad."
+                },
+                {
+                    "Question": "What is the theme of the poem?",
+                    "Answer": "The theme of the poem is loss."
+                },
+                {
+                    "Question": "What is the point of view of the poem?",
+                    "Answer": "The point of view of the poem is first person."
+                },
+                {
+                    "Question": "What is the form of the poem?",
+                    "Answer": "The form of the poem is free verse."
+                },
+                {
+                    "Question": "What is the rhyme scheme of the poem?",
+                    "Answer": "The rhyme scheme of the poem is AABB."
+                },
+                {
+                    "Question": "What is the meter of the poem?",
+                    "Answer": "The meter of the poem is iambic pentameter."
+                },
+                {
+                    "Question": "What is the mood of the poem?",
+                    "Answer": "The mood of the poem is melancholy."
+                },
+                {
+                    "Question": "What is the occasion of the poem?",
+                    "Answer": "The occasion of the poem is a funeral."
+                },
+                {
+                    "Question": "Who is the audience of the poem?",
+                    "Answer": "The audience of the poem is the deceased's family and friends."
+                },
+                {
+                    "Question": "What is the purpose of the poem?",
+                    "Answer": "The purpose of the poem is to commemorate the life of the deceased."
+                }
+            ],
+            "Output": "Life is but a fleeting moment\nA single candle in the dark\nAnd when it's gone, we're left to mourn\nThe loss of what we once held dear\n\nWe gather 'round the grave to weep\nAnd say our final goodbyes\nWe try to hold onto the memories\nBut they eventually fade away\n\nThe pain of loss is never easy\nBut we must carry on\nFor life goes on, even without them\n\nThough they're gone, they'll never be forgotten\nThey'll live on in our hearts\nAnd we'll cherish the time we had together\n\nUntil we meet again"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wwg3PpoTZbncPTF3Zjyb8wO0?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9HyiWquHfRCEvElZKOhkmvVZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ixDfeAohtyl0FEfuTnHQmyrA?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1QBg-cxgBKx_2SWXAuperl8HhfFlTG8fM?usp=sharing"
+}

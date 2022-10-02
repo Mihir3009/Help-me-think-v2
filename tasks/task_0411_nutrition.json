@@ -1,0 +1,142 @@
+{
+    "Contributor": "lakhanpalsanyam",
+    "Domain": "Nutrition",
+    "Task": "WHO meeting on nutrition and hunger in different countries.",
+    "Prompt": [
+        {
+            "pre_question_prompt": "W.H.O meeting is going on in Geneva. Most renewed Scientists and researchers are discussing the issue of \"Lack of Nutrition value in different countries\". Judge is asking 10 questions and researchers are answering them.",
+            "task_specific_prompt": "Give five creative ways to use artificial intelligence to address the problems in the questions and answers above. Then list 10 countries along with their GDP, where immediate steps need to be taken for the above issues. Finally, use the data of GDP to write code in python using matplotlib to plot country and GDP data."
+        },
+        {
+            "pre_question_prompt": "W.H.O meeting is going on in Geneva. Most renewed Scientists and researchers are discussing the issue of \"Lack of Nutrition value in different countries\". Judge is asking 5 questions and researchers are answering them.",
+            "task_specific_prompt": "Give five creative ways to address the problems in the questions and answers above."
+        },
+        {
+            "pre_question_prompt": "W.H.O meeting is going on in Geneva. Most renewed Scientists and researchers are discussing the issue of malnutrition and hunger, which are widespread in many developing countries, as well as chronic diseases resulting from poor nutrition. Judge is asking 10 questions and researchers are answering them. Finally, this conversation will be utilized to determine how much money should be given to the top 10 nations for malnutrition.",
+            "task_specific_prompt": "Based on the questions and answers above prepare a detailed conclusion and then determine how much money should be given to the top 10 nations for malnutrition with country names and the amount to be given in $."
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main reasons for the lack of nutrition value in different countries?",
+                    "Answer": "There are a number of reasons that can contribute to the lack of nutrition value in different countries. One of the main reasons is the lack of access to nutritious food. This can be due to poverty, food insecurity, or a lack of infrastructure. Another reason is the lack of knowledge or awareness about nutrition and its importance. This can lead to poor dietary choices. Lastly, certain health conditions can prevent the body from absorbing nutrients properly."
+                },
+                {
+                    "Question": "What are the consequences of poor nutrition?",
+                    "Answer": "Poor nutrition can lead to a number of health problems. These include obesity, chronic diseases such as heart disease and diabetes, and malnutrition. Poor nutrition can also lead to developmental problems in children and cognitive decline in adults."
+                },
+                {
+                    "Question": "What can be done to improve the nutrition value in different countries?",
+                    "Answer": "A number of interventions can be implemented to improve the nutrition value in different countries. These include improving access to nutritious food, educating people about nutrition and its importance, and fortifying foods with essential nutrients."
+                },
+                {
+                    "Question": "What are the main obstacles to improving nutrition value in different countries?",
+                    "Answer": "There are a number of obstacles that can prevent the improvement of nutrition value in different countries. These include poverty, food insecurity, lack of infrastructure, and political instability."
+                },
+                {
+                    "Question": "What is the role of the government in improving nutrition value in different countries?",
+                    "Answer": "The government has a vital role to play in improving nutrition value in different countries. The government can provide access to nutritious food, education about nutrition, and fortification of foods with essential nutrients. The government can also create policies and regulations that promote healthy eating habits."
+                },
+                {
+                    "Question": "What is the role of the private sector in improving nutrition value in different countries?",
+                    "Answer": "The private sector has a significant role to play in improving nutrition value in different countries. The private sector can provide access to nutritious food, education about nutrition, and fortification of foods with essential nutrients. The private sector can also create policies and regulations that promote healthy eating habits."
+                },
+                {
+                    "Question": "What is the role of civil society in improving nutrition value in different countries?",
+                    "Answer": "Civil society has a vital role to play in improving nutrition value in different countries. Civil society can provide access to nutritious food, education about nutrition, and fortification of foods with essential nutrients. Civil society can also create policies and regulations that promote healthy eating habits."
+                },
+                {
+                    "Question": "What is the role of the international community in improving nutrition value in different countries?",
+                    "Answer": "The international community has a vital role to play in improving nutrition value in different countries. The international community can provide access to nutritious food, education about nutrition, and fortification of foods with essential nutrients. The international community can also create policies and regulations that promote healthy eating habits."
+                },
+                {
+                    "Question": "What are the challenges to improving nutrition value in different countries?",
+                    "Answer": "There are a number of challenges that can prevent the improvement of nutrition value in different countries. These include poverty, food insecurity, lack of infrastructure, and political instability."
+                }
+            ],
+            "Output": "' \n1. Improve access to nutritious food:\n\nArtificial intelligence can be used to help identify areas where access to nutritious food is limited. This can be done by analyzing satellite data to identify areas where agricultural production is low or where there is a lack of infrastructure.\n\n2. Educate people about nutrition and its importance:\n\nArtificial intelligence can be used to develop educational materials about nutrition and its importance. This can be done by developing chatbots that can engage in conversations with people about nutrition.\n\n3. Fortify foods with essential nutrients:\n\nArtificial intelligence can be used to help identify foods that are lacking in essential nutrients. This can be done by analyzing the nutrient content of foods and developing algorithms that can identify which nutrients are lacking.\n\n4. Create policies and regulations that promote healthy eating habits:\n\nArtificial intelligence can be used to help develop policies and regulations that promote healthy eating habits. This can be done by analyzing data on food consumption and developing models that can identify which policies are most effective at promoting healthy eating.\n\n5. Provide access to nutritious food:\n\nArtificial intelligence can be used to help identify areas where access to nutritious food is limited. This can be done by analyzing satellite data to identify areas where agricultural production is low or where there is a lack of infrastructure.\n\n\n\n1. GDP of United States - $19.39 trillion\n2. GDP of China - $12.24 trillion\n3. GDP of Japan - $4.87 trillion\n4. GDP of Germany - $3.68 trillion\n5. GDP of India - $2.65 trillion\n6. GDP of Russia - $1.63 trillion\n7. GDP of Brazil - $1.59 trillion\n8. GDP of United Kingdom - $2.62 trillion\n9. GDP of Italy - $2.28 trillion\n10. GDP of Canada - $1.68 trillion\n\n\n\nimport matplotlib.pyplot as plt \n  \n# x axis values \nx = [1,2,3,4,5,6,7,8,9,10] \n# corresponding y axis values \ny = [19.39, 12.24, 4.87, 3.68, 2.65, 1.63, 1.59, 2.62, 2.28, 1.68] \n  \n# plotting the points  \nplt.plot(x, y) \n  \n# naming the x axis \nplt.xlabel('Countries') \n# naming the y axis \nplt.ylabel('GDP') \n  \n# giving a title to my graph \nplt.title('Country vs GDP') \n  \n# function to show the plot \nplt.show()\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What are some of the main reasons for the lack of nutrition value in different countries?",
+                    "Answer": "There are a number of reasons for the lack of nutrition value in different countries. One of the main reasons is the lack of access to nutritious food. In many parts of the world, people do not have access to fresh fruits and vegetables or to other nutritious foods. This can be due to a number of factors, including poverty, lack of infrastructure, and lack of knowledge about nutrition."
+                },
+                {
+                    "Question": "2. What are the consequences of poor nutrition?",
+                    "Answer": "Poor nutrition can have a number of consequences. One of the most serious consequences is malnutrition, which is a condition that can occur when the body does not get enough of the nutrients it needs. Malnutrition can cause a number of health problems, including anemia, muscle weakness, and problems with growth and development."
+                },
+                {
+                    "Question": "3. What can be done to improve the nutrition value in different countries?",
+                    "Answer": "There are a number of things that can be done to improve the nutrition value in different countries. One of the most important things is to improve access to nutritious food. This can be done by increasing the availability of fresh fruits and vegetables and by providing education on nutrition."
+                },
+                {
+                    "Question": "4. What are some of the challenges in improving the nutrition value in different countries?",
+                    "Answer": "One of the challenges in improving the nutrition value in different countries is the lack of access to nutritious food. In many parts of the world, people do not have access to fresh fruits and vegetables or to other nutritious foods. This can be due to a number of factors, including poverty, lack of infrastructure, and lack of knowledge about nutrition."
+                },
+                {
+                    "Question": "5. What research is being done to improve the nutrition value in different countries?",
+                    "Answer": "There is a great deal of research being done to improve the nutrition value in different countries. One area of research is focused on improving access to nutritious food. This includes research on how to increase the availability of fresh fruits and vegetables and how to provide education on nutrition."
+                }
+            ],
+            "Output": "' \n\n1. One way to address the lack of nutrition value in different countries is to improve access to nutritious food. This can be done by increasing the availability of fresh fruits and vegetables and by providing education on nutrition.\n\n2. Another way to improve the nutrition value in different countries is to promote healthy eating habits. This can be done by teaching people about the importance of eating a balanced diet and by providing information on how to do so.\n\n3. It is also important to provide treatment for chronic diseases. This can help to improve the nutrition value in different countries by reducing the number of people who are at risk for nutritional deficiencies.\n\n4. Another way to improve the nutrition value in different countries is to improve the quality of food available. This can be done by ensuring that all food is free of toxins and by providing education on nutrition.\n\n5. Finally, it is also important to conduct research on the best ways to improve the nutrition value in different countries. This research can help to identify new and innovative ways to improve access to nutritious food and promote healthy eating habits.\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main causes of malnutrition and hunger in developing countries?",
+                    "Answer": "There are many causes of malnutrition and hunger in developing countries. Poverty is one of the main causes, as poor households may not have enough money to purchase food or may not have access to land for farming. In addition, poor nutrition and sanitation can lead to malnutrition, as can diseases such as HIV/AIDS and malaria."
+                },
+                {
+                    "Question": "How does malnutrition contribute to chronic diseases such as obesity, heart disease, and diabetes?",
+                    "Answer": "Malnutrition can contribute to chronic diseases such as obesity, heart disease, and diabetes in several ways. First, malnutrition can lead to obesity by causing people to overeat in an attempt to get enough calories. Second, malnutrition can cause heart disease by increasing inflammation in the body and damaging the heart muscle. Finally, malnutrition can cause diabetes by damaging the pancreas and causing the body to become resistant to insulin."
+                },
+                {
+                    "Question": "What are the most effective interventions for preventing and treating malnutrition?",
+                    "Answer": "The most effective interventions for preventing and treating malnutrition vary depending on the cause of the malnutrition. For example, interventions to improve nutrition and sanitation can prevent malnutrition caused by poor diets or unclean water. Similarly, interventions to treat diseases such as HIV/AIDS and malaria can prevent and treat malnutrition caused by these diseases."
+                },
+                {
+                    "Question": "How much money is needed to effectively address the problem of malnutrition?",
+                    "Answer": "The amount of money needed to effectively address the problem of malnutrition varies depending on the intervention. For example, interventions to improve nutrition and sanitation may require less money than interventions to treat diseases such as HIV/AIDS and malaria. In addition, the amount of money needed also varies depending on the country in which the intervention is taking place, as some countries may have more resources than others."
+                },
+                {
+                    "Question": "What are the most important factors to consider when determining how much money to allocate to each country for malnutrition?",
+                    "Answer": "There are many factors to consider when determining how much money to allocate to each country for malnutrition. Some of the most important factors include the prevalence of malnutrition in the country, the number of people affected by malnutrition, and the resources available to address the problem."
+                },
+                {
+                    "Question": "How can donor countries best ensure that the money they provide is used effectively to address the problem of malnutrition?",
+                    "Answer": "Donor countries can best ensure that the money they provide is used effectively to address the problem of malnutrition by working with recipient countries to develop and implement effective interventions. In addition, donor countries can provide financial and technical assistance to help countries implement effective interventions."
+                },
+                {
+                    "Question": "What are the most important challenges to effectively addressing the problem of malnutrition?",
+                    "Answer": "The most important challenges to effectively addressing the problem of malnutrition include lack of resources, political instability, and conflict. Lack of resources can prevent countries from implementing effective interventions, while political instability and conflict can make it difficult to reach people who are affected by malnutrition."
+                },
+                {
+                    "Question": "What role can the World Health Organization play in effectively addressing the problem of malnutrition?",
+                    "Answer": "The World Health Organization can play a role in effectively addressing the problem of malnutrition by providing technical and financial assistance to countries to help them implement effective interventions. In addition, the World Health Organization can advocate for political and economic policies that will help to reduce the prevalence of malnutrition."
+                },
+                {
+                    "Question": "What are the most important things that the World Health Organization can do to help countries effectively address the problem of malnutrition?",
+                    "Answer": "The most important things that the World Health Organization can do to help countries effectively address the problem of malnutrition include providing technical and financial assistance to countries to help them implement effective interventions and advocating for political and economic policies that will help to reduce the prevalence of malnutrition."
+                },
+                {
+                    "Question": "What are the most important things that countries can do to effectively address the problem of malnutrition?",
+                    "Answer": "The most important things that countries can do to effectively address the problem of malnutrition include developing and implementing effective interventions, providing financial and technical assistance to help countries implement effective interventions, and advocating for political and economic policies that will help to reduce the prevalence of malnutrition."
+                }
+            ],
+            "Output": "' \n\nThe main causes of malnutrition and hunger in developing countries are poverty, poor nutrition and sanitation, and diseases such as HIV/AIDS and malaria. Malnutrition can contribute to chronic diseases such as obesity, heart disease, and diabetes by causing people to overeat, increasing inflammation, and damaging organs. The most effective interventions for preventing and treating malnutrition vary depending on the cause of the malnutrition. The amount of money needed to effectively address the problem of malnutrition also varies depending on the intervention and the country in which the intervention is taking place. The most important factors to consider when determining how much money to allocate to each country for malnutrition include the prevalence of malnutrition, the number of people affected by malnutrition, and the resources available to address the problem. Donor countries can best ensure that the money they provide is used effectively to address the problem of malnutrition by working with recipient countries to develop and implement effective interventions. The most important challenges to effectively addressing the problem of malnutrition include lack of resources, political instability, and conflict. The World Health Organization can play a role in effectively addressing the problem of malnutrition by providing technical and financial assistance to countries and advocating for policies that will help to reduce the prevalence of malnutrition. The most important things that countries can do to effectively address the problem of malnutrition include developing and implementing effective interventions, providing financial and technical assistance, and advocating for political and economic policies that will help to reduce the prevalence of malnutrition.\n\nBased on the information above, it is recommended that the top 10 nations for malnutrition be given the following amounts of money in US dollars:\n\n1. India: $1 billion\n2. Pakistan: $500 million\n3. Bangladesh: $250 million\n4. Nigeria: $200 million\n5. Ethiopia: $150 million\n6. Indonesia: $100 million\n7. Kenya: $75 million\n8. Mozambique: $50 million\n9. Tanzania: $25 million\n10. Uganda: $10 million\n'"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/B5qdNm02xt1ha0wf3TEEAdlN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BKFs464uBuGYU49JgMAJ9vV8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2dTieb0iHA4XbRu9OLhAdBKx?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/drive/folders/1Wg5jHeMX2dMkSuD4lmSbeDMjN4vUKl8M?usp=sharing",
+        "https://drive.google.com/drive/folders/1XGA1U68L6fi-J--5mhPxmaDv8K4yZr3M?usp=sharing",
+        "https://drive.google.com/drive/folders/1fMr8AYY3d5YgWr4HLLudwOA5OLH3qsUT?usp=sharing"
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "Contributor": "kaushaleshan",
+    "Domain": "Basketball team cheerleading song generation",
+    "Task": "Cheerleading song generation for basketball team for a school",
+    "Prompt": {
+        "pre_question_prompt": "I am a great songwriter. I am going to ask some questions to gather some information about your team and then I will use that information to come up with the best cheerleading song suited to your basketball team.\nQuestion:",
+        "task_specific_prompt": "Using the information in answers to the questions above, come up with the best cheerleading song for this team."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is the name of your team?": "Our team is called the Blue Angels."
+                },
+                {
+                    "What are the colors of your team?": "Colors of our team are blue and white."
+                },
+                {
+                    "What is the mascot of your team?": "The team mascot is an Angel."
+                },
+                {
+                    "What is the goal of your team?": "Our main goal is to win the National Championship."
+                },
+                {
+                    "What are some of the key values of your team?": "The team values include dedication, discipline, and determination."
+                },
+                {
+                    "What is the name of your team's home stadium?": "Our home stadium is Angel Stadium."
+                },
+                {
+                    "Who is your team's biggest rival?": "The team's biggest rival is the Los Angeles Rams."
+                },
+                {
+                    "What is the team's fight song?": "Our team's fight song is \"We Will Win.\""
+                },
+                {
+                    "Please describe your team in one sentence.": "Our team, The Blue Angels, are a dedicated and a hard working team that is determined to win the National Championship."
+                },
+                {
+                    "Please describe your team's fans in one sentence.": "The team's fans are some of the most dedicated and passionate fans in the NFL. They are always cheering us on to victory."
+                },
+                {
+                    "Please describe your team's history in one sentence": "Our team has a long history of success, winning the National Championship multiple times."
+                },
+                {
+                    "What are some of your team's most popular chants or cheers?": "Our team's most popular chants are \"Go Blue!\" and \"Blue Angels!\""
+                },
+                {
+                    "What is your team's motto?": "The team's motto is \"Dedication, Discipline, Determination.\""
+                },
+                {
+                    "Is there anything else you would like to tell me about your team?": "The team is one of the most respected and successful teams in the NFL. We have a rich history and tradition of winning."
+                }
+            ],
+            "Output": "Our team is the best,\nThere is no doubt,\nWe'll win the game,\nJust like we always do,\n\nWe are the Blue Angels,\nAnd we fight to win,\nOur colors are blue and white,\nAnd we're proud of our team,\n\nWe have the dedication,\nDiscipline, and determination,\nTo be the best in everything we do,\n\nWe are the Blue Angels,\nAnd we're here to stay,\nWe'll always be the team to beat,\nNo matter who comes our way!\n\nGo Blue!\nBlue Angels!\nWe Will Win!",
+            "screenshot_link": "https://drive.google.com/drive/folders/1po7A2yyrwCnbp-DbdezfTYDmVpAQZK9l?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the name of your team?": "Flaming Eagles"
+                },
+                {
+                    "What are the colors of your team's uniforms?": "Colors of our team's uniforms are red and gold."
+                },
+                {
+                    "What is your team's mascot?": "The team's mascot is a  golden eagle aka a Royal Eagle."
+                },
+                {
+                    "What are some of the things your team is known for?": "The team is known for being really spirited and having a lot of school pride. We are also known for being a very talented and competitive team."
+                },
+                {
+                    "What is your team's goal this year?": "The team's goal is to make it to the state championships and win!"
+                },
+                {
+                    "What is the name of your school?": "The name of our school is Thunderbird Adventist Academy."
+                },
+                {
+                    "What is the school's mascot?": "Our school's mascot is an eagle with thunderbolts on it."
+                },
+                {
+                    "What are the school colors?": "Our school colors are red and gold."
+                },
+                {
+                    "Is there anything else you would like me to know about your team or school?": "Our team is really close and we are all like family. We have a lot of school spirit and are always cheering each other on."
+                },
+                {
+                    "Do you have a team slogan?": "Yes. Our team slogan is \"One team, one goal!\""
+                },
+                {
+                    "Who is your biggest rival?": "One of our biggest rivals is the East Valley High School."
+                },
+                {
+                    "What is the name of your coach?": "The name of our is Brandy Sullivan."
+                },
+                {
+                    "Do you have any other special requirements or requests?": "I don't think so, we just want a song that will get us pumped up and ready to win and would also cheer up and hype up fans and followers!"
+                }
+            ],
+            "Output": "We are the Flaming Eagles,\n\nThe mighty, the proud.\n\nWe have spirit, we have power,\n\nWe'll never back down.\n\nWe're always striving,\n\nTo be the best.\n\nWe'll never falter,\n\nWe'll never rest.\n\nOur colors are red and gold,\n\nOur mascot is a golden eagle.\n\nWe're known for our school pride,\n\nAnd being a competitive team.\n\nThis year our goal is to make it to the state championships and win!\n\nThunderbird Adventist Academy is our school,\n\nAnd we'll always represent it well.\n\nOur school colors are red and gold,\n\nAnd our mascot is an eagle with thunderbolts.\n\nWe're a close team, like family,\n\nAnd we have a lot of school spirit.\n\nOur team slogan is \"One team, one goal!\"\n\nOur biggest rival is East Valley High School,\n\nBut we'll never back down.\n\nOur coach is Brandy Sullivan,\n\nAnd she's always leading us to victory.",
+            "screenshot_link": "https://drive.google.com/drive/folders/1HbjQFC2nCQCnMaI8wWBIiVWVL-NTnJnz?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the name of your team?": "the name of our team is the Black Wolves."
+                },
+                {
+                    "What are the team colors?": "The colors of our team are black and silver."
+                },
+                {
+                    "What is the team mascot?": "Our team mascot is a black wolf."
+                },
+                {
+                    "What are the team's biggest rivals?": "The team's biggest rivals are the Arizona Coyotes"
+                },
+                {
+                    "What is the team's biggest accomplishment?": "Our team's biggest accomplishment is winning the Stanley Cup."
+                },
+                {
+                    "What is the team's goal for this season?": "The team's main goal for this season is to make it to the playoffs and hopefully win too."
+                },
+                {
+                    "Is there anything else you would like me to know about the team?": "Our team is like a wolf-pack. We are a very close-knit group and we always have each other's backs, no matter what."
+                },
+                {
+                    "What is the name of your team's home arena?": "The team's home arena is the Gila River Arena."
+                },
+                {
+                    "What is the team's fight song?": "Our team's fight song is \"Howl\" by the Black Keys."
+                },
+                {
+                    "Do you have any other suggestions for a team cheer?": "The team's cheer is \"We Are the Black Wolves, the Mighty, Mighty Black Wolves! We hold our ground, come whatever!\""
+                },
+                {
+                    "Who is the team captain?": "Our team's captain is Eshan Kaushal."
+                },
+                {
+                    "Who are the team's assistant captains?": "Our team's assistant captains are Elias Pettersson and Quinn Hughes."
+                },
+                {
+                    "Who are the team's top goalies?": "Our team's top goalies are Thatcher Demko and Braden Holtby."
+                },
+                {
+                    "Do you have any other suggestions for a team cheer?": "No, that will be all. Thanks for the questions."
+                }
+            ],
+            "Output": "Howl, howl, howl for the Black Wolves\nWe'll howl all night, we'll howl all day\nWe are the mighty, mighty Black Wolves\nAnd we'll never back down from a fight\n\nSo stand up and howl, let's hear it roar\nFor the Black Wolves, we'll always be there\nWe are the Pack, we are strong and proud\nAnd we'll never give up, never give in\n\nWe are the Black Wolves, the mighty, mighty Black Wolves\nAnd we'll always stick together, no matter what comes our way\n\nSo howl, howl, howl for the Black Wolves\nAnd we'll never back down!",
+            "screenshot_link": "https://drive.google.com/drive/folders/1z08eEpFqu8LW-LEmfnwkj89rNiT-Azp0?usp=sharing"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/mZmQWF2luVTm16wtUMsVvoPb?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1liUtQpwPzy7QN2IX5cq3jnU4XU-M0n-k?usp=sharing"
+}

@@ -1,0 +1,168 @@
+{
+    "Contributor": "kotreshhiremathswathi",
+    "Domain": "Manufacturing",
+    "Task": "Strategies to beat competition ",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert marketing analyst. I will ask questions about your product and suggest ways to stay ahead and beat your competitors",
+        "task_specific_prompt": "Based on the above information please suggest ways to beat our competitors"
+    },
+    "Instances": [
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your product?",
+                        "Answer": "Energy drink that is designed to give people a boost of energy without the crashes that come with other energy drinks."
+                    },
+                    {
+                        "Question": "Who are your main competitors?",
+                        "Answer": "Red Bull, Monster, and Rockstar"
+                    },
+                    {
+                        "Question": "What do you feel makes your product better than your competitors?",
+                        "Answer": "Designed to give people a more sustained energy boost without the side effects"
+                    },
+                    {
+                        "Question": "What is your target market?",
+                        "Answer": "People who need an energy boost but do not want the crash that comes with other energy drinks"
+                    },
+                    {
+                        "Question": "What are your marketing goals?",
+                        "Answer": "To reach our target market and convince them that our product is the best option for them."
+                    },
+                    {
+                        "Question": "What are your thoughts on your current marketing strategy?",
+                        "Answer": "Can be improved"
+                    },
+                    {
+                        "Question": "What are some ideas you have for improving your marketing strategy?",
+                        "Answer": "Please help with the same"
+                    },
+                    {
+                        "Question": "Do you have a budget for marketing?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "What are your thoughts on social media marketing?",
+                        "Answer": "Good way to reach our target market, but we need to be careful not to come across as too sales-y."
+                    },
+                    {
+                        "Question": "What are your thoughts on paid advertising?",
+                        "Answer": "Effective"
+                    },
+                    {
+                        "Question": "What are your thoughts on influencer marketing?",
+                        "Answer": "Can be effective"
+                    }
+                ]
+            },
+            {
+                "Output": "1. Improve your marketing strategy 2. Reach your target market through social media marketing 3. Use paid advertising to reach a wider audience 4. Use influencer marketing to reach your target market"
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your product?",
+                        "Answer": "An app to solve math equations from handwritten pictures"
+                    },
+                    {
+                        "Question": "How does your product work?",
+                        "Answer": "The app uses an advanced algorithm to recognize handwriting and then solves the equation."
+                    },
+                    {
+                        "Question": "What are your main competitors?",
+                        "Answer": "There are a few other math apps on the market, but our main competitor is the built-in calculator on most phones."
+                    },
+                    {
+                        "Question": "What are your marketing goals?",
+                        "Answer": "Our goal is to get our app downloaded and used by as many people as possible. We want to be the go-to app for solving math equations."
+                    },
+                    {
+                        "Question": "What are some ideas you have for marketing your product?",
+                        "Answer": "Targeted marketing to students "
+                    },
+                    {
+                        "Question": "How does your product compare to your competitors?",
+                        "Answer": "Our app is more accurate and faster than the built-in calculator on most phones."
+                    },
+                    {
+                        "Question": "What are some ideas you have for staying ahead of your competitors?",
+                        "Answer": "Offer free trials"
+                    },
+                    {
+                        "Question": "What are some ideas you have for beating your competitors?",
+                        "Answer": "Advertise features that are unique to our app, like the speed and accuracy of our algorithm."
+                    },
+                    {
+                        "Question": "What else can you tell me about your product?",
+                        "Answer": "Our app is available for both iPhone and Android devices."
+                    }
+                ]
+            },
+            {
+                "Output": "-Develop a strong social media presence -Engage in targeted online advertising  -Develop partnerships with complementary businesses --Generate user reviews and testimonials  -Offer incentives to customers for referrals"
+            }
+        ],
+        [
+            {
+                "QAPair": [
+                    {
+                        "Question": "What is your product?",
+                        "Answer": "Our product is a software that helps businesses manage their finances."
+                    },
+                    {
+                        "Question": "What are your competitors offering?",
+                        "Answer": "Similar software, but ours is the most user-friendly and comprehensive."
+                    },
+                    {
+                        "Question": "What are your marketing goals?",
+                        "Answer": "Reach as many potential customers as possible and increase brand awareness."
+                    },
+                    {
+                        "Question": "Who is your target audience?",
+                        "Answer": "Businesses of all sizes who need assistance with financial management."
+                    },
+                    {
+                        "Question": "What platforms will you be using to reach your target audience?",
+                        "Answer": "Internet, television, client referals"
+                    },
+                    {
+                        "Question": "What type of content will you be using to reach your target audience?",
+                        "Answer": "Informative articles, infographics, case studies, blog posts"
+                    },
+                    {
+                        "Question": "What are your budget and timeline for this marketing campaign?",
+                        "Answer": "$10,000 for 6 months."
+                    },
+                    {
+                        "Question": "What metric will you use to measure the success of this marketing campaign?",
+                        "Answer": "The number of new customers acquired, the number of website visitors, and the number of leads generated."
+                    },
+                    {
+                        "Question": "What challenges do you anticipate with this marketing campaign?",
+                        "Answer": "Stand out from the competition and convince potential customers that our software is the best solution for them."
+                    },
+                    {
+                        "Question": "What are your thoughts on using marketing analytics to track the success of your campaign?",
+                        "Answer": "It is an essential in order to track the success of any marketing campaign. It allows you to see what is working and what is not, so that you can adjust your strategy accordingly."
+                    },
+                    {
+                        "Question": "What are some ways that you can stay ahead of your competitors?",
+                        "Answer": "Please suggest the same"
+                    }
+                ]
+            },
+            {
+                "Output": "-Develop a strong brand identity  -focus on customer satisfaction  -provide a free trial  -create informative and persuasive content  -focus on SEO  - utilize social media platforms"
+            }
+        ]
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/vJwBQbNgTweUNPz88qoRXumo?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/KGJaQFlOMtPSpkFDirQnpBrC?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/e2NrEiCUcO00u3411a9jBRLD?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1XY4GSWdG2wC_N_2kB-23gixXV5yChc_f?usp=sharing"
+}

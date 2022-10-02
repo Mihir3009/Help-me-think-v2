@@ -1,0 +1,148 @@
+{
+    "Contributor": "lakshmisettiabhishekkumar",
+    "Domain": "Photography",
+    "Task": "Appropriate Camera Settings for a desired photo",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert photographer. I will ask some questions to collect information and then I will use the information to give you the appropriate settings to click a photograph",
+        "task_specific_prompt": "Write appropriate settings to click a photograph using the questions and answers above. Try to be more elaborate."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of camera do you use?",
+                    "Answer": "I have a Canon EOS 5D Mark IV camera."
+                },
+                {
+                    "Question": "What is the subject of the photograph?",
+                    "Answer": "I am taking a picture for my LinkedIn profile."
+                },
+                {
+                    "Question": "What is the lighting like?",
+                    "Answer": "The lighting is fairly good.I'm using studio strobe lights along with the reflectors."
+                },
+                {
+                    "Question": "What is your background?",
+                    "Answer": "I have a light grey background."
+                },
+                {
+                    "Question": "What is the aperture setting?",
+                    "Answer": "I have the aperture set to f/2.8."
+                },
+                {
+                    "Question": "What is the shutter speed?",
+                    "Answer": "My shutter speed is set to 1/800th of a second."
+                },
+                {
+                    "Question": "What is the ISO setting?",
+                    "Answer": "My ISO is set to 100."
+                },
+                {
+                    "Question": "What is the white balance setting?",
+                    "Answer": "My white balance is set to 'portrait.'"
+                },
+                {
+                    "Question": "What is the focal length?",
+                    "Answer": "I am using a 50mm lens."
+                },
+                {
+                    "Question": "What is the metering mode?",
+                    "Answer": "I am using center-weighted average metering."
+                }
+            ],
+            "Output": "The appropriate settings to click a photograph would be to use a Canon EOS 5D Mark IV camera with a 50mm lens, set the aperture to f/2.8, the shutter speed to 1/800th of a second, the ISO to 100, and the white balance to \"portrait.\" For the metering mode, center-weighted average metering should be used."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the photograph?",
+                    "Answer": "The subject of the photograph is an ant."
+                },
+                {
+                    "Question": "What is the lighting like?",
+                    "Answer": "The lighting is bright."
+                },
+                {
+                    "Question": "What is the background like?",
+                    "Answer": "The background contains a rocky surface with moss."
+                },
+                {
+                    "Question": "What is the distance from the subject?",
+                    "Answer": "The distance from the subject is about six inches."
+                },
+                {
+                    "Question": "What is the aperture setting?",
+                    "Answer": "The aperture setting should be at f/11."
+                },
+                {
+                    "Question": "What is the shutter speed?",
+                    "Answer": "The shutter speed should be at 1/250th of a second."
+                },
+                {
+                    "Question": "What is the ISO setting?",
+                    "Answer": "The ISO setting should be at 100."
+                },
+                {
+                    "Question": "What is the white balance setting?",
+                    "Answer": "The white balance setting should be at daylight."
+                },
+                {
+                    "Question": "What is the focus setting?",
+                    "Answer": "The focus setting should be at manual and the focus point should be on the ant."
+                }
+            ],
+            "Output": "The appropriate settings to click a photograph of an ant in bright lighting with a rocky background containing moss would be an aperture of f/11, a shutter speed of 1/250th of a second, an ISO of 100, and a white balance of daylight. The focus should be set to manual and the focus point should be on the ant."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the photograph?",
+                    "Answer": "The subject of the photograph is the sunset."
+                },
+                {
+                    "Question": "What is the desired result?",
+                    "Answer": "The desired result is a beautiful photograph of the sunset."
+                },
+                {
+                    "Question": "What is the camera setting?",
+                    "Answer": "The camera setting should be on \"Aperture Priority\" mode and the aperture should be set to a low number such as f/16. This will ensure that the entire sunset is in focus. The shutter speed should be set according to the light conditions. If it is a bright day, a slower shutter speed can be used such as 1/60th of a second. If it is a dim day, a faster shutter speed should be used such as 1/250th of a second."
+                },
+                {
+                    "Question": "What is the composition of the photograph?",
+                    "Answer": "The composition of the photograph should be such that the sunset is the main focus of the image. This can be achieved by including the horizon in the frame and ensuring that the sunset is not cut off by the edges of the frame."
+                },
+                {
+                    "Question": "What is the lighting condition?",
+                    "Answer": "The lighting condition is the sunset."
+                },
+                {
+                    "Question": "What is the background of the photograph?",
+                    "Answer": "The background of the photograph should be the horizon."
+                },
+                {
+                    "Question": "What is the angle of the photograph?",
+                    "Answer": "The angle of the photograph should be such that the sunset is the main focus of the image. This can be achieved by including the horizon in the frame and ensuring that the sunset is not cut off by the edges of the frame."
+                },
+                {
+                    "Question": "What is the time of day?",
+                    "Answer": "The time of day is evening."
+                },
+                {
+                    "Question": "What is the location?",
+                    "Answer": "The location is along side the beach."
+                },
+                {
+                    "Question": "What is the weather condition?",
+                    "Answer": "The weather condition is clear and breezy."
+                }
+            ],
+            "Output": "The settings to click a photograph of the sunset would be to set the camera to 'Aperture Priority' mode and the aperture to a low number such as f/16. This will ensure that the entire sunset is in focus. The shutter speed should be set according to the light conditions. If it is a bright day, a slower shutter speed can be used such as 1/60th of a second. If it is a dim day, a faster shutter speed should be used such as 1/250th of a second. The composition of the photograph should be such that the sunset is the main focus of the image. This can be achieved by including the horizon in the frame and ensuring that the sunset is not cut off by the edges of the frame. The angle of the photograph should be such that the sunset is the main focus of the image. This can be achieved by including the horizon in the frame and ensuring that the sunset is not cut off by the edges of the frame."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/pXGGyDJ6ppmcUbT0fbQybyu5?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3Q0WoVZldzsITlmB001JClBh?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5O502wVfXooBfxeqLjkKmV1h?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1k_koZOc8AfKx_NiYuvIHfFgMXzrxPcRo?usp=sharing"
+}

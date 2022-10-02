@@ -1,0 +1,166 @@
+{
+    "Contributor": "lakhanpalsanyam",
+    "Domain": "Mechanical Engineering",
+    "Task": "Build a Quadcopter",
+    "Prompt": [
+        {
+            "pre_question_prompt": "I am an expert in making quadcopters. Ask me 10 questions related to its design and I will answer them. At last, we will make an innovative quadcopter.",
+            "task_specific_prompt": "Based on the questions and answers above write step by step, on how to make a quadcopter."
+        },
+        {
+            "pre_question_prompt": "I am an expert in making quadcopters. Ask me 10 questions related to its design and I will answer them. At last, we will make an innovative quadcopter.",
+            "task_specific_prompt": "Based on the questions and answers above write step by step, on how to make a quadcopter."
+        },
+        {
+            "pre_question_prompt": "I am an expert in making quadcopters. Ask me 10 questions related to its design and I will answer them. At last, we will make an innovative Pentacopter.",
+            "task_specific_prompt": "Based on the above question and answers tell me in 10 steps how will you make a similar Pentacopter and how much would it cost to build from scratch."
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you determine the size and shape of a quadcopter's frame?",
+                    "Answer": "The size and shape of a quadcopter's frame is primarily determined by the size and shape of its propellers. The frame must be large enough to accommodate the propellers and have enough space between them to avoid interference. It should also be strong enough to support the weight of the quadcopter and its components."
+                },
+                {
+                    "Question": "How do you determine the number and size of the motors and propellers?",
+                    "Answer": "The number and size of the motors and propellers is determined by the desired thrust and power output. A quadcopter needs at least 4 motors and propellers to fly, and each must be powerful enough to generate the necessary thrust."
+                },
+                {
+                    "Question": "What factors must be considered when choosing the right motors and propellers?",
+                    "Answer": "When choosing the right motors and propellers, you must consider the desired thrust, power output, and efficiency. You also need to make sure that the motors and propellers are compatible with the quadcopter's frame and other components."
+                },
+                {
+                    "Question": "How do you determine the correct propeller pitch and blade size?",
+                    "Answer": "The pitch is the distance that the propeller would travel in one revolution if it were not moving through the air. The blade size is determined by the length and width of the propeller blade."
+                },
+                {
+                    "Question": "How do you calculate the thrust produced by the propellers?",
+                    "Answer": "The thrust produced by the propellers can be calculated using the following formula:"
+                },
+                {
+                    "Question": "How do you determine the quadcopter's power requirements?",
+                    "Answer": "The quadcopter's power requirements are determined by the desired thrust, propeller speed, and efficiency. To calculate the power required, use the following formula:"
+                },
+                {
+                    "Question": "How do you choose the right battery for your quadcopter?",
+                    "Answer": "The battery is one of the most important components of a quadcopter. It must be powerful enough to provide the necessary power to the motors and other components, and it must be able to do so for a prolonged period of time. There are many different types of batteries available, so it is important to choose one that is compatible with the quadcopter and its components."
+                },
+                {
+                    "Question": "What are the different types of flight controllers available?",
+                    "Answer": "There are many different types of flight controllers available, each with its own set of features and capabilities. The most important factor to consider when choosing a flight controller is its compatibility with the quadcopter and its components."
+                },
+                {
+                    "Question": "How do you determine the correct propeller size and blade pitch?",
+                    "Answer": "The correct propeller size and blade pitch can be determined using the following formulas:"
+                },
+                {
+                    "Question": "What are the different types of ESCs available?",
+                    "Answer": "There are many different types of ESCs available, each with its own set of features and capabilities. The most important factor to consider when choosing an ESC is its compatibility with the quadcopter and its components."
+                }
+            ],
+            "Output": "' \n\n1. Choose the desired thrust, power output, and efficiency.\n\n2. Select the frame size and shape that can accommodate the propellers and has enough space between them.\n\n3. Choose the motors and propellers.\n\n4. Determine the correct propeller pitch and blade size.\n\n5. Calculate the thrust produced by the propellers.\n\n6. Determine the quadcopter's power requirements.\n\n7. Select the battery.\n\n8. Choose the flight controller.\n\n9. Determine the correct propeller size and blade pitch.\n\n10. Select the ESC.\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many 4K cameras we can fit on a quadcopter?",
+                    "Answer": "We can fit up to four 4K cameras on a quadcopter, depending on the size and weight of the quadcopter."
+                },
+                {
+                    "Question": "How do you determine the size of a quadcopter?",
+                    "Answer": "The size of a quadcopter is determined by the size of its frame. The frame is the main structure of the quadcopter that supports the motors and other components."
+                },
+                {
+                    "Question": "What is the purpose of a quadcopter frame?",
+                    "Answer": "The frame of a quadcopter serves two main purposes: to support the motors and other components, and to provide a platform for the 4K cameras."
+                },
+                {
+                    "Question": "How do you determine the weight of a quadcopter?",
+                    "Answer": "The weight of a quadcopter is determined by the weight of its frame and the weight of its motors. The weight of the frame is typically around 1 kg, and the weight of the motors is typically around 0.5 kg."
+                },
+                {
+                    "Question": "How many motors does a quadcopter have?",
+                    "Answer": "A quadcopter has four motors, one at each corner of the quadcopter."
+                },
+                {
+                    "Question": "How do you determine the thrust of a quadcopter?",
+                    "Answer": "The thrust of a quadcopter is determined by the power of its motors and the propellers. The power of the motors is typically around 1000 watts, and the propellers typically have a diameter of around 10 inches."
+                },
+                {
+                    "Question": "What is the purpose of a quadcopter propeller?",
+                    "Answer": "The purpose of a quadcopter propeller is to create thrust that lifts the quadcopter into the air."
+                },
+                {
+                    "Question": "How do you control the direction of a quadcopter?",
+                    "Answer": "The direction of a quadcopter is controlled by the pitch and yaw of its motors. The pitch of the motors determines the up and down movement of the quadcopter, and the yaw of the motors determines the left and right movement of the quadcopter."
+                },
+                {
+                    "Question": "What is the purpose of a quadcopter camera?",
+                    "Answer": "The purpose of a quadcopter camera is to capture video and images from a bird's eye view."
+                },
+                {
+                    "Question": "How do you power a quadcopter?",
+                    "Answer": "A quadcopter is powered by a battery. The battery is typically a LiPo (lithium polymer) battery."
+                }
+            ],
+            "Output": "' \n\n1. Choose the desired size and weight of the quadcopter.\n\n2. Select the frame size that will support the quadcopter components.\n\n3. Choose the motors that will power the quadcopter.\n\n4. Select the propellers that will create thrust for the quadcopter.\n\n5. Determine the battery type that will power the quadcopter.\n\n6. Assemble the quadcopter frame, motors, propellers, and battery.\n\n7. Install the quadcopter cameras.\n\n8. Test the quadcopter to ensure proper operation.\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much does it cost to build the quadcopter from scratch?",
+                    "Answer": "It would cost around $200 to build a quadcopter from scratch."
+                },
+                {
+                    "Question": "What are the main parts of a quadcopter?",
+                    "Answer": "The main parts of a quadcopter include the frame, motors, ESCs, propellers, flight controller, and battery."
+                },
+                {
+                    "Question": "How do you choose the right frame for your quadcopter?",
+                    "Answer": "The frame is one of the most important parts of the quadcopter. It needs to be strong enough to support the weight of the quadcopter and the motors. It also needs to be big enough to fit all the parts."
+                },
+                {
+                    "Question": "How do you choose the right motors for your quadcopter?",
+                    "Answer": "The motors are one of the most important parts of the quadcopter. They need to be powerful enough to lift the quadcopter and the battery. They also need to be durable."
+                },
+                {
+                    "Question": "How do you choose the right ESCs for your quadcopter?",
+                    "Answer": "The ESCs are one of the most important parts of the quadcopter. They need to be able to control the motors. They also need to be durable."
+                },
+                {
+                    "Question": "How do you choose the right propellers for your quadcopter?",
+                    "Answer": "The propellers are one of the most important parts of the quadcopter. They need to be the right size and pitch for the motors. They also need to be durable."
+                },
+                {
+                    "Question": "How do you choose the right flight controller for your quadcopter?",
+                    "Answer": "The flight controller is one of the most important parts of the quadcopter. It needs to be able to control the motors and the ESCs. It also needs to be durable."
+                },
+                {
+                    "Question": "How do you choose the right battery for your quadcopter?",
+                    "Answer": "The battery is one of the most important parts of the quadcopter. It needs to be able to power the motors and the flight controller. It also needs to be durable."
+                },
+                {
+                    "Question": "How do you assemble the quadcopter?",
+                    "Answer": "First, you need to assemble the frame. Then, you need to assemble the motors, ESCs, and propellers. After that, you need to assemble the flight controller. Finally, you need to assemble the battery."
+                },
+                {
+                    "Question": "How do you test the quadcopter?",
+                    "Answer": "First, you need to test the frame. Then, you need to test the motors, ESCs, and propellers. After that, you need to test the flight controller. Finally, you need to test the battery."
+                }
+            ],
+            "Output": "' \n1. The first step is to choose the right frame for the pentacopter. The frame needs to be strong enough to support the weight of the pentacopter and the motors. It also needs to be big enough to fit all the parts.\n2. The second step is to choose the right motors for the pentacopter. The motors need to be powerful enough to lift the pentacopter and the battery. They also need to be durable.\n3. The third step is to choose the right ESCs for the pentacopter. The ESCs need to be able to control the motors. They also need to be durable.\n4. The fourth step is to choose the right propellers for the pentacopter. The propellers need to be the right size and pitch for the motors. They also need to be durable.\n5. The fifth step is to choose the right flight controller for the pentacopter. The flight controller needs to be able to control the motors and the ESCs. It also needs to be durable.\n6. The sixth step is to choose the right battery for the pentacopter. The battery needs to be able to power the motors and the flight controller. It also needs to be durable.\n7. The seventh step is to assemble the pentacopter. First, the frame is assembled. Then, the motors, ESCs, and propellers are assembled. After that, the flight controller is assembled. Finally, the battery is assembled.\n8. The eighth step is to test the pentacopter. First, the frame is tested. Then, the motors, ESCs, and propellers are tested. After that, the flight controller is tested. Finally, the battery is tested.\n9. The ninth step is to fly the pentacopter. First, the pentacopter is turned on. Then, the throttle is increased and the pentacopter takes off. After that, the pentacopter is flown around. Finally, the pentacopter is landed.\n10. The tenth step is to troubleshoot the pentacopter. If the pentacopter is not flying correctly, then the problem is diagnosed and fixed.\n\n\nIt would cost around $500 to build a pentacopter from scratch.\n'"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/5GsBmNencse2YUawl2MNwhto?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Qmnz6AM1dabMxXRbNJ4Gqah2?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/wMh2B35fZzzesDolRBP2QHlz?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/drive/folders/1obMSYoV-0S7vw4Z-OGd3q9sVC81SVKxR?usp=sharing",
+        "https://drive.google.com/drive/folders/1gy1v03hQ2IOxrSxmDFTQRTSpXF5K1L7T?usp=sharing",
+        "https://drive.google.com/drive/folders/1TA_B0Kw613KjpAVZWaiWGug_SHLOcPJv?usp=sharing"
+    ]
+}

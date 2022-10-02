@@ -1,0 +1,148 @@
+{
+    "Contributor": "kalvakolanusaikousthubhadas",
+    "Domain": "Event Management",
+    "Task": "Event Music Suggestions",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert event manager. I will ask some questions about preferred music to collect information and then I will use the information to suggest a music to played during the event.",
+        "task_specific_prompt": "Write a list of music that can be played using the questions and answers above. Make sure to separate the list of music with commas."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of music does the client prefer?",
+                    "Answer": "The client prefers classical and melody."
+                },
+                {
+                    "Question": "What type of atmosphere does the client want to create?",
+                    "Answer": "The client wants to create a relaxed and elegant atmosphere."
+                },
+                {
+                    "Question": "What is the occasion for the event?",
+                    "Answer": "The occasion for the event is a corporate dinner party."
+                },
+                {
+                    "Question": "Who is the target audience for the event?",
+                    "Answer": "The target audience for the event is corporate executives."
+                },
+                {
+                    "Question": "What is the budget for the event?",
+                    "Answer": "The budget for the event is $10,000."
+                },
+                {
+                    "Question": "What is the timeline for the event?",
+                    "Answer": "The timeline for the event is six months."
+                },
+                {
+                    "Question": "What is the preferred music genre?",
+                    "Answer": "The preferred music genre is classical."
+                },
+                {
+                    "Question": "What is the preferred music style?",
+                    "Answer": "The preferred music style is elegant and relaxing."
+                },
+                {
+                    "Question": "What are the preferred music artists?",
+                    "Answer": "The preferred music artists are Beethoven, Bach, and Mozart."
+                },
+                {
+                    "Question": "What is the preferred music tempo?",
+                    "Answer": "The preferred music tempo is slow."
+                }
+            ],
+            "Output": "Beethoven's Moonlight Sonata, Bach's Air on the G String, Mozart's Eine kleine Nachtmusik"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of music does the client prefer?",
+                    "Answer": "The client prefers melody music."
+                },
+                {
+                    "Question": "What type of atmosphere does the client want to create?",
+                    "Answer": "The client wants to create a party-like and dynamic atmosphere."
+                },
+                {
+                    "Question": "What is the occasion for the event?",
+                    "Answer": "The occasion for the event is a birthday party."
+                },
+                {
+                    "Question": "Who is the target audience for the event?",
+                    "Answer": "The target audience for the event are friends and family."
+                },
+                {
+                    "Question": "What is the budget for the event?",
+                    "Answer": "The budget for the event is $3,000."
+                },
+                {
+                    "Question": "What is the timeline for the event?",
+                    "Answer": "The timeline for the event is two months."
+                },
+                {
+                    "Question": "What is the preferred music genre?",
+                    "Answer": "The preferred music genre is melody."
+                },
+                {
+                    "Question": "What is the preferred music style?",
+                    "Answer": "The preferred music style is exhilarating."
+                },
+                {
+                    "Question": "What are the preferred music artists?",
+                    "Answer": "The preferred music artists are Backstreet Boys, Justin Timberlake, Shakira."
+                },
+                {
+                    "Question": "What is the preferred music tempo?",
+                    "Answer": "The preferred music tempo is moderate."
+                }
+            ],
+            "Output": "Backstreet Boys, Justin Timberlake, Shakira"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of music does the client prefer?",
+                    "Answer": "The client prefers dramatic music."
+                },
+                {
+                    "Question": "What type of atmosphere does the client want to create?",
+                    "Answer": "The client wants to create a horror and scary atmosphere."
+                },
+                {
+                    "Question": "What is the occasion for the event?",
+                    "Answer": "The occasion for the event is a halloween party."
+                },
+                {
+                    "Question": "Who is the target audience for the event?",
+                    "Answer": "The target audience for the event are friends and friends of friends."
+                },
+                {
+                    "Question": "What is the budget for the event?",
+                    "Answer": "The budget for the event is $6,000."
+                },
+                {
+                    "Question": "What is the timeline for the event?",
+                    "Answer": "The timeline for the event is six months."
+                },
+                {
+                    "Question": "What is the preferred music genre?",
+                    "Answer": "The preferred music genre is film score."
+                },
+                {
+                    "Question": "What is the preferred music style?",
+                    "Answer": "The preferred music style is exhilarating."
+                },
+                {
+                    "Question": "What are the preferred music artists?",
+                    "Answer": "The preferred music artists are Hans Zimmer."
+                },
+                {
+                    "Question": "What is the preferred music tempo?",
+                    "Answer": "The preferred music tempo is moderate."
+                }
+            ],
+            "Output": "Hans Zimmer - Time, Inception OST - Time, Pirates of the Caribbean: At World's End OST - One Day, Interstellar OST - Day One, The Dark Knight Rises OST - A Storm Is Coming, Batman v Superman: Dawn of Justice OST - Their War Here"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/4VLjjsycHbNnpmEDtYkZI2WL?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/17mA1uyuJ5ls3YUF7ntyrtcw_K2kBK4N6/view?usp=sharing"
+}

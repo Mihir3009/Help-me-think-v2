@@ -1,0 +1,127 @@
+{
+    "Contributor": "kaushaleshan",
+    "Domain": "Basketball",
+    "Task": "Generate a Poem for the client on the topic of basketball",
+    "Prompt": {
+        "pre_question_prompt": "I am a great poem writer. I will ask some questions to my client about basketball. I will use their answers to my questions to come up with a poem on the topic of basketball for them.\nQuestion:",
+        "task_specific_prompt": "I am a great poem writer. Now using the answers to the questions above, I am going to write a hundred word long poem on the topic of basketball for my client."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "How long have you been playing basketball?": "I've been playing basketball for as long as I can remember. It's always been my favorite sport."
+                },
+                {
+                    "What do you love about playing basketball?": "There's something about the feeling of the ball bouncing off the hardwood that I just love. And the feeling of sinking a shot is unbeatable. I just love everything about playing basketball."
+                },
+                {
+                    "What is your favorite basketball memory?": "For me, my favorite basketball memory is from my senior year of high school. We were playing in the state championship game and I hit the game-winning shot at the buzzer. It was the best feeling in the world."
+                },
+                {
+                    "What does basketball mean to you?": "To me, basketball is everything. It's my passion and my life. It's everything to me."
+                },
+                {
+                    "What do you think makes a good basketball player?": "A good basketball player is someone who is passionate about the game and works hard to improve their skills. Someone who is a good team player and always puts the team first"
+                },
+                {
+                    "What are your goals for your basketball career?": "I want to win a championship and to play in the NBA."
+                },
+                {
+                    "What do you think is the key to success in basketball?": "The key to success in basketball is to always stay positive and to never give up on your dreams."
+                },
+                {
+                    "What is your favorite basketball quote?": "\"The only way to prove that you're a good sport is to lose.\" -Ernie Banks"
+                },
+                {
+                    "What do you think is the biggest challenge you face in basketball?": "Take basketball as a passion. My advice would be to just have fun and enjoy the game. Don't get too caught up in winning or losing, just enjoy playing the game."
+                },
+                {
+                    "What advice would you give to someone just starting out in basketball?": "Take basketball as a passion. My advice would be to just have fun and enjoy the game. Don't get too caught up in winning or losing, just enjoy playing the game."
+                }
+            ],
+            "Output": "Basketball is a game that is loved by many,\nFor it is a sport that is so much fun.\nYou can play it inside or outside,\nWith a group or all alone.\n\nBasketball is a sport that requires skill,\nAnd the ability to think on your feet.\nYou need to be able to run and jump,\nAnd to know how to shoot the ball.\n\nBasketball is a sport that is Competitive,\nAnd it takes hard work to be the best.\nYou need to be able to handle defeat,\nAnd to always get back up.\n\nBasketball is a sport that is rewarding,\nFor it is a great way to stay in shape.\nYou can make new friends,\nAnd it can help you relieve stress.\n\nBasketball is a sport that means so much to me,\nFor it is a part of who I am.\nIt has given me some of my best memories,\nAnd it is something I will always love.",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/1-xGm-W-lZI61HX7qyMBtU8kivmkPsxZv?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "How did you get interested in playing basketball?": "I got interested in playing basketball because it looked like a lot of fun. I saw people playing it on TV and it looked like they were having a great time. I wanted to try it out for myself and see if I could have as much fun as they were having."
+                },
+                {
+                    "What do you love most about playing basketball?": "For me, I love the feeling of the ball bouncing off the hardwood and the satisfaction of sinking a shot. I also love the camaraderie that comes with being on a team. It's great to have a group of people to play with who are all working towards the same goal."
+                },
+                {
+                    "What is your favorite basketball memory?": "My favorite basketball memory is from my first game ever. I was so nervous but as soon as I got out on the court, all those nerves disappeared. I ended up having a great game and we won by a lot. It was such a great feeling to know that I could do it and that I loved playing."
+                },
+                {
+                    "What do you think makes a good basketball player?": "A good basketball player is someone who is dedicated to the sport, is a team player, and works hard to improve their skills."
+                },
+                {
+                    "What do you think is the most challenging part of playing basketball?": "Most challenging part of playing basketball is trying to keep up with the faster players. They make it look so easy but when you're trying to keep up with them, it's really tough. You have to have a lot of stamina and be able to move quickly."
+                },
+                {
+                    "What do you think would make your basketball experience better?": "For me, more practice would always make my basketball experience better. I need to work on my skills so that I can be more confident when I'm playing. I also need to work on my stamina so that I can keep up with the other players."
+                },
+                {
+                    "What is your favorite basketball drill?": "I love to dribble the ball between my legs. I'm not the best at it but I always enjoy trying to get better at it. It's a great way to improve your coordination and ball-handling skills."
+                },
+                {
+                    "What is your favorite thing about basketball?": "My favorite thing about basketball is the feeling of the ball bouncing off the hardwood. I also love the satisfaction of sinking a shot."
+                },
+                {
+                    "What do you think of when you think of basketball?": "Thinking of basketball makes me really excited. When I think of basketball, I think of a group of people working together to achieve a common goal. I also think of the feeling of the ball bouncing off the hardwood and the satisfaction of sinking a shot."
+                },
+                {
+                    "What is your favorite basketball move?": "It is easily the crossover. I love the satisfaction I get after pulling out one of these."
+                },
+                {
+                    "What do you think would make you a better basketball player?": "More practice and working on my skills would make me a better basketball player."
+                }
+            ],
+            "Output": "Basketball is a game that is enjoyed by many\nIt is a sport that is loved by many people\nIt is a game that is enjoyed by all\n\nThe feeling of the ball bouncing off the hardwood\nThe satisfaction of sinking a shot\nThe camaraderie of being on a team\n\nThese are all things that make basketball great\n\nFor those who are dedicated to the sport\nFor those who are team players\nFor those who work hard to improve their skills\n\nBasketball is the perfect game\n\nIt is a game that is enjoyed by many\nIt is a sport that is loved by many people\nIt is a game that is enjoyed by all",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/17mJf6X5jhuUIjHzqjaHTCfjCgLqqEG6g?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "What is your favorite basketball team?": "The Los Angeles Lakers"
+                },
+                {
+                    "What is your favorite basketball player?": "My favorite player is Kobe Bryant."
+                },
+                {
+                    "What do you love most about basketball?": "I love the feeling of the ball bouncing off the hardwood, the sound of the swish of the net, and the feeling of triumph when my team wins."
+                },
+                {
+                    "What is your favorite basketball moment?": "It was when my favorite team, the Lakers won the 2010 NBA Championship."
+                },
+                {
+                    "What do you think makes a good basketball player?": "A good basketball player is someone who is passionate about the game, works hard to improve their skills, and is a good team player."
+                },
+                {
+                    "Do you have any advice for aspiring basketball players?": "My advice would be to never give up on your dreams, work hard, and always stay positive."
+                },
+                {
+                    "What do you think is the most important quality for a basketball player to have?": "Dedication."
+                },
+                {
+                    "What do you think is the most important quality for a good basketball team?": "In my opinion, the most important quality for a good basketball team is to have players who are willing to work together and sacrifice for the good of the team."
+                },
+                {
+                    "What is your favorite basketball drill?": "For me, I love shooting drills because they help me to focus on my form and technique."
+                },
+                {
+                    "What do you think is the biggest challenge for a basketball player?": "To maintain their focus and dedication to the game, especially when they are not seeing the results they want is the biggest challenge for a basketball player."
+                },
+                {
+                    "What is your favorite basketball quote?": "I always like, \"The will to win is important, but the will to prepare is vital.\" -Joe Paterno"
+                }
+            ],
+            "Output": "Basketball is a game of dedication\nIt takes hard work and determination\nTo be the best that you can be\nAnd to achieve your dreams\n\nBasketball is a team sport\nWhere players must work together\nTo achieve success\nIt takes sacrifice and unselfishness\nTo be a good team player\n\nBasketball is a game of focus\nYou must maintain your dedication\nEven when results are not forthcoming\nPerseverance is key\nTo becoming the best player you can be",
+            "Screenshot_Link": "https://drive.google.com/drive/folders/1IKb-efXOxxA7zMywTbfKNA1NV4zdlaWn?usp=sharing"
+        }
+    ],
+    "Preset_Link": "https://beta.openai.com/playground/p/YNLcpMMNmlAb26OAvHkMunLa?model=text-davinci-002",
+    "Screenshot_Link": "https://drive.google.com/drive/folders/1liUtQpwPzy7QN2IX5cq3jnU4XU-M0n-k?usp=sharing"
+}

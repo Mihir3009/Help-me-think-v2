@@ -1,0 +1,166 @@
+{
+    "Contributor": "lakhanpalsanyam",
+    "Domain": "Mechanical Engineering",
+    "Task": "Building an commercial jet plane",
+    "Prompt": [
+        {
+            "pre_question_prompt": "I am an expert in building commercial jet planes for passenger. Ask 10 questions about  building the jet plane for people and I will answer them. Later on, we will give the design to build the jet plane for the passangers.",
+            "task_specific_prompt": "Based on the questions and answers above, make a detailed report on how to build a commercial jet plane for passangers. Also tell how much would it cost to build one."
+        },
+        {
+            "pre_question_prompt": "I am an expert in building army robots. Ask me 10 questions related to it and I will answer them. At last we will build one robot from scratch.",
+            "task_specific_prompt": "Tell in 10 steps how will you make an army robot based on the question and answer pairs above and tell the cost in $ to build one."
+        },
+        {
+            "pre_question_prompt": "I am an expert in building army robots. Ask me 10 questions related to it and I will answer them. At last, we will build one robot from scratch.",
+            "task_specific_prompt": "Based on the questions and answers above, make a detailed report on how to build a commercial jet plane for passengers. Also, tell me how much would it cost to build one."
+        }
+    ],
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the process of building a commercial jet plane for passengers?",
+                    "Answer": "There are many steps involved in building a commercial jet plane for passengers. First, the plane must be designed. The design must be approved by the airline or company that will be using the plane. Next, the plane must be built. The construction process can take several months or even years. Once the plane is built, it must be inspected and tested. Finally, the plane is ready to be used by passengers."
+                },
+                {
+                    "Question": "What are the different parts of a commercial jet plane?",
+                    "Answer": "There are many different parts to a commercial jet plane. The body of the plane is the main part. The wings are attached to the body. The engines are also attached to the body. The plane has a cockpit where the pilot and copilot sit. The plane also has a cabin where the passengers sit."
+                },
+                {
+                    "Question": "How long does it take to build a commercial jet plane?",
+                    "Answer": "It can take several months or even years to build a commercial jet plane. The process depends on the size and complexity of the plane."
+                },
+                {
+                    "Question": "How much does it cost to build a commercial jet plane?",
+                    "Answer": "It can cost millions of dollars to build a commercial jet plane. The cost depends on the size and complexity of the plane."
+                },
+                {
+                    "Question": "How are commercial jet planes powered?",
+                    "Answer": "Commercial jet planes are powered by jet engines. The jet engines are attached to the body of the plane. The jet engines use fuel to create thrust. The thrust pushes the plane forward."
+                },
+                {
+                    "Question": "What is the range of a commercial jet plane?",
+                    "Answer": "The range of a commercial jet plane depends on the type of plane. Some planes have a range of only a few hundred miles. Other planes have a range of several thousand miles."
+                },
+                {
+                    "Question": "How many passengers can a commercial jet plane hold?",
+                    "Answer": "The number of passengers a commercial jet plane can hold depends on the size of the plane. Some planes can hold only a few dozen passengers. Other planes can hold hundreds of passengers."
+                },
+                {
+                    "Question": "How much luggage can a commercial jet plane hold?",
+                    "Answer": "The amount of luggage a commercial jet plane can hold depends on the size of the plane. Some planes can hold only a few hundred pounds of luggage. Other planes can hold several tons of luggage."
+                },
+                {
+                    "Question": "What is the max speed of a commercial jet plane?",
+                    "Answer": "The max speed of a commercial jet plane depends on the type of plane. Some planes can fly at speeds of only a few hundred miles per hour. Other planes can fly at speeds of over a thousand miles per hour."
+                },
+                {
+                    "Question": "What is the average lifespan of a commercial jet plane?",
+                    "Answer": "The average lifespan of a commercial jet plane is about 20 years. After 20 years, the plane is typically retired from service."
+                }
+            ],
+            "Output": "' \n\nBuilding a commercial jet plane for passengers is a lengthy and expensive process. The plane must first be designed, and the design approved by the airline or company that will be using the plane. Next, the plane must be built. The construction process can take several months or even years. Once the plane is built, it must be inspected and tested. Finally, the plane is ready to be used by passengers.\n\nThe cost of building a commercial jet plane depends on the size and complexity of the plane. It can cost millions of dollars to build a commercial jet plane. The average lifespan of a commercial jet plane is about 20 years. After 20 years, the plane is typically retired from service.\n\n'"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much it would cost to build a commercial jet for passengers?",
+                    "Answer": "It would cost approximately $100 million to build a commercial jet for passengers."
+                },
+                {
+                    "Question": "What are the materials needed to build a commercial jet for passengers?",
+                    "Answer": "The materials needed to build a commercial jet for passengers include aluminum, titanium, and composite materials."
+                },
+                {
+                    "Question": "How long does it take to build a commercial jet for passengers?",
+                    "Answer": "It takes approximately 18 months to build a commercial jet for passengers."
+                },
+                {
+                    "Question": "How many workers are needed to build a commercial jet for passengers?",
+                    "Answer": "Approximately 1,500 workers are needed to build a commercial jet for passengers."
+                },
+                {
+                    "Question": "What is the production process of building a commercial jet for passengers?",
+                    "Answer": "The production process of building a commercial jet for passengers includes building the fuselage, wings, and engines."
+                },
+                {
+                    "Question": "What are the safety regulations for building a commercial jet for passengers?",
+                    "Answer": "The safety regulations for building a commercial jet for passengers include following the Federal Aviation Regulations."
+                },
+                {
+                    "Question": "What are the testing procedures for a commercial jet for passengers?",
+                    "Answer": "The testing procedures for a commercial jet for passengers include ground testing and flight testing."
+                },
+                {
+                    "Question": "How often do commercial jet planes need to be inspected?",
+                    "Answer": "Commercial jet planes need to be inspected every 12 months."
+                },
+                {
+                    "Question": "What is the warranty for a commercial jet for passengers?",
+                    "Answer": "The warranty for a commercial jet for passengers is typically 12 months."
+                },
+                {
+                    "Question": "What are the maintenance requirements for a commercial jet for passengers?",
+                    "Answer": "The maintenance requirements for a commercial jet for passengers include regular cleaning and inspections."
+                }
+            ],
+            "Output": "It would cost approximately $100 million to build a commercial jet for passengers. The materials needed to build a commercial jet for passengers include aluminum, titanium, and composite materials. It takes approximately 18 months to build a commercial jet for passengers. Approximately 1,500 workers are needed to build a commercial jet for passengers. The production process of building a commercial jet for passengers includes building the fuselage, wings, and engines. The safety regulations for building a commercial jet for passengers include following the Federal Aviation Regulations. The testing procedures for a commercial jet for passengers include ground testing and flight testing. Commercial jet planes need to be inspected every 12 months. The warranty for a commercial jet for passengers is typically 12 months. The maintenance requirements for a commercial jet for passengers include regular cleaning and inspections."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many passengers a commercial jet plane should have?",
+                    "Answer": "There is no definitive answer to this question as the capacity of commercial jet planes can vary greatly depending on the specific model and manufacturer. However, most commercial jet planes are designed to accommodate anywhere from 100 to 300 passengers."
+                },
+                {
+                    "Question": "What are the different parts of a commercial jet plane?",
+                    "Answer": "The different parts of a commercial jet plane include the fuselage (the main body of the aircraft), the wings, the tail, and the engines."
+                },
+                {
+                    "Question": "How is a commercial jet plane powered?",
+                    "Answer": "A commercial jet plane is powered by jet engines, which work by compressing air and expelling it at high speeds to create thrust."
+                },
+                {
+                    "Question": "How do commercial jet planes take off and land?",
+                    "Answer": "A commercial jet plane takes off by using the thrust from its engines to propel it into the air. Once the plane is in the air, the pilot then uses the controls to raise or lower the nose of the plane in order to achieve the desired altitude. When it is time to land, the pilot lowers the plane's nose and uses the engines to slow the plane down as it approaches the ground."
+                },
+                {
+                    "Question": "What is the range of a commercial jet plane?",
+                    "Answer": "The range of a commercial jet plane is the maximum distance that it can fly without needing to refuel. The specific range will vary depending on the model and manufacturer of the plane, but most commercial jet planes have a range of around 1,500 to 5,000 miles."
+                },
+                {
+                    "Question": "How fast do commercial jet planes fly?",
+                    "Answer": "Most commercial jet planes fly at speeds of around 500 to 600 miles per hour."
+                },
+                {
+                    "Question": "How high do commercial jet planes fly?",
+                    "Answer": "The average cruising altitude for a commercial jet plane is around 35,000 feet."
+                },
+                {
+                    "Question": "What is the weight of a commercial jet plane?",
+                    "Answer": "The weight of a commercial jet plane can vary greatly depending on the specific model and manufacturer. However, the average weight of a commercial jet plane is around 300,000 pounds."
+                },
+                {
+                    "Question": "What is the wingspan of a commercial jet plane?",
+                    "Answer": "The wingspan of a commercial jet plane is the distance from one end of the plane's wings to the other. The specific wingspan will vary depending on the model and manufacturer of the plane, but most commercial jet planes have a wingspan of around 100 to 200 feet."
+                },
+                {
+                    "Question": "How much does a commercial jet plane cost?",
+                    "Answer": "The cost of a commercial jet plane can vary greatly depending on the specific model and manufacturer. However, the average cost of a commercial jet plane is around $50 million."
+                }
+            ],
+            "Output": "' \n\n\nBuilding a commercial jet plane for passengers typically costs around $50 million. The process typically involves constructing the fuselage (the main body of the aircraft), the wings, the tail, and the engines. Commercial jet planes are powered by jet engines, which work by compressing air and expelling it at high speeds to create thrust. Most commercial jet planes fly at speeds of around 500 to 600 miles per hour and have a wingspan of around 100 to 200 feet.\n\n'"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/GSisHrkBWXwE9az7I0IDDGxv?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CaF09i86599ZNfcgZXhKeNWM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/HI2RtN5QCmiWWdaN6i76d3BF?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/drive/folders/17TphtewDxkI9wy6bHKYGc9idqwKkxuCr?usp=sharing",
+        "https://drive.google.com/drive/folders/1Uv_ZbSmD7j-LGs1ofeqV9GFNqo8r-R3u?usp=sharing",
+        "https://drive.google.com/drive/folders/1CvtbXn6r8LI7OPMybjlqPhnUjiSF8pnQ?usp=sharing"
+    ]
+}
