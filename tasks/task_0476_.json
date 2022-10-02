@@ -1,0 +1,143 @@
+{
+    "Contributor": "Ishan Purohit",
+    "Domain": "Philosophy",
+    "Task": "Suggesting a Philosophy Book. ",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Philosophy. I will ask some questions to collect information and then I will use the information to suggest a book of philosophy.",
+        "task_specific_prompt": "Write how to suggest Philosophy book using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite philosopher?",
+                    "Answer": "Answer: Descartes"
+                },
+                {
+                    "Question": "What is your favorite book of philosophy?",
+                    "Answer": "Answer: Meditations on First Philosophy"
+                },
+                {
+                    "Question": "What are you interested in learning about philosophy?",
+                    "Answer": "Answer: I am interested in learning about different philosophical arguments and theories."
+                },
+                {
+                    "Question": "What is your level of experience with philosophy?",
+                    "Answer": "Answer: I have some experience with philosophy, but I am not an expert."
+                },
+                {
+                    "Question": "What are some of your favorite topics in philosophy?",
+                    "Answer": "Answer: I am interested in topics such as the mind-body problem, the nature of reality, and the existence of God."
+                },
+                {
+                    "Question": "What is your favorite philosophical argument?",
+                    "Answer": "Answer: I am particularly interested in the ontological argument for the existence of God."
+                },
+                {
+                    "Question": "What is your favorite philosophical theory?",
+                    "Answer": "Answer: I am particularly interested in Descartes' theory of mind."
+                },
+                {
+                    "Question": "What is your favorite philosophical puzzle?",
+                    "Answer": "Answer: I find the problem of free will to be particularly intriguing."
+                },
+                {
+                    "Question": "What is your favorite piece of philosophical advice?",
+                    "Answer": "Answer: \"Doubt everything.\" - Descartes"
+                },
+                {
+                    "Question": "What is your favorite quotation from a philosopher?",
+                    "Answer": "Answer: \"I think, therefore I am.\" - Descartes"
+                }
+            ],
+            "Output": "I would recommend the book \"Meditations on First Philosophy\" by Descartes. In this book, Descartes argues for the existence of God and the immortality of the soul. He also discusses other topics such as the nature of reality and the mind-body problem."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are you interested in learning about philosophy?",
+                    "Answer": "Answer: I am interested in learning about different philosophical perspectives on life, morality, and the meaning of existence."
+                },
+                {
+                    "Question": "What are some of your favorite philosophers?",
+                    "Answer": "Answer: My favorite philosophers are Socrates, Aristotle, and Kant."
+                },
+                {
+                    "Question": "What are some of your favorite philosophical topics?",
+                    "Answer": "Answer: Some of my favorite philosophical topics include ethics, epistemology, and ontology."
+                },
+                {
+                    "Question": "What are some of your favorite philosophical texts?",
+                    "Answer": "Answer: Some of my favorite philosophical texts include Plato's Republic, Aristotle's Nicomachean Ethics, and Kant's Critique of Pure Reason."
+                },
+                {
+                    "Question": "What are some of your other interests?",
+                    "Answer": "Answer: I am also interested in literature, history, and politics."
+                },
+                {
+                    "Question": "Why do you suggest The Republic?",
+                    "Answer": "Answer: I suggest The Republic because it is a classic work of philosophy that explores different philosophical perspectives on life, morality, and the meaning of existence."
+                },
+                {
+                    "Question": "What do you think I will learn from reading The Republic?",
+                    "Answer": "Answer: You will learn about different philosophical ideas relating to justice, the nature of the soul, and the role of the state in human life."
+                },
+                {
+                    "Question": "Do you think The Republic is appropriate for my level of philosophical understanding?",
+                    "Answer": "Answer: Yes, I think The Republic is appropriate for your level of philosophical understanding."
+                },
+                {
+                    "Question": "Are there any other books of philosophy you would recommend?",
+                    "Answer": "Answer:"
+                }
+            ],
+            "Output": "I would recommend Kant's Critique of Pure Reason as a book of philosophy."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite philosophical topic?",
+                    "Answer": "Answer: I really enjoy reading about ethics and morality."
+                },
+                {
+                    "Question": "What are your favorite philosophers?",
+                    "Answer": "Answer: I really enjoy reading the works of Aristotle, Kant, and Nietzsche."
+                },
+                {
+                    "Question": "What is your favorite book of philosophy?",
+                    "Answer": "Answer: I really enjoyed reading Aristotle's \"Nicomachean Ethics.\""
+                },
+                {
+                    "Question": "What is your favorite philosophical movement?",
+                    "Answer": "Answer: I am really interested in existentialism."
+                },
+                {
+                    "Question": "What are your favorite philosophical texts?",
+                    "Answer": "Answer: I really enjoyed reading \"Existentialism is a Humanism\" by Jean-Paul Sartre and \"The Myth of Sisyphus\" by Albert Camus."
+                },
+                {
+                    "Question": "What are your favorite philosophers?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "What is your favorite book of philosophy?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "What is your favorite philosophical movement?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "What are your favorite philosophical texts?",
+                    "Answer": ""
+                }
+            ],
+            "Output": "A suggested book of philosophy, based on the information provided, would be \"Existentialism is a Humanism\" by Jean-Paul Sartre."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3bdEySU9jLCV5QbSAfuxP8Xr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Nqg0uDlWTzIepUO5whxdK9Lr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qV4nvP1tbcMW8emdti7xbvcv?model=text-davinci-002"
+    ]
+}
