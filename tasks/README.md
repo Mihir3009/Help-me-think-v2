@@ -121,7 +121,6 @@ File Name | Domain | Task
 `task_0116_product design.json` | Product Design |  Design and develop an analytics system 
 `task_0117_astrophysics.json` | Astrophysics |  write an article
 `task_0118_product design.json` | Product Design |  Building a distributed surveillance system
-
 `task_0123_politics.json` | Politics | interview
 `task_0124_animals right.json` | Animals Right | survey summarizer
 `task_0125_animal right.json` | Animal Right | slogan
