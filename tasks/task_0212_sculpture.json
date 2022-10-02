@@ -1,0 +1,208 @@
+{
+    "Contributor": "thakkarnihar",
+    "Domain": "Sculpture",
+    "Task": "Suggest sculpture for gifting",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting sculpture for gifting. I will ask some questions to collect information and then I will use the information to suggest you sculpture.",
+        "task_specific_prompt": "Suggest me a sculpture for gifting using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion for gifting?",
+                    "Answer": "The occasion for gifting is birthday."
+                },
+                {
+                    "Question": "Who is the gift recipient?",
+                    "Answer": "The gift recipient is my friend."
+                },
+                {
+                    "Question": "What is the budget for the gift?",
+                    "Answer": "The budget for the gift is under $100."
+                },
+                {
+                    "Question": "What is the recipient's favorite color?",
+                    "Answer": "The recipient's favorite color is blue."
+                },
+                {
+                    "Question": "What is the recipient's favorite type of art?",
+                    "Answer": "The recipient's favorite type of art is sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite artist?",
+                    "Answer": "The recipient's favorite artist is Auguste Rodin."
+                },
+                {
+                    "Question": "What style of sculpture does the recipient prefer?",
+                    "Answer": "The recipient prefers modern sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite animal?",
+                    "Answer": "The recipient's favorite animal is a lion."
+                },
+                {
+                    "Question": "What is the recipient's favorite food?",
+                    "Answer": "The recipient's favorite food is sushi."
+                },
+                {
+                    "Question": "What is the recipient's favorite hobby?",
+                    "Answer": "The recipient's favorite hobby is hiking."
+                },
+                {
+                    "Question": "What is the recipient's favorite sport?",
+                    "Answer": "The recipient's favorite sport is basketball.."
+                },
+                {
+                    "Question": "What is the recipient's favorite musical artist?",
+                    "Answer": "The recipient's favorite musical artist is Taylor Swift."
+                },
+                {
+                    "Question": "What is the recipient's favorite TV show?",
+                    "Answer": "The recipient's favorite TV show is Game of Thrones."
+                },
+                {
+                    "Question": "What is the recipient's favorite movie?",
+                    "Answer": "The recipient's favorite movie is Forrest Gump."
+                },
+                {
+                    "Question": "What is the recipient's favorite book?",
+                    "Answer": "The recipient's favorite book is The Catcher in the Rye."
+                }
+            ],
+            "Output": "One possible suggestion for a sculpture to gift your friend might be a work by Auguste Rodin entitled \"The Thinker.\" This work is a classic example of modern sculpture, and its simple form and blue color may appeal to your friend. Additionally, the subject matter of \"The Thinker\" (a man deep in thought) may be appropriate for a friend whose favorite hobby is hiking, as it suggests contemplation and reflection."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What is the occasion for gifting?",
+                    "Answer": "The occasion for gifting is Wedding."
+                },
+                {
+                    "Question": "Who is the gift recipient?",
+                    "Answer": "The gift recipient is my brother."
+                },
+                {
+                    "Question": "What is the budget for the gift?",
+                    "Answer": "The budget for the gift is under $200."
+                },
+                {
+                    "Question": "What is the recipient's favorite color?",
+                    "Answer": "The recipient's favorite color is red."
+                },
+                {
+                    "Question": " What is the recipient's favorite type of art?",
+                    "Answer": "The recipient's favorite type of art is sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite artist?",
+                    "Answer": "The recipient's favorite artist is Richard Serra"
+                },
+                {
+                    "Question": "What style of sculpture does the recipient prefer?",
+                    "Answer": "The recipient prefers modern sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite animal?",
+                    "Answer": "The recipient's favorite animal is a Dog."
+                },
+                {
+                    "Question": "What is the recipient's favorite food?",
+                    "Answer": "The recipient's favorite food is Indian."
+                },
+                {
+                    "Question": "What is the recipient's favorite hobby?",
+                    "Answer": "The recipient's favorite hobby is Cycling."
+                },
+                {
+                    "Question": "What is the recipient's favorite sport?",
+                    "Answer": "The recipient's favorite sport is Cricket."
+                },
+                {
+                    "Question": "What is the recipient's favorite musical artist?",
+                    "Answer": "The recipient's favorite musical artist is Michael Jacson."
+                },
+                {
+                    "Question": "What is the recipient's favorite TV show?",
+                    "Answer": "The recipient's favorite TV show is Game of Thrones."
+                },
+                {
+                    "Question": "What is the recipient's favorite movie?",
+                    "Answer": "The recipient's favorite movie is Forrest Gump."
+                },
+                {
+                    "Question": "What is the recipient's favorite book?",
+                    "Answer": "The recipient's favorite book is The Lost Symbol."
+                }
+            ],
+            "Output": "A possible sculpture to gift your brother on his wedding day would be the \"Love\" sculpture by Robert Indiana. It is a modern sculpture that is red, which is your brother's favorite color. It is also a sculpture that represents love, which is appropriate for a wedding gift. The budget for this sculpture is $200."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion for gifting?",
+                    "Answer": "The occasion for gifting is Anniversary."
+                },
+                {
+                    "Question": "Who is the gift recipient?",
+                    "Answer": "The gift recipient is my Friend."
+                },
+                {
+                    "Question": "What is the budget for the gift?",
+                    "Answer": "The budget for the gift is under $200."
+                },
+                {
+                    "Question": "What is the recipient's favorite color?",
+                    "Answer": "The recipient's favorite color is Yellow."
+                },
+                {
+                    "Question": "What is the recipient's favorite type of art?",
+                    "Answer": "The recipient's favorite type of art is sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite artist?",
+                    "Answer": "The recipient's favorite artist is Alexander Calder."
+                },
+                {
+                    "Question": "What style of sculpture does the recipient prefer?",
+                    "Answer": "The recipient prefers modern sculpture."
+                },
+                {
+                    "Question": "What is the recipient's favorite animal?",
+                    "Answer": "The recipient's favorite animal is a Lioness."
+                },
+                {
+                    "Question": "What is the recipient's favorite food?",
+                    "Answer": "The recipient's favorite food is Mexican."
+                },
+                {
+                    "Question": "What is the recipient's favorite hobby?",
+                    "Answer": "The recipient's favorite hobby is reading."
+                },
+                {
+                    "Question": "What is the recipient's favorite sport?",
+                    "Answer": "The recipient's favorite sport is Football."
+                },
+                {
+                    "Question": "What is the recipient's favorite musical artist?",
+                    "Answer": "The recipient's favorite musical artist is Michael Jackson."
+                },
+                {
+                    "Question": "What is the recipient's favorite TV show?",
+                    "Answer": "The recipient's favorite TV show is Suits."
+                },
+                {
+                    "Question": "What is the recipient's favorite movie?",
+                    "Answer": "The recipient's favorite movie is Mission Impossible."
+                },
+                {
+                    "Question": "What is the recipient's favorite book?",
+                    "Answer": "The recipient's favorite book is The 7 Habits of Highly Effective People."
+                }
+            ],
+            "Output": "A sculpture by Alexander Calder would be a great gift for your friend on their anniversary. Calder is one of their favorite artists and his sculptures are modern and stylish. If you are looking for a sculpture that is less than $200, consider one of Calder's smaller works, such as his \"Miniature Mobile.\""
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/tzqoPhcKzd2pnQD0PirYLFJD?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jat9jGPVlE1IuVmERc97pxBg4IJx5hRV?usp=sharing"
+}

@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Project Management",
+    "Task": "Electric Car Manufacturing",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert project manager. I will ask some questions to collect information and then I will use the information to create a budget, schedule, and employee allotment for the project.",
+        "task_specific_prompt": "Write a complete project plan using the questions and   answers above and elaborating on them. Include the order that each task should be done in, which employees should do which tasks, how the budget should be managed and divided  between tasks, and an estimated timeline for the project, in terms of the project  milestones. Estimate the probability of failure and important steps necessary to mitigate risks."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a working electric vehicle with a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The project requires that the electric vehicle must have a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. Naturally, the vehicle needs to be entirely electric, and should be rechargeable at a standard station or from a home. The vehicle needs to seat at least four people and have additional room for cargo. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is five years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 500 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need at least 300 engineers across various disciplines, including mechanical, electrical, and automotive engineering. There will need to be around 100 scientists specializing in energy storage and electric vehicles, and the remaining 100 staff members will be split between finance and management disciplines."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the electric vehicle will not meet the range requirements, that the vehicle will be too expensive to produce, or that the project will not be able to find enough employees with the necessary skills."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include the possibility of developing a working electric vehicle with a range that meets or exceeds the 500 kilometer requirement. If successful, the project could also result in reducing the cost of electric vehicles, making them more accessible to a wider range of consumers. Also, such a vehicle would be desirable on the market, and could be sold at a high profit. The estimated profit per vehicle is at least $20,000, meaning that the return on the project could be several hundred million dollars."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the stock holder in the company, including the CEO, board, and general public. Also, the government has invested significant grants and subsidies into the project."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "To mass produce electric cars, it is necessary to create an efficient factory within the deadline and budget. Similarly, it is necessary for the research team to create a cheap battery with sufficient storage to achieve the desired range. All of the engineering teams must similarly be within budget."
+                }
+            ],
+            "Output": "The project plan should include the following:\n1. Define the scope of the project.\n2. Develop a budget for the project.\n3. Create a schedule for the project.\n4. Determine which employees will work on which tasks.\n5. Assign tasks to employees.\n6. Manage the budget for the project.\n7. Monitor the progress of the project.\n8. Evaluate the results of the project."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a working electric vehicle with a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The project requires that the electric vehicle must have a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. Naturally, the vehicle needs to be entirely electric, and should be rechargeable at a standard station or from a home. The vehicle needs to seat at least four people and have additional room for cargo. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is five years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 500 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need at least 300 engineers across various disciplines, including mechanical, electrical, and automotive engineering. There will need to be around 100 scientists specializing in energy storage and electric vehicles, and the remaining 100 staff members will be split between finance and management disciplines."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the electric vehicle will not meet the range requirements, that the vehicle will be too expensive to produce, or that the project will not be able to find enough employees with the necessary skills."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include the possibility of developing a working electric vehicle with a range that meets or exceeds the 500 kilometer requirement. If successful, the project could also result in reducing the cost of electric vehicles, making them more accessible to a wider range of consumers. Also, such a vehicle would be desirable on the market, and could be sold at a high profit. The estimated profit per vehicle is at least $20,000, meaning that the return on the project could be several hundred million dollars."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the stock holder in the company, including the CEO, board, and general public. Also, the government has invested significant grants and subsidies into the project."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "To mass produce electric cars, it is necessary to create an efficient factory within the deadline and budget. Similarly, it is necessary for the research team to create a cheap battery with sufficient storage to achieve the desired range. All of the engineering teams must similarly be within budget."
+                }
+            ],
+            "Output": "The first step is to secure funding for the project. This can be done through a variety of means, such as government grants, private investment, or a combination of the two. Once funding has been secured, the next step is to assemble the team that will work on the project. This team should include engineers, scientists, and support staff. The next step is to develop a plan for the project. This plan should include a budget, a schedule, and a list of deliverables. Once the plan is in place, the next step is to begin work on the project. This includes research and development, as well as construction of the factory where the vehicles will be produced. The final step is to mass produce the vehicles and deliver them to customers."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a working electric vehicle with a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The project requires that the electric vehicle must have a minimum range of 500 kilometers. The vehicle should be producible in a factory, and should have a base cost under $15,000. Naturally, the vehicle needs to be entirely electric, and should be rechargeable at a standard station or from a home. The vehicle needs to seat at least four people and have additional room for cargo. A minimum of 100,000 vehicles should be produced."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is five years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 500 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need at least 300 engineers across various disciplines, including mechanical, electrical, and automotive engineering. There will need to be around 100 scientists specializing in energy storage and electric vehicles, and the remaining 100 staff members will be split between finance and management disciplines."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the electric vehicle will not meet the range requirements, that the vehicle will be too expensive to produce, or that the project will not be able to find enough employees with the necessary skills."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include the possibility of developing a working electric vehicle with a range that meets or exceeds the 500 kilometer requirement. If successful, the project could also result in reducing the cost of electric vehicles, making them more accessible to a wider range of consumers. Also, such a vehicle would be desirable on the market, and could be sold at a high profit. The estimated profit per vehicle is at least $20,000, meaning that the return on the project could be several hundred million dollars."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the stock holder in the company, including the CEO, board, and general public. Also, the government has invested significant grants and subsidies into the project."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "To mass produce electric cars, it is necessary to create an efficient factory within the deadline and budget. Similarly, it is necessary for the research team to create a cheap battery with sufficient storage to achieve the desired range. All of the engineering teams must similarly be within budget."
+                }
+            ],
+            "Output": "The budget will be split up into different tasks, with each task having its own budget. The tasks are as follows:\n\n1. Research and development - $100 million\n2. Engineering - $200 million\n3. Factory construction - $100 million\n4. Production - $100 million\n\nThe research and development team will be responsible for developing the electric vehicle and ensuring that it meets all the requirements. They will have a budget of $100 million. The engineering team will be responsible for designing the factory and ensuring that it is able to mass produce the electric vehicles. They will have a budget of $200 million. The factory construction team will be responsible for building the factory. They will have a budget of $100 million. The production team will be responsible for actually manufacturing the electric vehicles. They will have a budget of $100 million.\n\nThe probability of failure for the project is estimated to be 20%. This probability takes into account the risks associated with the project, such as the possibility that the electric vehicle will not meet the range requirements, that the vehicle will be too expensive to produce, or that the project will not be able to find enough employees with the necessary skills. The important steps necessary to mitigate these risks include having a clear and concise plan for the project, setting realistic goals, and making sure that all stakeholders are on board with the project.\n\nThe timeline for the project is as follows:\n\n1. Research and development - 2 years\n2. Engineering - 1 year\n3. Factory construction - 1 year\n4. Production - 1 year"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/4chlTai65G5tLwJUZ6msmsbH?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/CJmKmRV.png"
+}

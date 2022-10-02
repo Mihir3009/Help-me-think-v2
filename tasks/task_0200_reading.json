@@ -1,0 +1,160 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Reading",
+    "Task": "Plan to improve reading confidence and motivation for language scholar",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert language scholar I will ask some questions to collect information and then I will use the information to build my reading confidence and motivation.\n\n",
+        "task_specific_prompt": "Write a learning strategy for me to improve my reading confidence and motivation using the questions and answers above. Help me get motivated read difficult books like Shakespear. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. Why do you want to improve your reading ability in English?",
+                    "Answer": "I want to improve my reading ability in English because I want to be able to read English texts more fluently and with greater comprehension. I also want to be able to read a wider range of English texts, including academic texts."
+                },
+                {
+                    "Question": "What are your reading goals?",
+                    "Answer": "My reading goals are to improve my confidence to read difficult books like Shakespear "
+                },
+                {
+                    "Question": "What do you find difficult about reading in English?",
+                    "Answer": "I find it difficult to read old style English books which reduces my confidence "
+                },
+                {
+                    "Question": "How much time do you spend reading in English every day?",
+                    "Answer": "I spend about 30 minutes reading in English every day."
+                },
+                {
+                    "Question": "What are your favorite types of books to read in English?",
+                    "Answer": "I like to read fiction books, such as novels and short stories. I also like to read non-fiction books, such as books about history, biology, and psychology."
+                },
+                {
+                    "Question": "What do you do when you come across a word you don't know when reading in English?",
+                    "Answer": "I usually try to guess the meaning of the word from the context, and if I can't, I look it up in a dictionary."
+                },
+                {
+                    "Question": "What are your favorite reading strategies?",
+                    "Answer": "I like to read slowly and carefully to make sure I understand everything. I also like to highlight important passages and take notes as I read."
+                },
+                {
+                    "Question": "What are your thoughts on reading in English?",
+                    "Answer": "I think reading is a great way to improve my English skills. It helps me to learn new words and to understand grammar better."
+                },
+                {
+                    "Question": "What are your favorite English books?",
+                    "Answer": "I like to read books by British and American authors. Some of my favorites are \"The Catcher in the Rye\" by J.D. Salinger, \"To Kill a Mockingbird\" by Harper Lee, and \"The Great Gatsby\" by F. Scott Fitzgerald."
+                },
+                {
+                    "Question": "What are your favorite activities to do outside of reading?",
+                    "Answer": "I like to listen to music, watch movies, and spend time with my friends and family."
+                },
+                {
+                    "Question": "Do you have any final comments?",
+                    "Answer": "No, thank you for your questions."
+                }
+            ],
+            "Output": "Here is a strategy that may help you:\n1. Make a list of reasons why you want to improve your reading ability in English. Include both practical and personal reasons.\n2. Set reading goals for yourself. Decide how much time you want to spend reading every day, what types of books you want to read, and what strategies you want to use.\n3. Find a quiet place to read where you won't be interrupted. Make sure you have everything you need (a dictionary, a pencil and paper, etc.) before you start reading.\n4. Start reading slowly and carefully. If you come across a word you don't know, look it up in a dictionary. As you read, highlight important passages and take notes.\n5. Take breaks as needed. If you start to feel overwhelmed or frustrated, take a short break. Get up and stretch, have a snack, or take a walk. Then come back to your reading refreshed and ready to continue.\n6. Reward yourself for your successes. When you reach one of your reading goals, take a break and do something you enjoy. Maybe read a favorite book, watch a movie, or go out with friends."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. Why do you want to improve your reading ability in English?",
+                    "Answer": "I want to improve my reading ability in English because I want to be able to read English texts more fluently and with greater comprehension. I also want to be able to read a wider range of English texts, including Shakespear"
+                },
+                {
+                    "Question": "What are your reading goals?",
+                    "Answer": "My reading goals are to improve my confidence to read difficult books like Shakespear "
+                },
+                {
+                    "Question": "What do you find difficult about reading in English?",
+                    "Answer": "I find it difficult to read difficult text"
+                },
+                {
+                    "Question": "How much time do you spend reading in English every day?",
+                    "Answer": "I spend about 10 hours reading in English every day."
+                },
+                {
+                    "Question": "What are your favorite types of books to read in English?",
+                    "Answer": "I like to read fiction books, such as novels and short stories. I also like to read non-fiction books, such as books about history, biology, and psychology."
+                },
+                {
+                    "Question": "What do you do when you come across a word you don't know when reading in English?",
+                    "Answer": "I usually skip it and move on."
+                },
+                {
+                    "Question": "What are your favorite reading strategies?",
+                    "Answer": "Skip whatever I don't understand"
+                },
+                {
+                    "Question": "What are your thoughts on reading in English?",
+                    "Answer": "I think reading is a great way to improve my English skills. It helps me to learn new words and to understand grammar better."
+                },
+                {
+                    "Question": "What are your favorite English books?",
+                    "Answer": "I like to read books by British and American authors. Some of my favorites are \"The Catcher in the Rye\" by J.D. Salinger, \"To Kill a Mockingbird\" by Harper Lee, and \"The Great Gatsby\" by F. Scott Fitzgerald."
+                },
+                {
+                    "Question": "What are your favorite activities to do outside of reading?",
+                    "Answer": "I like to listen to music, watch movies, and spend time with my friends and family."
+                },
+                {
+                    "Question": "Do you have any final comments?",
+                    "Answer": "No, thank you for your questions."
+                }
+            ],
+            "Output": "Here are some strategies that can help:\n1. Make a list of your reading goals and refer to it often.\n2. Set aside a specific time each day to read in English.\n3. Choose books that you are interested in and that are at your reading level.\n4. Use a dictionary or other reference materials when you come across words you don't know.\n5. Try different reading strategies to find ones that work best for you.\n6. Take breaks as needed and reward yourself for your progress.\n7. persist in your reading goals, even when you feel discouraged."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. Why do you want to improve your reading ability in English?",
+                    "Answer": "I want to improve my reading ability in English because I want to be able to read English texts more fluently and with greater comprehension. I also want to be able to read a wider range of English texts, including Shakespear"
+                },
+                {
+                    "Question": "What are your reading goals?",
+                    "Answer": "My reading goals are to improve my confidence to read difficult books like Shakespear "
+                },
+                {
+                    "Question": "What do you find difficult about reading in English?",
+                    "Answer": "I find it easy to read Shakespear but lose motivation because of some reason I do not know"
+                },
+                {
+                    "Question": "How much time do you spend reading in English every day?",
+                    "Answer": "I spend about 1 hour reading in English every day."
+                },
+                {
+                    "Question": "What are your favorite types of books to read in English?",
+                    "Answer": "I like to read fiction books, such as novels and short stories. I also like to read non-fiction books, such as books about history, biology, and psychology."
+                },
+                {
+                    "Question": "What do you do when you come across a word you don't know when reading in English?",
+                    "Answer": "I ask my friends about the meaning"
+                },
+                {
+                    "Question": "What are your favorite reading strategies?",
+                    "Answer": "Ask scholars about difficult text"
+                },
+                {
+                    "Question": "What are your thoughts on reading in English?",
+                    "Answer": "I think reading is a great way to improve my English skills. It helps me to learn new words and to understand grammar better."
+                },
+                {
+                    "Question": "What are your favorite English books?",
+                    "Answer": "I like to read books by British and American authors. Some of my favorites are \"The Catcher in the Rye\" by J.D. Salinger, \"To Kill a Mockingbird\" by Harper Lee, and \"The Great Gatsby\" by F. Scott Fitzgerald."
+                },
+                {
+                    "Question": "What are your favorite activities to do outside of reading?",
+                    "Answer": "I like to listen to music, watch movies, and spend time with my friends and family."
+                },
+                {
+                    "Question": "Do you have any final comments?",
+                    "Answer": "No, thank you for your questions."
+                }
+            ],
+            "Output": "1. Make a list of your reading goals. Include why you want to improve your reading ability in English and what you hope to achieve by doing so.\n2. Set aside a specific amount of time each day to read in English. Make sure to stick to your schedule as much as possible.\n3. Choose books that you are interested in and that are at your level. This will help you stay motivated and improve your reading comprehension.\n4. When you come across a word you don't know, look it up in a dictionary or ask a friend. This will help you learn new words and improve your vocabulary.\n5. Use reading strategies that work well for you. This could include skimming and scanning, taking notes, or reading aloud.\n6. Take breaks as needed and don't force yourself to read if you're not in the mood. Reading should be enjoyable, so make sure to take care of yourself while doing it.\n7. Finally, celebrate your accomplishments! Reading is a great way to improve your English skills, so be proud of yourself for all the progress you make."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/LrmiaB1SNdbuFrUPUv5PFLpe?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/17LqOdj_Uu5WtsVCp0G5RQdcrzlkR-k0Z/view?usp=sharing"
+}

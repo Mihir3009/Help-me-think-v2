@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Education",
+    "Task": "university applications",
+    "Prompt": {
+        "pre_question_prompt": "in university applications",
+        "task_specific_prompt": "apply to a university"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your plans after high school?",
+                    "Answer": "I am planning on attending university."
+                },
+                {
+                    "Question": "Why do you want to attend university?",
+                    "Answer": "I want to attend university to further my education and pursue a career in a field that I am interested in."
+                },
+                {
+                    "Question": "What are your academic interests?",
+                    "Answer": "My academic interests include machine learning, AI, and NLP."
+                },
+                {
+                    "Question": "What are your extracurricular interests?",
+                    "Answer": "My extracurricular interests include hiking and swiming."
+                },
+                {
+                    "Question": "Why do you want to attend university in the United States?",
+                    "Answer": "I want to attend university in the United States because there are many top universities and experts in the NLP field. Besides, I want to be exposed to a different culture and learn more about the world."
+                },
+                {
+                    "Question": "What are your standardized test scores?",
+                    "Answer": "My standardized test scores are as follows: SAT: 1540, ACT: 33"
+                },
+                {
+                    "Question": "What are your grades like?",
+                    "Answer": "I have consistently high grades and rank top and have been on the honor roll all four years of high school."
+                },
+                {
+                    "Question": "What are your recommendations like?",
+                    "Answer": "My recommendations are very strong. My teacher is an expert in this field, and he has always spoken highly of my work ethic and intelligence."
+                },
+                {
+                    "Question": "What are your essays like?",
+                    "Answer": "My essays focus on my academic and extracurricular interests."
+                },
+                {
+                    "Question": "What are your top university choices?",
+                    "Answer": "Some of my top university choices include Stanford and UC Berkeley."
+                }
+            ],
+            "Output": "I am planning on attending university after high school in order to further my education and pursue a career in a field that I am interested in. My academic interests include machine learning, AI, and NLP. Some of my top university choices include Stanford and UC Berkeley. I believe that attending university in the United States will allow me to be exposed to different cultures and learn more about the world. My standardized test scores are as follows: SAT- 1540 and ACT- 33. I have consistently high grades and rank top in my class. My recommendations are very strong. My teacher is an expert in this field and has always spoken highly of my work ethic and intelligence. My essays focus on my academic and extracurricular interests. I believe that I am a strong candidate for university and I am excited to see what the future holds."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your plans after high school?",
+                    "Answer": "I am planning on attending college to study engineering."
+                },
+                {
+                    "Question": "What are your academic interests?",
+                    "Answer": "I am interested in mathematics and physics."
+                },
+                {
+                    "Question": "What are your extracurricular interests?",
+                    "Answer": "I am interested in playing soccer and running."
+                },
+                {
+                    "Question": "What are your plans for your future career?",
+                    "Answer": "I plan on becoming an engineer."
+                },
+                {
+                    "Question": "What are your plans for your future family?",
+                    "Answer": "I plan on having a family in the future, but I do not have any specific plans at this time."
+                },
+                {
+                    "Question": "What are your thoughts on college?",
+                    "Answer": "I think in college I can learn more about my academic interests and also gain some real-world experience that will be beneficial in my future career."
+                },
+                {
+                    "Question": "What are your plans for your future education?",
+                    "Answer": "I plan to attend college to study engineering."
+                },
+                {
+                    "Question": "What are your plans for your future job?",
+                    "Answer": "I plan to become an engineer."
+                },
+                {
+                    "Question": "What are your plans for your future self?",
+                    "Answer": "I want to be happy and successful in whatever I do."
+                },
+                {
+                    "Question": "What are your plans for your future life?",
+                    "Answer": "I want to live a successful and fulfilling life."
+                }
+            ],
+            "Output": "I am planning on attending college to study engineering and my academic interests are in mathematics and physics. I think college will be beneficial in learning more about my academic interests and also gain some real-world experience that will be beneficial in my future career. I plan to attend college to study engineering and then become an engineer. I want to be happy and successful in whatever I do and live a successful and fulfilling life."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the university you would like to attend?",
+                    "Answer": "The name of the university I would like to attend is Ohio State University."
+                },
+                {
+                    "Question": "What is your GPA?",
+                    "Answer": "My GPA is 4.0."
+                },
+                {
+                    "Question": "What are your SAT scores?",
+                    "Answer": "My SAT scores are 2300."
+                },
+                {
+                    "Question": "What are your extracurricular activities?",
+                    "Answer": "I am involved in a variety of extracurricular activities, including: student government, varsity athletics, theatre, and volunteering at the local animal shelter."
+                },
+                {
+                    "Question": "Why do you want to attend this university?",
+                    "Answer": "I want to attend Ohio State University because it has a fantastic reputation for its undergraduate programs, its research opportunities, and its campus life. Additionally, Ohio State is located in a great city with a lot to offer in terms of internships, jobs, and entertainment."
+                },
+                {
+                    "Question": "What are your plans for after graduation?",
+                    "Answer": "I plan on attending graduate school to pursue my PhD in Psychology."
+                },
+                {
+                    "Question": "What are your career aspirations?",
+                    "Answer": "I aspire to become a professor of psychology and conduct research on the human mind."
+                },
+                {
+                    "Question": "What makes you unique?",
+                    "Answer": "I am a first-generation college student and the first person in my family to pursue a graduate degree. Additionally, I have overcome a number of personal challenges in my life, which have made me a strong and resilient individual."
+                },
+                {
+                    "Question": "Why should we admit you to our university?",
+                    "Answer": "I believe that I would be an excellent student in the Ohio State community. I am dedicated to my academic studies, I am involved in a variety of extracurricular activities, and I have a clear plan for my future. I am confident that I will contribute to the university in a positive way and that I will take advantage of all that the university has to offer."
+                },
+                {
+                    "Question": "What are your hobbies and interests?",
+                    "Answer": "I enjoy exercising outdoors, hiking and camping. I also enjoy reading, writing, and spending time with my friends and family."
+                }
+            ],
+            "Output": "Applying to universities can be a daunting task, but I am here to help! Ohio State University is my top pick for a number of reasons. It has an excellent reputation for its undergraduate programs, research opportunities, and campus life. Additionally, Ohio State is located in a great city with a lot to offer in terms of internships, jobs, and entertainment. I have a 4.0 GPA and my SAT scores are 2300. I am also involved in a variety of extracurricular activities, including: student government, varsity athletics, theatre, and volunteering at the local animal shelter. I want to attend Ohio State University because it has a fantastic reputation and because I believe that I would be an excellent student in the Ohio State community. I am dedicated to my academic studies, I am involved in a variety of extracurricular activities, and I have a clear plan for my future. I am confident that I will contribute to the university in a positive way and that I will take advantage of all that the university has to offer."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/NceD2pp1eXp8oji8sjgfXEx0?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lQ4bJh9SF29ePE2PjPHPdCe5?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/T37zBXB6cD8GZolLOqTizkHX?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1YDSR6q_-LZ_fzSo7T8ZQWVKEdSFSOk6u?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "vallabhajosyulaanoop",
+    "Domain": "Developmental Biology",
+    "Task": "Essay Writing",
+    "Prompt": {
+        "pre_question_prompt": "I am an experienced tutor and teach developmental biology. I will ask few short and relevant questions to prepare an essay for you. First question is to decide your topic of interest.",
+        "task_specific_prompt": "Prepare a well-organized essay on the specified topic weaving all the information from the above answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your topic of interest?",
+                    "Answer": "I am interested in cell differentiation and their roles in growth."
+                },
+                {
+                    "Question": "What are the different types of cell differentiation?",
+                    "Answer": "There are many types of cell differentiation, but some of the most common include neuronal, hematopoietic, and muscle cell differentiation."
+                },
+                {
+                    "Question": "What are the roles of cell differentiation in growth?",
+                    "Answer": "The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "What are the different stages of cell differentiation?",
+                    "Answer": "The stages of cell differentiation vary depending on the type of cell, but generally, they involve the cell becoming more specialized and acquiring specific characteristics."
+                },
+                {
+                    "Question": "What are the factors that influence cell differentiation?",
+                    "Answer": "There are many factors that can influence cell differentiation, including the cell's environment, the presence of certain signaling molecules, and the cell's own intrinsic properties."
+                },
+                {
+                    "Question": "What are the consequences of cell differentiation?",
+                    "Answer": "Cell differentiation is a necessary process for the development of complex organisms. Without cell differentiation, cells would not be able to perform their specialized functions, and the organism would not be able to develop properly."
+                },
+                {
+                    "Question": "What are the differences between cell differentiation and cell proliferation?",
+                    "Answer": "Cell differentiation is a process by which cells become specialized to perform specific functions, while cell proliferation is the process by which cells divide and increase in number."
+                },
+                {
+                    "Question": "What is your opinion on cell differentiation?",
+                    "Answer": "I believe that cell differentiation is a necessary process for the development of complex organisms. Without cell differentiation, cells would not be able to perform their specialized functions, and the organism would not be able to develop properly."
+                },
+                {
+                    "Question": "What are your thoughts on the role of cell differentiation in growth?",
+                    "Answer": "I think that cell differentiation plays an important role in growth because it allows cells to become specialized and acquire specific characteristics. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "What do you think are the most important factors that influence cell differentiation?",
+                    "Answer": "I think that the most important factors that influence cell differentiation are the cell's environment, the presence of certain signaling molecules, and the cell's own intrinsic properties."
+                }
+            ],
+            "Output": "Cell differentiation is a process by which cells become specialized to perform specific functions. This process is necessary for the development of complex organisms. Without cell differentiation, cells would not be able to perform their specialized functions, and the organism would not be able to develop properly.\n\nThere are many types of cell differentiation, but some of the most common include neuronal, hematopoietic, and muscle cell differentiation. The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells.\n\nThe stages of cell differentiation vary depending on the type of cell, but generally, they involve the cell becoming more specialized and acquiring specific characteristics. There are many factors that can influence cell differentiation, including the cell's environment, the presence of certain signaling molecules, and the cell's own intrinsic properties.\n\nCell differentiation is a necessary process for the development of complex organisms. Without cell differentiation, cells would not be able to perform their specialized functions, and the organism would not be able to develop properly. The process of cell differentiation makes the cells become specialized to perform specific functions, and this is essential for the proper development of the organism."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your topic of interest?",
+                    "Answer": "I am interested in role of various systems and factors as well as cell differentiation in the development of an organism."
+                },
+                {
+                    "Question": "What are the different types of cell differentiation?",
+                    "Answer": "There are many types of cell differentiation, but some of the most common include neuronal, hematopoietic, and muscle cell differentiation."
+                },
+                {
+                    "Question": "What are the roles of cell differentiation in growth?",
+                    "Answer": "The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "How does cell differentiation influence an organism's development?",
+                    "Answer": "Cell differentiation is a key process in development as it helps to determine the fate of cells. For example, during embryonic development, differentiating cells will form the various tissues and organs of the body."
+                },
+                {
+                    "Question": "What are the different types of developmental systems?",
+                    "Answer": "There are many types of developmental systems, but some of the most common include the genetic, epigenetic, and cellular systems."
+                },
+                {
+                    "Question": "What is the role of each developmental system in growth?",
+                    "Answer": "Each developmental system plays a unique and important role in growth. For example, the genetic system provides the blueprint for an organism's development, while the epigenetic system regulates gene expression. The cellular system provides the building blocks for an organism's tissues and organs."
+                },
+                {
+                    "Question": "How do the different developmental systems interact with each other?",
+                    "Answer": "The different developmental systems interact with each other to ensure proper development. Developmental processes are highly interactive, context dependent, and extremely complex. There are multiple theories each with its perspective but nothing has been proved concretely."
+                },
+                {
+                    "Question": "What are the different types of growth?",
+                    "Answer": "There are many types of growth, but some of the most common include physical growth, cognitive growth, and emotional growth."
+                },
+                {
+                    "Question": "What are the roles of growth in development?",
+                    "Answer": "Growth is essential for development as it provides the raw material for cell differentiation and tissue formation. Additionally, growth helps to ensure that the various systems of the body are functioning properly."
+                },
+                {
+                    "Question": "How does growth influence an organism's development?",
+                    "Answer": "Growth is a key factor in development as it helps to determine the size, shape, and form of an organism. Different types of growth can influence development in different ways. For example, physical growth can influence the development of an organism's skeleton, while emotional growth can influence the development of an organism's personality."
+                }
+            ],
+            "Output": "The role of cell differentiation in growth and development is vital, yet complex. Cell differentiation is the process by which cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells. The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells.\n\nCell differentiation is a key process in development as it helps to determine the fate of cells. For example, during embryonic development, differentiating cells will form the various tissues and organs of the body. The process of cell differentiation is highly interactive, context dependent, and extremely complex. There are multiple theories each with its perspective but nothing has been proved concretely.\n\nGrowth is essential for development as it provides the raw material for cell differentiation and tissue formation. Additionally, growth helps to ensure that the various systems of the body are functioning properly. Growth is a key factor in development as it helps to determine the size, shape, and form of an organism. Different types of growth can influence development in different ways. For example, physical growth can influence the development of an organism's skeleton, while emotional growth can influence the development of an organism's personality.\n\nThe interplay between cell differentiation, growth, and development is crucial for the proper development of an organism. Cell differentiation and growth provide the foundation for development, while the different types of developmental systems ensure that development proceeds properly. Each developmental system plays a unique and important role in growth. For example, the genetic system provides the blueprint for an organism's development, while the epigenetic system regulates gene expression. The cellular system provides the building blocks for an organism's tissues and organs.\n\nThe different developmental systems interact with each other to ensure proper development. Developmental processes are highly interactive, context dependent, and extremely complex. There are multiple theories each with its perspective but nothing has been proved concretely. The different types of growth also play an important role in development. For example, physical growth can influence the development of an organism's skeleton, while emotional growth can influence the development of an organism's personality.\n\nThe role of cell differentiation, growth, and development is essential for the proper development of an organism. Each of these processes is highly complex and interactive, and they all play a vital role in the development of an organism."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your topic of interest?",
+                    "Answer": "I am interested in understanding different factors and systems in the development of an organism."
+                },
+                {
+                    "Question": "What are the roles of cell differentiation in growth?",
+                    "Answer": "The process of cell differentiation makes the cells become specialized to perform specific functions. Differentiated cells are able to carry out their specific functions because they have different sets of genes than undifferentiated cells."
+                },
+                {
+                    "Question": "What is the role of cell death in development?",
+                    "Answer": "Cell death is an important process by which the unrequired cells are removed. It is essential for the proper development of tissues and organs."
+                },
+                {
+                    "Question": "What are the roles of cell communication in development?",
+                    "Answer": "Cell communication is important for the proper development of an organism. Cell-cell interactions play a role in the development of an organism by allowing cells to communicate with each other. This communication is important for coordinating the activities of different cell types."
+                },
+                {
+                    "Question": "What are the roles of growth factors in development?",
+                    "Answer": "Growth factors play a role in the development of an organism by controlling the growth and development of cells. They are important for the regulation of cell proliferation and differentiation."
+                },
+                {
+                    "Question": "What is the role of the extracellular matrix in development?",
+                    "Answer": "The extracellular matrix plays a role in the development of an organism by providing a scaffold on which cells can grow and migrate."
+                },
+                {
+                    "Question": "What are the roles of cell cycle regulators in development?",
+                    "Answer": "Cell cycle regulators play a role in the development of an organism by controlling the cell cycle. They are important for ensuring that cells divide at the correct time and in the correct order."
+                },
+                {
+                    "Question": "What is the role of cell polarity in development?",
+                    "Answer": "Cell polarity is important for the proper development of an organism. It is necessary for the establishment and maintenance of the correct arrangement of cells in tissues and organs."
+                },
+                {
+                    "Question": "What is the role of the cytoskeleton in development?",
+                    "Answer": "The cytoskeleton plays a role in the development of an organism by providing a scaffold on which cells can grow and migrate. It is also important for the maintenance of cell shape and polarity."
+                },
+                {
+                    "Question": "What are the roles of cell junctions in development?",
+                    "Answer": "Cell junctions play a role in the development of an organism by coordinating the activities of different cell types. They are also important for the establishment and maintenance of cell polarity."
+                }
+            ],
+            "Output": "Differentiation of cells is necessary for growth because it allows for cells to become specialized and to perform specific functions. This is possible because differentiated cells have different sets of genes than undifferentiated cells. Cell death is also important for development as it ensures that unrequired cells are removed. This is essential for the proper development of tissues and organs. In addition, cell communication is crucial for coordinating the activities of different cell types during development.\n\nCell cycle regulators are important for controlling the cell cycle and ensuring that cells divide at the correct time. Cell polarity is also necessary for the proper development of an organism. It is involved in the establishment and maintenance of the correct arrangement of cells in tissues and organs. The cytoskeleton provides a scaffold on which cells can grow and migrate, and is also responsible for maintaining cell shape and polarity. Finally, cell junctions play a role in the development of an organism by coordinating the activities of different cell types and maintaining cell polarity."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/EYhityoDGMAv2MRS6lpJYxAm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/QZWsxdQgGVAjHeEImL4mDRDI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Tl7vuUuUYccKpA0yf2fNuEaF?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1q7XsC4SJr8lW0VUxP_-xyftYCPJ-2wGq?usp=sharing"
+}

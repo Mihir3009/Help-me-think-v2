@@ -1,0 +1,192 @@
+{
+    "Contributor": "sangarajusrihariraju",
+    "Domain": "Shopping",
+    "Task": "Shopping Agent",
+    "Prompt": {
+            "pre_question_prompt": "I am an expert shopping agent. I will ask some questions to collect information and then I will use the information to shop for you",
+            "task_specific_prompt": "Write a shopping recommendation using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "1000 dollars"
+                },
+                {
+                    "Question": "What type of items are you looking for?",
+                    "Answer": "Garments for men"
+                },
+                {
+                    "Question": "What is your preferred style?",
+                    "Answer": "Casual summer wear"
+                },
+                {
+                    "Question": "What is your preferred color scheme?",
+                    "Answer": " light colors with designs"
+                },
+                {
+                    "Question": "What size do you need?",
+                    "Answer": " L-XL"
+                },
+                {
+                    "Question": "Do you have any preferred brands?",
+                    "Answer": " no"
+                },
+                {
+                    "Question": "When do you need the items?",
+                    "Answer": "5 days"
+                },
+                {
+                    "Question": "Where are you located?",
+                    "Answer": " hyderabad"
+                },
+                {
+                    "Question": "Do you need the items shipped to you?",
+                    "Answer": " yes"
+                },
+                {
+                    "Question": "What is your preferred shipping method?",
+                    "Answer": " i need it as soon as possible"
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": " fitting should be good"
+                },
+                {
+                    "Question": "Do you have any preferred stores?",
+                    "Answer": " no"
+                },
+                {
+                    "Question": "Do you need the items gift wrapped?",
+                    "Answer": " no"
+                },
+                {
+                    "Question": "What is your preferred payment method?",
+                    "Answer": " debit card or UPI"
+                },
+                {
+                    "Question": "What is your name?",
+                    "Answer": " Ram"
+                },
+                {
+                    "Question": "What is your contact information?",
+                    "Answer": " Ram@gmail.com question: Thank you for your information. I will start shopping for you right away."
+                },
+                {
+                    "Question": "",
+                    "Answer": "Please let me know if you have any questions."
+                }
+            ],
+            "Output": "I would recommend looking for men's garments at stores like Target or Macy's. I would also recommend looking for items that are within your budget, are light in color, and are a size Large or Extra Large. I would also recommend looking for items that are Casual in style and have a good fit."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much are you willing to spend on this item?",
+                    "Answer": "20 dollards"
+                },
+                {
+                    "Question": "Do you have any specific preferences for the item?",
+                    "Answer": "I would like a black dress for kids"
+                },
+                {
+                    "Question": "What is the occasion for which you need the item?",
+                    "Answer": "A  wedding party"
+                },
+                {
+                    "Question": "When do you need the item?",
+                    "Answer": "I need it in 1 day"
+                },
+                {
+                    "Question": "Where are you located?",
+                    "Answer": "I am located in the United States"
+                },
+                {
+                    "Question": "Do you need the item shipped to you?",
+                    "Answer": "Yup"
+                },
+                {
+                    "Question": "What is your budget for shipping?",
+                    "Answer": "2 dollars"
+                },
+                {
+                    "Question": "Do you have any other instructions?",
+                    "Answer": "5 days"
+                },
+                {
+                    "Question": "Where are you located?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Would you like me to find the best deal possible or just a good deal?",
+                    "Answer": "The best deal possible."
+                },
+                {
+                    "Question": "Is there anything else I should know?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Thank you for your answers. I will begin shopping for you now.",
+                    "Answer": ""
+                },
+                {
+                    "Question": "Would you like me to keep you updated on my progress?",
+                    "Answer": "yes"
+                }
+            ],
+            "Output": "I recommend that you purchase the black dress for kids from Amazon.com. They have a wide selection of dresses to choose from and they offer free shipping on orders over $25. I found a black dress that is similar to the one you are looking for and it is available for $20.99."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much are you willing to spend on this item?",
+                    "Answer": "100"
+                },
+                {
+                    "Question": "What is the item you would like me to find for you?",
+                    "Answer": "Mobilesphone"
+                },
+                {
+                    "Question": " What is your preferred brand?",
+                    "Answer": "Apple"
+                },
+                {
+                    "Question": "What color would you like?",
+                    "Answer": "Rose gold"
+                },
+                {
+                    "Question": "What size would you like?",
+                    "Answer": " 6 inch hd screen"
+                },
+                {
+                    "Question": "What storage capacity would you like?",
+                    "Answer": " 128gb"
+                },
+                {
+                    "Question": " Would you like a contract or pay as you go?",
+                    "Answer": " Contract"
+                },
+                {
+                    "Question": "Which network would you like?",
+                    "Answer": "jio"
+                },
+                {
+                    "Question": "Do you have any other specific requirements?",
+                    "Answer": "I need a phone with a good camera"
+                },
+                {
+                    "Question": "",
+                    "Answer": "Based on the information provided, we would recommend the Apple iPhone 8 Plus 128GB in rose gold. The phone has a 6 inch hd screen, 128gb storage capacity, and a good camera. The phone is available on Jio network."
+                }
+            ],
+            "Output": "We would recommend the Apple iPhone 8 Plus 128GB in rose gold. The phone has a 6 inch hd screen, 128gb storage capacity, and a good camera. The phone is available on Jio network."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/s9vAyZUAvqk32a4WFfrY6KZI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RNaUFZ5Kg8PJT7yNx7zyfchx?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/wVWClDdO1KGPpub4lMoUdwQo?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1mdXlSEo6mhg3DbvIacWSc53jhmT8RoDM?usp=sharing"
+}

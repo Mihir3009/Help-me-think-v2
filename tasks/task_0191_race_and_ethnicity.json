@@ -1,0 +1,172 @@
+{
+    "Contributor": "sharmashivam",
+    "Domain": "Race and Ethnicity",
+    "Task": "poems",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing poems on Race and Ethnicity. I will ask some questions to collect information and then I will use the information to write a poem.",
+        "task_specific_prompt": "Write a poem on Race and Ethnicity using the question and answers above. Write more than 10 lines."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your experience with race and ethnicity?",
+                    "Answer": "I am a black woman who was born and raised in the inner city. I've experienced racism and discrimination firsthand. I've seen how race and ethnicity can divide people and how it can be used to advantage or disadvantage certain groups. I'm also aware of the history of race and ethnicity in America and how it has shaped our country today."
+                },
+                {
+                    "Question": "What are your thoughts on race and ethnicity?",
+                    "Answer": "I believe that race and ethnicity are important factors to consider when understanding someone's background and identity. However, I also believe that we should not let race and ethnicity divide us. We are all human beings and we should be treated as such."
+                },
+                {
+                    "Question": "How do you think race and ethnicity will impact your future?",
+                    "Answer": "I think that race and ethnicity will continue to be important factors in my life. I will continue to face racism and discrimination, but I will also continue to be proud of my blackness and my African heritage. I will continue to learn about race and ethnicity and how it impacts the world around me."
+                },
+                {
+                    "Question": "What do you think about the current state of race relations in America?",
+                    "Answer": "I think that the current state of race relations in America is troubling. There is a lot of tension and division between different groups. I hope that we can eventually come together and learn to respect and understand each other despite our differences."
+                },
+                {
+                    "Question": "Do you have any suggestions on how to improve race relations in America?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. We need to learn about and understand the experiences of others. We also need to learn to respect and value diversity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with race and ethnicity?",
+                    "Answer": "I believe that race and ethnicity are important factors to consider when understanding someone's background and identity. However, I also believe that we should not let race and ethnicity divide us. We are all human beings and we should be treated as such."
+                },
+                {
+                    "Question": "Do you have any suggestions on how to improve race relations in America?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. We need to learn about and understand the experiences of others. We also need to learn to respect and value diversity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with race and ethnicity?",
+                    "Answer": "I believe that race and ethnicity are important factors to consider when understanding someone's background and identity. However, I also believe that we should not let race and ethnicity divide us. We are all human beings and we should be treated as such."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of race relations in America?",
+                    "Answer": "I think that the current state of race relations in America is troubling. There is a lot of tension and division between different groups. I hope that we can eventually come together and learn to respect and understand each other despite our differences."
+                },
+                {
+                    "Question": "Do you have any suggestions on how to improve race relations in America?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. We need to learn about and understand the experiences of others. We also need to learn to respect and value diversity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with race and ethnicity?",
+                    "Answer": "I believe that race and ethnicity are important factors to consider when understanding someone's background and identity. However, I also believe that we should not let race and ethnicity divide us. We are all human beings and we should be treated as such."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of race relations in America?",
+                    "Answer": "I think that the current state of race relations in America is troubling. There is a lot of tension and division between different groups. I hope that we can eventually come together and learn to respect and understand each other despite our differences."
+                },
+                {
+                    "Question": "Do you have any suggestions on how to improve race relations in America?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. We need to learn about and understand the experiences of others. We also need to learn to respect and value diversity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with race and ethnicity?",
+                    "Answer": "I believe that race and ethnicity are important factors to consider when understanding someone's background and identity. However, I also believe that we should not let race and ethnicity divide us. We are all human beings and we should be treated as such."
+                }
+            ],
+            "Output": "Different colors\nDifferent cultures\nDifferent ethnicities\n\nWe are all different\nBut we are all the same\nWe are all human beings\n\nWe should not let race or ethnicity\nDivide us\n\nWe should learn about and understand\nThe experiences of others\n\nWe should respect and value diversity\n\nWe are all human beings\nAnd we should be treated as such"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your experience with race and ethnicity?",
+                    "Answer": "I am a black woman who was born and raised in the south. I have experienced racism and discrimination firsthand. I have also seen how race and ethnicity can divide people."
+                },
+                {
+                    "Question": "How do you think race and ethnicity affects society?",
+                    "Answer": "I think race and ethnicity affects society in a number of ways. It can create divides between people, it can lead to discrimination and prejudice, and it can also lead to misunderstanding and conflict."
+                },
+                {
+                    "Question": "What do you think should be done to improve race relations in society?",
+                    "Answer": "I think that education is key when it comes to improving race relations in society. People need to be taught about the history of race and ethnicity, and they need to be taught to respect and appreciate people of all races and ethnicities."
+                },
+                {
+                    "Question": "Do you have any suggestions for how to overcome racism and prejudice?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. These conversations can help to break down barriers and to create understanding. It is also important to stand up against racism and prejudice when you see it happening."
+                },
+                {
+                    "Question": "Do you have any final thoughts on race and ethnicity?",
+                    "Answer": "I think that race and ethnicity are important parts of who we are as people. We should celebrate our differences, and we should also work to overcome the racism and prejudice that still exists in our world."
+                },
+                {
+                    "Question": "Do you have a poem about race and ethnicity that you would like to share?",
+                    "Answer": "I am black, I am proud  I am black, I am proud Of my skin, my hair, my culture I am black, I am strong And I will not be silenced I am black, I am beautiful And I will not be ignored I am black, I am powerful And I will not be denied I am black, and I am proud Of who I am, and what I represent I am black, and I will not be denied My voice, my power, my beauty I am black, and I am proud"
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. These conversations can help to break down barriers and to create understanding. It is also important to stand up against racism and prejudice when you see it happening."
+                },
+                {
+                    "Question": "Would you like me to write a poem about your experience with race and ethnicity?",
+                    "Answer": "Yes, I would love for you to write a poem about my experience with race and ethnicity."
+                },
+                {
+                    "Question": "Do you have any specific topics or themes that you would like me to focus on?",
+                    "Answer": "I would like for you to focus on my experience as a black woman who has experienced racism and discrimination firsthand."
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "I think that it is important to have open and honest conversations about race and ethnicity. These conversations can help to break down barriers and to create understanding. It is also important to stand up against racism and prejudice when you see it happening."
+                }
+            ],
+            "Output": "\"I am black, I am proud\"\n\nI am black, I am proud\nOf my skin, my hair, my culture\nI am black, I am strong\nAnd I will not be silenced\nI am black, I am beautiful\nAnd I will not be ignored\nI am black, I am powerful\nAnd I will not be denied\nI am black, and I am proud\nOf who I am, and what I represent\nI am black, and I will not be denied\nMy voice, my power, my beauty\nI am black, and I am proud\n\nI am a black woman who was born and raised in the south. I have experienced racism and discrimination firsthand. I have also seen how race and ethnicity can divide people. I think that education is key when it comes to improving race relations in society. People need to be taught about the history of race and ethnicity, and they need to be taught to respect and appreciate people of all races and ethnicities. I think that it is important to have open and honest conversations about race and ethnicity. These conversations can help to break down barriers and to create understanding. It is also important to stand up against racism and prejudice when you see it happening. I think that"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your experiences with race and ethnicity?",
+                    "Answer": "I have experienced racism and discrimination based on my race and ethnicity. I have also experienced cultural differences and misunderstandings due to my race and ethnicity."
+                },
+                {
+                    "Question": "How do you think race and ethnicity influence your life?",
+                    "Answer": "Race and ethnicity influence my life in many ways. They influence the way I see myself, the way I interact with others, and the opportunities I have in life."
+                },
+                {
+                    "Question": "What do you think about race and ethnicity in society?",
+                    "Answer": "I think that race and ethnicity are important factors in society. They can be used to create divides between people, but they can also be used to bring people together."
+                },
+                {
+                    "Question": "How do you think race and ethnicity will influence your future?",
+                    "Answer": "I think that race and ethnicity will continue to influence my future in many ways. They will influence the way I see myself, the way I interact with others, and the opportunities I have in life."
+                },
+                {
+                    "Question": "What are your hopes for the future of race and ethnicity in society?",
+                    "Answer": "I hope that race and ethnicity will become less important factors in society. I hope that people will be able to see beyond race and ethnicity and that we will all be treated equally."
+                },
+                {
+                    "Question": "What do you think needs to be done to improve race relations in society?",
+                    "Answer": "I think that we need to have more open and honest conversations about race and ethnicity. We need to learn about and understand the experiences of others. We need to work together to create a society that is more inclusive and equitable for all."
+                },
+                {
+                    "Question": "Do you have any final thoughts on race and ethnicity?",
+                    "Answer": "I think that race and ethnicity are important factors in our lives. We need to learn about and understand the experiences of others. We need to work together to create a society that is more inclusive and equitable for all."
+                },
+                {
+                    "Question": "What is your race and ethnicity?",
+                    "Answer": "I am a black man of African descent."
+                },
+                {
+                    "Question": "What are your experiences with race and ethnicity?",
+                    "Answer": "I have experienced racism and discrimination based on my race and ethnicity. I have also experienced cultural differences and misunderstandings due to my race and ethnicity."
+                },
+                {
+                    "Question": "How do you think race and ethnicity influence your life?",
+                    "Answer": "Race and ethnicity influence my life in many ways. They influence the way I see myself, the way I interact with others, and the opportunities I have in life."
+                },
+                {
+                    "Question": "What do you think about race and ethnicity in society?",
+                    "Answer": "I think that race and ethnicity are important factors in society. They can be used to create divides between people, but they can also be used to bring people together."
+                }
+            ],
+            "Output": "We are all different\nYet the same\nWe are all human\n\nWe come in different colors\nDifferent shapes and sizes\nBut we are all equal\n\nWe all have our own experiences\nOur own cultures and traditions\nBut we are all connected\n\nWe all face challenges\nDue to our race or ethnicity\nBut we can overcome them\n\nWe need to learn about each other\nSo that we can understand\nAnd accept each other\n\nOnly then can we move forward\nAs one human race\n united and strong"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/du0YCpts1rMK97JrQgcukOnF?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/shPtsqHjBoK77uMWZrT7anNX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/gmtTiutF0gB0PRSpl8ySiFWf?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jL3SrSflUMqeQ0Uqn0FuUJI5IvDdmM0J?usp=sharing"
+}

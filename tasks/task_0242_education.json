@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Education",
+    "Task": "Taking standard English tests",
+    "Prompt": {
+        "pre_question_prompt": "in standard English tests",
+        "task_specific_prompt": "take a standard English test"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your native language?",
+                    "Answer": "My native language is French."
+                },
+                {
+                    "Question": "Have you ever taken an English test before?",
+                    "Answer": "Yes, I have taken the IELTS exam before."
+                },
+                {
+                    "Question": "What is your current level of English proficiency?",
+                    "Answer": "My current level of English proficiency is B2 Upper Intermediate."
+                },
+                {
+                    "Question": "Why do you want to take a standard English test?",
+                    "Answer": "I want to take a standard English test to apply to a university in the United States."
+                },
+                {
+                    "Question": "What is your goal score on the test?",
+                    "Answer": "My goal score on the test is 7.0, which equals the C1 Advanced level."
+                },
+                {
+                    "Question": "When do you plan on taking the test?",
+                    "Answer": "I plan on taking the test in October, which is three months from now."
+                },
+                {
+                    "Question": "Have you started preparing for the test?",
+                    "Answer": "Yes, I have started preparing for the test by studying vocabulary and taking mock exams."
+                },
+                {
+                    "Question": "Do you need any help preparing for the test?",
+                    "Answer": "Yes, I need a native speaker to correct my pronunciation."
+                },
+                {
+                    "Question": "Would you like me to recommend a standard English test for you?",
+                    "Answer": "Yes, I would like you to tell me whether IELTS or TOEFL suits me more."
+                },
+                {
+                    "Question": "Would you like me to help you prepare for the test?",
+                    "Answer": "Yes, I would like you to help me prepare for the test by practicing with me, providing me with test materials and giving me feedback on my progress."
+                }
+            ],
+            "Output": "I am a French native speaker who has taken the IELTS exam before. My current level of English proficiency is B2 Upper Intermediate. I want to take a standard English test to apply to a university in the United States. My goal score on the test is 7.0. I plan on taking the test in October, which is three months from now. I have started preparing for the test by studying vocabulary and taking mock exams. I need a native speaker to correct my pronunciation. I would like you to tell me whether IELTS or TOEFL suits me more. I would like you to help me prepare for the test by practicing with me, providing me with test materials and giving me feedback on my progress."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your native language?",
+                    "Answer": "My native language is German."
+                },
+                {
+                    "Question": "Have you ever taken an English test before?",
+                    "Answer": "I have taken the TOEFL test before."
+                },
+                {
+                    "Question": "What is your current level of English?",
+                    "Answer": "I would say my current level of English is advanced."
+                },
+                {
+                    "Question": "Why do you want to take an English test?",
+                    "Answer": "I want to take an English test because I am interested in studying at an English-speaking university."
+                },
+                {
+                    "Question": "What do you think will be the most difficult part of taking an English test?",
+                    "Answer": "I think the most difficult part of taking an English test will be the listening comprehension section."
+                },
+                {
+                    "Question": "What are your goals for taking an English test?",
+                    "Answer": "My goals for taking an English test are to improve my English proficiency and to score high enough to be accepted into an English-speaking university."
+                },
+                {
+                    "Question": "Have you started studying for your English test yet?",
+                    "Answer": "I have started studying for my English test already."
+                },
+                {
+                    "Question": "How often do you study English?",
+                    "Answer": "I study English every day."
+                },
+                {
+                    "Question": "What do you think are the best methods for studying for an English test?",
+                    "Answer": "I think the best methods for studying for an English test are to practice listening to English as often as possible and to do a lot of reading and writing in English."
+                },
+                {
+                    "Question": "What is your plan for taking the English test",
+                    "Answer": "My plan for taking the test is to take a practice test first to see what areas I need to focus on and then to take the actual test."
+                }
+            ],
+            "Output": "I am a German native speaker who has taken the TOEFL test before. My current level of English is advanced. I want to take an English test because I am interested in studying at an English-speaking university. I think the most difficult part of taking an English test will be the listening comprehension section. My goals for taking an English test are to improve my English proficiency and to score high enough to be accepted into an English-speaking university. I have started studying for my English test already and I study English every day. I think the best methods for studying for an English test are to practice listening to English as often as possible and to do a lot of reading and writing in English. My plan for taking the test is to take a practice test first to see what areas I need to focus on and then to take the actual test."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your level of English?",
+                    "Answer": "I would say my level of English is pretty good. I can hold a conversation and understand most things I read or hear."
+                },
+                {
+                    "Question": "What do you need to use English for?",
+                    "Answer": "I need to use English for work and travel."
+                },
+                {
+                    "Question": "What are your goals for learning English?",
+                    "Answer": "My goals for learning English are to be able to converse more fluently and to be able to understand native speakers more easily."
+                },
+                {
+                    "Question": "How much time are you willing to spend studying English each week?",
+                    "Answer": "I am willing to spend about 2 hours each week studying English."
+                },
+                {
+                    "Question": "What methods do you prefer for studying English?",
+                    "Answer": "I prefer to study English by listening to audio materials and practicing conversation with a native speaker."
+                },
+                {
+                    "Question": "What obstacles have you faced in learning English?",
+                    "Answer": "I have found that one of the biggest obstacles I face in learning English is not being able to practice it regularly."
+                },
+                {
+                    "Question": "What do you think are your strengths and weaknesses in English?",
+                    "Answer": "I think my strengths in English are my grammar and vocabulary. My weaknesses are probably my pronunciation and listening comprehension."
+                },
+                {
+                    "Question": "What resources have you used for learning English?",
+                    "Answer": "I have used a variety of resources for learning English, including books, movies, music, and websites."
+                },
+                {
+                    "Question": "What do you think is the best way to learn English?",
+                    "Answer": "I think the best way to learn English is by practicing, just practicing it as often as possible with native speakers."
+                },
+                {
+                    "Question": "What are your plans for learning English in the future?",
+                    "Answer": "In the future, I plan on continuing to practice English. I also want to try to find more resources that can help me learn English, such as books, movies, and websites."
+                }
+            ],
+            "Output": "I am a proficient English speaker who wants to take a standard English test in order to practice and improve my skills. I am willing to spend a few hours each week studying, and my preferred method is listening to audio materials and practicing conversation with a native speaker. I do not face many obstacles in learning English, but my strengths are grammar and vocabulary while my weaknesses are pronunciation and listening comprehension. In the future, I plan to continue practicing English as often as possible."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/iLzk84FVCydI3wsd6bHzUraj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YbQVBFTFUKJyVm0kKFYNeGDQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GMh7mDIG84ksl9ih84AxcA1v?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Wq2GnyjbVfYOk_7pvOjZqmtCdcUEN8JY?usp=sharing"
+}

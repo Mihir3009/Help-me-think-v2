@@ -1,0 +1,152 @@
+{
+    "Contributor": "sathyanarayanavishal",
+    "Domain": "Business",
+    "Task": "Help expand the business globally",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Business. I will ask some questions to collect information and then I will use the information to help you expand your business globally.",
+        "task_specific_prompt": "Write a plan to expand my business globally using the questions and answers above. Add more context and give more details."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business goals?",
+                    "Answer": "My business goals are to expand my business globally and to increase my profits and reach."
+                },
+                {
+                    "Question": "What are your target markets?",
+                    "Answer": "My target markets are cookie consumers all across the world."
+                },
+                {
+                    "Question": "What are your products or services?",
+                    "Answer": "I sell delicious cookies that are made from the finest plant-based, 100% vegan ingredients."
+                },
+                {
+                    "Question": "What are your unique selling points?",
+                    "Answer": "My unique selling points are that my cookies are vegan and made from the finest plant-based ingredients. These cookies are low fat, low calories and extra tasty."
+                },
+                {
+                    "Question": "How will you reach your target markets?",
+                    "Answer": "I will reach my target markets by advertising my cookies on vegan and health-focused websites and blogs. I will also distribute flyers and brochures in health food stores and vegan restaurants. Furthermore, I would reach out to social media influencers from different backgrounds and countries to help reach a wider customer base."
+                },
+                {
+                    "Question": "What are your expansion plans?",
+                    "Answer": "My expansion plans are to open a cookie factory in every major city in the world."
+                },
+                {
+                    "Question": "What are the risks and challenges associated with expanding your business globally?",
+                    "Answer": "The risks and challenges associated with expanding my business globally are finding the right partners and suppliers, complying with regulations in different countries, and managing a complex supply chain. Additionally, I would need to carefully consider marketing strategies that would be appropriate for a global audience."
+                },
+                {
+                    "Question": "What are your long-term goals for your business?",
+                    "Answer": "My long-term goals for my business are to continue to grow and expand globally, while maintaining the highest quality standards for my products. I also want to continue to innovate and create new vegan cookie flavours that will appeal to a wide range of customers."
+                },
+                {
+                    "Question": "What are your thoughts on franchising?",
+                    "Answer": "I think franchising is a great way to expand my business globally. Franchising would allow me to maintain control over the quality of my product, while also giving me the ability to grow my brand quickly in different markets."
+                },
+                {
+                    "Question": "What are your thoughts on licensing?",
+                    "Answer": "I don't like licensing as much, as I won't be able to control and ensure the quality and use of our proprietary cookie recipe."
+                }
+            ],
+            "Output": "1. Research potential markets for expansion. This includes considering the following factors: population, purchasing power, economic stability, infrastructure, political stability, and cultural appropriateness. 2. Find the right partners and suppliers in each country. This includes vetting them for quality, reliability, and cost.3. Comply with regulations in each country. This includes understanding and following the rules for food production, packaging, and labeling. 4. Manage a complex supply chain. This includes coordinating with different suppliers in different countries, ensuring that products are shipped on time and in good condition. 5. Develop an appropriate marketing strategy. This includes understanding the cultural nuances of each country and crafting messages that will resonate with the target audience. 6. Open a cookie factory in every major city in the world. This will allow us to produce cookies fresh for each market and ensure the highest quality standards. 7. Innovate and create new cookie flavours. This will help us appeal to a wider range of customers and keep our brand fresh."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business goals?",
+                    "Answer": "To reach a wider audience all across the planet."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "Our target market consists of students who would like to upskill and get better jobs."
+                },
+                {
+                    "Question": "What are your marketing strategies?",
+                    "Answer": "We are using various digital marketing strategies such as SEO, social media marketing, and content marketing. We have also partnered with popular actors and influencers to get the word out."
+                },
+                {
+                    "Question": "What are your expansion plans?",
+                    "Answer": "We are looking to expand our operations to different countries so that we can reach and help more students."
+                },
+                {
+                    "Question": "What are the biggest challenges you face when expanding your business globally?",
+                    "Answer": "The main challenge is making sure that our website and content are accessible in different languages. We also need to be aware of different cultural norms and make sure that we are not offending anyone."
+                },
+                {
+                    "Question": "What are your thoughts on global business?",
+                    "Answer": "I think that global business is a great way to reach a wider audience and help more people. However, a lot of unforeseen problems may arise due to lack of local knowledge."
+                },
+                {
+                    "Question": "Do you have any advice for others who are looking to expand their businesses globally?",
+                    "Answer": "Make sure that you are aware of the different challenges that you may face. Do your research and make sure that you have a solid plan before expanding."
+                },
+                {
+                    "Question": "What are your thoughts on the future of global business?",
+                    "Answer": "I think that global business will continue to grow and reach new heights. I think that more and more businesses will start to expand their operations to different countries."
+                },
+                {
+                    "Question": "Do you have any advice for others who are looking to start a global business?",
+                    "Answer": "Do your research and stick to the fundamentals. "
+                },
+                {
+                    "Question": "What are the benefits and drawbacks of global business?",
+                    "Answer": "Some benefits of global business include reaching a wider audience, increased profits, and gaining a competitive edge. However, some drawbacks may include cultural differences, language barriers, and political instability."
+                }
+            ],
+            "Output": "1. Research your target market: When expanding your business globally, it is important to first research your target market. You need to understand the needs and wants of your target market in order to be successful. 2. Create a marketing strategy: Once you know who your target market is, you need to create a marketing strategy that will reach them. There are many different marketing channels that you can use, so make sure to choose the ones that will work best for your target market. 3. Make a plan: Before expanding your business globally, you need to make a plan. This plan should include your goals, your strategies, and how you will overcome any challenges that you may face. 4. Execute your plan: After you have created your plan, it is time to execute it. This includes setting up your operations in different countries, hiring local staff, and marketing your business to your target market. 5. Evaluate your results: Once you have been in operation for a while, it is important to evaluate your results. This will help you to see what is working and what is not. Make sure to adjust your plan accordingly so that you can continue to be successful."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your company's main products or services?",
+                    "Answer": "Our company's main service is to make digital payments seamless and instant."
+                },
+                {
+                    "Question": "What are your expansion goals?",
+                    "Answer": "Our expansion goals are to make our service available in as many countries as possible and to make it the preferred choice for digital payments."
+                },
+                {
+                    "Question": "What are the main markets you are targeting?",
+                    "Answer": "Our main markets are the United States, Canada, Europe, UAE, and India."
+                },
+                {
+                    "Question": "What are the main challenges you are facing in expanding your business?",
+                    "Answer": "The main challenges we are facing are regulatory compliance, finding the right partners and setting up the infrastructure needed to effectively provide our service."
+                },
+                {
+                    "Question": "What is your company's current position in the global market?",
+                    "Answer": "Our company is currently ranked as the largest digital payment service provider in the world."
+                },
+                {
+                    "Question": "What are your company's main strengths?",
+                    "Answer": "Our company's main strengths are our technology, our team and our culture."
+                },
+                {
+                    "Question": "What are your company's main weaknesses?",
+                    "Answer": "Our company's main weaknesses are our lack of brand awareness and our reliance on the government and banking institutions."
+                },
+                {
+                    "Question": "What is your company's competitive advantage?",
+                    "Answer": "Our company's competitive advantage is our technology. We have developed a proprietary system that allows us to process digital payments instantaneously."
+                },
+                {
+                    "Question": "What are your company's growth plans?",
+                    "Answer": "Our company's growth plans are to continue to invest in our technology and to expand our reach into new markets."
+                },
+                {
+                    "Question": "What are the main risks and opportunities you are facing?",
+                    "Answer": "The main risks we are facing are regulatory risk and the potential for new entrants to enter the market. The main opportunity we are facing is the continued growth of the digital payments market."
+                }
+            ],
+            "Output": "To expand our business globally, we need to focus on a few key areas: 1. Regulatory compliance: We need to make sure that we are compliant with all local regulations in each market we enter. 2. Finding the right partners: We need to find the right local partners who can help us with things like setting up the necessary infrastructure and marketing our service. 3. Investing in our technology: We need to continue to invest in our technology so that we can maintain our competitive advantage. 4. Expanding our reach: We need to expand our reach into new markets so that we can grow our customer base."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/JYchPLE2J0OyJeOBzDuvcEj8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/QTuhNfWPsVJoQMWi7cf3CeLm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5oGVC3PwMRweJX6jDK3upb68?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1wwvwP0WjMf-L-2ePgNeQ_aQHklsIHcGB?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "slaytonstephen",
+    "Domain": "Research",
+    "Task": "Research paper proposal generation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert research idea generator. I will ask some questions to collect information and then I will use the information to generate research topics for you.",
+        "task_specific_prompt": "Write a proposal for a research paper using the questions and answers above. Use academic language."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your area of interest?",
+                    "Answer": "I am interested in the area of marketing."
+                },
+                {
+                    "Question": "What are some of the problems you have observed in your area of interest?",
+                    "Answer": "Some of the problems I have observed in marketing are poor results and a lack of innovation."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "By following the research efforts at ASU, the university #1 in innovation, marketing efforts will undoubtedly be effective."
+                },
+                {
+                    "Question": "What are some other areas you are interested in?",
+                    "Answer": "Using techniques found in computer science to improve marketing efforts."
+                },
+                {
+                    "Question": "What are some problems you have observed in these other areas?",
+                    "Answer": "The computer science field has not yet found a way to 100% control what people buy and how they buy it."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "1. Finding new ways to collect data\n2. Applying artificial intelligence to marketing\n3. Sell soul to linux daemon for unprecedented algorithm prowess."
+                },
+                {
+                    "Question": "Are you interested in any specific marketing strategies?",
+                    "Answer": "I am interested in digital marketing, guerilla marketing, and product placement. Also door-to-door sales, but with drones."
+                },
+                {
+                    "Question": "What are some problems you have observed with these strategies?",
+                    "Answer": "Some problems I have observed are that digital marketing can be easily ignored, guerilla marketing can be disruptive, product placement can be subtle to the point of ineffectiveness, and people steal the drones."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "1. Make digital marketing more interactive\n2. Be more selective with guerilla marketing\n3. Be more blatant with product placement\n4. Put a GPS tracker on the drones"
+                },
+                {
+                    "Question": "Do you have any other interests?",
+                    "Answer": "I am interested in the area of mathematics."
+                }
+            ],
+            "Output": "In recent years, marketing has become increasingly complex and difficult to navigate. With the advent of new technology, and more sophisticated consumers, marketing must adapt or face obsolescence. This paper will explore some of the issues facing marketing today, as well as potential solutions. In particular, we will focus on digital marketing, guerilla marketing, and product placement. By understanding the problems and potential solutions of these strategies, we can adapt and improve marketing as a whole."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your area of interest?",
+                    "Answer": "I am interested in the area of AI text generation."
+                },
+                {
+                    "Question": "What are some of the problems you have observed in your area of interest?",
+                    "Answer": "While some impressive strides have been made in the field, AI generated text is still not as good as human generated text."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "That is what I want to research"
+                },
+                {
+                    "Question": "What are some other areas you are interested in?",
+                    "Answer": "Computer science and machine learning."
+                },
+                {
+                    "Question": "What are some problems you have observed in these other areas?",
+                    "Answer": "It can be difficult and time consuming to obtain good data and train the model on it."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "Making a more efficient training algorithm that produces good quality models with less data."
+                },
+                {
+                    "Question": "Are you interested in any specific marketing strategies?",
+                    "Answer": "Not really, other than lots of good buzzwords so the paper can be published."
+                },
+                {
+                    "Question": "What are some problems you have observed with these strategies?",
+                    "Answer": "None, I haven't utilized the strategy before. I supposed it could backfire if someone sees through it."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "Use so many buzzwords that everyone is afraid to call you on it."
+                },
+                {
+                    "Question": "Do you have any other interests?",
+                    "Answer": "I am interested in the area of deep learning."
+                }
+            ],
+            "Output": "In recent years, there have been great strides made in the field of artificial intelligence text generation. However, AI generated text still falls short of human generated text in terms of quality. This research paper seeks to explore potential solutions to this problem. Two possible solutions will be examined. The first is making a more efficient training algorithm that requires less data. The second is increasing the use of data augmentation techniques. The paper will also explore the potential implications of these solutions."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your area of interest?",
+                    "Answer": "I am interested in the area of procedural generation of game content."
+                },
+                {
+                    "Question": "What are some of the problems you have observed in your area of interest?",
+                    "Answer": "A lot of procedural generation systems fail to produce interesting output because any random output strongly resembles other random output."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "The randomness of the algorithm can be turned up, but the generated results must still fall within certain parameters dictated by the nature of the game."
+                },
+                {
+                    "Question": "What are some other areas you are interested in?",
+                    "Answer": "Using AI to play procedurally generated games to better improve the generation algorithm."
+                },
+                {
+                    "Question": "What are some problems you have observed in these other areas?",
+                    "Answer": "Using a machine learning approach is difficult due to the massive amount of games that must be simulated. Incorporating the feedback from the AI agent to the procedural generation algorithm is also difficult."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "Ask the all-knowing GPT-3 oracle for the solution."
+                },
+                {
+                    "Question": "Are you interested in any specific marketing strategies?",
+                    "Answer": "Not really, only strategies that allow my paper to be widely cited."
+                },
+                {
+                    "Question": "What are some problems you have observed with these strategies?",
+                    "Answer": "It is tough to come up with them."
+                },
+                {
+                    "Question": "What are some potential solutions to these problems?",
+                    "Answer": "Ask researchers in the field what they look for in a paper."
+                },
+                {
+                    "Question": "Do you have any other interests?",
+                    "Answer": "I am interested in the area of 3d geometry."
+                }
+            ],
+            "Output": "In this paper, we propose a new method for procedural generation of game content that overcomes the problem of producing interesting output. Our method turns up the randomness of the algorithm, but the generated results still fall within certain parameters dictated by the nature of the game. We also show how our method can be used to generate new game content on the fly, without the need for pre-processing."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/t324tWfsiM9WtjYAs6V8z8vU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/06zggl0k0vIF8Mvi0DP4bwIP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4XOnwYLeQtUkM2XnhLQ8zLSg?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1z_P3hpOEFY-oGGKkYEqGtQ4VayKe3sgz?usp=sharing"
+}
