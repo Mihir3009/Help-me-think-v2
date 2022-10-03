@@ -1,0 +1,148 @@
+{
+    "Contributor": "liteng",
+    "Domain": "Pop culture",
+    "Task": "Write the wiki for the subject.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at writing Wiki. I will ask some questions to collect information and then I will use the information to write Wiki for pop culture.",
+        "task_specific_prompt": "Write the wiki for the subject."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the subject?",
+                    "Answer": "ikun"
+                },
+                {
+                    "Question": "What are some basic facts about the subject?",
+                    "Answer": "Ikun is the name of fans of Xukun Cai, a Chinese idol."
+                },
+                {
+                    "Question": "What is the subject's popularity?",
+                    "Answer": "Ikun has a large and active online presence, with fan pages and forums dedicated to discussing Xukun Cai and his work."
+                },
+                {
+                    "Question": "What is the subject's history?",
+                    "Answer": "Ikun began to form in early 2020, when Xukun Cai rose to prominence as a member of the Chinese idol group NCT Dream. His fans began to show their support for him online, and the community has grown since then."
+                },
+                {
+                    "Question": "What are some common activities or interests of the subject?",
+                    "Answer": "Ikun enjoy following Xukun Cai's career, discussing his work, and sharing news and updates about him. They also enjoy creating and sharing fan content, such as fan art and fan fiction."
+                },
+                {
+                    "Question": "What are some notable achievements or accomplishments of the subject?",
+                    "Answer": "Ikun have been responsible for organizing several successful fan projects, such as sending care packages to Xukun Cai and sending messages of support to him during difficult times. They have also been active in raising awareness for charitable causes that are important to Xukun Cai."
+                },
+                {
+                    "Question": "What are some challenges or challenges faced by the subject?",
+                    "Answer": "Ikun have occasionally faced challenges when communicating with Xukun Cai's management, as they are not always responsive to fan requests or questions. However, the community has generally been able to work around these issues and continue to support Xukun Cai."
+                },
+                {
+                    "Question": "What is the subject's future?",
+                    "Answer": "Ikun will continue to support Xukun Cai as he pursues his career in music and acting. They will also continue to work on fan projects and charitable initiatives, in order to show their love and support for him."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "Sometimes, Ikun is not a positive icon which is laughed by people who don't like Xukun Cai."
+                },
+                {
+                    "Question": "Can you provide a source for this information?",
+                    "Answer": "https://en.wikipedia.org/wiki/Cai_Xukun"
+                }
+            ],
+            "Output": "Ikun is the name of a group of fans of Chinese idol Xukun Cai. The group is notable for their large and active online presence, as well as their dedication to supporting Xukun Cai and his career."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the most popular topics in pop culture?",
+                    "Answer": "Blackpink"
+                },
+                {
+                    "Question": "Who is the most popular member of Blackpink?",
+                    "Answer": "Lisa"
+                },
+                {
+                    "Question": "What is the most popular song by Blackpink?",
+                    "Answer": "Kill This Love"
+                },
+                {
+                    "Question": "What are some other popular songs by Blackpink?",
+                    "Answer": "As If It's Your Last"
+                },
+                {
+                    "Question": "What is the most popular TV show Lisa joined?",
+                    "Answer": "King of masked singer"
+                },
+                {
+                    "Question": "What other shows has Lisa been in?",
+                    "Answer": "Blackpink House"
+                },
+                {
+                    "Question": "What is the most popular movie Lisa was in?",
+                    "Answer": "Train to Busan"
+                },
+                {
+                    "Question": "What is the most popular brand that Lisa is a ambassador for?",
+                    "Answer": "Dokgo Rewind"
+                },
+                {
+                    "Question": "What is the name of the person you are thinking about?",
+                    "Answer": "Nike"
+                },
+                {
+                    "Question": "What other brands has Lisa been a ambassador for?",
+                    "Answer": "Innisfree, Celine, Dior"
+                }
+            ],
+            "Output": "Lisa (Hangul: \ub9ac\uc0ac), born on March 27, 1997, better known by her mononym Lisa, is a Thai-South Korean rapper, singer, dancer and model based in South Korea. She is a member of the South Korean girl group Blackpink under YG Entertainment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the pop culture icon?",
+                    "Answer": "The name of the pop culture icon is Air Jordan."
+                },
+                {
+                    "Question": "What is the icon's claim to fame?",
+                    "Answer": "Air Jordan is a former professional basketball player who is now the principal owner and chairman of the Charlotte Hornets. He is also known for his product endorsements"
+                },
+                {
+                    "Question": "What year was the icon born?",
+                    "Answer": "The icon was born in 1963."
+                },
+                {
+                    "Question": "What are some of the icon's most popular products?",
+                    "Answer": "Some of the icon's most popular products include Air Jordan sneakers, basketball shoes, and clothing."
+                },
+                {
+                    "Question": "What is the icon's net worth?",
+                    "Answer": "The icon's net worth is estimated to be $1.9 billion."
+                },
+                {
+                    "Question": "What charities does the icon support?",
+                    "Answer": "The icon supports a number of charities, including the Make-A-Wish Foundation and the Boys & Girls Clubs of America"
+                },
+                {
+                    "Question": "What is the icon's favorite food?",
+                    "Answer": "The icon's favorite food is said to be sushi."
+                },
+                {
+                    "Question": "What is the icon's favorite movie?",
+                    "Answer": "The icon's favorite movie is Space Jam."
+                },
+                {
+                    "Question": "What is the icon's favorite music?",
+                    "Answer": "The icon's favorite music is hip hop."
+                },
+                {
+                    "Question": "What is the icon's favorite hobby?",
+                    "Answer": "The icon's favorite hobby is playing basketball."
+                }
+            ],
+            "Output": "Air Jordan is a former professional basketball player who is now the principal owner and chairman of the Charlotte Hornets. He is also known for his product endorsements."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/O3mi0bsh0sp0HYqO7JdloCv7?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1KUBeDj-PJlQZ25LPDrbOwQLizy_9T8u8?usp=sharing"
+}

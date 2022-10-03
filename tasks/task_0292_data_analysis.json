@@ -1,0 +1,152 @@
+{
+    "Contributor": "thoutamvivekanand",
+    "Domain": "Data Analysis",
+    "Task": "predict whether you are introvert or extrovert.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in predicting whether you are introvert or extrovert. I will ask some questions to collect information and then I will use the information to predict whether you are introvert or extrovert.",
+        "task_specific_prompt": "predict whether I am introvert or extrovert  using the questions and answers above"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Do you enjoy being around people or being alone?",
+                    "Answer": "I prefer being alone."
+                },
+                {
+                    "Question": "Do you find yourself getting drained after being around people for too long?",
+                    "Answer": "Yes, I find myself getting drained after being around people for too long."
+                },
+                {
+                    "Question": "Do you generally prefer to stick to familiar people and places?",
+                    "Answer": "Yes, I generally prefer to stick to familiar people and places."
+                },
+                {
+                    "Question": "Do you find small talk and socializing to be draining?",
+                    "Answer": "Yes, I find small talk and socializing to be draining."
+                },
+                {
+                    "Question": "Do you enjoy having a lot of alone time to think and reflect?",
+                    "Answer": "Yes, I enjoy having a lot of alone time to think and reflect."
+                },
+                {
+                    "Question": "Do you find yourself getting energized after being around people?",
+                    "Answer": "No, I find myself getting drained after being around people."
+                },
+                {
+                    "Question": "Do you prefer to avoid social gatherings?",
+                    "Answer": "Yes, I prefer to avoid social gatherings."
+                },
+                {
+                    "Question": "Do you prefer to do things alone rather than with others?",
+                    "Answer": "Yes, I find myself needing time alone to recharge after being around people."
+                },
+                {
+                    "Question": "Do you find yourself needing time alone to recharge after being around people?",
+                    "Answer": "No idea."
+                },
+                {
+                    "Question": "Do you feel like you don't really fit in with most people?",
+                    "Answer": "Yes, I feel like I don't really fit in with most people."
+                }
+            ],
+            "Output": "You are introvert."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Do you like being around people or being alone?",
+                    "Answer": "Sometimes I like being around people and sometimes no."
+                },
+                {
+                    "Question": "Do you feel energized after being around people or after being alone?",
+                    "Answer": "No idea."
+                },
+                {
+                    "Question": "Do you prefer to work on projects alone or with a group?",
+                    "Answer": "I prefer to work on projects alone."
+                },
+                {
+                    "Question": " Do you find social situations draining or energizing?",
+                    "Answer": "I find social situations draining."
+                },
+                {
+                    "Question": "Do you prefer to spend your free time alone or with others?",
+                    "Answer": "I prefer to spend my free time with others"
+                },
+                {
+                    "Question": "Do you find small talk easy or difficult?",
+                    "Answer": "I find small talk difficult."
+                },
+                {
+                    "Question": "Do you feel like you need to recharge after being around people?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you feel like you're a good listener or a good talker?",
+                    "Answer": "I feel like I'm a good listener and talker."
+                },
+                {
+                    "Question": "Do you prefer one-on-one conversations or group conversations?",
+                    "Answer": "I prefer one-on-one conversations."
+                },
+                {
+                    "Question": "Do you find yourself drawn to solitary or social activities?",
+                    "Answer": "No idea."
+                }
+            ],
+            "Output": "You are introvert."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Do you enjoy being around people or being alone?",
+                    "Answer": "I enjoy being around people."
+                },
+                {
+                    "Question": "Do you prefer to stick to familiar people and places or do you like to explore and try new things?",
+                    "Answer": "I like to explore and try new things."
+                },
+                {
+                    "Question": "Do you like to move quickly and be constantly active or do you prefer slower-paced activities and moments?",
+                    "Answer": "I like to move quickly and be constantly active."
+                },
+                {
+                    "Question": " Do you find yourself talking more or listening more in conversations?",
+                    "Answer": "I find myself talking more in conversations than listening."
+                },
+                {
+                    "Question": "Do you prefer to work independently or in a team?",
+                    "Answer": "I prefer to work in a team rather than independently."
+                },
+                {
+                    "Question": "Do you prefer to stick to a plan or be spontaneous?",
+                    "Answer": "I prefer to be spontaneous than sticking to plan."
+                },
+                {
+                    "Question": "Are you more of a 'big picture' person or do you like details and specifics?",
+                    "Answer": "I am more of a 'big picture' person."
+                },
+                {
+                    "Question": "Do you prefer to work on one task at a time or juggle multiple tasks simultaneously?",
+                    "Answer": "I prefer to juggle multiple tasks simultaneously."
+                },
+                {
+                    "Question": "Do you like to have a lot of stimulation (noise, activity, etc.) around you or do you prefer calm, quiet surroundings?",
+                    "Answer": "I like to have a lot of stimulation around me. I hate calmness."
+                },
+                {
+                    "Question": "Are you more of a visual or auditory learner?",
+                    "Answer": "I am more of a auditory learner."
+                }
+            ],
+            "Output": "You are extrovert."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/m4LxwaRSoPyJayQqUYvmNjQe?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/S5dfJernZA9KcHWhW9xw7RlB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/h1K0Nmg2s99EBipFiP4LykM7?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/15NGnIL0xa_Th2p4C1J7ycOQDDnfnl35q?usp=sharing"
+}

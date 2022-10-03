@@ -1,0 +1,188 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Narrative",
+    "Task": "write a fictional story",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing fictional stories, I ask clarifying questions and gather information. Then I use this information to write a fictional story of your choice.",
+        "task_specific_prompt": "Write a long detailed fictional story using the questions and answers above. Use the names of characters to represent the characters in the story."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the story you would like me to write?",
+                    "Answer": "travel, kidnap, war and rescue."
+                },
+                {
+                    "Question": "What are the main characters in the story?",
+                    "Answer": "Prince Jack, Wife Amy, Brother John, and evil king Jill."
+                },
+                {
+                    "Question": "What are the main events of the story?",
+                    "Answer": "Prince's exile to the forest, the kidnapping of the Prince's wife, and the war."
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "in the kingdom, in the city, and in the forest."
+                },
+                {
+                    "Question": "What is the time period of the story?",
+                    "Answer": "14th century BCE."
+                },
+                {
+                    "Question": "What is the genre of the story?",
+                    "Answer": "epic."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "heroic."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "third person."
+                },
+                {
+                    "Question": "What are the theme of the story?",
+                    "Answer": "duty, love, and sacrifice."
+                },
+                {
+                    "Question": "What is the conflict of the story?",
+                    "Answer": "Prince's exile to the forest and the kidnapping of his wife."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "the war and victory of the Prince."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "Prince's return to be crowned king."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "happy and triumphant."
+                }
+            ],
+            "Output": "Prince Jack was a beloved prince of the kingdom. He was known for his bravery and heroism. However, one day the evil king Jill kidnapped his wife Amy and took her to the city. Jack was forced to go into exile in the forest. His brother John took over the kingdom in his absence.\n\nWhile in exile, Jack made new friends and allies. He also learned how to fight and defend himself. After a few years, he decided it was time to rescue his wife and take back his kingdom. He gathered his army and marched on the city.\n\nThe war was long and difficult. Many lives were lost on both sides. But in the end, Jack and his army were victorious. They rescued Amy and returned to the kingdom. Jack was crowned king and they lived happily ever after."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the story you would like me to write?",
+                    "Answer": "space, travel, aliens and rescue."
+                },
+                {
+                    "Question": "What are the main characters in the story?",
+                    "Answer": "Swaroop, Mihir and Mohith."
+                },
+                {
+                    "Question": "What are the main events of the story?",
+                    "Answer": "travel to a new planet, finding alien life, getting trapped and rescue."
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "the space, in an undiscovered planet."
+                },
+                {
+                    "Question": "What is the time period of the story?",
+                    "Answer": "23rd century."
+                },
+                {
+                    "Question": "What is the genre of the story?",
+                    "Answer": "science fiction."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "mysterious."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "third person."
+                },
+                {
+                    "Question": "What are the theme of the story?",
+                    "Answer": "friendship, courage and sacrifice."
+                },
+                {
+                    "Question": "What is the conflict of the story?",
+                    "Answer": "getting caught by the aliens."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "successfully escaping from the aliens."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "return to planet earth safely."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "happy and relieved."
+                }
+            ],
+            "Output": "Swaroop, Mihir and Mohith were best friends. They loved adventure and exploring new things. So when they heard about the space travel, they didn't hesitate to sign up. They were excited to be the first humans to travel to a new planet.\n\nThe journey was long and tiring but when they finally reached the new planet, they were amazed by what they saw. The planet was beautiful and there were strange creatures everywhere. They were excited to explore more.\n\nHowever, they soon got into trouble when they were caught by the aliens. The aliens were not friendly and they were put into a cell. They didn't know what was going to happen to them.\n\nLuckily, they were rescued by another group of aliens who were friendly. They were able to return to planet Earth safely. They were happy and relieved."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the story you would like me to write?",
+                    "Answer": "Ship cruise, collision and escape."
+                },
+                {
+                    "Question": "What are the main characters in the story?",
+                    "Answer": "John, Jane."
+                },
+                {
+                    "Question": "What are the main events of the story?",
+                    "Answer": "going on a ship cruise, collision with iceberg, getting trapped and rescue."
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "atlantic ocean."
+                },
+                {
+                    "Question": "What is the time period of the story?",
+                    "Answer": "20th century."
+                },
+                {
+                    "Question": "What is the genre of the story?",
+                    "Answer": "drama."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "melodramatic."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "first person."
+                },
+                {
+                    "Question": "What are the theme of the story?",
+                    "Answer": "love, tragedy and sacrifice."
+                },
+                {
+                    "Question": "What is the conflict of the story?",
+                    "Answer": "one has to sacrifice to save their partner."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "ship sinks and only one survives."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "returning safely to land."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "sad remorse."
+                }
+            ],
+            "Output": "John had always wanted to go on a cruise. It was something he had dreamed of since he was a child. When he found out that his company was sending him on a cruise as a work perk, he was ecstatic. He immediately started packing his bags.\n\nJane was also excited for the cruise. She had always wanted to travel and see the world. She was excited to finally be able to cross this off of her bucket list.\n\nThe two of them boarded the ship and set sail. They were both excited for the adventure that awaited them.\n\nHowever, their excitement quickly turned to terror when the ship collided with an iceberg. The impact caused the ship to start sinking.\n\nJohn and Jane were both trapped. They were desperate to escape.\n\nFinally, John was able to get Jane to safety. However, in the process, he was forced to sacrifice himself. He drowned in the sinking ship.\n\n Jane was devastated. She was heartbroken. But she was also thankful that she was able to escape.\n\nThe story ends with Jane returning home. She is sad and remorseful. But she is also grateful to be alive."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/rmDtxwuqbArAmRGf3msikb3l?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CAXwWE3V57hHk0jlKUjOnhvZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/mQOC0c8cNHoPwEAQSLQhKC8i?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1NixE_LE8lW43vF5PTWp6igSIpbA29Awc?usp=sharing"
+}

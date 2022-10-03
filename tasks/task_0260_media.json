@@ -1,0 +1,152 @@
+{
+    "Contributor": "secrestmicah",
+    "Domain": "Media",
+    "Task": "Magazine Article",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert magazine article writer. I will ask some questions to collect information and then I will use the information to generate a magazine article.",
+        "task_specific_prompt": "Write a magazine article using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the topic of your article?",
+                    "Answer": "The topic of my article is \"The Benefits of a Plant-Based Diet.\""
+                },
+                {
+                    "Question": "What are some of the benefits of a plant-based diet?",
+                    "Answer": "Some of the benefits of a plant-based diet include improved heart health, lower risk of cancer, and weight loss."
+                },
+                {
+                    "Question": "What are some of the best foods to eat on a plant-based diet?",
+                    "Answer": "Some of the best foods to eat on a plant-based diet include fruits, vegetables, whole grains, and legumes."
+                },
+                {
+                    "Question": "What are some of the challenges of following a plant-based diet?",
+                    "Answer": "Some of the challenges of following a plant-based diet include finding enough variety in your diet, getting enough protein, and getting enough of the right nutrients."
+                },
+                {
+                    "Question": "What tips do you have for someone who is thinking of transitioning to a plant-based diet?",
+                    "Answer": "Some tips for transitioning to a plant-based diet include making sure you get enough protein, and finding plant-based recipes that you like."
+                },
+                {
+                    "Question": "What are some of the myths about plant-based diets?",
+                    "Answer": "Some of the myths about plant-based diets include that they are expensive, that they are hard to follow, and that they are not healthy."
+                },
+                {
+                    "Question": "What is the bottom line about plant-based diets?",
+                    "Answer": "The bottom line is that plant-based diets are healthy, sustainable, and can provide all the nutrients you need."
+                },
+                {
+                    "Question": "What are some of the best resources for someone who wants to learn more about plant-based diets?",
+                    "Answer": "Some of the best resources for someone who wants to learn more about plant-based diets include books, websites, and magazines."
+                },
+                {
+                    "Question": "What are some of your favorite plant-based recipes?",
+                    "Answer": "Some of my favorite plant-based recipes include lentil soup, vegetable stir-fry, and black bean burgers."
+                },
+                {
+                    "Question": "What are some of your favorite plant-based ingredients?",
+                    "Answer": "Some of my favorite plant-based ingredients include beans, lentils, quinoa, and kale."
+                }
+            ],
+            "Output": "If you're considering making the switch to a plant-based diet, you're not alone. More and more people are interested in the benefits of a plant-based diet, including improved heart health, lower risk of cancer, and weight loss.\n\nBut what exactly is a plant-based diet? Put simply, it's a diet that focuses on plants, rather than animal products. This means eating plenty of fruits, vegetables, whole grains, and legumes. It's important to get enough protein on a plant-based diet, so make sure to include beans, lentils, quinoa, and other protein-rich foods in your meals.\n\nThere are some challenges to following a plant-based diet, but with a little planning, it's definitely doable. You may need to experiment with new recipes to find enough variety in your diet, and you'll need to be mindful of getting enough protein and the right nutrients. But the bottom line is that plant-based diets are healthy, sustainable, and can provide all the nutrients you need.\n\nIf you're interested in learning more about plant-based diets, there are plenty of resources available. Books, websites, and magazines are all great places to start. And once you get the"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the article?",
+                    "Answer": "How to be a successful artist."
+                },
+                {
+                    "Question": "What are some tips for being a successful artist?",
+                    "Answer": "Some tips for being a successful artist include:\n\n- Finding your niche\n- Developing a strong body of work\n- Marketing and networking\n- Creating a professional website\n- Applying for grants and residencies\n- Teaching art classes"
+                },
+                {
+                    "Question": "Why is it important to find your niche?",
+                    "Answer": "It is important to find your niche as an artist because it will help you stand out from the crowd. When you have a specialty, it is easier to market your work and attract potential buyers."
+                },
+                {
+                    "Question": "What are some tips for marketing your work?",
+                    "Answer": "Some tips for marketing your work as an artist include:\n\n- Creating a strong online presence\n- Developing a marketing plan\n- Utilizing social media\n- Creating a press kit\n- Participating in art fairs and exhibitions\n- Selling your work online"
+                },
+                {
+                    "Question": "What are some tips for creating a strong online presence?",
+                    "Answer": "Some tips for creating a strong online presence as an artist include:\n\n- Creating a professional website\n- Utilizing social media\n- Creating an online portfolio\n- Participating in online galleries and forums\n- Creating an e-newsletter\n- Blogging about your work"
+                },
+                {
+                    "Question": "Why is it important to have a professional website?",
+                    "Answer": "It is important to have a professional website as an artist because it is a great way to showcase your work and attract potential buyers. A professional website also helps you to build credibility and establish yourself as a serious artist."
+                },
+                {
+                    "Question": "What are some tips for applying for grants and residencies?",
+                    "Answer": "Some tips for applying for grants and residencies as an artist include:\n\n- Researching opportunities\n- Applying early and often\n- Following the application guidelines\n- Creating a strong application\n- Submitting a competitive portfolio"
+                },
+                {
+                    "Question": "What are some tips for teaching art classes?",
+                    "Answer": "Some tips for teaching art classes include:\n\n- Developing a curriculum\n- Creating lesson plans\n- Utilizing a variety of teaching methods\n- Managing a classroom\n- Assessing student progress"
+                },
+                {
+                    "Question": "What are some common challenges artists face?",
+                    "Answer": "Some common challenges artists face include:\n\n- Finding time to create\n- Dealing with rejection\n- Making a living from their art\n- Managing their time and energy\n- Promoting their work\n- Balancing art and life"
+                },
+                {
+                    "Question": "How can artists overcome these challenges?",
+                    "Answer": "Some ways artists can overcome these challenges include:\n\n- Finding a support group or community\n- Staying positive and persistent\n- Developing a thick skin\n- Diversifying their income streams\n- Planning and scheduling their time\n- Making their art a priority"
+                }
+            ],
+            "Output": "As an artist, it is important to find your niche in order to be successful. Once you have found your specialty, you can begin marketing your work and attracting potential buyers. It is also important to create a strong online presence, utilizing social media and other tools to showcase your work. Applying for grants and residencies is another great way to get your work out there, and teaching art classes can also be beneficial. However, artists often face common challenges such as finding time to create, dealing with rejection, and making a living from their art. Luckily, there are ways to overcome these challenges. By staying positive and persistent, diversifying their income streams, and making their art a priority, artists can overcome anything."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "A local hero."
+                },
+                {
+                    "Question": "Who is the local hero?",
+                    "Answer": "A young man who saved a child from a burning building."
+                },
+                {
+                    "Question": "How did the young man save the child?",
+                    "Answer": "He ran into the burning building and carried the child out."
+                },
+                {
+                    "Question": "What happened to the young man after he saved the child?",
+                    "Answer": "He was treated for smoke inhalation and minor burns."
+                },
+                {
+                    "Question": "Why was the young man able to save the child?",
+                    "Answer": "He is a trained firefighter."
+                },
+                {
+                    "Question": "What was the child doing in the burning building?",
+                    "Answer": "The child was playing with a candle and started a fire."
+                },
+                {
+                    "Question": "How old is the young man?",
+                    "Answer": "22"
+                },
+                {
+                    "Question": "Is the young man married?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Does the young man have any children?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What does the young man do for a living?",
+                    "Answer": "He is a firefighter."
+                }
+            ],
+            "Output": "Local Hero Saves Child from Burning Building\n\nA 22-year-old man is being hailed as a local hero after saving a child from a burning building. The man, who is a trained firefighter, ran into the building and carried the child out. He was treated for smoke inhalation and minor burns.\n\nThe child was playing with a candle and started a fire. The young man's quick thinking and bravery saved the child's life. He is married with two children."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/5HcDOeiaTj5jBFsOGbJKulSt",
+        "https://beta.openai.com/playground/p/MvP4hP7PK5pUDliOfJpJzcia",
+        "https://beta.openai.com/playground/p/iU21QU8iuXu2XiBVn6LAAfbY"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1nA5iNYg-j4Ohj-cwLgb4BnILyTA7VRyS?usp=sharing"
+}

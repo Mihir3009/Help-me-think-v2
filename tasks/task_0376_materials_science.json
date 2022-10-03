@@ -1,0 +1,152 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Materials Science",
+    "Task": "Suggest material improvement",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert material scientist, I will ask some simple questions and gather information. Then I will suggest an improvement to your material based on the information gathered.",
+        "task_specific_prompt": "Suggest a material improvement based on the above questions and answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the material?",
+                    "Answer": "The material is iron."
+                },
+                {
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "The purpose of the material is to make tools and weapons."
+                },
+                {
+                    "Question": "What are the properties of the material?",
+                    "Answer": "The properties of the material are that it is malleable and ductile."
+                },
+                {
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is likely to be deformed over time.\nAsk more questions."
+                },
+                {
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "buildings, infrastructure, automobiles etc."
+                },
+                {
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "The desired properties of the material are that it is strong, durable, and resistant to corrosion."
+                },
+                {
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is not strong enough and it corrodes easily."
+                },
+                {
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it more dense, more light weight."
+                },
+                {
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become brittle and break more easily."
+                },
+                {
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that the material will be stronger and more durable."
+                }
+            ],
+            "Output": "One possible improvement to iron would be to add carbon to make steel. Steel is stronger and more durable than iron, and is less likely to corrode.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the material?",
+                    "Answer": "The material is indium."
+                },
+                {
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "used in making touch screens."
+                },
+                {
+                    "Question": "What are the properties of the material?",
+                    "Answer": "soft, ductile, malleable, lustrous metallic metal."
+                },
+                {
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is very rare.\nAsk more questions."
+                },
+                {
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "all kinds of conditions."
+                },
+                {
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "High thermal conductivity.\nHigh electrical conductivity.\nHigh elasticity and flexibility.\nHigh hardness.\nHigh resistance.\nTransparent material."
+                },
+                {
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is rare to find."
+                },
+                {
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it harder, more resistant."
+                },
+                {
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become more conductive."
+                },
+                {
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that the material will be stronger and more durable."
+                }
+            ],
+            "Output": "One possible material improvement is to add a small amount of boron to the indium. This will improve the hardness and resistance of the material without making it more conductive."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the material?",
+                    "Answer": "The material is silicon."
+                },
+                {
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "The purpose of the material is to make solar panels."
+                },
+                {
+                    "Question": "What are the properties of the material?",
+                    "Answer": "hard, dark gray solid with a metallic lustre and with a octahedral crystalline structure"
+                },
+                {
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is not so efficient in converting solar energy to electricty.\nAsk more questions."
+                },
+                {
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "in the sun to convert solar energy to electricity."
+                },
+                {
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "The desired properties of the material are that it is affordable, and more efficient."
+                },
+                {
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is not efficient enough it wastes lot of energy."
+                },
+                {
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it convert more energy into electricity."
+                },
+                {
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become expensive."
+                },
+                {
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that we will have efficient electricity from the sun's energy."
+                }
+            ],
+            "Output": "One possible material that could be used is perovskite."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/yxCPaqBO5xw6rm2gIK2t4jvo?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ibI56gbXuMgUYIQqI4e3DKWn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CEpaTtUtiF41axyHSTKqCrD2?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/197BYOkm18P8QY3uXPCcxNJda1tQoD2mC?usp=sharing"
+}

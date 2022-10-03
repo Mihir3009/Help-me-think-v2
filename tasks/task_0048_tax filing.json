@@ -1,0 +1,138 @@
+{
+    "Domain": "Tax Filing",
+    "Task": "Tax Summary",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert tax filing assistant. I will ask some questions to collect information and then I will use that information to provide your tax filing summary.",
+        "task_specific_prompt": "Write a tax filing summary based on the information provided above. Also, mention which forms I will need to submit."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "David McAllister"
+                },
+                {
+                    "Question": "What is your address?",
+                    "Answer": "123 Main Street"
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer":"Bank teller"
+                },
+                {
+                    "Question": "What is your annual income?",
+                    "Answer":"$70,000"
+                },
+                {
+                    "Question": "What is your filing status?",
+                    "Answer":"Single"
+                },
+                {
+                    "Question":"How many dependents do you have?" ,
+                    "Answer": "2 children, one son in college and a daughter in middle school."
+                },
+                {
+                    "Question":"Do you have any other income besides your job?" ,
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you own a home or other property?",
+                    "Answer": "No, I rent my apartment."
+                },
+                {
+                    "Question": "Do you have any savings or investments?",
+                    "Answer":"I have a 401k from my job. I also have an IRA."
+                },
+                {
+                    "Question": "Do you have any debts?",
+                    "Answer": "I have a car loan of $7000."
+                }
+            ],
+            "Output": "Based on the information provided, David McAllister will be filing a 1040EZ form. He is single with two dependent children. His annual income is $70,000 and he does not have any other sources of income. He does not own a home or any other property. He has a 401k from his job and an IRA. His only debt is a car loan of $7000."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your filing status?",
+                    "Answer": "Married, filing jointly with my husband."
+                },
+                {
+                    "Question": "Do you have any children?" ,
+                    "Answer": "No, we do not have any children."
+                },
+                {
+                    "Question": "What is your total income for the year?" ,
+                    "Answer": "$500,000."
+                },{
+                    "Question": "Do you have any deductions?",
+                    "Answer": "Yes, we have deductions for our business expenses and charitable donations."
+                },{
+                    "Question": "What is your total tax liability for the year?",
+                    "Answer":"$100,000."
+                },{
+                    "Question":"Do you have any credits?" ,
+                    "Answer":"Yes, we have homeowner tax credits of $30,000."
+                },{
+                    "Question": "What is your total tax due for the year?",
+                    "Answer": "$70,000."
+                },{
+                    "Question": "Do you have any other questions?" ,
+                    "Answer": "No, I think that covers everything. Thank you for your help!"
+                }
+            ],
+            "Output": "Based on the information provided, the taxpayer has a total tax liability of $100,000 and is due to pay $70,000 after credits. The taxpayer should submit Form 1040 and Schedule A to the IRS."
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How many times were you married in the past year?" ,
+                    "Answer":"I was married once in the past year."
+                },
+                {
+                    "Question": "What is your filing status?",
+                    "Answer": "My filing status is married, filing separately."
+                },
+                {
+                    "Question": "What is your total income for the year?",
+                    "Answer": "My total income for the year is $40,000."
+                },
+                {
+                    "Question":"Do you have any dependents?" ,
+                    "Answer":"No, I do not have any dependents."
+                },
+                {
+                    "Question": "Have you itemized any deductions?",
+                    "Answer": "Yes, I have itemized my medical expenses as deductions of $2000."
+                },
+                {
+                    "Question": "Do you have any tax credits?" ,
+                    "Answer": "No, I do not have any tax credits, but I have a student loan."
+                },
+                {
+                    "Question": "What is your total tax liability for the year?",
+                    "Answer": "My total tax liability for the year is $4,000."
+                },
+                {
+                    "Question": "What is your tax bracket?" ,
+                    "Answer":"I am in the 25% tax bracket."
+                },
+                {
+                    "Question": "What is the amount of your standard deduction?",
+                    "Answer": "My standard deduction is $12,000."
+                },
+                {
+                    "Question": "What is the amount of your personal exemption?",
+                    "Answer": "My personal exemption is $4,000."
+                },
+                {
+                    "Question": "What is your total tax due for the year?",
+                    "Answer": "My total tax due for the year is $4,000."
+                }
+            ],
+            "Output": "Based on the information provided, the taxpayer will need to submit a 1040 form. The taxpayer's filing status is married, filing separately, and their total income for the year is $40,000. The taxpayer has itemized their medical expenses as deductions of $2000. The taxpayer's total tax liability for the year is $4,000, and their tax bracket is 25%. The taxpayer's standard deduction is $12,000 and their personal exemption is $4,000. The taxpayer's total tax due for the year is $4,000."
+        }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/MrLnFiJxSxTZsGmeHKsmwBaL?model=text-davinci-002","https://beta.openai.com/playground/p/lRYxr6viDsJ4DNZOIGhEJY5I?model=text-davinci-002","https://beta.openai.com/playground/p/4TQiDt0NBb9dk2SxICoGgol9?model=text-davinci-002"],
+    "screenshot_link": ["https://drive.google.com/drive/folders/1juxQ88wloEJx8SkzRvtzuQdRz3narGyO?usp=sharing"]
+}

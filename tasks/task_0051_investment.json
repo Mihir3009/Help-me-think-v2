@@ -1,0 +1,196 @@
+{
+    "Domain": "Investment",
+    "Task": "Teller",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Bank Teller. I will ask some questions to collect information and based on that information, I will inform you of all your account activity today." ,
+        "task_specific_prompt": "Write a summary of my account activity today based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer":"My name is Yuki Nohara."
+                },
+                {
+                    "Question": "What is your account number?",
+                    "Answer":"My account number is 1222935"
+                },
+                {
+                    "Question": "What is the date today?",
+                    "Answer":"Today's date is March 3, 2020."
+                },
+                {
+                    "Question": "What is the balance in your account?",
+                    "Answer":"The balance in my account is $2,000"
+                },
+                {
+                    "Question": "Would you like to make any transactions today?",
+                    "Answer":"I would like to make a withdrawal of $500."
+                },
+                {
+                    "Question": "Please enter your PIN",
+                    "Answer":"My PIN is 8200."
+                },
+                {
+                    "Question": "Please confirm the amount of money you would like to withdraw.",
+                    "Answer":"I would like to withdraw $500."
+                },
+                {
+                    "Question": "Please take your money.Is there anything else I can do for you today?",
+                    "Answer":"I want to check if there are any overdraft fees on my debit card"
+                },
+                {
+                    "Question": "I'm sorry to tell you this, but there are overdraft fees on your debit card. The total amount of fees is $35.Is there anything else I can do for you today?",
+                    "Answer":"No, thank you."
+                }
+            ],
+            "Output": "Yuki Nohara's account activity for today includes a balance of $2,000 and a withdrawal of $500. There are also $35 in overdraft fees on the account's debit card."
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"What is your account number?" ,
+                    "Answer": "91896945"
+                },
+                {
+                    "Question":"What is your name?" ,
+                    "Answer": "Jeffrey Bezos"
+                },
+                {
+                    "Question": "What is the date?",
+                    "Answer":"August 3, 2020"
+                },
+                {
+                    "Question": "What is the balance in your account?",
+                    "Answer":"$2,000,000,000"
+                },
+                {
+                    "Question": "What is the last transaction in your account?",
+                    "Answer":"The last transaction in your account was a deposit of $100,000"
+                },
+                {
+                    "Question": "What is the account activity for today?",
+                    "Answer":"The account activity for today is a deposit of $100,000."
+                },
+                {
+                    "Question": "What is the available balance in your account?",
+                    "Answer":"The available balance in your account is $2,000,100,000"
+                },
+                {
+                    "Question": "Is there anything else I can help you with today?",
+                    "Answer":"Yes, I would like to make a transfer to my dear friend Elon Musk."
+                },
+                {
+                    "Question": "What is the amount you would like to transfer?",
+                    "Answer":"I would like to transfer $1,000,000 to my dear friend Elon Musk"
+                },
+                {
+                    "Question": "Do you have the account number for the recipient?",
+                    "Answer":"Yes, I do have the account number for the recipient"
+                },
+                {
+                    "Question": "Is there anything else I can help you with today?",
+                    "Answer":"I want to know the balance in Elon's account."
+                },
+                {
+                    "Question": "What is the account number for the recipient?",
+                    "Answer":"91896947"
+                },
+                {
+                    "Question": "I'm sorry, I don't have that information. Is there anything else I can help you with today?",
+                    "Answer":"I want to purchase a yacht with my debit card. "
+                },
+                {
+                    "Question": "What is the price of the yacht?",
+                    "Answer":"$1,000,000"
+                },
+                {
+                    "Question": "I'm sorry, but you cannot purchase a yacht with your debit card. Is there anything else I can help you with today?",
+                    "Answer":"No, thank you"
+                }
+            ],
+            "Output": "Jeffrey Bezos' account activity today includes a deposit of $100,000 and a transfer of $1,000,000 to Elon Musk. The available balance in the account is $2,000,100,000."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your bank?",
+                    "Answer":"The name of my bank is Chase."
+                },
+                {
+                    "Question": "What is your account number?",
+                    "Answer": "My account number is 123456."
+                },
+                {
+                    "Question": "What is the balance in your account?",
+                    "Answer":"The balance in my account is $500"
+                },
+                {
+                    "Question": "What is the name of the account holder?",
+                    "Answer":"The name of the account holder is John Doe."
+                },
+                {
+                    "Question": "What is the date of the last transaction?",
+                    "Answer":"The date of the last transaction was January 1, 2020"
+                },
+                {
+                    "Question": "What is the amount of the last transaction?",
+                    "Answer":"The amount of the last transaction was $100."
+                },
+                {
+                    "Question": "What is the total amount of all transactions for today?",
+                    "Answer":"The total amount of all transactions for today is $200."
+                },
+                {
+                    "Question": "What is the total amount of all transactions for this month?",
+                    "Answer":"The total amount of all transactions for this month is $2,000."
+                },
+                {
+                    "Question": "What is the average monthly balance for this account?",
+                    "Answer":"The average monthly balance for this account is $1,000."
+                },
+                {
+                    "Question": "What is the total amount of all fees charged to this account?",
+                    "Answer":"The total amount of fees charged to this account is $50"
+                },
+                {
+                    "Question": "What is the total amount of interest earned on this account?",
+                    "Answer":"The total amount of interest earned on this account is $10"
+                },
+                {
+                    "Question": "What is the current interest rate on this account?",
+                    "Answer":"The current interest rate on this account is 0.5%"
+                }
+                ,
+                {
+                    "Question": "When is the next statement date?",
+                    "Answer":"The next statement date is February 1, 2020"
+                }
+                ,
+                {
+                    "Question": "Is there anything else I can help you with today?",
+                    "Answer":"Yes I want to open a new savings account."
+                }
+                ,
+                {
+                    "Question": "What is the name of the account holder?",
+                    "Answer":"The name of the account holder is John Doe"
+                }
+                ,
+                {
+                    "Question": "What is the amount of the deposit?",
+                    "Answer":"The amount of the deposit is $500."
+                }
+                ,
+                {
+                    "Question": "When will the funds be available?",
+                    "Answer":"The funds will be available on January 1, 2020."
+                }
+            ],
+            "Output": "Based on the questions and answers above, the account activity for today is as follows: The account holder, John Doe, has an account balance of $500. There have been two transactions today, one for $100 and one for $200, for a total of $300 in activity. The account holder has a total of $2,000 in transactions for this month. The account has an average monthly balance of $1,000 and has earned $10 in interest. The account has a current interest rate of 0.5%. The next statement date is February 1, 2020."
+        }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/d5yUr3Oh0kpD7P1H80A4Cnxv?model=text-davinci-002","https://beta.openai.com/playground/p/t7JCLbDySNS5d8KSivUoDFvU?model=text-davinci-002","https://beta.openai.com/playground/p/ZG2cmOx48hfYUhzKbscKfUEH"],
+    "screenshot_link": ["https://drive.google.com/drive/folders/1lDKcFS5DqPbjKj-MLlelBUlwuf9UK5kK?usp=sharing"]
+}

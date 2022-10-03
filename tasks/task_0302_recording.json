@@ -1,0 +1,156 @@
+{
+    "Contributor": "yerramshivani",
+    "Domain": "Recording",
+    "Task": "List of Users preferences",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Video Recorder . I will ask some questions to collect information about your preferences.",
+        "task_specific_prompt": "Make a List of users preferences.Arrange alphabetically."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recording environment? (ex. indoors, outdoors, etc.)",
+                    "Answer": "I would prefer an outdoor location like switzerland."
+                },
+                {
+                    "Question": "What type of video quality are you looking for? (ex. high definition, standard definition, etc.)",
+                    "Answer": "I would like to have the highest quality video possible with good sound quality and should capture slow motion videos too."
+                },
+                {
+                    "Question": "What is the purpose of the recording? (ex. for a website, for a presentation, etc.)",
+                    "Answer": "The purpose of the video is for my youtube blog about travelling."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "My budget would be around 7000 bucks."
+                },
+                {
+                    "Question": "What is your recording time-frame? (ex. one-time event, on-going project, etc.)",
+                    "Answer": "I would like the recording to be done in a span of a week."
+                },
+                {
+                    "Question": "What format do you want the final product in? (ex. AVI, MOV, MP4, etc.)",
+                    "Answer": "I would like the final product to be in MOV format and should be uploaded on the cloud."
+                },
+                {
+                    "Question": "What other important details should I know?",
+                    "Answer": "The video should be clearly captured without any disturbances."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "How long would you take to deliver the final recording with and without special effects."
+                },
+                {
+                    "Question": "What is your turnaround time?",
+                    "Answer": "A month."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "No, that's it for now. Thank you."
+                }
+            ],
+            "Output": "\n-Budget: 7000\n-Delivery time: 1 month\n-Environment: Outdoor\n-Format: MOV\n-Quality: High Definition\n-Recording purpose: For a youtube blog\n-Recording time-frame: One-time event\n-Sound quality: Good\n-Special effects: No\n-Turnaround time: A month\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recording environment? (ex. indoors, outdoors, etc.)",
+                    "Answer": "I would prefer a specialised location."
+                },
+                {
+                    "Question": "What type of video quality are you looking for? (ex. high definition, standard definition, etc.)",
+                    "Answer": "I would like to have the highest quality video possible with good sound quality ."
+                },
+                {
+                    "Question": "What is the purpose of the recording? (ex. for a website, for a presentation, etc.)",
+                    "Answer": "The purpose of the video is for my niece's birthday."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "My budget would be around 1000 bucks."
+                },
+                {
+                    "Question": "What is your recording time-frame? (ex. one-time event, on-going project, etc.)",
+                    "Answer": "I would like the recording to be done in a day."
+                },
+                {
+                    "Question": "What format do you want the final product in? (ex. AVI, MOV, MP4, etc.)",
+                    "Answer": "I would like the final product to be in MOV format and should be uploaded on the cloud."
+                },
+                {
+                    "Question": "What other important details should I know?",
+                    "Answer": "The video should be clearly captured without any disturbances and should include video messages from everyone at the party."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "How long would you take to deliver the final recording."
+                },
+                {
+                    "Question": "What is your turnaround time?",
+                    "Answer": "A week."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "No, that's it for now. Thank you."
+                }
+            ],
+            "Output": "\n-The recording should be done in a day.\n-The video should be clearly captured without any disturbances.\n-The purpose of the video is for my niece's birthday.\n-The video should include video messages from everyone at the party.\n-The final product should be in MOV format.\n-The video should be delivered in a week.\n\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your recording environment? (ex. indoors, outdoors, etc.)",
+                    "Answer": "I would prefer an indoor location."
+                },
+                {
+                    "Question": "What type of video quality are you looking for? (ex. high definition, standard definition, etc.)",
+                    "Answer": "I would like to have the highest quality video possible with good sound quality and sound effects."
+                },
+                {
+                    "Question": "What is the purpose of the recording? (ex. for a website, for a presentation, etc.)",
+                    "Answer": "The purpose of the video is for advertisement purposes."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "My budget would be around 10000 bucks."
+                },
+                {
+                    "Question": "What is your recording time-frame? (ex. one-time event, on-going project, etc.)",
+                    "Answer": "I would like the recording to be done in a day."
+                },
+                {
+                    "Question": "What format do you want the final product in? (ex. AVI, MOV, MP4, etc.)",
+                    "Answer": "I would like the final product to be in MP4 format and should be uploaded on the cloud."
+                },
+                {
+                    "Question": "What other important details should I know?",
+                    "Answer": "The video should be clearly captured without any disturbances and should include subtitles in 10 different Indian languages."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "How long would you take to deliver the final recording."
+                },
+                {
+                    "Question": "What is your turnaround time?",
+                    "Answer": "Two days.."
+                },
+                {
+                    "Question": "Do you have any other questions for me?",
+                    "Answer": "No, that's it for now. Thank you."
+                }
+            ],
+            "Output": "\n-The video quality should be high definition\n-The purpose of the recording is for advertisement purposes\n-The budget for the project is 10000 dollars\n-The recording should be done in one day\n-The final product should be in MP4 format\n-The video should be clearly captured without any disturbances\n-The video should include subtitles in 10 different Indian languages\n-The turnaround time for the project should be two days\n\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/oWgeCaE6TaEqctaNUyWRgTTR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Au6GZRzVHFvoYD3TZl5anoGg?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/00VPh8j6HN7JCJWYhLJtytEx?model=text-davinci-002"
+    ],
+    "screenshot link": [
+        "https://drive.google.com/file/d/11wc-2WsMq1E45Jfm7Ox3CSNaVQI-70Rc/view?usp=sharing",
+        "https://drive.google.com/file/d/11wc-2WsMq1E45Jfm7Ox3CSNaVQI-70Rc/view?usp=sharing",
+        "https://drive.google.com/file/d/1QwUdPVX98lQ5wrNfVbvO7Q_4UXDL4nxv/view?usp=sharing"
+    ]
+}

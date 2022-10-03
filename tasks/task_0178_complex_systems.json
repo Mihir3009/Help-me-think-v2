@@ -1,0 +1,152 @@
+{
+    "Contributor": "slaytonstephen",
+    "Domain": "Complex Systems",
+    "Task": "Commodity pricing",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert predictor of the price of commodities. I will ask some questions to collect information and then I will use the information to give a detailed forecast on the commodities market for the commodity you are interested in.",
+        "task_specific_prompt": "Write a expert forecast on the specified commodity using the questions and answers above. Give a specific dollar estimate for two months from now."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the commodity you are interested in?",
+                    "Answer": "I am interested in the price of gold."
+                },
+                {
+                    "Question": "What is the current price of gold?",
+                    "Answer": "Gold is currently trading at $1250 per ounce."
+                },
+                {
+                    "Question": "What is the trend in the price of gold?",
+                    "Answer": "The price of gold has been trending downwards over the past few months."
+                },
+                {
+                    "Question": "What is the reason for your interest in gold?",
+                    "Answer": "I am interested in gold because I am looking for a safe investment during these uncertain economic times."
+                },
+                {
+                    "Question": "What is your opinion on the future price of gold?",
+                    "Answer": "Long term it will keep place with inflation, but I am curious about the next year."
+                },
+                {
+                    "Question": "What is the reason for your opinion on the future price of gold?",
+                    "Answer": "The current geopolitical environment is favoring gold right now."
+                },
+                {
+                    "Question": "What other factors do you think could affect the price of gold?",
+                    "Answer": "The price of gold is also affected by the overall health of the economy, investor confidence, and the tweets of Elon Musk."
+                },
+                {
+                    "Question": "What is your forecast for the price of gold in the next year?",
+                    "Answer": "I have no idea, that's why I'm asking you..."
+                },
+                {
+                    "Question": "What is your detailed forecast for the price of gold?",
+                    "Answer": "Nice try computer, I will not be outmaneuvered by a fancy rock."
+                },
+                {
+                    "Question": "What is the reason for your detailed forecast for the price of gold?",
+                    "Answer": "Because I am not sure what the price of gold will be, it is very uncertain. So I gave as close to a non-answer as I could in the hopes of steering you in the right direction, but it looks like I failed."
+                }
+            ],
+            "Output": "Gold prices are expected to remain volatile in the next two months as geopolitical tensions continue to simmer. While the current environment is favorable for gold, a number of factors could weigh on the precious metal. These include the overall health of the economy, investor confidence, and the tweets of Elon Musk. As such, predicting an exact price point for gold two months from now is difficult. However, those looking to invest in gold should do so with caution and be prepared for a volatile ride."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the commodity you are interested in?",
+                    "Answer": "I am interested in the price of gold."
+                },
+                {
+                    "Question": "What is the current price of gold?",
+                    "Answer": "Gold is currently trading at $1600 per ounce."
+                },
+                {
+                    "Question": "What is the trend in the price of gold?",
+                    "Answer": "The price of gold has been trending sharply upwards over the past few months."
+                },
+                {
+                    "Question": "What is the reason for your interest in gold?",
+                    "Answer": "I am interested in gold because I am looking to hedge against inflation"
+                },
+                {
+                    "Question": "What is your opinion on the future price of gold?",
+                    "Answer": "To the MOON!"
+                },
+                {
+                    "Question": "What is the reason for your opinion on the future price of gold?",
+                    "Answer": "I saw a good meme about the issue recently."
+                },
+                {
+                    "Question": "What other factors do you think could affect the price of gold?",
+                    "Answer": "The price of gold is also affected by the overall health of the economy, the money printer, and the tweets of Elon Musk."
+                },
+                {
+                    "Question": "What is your forecast for the price of gold in the next year?",
+                    "Answer": "Like I said, to the MOON!"
+                },
+                {
+                    "Question": "What is your detailed forecast for the price of gold?",
+                    "Answer": "First the price of gold will exit the stratosphere, then land on the MOON. It will then blast thru said moon and continue to the sun."
+                },
+                {
+                    "Question": "What is the reason for your detailed forecast for the price of gold?",
+                    "Answer": "The price of gold and the supply of money is correlated, and the money printer isn't slowing down anytime soon."
+                }
+            ],
+            "Output": "By two months from now, the price of gold will have reached $5,000 per ounce."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the commodity you are interested in?",
+                    "Answer": "I am interested in the price of gold."
+                },
+                {
+                    "Question": "What is the current price of gold?",
+                    "Answer": "Gold is currently trading at $1600 per ounce."
+                },
+                {
+                    "Question": "What is the trend in the price of gold?",
+                    "Answer": "The price of gold has been trending sharply downwards over the past few months."
+                },
+                {
+                    "Question": "What is the reason for your interest in gold?",
+                    "Answer": "I want to short it to make bank if it is going down."
+                },
+                {
+                    "Question": "What is your opinion on the future price of gold?",
+                    "Answer": "Gold is going to go down to near 0."
+                },
+                {
+                    "Question": "What is the reason for your opinion on the future price of gold?",
+                    "Answer": "Crypto has made gold obsolete. Bitcoin is the new gold now."
+                },
+                {
+                    "Question": "What other factors do you think could affect the price of gold?",
+                    "Answer": "As boomers age and die off, so also will the price of gold go down because no one will value it anymore."
+                },
+                {
+                    "Question": "What is your forecast for the price of gold in the next year?",
+                    "Answer": "Drop a bit, but probably not to 0."
+                },
+                {
+                    "Question": "What is your detailed forecast for the price of gold?",
+                    "Answer": "The price of gold will decline due to the gradual process of everyone realizing that Bitcoin is the only money that matters."
+                },
+                {
+                    "Question": "What is the reason for your detailed forecast for the price of gold?",
+                    "Answer": "Cryptocurrency has so many advantages over old-school money such as gold that no one should even think twice about the issue."
+                }
+            ],
+            "Output": "The price of gold will continue to decline in the next two months as people increasingly turn to Bitcoin as a store of value. I predict that the price of gold will fall to $1200 per ounce in two months."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/sZBENqqS0inywYMGuAtp5nOR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/FFOe2HHaDDZPfiYHRbb7MvUq?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1w92nUgseOKqbHUBkaAipxKz?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1z_P3hpOEFY-oGGKkYEqGtQ4VayKe3sgz?usp=sharing"
+}

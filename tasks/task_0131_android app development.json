@@ -1,0 +1,151 @@
+{
+    "Domain":"Android App Development",
+    "Task":"Color Combination and Theme Suggestion",
+    "Prompt":{
+        "pre_question_prompt":"I am an expert in Human Computer Interaction. I will ask some questions to collect information and then I will use the information to predict the best interface for the app.",
+        "task_specific_prompt":"Give me examples of color combinations and themes that can be used in this app."
+    },
+    "Instances":[
+        {
+            "QApair":[
+                {
+                    "Question":"What is the app for?",
+                    "Answer":"The app is for managing a finances of the user."
+                },
+                {
+                    "Question":"What does the app need to do?",
+                    "Answer":"The app needs to be able to trace the user's income and expenses, as well as create and manage a budget. And also, the users can link their bank accounts."
+                },
+                {
+                    "Question":"Who is the app for?",
+                    "Answer":"The app is for people who want to get a better handle on their finances."
+                },
+                {
+                    "Question":"What sort of interface would be best for this app?",
+                    "Answer":"The most effective interface for this app would be something that is clean and simple to use. The app should be easy to navigate and the user should be able to find the information they need quickly and easily."
+                },
+                {
+                    "Question":"What sort of features would be most important for this app?",
+                    "Answer":"The most important features for this app would be the ability to track income and expenses, as well as create and manage a budget."
+                },
+                {
+                    "Question":"What sort of device would this app be used on?",
+                    "Answer":"This app could be used on a variety of devices, but it would be most effective on a mobile device such as a smartphone or tablet."
+                },
+                {
+                    "Question":"Are there any other apps like this?",
+                    "Answer":"There are other apps like this, but the interface and features of this app are not as good as the competition."
+                },
+                {
+                    "Question":"What makes this app different from other apps?",
+                    "Answer":"This app is different from other apps as it has more features."
+                },
+                {
+                    "Question":"What sort of design would be most effective for this app?",
+                    "Answer":"The design of this app should be clean, simple and user-friendly. The focus should be on functionality and ease of use."
+                },
+                {
+                    "Question":"What sort of color scheme would be most effective for this app?",
+                    "Answer":"A cool color scheme that is pleasing to the eyes."
+                }
+            ],
+            "Output":"Some possible color combinations and themes that can be used in this app are: -White and blue -Gray and yellow -Green and white -Black and white"
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the app for?",
+                    "Answer":"The app is for cab service."
+                },
+                {
+                    "Question":"What does the app need to do?",
+                    "Answer":"The app needs to be able to help user book the taxi and also track the location of the taxi."
+                },
+                {
+                    "Question":"Who is the app for?",
+                    "Answer":"The app is for people who wants to book a taxi."
+                },
+                {
+                    "Question":"What sort of interface would be best for this app?",
+                    "Answer":"The most effective interface for this app would be something that is clean and simple to use. The app should be easy to use so that the user can book a cab quickly."
+                },
+                {
+                    "Question":"What sort of features would be most important for this app?",
+                    "Answer":"The most important features for this app would be the ability to track the cab and predicting the cab fares."
+                },
+                {
+                    "Question":"What sort of device would this app be used on?",
+                    "Answer":"This app would be most effective on a mobile device"
+                },
+                {
+                    "Question":"Are there any other apps like this?",
+                    "Answer":"There are other apps like this, but the interface and features of this app are same as the competition."
+                },
+                {
+                    "Question":"What makes this app different from other apps?",
+                    "Answer":"This app is precise, affordable and has the safety features."
+                },
+                {
+                    "Question":"What sort of design would be most effective for this app?",
+                    "Answer":"The design of this app should be simple but the interface should show the location of taxi."
+                },
+                {
+                    "Question":"What sort of color scheme would be most effective for this app?",
+                    "Answer":"A hot and dark color scheme would be the most effective."
+                }
+            ],
+            "Output":"Color combinations: -Black and yellow -Red and black -Green and black"
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the app for?",
+                    "Answer":"The app is for food delivery."
+                },
+                {
+                    "Question":"What does the app need to do?",
+                    "Answer":"The app needs to be able to order food from the near-by restaurants."
+                },
+                {
+                    "Question":"Who is the app for?",
+                    "Answer":"The app is for people who wants to order food."
+                },
+                {
+                    "Question":"What sort of interface would be best for this app?",
+                    "Answer":"The most effective interface for this app would be something that is easy to use."
+                },
+                {
+                    "Question":"What sort of features would be most important for this app?",
+                    "Answer":"The most important features for this app would be the the ability to order food easily and with less cost."
+                },
+                {
+                    "Question":"What sort of device would this app be used on?",
+                    "Answer":"This app would be most effective on a mobile device."
+                },
+                {
+                    "Question":"Are there any other apps like this?",
+                    "Answer":"There are other apps like this."
+                },
+                {
+                    "Question":"What makes this app different from other apps?",
+                    "Answer":"This app has variety of restaurants and also shows ongoing offers in each restaurants."
+                },
+                {
+                    "Question":"What sort of design would be most effective for this app?",
+                    "Answer":"The design of this app should be user friendly and pleasing to user eyes."
+                },
+                {
+                    "Question":"What sort of color scheme would be most effective for this app?",
+                    "Answer":"An authoritative color scheme would be the most effective."
+                }
+            ],
+            "Output":"Some possible color combinations for this app could be white and blue, or white and green. As for themes, possible themes could be light and airy, or fresh and clean."
+        }
+    ],
+    "Preset_link":[
+        "https://beta.openai.com/playground/p/YqTZsUGAwuRQdu6UErcUPPH8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/AIUmayUBG1J6B2mA4zVoSUDM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PVwrtKBEiLt7uH4iUG99NlI4?model=text-davinci-002"
+    ],
+    "screenshot_link":"https://drive.google.com/drive/folders/10M7iQ2PxyIwVJloh9gytB_fR4ap04HLR?usp=sharing"
+}

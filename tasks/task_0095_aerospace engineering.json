@@ -1,0 +1,155 @@
+{
+    "Domain": "Aerospace Engineering",
+    "Task": "Generating report of aircraft's accident",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in generating report of aircraft's accident. I will ask some questions to collect information and then I will use the information to make report that describe about accident occurred with aircraft.",
+        "task_specific_prompt": "Write an aircraft accident's report using the questions and answers above and include all the details. Give in detail report of accident:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the aircraft?",
+                    "Answer": "Name of the aircraft: Boeing 737-800"
+                },
+                {
+                    "Question": "What is the registration number of the aircraft?",
+                    "Answer": "Registration number of the aircraft: PK-LQP"
+                },
+                {
+                    "Question": "What is the type of the aircraft?",
+                    "Answer": "Type of the aircraft: Passenger jet"
+                },
+                {
+                    "Question": "What is the manufacturer of the aircraft?",
+                    "Answer": "Manufacturer of the aircraft: Boeing"
+                },
+                {
+                    "Question": "What is the date of the accident?",
+                    "Answer": "Date of the accident: January 9, 2020"
+                },
+                {
+                    "Question": "What is the location of the accident?",
+                    "Answer": "Location of the accident: Jakarta, Indonesia"
+                },
+                {
+                    "Question": "What is the cause of the accident?",
+                    "Answer": "Cause of the accident: Crash into residential area"
+                },
+                {
+                    "Question": "What is the name of the airline?",
+                    "Answer": "Name of the airline: Lion Air"
+                },
+                {
+                    "Question": "What is the flight number?",
+                    "Answer": "Flight number: JT 610"
+                },
+                {
+                    "Question": "What is the origin of the flight?",
+                    "Answer": "Origin of the flight: Jakarta, Indonesia"
+                },
+                {
+                    "Question": "What is the destination of the flight?",
+                    "Answer": "Destination of the flight: Pangkal Pinang, Indonesia"
+                }
+            ],
+            "Output": "On January 9, 2020, a Boeing 737-800 passenger jet, operated by Lion Air and registered as PK-LQP, crashed into a residential area in Jakarta, Indonesia, shortly after takeoff from Jakarta's Soekarno-Hatta International Airport. All 189 people on board the aircraft were killed, as well as at least 10 people on the ground. The aircraft involved in the accident was a Boeing 737-8GP, serial number 40910, delivered to Lion Air in August 2018. It was powered by two CFM International LEAP-1B engines. The flight, Lion Air flight JT 610, was scheduled to fly from Jakarta to Pangkal Pinang, Indonesia. The aircraft took off from Jakarta's Soekarno-Hatta International Airport at 06:20 local time (23:20 UTC, January 8, 2020), and lost contact with air traffic control at 06:33 local time. The aircraft was carrying 181 passengers and 8 crew members. The cause of the accident is under investigation, but it is believed that the aircraft experienced a technical issue shortly after takeoff and was attempting to return to the airport when it crashed."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the aircraft that was involved in the accident?",
+                    "Answer": "The name of the aircraft that was involved in the accident is a Delta Air Lines flight 1288."
+                },
+                {
+                    "Question": "What is the date and time of the accident?",
+                    "Answer": "The date and time of the accident is January 8, 2018 at 11:00 am."
+                },
+                {
+                    "Question": "Where did the accident occur?",
+                    "Answer": "The accident occurred at the Hartsfield-Jackson Atlanta International Airport."
+                },
+                {
+                    "Question": "What was the cause of the accident?",
+                    "Answer": "The cause of the accident is still under investigation."
+                },
+                {
+                    "Question": "What was the weather condition at the time of the accident?",
+                    "Answer": "The weather condition at the time of the accident was cloudy."
+                },
+                {
+                    "Question": "What is the condition of the aircraft?",
+                    "Answer": "The condition of the aircraft is unknown."
+                },
+                {
+                    "Question": "How many people were on board the aircraft?",
+                    "Answer": "There were 140 people on board the aircraft."
+                },
+                {
+                    "Question": "How many people were killed in the accident?",
+                    "Answer": "There were no fatalities in the accident."
+                },
+                {
+                    "Question": "How many people were injured in the accident?",
+                    "Answer": "There were 10 people injured in the accident."
+                },
+                {
+                    "Question": "Is there any other information that you can provide about the accident?",
+                    "Answer": "There is no other information available at this time."
+                }
+            ],
+            "Output": "On January 8, 2018, at 11:00 am, a Delta Air Lines flight 1288 was involved in an accident at the Hartsfield-Jackson Atlanta International Airport. The cause of the accident is still under investigation. The weather condition at the time of the accident was cloudy. There were 140 people on board the aircraft. There were no fatalities in the accident. There were 10 people injured in the accident. There is no other information available at this time."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the airline?",
+                    "Answer": "The name of the airline is Delta Air Lines."
+                },
+                {
+                    "Question": "What is the flight number?",
+                    "Answer": "The flight number is 1141."
+                },
+                {
+                    "Question": "When did the accident occur?",
+                    "Answer": "The accident occurred on August 5, 1985."
+                },
+                {
+                    "Question": "Where did the accident occur?",
+                    "Answer": "The accident occurred at Dallas/Fort Worth International Airport."
+                },
+                {
+                    "Question": "What type of aircraft was involved in the accident?",
+                    "Answer": "The type of aircraft involved in the accident was a McDonnell Douglas DC-9-82."
+                },
+                {
+                    "Question": "How many people were on board the aircraft?",
+                    "Answer": "There were 137 people on board the aircraft."
+                },
+                {
+                    "Question": "How many people died in the accident?",
+                    "Answer": "13 people died in the accident."
+                },
+                {
+                    "Question": "How many people were injured in the accident?",
+                    "Answer": "24 people were injured in the accident."
+                },
+                {
+                    "Question": "What is the cause of the accident?",
+                    "Answer": "The cause of the accident was a loss of control during takeoff."
+                },
+                {
+                    "Question": "What was the weather like at the time of the accident?",
+                    "Answer": "The weather was clear at the time of the accident."
+                },
+                {
+                    "Question": "What is the National Transportation Safety Board's finding on the cause of the accident?",
+                    "Answer": "The National Transportation Safety Board's finding on the cause of the accident was that the accident was caused by a loss of control during takeoff."
+                }
+            ],
+            "Output": "On August 5, 1985, a McDonnell Douglas DC-9-82 operated by Delta Air Lines as flight 1141 was taking off from Dallas/Fort Worth International Airport. The weather was clear at the time of the accident. The aircraft lost control during takeoff and crashed into a field, killing 13 people and injuring 24. The National Transportation Safety Board's finding on the cause of the accident was that the accident was caused by a loss of control during takeoff."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/L9yokCIssLVyOBDiPK2oNBX2?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1p0FMKz3mxKInxKNU27gwA_07FAVhqb2y?usp=sharing"
+}

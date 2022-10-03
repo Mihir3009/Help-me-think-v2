@@ -1,0 +1,147 @@
+{
+    "Domain": "Foreign Language",
+    "Task": "Generate a language translation guide",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert linguist. I will ask some questions to collect information and then I will use the information to write a language translation guide.\n\n",
+        "task_specific_prompt": "Write a language translation guide using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the source language?",
+                    "Answer": "The source language is English."
+                },
+                {
+                    "Question": "2. What is the target language?",
+                    "Answer": "The target language is Spanish."
+                },
+                {
+                    "Question": "3. What is the purpose of the translation guide?",
+                    "Answer": "The purpose of the translation guide is to help people who speak English to communicate with people who speak Spanish."
+                },
+                {
+                    "Question": "4. Who is the intended audience for the translation guide?",
+                    "Answer": "The intended audience for the translation guide is people who speak English and want to learn how to communicate with people who speak Spanish."
+                },
+                {
+                    "Question": "5. What kinds of topics will be covered in the translation guide?",
+                    "Answer": "The translation guide will cover a variety of topics, including grammar, vocabulary, and culture."
+                },
+                {
+                    "Question": "6. How long do you expect the translation guide to be?",
+                    "Answer": "The translation guide will be approximately 300 words."
+                },
+                {
+                    "Question": "7. When do you need the translation guide to be completed?",
+                    "Answer": "The translation guide needs to be completed within two weeks."
+                },
+                {
+                    "Question": "8. Will you be providing any additional materials?",
+                    "Answer": "No, I will not be providing any additional materials."
+                },
+                {
+                    "Question": "9. Do you have any special instructions?",
+                    "Answer": "It should be easy to understand by a naive user."
+                },
+                {
+                    "Question": "10. Is there anything else you would like to add?",
+                    "Answer": "No, there is nothing else I would like to add."
+                }
+            ],
+            "Output": "above.\nGuide to English-Spanish Translation\nSpanish is the second most widely spoken language in the world with over 460 million speakers. It is the official language in 21 countries and is spoken in a variety of dialects across the globe. This guide is designed to help English speakers communicate with Spanish speakers.\nHere are some key points to keep in mind:\n-Grammar: Spanish has different rules for grammar than English. For example, verbs are conjugated differently depending on the subject.\n-Vocabulary: Be careful with false cognates! These are words that appear to have the same meaning in both languages but actually have different meanings. For example, the English word \"embarrassed\" is a false cognate of the Spanish word \"embarazada\" which actually means \"pregnant\".\n-Culture: Be aware of cultural differences when communicating with Spanish speakers. For example, Spaniards tend to be more formal than Americans and use different words when addressing people.\nWith these things in mind, you should be able to communicate effectively with Spanish speakers."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the source language?",
+                    "Answer": "The source language is German."
+                },
+                {
+                    "Question": "2. What is the target language?",
+                    "Answer": "The target language is Arabic."
+                },
+                {
+                    "Question": "3. What is the purpose of the translation guide?",
+                    "Answer": "The purpose of the translation guide is to help people who speak German to communicate with people who speak Arabic."
+                },
+                {
+                    "Question": "4. Who is the intended audience for the translation guide?",
+                    "Answer": "The intended audience for the translation guide is people who speak German and want to learn how to communicate with people who speak Arabic."
+                },
+                {
+                    "Question": "5. What kinds of topics will be covered in the translation guide?",
+                    "Answer": "The translation guide will cover a variety of topics, including grammar, vocabulary, and culture."
+                },
+                {
+                    "Question": "6. How long do you expect the translation guide to be?",
+                    "Answer": "The translation guide will be approximately 400 words."
+                },
+                {
+                    "Question": "7. When do you need the translation guide to be completed?",
+                    "Answer": "The translation guide needs to be completed within one weeks."
+                },
+                {
+                    "Question": "8. Will you be providing any additional materials?",
+                    "Answer": "No, I will not be providing any additional materials."
+                },
+                {
+                    "Question": "9. Do you have any special instructions?",
+                    "Answer": "It should be well structured and presentable."
+                },
+                {
+                    "Question": "10. Is there anything else you would like to add?",
+                    "Answer": "No, there is nothing else I would like to add."
+                }
+            ],
+            "Output": "Arabic-German Translation Guide Grammar When translating from German to Arabic, there are a few key grammar rules to keep in mind. First, German nouns are always capitalized, while Arabic nouns are not. Second, German has three genders (male, female, and neuter), while Arabic only has two (masculine and feminine). Third, German has two plural forms (regular and irregular), while Arabic has only one. Finally, German has four cases (nominative, accusative, dative, and genitive), while Arabic has only three (nominative, accusative, and genitive). Vocabulary There are some key vocabulary differences between German and Arabic. For example, the German word for \"dog\" is \"Hund\", while the Arabic word is \"kalb\". Another example is the German word for \"cat\", which is \"Katze\", while the Arabic word is \"qit\". Culture When translating from German to Arabic, it is important to be aware of cultural differences. For example, in German culture, it is common to shake hands when meeting someone for the first time. In Arab culture, however, it is considered rude to"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the source language?",
+                    "Answer": "The source language is French."
+                },
+                {
+                    "Question": "2. What is the target language?",
+                    "Answer": "The target language is Chinese."
+                },
+                {
+                    "Question": "3. What is the purpose of the translation guide?",
+                    "Answer": "The purpose of the translation guide is to help people who speak French to communicate with people who speak Chinese."
+                },
+                {
+                    "Question": "4. Who is the intended audience for the translation guide?",
+                    "Answer": "The intended audience for the translation guide is people who speak French and want to learn how to communicate with people who speak Chinese."
+                },
+                {
+                    "Question": "5. What kinds of topics will be covered in the translation guide?",
+                    "Answer": "The translation guide will cover a variety of topics, including grammar and vocabulary."
+                },
+                {
+                    "Question": "6. How long do you expect the translation guide to be?",
+                    "Answer": "The translation guide will be approximately 400 words."
+                },
+                {
+                    "Question": "7. When do you need the translation guide to be completed?",
+                    "Answer": "The translation guide needs to be completed within one weeks."
+                },
+                {
+                    "Question": "8. Will you be providing any additional materials?",
+                    "Answer": "No, I will not be providing any additional materials."
+                },
+                {
+                    "Question": "9. Do you have any special instructions?",
+                    "Answer": "It should be easily understandable by a non-expert user."
+                },
+                {
+                    "Question": "10. Is there anything else you would like to add?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "Introduction This translation guide is intended for people who speak French and want to learn how to communicate with people who speak Chinese. It will cover a variety of topics, including grammar and vocabulary. The guide will be approximately 400 words long. Basics There are many different dialects of Chinese, but the two most commonly spoken are Mandarin and Cantonese. Mandarin is the official language of China, and is spoken by over 70% of the population. Cantonese is spoken in the southern region of China, as well as in Hong Kong and Macau. Chinese grammar is very different from French grammar. For example, there is no concept of verb tenses in Chinese. Instead, time is indicated by context, such as whether an event is in the past, present, or future."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/ydM66i1aTLFWWh2BQripkOUx?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1pkbiM7qQ-BRaXmKpA7gHlkoOt--5IkK4/view?usp=sharing"
+}

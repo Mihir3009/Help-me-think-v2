@@ -1,0 +1,152 @@
+{
+    "Contributor": "hillikerjacob",
+    "Domain": "Human Resources",
+    "Task": "Mission Statement",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert corporate culture consultant. I will ask some questions to collect information and then I will use the information to build a mission statement for your company based on your values.",
+        "task_specific_prompt": "Write a mission statement for the company using the questions and answers above. Make sure to incorporate their values and goals."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the three most important values that guide your company?",
+                    "Answer": "We believe that trust, creativity, and passion are at the heart of a successful enterprise."
+                },
+                {
+                    "Question": "What do you want your company to be known for?",
+                    "Answer": "We want to be known as a company that takes bold yet calculated risks to improve the lives of our customers."
+                },
+                {
+                    "Question": "What is your company's mission?",
+                    "Answer": "Our company's mission is to create useful products that improve the lives of others and spark further innovation."
+                },
+                {
+                    "Question": "What are your company's goals?",
+                    "Answer": "Our company's goals are to lead our industry, be a model for other industries, and to make the world a better place."
+                },
+                {
+                    "Question": "What does your company stand for?",
+                    "Answer": "Our company stands for trust, compassion, and ingenuity."
+                },
+                {
+                    "Question": "What makes your company unique?",
+                    "Answer": "Our company trusts our employees to guide us from all levels, not just the top. We listen to everyone's ideas and we are all the better for sharing their knowledge and wisdom."
+                },
+                {
+                    "Question": "What is the most important thing you want your employees to know?",
+                    "Answer": "We want our employees to know that we truly aim to make the world a better place through our products. People are the most important, and profit will follow."
+                },
+                {
+                    "Question": "What is the most important thing you want your customers to know?",
+                    "Answer": "We want our customers to know that we are tireless in pursuing perfection. We eagerly welcome feedback, both positive and negative, to drive us to improve."
+                },
+                {
+                    "Question": "What is the most important thing you want the world to know?",
+                    "Answer": "We want the world to know that we are not just here to turn a profit. We are here to change lives for the better through revolutionary ideas and quality products."
+                },
+                {
+                    "Question": "And finally, what do you hope to accomplish with your company?",
+                    "Answer": "We hope to be the best version of ourselves, and to inspire others to do the same."
+                }
+            ],
+            "Output": "\"Our company's mission is to create useful products that improve the lives of others and spark further innovation. We believe that trust, creativity, and passion are at the heart of a successful enterprise. We want to be known as a company that takes bold yet calculated risks to improve the lives of our customers. Our company's goals are to lead our industry, be a model for other industries, and to make the world a better place. Our company stands for trust, compassion, and ingenuity. We are tireless in our pursuit of perfection and we eagerly welcome feedback to improve. We hope to be the best version of ourselves and to inspire others to do the same.\""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the three most important values that guide your company?",
+                    "Answer": "We are guided by hard work, profit, and leadership."
+                },
+                {
+                    "Question": "What are your company's goals?",
+                    "Answer": "Our goal is to be profitable and respectable."
+                },
+                {
+                    "Question": "What do you want your company to be known for?",
+                    "Answer": "We want our company to be known for providing great service and setting the standards of excellence."
+                },
+                {
+                    "Question": "What do you want your employees to feel when they come to work?",
+                    "Answer": "We want our employees to feel like they are part of a family who will guide them to success."
+                },
+                {
+                    "Question": "What do you want your customers to feel when they interact with your company?",
+                    "Answer": "We want our customers to feel like they are working with the best of the best, and we hope they know we will provide a quality experience."
+                },
+                {
+                    "Question": "What do you want the community to think of your company?",
+                    "Answer": "We want the community to be proud of our achievements and to be part of our story."
+                },
+                {
+                    "Question": "What is your company's history?",
+                    "Answer": "Our company was founded in 1999 to provide high quality widgets to our customers. We have since expanded into agile solutions."
+                },
+                {
+                    "Question": "What is your company's philosophy?",
+                    "Answer": "Our philosophy is to provide great service to our customers and to command respect in our industry."
+                },
+                {
+                    "Question": "What are your company's core strengths?",
+                    "Answer": "Our core strengths are our hard work and our history."
+                },
+                {
+                    "Question": "What makes your company unique?",
+                    "Answer": "Our company is unique because of our cutting-edge dynamic solutions that are scalable and smart."
+                }
+            ],
+            "Output": "Our mission at (company name) is to provide great service and quality products to our customers, while always maintaining our core values of hard work and respect. We strive to be a profitable and respectable company that is known for setting the standards of excellence. Our employees are our family, and we guide them to success. Our customers are our top priority, and we work to create the best experience possible. We want the community to be proud of our achievements and to be part of our story."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the three most important values that guide your company?",
+                    "Answer": "We are guided by truth, freedom, and prosperity."
+                },
+                {
+                    "Question": "What do you want your company to be known for?",
+                    "Answer": "We want to be known as the company that makes tough choices to produce great results."
+                },
+                {
+                    "Question": "What do you want your employees to feel when they come to work?",
+                    "Answer": "We want our employees to feel privileged to be a part of our organization and our story."
+                },
+                {
+                    "Question": "What is your company's mission?",
+                    "Answer": "To be the best company in the world by constantly finding ways to improve our processes and culture."
+                },
+                {
+                    "Question": "What are your company's goals?",
+                    "Answer": "We aim to be a model of hard work and success."
+                },
+                {
+                    "Question": "What makes your company unique?",
+                    "Answer": "Our company is unique because we are unafraid to speak our minds. We take individual responsibility and convert it into profitable products and services."
+                },
+                {
+                    "Question": "What is your company's philosophy?",
+                    "Answer": "Our philosophy is to exemplify American freedom and power by providing quality firearms to our citizens."
+                },
+                {
+                    "Question": "What is your company's vision?",
+                    "Answer": "Our vision is to be the last bastion of freedom in a society of fear and hatred."
+                },
+                {
+                    "Question": "What are your company's core values?",
+                    "Answer": "Our core values are freedom, strength, and honor."
+                },
+                {
+                    "Question": "What is your company's tagline?",
+                    "Answer": "\"The Last Shot at Freedom\""
+                }
+            ],
+            "Output": "Our mission is to provide quality firearms to responsible citizens in order to uphold American freedom and power. We aim to be a model of hard work and success, always finding ways to improve our processes and culture. Our employees are privileged to be a part of our organization and our story. We are unafraid to speak our minds and take individual responsibility to convert it into profitable products and services."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/LU78yZ6cjoJEtkmw77V5F6GB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/l2wilSGYa3Q22xkphc8t6ZLJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RmChIPnJn0RtRFm7fpgOY6qJ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1tS8_T-G0188vPgGbK0bnULbMXCiOq32e?usp=sharing"
+}

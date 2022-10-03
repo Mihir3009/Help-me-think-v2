@@ -1,0 +1,148 @@
+{
+    "Contributor": "watsonbrandon",
+    "Domain": "Systems Engineering",
+    "Task": "Find what disciplines your project is involved with",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert engineer. I will ask some questions to collect information and then I will use the information to find what disciplines your project is involved with",
+        "task_specific_prompt": "Write what disciplines the project is involved with and what they specialize in."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your project about?",
+                    "Answer": "Making cat robots"
+                },
+                {
+                    "Question": "What are your project goals?",
+                    "Answer": "make a cat robot that can play with kids"
+                },
+                {
+                    "Question": "What are the specific challenges you are facing with your project?",
+                    "Answer": "making the robot walk"
+                },
+                {
+                    "Question": "What is the scope of your project?",
+                    "Answer": "robots and not AI"
+                },
+                {
+                    "Question": "What are the deliverables of your project?",
+                    "Answer": "one cat robot"
+                },
+                {
+                    "Question": "What are the risks and uncertainties associated with your project?",
+                    "Answer": "the robot might hurt someone"
+                },
+                {
+                    "Question": "What is the timeline for your project?",
+                    "Answer": "5 years"
+                },
+                {
+                    "Question": "What is the budget for your project?",
+                    "Answer": "$1,000,000"
+                },
+                {
+                    "Question": "What is the level of experience of your team?",
+                    "Answer": "Two experts and one beginner"
+                },
+                {
+                    "Question": "Are there any other stakeholders involved in your project?",
+                    "Answer": "nope"
+                }
+            ],
+            "Output": "This project is involved with engineering and robotics. The engineering discipline will be responsible for designing and building the cat robot, and the robotics discipline will be responsible for programming the robot to walk and play with kids."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your project about?",
+                    "Answer": "Making an AR app"
+                },
+                {
+                    "Question": "What are your project goals?",
+                    "Answer": "finish the app"
+                },
+                {
+                    "Question": "What are the specific challenges you are facing with your project?",
+                    "Answer": "using the AR functionality"
+                },
+                {
+                    "Question": "What is the scope of your project?",
+                    "Answer": "app development"
+                },
+                {
+                    "Question": "What are the deliverables of your project?",
+                    "Answer": "the app running on a phone"
+                },
+                {
+                    "Question": "What are the risks and uncertainties associated with your project?",
+                    "Answer": "none"
+                },
+                {
+                    "Question": "What is the timeline for your project?",
+                    "Answer": "1 years"
+                },
+                {
+                    "Question": "What is the budget for your project?",
+                    "Answer": "$1,000"
+                },
+                {
+                    "Question": "What is the level of experience of your team?",
+                    "Answer": "High school graduates"
+                },
+                {
+                    "Question": "Are there any other stakeholders involved in your project?",
+                    "Answer": "my parents"
+                }
+            ],
+            "Output": "The project is involved with software engineering, computer science, and information technology. They specialize in developing applications, programming, and designing computer systems."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your project about?",
+                    "Answer": "healthy eating"
+                },
+                {
+                    "Question": "What are your project goals?",
+                    "Answer": "make eating healthy fun"
+                },
+                {
+                    "Question": "What are the specific challenges you are facing with your project?",
+                    "Answer": "finding good food"
+                },
+                {
+                    "Question": "What is the scope of your project?",
+                    "Answer": "food science"
+                },
+                {
+                    "Question": "What are the deliverables of your project?",
+                    "Answer": "5 recipes"
+                },
+                {
+                    "Question": "What are the risks and uncertainties associated with your project?",
+                    "Answer": "none"
+                },
+                {
+                    "Question": "What is the timeline for your project?",
+                    "Answer": "2 weeks"
+                },
+                {
+                    "Question": "What is the budget for your project?",
+                    "Answer": "$0"
+                },
+                {
+                    "Question": "What is the level of experience of your team?",
+                    "Answer": "child"
+                },
+                {
+                    "Question": "Are there any other stakeholders involved in your project?",
+                    "Answer": "elon musk"
+                }
+            ],
+            "Output": "Healthy eating - Cooking, Nutrition, Food Science. Making eating healthy fun - Psychology, Marketing. Finding good food - Food Science, Cooking"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/qeCxRDlOpF9kWBq8DrPqRdhs?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/12ukNHY_ePwalKaLDD9_XzXzG11V5SCe-/view?usp=sharing"
+}

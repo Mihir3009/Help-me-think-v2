@@ -1,0 +1,152 @@
+{
+    "Contributor": "kesanavarun",
+    "Domain": "Mathematics",
+    "Task": "Suggest a profession based on your mathematical knowledge",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Mathematician. I will ask some questions to collect information and then I will use the information to suggest a profession based on your mathematical knowledge.",
+        "task_specific_prompt": "Suggest a profession for me using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you enjoy working with numbers and solving mathematical problems?",
+                    "Answer": "I really enjoy working with numbers and solving mathematical problems. I find it to be a very stimulating and challenging activity."
+                },
+                {
+                    "Question": "How good are you at working with numbers and solving mathematical problems?",
+                    "Answer": "I am very good at working with numbers and solving mathematical problems. I have a lot of experience with both and I am confident in my abilities."
+                },
+                {
+                    "Question": "How much experience do you have with mathematical modeling?",
+                    "Answer": "I have 2 years experience with mathematical modeling."
+                },
+                {
+                    "Question": "How much experience do you have with statistical analysis?",
+                    "Answer": "I have 4 years experience with statistical analysis."
+                },
+                {
+                    "Question": "How much experience do you have with Excel?",
+                    "Answer": "I have 4 years experience with Excel."
+                },
+                {
+                    "Question": "How much experience do you have with R?",
+                    "Answer": "I have 2 years experience with R."
+                },
+                {
+                    "Question": "How much experience do you have with SAS?",
+                    "Answer": "I have no experience with SAS."
+                },
+                {
+                    "Question": "How much experience do you have with Python?",
+                    "Answer": "I have 1 years experience with Python."
+                },
+                {
+                    "Question": "How much experience do you have with SQL?",
+                    "Answer": "I have 2 years experience with SQL."
+                },
+                {
+                    "Question": "How much experience do you have with data mining?",
+                    "Answer": "I have 1 years experience with data mining."
+                }
+            ],
+            "Output": "The profession that I would suggest for you based on the information above is a data analyst."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How well do you understand concepts such as geometry, algebra, and calculus?",
+                    "Answer": "I understand algebra and calculus concepts very well but I am not good at geometry."
+                },
+                {
+                    "Question": "How do you feel about solving complex mathematical problems?",
+                    "Answer": "I enjoy solving complex algebra and calculus mathematical problems."
+                },
+                {
+                    "Question": "What is your highest level of education in mathematics?",
+                    "Answer": "I have a PhD in mathematics."
+                },
+                {
+                    "Question": "What are your career aspirations?",
+                    "Answer": "I would love to teach math and also solve complex unsolved problems."
+                },
+                {
+                    "Question": "Do you have any experience working with numbers and data?",
+                    "Answer": "I have a great deal of experience working with numbers and data. I have worked as a statistician in the past."
+                },
+                {
+                    "Question": "What do you think are the most important skills for a mathematician?",
+                    "Answer": "The most important skills for a mathematician, in my opinion, are logical reasoning, the ability to think abstractly and never give up."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for a successful mathematician?",
+                    "Answer": "The most important qualities for a successful mathematician, in my opinion, are intelligence, discipline, and perseverance."
+                },
+                {
+                    "Question": "What do you think are the biggest challenges faced by mathematicians?",
+                    "Answer": "I think the biggest challenges faced by mathematicians is understanding and finding how neural networks work with such high accuracy."
+                },
+                {
+                    "Question": "What are your thoughts on the future of mathematics?",
+                    "Answer": "I believe that mathematics will continue to evolve and become more complex as we understand more about the universe and the world around us."
+                },
+                {
+                    "Question": "What do you think would be the best thing about working as a mathematician?",
+                    "Answer": "I think the best thing about working as a mathematician would be the intellectual challenge it provides. I also think it would be very satisfying to be able to solve complex problems that nobody has been able to solve before."
+                }
+            ],
+            "Output": "I think you would make an excellent mathematician, professor, or statistician."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How well do you understand mathematical concepts?",
+                    "Answer": "I understand mathematical concepts very well."
+                },
+                {
+                    "Question": "How well can you solve mathematical problems?",
+                    "Answer": "I can solve mathematical problems very well."
+                },
+                {
+                    "Question": "How much experience do you have with mathematical modeling?",
+                    "Answer": "I have a around 10 years of experience with mathematical modeling."
+                },
+                {
+                    "Question": "What is your experience with statistical methods?",
+                    "Answer": "I have experience with statistical methods. In past I worked on statistical tools to develop prediction models."
+                },
+                {
+                    "Question": "Do you have experience working with large data sets?",
+                    "Answer": "I have experience working with large data sets. I have worked with data sets containing millions of rows and thousands of columns."
+                },
+                {
+                    "Question": "What is your experience with optimization methods?",
+                    "Answer": "I have experience with optimization methods. I have used optimization methods to solve a variety of problems."
+                },
+                {
+                    "Question": "What is your experience with differential equations?",
+                    "Answer": "I have 10+ years of experience with differential equations. I have used differential equations to model physical systems."
+                },
+                {
+                    "Question": "What is your experience with numerical analysis?",
+                    "Answer": "I have 10+ years of experience with numerical analysis. I have used numerical methods to solve differential equations."
+                },
+                {
+                    "Question": "What is your experience with probability theory?",
+                    "Answer": "I have good experience with probability theory. I have used probability theory to develop statistical models."
+                },
+                {
+                    "Question": "What is your experience with stochastic processes?",
+                    "Answer": "I have no experience with stochastic processes."
+                }
+            ],
+            "Output": "A profession that would be a good fit for someone with the mathematical knowledge and skills described above is that of a data analyst. Data analysts use mathematical methods to analyze data sets, develop models, and make predictions."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/meBVVUYlgKPflcS5YFX1odwS?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qGJGTGm8oWoK1XXppibL08BC?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DgrIeYaXIAMWsKFqt6eJknNp?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1_-zreMMUTBJ0dQdqfIIJSoRxSePP7wy9?usp=sharing"
+}

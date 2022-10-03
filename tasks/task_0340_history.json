@@ -1,0 +1,236 @@
+{
+    "Contributor": "hardyadam",
+    "Domain": "History",
+    "Task": "2. Historical Japanese Cuisine",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in ancient and historical Japanese cuisine. I am going to ask you a series of questions to determine what types and flavors of food you enjoy. I will also ask questions to gauge your familiarity with cooking to determine your skill at the subject. Lastly, I will ask questions regarding your interest and knowledge in Japanese history. I will use these to come up with the best possible dish for you and teach you how to prepare it. ",
+        "task_specific_prompt": "Using the questions and answers provided, select the optimal historical Japanese dish for the person answering the questions. Then provide a recipe for the dish."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on sushi?",
+                    "Answer": "I do not like it."
+                },
+                {
+                    "Question": "What are your thoughts on rice?",
+                    "Answer": "I like it quite a lot, especially white rice with some sort of sauce like teriyaki."
+                },
+                {
+                    "Question": "What are your thoughts on seafood?",
+                    "Answer": "I like cooked seafood, with shrimp being my favorite."
+                },
+                {
+                    "Question": "What are your thoughts on seaweed?",
+                    "Answer": "I am not a fan of seaweed."
+                },
+                {
+                    "Question": "What are your thoughts on soy sauce?",
+                    "Answer": "I do not have an opinion on soy sauce."
+                },
+                {
+                    "Question": "What are your thoughts on tempura?",
+                    "Answer": "I like tempura, especially shrimp tempura."
+                },
+                {
+                    "Question": "What are your thoughts on noodles?",
+                    "Answer": "I like all kinds of noodles."
+                },
+                {
+                    "Question": "What are your thoughts on vegetables?",
+                    "Answer": "I like most vegetables if properly cooked and seasoned and added to a dish. I do not like vegetables on their own."
+                },
+                {
+                    "Question": "What are your thoughts on fruit?",
+                    "Answer": "I do not like and have difficulty digesting most fruits."
+                },
+                {
+                    "Question": "What are your thoughts on meat?",
+                    "Answer": "I like all kinds of meat."
+                },
+                {
+                    "Question": "What are your thoughts on sweets?",
+                    "Answer": "I like most sweets."
+                },
+                {
+                    "Question": "What are your thoughts on Japanese food in general?",
+                    "Answer": "I like most Japanese food, especially anything involving noodles or rice."
+                },
+                {
+                    "Question": "How familiar are you with cooking?",
+                    "Answer": "I can follow recipes of moderate difficulty, but do not have much practical experience."
+                },
+                {
+                    "Question": "How much do you know about Japanese history?",
+                    "Answer": "I know practically nothing about it. I just know I like their food and want to try more."
+                },
+                {
+                    "Question": "Are you interested in learning more about Japanese history?",
+                    "Answer": "Yes, but I am more interested in learning about their best historical dishes so I can try some for myself."
+                },
+                {
+                    "Question": "Would you like me to teach you how to make a specific dish?",
+                    "Answer": "Would you like me to teach you how to make a specific dish?"
+                },
+                {
+                    "Question": "What kind of dish would you like to learn how to make?",
+                    "Answer": "I would like to learn how to make a dish that is representative of historical Japanese cuisine."
+                }
+            ],
+            "Output": "The best historical Japanese dish for the person answering the questions is tempura. Tempura is a dish that was introduced to Japan by the Portuguese in the 16th century. It is a dish made of seafood or vegetables that are coated in a light batter and fried. It is typically served with a dipping sauce made of soy sauce and dashi.\n\nRecipe:\n\nIngredients:\n\n-1/2 cup all-purpose flour\n-1/2 cup cornstarch\n-1 teaspoon baking powder\n-1/2 teaspoon salt\n-1 cup water\n-1/4 cup vegetable oil\n-1 pound shrimp, peeled and deveined\n-1 cup broccoli florets\n-1 cup cauliflower florets\n-1 cup carrots, julienned\n-1 cup sweet potatoes, julienned\n-1 cup green beans, trimmed\n-Soy sauce\n-Dashi\n\nInstructions:\n\n1. Preheat oil in a deep fryer to 350 degrees F.\n\n2. In a large bowl, whisk together flour, cornstarch, baking powder, and salt. Slowly stir in water and oil until the batter is smooth.\n\n3. Dip the shrimp, vegetables, and sweet potatoes into the batter, making sure each piece is well coated.\n\n4. Carefully add the battered shrimp and vegetables to the hot oil and fry until golden brown and cooked through, about 3-5 minutes.\n\n5. Remove from the oil and drain on paper towels.\n\n6. Serve with soy sauce and dashi for dipping."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on sushi?",
+                    "Answer": "I could take it or leave it."
+                },
+                {
+                    "Question": "What are your thoughts on rice?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on seafood?",
+                    "Answer": "It is not my favorite, but I like salmon and cod."
+                },
+                {
+                    "Question": "What are your thoughts on seaweed?",
+                    "Answer": "Neutral"
+                },
+                {
+                    "Question": "What are your thoughts on soy sauce?",
+                    "Answer": "I like it."
+                },
+                {
+                    "Question": "What are your thoughts on tempura?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on noodles?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on vegetables?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on fruit?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on meat?",
+                    "Answer": "I like chicken and beef."
+                },
+                {
+                    "Question": "What are your thoughts on sweets?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on Japanese food in general?",
+                    "Answer": "I like all Japanese food."
+                },
+                {
+                    "Question": "How familiar are you with cooking?",
+                    "Answer": "I am a novice."
+                },
+                {
+                    "Question": "How much do you know about Japanese history?",
+                    "Answer": "A decent amount."
+                },
+                {
+                    "Question": "Are you interested in learning more about Japanese history?",
+                    "Answer": "Not particularly."
+                },
+                {
+                    "Question": "Would you like me to teach you how to make a specific dish?",
+                    "Answer": "That is why I am here."
+                },
+                {
+                    "Question": "What kind of dish would you like to learn how to make?",
+                    "Answer": "Something mildly spicy with historical significance."
+                }
+            ],
+            "Output": "The best historical Japanese dish for the person answering the questions is Chicken Teriyaki.\n\nRecipe:\n\n1. Preheat oven to 350 degrees F.\n\n2. In a small bowl, whisk together soy sauce, honey, vinegar, garlic, and red pepper flakes.\n\n3. Place chicken in a baking dish and pour the soy sauce mixture over top.\n\n4. Bake for 30 minutes, or until chicken is cooked through.\n\n5. Remove from oven and serve immediately."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on sushi?",
+                    "Answer": "I like it."
+                },
+                {
+                    "Question": "What are your thoughts on rice?",
+                    "Answer": "I like it."
+                },
+                {
+                    "Question": "What are your thoughts on seafood?",
+                    "Answer": "It is my favorite. I enjoy all kinds of seafood."
+                },
+                {
+                    "Question": "What are your thoughts on seaweed?",
+                    "Answer": "I like it."
+                },
+                {
+                    "Question": "What are your thoughts on soy sauce?",
+                    "Answer": "Neutral."
+                },
+                {
+                    "Question": "What are your thoughts on tempura?",
+                    "Answer": "I like it but it is not my favorite."
+                },
+                {
+                    "Question": "What are your thoughts on noodles?",
+                    "Answer": "I am not a fan."
+                },
+                {
+                    "Question": "What are your thoughts on vegetables?",
+                    "Answer": "I like vegetables."
+                },
+                {
+                    "Question": "What are your thoughts on fruit?",
+                    "Answer": "I like fruit."
+                },
+                {
+                    "Question": "What are your thoughts on meat?",
+                    "Answer": "I like meat, especially if it is seafood."
+                },
+                {
+                    "Question": "What are your thoughts on sweets?",
+                    "Answer": "I am not a fan."
+                },
+                {
+                    "Question": "What are your thoughts on Japanese food in general?",
+                    "Answer": "I mostly like Japanese seafood."
+                },
+                {
+                    "Question": "How familiar are you with cooking?",
+                    "Answer": "I am experienced."
+                },
+                {
+                    "Question": "How much do you know about Japanese history?",
+                    "Answer": "A large amount."
+                },
+                {
+                    "Question": "Are you interested in learning more about Japanese history?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Would you like me to teach you how to make a specific dish?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What kind of dish would you like to learn how to make?",
+                    "Answer": "Something involving seafood, preferably with some historical significance."
+                },
+                {
+                    "Question": "",
+                    "Answer": ""
+                }
+            ],
+            "Output": "The optimal historical Japanese dish for the person answering the questions is chirashizushi. Chirashizushi is a type of sushi that is traditionally served on special occasions. It is made by layering sushi rice, seafood, and vegetables in a bowl. \n\nTo make chirashizushi, you will need:\n\n-1 cup sushi rice\n-1/2 cup dashi\n-1/4 cup sushi vinegar\n-1 teaspoon salt\n-1 tablespoon sugar\n-1/2 cup cooked shrimp\n-1/2 cup cooked squid\n-1/2 cup cooked crab meat\n-1/4 cup cucumber, julienned\n-1/4 cup carrot, julienned\n-1/4 cup nori, shredded\n\nInstructions:\n\n1. Cook the sushi rice according to package instructions.\n\n2. In a bowl, mix together the dashi, sushi vinegar, salt, and sugar.\n\n3. Once the rice is cooked, add it to the bowl with the dashi mixture and mix well.\n\n4. To assemble the chirashizushi, place a layer of rice in the bottom of a bowl. Top with a layer of shrimp, squid, crab meat, cucumber, and carrot. Top with another layer of rice and repeat the process.\n\n5. Top with shredded nori and serve."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/mdc4DKSAd0zx4jSVmDatsjl8?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1jH08u0yHD0KjnIGD9FjFJWlIzrycTpd3/view?usp=sharing"
+}

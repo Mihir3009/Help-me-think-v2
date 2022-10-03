@@ -1,0 +1,114 @@
+{
+    "Contributor": "kaharjashpramod",
+    "Domain": "Knowledge Base",
+    "Task": "Medical",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in creating medical knowledge bases. I will ask some questions to collect information and then I will use the information to make knowledge base for a hospital showing information about its services, patients, doctors, specialty equipment and research done at the hospital.",
+        "task_specific_prompt": "using the questions and answers above, give the knowledge base for $instace_specific_prompt$"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the hospital?",
+                    "Answer": "The name of the hospital is NorthShore University HealthSystem."
+                },
+                {
+                    "Question": "What services does the hospital offer?",
+                    "Answer": "The hospital offers a wide range of services, including but not limited to: primary care, urgent care, cancer care, cardiology, women's health, and more"
+                },
+                {
+                    "Question": "What is the hospital's patient population?",
+                    "Answer": "The hospital treats a wide range of patients, including but not limited to: children, adults, seniors, and more."
+                },
+                {
+                    "Question": "What is the hospital's staff like?",
+                    "Answer": "The hospital's staff is highly skilled and experienced. They are dedicated to providing the best possible care for their patients."
+                },
+                {
+                    "Question": "What is the hospital's research like?",
+                    "Answer": "The hospital is constantly conducting research to improve their services and the quality of care they provide."
+                },
+                {
+                    "Question": "What is the hospital's specialty equipment like?",
+                    "Answer": "The hospital has state-of-the-art equipment that allows them to provide the best possible care for their patients."
+                },
+                {
+                    "Question": "What is the hospital's mission?",
+                    "Answer": "The hospital's mission is to provide high-quality, compassionate care for all of their patients."
+                },
+                {
+                    "Question": "What is the hospital's history?",
+                    "Answer": "The hospital was founded in 1952."
+                }
+            ],
+            "Output": "The NorthShore University HealthSystem is a hospital that offers a wide range of services, including but not limited to: primary care, urgent care, cancer care, cardiology, women's health, and more. The hospital treats a wide range of patients, including but not limited to: children, adults, seniors, and more. The hospital's staff is highly skilled and experienced. They are dedicated to providing the best possible care for their patients. The hospital is constantly conducting research to improve their services and the quality of care they provide. The hospital has state-of-the-art equipment that allows them to provide the best possible care for their patients. The hospital's philosophy is to provide the best possible care for their patients. The hospital's mission is to provide high-quality, compassionate care for all of their patients. The hospital's vision is to be the premier healthcare provider in the world. The hospital was founded in 1952.   "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the symptoms of kidney disease?",
+                    "Answer": "There are many different symptoms of kidney disease, and they often depend on the specific type of kidney disease that a person has. Some common symptoms include fatigue, weakness, weight loss, and decreased appetite. Other symptoms may include changes in urination, such as increased frequency or decreased urinary output. Additionally, some people with kidney disease may experience swelling in the ankles, feet, or legs."
+                },
+                {
+                    "Question": "What are the causes of kidney disease?",
+                    "Answer": "There are many different causes of kidney disease, and they often depend on the specific type of kidney disease that a person has. Some common causes include diabetes, high blood pressure, and a family history of kidney disease. Additionally, certain medications and infections can also lead to kidney disease."
+                },
+                {
+                    "Question": "What are the treatments for kidney disease?",
+                    "Answer": "There are many different treatments for kidney disease, and they often depend on the specific type of kidney disease that a person has. Some common treatments include lifestyle changes, such as diet and exercise, and medications. Additionally, some people may need to undergo dialysis or a kidney transplant."
+                },
+                {
+                    "Question": "How can kidney disease be prevented?",
+                    "Answer": "There are many different ways to prevent kidney disease, and they often depend on the specific type of kidney disease that a person is at risk for. Some common ways to prevent kidney disease include maintaining a healthy weight, eating a healthy diet, and exercising regularly. Additionally, it is important to control conditions such as diabetes and high blood pressure."
+                },
+                {
+                    "Question": "What are the long-term effects of kidney disease? ",
+                    "Answer": "The long-term effects of kidney disease can be very serious. Kidney disease can lead to kidney failure, which can require dialysis or a kidney transplant. Additionally, kidney disease can increase the risk for cardiovascular disease and other serious health problems. "
+                },
+                {
+                    "Question": "What are the risks of kidney disease?",
+                    "Answer": "The risks of kidney disease vary depending on the specific type of kidney disease. However, some general risks include kidney failure, cardiovascular disease, and other serious health problems. "
+                }
+            ],
+            "Output": "Kidney Disease Symptoms: -Fatigue -Weakness -Weight loss -Decreased appetite -Changes in urination (increased frequency or decreased output) -Swelling in the ankles, feet, or legs Causes: -Diabetes -High blood pressure -Family history of kidney disease -Certain medications -Infections Treatments: -Lifestyle changes (diet and exercise) -Medications -Dialysis -Kidney transplant Prevention: -Maintain a healthy weight -Eat a healthy diet -Exercise regularly -Control conditions such as diabetes and high blood pressure Long-term effects: -Kidney failure -Cardiovascular disease -Other serious health problems Risks: -Kidney failure -Cardiovascular disease -Other serious health problems"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some common diseases that can affect the liver? ",
+                    "Answer": "There are many diseases that can affect the liver, but some of the more common ones include hepatitis, cirrhosis, and fatty liver disease. "
+                },
+                {
+                    "Question": "What are the symptoms of liver disease?",
+                    "Answer": "The symptoms of liver disease can vary depending on the specific disease, but some common symptoms include fatigue, jaundice, nausea, and abdominal pain"
+                },
+                {
+                    "Question": "What are the treatments for liver disease?",
+                    "Answer": "The treatments for liver disease also vary depending on the specific disease, but some common treatments include medication, surgery, and transplant. "
+                },
+                {
+                    "Question": "What are some of the complications of liver disease? ",
+                    "Answer": "Some of the complications of liver disease include ascites, encephalopathy, and gastrointestinal bleeding"
+                },
+                {
+                    "Question": "What is the prognosis for liver disease?",
+                    "Answer": "The prognosis for liver disease also varies depending on the specific disease, but some common prognoses include chronic liver disease, end-stage liver disease, and liver failure. "
+                }
+            ],
+            "Output": "Diseases of the Liver The liver is a vital organ that plays a crucial role in many bodily functions. Unfortunately, it is also susceptible to a number of diseases that can cause serious problems. There are many diseases that can affect the liver, but some of the more common ones include hepatitis, cirrhosis, and fatty liver disease. The symptoms of liver disease can vary depending on the specific disease, but some common symptoms include fatigue, jaundice, nausea, and abdominal pain. The treatments for liver disease also vary depending on the specific disease, but some common treatments include medication, surgery, and transplant. Some of the complications of liver disease include ascites, encephalopathy, and gastrointestinal bleeding. The prognosis for liver disease also varies depending on the specific disease, but some common prognoses include chronic liver disease, end-stage liver disease, and liver failure."
+        }
+    ],
+    "Preset_link": [
+        {
+            "Link 1": "https://beta.openai.com/playground/p/rUwCF0cO4muQIrxSIh4Gp7kN?model=text-davinci-002"
+        },
+        {
+            "Link 1": "https://beta.openai.com/playground/p/BNFsX9oLVxHyS0yQcFUHadHA?model=text-davinci-002"
+        },
+        {
+            "Link 1": "https://beta.openai.com/playground/p/VPSjgkwnY9ZJda2XOgj5u7F4?model=text-davinci-002"
+        }
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1PiYHDsdGvjtEb2yZM61v5bt3DRmo9KET?usp=sharing"
+}

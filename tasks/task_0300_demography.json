@@ -1,0 +1,152 @@
+{
+    "Contributor": "uddinmdnayem",
+    "Domain": "Demography",
+    "Task": "Paragraph for the ninth graders on language demography",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert on linguistics. I will ask questions on linguistic demography to make a report.",
+        "task_specific_prompt": "Write a paragraph for the ninth graders on the linguistic demography based on these questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many languages are spoken in your country?",
+                    "Answer": "There are many languages spoken in the United States. I will list a few."
+                },
+                {
+                    "Question": "What is the largest language spoken in your country?",
+                    "Answer": "The largest language spoken in the United States is English."
+                },
+                {
+                    "Question": "What is the second largest language spoken in your country?",
+                    "Answer": "The second largest language spoken in the United States is Spanish. There are even more Spanish-speaking people in this country than there are in Spain!"
+                },
+                {
+                    "Question": "What languages are considered official in your country?",
+                    "Answer": "The United States has no official language. However, English is considered the de facto language for government business."
+                },
+                {
+                    "Question": "What is the history of language in your country?",
+                    "Answer": "The United States is a very linguistically diverse country. Many languages are spoken here because of the country's history. For example, Spanish is spoken here because of the Spanish colonization of the Americas. English is spoken here because the United States was originally a British colony. And many other languages are spoken here because of the large number of immigrants who have come to the United States from all over the world."
+                },
+                {
+                    "Question": "Are there any endangered languages in your country?",
+                    "Answer": "There are endangered languages in the United States, though not as many as in other parts of the world. Some of the endangered languages spoken in the United States are Hawaiian, Iroquoian, and Algonquian."
+                },
+                {
+                    "Question": "What is the most common language spoken in your country?",
+                    "Answer": "English is by far the most prominent spoken language in the U.S., with over 239 million English-speaking people across the country."
+                },
+                {
+                    "Question": "What languages are spoken in your country besides English?",
+                    "Answer": "Besides English, the most commonly spoken languages in the United States are Spanish, Chinese, and French."
+                },
+                {
+                    "Question": "What is the demographics of language in your country?",
+                    "Answer": "The demographics of language in the United States are quite diverse. The census reports that there are between 350 and 430 languages spoken in the United States of America, making it one of the most linguistically diverse countries in the world."
+                },
+                {
+                    "Question": "What are some common language-related problems in your country?",
+                    "Answer": "One of the most common language-related problems in the United States is the difficulty of communication between people who speak different languages. This can be a problem in areas where there are large numbers of immigrants or in areas where there are many tourists."
+                }
+            ],
+            "Output": "The United States is a linguistically diverse country, with many different languages spoken throughout the country. The most common language spoken in the United States is English, but there are also many people who speak Spanish, Chinese, and French. There are some common language-related problems in the United States, such as the difficulty of communication between people who speak different languages. However, the United States is also a very linguistically diverse country, with many different languages spoken throughout the country."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the first language of the majority of people in the world?",
+                    "Answer": "The first language of the majority of people in the world is Mandarin Chinese."
+                },
+                {
+                    "Question": "What is the second language of the majority of people in the world?",
+                    "Answer": "The second language of the majority of people in the world is English."
+                },
+                {
+                    "Question": "What is the third language of the majority of people in the world?",
+                    "Answer": "The third language of the majority of people in the world is Spanish"
+                },
+                {
+                    "Question": "What is the fourth language of the majority of people in the world?",
+                    "Answer": "The fourth language of the majority of people in the world is Arabic."
+                },
+                {
+                    "Question": "What is the fifth language of the majority of people in the world?",
+                    "Answer": "The fifth language of the majority of people in the world is Hindi."
+                },
+                {
+                    "Question": "What is the sixth language of the majority of people in the world?",
+                    "Answer": "The sixth language of the majority of people in the world is Bengali."
+                },
+                {
+                    "Question": "What is the seventh language of the majority of people in the world?",
+                    "Answer": "The seventh language of the majority of people in the world is Portuguese."
+                },
+                {
+                    "Question": "What is the eighth language of the majority of people in the world?",
+                    "Answer": "The eighth language of the majority of people in the world is Russian."
+                },
+                {
+                    "Question": "What is the ninth language of the majority of people in the world?",
+                    "Answer": "The ninth language of the majority of people in the world is Japanese."
+                },
+                {
+                    "Question": "What is the tenth language of the majority of people in the world?",
+                    "Answer": "The tenth language of the majority of people in the world is German."
+                }
+            ],
+            "Output": "The majority of people in the world speak Mandarin Chinese as their first language. English is the second language for most people, followed by Spanish, Arabic, and Hindi. Bengali, Portuguese, Russian, and Japanese are also widely spoken languages. German is the tenth most common language spoken in the world."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the effects of linguistic demography on the development of language?",
+                    "Answer": "There is not a lot of research on the effects of linguistic demography on language development, but it is likely that it has some influence. Linguistic demography refers to the study of the size, distribution, and composition of language communities. It can provide information on how languages are used and how they change over time. This information can be used to understand how languages are acquired and how they develop."
+                },
+                {
+                    "Question": "What is the relationship between linguistic demography and language change?",
+                    "Answer": "Linguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language acquisition?",
+                    "Answer": "Linguistic demography can influence language acquisition in a number of ways. For example, it can affect the rate of acquisition, the order of acquisition, and the type of acquisition that occurs. It can also affect how languages are used and how they develop."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language use?",
+                    "Answer": "Linguistic demography can influence language use in a number of ways. For example, it can affect the frequency of use, the context of use, and the type of use that occurs. It can also affect how languages are acquired and how they develop."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language development?",
+                    "Answer": "Linguistic demography can influence language development in a number of ways. For example, it can affect the rate of development, the direction of development, and the type of development that occurs. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on the maintenance of language diversity?",
+                    "Answer": "Linguistic demography can influence language diversity in a number of ways. For example, it can affect the number of languages that are spoken, the distribution of languages, and the type of languages that are spoken. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language extinction?",
+                    "Answer": "Linguistic demography can influence language extinction in a number of ways. For example, it can affect the rate of extinction, the order of extinction, and the type of extinction that occurs. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on bilingualism and multilingualism?",
+                    "Answer": "Linguistic demography can influence bilingualism and multilingualism in a number of ways. For example, it can affect the rate of bilingualism and multilingualism, the order of bilingualism and multilingualism, and the type of bilingualism and multilingualism that occurs. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language contact?",
+                    "Answer": "Linguistic demography can influence language contact in a number of ways. For example, it can affect the rate of contact, the type of contact that occurs, and the type of languages that are in contact. It can also affect how languages are acquired and how they are used."
+                },
+                {
+                    "Question": "What are the effects of linguistic demography on language change?",
+                    "Answer": "Linguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used."
+                }
+            ],
+            "Output": "Linguistic demography is the study of the size, distribution, and composition of language communities. It can provide information on how languages are used and how they change over time. This information can be used to understand how languages are acquired and how they develop.\n\nLinguistic demography can influence language change in a number of ways. For example, it can affect the rate of change, the direction of change, and the type of change that occurs. It can also affect how languages are acquired and how they are used.\n\nLinguistic demography can also influence language acquisition and language use. For example, it can affect the rate of acquisition, the order of acquisition, and the type of acquisition that occurs. It can also affect the frequency of use, the context of use, and the type of use that occurs.\n\nLinguistic demography can also influence language development. For example, it can affect the rate of development, the direction of development, and the type of development that occurs.\n\nLinguistic demography can also influence language diversity. For example, it can affect the number of languages that are spoken, the distribution of languages, and the type of languages that are spoken.\n\nLinguistic demography can also influence language extinction. For example, it can affect the rate of extinction, the order of extinction, and the type of extinction that occurs.\n\nLinguistic demography can also influence bilingualism and multilingualism. For example, it can affect the rate of bilingualism and multilingualism, the order of bilingualism and multilingualism, and the type of bilingualism and multilingualism that occurs.\n\nLinguistic demography can also influence language contact. For example, it can affect the rate of contact, the type of contact that occurs, and the type of languages that are in contact."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/UVTNZxFrXua0k7mTcaUAzvOZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6DwcHkCwsKdovEynZhKczaav?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/skUAJ1qZRKzFYRoUop9GAyZM?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1a69rrTzjAI9xVWSVywfNe3wrWnt-3kcZ?usp=sharing"
+}

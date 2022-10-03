@@ -1,0 +1,156 @@
+{
+    "Contributor": "kannanmohithjothi",
+    "Domain": "International Relations",
+    "Task": "International Travel Information Drafter",
+    "Prompt": {
+        "pre_question_prompt": "I am an international travel rules and regulations drafter. I will ask some questions to collect information and then I will use the information to provide you with rules and regulations.",
+        "task_specific_prompt": "Generate a summary about travel rules and regulations between both the countries based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to write travel rules about?",
+                    "Answer": "The United States and India."
+                },
+                {
+                    "Question": "What are the basic entry requirements for each country?",
+                    "Answer": "The United States requires a valid passport, and India requires a valid passport and a visa."
+                },
+                {
+                    "Question": "Are there any special entry requirements for travelers apart from passport and a visa?",
+                    "Answer": "Yes, there are vaccination requirements."
+                },
+                {
+                    "Question": "What are the vaccination requirements for each country?",
+                    "Answer": "The United States requires all travelers to be fully vaccinated against covid 19. India requires all travelers to be fully vaccinated against covid 19."
+                },
+                {
+                    "Question": "Should a traveler take covid 19 test before travelling?",
+                    "Answer": "No, it is not required."
+                },
+                {
+                    "Question": "What are the consequences for not following the travel rules and regulations?",
+                    "Answer": "If a traveler does not follow the travel rules and regulations, they may be denied entry into the country."
+                },
+                {
+                    "Question": "Is wearing mask required during the travel?",
+                    "Answer": "Yes, it is required."
+                },
+                {
+                    "Question": "What items should not be carried during the travel?",
+                    "Answer": "The following items should not be carried during the travel:Weapons, Explosives, Flammable items and Illegal drugs "
+                },
+                {
+                    "Question": "Do travelers have to do immigration at the port of entry?",
+                    "Answer": "Yes, travelers have to do immigration at the port of entry."
+                },
+                {
+                    "Question": "What are the modes of travel between both the countries?",
+                    "Answer": "The modes of travel between both the countries are by air and by sea."
+                }
+            ],
+            "Output": "The United States and India have different entry requirements. The United States requires a valid passport, and India requires a valid passport and a visa. There are also vaccination requirements for both countries. All travelers must be fully vaccinated against covid 19. Wearing a mask is required during the travel. Travelers should not carry weapons, explosives, flammable items, or illegal drugs. Travelers have to do immigration at the port of entry. The modes of travel between both the countries are by air and by sea."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to write travel rules about?",
+                    "Answer": "The United States and Canada."
+                },
+                {
+                    "Question": "What type of travel are the rules for?",
+                    "Answer": "Air travel."
+                },
+                {
+                    "Question": "What are the primary concerns of the traveler?",
+                    "Answer": "The traveler's primary concerns are safety and security."
+                },
+                {
+                    "Question": "What are the travel rules?",
+                    "Answer": "The traveler must have a valid passport to enter the United States. A visa is not required for travel to the United States from Canada. However, all travelers must have a valid passport to enter Canada."
+                },
+                {
+                    "Question": "What are the consequences for breaking the travel rules?",
+                    "Answer": "The consequences for breaking the travel rules can vary depending on the offense. For example, a traveler who arrives in the United States without a valid passport may be denied entry and sent back to Canada."
+                },
+                {
+                    "Question": "Are there any other important details to know about the travel rules?",
+                    "Answer": "Yes. All travelers should be aware of the requirements for entry into the United States and Canada, as well as the consequences for breaking the rules."
+                },
+                {
+                    "Question": "Do Canadian citizens have to undergo immigration at the port of entry?",
+                    "Answer": "Yes. All travelers, regardless of citizenship, must undergo immigration screening at the port of entry."
+                },
+                {
+                    "Question": "What documents do Canadian citizens need to present at the port of entry?",
+                    "Answer": "Canadian citizens need to present a valid passport, as well as a visa if they are staying in the United States for more than 90 days."
+                },
+                {
+                    "Question": "What are the consequences for Canadian citizens who do not have the proper documents at the port of entry?",
+                    "Answer": "Canadian citizens who do not have the proper documents at the port of entry may be denied entry into the United States."
+                },
+                {
+                    "Question": "What are the consequences for Canadian citizens who overstay their visa in the United States?",
+                    "Answer": "The consequences for Canadian citizens who overstay their visa in the United States can include a fine, imprisonment, and/or deportation."
+                }
+            ],
+            "Output": "All travelers between the United States and Canada must have a valid passport. A visa is not required for travel to the United States from Canada, but all travelers must have a valid passport to enter Canada. All travelers should be aware of the requirements for entry into the United States and Canada, as well as the consequences for breaking the rules. Canadian citizens need to present a valid passport and a visa if they are staying in the United States for more than 90 days. The consequences for Canadian citizens who do not have the proper documents at the port of entry may be denied entry into the United States. The consequences for Canadian citizens who overstay their visa in the United States can include a fine, imprisonment, and/or deportation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Between which two countries do you want to write travel rules about?",
+                    "Answer": "The United States and Mexico."
+                },
+                {
+                    "Question": "What type of travel are the rules and regulations for?",
+                    "Answer": "The rules and regulations are for travel by land."
+                },
+                {
+                    "Question": "What are the specific regulations that you would like me to include?",
+                    "Answer": "You would like me to include the following specific regulations: -All travelers must have a valid passport. -Travelers must have a visa if they are staying in Mexico for more than 72 hours. -Travelers must declare any items they are bringing into Mexico that are worth more than $500. -Travelers are not allowed to bring in fruits or vegetables. -Travelers are not allowed to bring in more than 200 cigarettes or 50 cigars."
+                },
+                {
+                    "Question": "Are there any other general regulations that you would like me to include?",
+                    "Answer": "You would like me to include the following general regulations: -All travelers must follow the laws of Mexico. -Travelers must respect the culture and customs of Mexico. -Travelers must not engage in any illegal activities while in Mexico."
+                },
+                {
+                    "Question": "Are there any vaccination requirements?",
+                    "Answer": "There are no vaccination requirements."
+                },
+                {
+                    "Question": "Do travelers have to do immigration at the port of entry?",
+                    "Answer": "Yes, all travelers must do immigration at the port of entry."
+                },
+                {
+                    "Question": "What is the maximum amount of money that travelers are allowed to bring in?",
+                    "Answer": "The maximum amount of money that travelers are allowed to bring in is $10,000."
+                },
+                {
+                    "Question": "What is the penalty for not following these rules and regulations?",
+                    "Answer": "The penalty for not following these rules and regulations is up to 10 years in prison."
+                },
+                {
+                    "Question": "What is the maximum time period a tourist could stay at mexico?",
+                    "Answer": "The maximum time period a tourist could stay in Mexico is 6 months."
+                },
+                {
+                    "Question": "What types of activities would tourists not be allowed to do while in Mexico?",
+                    "Answer": "Some activities that tourists would not be allowed to do while in Mexico include: -Possessing, using, or selling drugs -Working without a permit -Engaging in sex work -Overstaying their visa"
+                }
+            ],
+            "Output": "All travelers between the United States and Mexico must have a valid passport. Travelers must have a visa if they are staying in Mexico for more than 72 hours. Travelers must declare any items they are bringing into Mexico that are worth more than $500. Travelers are not allowed to bring in fruits or vegetables. Travelers are not allowed to bring in more than 200 cigarettes or 50 cigars. All travelers must follow the laws of Mexico. Travelers must respect the culture and customs of Mexico. Travelers must not engage in any illegal activities while in Mexico. The maximum amount of money that travelers are allowed to bring in is $10,000. The penalty for not following these rules and regulations is up to 10 years in prison. The maximum time period a tourist could stay in Mexico is 6 months. Some activities that tourists would not be allowed to do while in Mexico include: possessing, using, or selling drugs; working without a permit; engaging in sex work; and overstaying their visa."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/TpxDuxewMaI7WqwtAetT4pne?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/KJBIq15Nt6Kityx27Uwi4xdm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CfQQW5ZNQZdSlJAJNjoNA3vE?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1W8W8uL5CIIiZZ6JzEsdAcjBY0dYFK3lh/view?usp=sharing",
+        "https://drive.google.com/file/d/1ZXuPgaWDaWs_Z_ES91V6poOQC035chmd/view?usp=sharing",
+        "https://drive.google.com/file/d/1zu4XTiYHqZTfaZEi7CTy4j6eKk8QW4on/view?usp=sharing"
+    ]
+}

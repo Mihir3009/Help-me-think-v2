@@ -1,0 +1,152 @@
+{
+    "Contributor": "saravananrithishkesav",
+    "Domain": "Protastant reformation",
+    "Task": "Effects of protastant reformation",
+    "Prompt": {
+        "pre_question_prompt": "I am a student learning protestant reformation. I will ask some questions to collect information and then I will use the information to write about the after effects of protestant reformation.Question:",
+        "task_specific_prompt": "Write content on emergence of Protestantism using the questions and answers above. Add new content as necessary."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What were the after effects of protestant reformation?",
+                    "Answer": "The after effects of protestant reformation were religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Why did the after effects of protestant reformation occur?",
+                    "Answer": "The after effects of protestant reformation occurred because of the split between the Catholic and Protestant churches and the resulting conflict."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation affect Europe?",
+                    "Answer": "The after effects of protestant reformation affected Europe by leading to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What were some of the long term effects of the after effects of protestant reformation?",
+                    "Answer": "Some of the long term effects of the after effects of protestant reformation were the rise of secularism, the Enlightenment, and the French Revolution."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were positive or negative? Why?",
+                    "Answer": "I think the after effects of protestant reformation were negative because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were worth it? Why or why not?",
+                    "Answer": "I think the after effects of protestant reformation were not worth it because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What do you think would have happened if the protestant reformation never occurred?",
+                    "Answer": "If the protestant reformation never occurred, I think Europe would have continued to be dominated by the Catholic Church."
+                },
+                {
+                    "Question": "Do you think the world would be a better or worse place if the after effects of protestant reformation never occurred? Why?",
+                    "Answer": "I think the world would be a better place if the after effects of protestant reformation never occurred because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were worth the cost? Why or why not?",
+                    "Answer": "I think the after effects of protestant reformation were not worth the cost because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What do you think would have happened if the after effects of protestant reformation never occurred?",
+                    "Answer": "If the after effects of protestant reformation never occurred, I think Europe would have continued to be dominated by the Catholic Church."
+                }
+            ],
+            "Output": "The Protestant Reformation was a 16th-century religious and political movement that resulted in the split of the Western Christian Church into Protestant and Catholic branches. The after effects of protestant reformation were religious wars, persecution of dissenters, and decline of the papacy. The after effects of protestant reformation occurred because of the split between the Catholic and Protestant churches and the resulting conflict. The after effects of protestant reformation affected Europe by leading to religious wars, persecution of dissenters, and decline of the papacy. Some of the long term effects of the after effects of protestant reformation were the rise of secularism, the Enlightenment, and the French Revolution. I think the after effects of protestant reformation were negative because they led to religious wars, persecution of dissenters, and decline of the papacy. I think the after effects of protestant reformation were not worth it because they led to religious wars, persecution of dissenters, and decline of the papacy. If the protestant reformation never occurred, I think Europe would have continued to be dominated by the Catholic Church. I think the world would be a better place if the after effects of protestant reformation never occurred because they led to religious wars, persecution of dissenters"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What were the after effects of protestant reformation?",
+                    "Answer": "The after effects of protestant reformation were religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Why did the after effects of protestant reformation occur?",
+                    "Answer": "The after effects of protestant reformation occurred because of the split between the Catholic and Protestant churches and the resulting conflict."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation affect Europe?",
+                    "Answer": "The after effects of protestant reformation affected Europe by leading to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What were some of the long term effects of the after effects of protestant reformation?",
+                    "Answer": "Some of the long term effects of the after effects of protestant reformation were the rise of secularism, the Enlightenment, and the French Revolution."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were positive or negative? Why?",
+                    "Answer": "I think the after effects of protestant reformation were negative because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were worth it? Why or why not?",
+                    "Answer": "I think the after effects of protestant reformation were not worth it because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What all languages was the bible translated into due to the after effects of protestant reformation?",
+                    "Answer": "Some of the languages that the bible was translated into due to the after effects of protestant reformation were English, German, French, Spanish, and Dutch."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation influence the arts?",
+                    "Answer": "The after effects of protestant reformation influenced the arts by leading to the development of Protestant art, which was more focused on realism than Catholic art."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation influence education?",
+                    "Answer": "The after effects of protestant reformation led to the development of Protestant schools, which emphasised education in vernacular languages rather than Latin."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation influence politics?",
+                    "Answer": "The after effects of protestant reformation led to the development of Protestantism as a political force in Europe, which had significant implications for the development of European politics."
+                }
+            ],
+            "Output": "The after effects of protestant reformation had a significant impact on the translation of the bible. Prior to the reformation, the bible was only available in Latin, which limited its accessibility to the general population. However, the reformation led to a demand for vernacular translations of the bible, which resulted in the bible being translated into a number of different languages. This had a significant impact on education, as it allowed more people to access the bible and learn about Christianity. Additionally, the translation of the bible into vernacular languages had a significant impact on the arts, as it allowed for the development of Protestant art, which was more focused on realism than Catholic art. The after effects of protestant reformation also led to the development of Protestantism as a political force in Europe, which had significant implications for the development of European politics."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What were the after effects of protestant reformation?",
+                    "Answer": "The after effects of protestant reformation were religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Why did the after effects of protestant reformation occur?",
+                    "Answer": "The after effects of protestant reformation occurred because of the split between the Catholic and Protestant churches and the resulting conflict."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation affect Europe?",
+                    "Answer": "The after effects of protestant reformation affected Europe by leading to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What were some of the long term effects of the after effects of protestant reformation?",
+                    "Answer": "Some of the long term effects of the after effects of protestant reformation were the rise of secularism, the Enlightenment, and the French Revolution."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were positive or negative?",
+                    "Answer": "I think the after effects of protestant reformation were negative because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "Do you think the after effects of protestant reformation were worth it?",
+                    "Answer": "I think the after effects of protestant reformation were not worth it because they led to religious wars, persecution of dissenters, and decline of the papacy."
+                },
+                {
+                    "Question": "What all languages was the bible translated into due to the after effects of protestant reformation?",
+                    "Answer": "Some of the languages that the bible was translated into due to the after effects of protestant reformation were English, German, French, Spanish, and Dutch."
+                },
+                {
+                    "Question": "What is the Peace of Augsburg in protestant reformation?",
+                    "Answer": "The Peace of Augsburg was a treaty between the Catholic and Protestant princes in Germany that ended the religious wars and recognized the right of each prince to choose the religion of his state."
+                },
+                {
+                    "Question": "How did the after effects of protestant reformation end?",
+                    "Answer": "The after effects of protestant reformation ended with the Peace of Westphalia in 1648, which recognized the sovereignty of each state and ended the religious wars."
+                },
+                {
+                    "Question": "What were the immediate effects of the after effects of protestant reformation?",
+                    "Answer": "The immediate effects of the after effects of protestant reformation were religious wars, persecution of dissenters, and decline of the papacy."
+                }
+            ],
+            "Output": "The Peace of Augsburg was a treaty between the Catholic and Protestant princes in Germany that ended the religious wars and recognized the right of each prince to choose the religion of his state. The Peace of Augsburg was an important step in ending the religious wars that had ravaged Europe for over a decade. It also marked a major shift in power from the Catholic Church to the various Protestant rulers."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/YztJeurBC6vrNbj8Rih9qh8T?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZaA2HMBQLMj2pv6BlS8b3wIj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CSHHl5yEA1LGPBwLRWKORoIt?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/file/d/1MiovSKemjM7Q4GHIPftgM0sCNhN2_ipj/view?usp=sharing"
+}

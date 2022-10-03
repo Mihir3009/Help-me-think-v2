@@ -1,0 +1,148 @@
+{
+    "Contributor": "kantakash",
+    "Domain": "Logic",
+    "Task": "I want to showcase logical fallacies",
+    "Prompt": {
+        "pre_question_prompt": "I am a mathematician. I will ask some questions to collect information and then I will use the information to show logical fallacies.",
+        "task_specific_prompt": "Write a  summary to show logical fallacies in average human age using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average lifespan of a human?",
+                    "Answer": "The average lifespan of a human is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the United States?",
+                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Europe?",
+                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Asia?",
+                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Africa?",
+                    "Answer": "The average lifespan of a human in Africa is about 60 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Australia?",
+                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in North America?",
+                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in South America?",
+                    "Answer": "The average lifespan of a human in South America is about 64 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Antarctica?",
+                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the world?",
+                    "Answer": "The average lifespan of a human in the world is about 72 years."
+                }
+            ],
+            "Output": "There are several logical fallacies in the above questions and answers regarding the average lifespan of a human. For example, the question about the average lifespan of a human in Antarctica is flawed because there are no permanent residents in Antarctica, so there is no definitive answer. Additionally, the question about the average lifespan of a human in the world is flawed because it is an average of all the other lifespans, which are themselves flawed."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average lifespan of a human?",
+                    "Answer": "The average lifespan of a human is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the United States?",
+                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Europe?",
+                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Asia?",
+                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Africa?",
+                    "Answer": "The average lifespan of a human in Africa is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Australia?",
+                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in North America?",
+                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in South America?",
+                    "Answer": "The average lifespan of a human in South America is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Antarctica?",
+                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica still should be 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the world?",
+                    "Answer": "The average lifespan of a human in the world is about 79 years."
+                }
+            ],
+            "Output": "There are several logical fallacies in the questions and answers above regarding the average lifespan of a human. First, the question assumes that there is an average lifespan for all humans, when in reality there is a large range of lifespans due to different factors such as genetics, lifestyle, and location. Second, the question uses the word average without defining what this means, which could be interpreted in different ways. Third, the answer to the question gives a specific number without any context or explanation, which makes it difficult to know if this is accurate or not. Finally, the question and answer both assume that all humans live in the same conditions, when in fact there are many different factors that can affect lifespan."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average lifespan of a human?",
+                    "Answer": "The average lifespan of a human is about 10 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the United States?",
+                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Europe?",
+                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Asia?",
+                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Africa?",
+                    "Answer": "The average lifespan of a human in Africa is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Australia?",
+                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in North America?",
+                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in South America?",
+                    "Answer": "The average lifespan of a human in South America is about 79 years."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in Antarctica?",
+                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica."
+                },
+                {
+                    "Question": "What is the average lifespan of a human in the world?",
+                    "Answer": "The average lifespan of a human in the world is about 10 years for men and women of different ages and gender."
+                }
+            ],
+            "Output": "There are a few logical fallacies in the average human age. For example, the average lifespan of a human in the United States is about 79 years, while the average lifespan of a human in Europe is about 79 years. However, the average lifespan of a human in Asia is only about 79 years. This is a fallacy because it is comparing the average lifespan of a human in two different continents. Another fallacy is that the average lifespan of a human in the world is 10 years for men and women of different ages and gender. This is a fallacy because it is only taking into account the average lifespan of a human in one continent."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/lJA2t9fBqiVSnqv1x2mdZZEl?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/152OjacT5kYXwO218y1c2ZD5TczOQjJMI/view?usp=sharing"
+}

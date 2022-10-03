@@ -1,0 +1,163 @@
+{
+    "Domain": "Aerospace Engineering",
+    "Task": "Suggesting best possible place for landing in case of emergency flight landing",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in guiding best possible landing option in case of emergency flight landing. I will ask some questions to collect information and then I will use the information to suggest best landing option.",
+        "task_specific_prompt": "Write a best possible landing option in this case of emergency flight landing using the questions and answers above and include all the details. Give in detail landing option and also state why it is a best option:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the emergency?",
+                    "Answer": "The emergency is that the plane is about to crash."
+                },
+                {
+                    "Question": "What is the plane's current location?",
+                    "Answer": "The plane's current location is in the middle of a field."
+                },
+                {
+                    "Question": "What is the plane's current altitude?",
+                    "Answer": "The plane's current altitude is 500 feet."
+                },
+                {
+                    "Question": "What is the plane's current speed?",
+                    "Answer": "The plane's current speed is 200 mph."
+                },
+                {
+                    "Question": "Are there any obstacles in the way of the plane's current location?",
+                    "Answer": "There are no obstacles in the way of the plane's current location."
+                },
+                {
+                    "Question": "Is the plane's landing gear down?",
+                    "Answer": "The plane's landing gear is down."
+                },
+                {
+                    "Question": "Is the plane's engine still functioning?",
+                    "Answer": "The plane's engine is still functioning."
+                },
+                {
+                    "Question": "Are there any passengers on board?",
+                    "Answer": "There are no passengers on board."
+                },
+                {
+                    "Question": "Is the plane's fuselage intact?",
+                    "Answer": "The plane's fuselage is intact."
+                },
+                {
+                    "Question": "What is the weather like in the area?",
+                    "Answer": "The weather is clear."
+                },
+                {
+                    "Question": "What is the terrain like in the area?",
+                    "Answer": "The terrain is flat."
+                }
+            ],
+            "Output": "The best possible landing option in this case is to land the plane in the middle of the field. The reason this is the best option is because there are no obstacles in the way, the terrain is flat, and the weather is clear."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the emergency?",
+                    "Answer": "The emergency is that the plane is losing altitude and will not be able to make it to the nearest airport."
+                },
+                {
+                    "Question": "What is the plane's current altitude?",
+                    "Answer": "The plane's current altitude is 10,000 feet."
+                },
+                {
+                    "Question": "What is the plane's current location?",
+                    "Answer": "The plane is currently over the ocean, about 100 miles from the nearest land."
+                },
+                {
+                    "Question": "What is the weather like?",
+                    "Answer": "The weather is clear and there is no wind."
+                },
+                {
+                    "Question": "What is the plane's current heading?",
+                    "Answer": "The plane is currently heading south."
+                },
+                {
+                    "Question": "What is the nearest airport?",
+                    "Answer": "The nearest airport is in Miami, Florida."
+                },
+                {
+                    "Question": "What is the distance to the nearest airport?",
+                    "Answer": "The distance to the nearest airport is about 1000 miles."
+                },
+                {
+                    "Question": "What is the plane's fuel level?",
+                    "Answer": "The plane has enough fuel to make it to the nearest airport."
+                },
+                {
+                    "Question": "What is the plane's current speed?",
+                    "Answer": "The plane's current speed is 500 miles per hour."
+                },
+                {
+                    "Question": "What is the plane's maximum speed?",
+                    "Answer": "The plane's maximum speed is 550 miles per hour."
+                },
+                {
+                    "Question": "What is the plane's current altitude?",
+                    "Answer": "The plane's current altitude is 10,000 feet."
+                },
+                {
+                    "Question": "What is the plane's maximum altitude?",
+                    "Answer": "The plane's maximum altitude is 20,000 feet"
+                }
+            ],
+            "Output": "The best possible landing option in this case of emergency flight landing is to land at the nearest airport, which is in Miami, Florida. This is the best option because it is the closest airport to the plane's current location, and the plane has enough fuel to make it there. Additionally, the weather is clear and there are no wind conditions that would make landing difficult."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of the plane?",
+                    "Answer": "The size of the plane is a Boeing 737."
+                },
+                {
+                    "Question": "What is the weather like?",
+                    "Answer": "The weather is cloudy with a chance of showers."
+                },
+                {
+                    "Question": "Is the plane landing at an airport?",
+                    "Answer": "The plane is landing at an airport."
+                },
+                {
+                    "Question": "What is the name of the airport?",
+                    "Answer": "The name of the airport is John F. Kennedy International Airport."
+                },
+                {
+                    "Question": "What is the runway length?",
+                    "Answer": "The runway length is 13,000 feet."
+                },
+                {
+                    "Question": "What is the wind speed?",
+                    "Answer": "The wind speed is 10 knots."
+                },
+                {
+                    "Question": "What is the visibility?",
+                    "Answer": "The visibility is 10 miles."
+                },
+                {
+                    "Question": "What is the plane's status?",
+                    "Answer": "The plane's status is emergency."
+                },
+                {
+                    "Question": "What is the plane's fuel level?",
+                    "Answer": "The plane's fuel level is low."
+                },
+                {
+                    "Question": "Are there any injuries?",
+                    "Answer": "There are no injuries."
+                },
+                {
+                    "Question": "Are there any mechanical problems?",
+                    "Answer": "There are no mechanical problems."
+                }
+            ],
+            "Output": "The best possible landing option in this case of emergency flight landing is to land at John F. Kennedy International Airport. The runway length is 13,000 feet, which is long enough for a Boeing 737. The wind speed is 10 knots, which is not too strong. The visibility is 10 miles, which is good. There are no injuries and no mechanical problems. The plane's fuel level is low, but there is enough fuel to land safely at the airport."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/cmrgNh0qPoMpuwHFkIGAY7LN?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1DkM3vZCW8ZZDLcAWBeCi2wUONgcRDz2z?usp=sharing"
+}

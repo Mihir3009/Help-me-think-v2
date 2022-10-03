@@ -1,0 +1,147 @@
+{
+    "Domain": "Fine Arts",
+    "Task": "Generate a plan for a photoshoot",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert photographer. I will ask some questions to collect information and then I will use the information to plan a photoshoot\n\n",
+        "task_specific_prompt": "Write a plan for the photoshoot using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the photoshoot?",
+                    "Answer": "500 USD"
+                },
+                {
+                    "Question": "When do you need the photos taken?",
+                    "Answer": "Tomorrow"
+                },
+                {
+                    "Question": "Where will the photos be taken?",
+                    "Answer": "At a park"
+                },
+                {
+                    "Question": "What type of photos do you need?",
+                    "Answer": "Portraits"
+                },
+                {
+                    "Question": "How many people will be in the photos?",
+                    "Answer": "three"
+                },
+                {
+                    "Question": "What is the occasion for the photos?",
+                    "Answer": "A family reunion"
+                },
+                {
+                    "Question": "What is the age range of the people in the photos?",
+                    "Answer": "30-40 years old"
+                },
+                {
+                    "Question": "Do you have any specific ideas or concepts for the photos?",
+                    "Answer": "I would like the photos to be natural and candid."
+                },
+                {
+                    "Question": "Will you need any props for the photos?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the dress code for the people in the photos?",
+                    "Answer": "Casual"
+                }
+            ],
+            "Output": "The photoshoot will take place at a park and will be for portraits. The budget for the photoshoot is 500 USD. The photos will be taken tomorrow and the people in the photos will be casual. There will be three people in the photos and the occasion for the photos is a family reunion. The age range of the people in the photos is 30-40 years old. The photos should be natural and candid."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the photoshoot?",
+                    "Answer": "1000 USD"
+                },
+                {
+                    "Question": "When do you need the photos taken?",
+                    "Answer": "15th May, 2023"
+                },
+                {
+                    "Question": "Where will the photos be taken?",
+                    "Answer": "Kerry Park, Seattle"
+                },
+                {
+                    "Question": "What type of photos do you need?",
+                    "Answer": "Portraits"
+                },
+                {
+                    "Question": "How many people will be in the photos?",
+                    "Answer": "2"
+                },
+                {
+                    "Question": "What is the occasion for the photos?",
+                    "Answer": "pre-wedding shoot"
+                },
+                {
+                    "Question": "What is the age range of the people in the photos?",
+                    "Answer": "25-30 year old"
+                },
+                {
+                    "Question": "Do you have any specific ideas or concepts for the photos?",
+                    "Answer": "I would like the photos to be natural and candid."
+                },
+                {
+                    "Question": "Will you need any props for the photos?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is the dress code for the people in the photos?",
+                    "Answer": "Traditional wedding attire"
+                }
+            ],
+            "Output": "The photoshoot will take place at Kerry Park in Seattle. The budget for the shoot is 1000 USD. The photos will be taken on the 15th of May, 2023. The photos will be portraits of the 2 people. The occasion for the photos is a pre-wedding shoot. The dress code for the people in the photos is traditional wedding attire. The age range of the people in the photos is 25-30. The photos should be natural and candid. Props will be needed for the photos."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget for the photoshoot?",
+                    "Answer": "2000 USD"
+                },
+                {
+                    "Question": "When do you need the photos taken?",
+                    "Answer": "Last monday of 2022"
+                },
+                {
+                    "Question": "Where will the photos be taken?",
+                    "Answer": "New Delhi, India"
+                },
+                {
+                    "Question": "What type of photos do you need?",
+                    "Answer": "Portraits"
+                },
+                {
+                    "Question": "How many people will be in the photos?",
+                    "Answer": "10"
+                },
+                {
+                    "Question": "What is the occasion for the photos?",
+                    "Answer": "50th Birthday"
+                },
+                {
+                    "Question": "What is the age range of the people in the photos?",
+                    "Answer": "30-50 year old"
+                },
+                {
+                    "Question": "Do you have any specific ideas or concepts for the photos?",
+                    "Answer": "I would like the photos to be fun, creative and candid. It should capture the entire celebration naturally."
+                },
+                {
+                    "Question": "Will you need any props for the photos?",
+                    "Answer": "Yes. Props should be specific to the birthday theme"
+                },
+                {
+                    "Question": "What is the dress code for the people in the photos?",
+                    "Answer": "Semi-formal"
+                }
+            ],
+            "Output": "I will budget for the photoshoot and plan it for the last Monday of 2022. The photoshoot will take place in New Delhi, India. I will need portraits of 10 people aged 30-50 years old. The occasion for the photos is a 50th birthday, so the photos should be fun, creative and candid. I will need props for the photos that are specific to the birthday theme, and the dress code for the people in the photos is semi-formal."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/WxT4hAy0EETZDI6I9e0APbAX?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1lnrdDxF8Z8v5POik9uRmkOHskbb3W0OQ/view?usp=sharing"
+}

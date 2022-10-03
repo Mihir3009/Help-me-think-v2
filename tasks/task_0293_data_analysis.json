@@ -1,0 +1,152 @@
+{
+    "Contributor": "thoutamvivekanand",
+    "Domain": "Data Analysis",
+    "Task": "summarize my feedback",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in summarizing your feedback on NLP course. I will ask some questions to collect information and then I will use the information to summarize your feedback on NLP course.",
+        "task_specific_prompt": "Summarize my feedback using questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about the NLP course overall?",
+                    "Answer": "I feel that the NLP course is very informative and it has helped me to understand the basics of Natural language processing."
+                },
+                {
+                    "Question": "What did you like best about the course?",
+                    "Answer": "I liked that the course was very well organized and I liked applying deep learning techniques the most."
+                },
+                {
+                    "Question": "What did you like least about the course?",
+                    "Answer": "I liked least that some of the lectures were a bit too long."
+                },
+                {
+                    "Question": "What topics in the course were most helpful to you?",
+                    "Answer": "I found the topics on deep learning and word embeddings to be the most helpful."
+                },
+                {
+                    "Question": "What topics in the course were least helpful to you?",
+                    "Answer": "I found the topic on part-of-speech tagging to be the least helpful."
+                },
+                {
+                    "Question": "Do you have any suggestions on how the course could be improved?",
+                    "Answer": "I think the course could be improved by adding more deep learning techniques."
+                },
+                {
+                    "Question": "Would you recommend this course to others?",
+                    "Answer": "Yes, I would recommend this course to others."
+                },
+                {
+                    "Question": "What was your favorite part of the course?",
+                    "Answer": "My favorite part of the course was applying deep learning techniques on different tasks."
+                },
+                {
+                    "Question": "What was the most challenging part of the course?",
+                    "Answer": "The most challenging part of the course was understanding some of the more theoretical concepts and probability."
+                },
+                {
+                    "Question": "Did the course meet your expectations?",
+                    "Answer": "Yes, the course met and exceeded my expectations."
+                }
+            ],
+            "Output": "The NLP course is very informative and has helped the student to understand the basics of Natural language processing. The course is well organized and the student liked applying deep learning techniques the most. The student found the topics on deep learning and word embeddings to be the most helpful. The student would recommend this course to others."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What did you think of the NLP course?",
+                    "Answer": "Overall, I thought the NLP course was good. I liked that it was concise and to the point. I think the course could have been a little more comprehensive, but I appreciate that it was kept fairly short. I think the course did a good job of introducing the basics of NLP."
+                },
+                {
+                    "Question": "What did you think of the instructor?",
+                    "Answer": "The instructor was good and clear about what he is teaching."
+                },
+                {
+                    "Question": "What did you think of the pace of the course?",
+                    "Answer": "The pace was great."
+                },
+                {
+                    "Question": "What did you think of the course material?",
+                    "Answer": "The course material was well organized and easy to follow all topics."
+                },
+                {
+                    "Question": "Would you recommend this course to others?",
+                    "Answer": "Yes, I would recommend this course to others."
+                },
+                {
+                    "Question": "What suggestions do you have for improving the course?",
+                    "Answer": "My suggestion would be add more topics in deep learning."
+                },
+                {
+                    "Question": "Did you find the course helpful?",
+                    "Answer": "Yes, I found the course helpful."
+                },
+                {
+                    "Question": "What did you think of the practice problems?",
+                    "Answer": "The practice problems were helpful in understanding many concepts in NLP."
+                },
+                {
+                    "Question": "What did you think of the final project?",
+                    "Answer": "The final project was interesting and it was a good opportunity to apply GPT 3 model effectively."
+                },
+                {
+                    "Question": "Overall, how would you rate the course?",
+                    "Answer": "Overall, I would rate the course as good."
+                }
+            ],
+            "Output": "Overall, the feedback for the NLP course is positive. The course is concise, well-organized, and helpful in understanding the basics of NLP. The instructor is good and clear. The pace is great. The practice problems are helpful. The final project is interesting."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you think of the NLP course?",
+                    "Answer": "The NLP course is really great. I learned a lot about text analysis."
+                },
+                {
+                    "Question": "What did you think of the instructor?",
+                    "Answer": "The instructor was really knowledgeable and good at teaching."
+                },
+                {
+                    "Question": "Did you find the course challenging?",
+                    "Answer": "Yes, the course was challenging. I had to put in a lot of effort to learn mathematics behind models."
+                },
+                {
+                    "Question": "What did you think of the workload?",
+                    "Answer": "The workload was really heavy. There was a lot of reading and assignments and projects."
+                },
+                {
+                    "Question": "Overall, would you recommend the course to others?",
+                    "Answer": "Overall, I would recommend the course to others."
+                },
+                {
+                    "Question": "What was your favorite part of the course?",
+                    "Answer": "My favorite part of the course was the projects. We got to choose our own data sets and analyze them and to apply deep learning techniques."
+                },
+                {
+                    "Question": "What was your least favorite part of the course?",
+                    "Answer": "My least favorite part of the course was the traditional techniques."
+                },
+                {
+                    "Question": "Do you have any suggestions on how the course could be improved?",
+                    "Answer": "The course could be improved by adding inner workings of models in detail."
+                },
+                {
+                    "Question": "Do you have any other comments about the course?",
+                    "Answer": "No, the course was really good."
+                },
+                {
+                    "Question": "Did you find the course interesting?",
+                    "Answer": "Yes, I found the course interesting."
+                }
+            ],
+            "Output": "Overall, the NLP course is really great. The instructor is knowledgeable and good at teaching. The workload is heavy, but it is worth it. The projects are the best part of the course. The course could be improved by adding more inner workings of models in detail."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/SPnEUmpMyCz5cn0rLJPFfKtz?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/KTKlbRu0hbtCEhqETVDsHm9C?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/7SvF9xVNjPGgHsNvopqfpN25?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/15NGnIL0xa_Th2p4C1J7ycOQDDnfnl35q?usp=sharing"
+}

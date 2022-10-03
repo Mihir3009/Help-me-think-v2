@@ -1,0 +1,152 @@
+{
+    "Contributor": "secrestmicah",
+    "Domain": "Business Strategy",
+    "Task": "Investor Pitch",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert investor pitch writer. I will ask some questions to collect information and then I will use the information to generate an investor pitch.",
+        "task_specific_prompt": "Write an investor pitch using the questions and answers above. The pitch should be brief, and it should focus on getting investors interested in the company."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your business?",
+                    "Answer": "Our business is a luxury home cleaning and organization company. We provide high-end cleaning and organization services to homeowners in the greater Phoenix area. We are a luxury brand that is focused on providing the highest quality service possible."
+                },
+                {
+                    "Question": "What is your business model?",
+                    "Answer": "Our business model is based on providing high-end cleaning and organization services to homeowners in the greater Phoenix area. We generate revenue through a combination of hourly fees for our services, and through the sale of high-end cleaning and organization products that we use during our services."
+                },
+                {
+                    "Question": "What are your growth goals?",
+                    "Answer": "Our growth goals are to continue to grow our business in the Phoenix area, and to expand into new markets in the future. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable."
+                },
+                {
+                    "Question": "What are your competitive advantages?",
+                    "Answer": "Our competitive advantages include our luxury brand positioning, our focus on quality, and our experienced and professional team. We are the only luxury home cleaning and organization company in the Phoenix area, and we are dedicated to providing the highest quality service possible."
+                },
+                {
+                    "Question": "What is your target market?",
+                    "Answer": "Our target market is homeowners in the greater Phoenix area who are looking for high-end cleaning and organization services. We focus on providing the highest quality service possible, and our target market is homeowners who are willing to pay for that quality."
+                },
+                {
+                    "Question": "What is your marketing strategy?",
+                    "Answer": "Our marketing strategy is focused on generating word-of-mouth and referral business. We believe that the best way to grow our business is to provide an exceptional experience to our clients that they will want to tell their friends about. We also invest in targeted online advertising and print advertising in local publications."
+                },
+                {
+                    "Question": "What are your financial goals?",
+                    "Answer": "Our financial goals are to continue to grow our business in a sustainable and profitable way. We are focused on generating long-term value for our shareholders, and on growing our business in a way that is sustainable and profitable."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "Our plans for the future are to continue to grow our business in the Phoenix area, and to expand into new markets in the future. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable."
+                },
+                {
+                    "Question": "What is your exit strategy?",
+                    "Answer": "Our exit strategy is to continue to grow our business until it is attractive to a strategic acquirer. We believe that our business has significant growth potential, and we are focused on building a business that would be an attractive acquisition target."
+                },
+                {
+                    "Question": "What is your timescale for achieving your goals?",
+                    "Answer": "Our goal is to achieve our growth goals within the next five years. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable."
+                }
+            ],
+            "Output": "Our company is a luxury home cleaning and organization company that provides high-end cleaning and organization services to homeowners in the greater Phoenix area. We are a luxury brand that is focused on providing the highest quality service possible. Our business model is based on providing high-end cleaning and organization services to homeowners in the greater Phoenix area. We generate revenue through a combination of hourly fees for our services, and through the sale of high-end cleaning and organization products that we use during our services. Our growth goals are to continue to grow our business in the Phoenix area, and to expand into new markets in the future. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable. Our competitive advantages include our luxury brand positioning, our focus on quality, and our experienced and professional team. We are the only luxury home cleaning and organization company in the Phoenix area, and we are dedicated to providing the highest quality service possible. Our target market is homeowners in the greater Phoenix area who are looking for high-end cleaning and organization services. We focus on providing the highest quality service possible, and our target market is homeowners who are willing to pay for that quality. Our marketing strategy is focused on generating word-of-mouth and referral business. We believe that the best way to grow our business is to provide an exceptional experience to our clients that they will want to tell their friends about. We also invest in targeted online advertising and print advertising in local publications. Our financial goals are to continue to grow our business in a sustainable and profitable way. We are focused on generating long-term value for our shareholders, and on growing our business in a way that is sustainable and profitable. Our plans for the future are to continue to grow our business in the Phoenix area, and to expand into new markets in the future. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable. Our exit strategy is to continue to grow our business until it is attractive to a strategic acquirer. We believe that our business has significant growth potential, and we are focused on building a business that would be an attractive acquisition target. Our goal is to achieve our growth goals within the next five years. We are focused on providing the highest quality service possible, and on growing our business in a way that is sustainable and profitable."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your business?",
+                    "Answer": "My business is an online platform that helps people learn new skills."
+                },
+                {
+                    "Question": "What are your long-term goals for the business?",
+                    "Answer": "My long-term goals for the business are to help people learn new skills and to make a positive impact on the world."
+                },
+                {
+                    "Question": "What are your unique selling points?",
+                    "Answer": "My unique selling points are my platform's ability to help people learn new skills quickly and easily, and my commitment to making a positive impact on the world."
+                },
+                {
+                    "Question": "What is your target market?",
+                    "Answer": "My target market is people who want to learn new skills."
+                },
+                {
+                    "Question": "What is your competitive landscape?",
+                    "Answer": "My competitive landscape is other online platforms that offer skills-based learning."
+                },
+                {
+                    "Question": "What is your business model?",
+                    "Answer": "My business model is based on subscriptions. People can sign up for a monthly or yearly subscription, and they will have access to all of the platform's features."
+                },
+                {
+                    "Question": "What are your plans for growth?",
+                    "Answer": "My plans for growth include expanding the platform's features and content, and increasing marketing efforts to reach more people who want to learn new skills."
+                },
+                {
+                    "Question": "What is your financial situation?",
+                    "Answer": "I am seeking investment to help grow the business."
+                },
+                {
+                    "Question": "What do you need the investment for?",
+                    "Answer": "I need the investment to help expand the platform's features and content, and to increase marketing efforts to reach more people who want to learn new skills."
+                },
+                {
+                    "Question": "What are your expected returns?",
+                    "Answer": "I expect investors to see a return on their investment within three to five years."
+                }
+            ],
+            "Output": "Hello potential investors!\n\nI am the founder of an online platform that helps people learn new skills. Our platform is unique because it helps people learn new skills quickly and easily. We are committed to making a positive impact on the world, and we are looking to grow the business.\n\nI am seeking investment to help us expand the platform's features and content, and to increase marketing efforts to reach more people who want to learn new skills. I believe that investors will see a return on their investment within three to five years.\n\nThank you for your time and consideration. I look forward to speaking with you further about this opportunity."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product or service that your company offers?",
+                    "Answer": "Our company offers a subscription-based wellness service that delivers healthy meals and snacks to our customers' doorsteps."
+                },
+                {
+                    "Question": "What is the problem that your product or service solves?",
+                    "Answer": "Our product or service solves the problem of unhealthy eating habits. Our healthy meals and snacks help our customers to make better choices and reach their health goals."
+                },
+                {
+                    "Question": "Who is your target market?",
+                    "Answer": "Our target market is health-conscious individuals who are looking for an convenient and affordable way to eat healthy."
+                },
+                {
+                    "Question": "What is your company's competitive advantage?",
+                    "Answer": "Our company's competitive advantage is our focus on healthy eating. Our meals are prepared by registered dietitians and are tailored to our customers' individual health needs."
+                },
+                {
+                    "Question": "What is your company's business model?",
+                    "Answer": "Our company's business model is subscription-based. Our customers can choose to subscribe to our weekly or monthly service."
+                },
+                {
+                    "Question": "What are your company's financials?",
+                    "Answer": "Our company is currently profitable and we have a strong balance sheet."
+                },
+                {
+                    "Question": "What is your company's exit strategy?",
+                    "Answer": "Our company's exit strategy is to be acquired by a larger wellness company."
+                },
+                {
+                    "Question": "What is the status of your company?",
+                    "Answer": "Our company is currently operational in two markets."
+                },
+                {
+                    "Question": "What is your company's long-term vision?",
+                    "Answer": "Our company's long-term vision is to become the leading provider of healthy meals and snacks."
+                },
+                {
+                    "Question": "What is your company's mission?",
+                    "Answer": "Our company's mission is to help our customers to eat healthy and reach their health goals."
+                }
+            ],
+            "Output": "Our company offers a subscription-based wellness service that delivers healthy meals and snacks to our customers' doorsteps. Our product or service solves the problem of unhealthy eating habits. Our healthy meals and snacks help our customers to make better choices and reach their health goals.\n\nOur target market is health-conscious individuals who are looking for an convenient and affordable way to eat healthy. Our company's competitive advantage is our focus on healthy eating. Our meals are prepared by registered dietitians and are tailored to our customers' individual health needs.\n\nOur company's business model is subscription-based. Our customers can choose to subscribe to our weekly or monthly service. Our company is currently profitable and we have a strong balance sheet.\n\nOur company's exit strategy is to be acquired by a larger wellness company. Our company is currently operational in two markets. Our company's long-term vision is to become the leading provider of healthy meals and snacks.\n\nOur company's mission is to help our customers to eat healthy and reach their health goals.\n\nIf you're looking for an investment that will make a difference, look no further than our company. We're changing the way people think about healthy eating, and we're making it easier and more affordable than ever"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZjyuDlrCUT2momydIf7GgJ7H",
+        "https://beta.openai.com/playground/p/EiYF8WFQ2j1S9BgTn2HnWZmO",
+        "https://beta.openai.com/playground/p/S2IWHdn3mXvrDzbkungiGKBW"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Zfztrl6TdIy5GWEuhhqa5p4FaDspvoFu?usp=sharing"
+}

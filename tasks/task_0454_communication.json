@@ -1,0 +1,172 @@
+{
+    "Contributor": "kinahansean",
+    "Domain": "Communication",
+    "Task": "Software Issue Reporting",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing software issue reports. I will ask some questions to collect information and then I will use the information to write a bug report. Question:",
+        "task_specific_prompt": "Write a software development issue report using the questions and answers above. Classify the severity of the reported issue on a scale from minor to severe."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am experiencing an issue with my software where it is not opening correctly. When I try to open it, the screen is blank and I cannot click on anything."
+                },
+                {
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to open the software."
+                },
+                {
+                    "Question": "What steps can we take to reproduce the issue?",
+                    "Answer": "1. Download the software from the link below. 2. Install the software on your computer. 3. Try to open the software."
+                },
+                {
+                    "Question": "What is the expected outcome?",
+                    "Answer": "The expected outcome is that the software would open correctly and I would be able to use it."
+                },
+                {
+                    "Question": "What is the actual outcome?",
+                    "Answer": "The actual outcome is that the software does not open correctly and I cannot use it."
+                },
+                {
+                    "Question": "What version of the software are you using?",
+                    "Answer": "I am using version 1.0.0 of the software."
+                },
+                {
+                    "Question": "What operating system are you using?",
+                    "Answer": "I am using Windows 10."
+                },
+                {
+                    "Question": "Do you have any other relevant information that could help us reproduce the issue?",
+                    "Answer": "This issue first occurred after the latest windows update."
+                },
+                {
+                    "Question": "Have you tried restarting your computer?",
+                    "Answer": "Yes, I have tried restarting my computer."
+                },
+                {
+                    "Question": "Have you tried reinstalling the software?",
+                    "Answer": "Yes, I have tried reinstalling the software."
+                }
+            ],
+            "Output": "Severity: Major  Software Issue Report  User is unable to open software after latest Windows update.  1. What is the issue you are experiencing?  I am experiencing an issue where my software will not open correctly. The screen is blank and I cannot click on anything.  2. What were you doing when the issue occurred?  I was trying to open the software.  3. What steps can we take to reproduce the issue?  1. Download the software from the link below. 2. Install the software on your computer. 3. Try to open the software.  4. What is the expected outcome?  The expected outcome is that the software would open correctly and I would be able to use it.  5. What is the actual outcome?  The actual outcome is that the software does not open correctly and I cannot use it.  6. What version of the software are you using?  I am using version 1.0.0 of the software.  7. What operating system are you using?  I am using Windows 10.  8. Do you have any other relevant information that could help us reproduce the issue"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am experiencing an issue with the software not saving my changes."
+                },
+                {
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to save my changes to the file."
+                },
+                {
+                    "Question": "What is the expected behavior?",
+                    "Answer": "The expected behavior is for the software to save my changes to the file."
+                },
+                {
+                    "Question": "What are the steps to reproduce the issue?",
+                    "Answer": "1. Open the software.2. Make some changes to the file. 3. Try to save the changes."
+                },
+                {
+                    "Question": "What is your operating system and version?",
+                    "Answer": "I am using Windows 10."
+                },
+                {
+                    "Question": "What is the version of the software?",
+                    "Answer": "I am using version 1.4"
+                },
+                {
+                    "Question": "Do you have any other information that might be helpful?",
+                    "Answer": "I have tried restarting the software and my computer, but the issue still occurs. This issue first started after the latest windows update."
+                },
+                {
+                    "Question": "Can you provide a screenshot or video of the issue?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What type of issue is this?",
+                    "Answer": "This is a bug."
+                },
+                {
+                    "Question": "What is the severity of the issue?",
+                    "Answer": "The severity of the issue is high."
+                },
+                {
+                    "Question": "What is the priority of the issue?",
+                    "Answer": "The priority of the issue is high."
+                },
+                {
+                    "Question": "Who should be assigned to this issue?",
+                    "Answer": "The developer should be assigned to this issue."
+                }
+            ],
+            "Output": "Bug Report  Software: Version 1.4  Operating System: Windows 10  Issue:  The software is not saving my changes. This issue started after the latest Windows update.  1. Open the software. 2. Make some changes to the file. 3. Try to save the changes.  Expected Behavior: The software should save my changes to the file.  Severity: Severe"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am having an issue with my software not opening."
+                },
+                {
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to open the software."
+                },
+                {
+                    "Question": "What is the exact error message you are receiving, if any?",
+                    "Answer": "Critical error: The program failed to load."
+                },
+                {
+                    "Question": "What steps have you taken to try to resolve the issue?",
+                    "Answer": "I have uninstalled and reinstalled the software."
+                },
+                {
+                    "Question": "What is your operating system?",
+                    "Answer": "Windows 10."
+                },
+                {
+                    "Question": "What is the version of the software you are using?",
+                    "Answer": " Version 1.0.1."
+                },
+                {
+                    "Question": "Have you been able to reproduce the issue? If so, please describe the steps you took to reproduce it.",
+                    "Answer": "Yes, I have been able to reproduce the issue. The steps I took to reproduce it were to try to open the software."
+                },
+                {
+                    "Question": "Is there anything else you think we should know?",
+                    "Answer": "This issue first occurred after I reset my user credentials."
+                },
+                {
+                    "Question": "Please attach screenshots or videos of the issue, if possible.",
+                    "Answer": "Done."
+                },
+                {
+                    "Question": "Would you like to be contacted if we need more information?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What is the best way to reach you?",
+                    "Answer": "You can reach me by email at terry@hotmail.com"
+                },
+                {
+                    "Question": "What is your name?",
+                    "Answer": "Terry"
+                },
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "terry@hotmail.com"
+                }
+            ],
+            "Output": "Severity: Major   Terry reports that the software is not opening. This started happening after he reset his user credentials. He has tried uninstalling and reinstalling the software, but the issue persists. This is reproducible by trying to open the software. Windows 10 and software version 1.0.1 are being used. Screenshots are attached."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/vjth56iLWBVOqpqVEjofZkXE?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BXEEt6egzbwolNc9frXuyI3S?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1Pl8i7aVUfIjsdwphESjUS5H?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1WYfXO-0PEt9zL7KxspxcsCv2Zz4G7jZl?usp=sharing"
+}

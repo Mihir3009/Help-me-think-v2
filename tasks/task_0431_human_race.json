@@ -1,0 +1,152 @@
+{
+    "Contributor": "hillikerjacob",
+    "Domain": "Human Race",
+    "Task": "Alien Encounter",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert social scientist studying the nature of humanity. I will ask some questions to collect information and then I will use the information to determine what an alien race would think of us upon first meeting us.",
+        "task_specific_prompt": "Write a description of how an alien species might perceive humans using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do humans interact with each other?",
+                    "Answer": "Humans interact with each other in several media, such as sound waves, body movement, or written text."
+                },
+                {
+                    "Question": "What kind of emotions do humans experience?",
+                    "Answer": "Humans experience a wide range of emotions, including positive emotions like love, joy, trust, and excitement as well as negative emotions such as fear, angst, anger, and depression."
+                },
+                {
+                    "Question": "What is the average lifespan of a human?",
+                    "Answer": "The average lifespan of a human is about 79 years."
+                },
+                {
+                    "Question": "What are some of the things that humans value?",
+                    "Answer": "Some of the things that humans value include love, social relationships, freedom, knowledge, wealth, prestige, and self-improvement."
+                },
+                {
+                    "Question": "What are some of the things that humans fear?",
+                    "Answer": "The greatest fear of humankind is the unknown, since anything not known could be worse than we could possibly imagine."
+                },
+                {
+                    "Question": "What do humans think about death?",
+                    "Answer": "Death is a natural part of life, but humans often fear it because it could be painful and we might feel as if there is more we could still accomplish in life."
+                },
+                {
+                    "Question": "What do humans think about other life forms?",
+                    "Answer": "It depends. Humans are often very fond of furry animals, but terrified or repulsed by bugs, snakes, worms, and some sea creatures."
+                },
+                {
+                    "Question": "What is the nature of human sexuality?",
+                    "Answer": "Human sexuality is a complex topic, but in general, humans are sexual beings who experience attraction to others and engage in sexual activity for both pleasure and procreation. We are driven by biological urges to carry on our genes to a new generation."
+                },
+                {
+                    "Question": "What do humans believe in?",
+                    "Answer": "Humans most often believe in what they perceive with their senses. However, humans often also place belief in explanations for that which they do not understand, usually in the form of a religion or other spiritual belief system."
+                },
+                {
+                    "Question": "What do humans do for fun?",
+                    "Answer": "Humans engage in a wide variety of activities for fun, including playing games, appreciating the arts, traveling, and spending time with others."
+                }
+            ],
+            "Output": "An alien race that met humans for the first time would likely find us to be a confusing and contradictory species. They would notice that we are capable of forming complex social relationships and that we experience a wide range of emotions. They would also be struck by our relatively short lifespans and our seeming obsession with wealth and prestige. They might be perplexed by our belief systems, which often seem to be based on things that we cannot see or touch. And they would definitely be entertained by the variety of activities that we do for fun. In general, they would probably find us to be an intriguing but ultimately confusing species."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do people from different cultures and religions get along?",
+                    "Answer": "Some cultures and religions are more tolerant than others. For instance, some religions see opposing beliefs as an insult to their deity, which often leads to conflict. However, many of the world's cultures are able to coexist and learn from each other today."
+                },
+                {
+                    "Question": "What are some of humanity's most strengths?",
+                    "Answer": "Some of humanity's greatest strengths are our creativity, our compassion, and our capacity for adaptation."
+                },
+                {
+                    "Question": "What are some of humanity's most weaknesses?",
+                    "Answer": "Some of humanity's greatest weaknesses are our capacity for fear, hatred, and apathy."
+                },
+                {
+                    "Question": "How do people in different parts of the world view each other?",
+                    "Answer": "It depends greatly on which parts of the world are in question. In general, it is not uncommon to view other cultures or religions with suspicion, but it is also very common to be interested in and supportive of others' cultures and beliefs. This development seems to be accelerating due to the Internet exposing people to a wide array of different lifestyles."
+                },
+                {
+                    "Question": "What do people do for fun?",
+                    "Answer": "People have a wide variety of hobbies and interests, so there is no one answer to this question. Some people enjoy playing sports, some people enjoy watching movies, and some people enjoy spending time with their families. There are endless possibilities."
+                },
+                {
+                    "Question": "What are some of humanity's most notable achievements?",
+                    "Answer": "Scientifically, humans have made massive achievements by inventing airplanes and spaceships and the Internet. You can now communicate almost instantly with someone across the entire world, or you could travel across the world to visit them in a day or two. This has open humans' eyes to many cultures and beliefs and has made us more accepting of others."
+                },
+                {
+                    "Question": "What are some of humanity's most notable failures?",
+                    "Answer": "Many of our supposedly most advanced societies are still unwilling to help those in need. Others wage destructive war or even wipe out entire populations, but in general, the lack of compassionate leadership has caused a great deal of harm to our society and planet."
+                },
+                {
+                    "Question": "What do people believe in?",
+                    "Answer": "This is a very vague question. People believe in facts, whether gathered by observation or deduction. They also often believe in spiritual explanations for natural phenomena such as bad luck or the origins of the universe."
+                },
+                {
+                    "Question": "What do people value?",
+                    "Answer": "This is another very vague question. People tend to value what makes them feel good. This can include selfish things like endless wealth or fancy possessions but can also include art, family, or serving others."
+                },
+                {
+                    "Question": "What is the meaning of life, according to humanity?",
+                    "Answer": "This is a difficult question to answer. Some people believe that the meaning of life is to live in such a way that you will be happy and fulfilled. Others believe that the meaning of life is to serve a higher purpose, such as God or the universe. Still others believe that life is ultimately meaningless and that we should make the most of it while we can."
+                }
+            ],
+            "Output": "The aliens might perceive humans as a species that is creative and compassionate, but also one that is capable of great destruction. They might see us as a species that is curious and interested in others, but also one that can be fearful and intolerant. They might view us as a species with great potential but also with many flaws."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do we as a species tend to interact with one another?",
+                    "Answer": "Humans tend to interact with one another in a variety of ways, depending on the individual and the situation. In some cases, we may cooperate with one another in order to achieve a common goal. In other cases, we may compete with one another in order to gain an advantage. And in other cases, we may simply coexist with one another without any particular interaction."
+                },
+                {
+                    "Question": "What are some of the things that we value as a species?",
+                    "Answer": "As a species, we value what makes us happy, such as accomplishments, love, knowledge, novel experiences, or our loved ones."
+                },
+                {
+                    "Question": "What are some of the things that we consider to be problems?",
+                    "Answer": "As a species, we consider those things which are harmful to us as problems. For instance, pain, inequality, greed, corruption, pride, and destruction are all generally considered problems."
+                },
+                {
+                    "Question": "How do we think about other species?",
+                    "Answer": "Humans generally think of other species in terms of how they can benefit us or how they can harm us. We are fond of some because we view them as cute, beautiful, or helpful, but others are ugly or deadly."
+                },
+                {
+                    "Question": "What is our relationship with our environment?",
+                    "Answer": "Historically, we have exploited the world around us for personal or societal advancement. This includes extracting resources or clearing land to build settlements. More recently, there has been greater focus on conserving what is left of the natural world to preserve its beauty and the species that inhabit it."
+                },
+                {
+                    "Question": "What is our relationship with technology?",
+                    "Answer": "Humans have always used technology to make our lives easier, whether it is the invention of the wheel or the latest smartphone. Sometimes, technology is created based on what is most financially profitable rather than what is most helpful. This can lead to dangerous consequences."
+                },
+                {
+                    "Question": "What are some of the things that make us unique as a species?",
+                    "Answer": "Some of the things that make us unique as a species on our planet include our capacity for language, our ability to reason and think abstractly, our capacity for empathy, and our creativity."
+                },
+                {
+                    "Question": "What do you think an alien race would think of us upon first meeting us?",
+                    "Answer": "I need you to ask some new questions so you can decide for yourself"
+                },
+                {
+                    "Question": "What are our strengths as a species?",
+                    "Answer": "Some of our strengths as a species include our compassion, trust, strength, and intelligence."
+                },
+                {
+                    "Question": "What are our weaknesses as a species?",
+                    "Answer": "Some of our weaknesses as a species include pride, greed, selfishness, arrogance, and ignorance."
+                }
+            ],
+            "Output": "An alien race might perceive humans as a species that is intelligent and creative, but also arrogant and self-destructive. They might see us as a species that is capable of great good, but also capable of great harm. They might view us with curiosity and caution, and decide to observe us further before making any contact."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/oE2QroWY58IHHArW1GhLYO1a?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dOiwx5ZABHbnX56aol7UVBmg?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UNYVPHAglqlnS45qx1nsOYVF?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1z2oK10F2hHt4F88Ts3p9za4jZdZZQF43?usp=sharing"
+}

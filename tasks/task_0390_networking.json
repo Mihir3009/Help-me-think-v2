@@ -1,0 +1,148 @@
+{
+    "Contributor": "lizhuoran",
+    "Domain": "networking",
+    "Task": "",
+    "Prompt": {
+        "pre_question_prompt": "I'm Interviewer, I will ask some questions related to computer network to collect information and then I will use the information to ask question to candidates.",
+        "task_specific_prompt": "Write a list to collect the information about the question for candidates using the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": " What is a computer network?",
+                    "Answer": "A computer network is a group of computers that are connected together in order to share data or resources. Networks can be small, with just a few computers, or large, with hundreds or even thousands of computers."
+                },
+                {
+                    "Question": "What are the benefits of using a computer network?",
+                    "Answer": "There are many benefits to using a computer network, including the ability to share data and resources, communicate with others, and collaborate on projects. Networks can also provide increased security and reliability, as well as increased performance."
+                },
+                {
+                    "Question": "What are the different types of computer networks?",
+                    "Answer": " There are many different types of computer networks, including Local Area Networks (LANs), Wide Area Networks (WANs), Metropolitan Area Networks (MANs), Storage Area Networks (SANs), and Virtual Private Networks (VPNs)."
+                },
+                {
+                    "Question": "What are the different components of a computer network?",
+                    "Answer": "The different components of a computer network include network interface cards (NICs), switches, routers, and cables."
+                },
+                {
+                    "Question": "How do computer networks work?",
+                    "Answer": "Computer networks work by sharing data and resources between the computers that are connected together. The data and resources are shared through a process of communication, which is facilitated by the network components."
+                },
+                {
+                    "Question": "What are the different types of network communication?",
+                    "Answer": "There are many different types of network communication, including point-to-point, multipoint, broadcast, and multicast."
+                },
+                {
+                    "Question": "What are the different types of network architectures?",
+                    "Answer": "There are many different types of network architectures, including peer-to-peer, client-server, and hybrid."
+                },
+                {
+                    "Question": "What are the different types of network topologies?",
+                    "Answer": "There are many different types of network topologies, including bus, star, ring, and mesh."
+                },
+                {
+                    "Question": "What are the different types of network services?",
+                    "Answer": "There are many different types of network services, including email, file sharing, print, and web."
+                },
+                {
+                    "Question": "What are the different types of network security?",
+                    "Answer": "There are many different types of network security, including firewalls, encryption, and authentication."
+                }
+            ],
+            "Output": "-What is a computer network? -What are the benefits of using a computer network? -What are the different types of computer networks? -What are the different components of a computer network? -How do computer networks work? -What are the different types of network communication? -What are the different types of network architectures? -What are the different types of network topologies? -What are the different types of network services? -What are the different types of network security?"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is a computer network?",
+                    "Answer": "A computer network is a system of computers that are connected together in order to share data and resources."
+                },
+                {
+                    "Question": "What are the benefits of using a computer network?",
+                    "Answer": "Some benefits of using a computer network include the ability to share data and resources, increased communication, and improved collaboration."
+                },
+                {
+                    "Question": "What are the challenges of using a computer network?",
+                    "Answer": " Some challenges of using a computer network include security risks, data breaches, and compatibility issues."
+                },
+                {
+                    "Question": "How can you improve the security of a computer network?",
+                    "Answer": "Some ways to improve the security of a computer network include using firewalls, encrypting data, and creating user access controls."
+                },
+                {
+                    "Question": "What are some common networking technologies?",
+                    "Answer": "Some common networking technologies include Ethernet, Wi-Fi, and Bluetooth."
+                },
+                {
+                    "Question": "What is Ethernet?",
+                    "Answer": "Ethernet is a type of computer network that uses cables to connect computers."
+                },
+                {
+                    "Question": "What is Wi-Fi?",
+                    "Answer": "Wi-Fi is a type of computer network that uses wireless signals to connect computers."
+                },
+                {
+                    "Question": "What is Bluetooth?",
+                    "Answer": "Bluetooth is a type of computer network that uses short-range radio waves to connect computers."
+                },
+                {
+                    "Question": "What are the benefits of using Ethernet?",
+                    "Answer": "Some benefits of using Ethernet include increased security and reliability."
+                },
+                {
+                    "Question": "What are the benefits of using Wi-Fi?",
+                    "Answer": "Some benefits of using Wi-Fi include increased flexibility and mobility."
+                }
+            ],
+            "Output": "-What is a computer network? -What are the benefits of using a computer network? -What are the challenges of using a computer network? -How can you improve the security of a computer network? -What are some common networking technologies? -What is Ethernet? -What are the benefits of using Ethernet? -What is Wi-Fi? -What are the benefits of using Wi-Fi? -What is Bluetooth?"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the primary benefit of using a network?",
+                    "Answer": "The primary benefit of using a network is that it allows communication and collaboration between users. Networks can also be used to share resources, such as printers and files, and to connect to the internet."
+                },
+                {
+                    "Question": "What are the different types of network architectures?",
+                    "Answer": "The different types of network architectures include bus, star, mesh, and ring."
+                },
+                {
+                    "Question": "What is the primary advantage of using a network over a single computer?",
+                    "Answer": "The primary advantage of using a network over a single computer is that it allows for increased communication and collaboration between users. Networks also provide increased access to resources and connect users to the internet."
+                },
+                {
+                    "Question": "How do you think the network affects business?",
+                    "Answer": "The network affects business by enabling businesses to communicate and collaborate with customers and partners. The network also provides businesses with access to resources and the ability to connect to the internet."
+                },
+                {
+                    "Question": "What do you think is the future of networking?",
+                    "Answer": "The future of networking is likely to involve more wireless and mobile technologies. There may also be more focus on security and on providing access to high-speed internet connections."
+                },
+                {
+                    "Question": " Do you have any experience with networking?",
+                    "Answer": "I have experience with networking through my work in the IT field. I have set up and maintained both small and large networks. I am also familiar with a variety of networking technologies, such as Ethernet and WiFi."
+                },
+                {
+                    "Question": "What do you think is the most important aspect of networking?",
+                    "Answer": "the most important aspect of networking is ensuring that the network is secure. This includes ensuring that data is encrypted and that only authorized users have access to the network."
+                },
+                {
+                    "Question": "What do you think is the biggest challenge facing networks today?",
+                    "Answer": "The biggest challenge facing networks today is keeping up with the increasing demand for data. This includes ensuring that networks have the capacity to handle the ever-increasing amount of data traffic and that they are able to provide high-speed connections."
+                },
+                {
+                    "Question": "What do you think is the future of networking?",
+                    "Answer": "The future of networking is likely to involve more wireless and mobile technologies. There may also be more focus on security and on providing access to high-speed internet connections."
+                },
+                {
+                    "Question": "Do you have any experience with networking?",
+                    "Answer": "I have experience with networking through my work in the IT field. I have set up and maintained both small and large networks. I am also familiar with a variety of networking technologies, such as Ethernet and WiFi."
+                }
+            ],
+            "Output": "-The primary benefit of using a network is that it allows communication and collaboration between users. -Networks can also be used to share resources, such as printers and files, and to connect to the internet. -The different types of network architectures include bus, star, mesh, and ring. -The primary advantage of using a network over a single computer is that it allows for increased communication and collaboration between users. -Networks also provide increased access to resources and connect users to the internet. -The network affects business by enabling businesses to communicate and collaborate with customers and partners. -The future of networking is likely to involve more wireless and mobile technologies.-I have experience with networking through my work in the IT field."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/UdotKRG1rNisE687w0mVhtEu?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1lVeqLdVFGhrLsxj7SaLqgxSRpVFBJ-oRULKi6UfqO_0/edit?usp=sharing"
+}

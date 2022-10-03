@@ -1,0 +1,148 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Commercial Aviation",
+    "Task": "Training plan for a pilot",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert learning pilot who is learning how to fly I will ask some questions to collect information and then I will use the information to plan my learning and training plan.\n\n",
+        "task_specific_prompt": "Write a training plan for me using the questions and answers above. Help me reduce my budget too."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How much experience do you have flying?",
+                    "Answer": "I have about 10 hours of flying experience."
+                },
+                {
+                    "Question": "What type of flying do you want to do?",
+                    "Answer": "I want to learn how to fly a small plane."
+                },
+                {
+                    "Question": "What is your goal in learning to fly?",
+                    "Answer": "I want to be able to fly a small plane so that I can travel to different places."
+                },
+                {
+                    "Question": "What are your specific goals for your training?",
+                    "Answer": "I want to be able to take off and land a small plane."
+                },
+                {
+                    "Question": "How much time are you willing to devote to learning to fly?",
+                    "Answer": "I am willing to spend 10 hours a week learning to fly."
+                },
+                {
+                    "Question": "What is your budget for learning to fly?",
+                    "Answer": "I have a budget of $1000 for learning to fly."
+                },
+                {
+                    "Question": "What are your availability for flying lessons?",
+                    "Answer": "I am available for flying lessons on Monday, Wednesday, and Friday from 9am to 3pm."
+                },
+                {
+                    "Question": "Do you have any other questions that you think would be helpful for me to know?",
+                    "Answer": "Yes, I want to complete my training in less than 1 year."
+                },
+                {
+                    "Question": "What is the best way to contact you?",
+                    "Answer": "The best way to contact me is by email at learningpilot@gmail.com."
+                },
+                {
+                    "Question": "When would you like to start your training?",
+                    "Answer": "I would like to start my training as soon as possible."
+                }
+            ],
+            "Output": "The first thing you need to do is to find a flying school or instructor. You can ask around at your local airport, or search online. Once you have found a school or instructor, you will need to schedule an appointment for an introductory flight lesson. This will give you a chance to meet the instructor and see if you are comfortable flying with them. It will also give you a chance to ask any questions that you may have about flying.\nAfter your introductory flight lesson, you will need to start taking flying lessons. How often you take lessons will depend on your budget and availability. If you can afford to, you should take at least 2 lessons per week. If you can only afford to take 1 lesson per week, that is okay, you will just need to schedule more lessons in order to reach your goal of becoming a pilot in one year.\nYour flying lessons will cover a variety of topics, including takeoffs, landings, turns, and flying in different types of weather conditions. As you progress, you will also learn how to navigate using maps and instruments.\nIn addition to your flying lessons, you will also need to study for and pass a written exam and a practical exam in order to get your pilot's license. The written"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much experience do you have flying?",
+                    "Answer": "I have about 100 hours of flying experience."
+                },
+                {
+                    "Question": "What type of flying do you want to do?",
+                    "Answer": "I want to learn how to fly a large plane."
+                },
+                {
+                    "Question": "What is your goal in learning to fly?",
+                    "Answer": "I want to be able to fly a large plane so that I join air force."
+                },
+                {
+                    "Question": "What are your specific goals for your training?",
+                    "Answer": "I want to be able to take off and land a large military plane."
+                },
+                {
+                    "Question": "How much time are you willing to devote to learning to fly?",
+                    "Answer": "I am willing to spend 40 hours a week learning to fly."
+                },
+                {
+                    "Question": "What is your budget for learning to fly?",
+                    "Answer": "I have a budget of $10000 for learning to fly."
+                },
+                {
+                    "Question": "What are your availability for flying lessons?",
+                    "Answer": "I am available for flying lessons on Monday, Wednesday, and Friday from 9am to 3pm."
+                },
+                {
+                    "Question": "Do you have any other questions that you think would be helpful for me to know?",
+                    "Answer": "Yes, I want to complete my training in less than 1 year."
+                },
+                {
+                    "Question": "What is the best way to contact you?",
+                    "Answer": "The best way to contact me is by email at learningpilot@gmail.com."
+                },
+                {
+                    "Question": "When would you like to start your training?",
+                    "Answer": "I would like to start my training as soon as possible."
+                }
+            ],
+            "Output": "The first step in your training plan is to find a certified flight instructor (CFI). You can find a list of CFIs in your area on the website of the National Association of Flight Instructors (NAFI). Once you have found a CFI, you will need to set up a time for your first flying lesson.\nDuring your first lesson, your CFI will go over the basics of flying with you. They will cover topics such as the parts of the airplane, the instruments in the cockpit, and how to control the airplane. After your first lesson, you will have a better idea of what flying is like and what you need to do to progress in your training.\nThe next step in your training plan is to begin learning the basics of flying. You will need to learn how to control the airplane, how to take off and land, and how to navigate. These skills will be taught to you by your CFI during your flying lessons. As you progress in your training, you will learn more advanced skills such as flying in different weather conditions and flying at night.\nYour training plan should also include a schedule for practicing your flying skills. You should set aside time each week to practice what you have learned in your flying lessons."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much experience do you have flying?",
+                    "Answer": "I don't have any flying experience."
+                },
+                {
+                    "Question": "What type of flying do you want to do?",
+                    "Answer": "I want to learn how to fly a commercial plane."
+                },
+                {
+                    "Question": "What is your goal in learning to fly?",
+                    "Answer": "I want to be able to fly a commercial plane and join United airlines."
+                },
+                {
+                    "Question": "What are your specific goals for your training?",
+                    "Answer": "I want to be able to safely help people travel"
+                },
+                {
+                    "Question": "How much time are you willing to devote to learning to fly?",
+                    "Answer": "I am willing to spend 40 hours a week learning to fly."
+                },
+                {
+                    "Question": "What is your budget for learning to fly?",
+                    "Answer": "I have a budget of $10000 for learning to fly."
+                },
+                {
+                    "Question": "What are your availability for flying lessons?",
+                    "Answer": "I am available for flying lessons on Monday, Wednesday, and Friday from 9am to 3pm."
+                },
+                {
+                    "Question": "Do you have any other questions that you think would be helpful for me to know?",
+                    "Answer": "Yes, I want to complete my training in 3 months."
+                },
+                {
+                    "Question": "What is the best way to contact you?",
+                    "Answer": "The best way to contact me is by phone at 1234231456."
+                },
+                {
+                    "Question": "When would you like to start your training?",
+                    "Answer": "I would like to start my training after one year"
+                }
+            ],
+            "Output": "Assuming the student would like to start their training in one year:\n-The student should start by taking a few introductory flying lessons to get a feel for flying and to see if they have the aptitude for it.\n-After the initial lessons, the student should then join a flying club and start taking more regular lessons.\n-The student should aim to take a minimum of 2 lessons per week.\n-The student should also start studying for the Private Pilot's License exam.\n-Once the student has completed the necessary training and has passed the exam, they can then start training for their Commercial Pilot's License.\n-The student should aim to take a minimum of 3 lessons per week during this training.\n-Once the student has completed the necessary training and has passed the exam, they will be ready to start their career as a commercial pilot."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/jqYirc6LJ8dZ5mBvlJW3WvBG?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ITQoIn_K0IPfFuMuEaYEzIGiixlS3Sb7/view?usp=sharing"
+}

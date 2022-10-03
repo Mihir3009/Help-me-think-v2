@@ -1,0 +1,152 @@
+{
+    "Contributor": "kumarpremsuresh",
+    "Domain": "News",
+    "Task": "News Article Creation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at writing news articles. I will ask some questions to collect information to write an article.",
+        "task_specific_prompt": "Write an news article using the questions and answers above. Add necessary context and explain in length."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "Jackson, Mississippi, is without reliable running water after river rises to dangerous level"
+                },
+                {
+                    "Question": "What caused the river to rise to a dangerous level?",
+                    "Answer": "Heavy rains caused the the Pearl River to flood."
+                },
+                {
+                    "Question": "What is the government doing to help the situation?",
+                    "Answer": " In preparation for the flooding, Mississippi Gov. Tate Reeves declared a state of emergency for Jackson and other nearby areas, some Jackson Public Schools shifted to virtual learning and the Mississippi Emergency Management Agency deployed 126,000 sandbags to act as water barriers."
+                },
+                {
+                    "Question": "What is the estimated damage?",
+                    "Answer": "City officials initially estimated between 100 and 150 homes could be impacted by the floodwaters."
+                },
+                {
+                    "Question": "Is anyone injured or missing?",
+                    "Answer": "35 people have been reported dead and hundreds missing"
+                },
+                {
+                    "Question": "When did this happen?",
+                    "Answer": "The river began to rise on friday and reached its crest over the weekend."
+                },
+                {
+                    "Question": "How long is the river expected to stay at this level?",
+                    "Answer": "The river is expected to subside by monday and most areas will be drained by monday evening."
+                },
+                {
+                    "Question": "What is the current status of the situation?",
+                    "Answer": "The city's water treatment plant has been operating well below capacity, officials said, which could result in no water pressure for most of the city in the coming days."
+                },
+                {
+                    "Question": "What is the long-term prognosis for the city?",
+                    "Answer": "It may take weeks or even months for the city to fully recover from the flood."
+                },
+                {
+                    "Question": "What is the city doing to prevent this from happening again?",
+                    "Answer": "The city is working on a long-term plan to improve its infrastructure and prevent future flooding and the possibility of building a flood wall is also under discussion."
+                }
+            ],
+            "Output": "On Monday, the city of Jackson, Mississippi was without reliable running water after the Pearl River rose to a dangerous level. The river had been rising since Friday due to heavy rains, and by the weekend, it had reached its crest. In preparation for the flooding, Mississippi Gov. Tate Reeves declared a state of emergency for Jackson and other nearby areas. Some Jackson Public Schools shifted to virtual learning and the Mississippi Emergency Management Agency deployed 126,000 sandbags to act as water barriers. City officials initially estimated between 100 and 150 homes could be impacted by the floodwaters. However, as of Monday, 35 people have been reported dead and hundreds missing. The river is expected to subside by Monday and most areas will be drained by Monday evening. The city's water treatment plant has been operating well below capacity, officials said, which could result in no water pressure for most of the city in the coming days. It may take weeks or even months for the city to fully recover from the flood.The city is working on a long-term plan to improve its infrastructure and prevent future flooding. The possibility of building a flood wall is also under discussion."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of your article?",
+                    "Answer": "Australian Scientists Hope To De-Extinct Tasmanian Tiger In Next 10 Years."
+                },
+                {
+                    "Question": "Who are the Tasmanian tigers?",
+                    "Answer": "The Tasmanian tigers are a species of marsupial that was native to Australia and became extinct in the 20th century."
+                },
+                {
+                    "Question": "What is the goal of the Australian scientists?",
+                    "Answer": "The goal of the Australian scientists is to bring the Tasmanian tigers back to life after partnering with a genetic engineering company in the U.S."
+                },
+                {
+                    "Question": "How do they plan to do this?",
+                    "Answer": "Researchers hope to use DNA editing technology from Colossal to effectively turn cells from a living species \u2014 the fat-tailed dunnart \u2014 into thylacine-like cells matching the creature's genome. Those cells would be transferred into an embryo and then into an artificial womb or a surrogate creature."
+                },
+                {
+                    "Question": "What are the challenges they face?",
+                    "Answer": "The challenges they face are the high cost of the project, the ethical implications of bringing back an extinct species, and the possibility that the Tasmanian tigers may not be able to adapt to the changing environment and deep skepticism among other researchers as well as questions about the ethics of bringing back an animal humans know little about."
+                },
+                {
+                    "Question": "How much will the project cost?",
+                    "Answer": "The project has received $15 million in funding."
+                },
+                {
+                    "Question": "When do they hope to have the project completed?",
+                    "Answer": "The scientists hope to have the project completed in the next 10 years."
+                },
+                {
+                    "Question": "What are the implications of bringing back an extinct species?",
+                    "Answer": "The implications of bringing back an extinct species are largely unknown. Some ethical concerns have been raised about the possibility of the animals suffering in captivity, as well as the impact on the environment if they are reintroduced into the wild."
+                },
+                {
+                    "Question": "What is the deep skepticism among other researchers?",
+                    "Answer": "Some researchers are skeptical about the ability of the Tasmanian tigers to adapt to the changing environment, as well as the ethics of bringing back an animal that humans know little about."
+                },
+                {
+                    "Question": "What do you think about the project?",
+                    "Answer": "I think it is an ambitious project that faces many challenges. I am curious to see if the scientists are able to overcome the challenges and bring the Tasmanian tigers back to life."
+                }
+            ],
+            "Output": "Australian scientists are hoping to 'de-extinct' the Tasmanian tiger in the next 10 years. The Tasmanian tigers are a species of marsupial that was native to Australia and became extinct in the 20th century. The goal of the Australian scientists is to bring the Tasmanian tigers back to life after partnering with a genetic engineering company in the U.S. Researchers hope to use DNA editing technology from Colossal to effectively turn cells from a living species \u2014 the fat-tailed dunnart \u2014 into thylacine-like cells matching the creature's genome. Those cells would be transferred into an embryo and then into an artificial womb or a surrogate creature. The challenges they face are the high cost of the project, the ethical implications of bringing back an extinct species, and the possibility that the Tasmanian tigers may not be able to adapt to the changing environment. The project has received $15 million in funding. The scientists hope to have the project completed in the next 10 years. The implications of bringing back an extinct species are largely unknown. Some ethical concerns have been raised about the possibility of the animals suffering in captivity, as well as the impact on the environment if they are reintroduced into the wild. There is deep skepticism among other researchers about the ability of the Tasmanian tigers to adapt to the changing environment, as well as the ethics of bringing back an animal that humans know little about. I think it is an ambitious project that faces many challenges. I am curious to see if the scientists are able to overcome the challenges and bring the Tasmanian tigers back to life."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "Radiation Leak Fears Grow Near Ukrainian Nuclear Plant Knocked Offline"
+                },
+                {
+                    "Question": "What happened?",
+                    "Answer": "The move came a day after the plant was temporarily knocked offline because of what officials said was fire damage to a transmission line."
+                },
+                {
+                    "Question": "Where did it happen?",
+                    "Answer": "The incident took place at the Zaporizhzhya nuclear power plant in southern Ukraine."
+                },
+                {
+                    "Question": "When did it happen?",
+                    "Answer": "The plant was knocked offline on August 25, 2022."
+                },
+                {
+                    "Question": "Who was involved?",
+                    "Answer": "Officials from the Ukrainian government and the nuclear power plant, and military from Russia, and Ukraine were involved in the incident."
+                },
+                {
+                    "Question": "Why did it happen?",
+                    "Answer": "The Zaporizhzhia plant has been occupied by Russian forces and run by Ukrainian workers since the early days of the 6-month-old war. The two sides have repeatedly accused each other of shelling the site. In Thursday's incident, Ukraine and Russia blamed one another."
+                },
+                {
+                    "Question": "What are the consequences?",
+                    "Answer": "Iodine tablets, which help block the absorption of radioactive iodine by the thyroid gland in a nuclear accident, were issued in the Ukrainian-controlled city of Zaporizhzhia, about 45 kilometers (27 miles) from the plant."
+                },
+                {
+                    "Question": "What is being done to resolve the issue?",
+                    "Answer": "The U.N.'s atomic energy agency has been trying to send a team in to inspect and help secure the plant."
+                },
+                {
+                    "Question": "What is the background of the story?",
+                    "Answer": "The Zaporizhzhya nuclear power plant is one of the largest in Europe and has been in operation since the early 1980s. The plant has been at the center of the conflict between Russia and Ukraine."
+                },
+                {
+                    "Question": "What is the current status of the story?",
+                    "Answer": "Ukrenergo, Ukraine's transmission system operator, reported Friday that two damaged main lines supplying the plant with electricity had resumed operation, ensuring a stable power supply."
+                }
+            ],
+            "Output": "Radiation Leak Fears Grow Near Ukrainian Nuclear Plant Knocked Offline The move came a day after the plant was temporarily knocked offline because of what officials said was fire damage to a transmission line. The incident took place at the Zaporizhzhya nuclear power plant in southern Ukraine. The plant was knocked offline on August 25, when a fire caused damage to a transmission line. Officials from the Ukrainian government and the nuclear power plant, as well as military from Russia and Ukraine, were involved in the incident. The two sides have repeatedly accused each other of shelling the site. In Thursday's incident, Ukraine and Russia blamed one another. Iodine tablets, which help block the absorption of radioactive iodine by the thyroid gland in a nuclear accident, were issued in the Ukrainian-controlled city of Zaporizhzhia, about 45 kilometers (27 miles) from the plant. The U.N.'s atomic energy agency has been trying to send a team in to inspect and help secure the plant. The Zaporizhzhya nuclear power plant is one of the largest in Europe and has been in operation since the early 1980s. The plant has been at the center of the conflict between Russia and Ukraine. Ukrenergo, Ukraine's transmission system operator, reported Friday that two damaged main lines supplying the plant with electricity had resumed operation, ensuring a stable power supply."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/rizXoCCuQu81I7KCEHUeoOiP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/nyTF5BeLiiravbOtFJoifmom?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/SSdOrz23yqiEdKjPfFt97948?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1HmhC4uwgKtLa63cVmcP9Mc6HpmYFg9MN?usp=sharing"
+}

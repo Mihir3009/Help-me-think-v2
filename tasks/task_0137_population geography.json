@@ -1,0 +1,163 @@
+{
+    "Domain":"Population Geography",
+    "Task":"Migration Pattern - People likely to move in or out of the city",
+    "Prompt":{
+        "pre_question_prompt":"I am an expert in researching migration patterns in a city. I will ask some questions to collect information and then I will use the information to research the migration patterns in the city.",
+        "task_specific_prompt":"Write a response on the migration patterns explaining if the people are likely to move out of the city or move in the city using the questions and answers above."
+    },
+    "Instances":[
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of the city you would like to research?",
+                    "Answer":"Phoenix"
+                },
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"1,618,632"
+                },
+                {
+                    "Question":"What is the average income of residents in the city?",
+                    "Answer":"$42,818"
+                },
+                {
+                    "Question":"What is the cost of living in the city?",
+                    "Answer":"$1,131"
+                },
+                {
+                    "Question":"What is the unemployment rate in the city?",
+                    "Answer":"4.0%"
+                },
+                {
+                    "Question":"What is the crime rate in the city?",
+                    "Answer":"228.3"
+                },
+                {
+                    "Question":"What are the top five industries in the city?",
+                    "Answer":"Agriculture, mining, manufacturing, healthcare, and education."
+                },
+                {
+                    "Question":"What are the top five employers in the city?",
+                    "Answer":"Walmart, Amazon, Kroger, The Home Depot, and Apple."
+                },
+                {
+                    "Question":"What is the climate like in the city?",
+                    "Answer":"The climate in Phoenix is hot and dry."
+                },
+                {
+                    "Question":"What is the average home price in the city?",
+                    "Answer":"$434,800"
+                },
+                {
+                    "Question":"What is the average rent price in the city?",
+                    "Answer":"$1,974"
+                }
+            ],
+            "Output":"The average income in Phoenix is $42,818, which is below the national average of $50,000. The cost of living in Phoenix is also below the national average at $1,131. However, the unemployment rate in Phoenix is 4.0%, which is higher than the national average of 3.9%. The crime rate in Phoenix is also higher than the national average at 228.3. The top industries in Phoenix are agriculture, mining, manufacturing, healthcare, and education. The top employers in Phoenix are Walmart, Amazon, Kroger, The Home Depot, and Apple. The climate in Phoenix is hot and dry. The average home price in Phoenix is $434,800, and the average rent price is $1,974. The migration patterns in Phoenix are likely to be negative due to the higher than average unemployment rate and crime rate. The cost of living and average income are both below the national average, which may also contribute to people moving out of the city."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of the city you would like to research?",
+                    "Answer":"Boston"
+                },
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"689,326"
+                },
+                {
+                    "Question":"What is the average income of residents in the city?",
+                    "Answer":"$37,582"
+                },
+                {
+                    "Question":"What is the cost of living in the city?",
+                    "Answer":"$2,899"
+                },
+                {
+                    "Question":"What is the unemployment rate in the city?",
+                    "Answer":"3.7%"
+                },
+                {
+                    "Question":"What is the crime rate in the city?",
+                    "Answer":"216.1"
+                },
+                {
+                    "Question":"What are the top five industries in the city?",
+                    "Answer":"Biotechnology, maritime trade, engineering, information technology, finance."
+                },
+                {
+                    "Question":"What are the top five employers in the city?",
+                    "Answer":"TJX Companies, Amazon, Dunkin Brands, General Electric (GE), and Fidelity investments."
+                },
+                {
+                    "Question":"What is the climate like in the city?",
+                    "Answer":"The climate in Boston is mainly humid continental climate."
+                },
+                {
+                    "Question":"What is the average home price in the city?",
+                    "Answer":"$570,742"
+                },
+                {
+                    "Question":"What is the average rent price in the city?",
+                    "Answer":"$3,772"
+                }
+            ],
+            "Output":"The migration pattern for Boston appears to be inbound. The city has a relatively low unemployment rate and a high average income. The cost of living is high, but this is offset by the high wages that residents earn. The city also has a number of top employers, which makes it attractive to people looking for work. The climate is another factor that makes Boston appealing to people looking to move to the city."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the name of the city you would like to research?",
+                    "Answer":"Tokyo"
+                },
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"13,968,699"
+                },
+                {
+                    "Question":"What is the average income of residents in the city?",
+                    "Answer":"$5,070"
+                },
+                {
+                    "Question":"What is the cost of living in the city?",
+                    "Answer":"$1,103"
+                },
+                {
+                    "Question":"What is the unemployment rate in the city?",
+                    "Answer":"2.80%"
+                },
+                {
+                    "Question":"What is the crime rate in the city?",
+                    "Answer":"330.6"
+                },
+                {
+                    "Question":"What are the top five industries in the city?",
+                    "Answer":"Real estate, insurance, retailing, banking, and telecommunication."
+                },
+                {
+                    "Question":"What are the top five employers in the city?",
+                    "Answer":"Toyota Motor, SoftBank, Sony, Nippon Telegraph and Telephone, and Mitsubishi UFJ Financial Group."
+                },
+                {
+                    "Question":"What is the climate like in the city?",
+                    "Answer":"The climate in Tokyo is mainly humid subtropical climate."
+                },
+                {
+                    "Question":"What is the average home price in the city?",
+                    "Answer":"$550,000"
+                },
+                {
+                    "Question":"What is the average rent price in the city?",
+                    "Answer":"$652"
+                }
+            ],
+            "Output":"Based on the questions and answers above, it is likely that people will move into the city due to the high average income, low unemployment rate, and diverse industries. The climate and cost of living may be deterrents for some, but overall Tokyo is a city that offers many opportunities for residents."
+        }
+    ],
+    "Preset_link":[
+        "https://beta.openai.com/playground/p/Ugj65117Xtiokq4GB8wTwOBR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8iBQ3jt5C33k0BjuloLqV4eS?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/vaUs4dVzBshfPy246Hdo6N36?model=text-davinci-002"
+    ],
+    "screenshot_link":"https://drive.google.com/drive/folders/10M7iQ2PxyIwVJloh9gytB_fR4ap04HLR?usp=sharing"
+}

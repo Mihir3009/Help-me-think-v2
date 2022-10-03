@@ -1,0 +1,156 @@
+{
+    "Contributor": "linli",
+    "Domain": "Car service",
+    "Task": "Find the insurance policy that satisfies your need without spending too much money.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert of car insurance. I will ask some questions to collect information and then I will use the information to make sure that you find the policy that satisfies your need without paying too much.",
+        "task_specific_prompt": "Write a content of the desired policy using the questions and answers above. In details and monthly prices."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many drivers will be on the policy?",
+                    "Answer": "There will only be one driver on the policy."
+                },
+                {
+                    "Question": "What is the make and model of the car?",
+                    "Answer": "The car is a Ford Mustang."
+                },
+                {
+                    "Question": "How old is the driver?",
+                    "Answer": "The driver is 21 years old."
+                },
+                {
+                    "Question": "What is the driver's gender?",
+                    "Answer": "The driver is male."
+                },
+                {
+                    "Question": "What is the driver's marital status?",
+                    "Answer": "The driver is single."
+                },
+                {
+                    "Question": "Does the driver have any violations or accidents on their record?",
+                    "Answer": "No, the driver does not have any violations or accidents on their record."
+                },
+                {
+                    "Question": "What is the driver's zip code?",
+                    "Answer": "The driver's zip code is 90210."
+                },
+                {
+                    "Question": "What is the driver's credit score?",
+                    "Answer": "The driver has excellent credit."
+                },
+                {
+                    "Question": "What is the desired level of coverage?",
+                    "Answer": "The desired level of coverage is full coverage."
+                },
+                {
+                    "Question": "What is the desired deductible?",
+                    "Answer": "The desired deductible is $500."
+                }
+            ],
+            "Output": "The desired policy would be a full coverage policy with a $500 deductible. The monthly price would depend on the specific insurer, but would likely be around $100 per month."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many drivers will be on the policy?",
+                    "Answer": "There will be four drivers on the policy."
+                },
+                {
+                    "Question": "What are the ages of the drivers?",
+                    "Answer": "The ages of the drivers are 23, 25, 35, and 45."
+                },
+                {
+                    "Question": "What is the make and model of the car?",
+                    "Answer": "The car is Isuzu NPR-HD."
+                },
+                {
+                    "Question": "What is the primary use of the car?",
+                    "Answer": "The car will be used for logistics."
+                },
+                {
+                    "Question": "What is the estimated mileage driven per year?",
+                    "Answer": "The car will be driven an estimated 10,000 miles per year."
+                },
+                {
+                    "Question": "What is the zip code where the car will be primarily driven?",
+                    "Answer": "The car will be primarily driven in the zip code 90210."
+                },
+                {
+                    "Question": "What is the desired level of coverage?",
+                    "Answer": "The desired level of coverage is comprehensive and collision with a $1000 deductible."
+                },
+                {
+                    "Question": "What are the desired add-ons?",
+                    "Answer": "The desired add-ons are roadside assistance and rental car reimbursement."
+                },
+                {
+                    "Question": "What is the desired length of the policy?",
+                    "Answer": "The desired length of the policy is 5 years."
+                },
+                {
+                    "Question": "What is the desired payment schedule?",
+                    "Answer": "The desired payment schedule is monthly."
+                },
+                {
+                    "Question": "What is your budget for the policy?",
+                    "Answer": "The budget for the policy is $200 per month."
+                }
+            ],
+            "Output": "The desired policy would be a 5-year comprehensive and collision policy with a $1000 deductible. The add-ons desired are roadside assistance and rental car reimbursement. The monthly budget for the policy is $200."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the make, model, and year of your car?",
+                    "Answer": "The make, model, and year of my car is a Honda Civic EX 2007."
+                },
+                {
+                    "Question": "How much coverage do you need?",
+                    "Answer": "I need half coverage."
+                },
+                {
+                    "Question": "What is your budget for car insurance?",
+                    "Answer": "My budget for car insurance is $100 a month."
+                },
+                {
+                    "Question": "What are your driving habits?",
+                    "Answer": "I usually drive about 10 miles to work and back, and I sometimes drive on the weekends. I generally obey the speed limit and I rarely have accidents."
+                },
+                {
+                    "Question": "What is your marital status?",
+                    "Answer": "I am married."
+                },
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 26 years old."
+                },
+                {
+                    "Question": "Do you have any children?",
+                    "Answer": "I have 2 kids, one is a girl and the other is a boy."
+                },
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "I am a male."
+                },
+                {
+                    "Question": "Do you have any accidents or violations on your record?",
+                    "Answer": "I have 1 speeding ticket on my record."
+                },
+                {
+                    "Question": "What is your driving style?",
+                    "Answer": "I would say my driving style is cautious."
+                }
+            ],
+            "Output": "The policy should satisfy the customer's needs without costing too much.\nBased on the information provided, we recommend a policy with the following coverage:\n- Bodily Injury Liability: $50,000 per person/$100,000 per accident\n- Property Damage Liability: $25,000\n- Personal Injury Protection: $10,000\n- Collision: $500 deductible\n- Comprehensive: $250 deductible\nThis policy would have a monthly cost of $84.92."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/mdf51CqP51HW8HzO3g0I0yIX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sLkWNny5zXD4qEPSDABh9Fh1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/if3a7IwRJGWqYfqBAsLjCR38?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1HMS-QvnfbW0guUUc9g-JUMJ3Cj93eiem?usp=sharing"
+}

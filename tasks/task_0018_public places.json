@@ -1,0 +1,147 @@
+{
+    "Domain": "Public Places",
+    "Task": "I want to build a restaurant",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert chef. I will ask some questions to collect information and then I will use the information to start a new Indian restaurant.",
+        "task_specific_prompt": "Write me a short summary of all the things I need to keep in mind when starting an Indian restaurant using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Raviram."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from India."
+                },
+                {
+                    "Question": "What is your favorite Indian dish?",
+                    "Answer": "My favorite Indian dish is Chicken Tikka Masala."
+                },
+                {
+                    "Question": "What is your favorite spice?",
+                    "Answer": "My favorite spice is garam masala."
+                },
+                {
+                    "Question": "What is your favorite Indian restaurant?",
+                    "Answer": "My favorite Indian restaurant is Bawarchi."
+                },
+                {
+                    "Question": "What is your favorite thing about Indian food?",
+                    "Answer": "I love the variety of flavors and spices in Indian food."
+                },
+                {
+                    "Question": "What are your favorite ingredients to use in Indian cooking?",
+                    "Answer": "My favorite ingredients to use in Indian cooking are garam masala, turmeric, cumin, and ginger-garlic paste"
+                },
+                {
+                    "Question": "What is your favorite cooking method?",
+                    "Answer": "My favorite cooking method is to use pressure cooking."
+                },
+                {
+                    "Question": "What is your favorite Indian cooking utensil?",
+                    "Answer": "My favorite Indian cooking utensil is the tava."
+                },
+                {
+                    "Question": "What is your favorite Indian cookbook?",
+                    "Answer": "My favorite Indian cookbook is The Indian Spice Kitchen by Monica Bhide."
+                }
+            ],
+            "Output": "Some things to keep in mind when starting an Indian restaurant include the following: -The restaurant should be named after a popular Indian dish, such as Chicken Tikka Masala. -The restaurant should be located in an area with a large Indian population. -The menu should feature a variety of popular Indian dishes, as well as some less well-known but equally delicious dishes. -The spices used in Indian cooking should be of the highest quality, and the chef should be well-versed in how to use them to create mouth-watering dishes. -The cooking methods used should be ones that are commonly used in Indian cuisine, such as pressure cooking or using a tava. -The restaurant should have a selection of Indian cookbooks available for customers to purchase, so they can recreate their favorite dishes at home."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Ravi."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from United States of America."
+                },
+                {
+                    "Question": "What is your favorite Indian dish?",
+                    "Answer": "My favorite Indian dish is Butter Chicken."
+                },
+                {
+                    "Question": "What is your favorite spice?",
+                    "Answer": "My favorite spice is chicken masala."
+                },
+                {
+                    "Question": "What is your favorite Indian restaurant?",
+                    "Answer": "My favorite Indian restaurant is Swadeshi in Texas."
+                },
+                {
+                    "Question": "What is your favorite thing about Indian food?",
+                    "Answer": "I love the variety of flavors and sweets in Indian food."
+                },
+                {
+                    "Question": "What are your favorite ingredients to use in Indian cooking?",
+                    "Answer": "My favorite ingredients to use in Indian cooking are garam masala,  coriander power, cumin, and jaggery."
+                },
+                {
+                    "Question": "What is your favorite cooking method?",
+                    "Answer": "My favorite cooking method is to use slow-open pan cooking."
+                },
+                {
+                    "Question": "What is your favorite Indian cooking utensil?",
+                    "Answer": "My favorite Indian cooking utensil is the kadai."
+                },
+                {
+                    "Question": "What is your favorite Indian cookbook?",
+                    "Answer": "My favorite Indian cookbook is The Indian Spice Kitchen by Sanjeev Kapoor."
+                }
+            ],
+            "Output": "When opening an Indian restaurant, it is important to keep in mind the name, location, food, spices, and cooking methods that Ravi likes. Ravi is from the United States of America and his favorite Indian dish is Butter Chicken. His favorite spice is chicken masala and he loves the variety of flavors and sweets in Indian food. Ravi's favorite cooking method is slow-open pan cooking and his favorite Indian cooking utensil is the kadai. The Indian Spice Kitchen by Sanjeev Kapoor is Ravi's favorite Indian cookbook."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is David."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from London."
+                },
+                {
+                    "Question": "What is your favorite Indian dish?",
+                    "Answer": "My favorite Indian dish is Dosa."
+                },
+                {
+                    "Question": "What is your favorite spice?",
+                    "Answer": "My favorite spice is cumin power."
+                },
+                {
+                    "Question": "What is your favorite Indian restaurant?",
+                    "Answer": "My favorite Indian restaurant is Veeraswamy in London."
+                },
+                {
+                    "Question": "What is your favorite thing about Indian food?",
+                    "Answer": "I love the kick of flavors and the breakfast items."
+                },
+                {
+                    "Question": "What are your favorite ingredients to use in Indian cooking?",
+                    "Answer": "My favorite ingredients to use in Indian cooking are  sambhar powder, cumin, and jaggery."
+                },
+                {
+                    "Question": "What is your favorite cooking method?",
+                    "Answer": "My favorite cooking method is to use slow-open pan cooking."
+                },
+                {
+                    "Question": "What is your favorite Indian cooking utensil?",
+                    "Answer": "My favorite Indian cooking utensil is the pressure cooker."
+                },
+                {
+                    "Question": "What is your favorite Indian cookbook?",
+                    "Answer": "My favorite Indian cookbook is Made in India by Meera Sodha."
+                }
+            ],
+            "Output": "When starting an Indian restaurant, it is important to keep in mind the following things: - The name of the chef: David - The chef's favorite Indian dish: Dosa - The chef's favorite spice: Cumin powder - The chef's favorite Indian restaurant: Veeraswamy in London - The chef's favorite thing about Indian food: The kick of flavors and the breakfast items - The chef's favorite ingredients to use in Indian cooking: Sambhar powder, cumin, and jaggery - The chef's favorite cooking method: Slow-open pan cooking - The chef's favorite Indian cooking utensil: Pressure cooker - The chef's favorite Indian cookbook: Made in India by Meera Sodha"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/7vuqqzCWztV5kicslMPQhity?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1GIHHiA9aXkFPj6RYyrK-id7o1FQQs_GA/view?usp=sharing"
+}

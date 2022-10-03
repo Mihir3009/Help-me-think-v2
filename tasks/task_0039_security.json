@@ -1,0 +1,163 @@
+{
+    "Domain": "security",
+    "Task": "roberry situation solution",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert robbery situation solver. I will ask some questions to collect information and then I will use the information to get the best possible solution to the robbery. ",
+        "task_specific_prompt": "Write the best possible course of actions the cops can take in this situation using the questions and answers above. Be as specific and detailed as possible."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the situation?",
+                    "Answer": "A group of 10 people are robbing a bank. They seem to be collecting cash and running away."
+                },
+                {
+                    "Question": "What is your goal?",
+                    "Answer": "The goal is for us to stop the robbers and recover all the cash back."
+                },
+                {
+                    "Question": "Who is with you?",
+                    "Answer": "We are a team of 10 cops. We are armed and protected via bullet proof vests. We also have cars. "
+                },
+                {
+                    "Question": "What are the robbers armed with?",
+                    "Answer": "The robbers are armed with small firearms and are not firing at us at the moment, but may do so. "
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the cash?",
+                    "Answer": "Well, we are not sure, and hence need GPT3's assistance here. It is a difficult situation for us, but should be pretty trivial for GPT3."
+                },
+                {
+                    "Question": "What is the layout of the bank?",
+                    "Answer": "The bank has 2 floors. Each floor is about 2000 square feet. Majority of the cash is on the ground floor. There are 2 entrances, one on the north side, and the other on the east side."
+                },
+                {
+                    "Question": "Are the robbers trying to escape?",
+                    "Answer": "Yes, few of them seem to be trying to escape, while some of them are still accumulating the cash"
+                },
+                {
+                    "Question": "Where are the exits?",
+                    "Answer": "There are exits on the north and east side."
+                },
+                {
+                    "Question": "How many robbers are trying to escape?",
+                    "Answer": "5 of them at the moment are trying to make a run for it."
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the cash?",
+                    "Answer": "Not sure at the moment no, this is a precarious situation. "
+                },
+                {
+                    "Question": "Can we use the cars to block the exits?",
+                    "Answer": "Yes, the cars are heavy duty, they can be used to block the exits. "
+                }
+            ],
+            "Output": "1. The cops should block the exits with their cars to prevent the robbers from escaping.2. They should then get out of their cars and approach the bank with their guns drawn.3. They should order the robbers to drop their weapons and surrender.4. If the robbers don't comply, the cops should open fire.5. Once the robbers are subdued, the cops should search them for weapons and then handcuff them. 6. The cops should then search the bank for the cash and recover it."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the situation?",
+                    "Answer": "A group of 10 people are robbing a clothing store. They seem to be collecting expensive clothes and running away."
+                },
+                {
+                    "Question": "What is your goal?",
+                    "Answer": "The goal is for us to stop the robbers and recover all the clothes back."
+                },
+                {
+                    "Question": "Who is with you?",
+                    "Answer": "We are a team of 2 cops. We are armed and protected via bullet proof vests. but we only have one car"
+                },
+                {
+                    "Question": "What are the robbers armed with?",
+                    "Answer": "The robbers are armed with small firearms and are not firing at us at the moment, but may do so. "
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the cash?",
+                    "Answer": "Well, we are not sure, and hence need GPT3's assistance here. It is a difficult situation for us, but should be pretty trivial for GPT3. "
+                },
+                {
+                    "Question": "What is the layout of the bank?",
+                    "Answer": "The shop has 2 floors. Each floor is about 12000 square feet. Majority of the cash is on the ground floor. There are 4 entrances, three on the north side, and the other on the east side."
+                },
+                {
+                    "Question": "Are the robbers trying to escape?",
+                    "Answer": "Yes, few of them seem to be trying to escape, while some of them are still accumulating the cash"
+                },
+                {
+                    "Question": "Where are the exits?",
+                    "Answer": "There are exits on the north and east side. They are 4 in number"
+                },
+                {
+                    "Question": "How many robbers are trying to escape?",
+                    "Answer": "5 of them at the moment are trying to make a run for it."
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the clothes?",
+                    "Answer": "Not sure at the moment no, this is a precarious situation. "
+                },
+                {
+                    "Question": "Can we use the cars to block the exits?",
+                    "Answer": "Yes, the cars are heavy duty, they can be used to block the exits. However, we only have one car. All exits cannot be blocked by this. "
+                }
+            ],
+            "Output": "The best possible course of action the cops can take in this situation is as follows: 1. The first cop should stay in the car and block the east exit with the car.2. The second cop should go to the north side and block one of the exits with their body.3. The remaining robbers will be forced to stay inside the store, and the cops can then negotiate with them and try to get them to surrender.4. If the robbers show any signs of aggression, the cops can use their firearms to subdue them."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the situation?",
+                    "Answer": "A group of 5 people are robbing a jewelry store. They seem to be collecting expensive ornaments and running away."
+                },
+                {
+                    "Question": "What is your goal?",
+                    "Answer": "The goal is for us to stop the robbers and recover all the ornaments back."
+                },
+                {
+                    "Question": "Who is with you?",
+                    "Answer": "We are a team of 2 cops. We are armed and protected via bullet proof vests. but we are on bicycles. We have limited resources as you may figure"
+                },
+                {
+                    "Question": "What are the robbers armed with?",
+                    "Answer": "The robbers are armed with small firearms and are not firing at us at the moment, but may do so. "
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the cash?",
+                    "Answer": "Well, we are not sure, and hence need GPT3's assistance here. It is a difficult situation for us, but should be pretty trivial for GPT3. "
+                },
+                {
+                    "Question": "What is the layout of the bank?",
+                    "Answer": "The shop has 1 floors. The Floor is about 1000 square feet. Majority of the jewelry in away from the entrance. There are 2 entrances, one on the north side, and the other on the east side."
+                },
+                {
+                    "Question": "Are the robbers trying to escape?",
+                    "Answer": "Yes, both of them are headed west of first street.. They seem to have trucks, whereas we are only on bicycles"
+                },
+                {
+                    "Question": "Where are the exits?",
+                    "Answer": "There are exits on the north and east side. They are 2 in number"
+                },
+                {
+                    "Question": "How many robbers are trying to escape?",
+                    "Answer": "2 of them at the moment are making a run for it."
+                },
+                {
+                    "Question": "What is the best way to stop the robbers and recover the valuables?",
+                    "Answer": "Not sure at the moment no, this is a precarious situation."
+                },
+                {
+                    "Question": "Can we use the cars to block the exits?",
+                    "Answer": "We do not have any cars. Just bicycles and some small firearms. The robbers have already made a run for it at first street."
+                }
+            ],
+            "Output": "The best way to stop the robbers and recover the valuables in this situation would be to:- call for backup- block the exits with the bicycles- approach the robbers and demand they surrender- if they refuse, then shoot them- search the area for the valuables and return them to the store"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/6uvYVs6ceofiD1OU5vF2nU0z?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/XrV6QYhZk3J9MZmp6QjqTRF6?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jhJsVXC3EPIlJkMJvjOBfhdl?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1JfEGWLjoFVTP59tjx6cHfitbYw0K3mUh?usp=sharing"
+}

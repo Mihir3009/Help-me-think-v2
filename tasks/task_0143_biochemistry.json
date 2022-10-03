@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Biochemistry",
+    "Task": "Explain how to find aliens and what they will look like",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert biochemist. I will ask ten questions to collect information and then I will use the information to hypothesize on what form life might take on alien planets, and how we might best look for it.",
+        "task_specific_prompt": "Based on the information gathered above, generate a long description of the alien life and how NASA might identify it. Elaborate using several paragraphs."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the average temperature range on the planet?",
+                    "Answer": "Between -100c and 40c"
+                },
+                {
+                    "Question": "2. What is the average atmospheric pressure on the planet?",
+                    "Answer": "0.095 psi"
+                },
+                {
+                    "Question": "3. What is the average atmospheric composition on the planet?",
+                    "Answer": "95% carbon dioxide, 2.6% nitrogen, 1.9% argon, 0.16% oxygen"
+                },
+                {
+                    "Question": "4. What is the average surface gravity on the planet?",
+                    "Answer": "3.71m/s^2"
+                },
+                {
+                    "Question": "5. What is the average radius of the planet?",
+                    "Answer": "3389.5 km"
+                },
+                {
+                    "Question": "6. What is the length of the planet's day?",
+                    "Answer": "24 hours and 37 minutes"
+                },
+                {
+                    "Question": "7. What is the length of the planet's year?",
+                    "Answer": "687 days"
+                },
+                {
+                    "Question": "8. What is the average orbital distance from the planet's sun?",
+                    "Answer": "228 million kilometers"
+                },
+                {
+                    "Question": "9. Does the planet have a moon or moons?",
+                    "Answer": "Mars has two moons"
+                },
+                {
+                    "Question": "10. What is the average surface temperature on the planet?",
+                    "Answer": "Between -100c and 40c"
+                }
+            ],
+            "Output": "The alien life on this planet is most likely microbial in nature. It is possible that there are higher forms of life, but the conditions on the planet are not conducive to complex life forms. The average surface temperature and atmospheric composition make it unlikely that there are any land-based creatures on this planet. The lack of an atmosphere and the high surface gravity make it unlikely that there are any flying creatures. The most likely forms of alien life on this planet are single-celled organisms that live in the oceans.\n\nNASA might identify this life by looking for chemical signatures in the atmosphere or in the oceans. They might also look for heat signatures from hydrothermal vents. If there are higher forms of life on this planet, they are most likely to be found near hydrothermal vents."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the average temperature range on the planet?",
+                    "Answer": "-200c"
+                },
+                {
+                    "Question": "2. What is the average atmospheric pressure on the planet?",
+                    "Answer": "100 bar"
+                },
+                {
+                    "Question": "3. What is the average atmospheric composition on the planet?",
+                    "Answer": "91% water vapor, 4% nitrogen, 3.2% carbon dioxide, 1.7% methane"
+                },
+                {
+                    "Question": "4. What is the average surface gravity on the planet?",
+                    "Answer": "0.113 m/s^2"
+                },
+                {
+                    "Question": "5. What is the average radius of the planet?",
+                    "Answer": "252km"
+                },
+                {
+                    "Question": "6. What is the length of the planet's day?",
+                    "Answer": "32.9 hours"
+                },
+                {
+                    "Question": "7. What is the length of the planet's year?",
+                    "Answer": "29 years"
+                },
+                {
+                    "Question": "8. What is the average orbital distance from the planet's sun?",
+                    "Answer": "1,427 million kilometers"
+                },
+                {
+                    "Question": "9. Does the planet have a moon or moons?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "10. What else is notable about the planet?",
+                    "Answer": "The planet has liquid water below the surface, and possibly has geothermal vents"
+                }
+            ],
+            "Output": "The alien planet has an average temperature range of -200c, and an average atmospheric pressure of 100 bar. The atmosphere is composed of 91% water vapor, 4% nitrogen, 3.2% carbon dioxide, and 1.7% methane. The surface gravity on the planet is 0.113 m/s^2, and the average radius of the planet is 252km. The day on the planet is 32.9 hours long, and the year is 33 hours long. The planet is 1,427 million kilometers from its sun, and does not have a moon or moons. The planet has liquid water below the surface, and possibly has geothermal vents.\n\n Given the information above, it is hypothesized that the alien planet supports life in some form. The most likely candidates for this are microbial lifeforms, given the extreme conditions on the planet. However, it is also possible that more complex lifeforms exist in sheltered environments, such as underground caves or near geothermal vents. In order to identify life on the planet, NASA would need to send a probe to collect samples of the atmosphere, surface, and subsurface. These samples would then be analyzed for signs of life, such as DNA, proteins, or other biomolecules. If signs of life are found, further study would be needed to determine the type of life present on the planet."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the average temperature range on the planet?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "2. What is the average atmospheric pressure on the planet?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "3. What is the average atmospheric composition on the planet?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "4. What is the average surface gravity on the planet?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "5. What is the average radius of the planet?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "6. What is the length of the planet's day?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "7. What is the length of the planet's year?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "8. What is the average orbital distance from the planet's sun?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "9. Does the planet have a moon or moons?",
+                    "Answer": ""
+                },
+                {
+                    "Question": "10. What is the average surface temperature on the planet?",
+                    "Answer": ""
+                }
+            ],
+            "Output": "Based on the information gathered, it is hypothesized that life on alien planets would most likely take on a similar form to life on Earth. The main difference would be in the temperature range, atmospheric pressure, atmospheric composition, and surface gravity, which would all be adapted to the conditions on the planet. For example, if the planet has a very high surface gravity, then the life forms would likely be very large and dense in order to be able to support their own weight. If the planet has a very low surface gravity, then the life forms would likely be very small and lightweight in order to be able to float or fly in the planet's atmosphere. If the planet has a very high surface temperature, then the life forms would likely be very heat-resistant in order to be able to survive in the hot conditions. If the planet has a very low surface temperature, then the life forms would likely be very cold-resistant in order to be able to survive in the cold conditions."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/TfXAZ2sAWuqRXrQHws76ohhU?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/E5gUVdE.png"
+}

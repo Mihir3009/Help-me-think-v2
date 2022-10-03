@@ -1,0 +1,147 @@
+{
+    "Domain": "Petrology",
+    "Task": "Rock prediction based on the area demographics",
+    "Prompt": {
+      "pre_question_prompt": "I am a famous gelogist. I will ask some questions to collect information about an certain area and then I will use the information to predict what kind of rocks could be present in that area.",
+      "task_specific_prompt": "Based on the question and answers above guess what kind of rocks and their names can be present in this area and why?"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "What is the climate like in the area you are investigating?",
+            "Answer": "Extremely humid."
+          },
+          {
+            "Question": "What is the geology like in the area you are investigating?",
+            "Answer": "There are some erupted rocks."
+          },
+          {
+            "Question": "What is the topography like in the area you are investigating?",
+            "Answer": "area is hilly with some mountains."
+          },
+          {
+            "Question": "What is the soil like in the area you are investigating?",
+            "Answer": "Fertile."
+          },
+          {
+            "Question": "What is the water like in the area you are investigating?",
+            "Answer": "The water is muddy."
+          },
+          {
+            "Question": "What plants and animals are present in the area you are investigating?",
+            "Answer": "There are some teak trees."
+          },
+          {
+            "Question": "What minerals are present in the area you are investigating?",
+            "Answer": "Not sure of that."
+          },
+          {
+            "Question": "What is the history of the area you are investigating?",
+            "Answer": "it was once part of a large mountain range."
+          },
+          {
+            "Question": "What fossils are present in the area you are investigating?",
+            "Answer": "a lot of plant fossils."
+          },
+          {
+            "Question": "What landforms are present in the area you are investigating?",
+            "Answer": "mountain valley."
+          }
+        ],
+        "Output": "The rocks in this area could be sedimentary rocks, such as sandstone or shale, because the area is extremely humid and has fertile soil. The rocks could also be igneous rocks, such as basalt or granite, because there are some erupted rocks present."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is the climate like in the area you are investigating?",
+            "Answer": "Extremely hot."
+          },
+          {
+            "Question": "What is the geology like in the area you are investigating?",
+            "Answer": "lava is present."
+          },
+          {
+            "Question": "What is the topography like in the area you are investigating?",
+            "Answer": "The area is plain but has lot of acidic gases."
+          },
+          {
+            "Question": "What is the soil like in the area you are investigating?",
+            "Answer": "very fertile."
+          },
+          {
+            "Question": "What is the water like in the area you are investigating?",
+            "Answer": "Salt water."
+          },
+          {
+            "Question": "What plants and animals are present in the area you are investigating?",
+            "Answer": "There are no trees."
+          },
+          {
+            "Question": "What minerals are present in the area you are investigating?",
+            "Answer": "Not sure of that."
+          },
+          {
+            "Question": "What is the history of the area you are investigating?",
+            "Answer": "it was once part of a large volcano range."
+          },
+          {
+            "Question": "What fossils are present in the area you are investigating?",
+            "Answer": "a lot of animal fossils."
+          },
+          {
+            "Question": "What landforms are present in the area you are investigating?",
+            "Answer": "mountain valley."
+          }
+        ],
+        "Output": "The rocks in this area are most likely to be basalt and andesite because they are typical of lava. The topography and climate suggest that the area was once part of a large volcano range. The soil is very fertile because of the lava. The water is salt water because of the location. There are no trees because of the extreme heat. The minerals present are most likely to be iron and magnesium. There are a lot of animal fossils because they were preserved in the lava. The landforms present are mountains and valleys."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is the climate like in the area you are investigating?",
+            "Answer": "cold."
+          },
+          {
+            "Question": "What is the geology like in the area you are investigating?",
+            "Answer": "It's flat and no life nearby."
+          },
+          {
+            "Question": "What is the topography like in the area you are investigating?",
+            "Answer": "The area is plain."
+          },
+          {
+            "Question": "What is the soil like in the area you are investigating?",
+            "Answer": "only water plans can grow."
+          },
+          {
+            "Question": "What is the water like in the area you are investigating?",
+            "Answer": "Freshwater."
+          },
+          {
+            "Question": "What plants and animals are present in the area you are investigating?",
+            "Answer": "No plans and animals nearby."
+          },
+          {
+            "Question": "What minerals are present in the area you are investigating?",
+            "Answer": "chlorite, epidote are present in large quantities"
+          },
+          {
+            "Question": "What is the history of the area you are investigating?",
+            "Answer": "The land here was completely occupied by ice once"
+          },
+          {
+            "Question": "What fossils are present in the area you are investigating?",
+            "Answer": "a lot of animal fossils."
+          },
+          {
+            "Question": "What landforms are present in the area you are investigating?",
+            "Answer": "Plain land."
+          }
+        ],
+        "Output": "The rocks in this area can be sedimentary rocks such as shale, because of the presence of minerals such as chlorite and epidote. The rocks can also be metamorphic rocks, because of the history of the area being completely occupied by ice. The fossils present in the area also suggest that there can be a lot of animal remains in the rocks."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/s4KcTEOqHeZlugdgjEt9vIfY?model=text-davinci-002", "https://beta.openai.com/playground/p/Z0C3H3vn9hQIfO0JT0RtIJzc?model=text-davinci-002", "https://beta.openai.com/playground/p/61Hqn6shdwu0pfTE3gIuzbbs?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Vxk5EDVeDsev8Q0zkue2v1t91ig0t3eV?usp=sharing"
+  }

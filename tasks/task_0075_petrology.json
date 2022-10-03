@@ -1,0 +1,147 @@
+{
+    "Domain": "Petrology",
+    "Task": "Importance of rocks and minerals in day to day life",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in petrology. I will ask some questions about the different devices or instruments or services you use in day to day life and finally tell you how importance of rocks and minerals in our everyday lives",
+      "task_specific_prompt": "By using the information above, explain in long how rocks and minerals play an important part in the person's life. Also, list what rocks and minerals are present in the gadgets person is using"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "How do you start your day?",
+            "Answer": "I use an alarm clock to get up and then I check my mobile notifications."
+          },
+          {
+            "Question": "What do you use to get around?",
+            "Answer": "I use a car or public transport."
+          },
+          {
+            "Question": "What do you use to communicate with others?",
+            "Answer": "I use mobile or social media"
+          },
+          {
+            "Question": "What do you use to entertain yourself?",
+            "Answer": "I go for treks or watch any movie"
+          },
+          {
+            "Question": "What do you use to keep your home clean?",
+            "Answer": "I use house cleaning bots or vacum cleaner"
+          },
+          {
+            "Question": "What do you use to prepare your food?",
+            "Answer": "I use microwave"
+          },
+          {
+            "Question": "What do you use to take care of your health?",
+            "Answer": "I visit the doctor regularly"
+          },
+          {
+            "Question": "What do you use to learn about the world?",
+            "Answer": "I read books, use a laptop"
+          },
+          {
+            "Question": "How often do you use a computer?",
+            "Answer": "10 hours a day"
+          },
+          {
+            "Question": "What is the most important thing in your life?",
+            "Answer": "All my gadgets play a very important role in my life"
+          }
+        ],
+        "Output": "Rocks and minerals are important in our everyday lives as they are used in many of the gadgets and devices we use. For example, minerals such as quartz and feldspar are used in the making of alarm clocks, while minerals such as copper and tin are used in the making of mobile phones. In addition, rocks and minerals are also used in the transportation industry - for example, asphalt is made from rock and is used to pave roads, while minerals such as iron ore and coal are used in the construction of trains and railways. Finally, rocks and minerals are also used in the healthcare industry - for example, calcium carbonate is used in the making of pills and tablets, while minerals such as iodine and magnesium are used in the making of X-ray machines."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "How do you start your day?",
+            "Answer": "I get up and start my day by washing my face in the wash basin"
+          },
+          {
+            "Question": "What do you use to get around?",
+            "Answer": "Metro and trains"
+          },
+          {
+            "Question": "What do you use to communicate with others?",
+            "Answer": "I prefer hand written letters"
+          },
+          {
+            "Question": "What do you use to entertain yourself?",
+            "Answer": "I play football and badminton"
+          },
+          {
+            "Question": "What do you use to keep your home clean?",
+            "Answer": "I use acidic chemicals to clean the stains"
+          },
+          {
+            "Question": "What do you use to prepare your food?",
+            "Answer": "I use electric stove"
+          },
+          {
+            "Question": "What do you use to take care of your health?",
+            "Answer": "I exercise regularly using dumbells"
+          },
+          {
+            "Question": "What do you use to learn about the world?",
+            "Answer": "I use internet"
+          },
+          {
+            "Question": "How often do you use a computer?",
+            "Answer": "not often"
+          },
+          {
+            "Question": "What is the most important thing in your life?",
+            "Answer": "books"
+          }
+        ],
+        "Output": "The person is using a lot of different gadgets and devices in their day-to-day life, and rocks and minerals play an important part in all of them. For example, the person uses a wash basin to clean their face in the morning, and the basin is made of porcelain, which is a type of ceramic that contains minerals like kaolin and feldspar. The person also uses a metro or train to get around, and these are made of steel, which contains minerals like iron and carbon. The person also uses hand-written letters to communicate with others, and the paper is made of wood, which contains cellulose, a type of carbohydrate that comes from plants. The person also uses a football and badminton to entertain themselves, and these are made of leather, which contains collagen, a type of protein that comes from animals. The person also uses acidic chemicals to keep their home clean, and these contain minerals like sulfur and chlorine. The person also uses an electric stove to prepare their food, and this uses minerals like copper and aluminum. Finally, the person uses dumbells to take care of their health, and these are made of iron and other metals."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "How do you start your day?",
+            "Answer": "I shave my beard using trimmer"
+          },
+          {
+            "Question": "What do you use to get around?",
+            "Answer": "Aeroplane"
+          },
+          {
+            "Question": "What do you use to communicate with others?",
+            "Answer": "Email, internet"
+          },
+          {
+            "Question": "What do you use to entertain yourself?",
+            "Answer": "Xbox or playstation"
+          },
+          {
+            "Question": "What do you use to keep your home clean?",
+            "Answer": "I use a mop to clean my house"
+          },
+          {
+            "Question": "What do you use to prepare your food?",
+            "Answer": "gas stove"
+          },
+          {
+            "Question": "What do you use to take care of your health?",
+            "Answer": "I eat healthy"
+          },
+          {
+            "Question": "What do you use to learn about the world?",
+            "Answer": "Books and interacting with people"
+          },
+          {
+            "Question": "How often do you use a computer?",
+            "Answer": "not often"
+          },
+          {
+            "Question": "What is the most important thing in your life?",
+            "Answer": "my phone"
+          }
+        ],
+        "Output": "The person is using a trimmer, which contains the mineral titanium. Titanium is used in many different gadgets because it is very strong and lightweight. The person is also using an aeroplane, which contains the mineral aluminium. Aluminium is used in aeroplanes because it is very light and strong. The person is also using email and the internet, which contain the mineral silicon. Silicon is used in computers and the internet because it is a very good conductor of electricity."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/jEw6rve1GbA4mNvJSXjI6Fo5?model=text-davinci-002", "https://beta.openai.com/playground/p/nA5Z49H2hwjMFPlr7yTurFnX?model=text-davinci-002", "https://beta.openai.com/playground/p/aU62xEO4rYuqlVJ7xsiFg9oY?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1c8eInZ0bKrwOnnWuEkbw6rW8f23FT2Xw?usp=sharing"
+  }

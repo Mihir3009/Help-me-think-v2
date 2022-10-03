@@ -1,0 +1,148 @@
+{
+    "Contributor": "zhangjiayue",
+    "Domain": "Commentary",
+    "Task": "No.5 Market commentary",
+    "Prompt": {
+        "pre_question_prompt": "I am an Economist. I will ask some questions to collect information and then I will use the information to create a market commentary report.",
+        "task_specific_prompt": "Write a comprehensive market report for today includes investment advices at the end: (format like this Report: the report. Advices: the advices)"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the DOW performance today? ",
+                    "Answer": "The Dow Jones Industrial Average (DJIA) is currently up 0.33% on the day. "
+                },
+                {
+                    "Question": "What is the SPY performance today? ",
+                    "Answer": "The SPDR S&P 500 ETF (SPY) is currently up 0.40% on the day. "
+                },
+                {
+                    "Question": "What is the stock performance of tech section today? ",
+                    "Answer": "The stock performance of the tech sector is mixed today, with some stocks up and some down. "
+                },
+                {
+                    "Question": "What is the stock performance of bank section today? ",
+                    "Answer": "The stock performance of the bank sector is mixed today, with some stocks up and some down. "
+                },
+                {
+                    "Question": "What is the USD performance today? ",
+                    "Answer": "The USD is currently down 0.02% against the EUR and down 0.01% against the GBP. "
+                },
+                {
+                    "Question": "What is the gold performance today? ",
+                    "Answer": "Gold is currently up 0.13% on the day. "
+                },
+                {
+                    "Question": "What is the bitcoin performance today? ",
+                    "Answer": "Bitcoin is currently up 2.45% on the day. "
+                },
+                {
+                    "Question": "What is the interest rate today? ",
+                    "Answer": "The interest rate today is 0.25%. "
+                },
+                {
+                    "Question": "What is the market psychology today? ",
+                    "Answer": "The market psychology today is positive, with investors feeling confident about the prospects for the future. "
+                },
+                {
+                    "Question": "What is the market psychology towards tomorrow? ",
+                    "Answer": "The market psychology towards tomorrow is positive, with investors feeling confident about the prospects for the future."
+                }
+            ],
+            "Output": "Report: The stock market is mostly positive today, with the Dow Jones Industrial Average (DJIA) up 0.33% and the SPDR S&P 500 ETF (SPY) up 0.40%. The tech sector is mixed, with some stocks up and some down. The bank sector is also mixed, with some stocks up and some down. The USD is down 0.02% against the EUR and down 0.01% against the GBP. Gold is up 0.13% on the day. Bitcoin is up 2.45% on the day. The interest rate today is 0.25%. The market psychology today is positive, with investors feeling confident about the prospects for the future.\r\n \r\nAdvices:\r\n \r\n1. Consider investing in stocks that are up today, especially in the tech and bank sectors.\r\n \r\n2. Consider investing in gold, as it is currently up 0.13%.\r\n \r\n3. Consider investing in bitcoin, as it is currently up 2.45%."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the DOW performance today? ",
+                    "Answer": "+0.1% "
+                },
+                {
+                    "Question": "What is the SPY performance today? ",
+                    "Answer": "-1% "
+                },
+                {
+                    "Question": "What is the stock performance of tech section today? ",
+                    "Answer": "Strong "
+                },
+                {
+                    "Question": "What is the stock performance of bank section today? ",
+                    "Answer": "Weak "
+                },
+                {
+                    "Question": "What is the USD performance today? ",
+                    "Answer": "mixed "
+                },
+                {
+                    "Question": "What is the gold performance today? ",
+                    "Answer": "+0.9% "
+                },
+                {
+                    "Question": "What is the bitcoin performance today? ",
+                    "Answer": "-10% "
+                },
+                {
+                    "Question": "What is the interest rate today? ",
+                    "Answer": "0.25%. "
+                },
+                {
+                    "Question": "What is the market psychology today? ",
+                    "Answer": "positive "
+                },
+                {
+                    "Question": "What is the market psychology towards tomorrow? ",
+                    "Answer": "negative"
+                }
+            ],
+            "Output": "Report:\r\n \r\nThe stock market was mixed today, with the Dow Jones Industrial Average rising slightly while the S&P 500 fell. Tech stocks were strong today, while banks were weak. The USD was mixed, with gold rising and bitcoin falling. Interest rates remained at 0.25%. Market psychology was positive today but negative for tomorrow.\r\n \r\nAdvices:\r\n \r\nInvestors should be cautious tomorrow, with the market sentiment negative. Tech stocks may continue to perform well, while banks may struggle. Gold may continue to rise, while bitcoin may fall further."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the DOW performance today? ",
+                    "Answer": "-10% "
+                },
+                {
+                    "Question": "What is the SPY performance today? ",
+                    "Answer": "-15% "
+                },
+                {
+                    "Question": "What is the stock performance of tech section today? ",
+                    "Answer": "bear "
+                },
+                {
+                    "Question": "What is the stock performance of bank section today? ",
+                    "Answer": "bear "
+                },
+                {
+                    "Question": "What is the USD performance today? ",
+                    "Answer": "-5% against EUR "
+                },
+                {
+                    "Question": "What is the gold performance today? ",
+                    "Answer": "-1% "
+                },
+                {
+                    "Question": "What is the bitcoin performance today? ",
+                    "Answer": "-30% "
+                },
+                {
+                    "Question": "What is the interest rate today? ",
+                    "Answer": "5.25%. "
+                },
+                {
+                    "Question": "What is the market psychology today? ",
+                    "Answer": "negative "
+                },
+                {
+                    "Question": "What is the market psychology towards tomorrow? ",
+                    "Answer": "negative"
+                }
+            ],
+            "Output": "Report:\r\n \r\nThe market was down today with the Dow falling by 10% and the SPY falling by 15%. The tech sector was particularly hard hit, with stocks in the sector falling by an average of 10%. The banks were also down, with stocks in the sector falling by an average of 5%. The USD was down 5% against the EUR. Gold was down 1%. Bitcoin was down 30%. The interest rate was 5.25%. Market psychology was negative today, with investors worried about the potential for further declines. Market psychology towards tomorrow is also negative, with investors worried about the potential for more losses.\r\n \r\nAdvices:\r\n \r\nInvestors should be cautious today and tomorrow, as the market is likely to continue to fall. Those who are invested in stocks should consider selling, as the market is likely to continue to decline. Those who are not invested in stocks should not purchase any today or tomorrow."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/lbY5cqY5E7iIvS3dlB0DNeqi?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1u2pwZmZ3IPYbe4kjUAbKEhA0p1MSvBgCcNwXGu4wAa8/edit?usp=sharing"
+}

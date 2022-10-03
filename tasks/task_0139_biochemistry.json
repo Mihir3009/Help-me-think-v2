@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Biochemistry",
+    "Task": "Explain biochemistry to a computer scientist",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert biochemist. I will ask ten questions to collect information and then I will use the information to explain the essentials of biochemistry to various students at their respective levels.",
+        "task_specific_prompt": "Can you explain the above to a computer scientist/five year old/english major?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is biochemistry?",
+                    "Answer": "Biochemistry is the study of the chemical processes that occur in living organisms. It covers a wide range of topics, including the structure and function of biomolecules, the metabolism of cells, and the regulation of biological activity."
+                },
+                {
+                    "Question": "2. What are the basic units of biochemistry?",
+                    "Answer": "The basic units of biochemistry are atoms, molecules, and cells. Atoms are the smallest units of matter and are the building blocks of molecules. Molecules are composed of two or more atoms held together by chemical bonds. Cells are the basic units of life and are the smallest units that can carry out all the functions of life."
+                },
+                {
+                    "Question": "3. What are the major types of biomolecules?",
+                    "Answer": "The major types of biomolecules are carbohydrates, lipids, proteins, and nucleic acids. Carbohydrates are composed of carbon, hydrogen, and oxygen atoms. Lipids are composed of carbon and hydrogen atoms. Proteins are composed of amino acids. Nucleic acids are composed of nucleotides."
+                },
+                {
+                    "Question": "4. What are the basic functions of biomolecules?",
+                    "Answer": "The basic functions of biomolecules are to provide structure, to catalyze reactions, to store energy, and to carry information."
+                },
+                {
+                    "Question": "5. What are the major types of cells?",
+                    "Answer": "The major types of cells are prokaryotic cells and eukaryotic cells. Prokaryotic cells are the simplest type of cell and do not have a nucleus. Eukaryotic cells are more complex and have a nucleus."
+                },
+                {
+                    "Question": "6. How do cells store and use energy?",
+                    "Answer": "Cells store energy in the form of ATP. ATP is a molecule that can be used to power cellular processes."
+                },
+                {
+                    "Question": "7. What are the major types of metabolism?",
+                    "Answer": "The major types of metabolism are anabolic metabolism and catabolic metabolism. Anabolic metabolism is the process of building up complex molecules from simpler molecules. Catabolic metabolism is the process of breaking down complex molecules into simpler molecules."
+                },
+                {
+                    "Question": "8. What are the major types of regulatory mechanisms?",
+                    "Answer": "The major types of regulatory mechanisms are negative feedback and positive feedback. Negative feedback is a process in which a change in a variable triggers a response that reverses the original change. Positive feedback is a process in which a change in a variable triggers a response that amplifies the original change."
+                },
+                {
+                    "Question": "9. What are the major types of genetic information?",
+                    "Answer": "The major types of genetic information are DNA and RNA. DNA is a double-stranded molecule that contains the instructions for making proteins. RNA is a single-stranded molecule that is involved in the synthesis of proteins."
+                },
+                {
+                    "Question": "10. How do biochemists study cells and biomolecules?",
+                    "Answer": "Biochemists study cells and biomolecules using a variety of techniques, including microscopy, spectroscopy, and chromatography."
+                }
+            ],
+            "Output": "Yes. Biochemistry is the study of the chemical processes that occur in living organisms. In terms of programming, biochemistry can be thought of as the study of the algorithms that govern the behavior of cells and biomolecules. The basic units of biochemistry are atoms, molecules, and cells. Atoms are the smallest units of matter and are the building blocks of molecules. Molecules are composed of two or more atoms held together by chemical bonds. Cells are the basic units of life and are the smallest units that can carry out all the functions of life. In terms of programming, cells can be thought of as objects and biomolecules can be thought of as data structures. The basic functions of biomolecules are to provide structure, to catalyze reactions, to store energy, and to carry information. In terms of programming, these functions can be thought of as the methods that objects use to interact with each other. The major types of cells are prokaryotic cells and eukaryotic cells. Prokaryotic cells are the simplest type of cell and do not have a nucleus. Eukaryotic cells are more complex and have a nucleus. In terms of programming, prokaryotic cells can be thought of as simple objects and eukaryotic cells can be thought of as complex objects."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is biochemistry?",
+                    "Answer": "Biochemistry is the study of the chemical processes that occur in living organisms. It covers a wide range of topics, including the structure and function of biomolecules, the metabolism of cells, and the regulation of biological activity."
+                },
+                {
+                    "Question": "2. What are the basic units of biochemistry?",
+                    "Answer": "The basic units of biochemistry are atoms, molecules, and cells. Atoms are the smallest units of matter and are the building blocks of molecules. Molecules are composed of two or more atoms held together by chemical bonds. Cells are the basic units of life and are the smallest units that can carry out all the functions of life."
+                },
+                {
+                    "Question": "3. What are the major types of biomolecules?",
+                    "Answer": "The major types of biomolecules are carbohydrates, lipids, proteins, and nucleic acids. Carbohydrates are composed of carbon, hydrogen, and oxygen atoms. Lipids are composed of carbon and hydrogen atoms. Proteins are composed of amino acids. Nucleic acids are composed of nucleotides."
+                },
+                {
+                    "Question": "4. What are the basic functions of biomolecules?",
+                    "Answer": "The basic functions of biomolecules are to provide structure, to catalyze reactions, to store energy, and to carry information."
+                },
+                {
+                    "Question": "5. What are the major types of cells?",
+                    "Answer": "The major types of cells are prokaryotic cells and eukaryotic cells. Prokaryotic cells are the simplest type of cell and do not have a nucleus. Eukaryotic cells are more complex and have a nucleus."
+                },
+                {
+                    "Question": "6. How do cells store and use energy?",
+                    "Answer": "Cells store energy in the form of ATP. ATP is a molecule that can be used to power cellular processes."
+                },
+                {
+                    "Question": "7. What are the major types of metabolism?",
+                    "Answer": "The major types of metabolism are anabolic metabolism and catabolic metabolism. Anabolic metabolism is the process of building up complex molecules from simpler molecules. Catabolic metabolism is the process of breaking down complex molecules into simpler molecules."
+                },
+                {
+                    "Question": "8. What are the major types of regulatory mechanisms?",
+                    "Answer": "The major types of regulatory mechanisms are negative feedback and positive feedback. Negative feedback is a process in which a change in a variable triggers a response that reverses the original change. Positive feedback is a process in which a change in a variable triggers a response that amplifies the original change."
+                },
+                {
+                    "Question": "9. What are the major types of genetic information?",
+                    "Answer": "The major types of genetic information are DNA and RNA. DNA is a double-stranded molecule that contains the instructions for making proteins. RNA is a single-stranded molecule that is involved in the synthesis of proteins."
+                },
+                {
+                    "Question": "10. How do biochemists study cells and biomolecules?",
+                    "Answer": "Biochemists study cells and biomolecules using a variety of techniques, including microscopy, spectroscopy, and chromatography."
+                }
+            ],
+            "Output": "No"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is biochemistry?",
+                    "Answer": "Biochemistry is the study of the chemical processes that occur in living organisms. It covers a wide range of topics, including the structure and function of biomolecules, the metabolism of cells, and the regulation of biological activity."
+                },
+                {
+                    "Question": "2. What are the basic units of biochemistry?",
+                    "Answer": "The basic units of biochemistry are atoms, molecules, and cells. Atoms are the smallest units of matter and are the building blocks of molecules. Molecules are composed of two or more atoms held together by chemical bonds. Cells are the basic units of life and are the smallest units that can carry out all the functions of life."
+                },
+                {
+                    "Question": "3. What are the major types of biomolecules?",
+                    "Answer": "The major types of biomolecules are carbohydrates, lipids, proteins, and nucleic acids. Carbohydrates are composed of carbon, hydrogen, and oxygen atoms. Lipids are composed of carbon and hydrogen atoms. Proteins are composed of amino acids. Nucleic acids are composed of nucleotides."
+                },
+                {
+                    "Question": "4. What are the basic functions of biomolecules?",
+                    "Answer": "The basic functions of biomolecules are to provide structure, to catalyze reactions, to store energy, and to carry information."
+                },
+                {
+                    "Question": "5. What are the major types of cells?",
+                    "Answer": "The major types of cells are prokaryotic cells and eukaryotic cells. Prokaryotic cells are the simplest type of cell and do not have a nucleus. Eukaryotic cells are more complex and have a nucleus."
+                },
+                {
+                    "Question": "6. How do cells store and use energy?",
+                    "Answer": "Cells store energy in the form of ATP. ATP is a molecule that can be used to power cellular processes."
+                },
+                {
+                    "Question": "7. What are the major types of metabolism?",
+                    "Answer": "The major types of metabolism are anabolic metabolism and catabolic metabolism. Anabolic metabolism is the process of building up complex molecules from simpler molecules. Catabolic metabolism is the process of breaking down complex molecules into simpler molecules."
+                },
+                {
+                    "Question": "8. What are the major types of regulatory mechanisms?",
+                    "Answer": "The major types of regulatory mechanisms are negative feedback and positive feedback. Negative feedback is a process in which a change in a variable triggers a response that reverses the original change. Positive feedback is a process in which a change in a variable triggers a response that amplifies the original change."
+                },
+                {
+                    "Question": "9. What are the major types of genetic information?",
+                    "Answer": "The major types of genetic information are DNA and RNA. DNA is a double-stranded molecule that contains the instructions for making proteins. RNA is a single-stranded molecule that is involved in the synthesis of proteins."
+                },
+                {
+                    "Question": "10. How do biochemists study cells and biomolecules?",
+                    "Answer": "Biochemists study cells and biomolecules using a variety of techniques, including microscopy, spectroscopy, and chromatography."
+                }
+            ],
+            "Output": "\n1. Biochemistry is the study of the chemical processes that occur in living organisms.\n2. The basic units of biochemistry are atoms, molecules, and cells.\n3. The major types of biomolecules are carbohydrates, lipids, proteins, and nucleic acids.\n4. The basic functions of biomolecules are to provide structure, to catalyze reactions, to store energy, and to carry information.\n5. The major types of cells are prokaryotic cells and eukaryotic cells.\n6. Cells store energy in the form of ATP.\n7. The major types of metabolism are anabolic metabolism and catabolic metabolism.\n8. The major types of regulatory mechanisms are negative feedback and positive feedback.\n9. The major types of genetic information are DNA and RNA.\n10. Biochemists study cells and biomolecules using a variety of techniques, including microscopy, spectroscopy, and chromatography."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/jD7oHJVnHZ7hwFlu5XHyQsCu?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/NErhm80.png"
+}

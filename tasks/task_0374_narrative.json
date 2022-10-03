@@ -1,0 +1,176 @@
+{
+    "Contributor": "kulkarnimohith",
+    "Domain": "Narrative",
+    "Task": "write a linear narrative",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert narrative writer. I will ask some simple questions to gather information and then I use this information to write a great narrative for you.",
+        "task_specific_prompt": "Write a long narrative by introducing names to represent characters in the narrative using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Who are you writing the narrative for?",
+                    "Answer": "Myself"
+                },
+                {
+                    "Question": "What is the purpose of the narrative?",
+                    "Answer": "entertain and engage the reader."
+                },
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "student writing a narrative."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "lighthearted and humorous."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "first person."
+                },
+                {
+                    "Question": "What is the setting of the story?",
+                    "Answer": "a classroom."
+                },
+                {
+                    "Question": "What are the characters in the story?",
+                    "Answer": "the student, the Professor, and the language model."
+                },
+                {
+                    "Question": "What is the plot of the story?",
+                    "Answer": "The student struggling to come up with a great narrative finally decides to use the help of a language model and eventually succeeds in coming up with a great narrative."
+                },
+                {
+                    "Question": "What is the conflict in the story?",
+                    "Answer": "The student is not an expert in language models."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "the student could easily write a great narrative using the help of a language model."
+                },
+                {
+                    "Question": "What are the themes of the story?",
+                    "Answer": "The themes of the story are language, learning, and technology."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "The moral of the story is that language models can be used to perform complex tasks that require significant thinking."
+                }
+            ],
+            "Output": "The student was having a tough time coming up with a great narrative. The Professor had asked for a five page story on any topic of the student's choice. The student had brainstormed for hours, but nothing seemed good enough. She thought about her favorite book, but she didn't want to write a book report. She considered writing about her family, but she didn't want to bore the reader. She thought about writing about her hometown, but she didn't want to write a travelogue. She considered writing about her favorite celebrity, but she didn't want to write a gossip column. She was stuck.\n\nShe thought about her favorite hobby, which was reading. She loved getting lost in a good book, but she didn't think that would make for a good narrative. She considered other hobbies, but none of them seemed interesting enough to write about. She was stuck.\n\nShe considered writing about current events, but she didn't want to write a news article. She considered writing about her opinion on a controversial issue, but she didn't want to get into a heated argument with the reader. She was stuck.\n\nShe considered writing about her day-to-day life, but she didn't think that would be very exciting to read. She considered writing about her childhood, but she wasn't sure if she wanted to share her personal experiences with the world. She was stuck.\n\nShe was about to give up when she remembered that she could use a language model to write her narrative. She had read about language models before and she knew that they could be used to generate text. She was excited about the prospect of using a language model to write her narrative, but she was also a little scared. She wasn't sure if she would be able to write a great narrative using a language model.\n\nShe decided to give it a try. She found a language model online and she started to input her information. She was surprised at how easily the language model was able to generate text. She was also surprised at how good the text was. The language model was able to generate a great narrative for her. She was happy that she had decided to use a language model to write her narrative."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who are you writing the narrative for?",
+                    "Answer": "My Mother."
+                },
+                {
+                    "Question": "What is the purpose of the narrative?",
+                    "Answer": "The purpose of the narrative is to share a story."
+                },
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "This story is about an event that I attended."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "The tone of the story is informal."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "The point of view of the story is first person."
+                },
+                {
+                    "Question": "What is the setting of the story?",
+                    "Answer": "The setting of the story is in an esports lounge."
+                },
+                {
+                    "Question": "What are the characters in the story?",
+                    "Answer": "The characters in the story are me, my mother and a person that I met at the event."
+                },
+                {
+                    "Question": "What is the plot of the story?",
+                    "Answer": "The plot of the story is how I made a new friend and spent time together playing video games."
+                },
+                {
+                    "Question": "What is the conflict in the story?",
+                    "Answer": "The conflict in the story is that I forgot to finish my class project."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "The resolution of the story is that I somehow managed to finish and submit the class project in time."
+                },
+                {
+                    "Question": "What are the themes of the story?",
+                    "Answer": "The themes of the story are video games, friends, and study."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "The moral of the story is that you have to start your assignments early and give enough time to finish them."
+                }
+            ],
+            "Output": "It was already 8 p.m. by the time I arrived at the esports lounge. I had told my mother that I would only be gone for a couple of hours, but she insisted on coming with me. She said that she wanted to see what I did and meet the people I hung out with.\n\nAs we walked in, we were greeted by the sound of laughter and cheering. The place was packed with people of all ages, cheering on their favorite teams on the big screen. We found a couple of empty seats and sat down.\n\nI introduced my mother to the person next to me, who turned out to be named Tim. We struck up a conversation and found out that we had a lot in common. We both loved video games and we were both studying to be game designers.\n\nBefore long, we were engrossed in a heated discussion about the pros and cons of different game engines. Tim was of the opinion that Unity was the way to go, while I was more of a fan of Unreal Engine. We went back and forth for a while, but we were both having so much fun that we didn\u2019t even realize how time was flying by.\n\nSuddenly, I remembered that I had a class project that was due the next day. I had completely forgotten about it in the excitement of the moment. I said goodbye to Tim and raced home to get started on the project.\n\nSomehow, I managed to finish and submit the project on time. It wasn\u2019t my best work, but I was glad that I had finished it. As I reflected on the evening, I realized that it was more than just a fun night out. I had made a new friend and learned something new in the process."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who are you writing the narrative for?",
+                    "Answer": "for the general public."
+                },
+                {
+                    "Question": "What is the purpose of the narrative?",
+                    "Answer": "The purpose of the narrative is to entertain and engage the reader."
+                },
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "two legendary revolutionaries"
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "The tone of the story is intense."
+                },
+                {
+                    "Question": "What is the point of view of the story?",
+                    "Answer": "The point of view of the story is third person."
+                },
+                {
+                    "Question": "What is the setting of the story?",
+                    "Answer": "The setting of the story is in 1920's during the British rule."
+                },
+                {
+                    "Question": "What are the characters in the story?",
+                    "Answer": "The characters in the story are the Ram, Bheem, and the British Governer Scott."
+                },
+                {
+                    "Question": "What is the plot of the story?",
+                    "Answer": "Bheem fights against the British rule and Ram works for the British."
+                },
+                {
+                    "Question": "What is the conflict in the story?",
+                    "Answer": "The conflict in the story is that Bheem and Raju form a friendship not knowing they are on opposite sides."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "Ram and Bheem defeat Scott and his company, fulfilling their respective objectives."
+                },
+                {
+                    "Question": "What are the themes of the story?",
+                    "Answer": "The themes of the story are revolution, friendship and freedom."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "There is no moral in this story."
+                }
+            ],
+            "Output": "Ram and Bheem are two legendary revolutionaries who fought against the British rule in the 1920s. Ram was a part of the British army while Bheem fought against them. They were both excellent fighters and were very good friends. However, they were unaware that they were on opposite sides.\n\nThe British Governer Scott was a very cruel man. He used to torture the people who fought against him. Bheem was one of his biggest targets. He wanted to capture Bheem and make him suffer.\n\nOne day, Bheem was hiding in the forest. He was very tired and hungry. Suddenly, he saw a British soldier coming towards him. He was about to attack the soldier when he saw that it was Ram. He was surprised to see his friend there.\n\nRam told Bheem that he was working for the British now and he had been sent to capture him. Bheem was shocked to hear this. He asked Ram why he was working for them. Ram told him that he had no choice.\n\nBheem asked Ram to come with him and fight against the British. Ram refused and said that he had to go. Bheem was very sad to see his friend on the other side.\n\nThe next day, Bheem and Ram met again. This time, they were on opposite sides. They both fought with all their might but in the end, Bheem emerged victorious. He captured Scott and turned him over to the people.\n\nRam was very happy to see his friend again. They both embraced each other and vowed to never fight on opposite sides again."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/QNXFaQ66BEn25jmaBVwNDtGF?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6bmui7YxUrMfix2MaWPnF6qR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DqTSbZhxmFu4F3Tez8kNnrvn?model=text-davinci-002"
+    ],
+    "Screenshot_link": "https://drive.google.com/drive/folders/1i4_Luk1SMh8q6A2mJ2lKj4qcKd4-olO6?usp=sharing"
+}

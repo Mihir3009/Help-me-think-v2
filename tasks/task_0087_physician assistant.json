@@ -1,0 +1,151 @@
+{
+    "Domain": "Physician Assistant",
+    "Task": "Be Healthy",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert physician assistant. I will ask some questions to collect information and then I will use the information to create a list of things you change in your life to be healthier and explain why they are important.",
+        "task_specific_prompt": "Write a list of five things I should change in my life to be healthier using the questions and answers above. Explain why each item is important."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are some things you do on a daily basis that you know are not good for your health?",
+                    "Answer": "I know that I should exercise more, eat healthier foods, and get more sleep. I also know that I should avoid smoking and drinking alcohol."
+                },
+                {
+                    "Question": "What are some things you would like to change about your daily routine to be healthier?",
+                    "Answer": "I would like to exercise for at least 30 minutes every day, eat more fruits and vegetables, and get at least 8 hours of sleep every night. I would also like to quit smoking and drinking alcohol."
+                },
+                {
+                    "Question": "What are some things you think might help you make these changes?",
+                    "Answer": "I think setting realistic goals, making a plan, and seeking support from family and friends might help me make these changes."
+                },
+                {
+                    "Question": "What are some things that would make it difficult for you to make these changes?",
+                    "Answer": "I think time constraints, temptations, and lack of motivation might make it difficult for me to make these changes."
+                },
+                {
+                    "Question": "What are your thoughts on making these changes?",
+                    "Answer": "I am willing to make these changes, but I know it will be difficult. I am hopeful that making these changes will improve my health."
+                },
+                {
+                    "Question": "What is your motivation for making these changes?",
+                    "Answer": "I want to improve my health and feel better. I also want to set a good example for my children."
+                },
+                {
+                    "Question": "What are your goals for making these changes?",
+                    "Answer": "My goals are to exercise regularly, eat a healthy diet, and get enough sleep. I also want to quit smoking and drinking alcohol."
+                },
+                {
+                    "Question": "How will you know if you are successful in making these changes?",
+                    "Answer": "I will know if I am successful in making these changes if I am able to stick to my plan and reach my goals."
+                },
+                {
+                    "Question": "What will you do if you are not successful in making these changes?",
+                    "Answer": "If I am not successful in making these changes, I will reassess my goals and try again."
+                },
+                {
+                    "Question": "What support do you need to make these changes?",
+                    "Answer": "I need the support of my family and friends to make these changes. I also need to be held accountable to someone."
+                }
+            ],
+            "Output": "1. I should exercise for at least 30 minutes every day because it is important to get my heart rate up and to break a sweat. Regular exercise will help improve my overall health and fitness level. 2. I should eat more fruits and vegetables because they are packed with nutrients that my body needs. Eating a healthy diet will help improve my energy level and help me to maintain a healthy weight. 3. I should get at least 8 hours of sleep every night because sleep is important for my overall health. Getting enough sleep will help me to feel rested and refreshed, and it will also help improve my concentration and memory. 4. I should quit smoking because smoking is harmful to my health. It can damage my lungs, heart, and blood vessels. Quitting smoking will help improve my overall health and help me to feel better. 5. I should quit drinking alcohol because it is also harmful to my health. It can damage my liver, heart, and brain. Quitting drinking will help improve my overall health and help me to feel better."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your age?",
+                    "Answer": "I am 26 years old."
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "I am 160 pounds."
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "I am 5'8."
+                },
+                {
+                    "Question": "What is your BMI?",
+                    "Answer": "My BMI is 25."
+                },
+                {
+                    "Question": "What is your waist circumference?",
+                    "Answer": "My waist circumference is 35 inches."
+                },
+                {
+                    "Question": "What is your blood pressure?",
+                    "Answer": "My blood pressure is 120/80."
+                },
+                {
+                    "Question": "What is your cholesterol level?",
+                    "Answer": "My cholesterol level is 200."
+                },
+                {
+                    "Question": "What is your fasting blood sugar level?",
+                    "Answer": "My fasting blood sugar level is 100."
+                },
+                {
+                    "Question": "What is your family history of heart disease?",
+                    "Answer": "My family history of heart disease is positive."
+                },
+                {
+                    "Question": "Do you have any other medical conditions?",
+                    "Answer": "I have no other medical conditions."
+                }
+            ],
+            "Output": " 1. I should lose weight because my BMI is 25. 2. I should reduce my waist circumference because it is 35 inches. 3. I should reduce my blood pressure because it is 120/80. 4. I should reduce my cholesterol level because it is 200. 5. I should reduce my fasting blood sugar level because it is 100."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some things you can do to be healthier?",
+                    "Answer": "I'm not sure."
+                },
+                {
+                    "Question": "Are you interested in learning about some things you can do to be healthier?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What are some things you currently do to stay healthy?",
+                    "Answer": "I eat healthy foods, exercise regularly, and get enough sleep."
+                },
+                {
+                    "Question": "Do you feel like you could improve your health in any way?",
+                    "Answer": "Yes, I could eat more vegetables and fruits."
+                },
+                {
+                    "Question": "What are some specific things you would like to learn about in regards to improving your health?",
+                    "Answer": "I would like to learn about different types of exercise, healthy recipes, and ways to reduce stress."
+                },
+                {
+                    "Question": "How much time do you have each day to dedicate to taking care of your health?",
+                    "Answer": "I have 30 minutes to 1 hour each day."
+                },
+                {
+                    "Question": "What is your budget for taking care of your health?",
+                    "Answer": "I am willing to spend up to $100 per month."
+                },
+                {
+                    "Question": "What are your health goals?",
+                    "Answer": "My health goals are to eat healthier, exercise more, and reduce stress."
+                },
+                {
+                    "Question": "What do you think are some important steps you can take to reach your health goals?",
+                    "Answer": "I think it is important to Meal plan, have healthy snacks available, and make time for exercise."
+                },
+                {
+                    "Question": "Can you commit to taking some steps to improve your health?",
+                    "Answer": "Yes."
+                }
+            ],
+            "Output": "1. Eat more vegetables and fruits. This is important because they are packed with nutrients that are essential for good health. 2. Exercise more. This is important because it helps to keep your body strong and healthy. 3. Get enough sleep. This is important because it helps your body to recover from the day and to function properly. 4. Meal plan. This is important because it helps you to make sure you are eating healthy foods and getting the nutrients you need. 5. Reduce stress. This is important because stress can have a negative impact on your health."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/4EIOLyyt4NUJkxjiGRbFLfWi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/WC5HUydPfZp816t7yRQEp7mK?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/KfBIzVzt77Y1wej5Rf3kbEPn?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://1drv.ms/u/s!AmqT8OcmiyozhNlD1herY4JLibS53Q?e=n9M6LF"
+}

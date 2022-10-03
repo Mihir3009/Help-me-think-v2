@@ -1,0 +1,148 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Commercial Aviation",
+    "Task": "In-flight food menu plan suggestion for flight attendant",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert flight attendant I will ask some questions to collect information and then I will use the information to plan menu for my inflight passengers\n\n",
+        "task_specific_prompt": "Write a in flight menu plan for my passengers using the questions and answers above. Predict special requests that may come up."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the estimated number of passengers on your flight?",
+                    "Answer": "300"
+                },
+                {
+                    "Question": "What is the average age of your passengers?",
+                    "Answer": "35"
+                },
+                {
+                    "Question": "What is the gender split of your passengers?",
+                    "Answer": "70% is male and 30% is female"
+                },
+                {
+                    "Question": "What is the average length of your flight?",
+                    "Answer": "14 hours"
+                },
+                {
+                    "Question": "What is the time of day of your flight?",
+                    "Answer": "starts in early morning and ends at late night"
+                },
+                {
+                    "Question": "What is the origin and destination of your flight?",
+                    "Answer": "From delhi to san francisco"
+                },
+                {
+                    "Question": "What is the class split of your passengers?",
+                    "Answer": "10% is business class and 90% is economy class"
+                },
+                {
+                    "Question": "What are the dietary restrictions of your passengers?",
+                    "Answer": "No dietary restrictions "
+                },
+                {
+                    "Question": "What are the preferred drinks of your passengers?",
+                    "Answer": "They mostly like wine or orange juice"
+                },
+                {
+                    "Question": "What are the preferred snacks of your passengers?",
+                    "Answer": "They like peanuts or cashews"
+                }
+            ],
+            "Output": "Breakfast:\nFor breakfast, we will be serving omelets with a choice of ham, cheese, and vegetables. There will also be a side of fruit and a muffin. For drinks, we will have orange juice, coffee, and tea.\nLunch:\nFor lunch, we will be serving a choice of chicken or beef with rice and vegetables. There will also be a salad and a roll. For drinks, we will have soda, water, and coffee.\nDinner:\nFor dinner, we will be serving a choice of chicken or beef with rice and vegetables. There will also be a salad and a roll. For drinks, we will have soda, water, and coffee.\nSnacks:\nWe will have a variety of snacks available throughout the flight including peanuts, cashews, pretzels, and cookies.\nSpecial Requests:\nIf any passengers have dietary restrictions, we will be happy to accommodate them. We will also have a selection of wine available upon request."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the estimated number of passengers on your flight?",
+                    "Answer": "20"
+                },
+                {
+                    "Question": "What is the average age of your passengers?",
+                    "Answer": "60"
+                },
+                {
+                    "Question": "What is the gender split of your passengers?",
+                    "Answer": "70% is male and 30% is female"
+                },
+                {
+                    "Question": "What is the average length of your flight?",
+                    "Answer": "14 hours"
+                },
+                {
+                    "Question": "What is the time of day of your flight?",
+                    "Answer": "starts in early morning and ends at late night"
+                },
+                {
+                    "Question": "What is the origin and destination of your flight?",
+                    "Answer": "From tokyo to seoul"
+                },
+                {
+                    "Question": "What is the class split of your passengers?",
+                    "Answer": "100% is business class"
+                },
+                {
+                    "Question": "What are the dietary restrictions of your passengers?",
+                    "Answer": "They may be allergic to any kind of meat"
+                },
+                {
+                    "Question": "What are the preferred drinks of your passengers?",
+                    "Answer": "They mostly like soda"
+                },
+                {
+                    "Question": "What are the preferred snacks of your passengers?",
+                    "Answer": "They like fruits"
+                }
+            ],
+            "Output": "-Breakfast: continental breakfast with croissant, yogurt, fruits, and juice.\n-Lunch: Chicken Teriyaki with rice, salad, and fruit.\n-Dinner: Seafood pasta with salad and bread.\n-Snacks: Assorted fruits, chips, and pretzels.\n-Drinks: Assorted sodas, juices, and water.\nSpecial requests:\n-Vegetarian option\n-Gluten-free option\n-Halal/Kosher meal"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the estimated number of passengers on your flight?",
+                    "Answer": "20"
+                },
+                {
+                    "Question": "What is the average age of your passengers?",
+                    "Answer": "10"
+                },
+                {
+                    "Question": "What is the gender split of your passengers?",
+                    "Answer": "50% is male and 50% is female"
+                },
+                {
+                    "Question": "What is the average length of your flight?",
+                    "Answer": "3 hours"
+                },
+                {
+                    "Question": "What is the time of day of your flight?",
+                    "Answer": "starts in evening at 4 pm"
+                },
+                {
+                    "Question": "What is the origin and destination of your flight?",
+                    "Answer": "From Ludhiana to Bangalore"
+                },
+                {
+                    "Question": "What is the class split of your passengers?",
+                    "Answer": "100% is economy class"
+                },
+                {
+                    "Question": "What are the dietary restrictions of your passengers?",
+                    "Answer": "No alcohol"
+                },
+                {
+                    "Question": "What are the preferred drinks of your passengers?",
+                    "Answer": "Milk"
+                },
+                {
+                    "Question": "What are the preferred snacks of your passengers?",
+                    "Answer": "Chocolates"
+                }
+            ],
+            "Output": "Snacks:\n-Chocolate bars\n-Bag of chips\n-Pretzels\n-Fruit cup\nDrinks:\n-Milk\n-Water\n-Soda\n-Coffee\n-Tea"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/ZuxTf97lGmIBcYfhEZRe2fP8?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/16Tc4NLlxj6mMwBCeJWEnpLWJIcs7I3u-/view?usp=sharing"
+}

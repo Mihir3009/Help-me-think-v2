@@ -1,0 +1,156 @@
+{
+    "Contributor": "kinahansean",
+    "Domain": "Administration",
+    "Task": "Weekly Status Report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert weekly productivity reporter. I will ask some questions to collect information and then I will use the information to summarize your weekly productivity.Question:",
+        "task_specific_prompt": "Write a productivity summary using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "65"
+                },
+                {
+                    "Question": "How many of those hours were productive?",
+                    "Answer": "40"
+                },
+                {
+                    "Question": "What are some things you did that were productive?",
+                    "Answer": "I completed all of my assigned tasks at work, and I also did some extra research on a project that I am working on. I also helped Paul with his current project."
+                },
+                {
+                    "Question": "What are some things you did that were not productive?",
+                    "Answer": "I took a few breaks to check social media and I also spent some time browsing Reddit."
+                },
+                {
+                    "Question": "How do you feel about your productivity this week?",
+                    "Answer": "I feel pretty good about my productivity this week. I got a lot done, and I was able to help out with Paul's project as well. I was feeling sick on Monday, but I managed to get caught up on Tuesday."
+                },
+                {
+                    "Question": "What can you do to improve your productivity next week?",
+                    "Answer": "I can try to minimize distractions by keeping my phone out of sight and not checking social media outside of scheduled breaks. I can also try to get ahead on my work so that I can take a day off next week."
+                },
+                {
+                    "Question": "Do you have any other comments about your productivity this week?",
+                    "Answer": "No, I think that covers it."
+                },
+                {
+                    "Question": "Would you like me to send you a weekly productivity report?",
+                    "Answer": "Yes, I would appreciate receiving a weekly productivity report."
+                },
+                {
+                    "Question": "Great! How would you like to receive your report?",
+                    "Answer": "Email"
+                },
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "jane@yahoo.com"
+                },
+                {
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "No, thank you."
+                }
+            ],
+            "Output": "This person worked for a total of 65 hours this week, with 40 of those hours being productive. They completed all of their assigned tasks at work, did extra research, and helped out with Paul's project. They took breaks to check social media and browse Reddit, but overall they feel good about their productivity this week. To improve productivity next week, they plan to minimize distractions and get ahead on work. This person would like to receive a weekly productivity report via email."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "I worked 40 hours this week."
+                },
+                {
+                    "Question": "How many of those hours were productive?",
+                    "Answer": "I would say 30 of those hours were productive."
+                },
+                {
+                    "Question": "What are some things you did that were productive?",
+                    "Answer": "I was productive by working on various tasks and projects, attending meetings, and responding to emails. I also conducted two major presentations, and onboarded three new staff members."
+                },
+                {
+                    "Question": "What are some things you did that were not productive?",
+                    "Answer": "I did some things that were not productive this week by checking social media, browsing the internet, and taking a few personal calls."
+                },
+                {
+                    "Question": "What do you plan to do differently next week to be more productive?",
+                    "Answer": "I plan to limit my social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week."
+                },
+                {
+                    "Question": "Do you have any other comments about your productivity this week?",
+                    "Answer": "I was happy with my productivity this week overall. I met all of my deadlines and got a lot of important work done. However, I want to make sure that I don't get too comfortable and let my productivity slip next week."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "What can I do to maximize my organization and time management skills? I want to be more productive with my time, but it isn't always easy to balance."
+                },
+                {
+                    "Question": "What tips do you have for better time management?",
+                    "Answer": "Some tips for better time management include:- Make a list of tasks to be completed each day- Set time limits for each task- Take breaks throughout the day- Delegate tasks to others- Focus on one task at a time- Avoid distractions- Prioritize tasks"
+                }
+            ],
+            "Output": "The individual worked 40 hours this week and was productive for 30 of those hours. They were productive by working on various tasks and projects, attending meetings, and responding to emails. The individual was also productive by conducting two major presentations and onboarding three new staff members. The individual was not productive by checking social media, browsing the internet, and taking a few personal calls. The individual plans to limit their social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week. The individual was happy with their productivity this week overall, but they want to make sure that they don't get too comfortable and let their productivity slip next week."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "I worked 65 hours this week."
+                },
+                {
+                    "Question": "How many of those hours were spent on productive activities?",
+                    "Answer": "I spent 50 hours on productive activities."
+                },
+                {
+                    "Question": "What activities did you spend your time on?",
+                    "Answer": "I spent my time on work, errands, and housework."
+                },
+                {
+                    "Question": "How do you feel about your productivity this week?",
+                    "Answer": "I feel I could have accomplished more this week."
+                },
+                {
+                    "Question": "What are your goals for next week?",
+                    "Answer": "I would like to work fewer hours and focus on more efficient work."
+                },
+                {
+                    "Question": "What can you do to increase your productivity?",
+                    "Answer": "I can try to focus on the tasks with the most urgent priority and create measurable milestones of progress."
+                },
+                {
+                    "Question": "Do you have any advice for others who want to be more productive?",
+                    "Answer": "Yes. I would recommend scheduling time for important tasks, setting priorities, and taking breaks when needed. Listening to calm music is a good way to aid focus, as long as it doesn't become distracting."
+                },
+                {
+                    "Question": "What resources (books, websites, etc.) do you recommend for productivity?",
+                    "Answer": "I recommend the book 'The 7 Habits of Highly Effective People' by Stephen Covey."
+                },
+                {
+                    "Question": "What challenges did you face this week when it came to productivity?",
+                    "Answer": "I faced the challenge of having too many things on my to-do list and not enough time to accomplish them all."
+                },
+                {
+                    "Question": "How did you overcome those challenges?",
+                    "Answer": "I overcame the challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces."
+                },
+                {
+                    "Question": "What did you learn about productivity this week?",
+                    "Answer": "I learned that time management is essential to productivity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with productivity this week?",
+                    "Answer": "No, thank you."
+                }
+            ],
+            "Output": "The individual worked 65 hours this week, 50 of which were spent on productive activities. They spent their time on work, errands, and housework. They feel they could have accomplished more this week and their goals for next week are to work fewer hours and focus on more efficient work. To increase productivity, they can try to focus on the tasks with the most urgent priority and create measurable milestones of progress. The challenges this week were having too many things on the to-do list and not enough time to accomplish them all. The individual overcame these challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces. They learned that time management is essential to productivity."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ngCD4j7BxLs8EYDCad6b2Wgl?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/bfXPgSrKtnzqngYYpghcnC6n?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lC5j1Zz2KcvhQjVvOVQUDiif?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1W12m5Zq6YXxji7DlVgS_NCVI24XTbaRD?usp=sharing"
+}
