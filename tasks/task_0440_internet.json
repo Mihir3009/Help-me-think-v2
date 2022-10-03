@@ -6,7 +6,7 @@
         "pre_question_prompt": "I am an expert in the Internet's Web 3 developer. I will ask some questions to collect information and then I will use the information to solve developer shortages.",
         "task_specific_prompt": "Write a summary on Web 3 using the questions and answers above."
     },
-    "Intances": [
+    "Instances": [
         {
             "QApair": [
                 {
