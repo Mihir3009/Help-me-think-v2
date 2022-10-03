@@ -1,0 +1,159 @@
+{
+    "Contributor": "Shruthi Chinnamsetty",
+    "Domain": "Pharmacy",
+    "Task": "Allocating medicine for the patients.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in pharmacy. I will ask some questions to collect information and then I will use the information to allocate medicine for the patients.",
+        "task_specific_prompt": "Write how to allocate medicine for the patient."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the patient?",
+                    "Answer": "The patient's name is John."
+                },
+                {
+                    "Question": "What symptoms does the patinent have?",
+                    "Answer": "They have diarrhea, fever, and stomach cramps."
+                },
+                {
+                    "Question": "What is the duration of the symptoms?",
+                    "Answer": "The duration of the patient having these symptoms is four days."
+                },
+                {
+                    "Question": "Has the patient eaten any contaminated food?",
+                    "Answer": "According to the data of their clinical tests, the food has been contaminated."
+                },
+                {
+                    "Question": "What age is most vulnerable to this infection?",
+                    "Answer": "-Children under 5 years old are the most likely to get a Salmonella infection.\n-Infants are more likely to get a Salmonella infection.\n-Adults aged 65 and older, and people with a weakened immune system are the most likely to have severe infections.\n-People taking certain medicines (for example, stomach acid reducers) are at increased risk of infection."
+                },
+                {
+                    "Question": "Has the patient been under anti-biotics before?",
+                    "Answer": "Yes. The patient been under anti-biotics before"
+                },
+                {
+                    "Question": "Is the patient under any medication?",
+                    "Answer": "No, they aren't under any medication."
+                },
+                {
+                    "Question": "Has the patient been under medication within the last year?",
+                    "Answer": "No, the patient been under medication within the last year."
+                },
+                {
+                    "Question": "Is there any risk of the patient being resistant to antibiotics for curing salmonella?",
+                    "Answer": "Resistance to essential antibiotics is increasing in Salmonella, which can limit treatment options for people with severe infections."
+                },
+                {
+                    "Question": "What can be done to prevent antibiotic resistance?",
+                    "Answer": "It can be prevented by appropriate use of antibiotics in people."
+                },
+                {
+                    "Question": "What is the most effective way to treat this patient?",
+                    "Answer": "The most effective way to treat this patient is by allocating them with the proper medication."
+                }
+            ],
+            "Output": "The best antibiotic to treat a Salmonella infection is ciprofloxacin."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many pills would you like?",
+                    "Answer": "I would like two pills."
+                },
+                {
+                    "Question": "How many days will you be taking the medicine?",
+                    "Answer": "I will be taking the medicine for three days."
+                },
+                {
+                    "Question": "What is the medicine for?",
+                    "Answer": "The medicine is for a cold."
+                },
+                {
+                    "Question": "What are the side effects of the medicine?",
+                    "Answer": "The medicine may cause drowsiness and upset stomach."
+                },
+                {
+                    "Question": "Is there anything else you would like to know about the medicine?",
+                    "Answer": "No, that is all."
+                },
+                {
+                    "Question": "Are you allergic to any medicines?",
+                    "Answer": "No, I am not allergic to any medicines."
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "I am 20 years old."
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "I weigh 50 kg."
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "I am 1.6 m tall."
+                },
+                {
+                    "Question": "What is your blood type?",
+                    "Answer": "I am type A positive."
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "No, I do not have any medical conditions."
+                }
+            ],
+            "Output": "The suggested medicine for the patient is ibuprofen."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the symptoms that you are experiencing?",
+                    "Answer": "I have been feeling tired and my throat has been sore."
+                },
+                {
+                    "Question": "Are you experiencing any difficulty swallowing?",
+                    "Answer": "No, I don't think so."
+                },
+                {
+                    "Question": "Do you have any other medical conditions?",
+                    "Answer": "No, I don't think so."
+                },
+                {
+                    "Question": "Are you taking any other medication?",
+                    "Answer": "No, I don't think so."
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "No, I don't think so."
+                },
+                {
+                    "Question": "Do you have any preferences for medication?",
+                    "Answer": "I would prefer a medication that is easy to take and does not have many side effects."
+                },
+                {
+                    "Question": "Are you pregnant or breastfeeding?",
+                    "Answer": "No, I am not."
+                },
+                {
+                    "Question": "What is your current weight?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "Do you smoke?",
+                    "Answer": "No, I don't."
+                }
+            ],
+            "Output": "I would recommend over the counter medication such as ibuprofen or paracetamol for the symptoms of tiredness and sore throat. If the symptoms persist, it is advisable to consult a doctor."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/7VxrOVbXMEt5O3b1DarBmEkN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2c14vhV9wGJXfmBYQMAjZbbp?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/WeLBlnUtfL74fET6MmsEWMs1?model=text-davinci-002"
+    ]
+}
