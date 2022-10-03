@@ -143,10 +143,10 @@
             "Output": "Some advice on how to avoid spam emails would be to never click on links in emails, even if they look legitimate. You should also never respond to spam emails or provide any personal information. If you are getting a lot of spam emails in your inbox, you can try marking them as spam and deleting them. You can also install a spam filter to help block spam emails."
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/yUuhl6mIR91QHqYYODROkFMk?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/m3JZZASqbOhIAeFz1ZDSNHpr?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/s1kzkul2p9Z1cabi8WA0vF2A?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/yUuhl6mIR91QHqYYODROkFMk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/m3JZZASqbOhIAeFz1ZDSNHpr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/s1kzkul2p9Z1cabi8WA0vF2A?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/1fao0aNrWmmCr4ajJUftfGi9G-WFBfPJl?usp=sharing"
 }

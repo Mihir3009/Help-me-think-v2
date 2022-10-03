@@ -151,10 +151,10 @@
             "Output": "Hello, I would like to schedule a meeting to discuss the Quarterly planning of the company. The meeting will be attended by the CEO, CFO, and the heads of each department. I would like to schedule the meeting for Wednesday at 10:00 am. The meeting will be held in the conference room. The agenda for the meeting is to discuss the Quarterly planning of the company. The results of last quarter were positive and we are looking to continue that momentum in the next quarter. The goals for the next quarter are to increase sales by 10%, increase productivity by 5%, and to reduce costs by 3%. The challenges that need to be addressed are the increasing competition and the need to be more efficient. The possible solutions are to increase marketing, to improve the product, and to reduce costs. The next steps are to develop a plan and to allocate resources. Thank you, [Your Name]"
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/TkT9pZkppq7D1IHBibZgCzzR?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/jIKynL4k6HOKvidMKEfwvpGU?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/8oAzjXnnz5xpXAPzlfmfNzTN?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/TkT9pZkppq7D1IHBibZgCzzR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jIKynL4k6HOKvidMKEfwvpGU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8oAzjXnnz5xpXAPzlfmfNzTN?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/1SfE4JKKfpXYtm8V65_RKx2H2mQrgVp4g?usp=sharing"
 }

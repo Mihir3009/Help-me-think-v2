@@ -143,10 +143,10 @@
             "Output": "According to the person interviewed, spam emails are a daily occurrence. The most common types of spam emails are those offering discounts, free gifts, or participation in surveys. The interviewee usually deletes spam emails without opening them. They have clicked on a link in a spam email before but quickly realized it was spam. They have never responded to a spam email. In their opinion, the purpose of spam emails is to get the recipient to click on a link, buy a product, or provide personal information. However, they do not think spam emails are effective because most people are able to identify them as spam. The interviewee has never been the victim of a phishing scam. The best way to deal with spam emails is to delete them without opening them. There are also a few things you can do to stop spam emails, such as installing spam filtering software, being careful about what information you share online, never clicking on links in spam emails, never responding to spam emails, and reporting spam emails to your email service provider."
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/RftMdmuBLG6MMy24yqW8vwvZ?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/mEj2Sv2wbXEI6ZyQsQuSRdqE?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/m7xRa4auKqThTU4JF9ZJVTnx?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RftMdmuBLG6MMy24yqW8vwvZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/mEj2Sv2wbXEI6ZyQsQuSRdqE?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/m7xRa4auKqThTU4JF9ZJVTnx?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/1UFGL1WSi5xi7J5e52KUNk27BwKp_j4fy?usp=sharing"
 }

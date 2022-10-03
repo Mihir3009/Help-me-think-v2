@@ -143,10 +143,10 @@
             "Output": "From the information given, it does not seem like this email is spam."
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/EPly7i6wTNeCwLZXtHNOZqid?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/uhtRpyXiCDSBsAaciEGMPAD1?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/6XwkOnbClrUunEcLMPXLTa7A?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/EPly7i6wTNeCwLZXtHNOZqid?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/uhtRpyXiCDSBsAaciEGMPAD1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6XwkOnbClrUunEcLMPXLTa7A?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/1Ti02Zr10Ngu8q-Xj4iO6eUOuUOOIpoiV?usp=sharing"
 }

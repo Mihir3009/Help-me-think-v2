@@ -147,10 +147,10 @@
             "Output": "The meeting was attended by John, Karen, Rachel, and Steve. The purpose of the meeting was to generate ideas for creating a short film. Some of the ideas that were generated during the meeting were to create a film about a day in the life of a teenager, to create a film about a person's struggle with addiction, and to create a film about a person's journey to self-discovery. The group decided to create a film about a day in the life of a teenager. John is responsible for writing the script, Karen is responsible for finding a location, Rachel is responsible for finding actors, and Steve is responsible for finding a camera crew. The next meeting is scheduled for next week. The meeting's agenda will be to discuss the progress of the film and to make any necessary changes to the script. The action items are for John to write the script, Karen to find a location, Rachel to find actors, and Steve to find a camera crew. The meeting adjourned at 6:00pm. The meeting will recur every week. The meeting's duration is 1 hour. The meeting started at 5:00pm."
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/WrnJVMZRU5ks8QOPqrcZUApd?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/dXhczFcXhbSiElonsIbKIK2q?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/2jgXNYnm031d0s2ZzC2fmDaq?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/WrnJVMZRU5ks8QOPqrcZUApd?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dXhczFcXhbSiElonsIbKIK2q?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2jgXNYnm031d0s2ZzC2fmDaq?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/1mXLj8p2aOYVSrJAJNN86UkvU4g_Tz-na?usp=sharing"
 }

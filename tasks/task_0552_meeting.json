@@ -151,10 +151,10 @@
             "Output": "The meeting was about the problem-solving and the attendance included the problem-solving team. The team discussed the problem and brainstormed possible solutions. The team came up with a plan of action to solve the problem. The meeting was productive. The problem related to some bugs in the production code. The team decided to work on the problem and fix the bugs. The team is going to work on the solution. There are no risks or challenges with the solution. The solution will be implemented in 1 business day."
         }
     ],
-    "Preset_link": {
-        "instance_1_preset_link": "https://beta.openai.com/playground/p/lQYoR8q7DG8DU96DBxLS96bf?model=text-davinci-002",
-        "instance_2_preset_link": "https://beta.openai.com/playground/p/zMU2H98o9h9OaNvJf4WNJ3Fb?model=text-davinci-002",
-        "instance_3_preset_link": "https://beta.openai.com/playground/p/PqDp0wkJ0CjP67wxGDcePWBz?model=text-davinci-002"
-    },
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/lQYoR8q7DG8DU96DBxLS96bf?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/zMU2H98o9h9OaNvJf4WNJ3Fb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PqDp0wkJ0CjP67wxGDcePWBz?model=text-davinci-002"
+    ],
     "screenshot_link": "https://drive.google.com/drive/folders/14EY5ye6HAXBXefjJKk-Cy8K_SUiSo05q?usp=sharing"
 }
