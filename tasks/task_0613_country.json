@@ -3,8 +3,8 @@
     "Domain": "Country",
     "Task": "What country should I fly to next?",
     "Prompt": {
-        "Pre-question prompt": " I am an expert country decider. I will ask some questions to collect information and then I will use the information to help you decide which country should you travel next.",
-        "Task specific Prompt": "What country should I visit using the questions and answers given above?"
+        "pre_question_prompt": " I am an expert country decider. I will ask some questions to collect information and then I will use the information to help you decide which country should you travel next.",
+        "task_specific_prompt": "What country should I visit using the questions and answers given above?"
     },
     "Instances": [
         {
