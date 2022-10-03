@@ -463,14 +463,6 @@ File Name | Domain | Task
 `task_0498_writing.json` | Writing | summary of a technical paper related to NLP
 `task_0499_game.json` | Game | suggest games based on a specific genre.
 `task_0500_game.json` | Game | Design quide for game
-`task_0501_zoology.json` | Zoology | Captive Breeding Program
-`task_0502_zoology.json` | Zoology | Humans' impact on ecosystems and species
-`task_0503_visual_merchandising.json` | Visual Merchandising | Impact of cleanliness and sanitation on visual merchandising
-`task_0504_visual_merchandising.json` | Visual Merchandising | Impact of color in visual merchandising
-`task_0505_visual_merchandising.json` | Visual Merchandising | Impact of landscaping in visual merchandising
-`task_0506_visual_merchandising.json` | Visual Merchandising | Impact of texture in visual merchandising
-`task_0507_zoology.json` | Zoology | Promote animal conservation
-`task_0508_zoology.json` | Zoology | Study animal behavior
 `task_0509_fiction.json` | Fiction | Reviewer
 `task_0510_genetics.json` | Genetics | Scientific Writer
 `task_0511_fiction.json` | Fiction | Librarian
