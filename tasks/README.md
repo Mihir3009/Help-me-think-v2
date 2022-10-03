@@ -13,3 +13,4 @@ File Name | Domain | Task
 `task_0006_biomedical.json` | Biomedical | Differential Diagnosis
 `task_0007_healthcare_administration.json` | Healthcare Administration | How to be a Public Healthcare Administrator in India
 `task_0008_healthcare_administration.json` | Healthcare Administration | Vaccine Inventory Management
+`task_0476_philosophy.json` | Philosophy | Suggesting a Philosophy book
