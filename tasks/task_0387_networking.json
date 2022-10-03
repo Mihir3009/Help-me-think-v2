@@ -1,0 +1,148 @@
+{
+    "Contributor": "lizhuoran",
+    "Domain": "networking",
+    "Task": "",
+    "Prompt": {
+        "pre_question_prompt": "I am business man, I will ask some questions to collect information and then I will use the information to write an article about business networking.",
+        "task_specific_prompt": "Write an article for the business networking by using the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the benefits of networking for businesses?",
+                    "Answer": "Networking can help businesses in a number of ways. It can provide opportunities for businesses to meet new potential customers or clients, to build new business relationships, to find new suppliers or business partners, to get new ideas and to keep up to date with industry trends."
+                },
+                {
+                    "Question": "What are some effective networking strategies for businesses?",
+                    "Answer": "There are a number of effective networking strategies for businesses. Some businesses host their own networking events, such as breakfast meetings, lunch meetings or after-work gatherings. Other businesses join networking groups or clubs, such as chambers of commerce or business associations. Some businesses also use social media platforms, such as LinkedIn, to connect with potential customers, clients, suppliers or business partners."
+                },
+                {
+                    "Question": "What are some common networking mistakes that businesses make?",
+                    "Answer": "Some common networking mistakes that businesses make include failing to follow up with new contacts, not having a clear elevator pitch, not listening more than they talk, and not being genuine."
+                },
+                {
+                    "Question": "How can businesses make the most of networking opportunities?",
+                    "Answer": "Some tips for businesses to make the most of networking opportunities include being prepared with an elevator pitch, having business cards on hand, dressing professionally, and being friendly and engaging."
+                },
+                {
+                    "Question": "What are some things businesses should avoid doing when networking?",
+                    "Answer": "Some things businesses should avoid doing when networking include talking too much about themselves, being too sales-focused, and neglecting to follow up with new contacts."
+                },
+                {
+                    "Question": "What are some common networking goals that businesses have?",
+                    "Answer": "Some common networking goals that businesses have include meeting new potential customers or clients, building new business relationships, finding new suppliers or business partners, and getting new ideas."
+                },
+                {
+                    "Question": "What are some obstacles that businesses face when networking?",
+                    "Answer": "Some common obstacles that businesses face when networking include not having enough time to network, not knowing how to network effectively, and feeling shy or uncomfortable when meeting new people."
+                },
+                {
+                    "Question": " What are some ways businesses can overcome obstacles to networking?",
+                    "Answer": "Some ways businesses can overcome obstacles to networking include making time to network, attending networking events or joining networking groups, and practicing their elevator pitch."
+                },
+                {
+                    "Question": "What are some benefits of networking for businesses?",
+                    "Answer": " Networking can help businesses in a number of ways. It can provide opportunities for businesses to meet new potential customers or clients, to build new business relationships, to find new suppliers or business partners, to get new ideas and to keep up to date with industry trends."
+                },
+                {
+                    "Question": "What are some effective networking strategies for businesses?",
+                    "Answer": "There are a number of effective networking strategies for businesses. Some businesses host their own networking events, such as breakfast meetings, lunch meetings or after-work gatherings. Other businesses join networking groups or clubs, such as chambers of commerce or business associations. Some businesses also use social media platforms, such as LinkedIn, to connect with potential customers, clients, suppliers or business partners."
+                }
+            ],
+            "Output": "Business networking can provide a number of benefits for businesses, including the opportunity to meet new potential customers or clients, to build new business relationships, to find new suppliers or business partners, to get new ideas, and to keep up to date with industry trends. There are a number of effective networking strategies businesses can use to make the most of networking opportunities. These include hosting their own networking events, joining networking groups or clubs, and using social media platforms to connect with potential customers, clients, suppliers or business partners. When networking, businesses should avoid common mistakes such as failing to follow up with new contacts, not having a clear elevator pitch, not listening more than they talk, and not being genuine. Instead, businesses should focus on being prepared, having business cards on hand, dressing professionally, and being friendly and engaging. By following these tips, businesses can make the most of networking opportunities and achieve their networking goals, such as meeting new potential customers or clients, building new business relationships, finding new suppliers or business partners, and getting new ideas. "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is business networking?",
+                    "Answer": "Business networking is a process of building relationships with other business professionals in order to exchange information and ideas, and to create opportunities for business collaboration. "
+                },
+                {
+                    "Question": "What are the benefits of business networking?",
+                    "Answer": "The benefits of business networking include developing new business contacts, gaining new business insights and ideas, and building new business relationships. "
+                },
+                {
+                    "Question": "How can business networking be used to improve business operations?",
+                    "Answer": "Business networking can be used to improve business operations by providing new contacts and ideas, and by building new relationships. "
+                },
+                {
+                    "Question": "What are some best practices for business networking?",
+                    "Answer": "Some best practices for business networking include attending networking events, joining networking groups, and connecting with other business professionals online. "
+                },
+                {
+                    "Question": "What are some common misconceptions about business networking?",
+                    "Answer": "Some common misconceptions about business networking include that it is only for salespeople, that it is only about making new contacts, and that it is only for extroverts."
+                },
+                {
+                    "Question": "What are some tips for networking effectively?",
+                    "Answer": "Some tips for networking effectively include: -Being clear about what you want to achieve from networking-Making a good first impression-Dressing for success-Being a good listener-Asking thought-provoking questions-Having an elevator pitch prepared-Following up with new contacts"
+                },
+                {
+                    "Question": "How can business networking be used to generate new business leads?",
+                    "Answer": "Business networking can be used to generate new business leads by:-Attending relevant events and functions -Meeting new people and exchanging business cards-Keeping in touch with your contacts-Asking for referrals"
+                },
+                {
+                    "Question": "What are some common mistakes people make when networking?",
+                    "Answer": "Common mistakes people make when networking include: -Failing to follow up with new contacts -Not dressing appropriately -Not being clear about what they want to achieve -Not listening -Talking too much about themselves"
+                },
+                {
+                    "Question": "How can business networking be used to develop new business relationships?",
+                    "Answer": "Business networking can be used to develop new business relationships by: -Attending relevant events and functions -Meeting new people and exchanging business cards -Keeping in touch with your contacts -Asking for referrals"
+                },
+                {
+                    "Question": "What are some common challenges people face when networking?",
+                    "Answer": "Common challenges people face when networking include: -Meeting new people -Dressing for success -Asking for referrals -Following up"
+                }
+            ],
+            "Output": "Business networking is a process of building relationships with other business professionals in order to exchange information and ideas, and to create opportunities for business collaboration. The benefits of business networking include developing new business contacts, gaining new business insights and ideas, and building new business relationships. Business networking can be used to improve business operations by providing new contacts and ideas, and by building new relationships. Some best practices for business networking include attending networking events, joining networking groups, and connecting with other business professionals online. However, business networking is often misunderstood. Some common misconceptions about business networking include that it is only for salespeople, that it is only about making new contacts, and that it is only for extroverts. In reality, business networking can be used by anyone looking to improve their business operations or generate new leads. To network effectively, there are a few things to keep in mind. First, it is important to be clear about what you want to achieve from networking. Second, dress for success and make a good first impression. Third, be a good listener and ask thought-provoking questions. Fourth, have an elevator pitch prepared. Finally, follow up with new contacts. By following these tips, you can use business networking to develop new business relationships and generate new leads. However, there are a few challenges that people face when networking. These challenges include meeting new people, dressing for success, asking for referrals, and following up. By being aware of these challenges and preparing for them, you can be more successful in your business networking efforts."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the benefits of networking for businesses?",
+                    "Answer": "Networking can help businesses in a number of ways, including generating leads, building relationships, and creating opportunities."
+                },
+                {
+                    "Question": " What are some of the best ways to network?",
+                    "Answer": "Some of the best ways to network include attending networking events, joining networking groups, and connecting with people online."
+                },
+                {
+                    "Question": "How can businesses make the most of networking opportunities?",
+                    "Answer": "To make the most of networking opportunities, businesses should focus on building relationships and providing value."
+                },
+                {
+                    "Question": "What are some of the challenges businesses face when networking?",
+                    "Answer": "Some of the challenges businesses face when networking include not knowing how to start a conversation, not having enough time to network, and not knowing how to follow up."
+                },
+                {
+                    "Question": "What are some common networking mistakes businesses make?",
+                    "Answer": "Some common networking mistakes businesses make include not having a plan, not being prepared, and not following up."
+                },
+                {
+                    "Question": "How can businesses ensure they are making the most of their networking efforts?",
+                    "Answer": "To ensure they are making the most of their networking efforts, businesses should set goals, track their progress, and measure their results."
+                },
+                {
+                    "Question": "What are some emerging trends in business networking?",
+                    "Answer": "Some emerging trends in business networking include social media networking, mobile networking, and virtual networking."
+                },
+                {
+                    "Question": "What are some best practices for business networking?",
+                    "Answer": " Some best practices for business networking include being authentic, being generous, and being consistent."
+                },
+                {
+                    "Question": "What are some tips for making the most of business networking events?",
+                    "Answer": "Some tips for making the most of business networking events include arriving early, staying late, and dressing the part."
+                },
+                {
+                    "Question": "How can businesses use social media for business networking?",
+                    "Answer": "Businesses can use social media for business networking by connecting with people online, participating in online discussions, and sharing valuable content."
+                }
+            ],
+            "Output": "Networking can help businesses in a number of ways, including generating leads, building relationships, and creating opportunities. Some of the best ways to network include attending networking events, joining networking groups, and connecting with people online. To make the most of networking opportunities, businesses should focus on building relationships and providing value. Some of the challenges businesses face when networking include not knowing how to start a conversation, not having enough time to network, and not knowing how to follow up. Some common networking mistakes businesses make include not having a plan, not being prepared, and not following up. To ensure they are making the most of their networking efforts, businesses should set goals, track their progress, and measure their results. Some emerging trends in business networking include social media networking, mobile networking, and virtual networking. Some best practices for business networking include being authentic, being generous, and being consistent. Some tips for making the most of business networking events include arriving early, staying late, and dressing the part. Businesses can use social media for business networking by connecting with people online, participating in online discussions, and sharing valuable content."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/bEOHPVWKM50KVT3977OkPeni?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1lVeqLdVFGhrLsxj7SaLqgxSRpVFBJ-oRULKi6UfqO_0/edit?usp=sharing"
+}

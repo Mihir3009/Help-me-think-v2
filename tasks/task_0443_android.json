@@ -1,0 +1,88 @@
+{
+    "Contributor": "jaintanuj",
+    "Domain": "Android",
+    "Task": "Writing blogs on android topics.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing Android blogs. I will ask some questions to collect information and then I will use the information to write a blog on current trendy topics in android.",
+        "task_specific_prompt": "Write a blog on trendy topics in the android domain using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the difference between an activity and a fragment?",
+                    "Answer": "An activity is a single, focused thing that the user can do. A fragment is a piece of an activity, which contributes its own UI."
+                },
+                {
+                    "Question": "What is the difference between a Service and an IntentService?",
+                    "Answer": "A service is a general-purpose component that can perform long-running operations in the background and does not provide a user interface. An IntentService is a subclass of Service that uses a worker thread to handle all start commands, one at a time."
+                },
+                {
+                    "Question": "What is the difference between a BroadcastReceiver and a Service?",
+                    "Answer": "A BroadcastReceiver is a component that responds to system-wide broadcast announcements. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the difference between a ContentProvider and a Service?",
+                    "Answer": "A ContentProvider is a component that manages a persistent data store and exposes it to other applications. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the AndroidManifest.xml file?",
+                    "Answer": "The AndroidManifest.xml file is a configuration file that contains information about the application and its components."
+                }
+            ],
+            "Output": "The Android platform has seen tremendous growth in recent years. Along with this growth, there has been an explosion of new and innovative ideas in the Android development community. In this blog post, we will take a look at some of the most popular trends in Android development.\n1.Fragmentation\nOne of the most talked-about topics in the Android development community is fragmentation. Fragmentation refers to the fact that there are so many different devices and OS versions in the Android ecosystem. This can make it difficult for developers to create apps that work across all devices.\n2. Material Design\nAnother popular trend in Android development is Material Design. Material Design is a set of guidelines for creating user interfaces that are easy to use and visually appealing. Google has been working hard to promote Material Design, and many developers are adopting it for their own apps.\n3. Wearables\nWearables are another hot topic in the Android development world. Android Wear is a version of Android designed for wearables, and many developers are creating apps for this new platform.\n4. Internet of Things\nThe Internet of Things (IoT) is a trend that is becoming more and more popular, and Android is well-positioned to"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the difference between an activity and a fragment?",
+                    "Answer": "An activity is a single, focused thing that the user can do. A fragment is a piece of an activity, which contributes its own UI."
+                },
+                {
+                    "Question": "What is the difference between a Service and an IntentService?",
+                    "Answer": "A service is a general-purpose component that can perform long-running operations in the background and does not provide a user interface. An IntentService is a subclass of Service that uses a worker thread to handle all start commands, one at a time."
+                },
+                {
+                    "Question": "What is the difference between a BroadcastReceiver and a Service?",
+                    "Answer": "A BroadcastReceiver is a component that responds to system-wide broadcast announcements. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the difference between a ContentProvider and a Service?",
+                    "Answer": "A ContentProvider is a component that manages a persistent data store and exposes it to other applications. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the AndroidManifest.xml file?",
+                    "Answer": "The AndroidManifest.xml file is a configuration file that contains information about the application and its components."
+                }
+            ],
+            "Output": "The Android operating system is constantly evolving, with new features and capabilities being added all the time. In order to take advantage of the latest and greatest that Android has to offer, it's important to stay up to date on the latest trends in the Android world. \nOne of the most popular trends in Android right now is the use of fragments. Fragments are a way of modularizing an activity, so that each fragment has its own UI and its own logic. This makes it easy to reuse fragments in different activities, or even across different applications. Another popular trend is the use of services. Services are a way of running code in the background, without a user interface. This can be used to perform tasks such as syncing data with a server, or sending notifications to the user. \n Broadcast receivers are another popular trend. Broadcast receivers are a way of responding to system-wide broadcasts, such as when a new SMS message is received. This allows applications to perform tasks such as displaying a notification to the user, or storing the SMS message in a database. \nContent providers are also becoming more popular. Content providers are a way of sharing data between applications. For example, a content provider could be used to store contact information, so"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the difference between a Service and an IntentService?",
+                    "Answer": "A BroadcastReceiver is a component that responds to system-wide broadcast announcements. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the difference between a Service and an IntentService?",
+                    "Answer": "A BroadcastReceiver is a component that responds to system-wide broadcast announcements. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the difference between a ContentProvider and a Service?",
+                    "Answer": "A ContentProvider is a component that manages a persistent data store and exposes it to other applications. A Service is a component that performs operations in the background without a user interface."
+                },
+                {
+                    "Question": "What is the difference between an AsyncTask and a Service?",
+                    "Answer": "An AsyncTask is a component that performs operations in the background without a user interface. A Service is a component that performs operations in the background without a user interface."
+                }
+            ],
+            "Output": "The Difference Between an Activity and a Fragment. Android developers often talk about the difference between an activity and a fragment. An activity is a user interface component that is mainly used to construct a single screen of the application and represents the main focus of attention on a screen. An activity can host one or more fragments at a time. Fragments, as tablets emerged with larger screens, are reusable components that are attached to and displayed within activities. They allow developers to build modular applications that can be displayed in different ways depending on the device. For example, a fragment might display a list of items on one screen and the details of the selected item on another screen. The Difference Between a Service and an IntentService. If you need to perform a task in the background without a user interface, you have two options: a service or an IntentService. A service is a component that performs operations in the background without a user interface. You can use a service to play music in the background, for example, or to fetch data from the network without blocking the user interface. An IntentService is a service that handles asynchronous requests (expressed as Intents) on demand. When you start an IntentService, it spawns a worker."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/PzQCYXQPwu6LAeq9T7ioV2ou?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/aZQ1Pb0NTN0RBOENcwly9wSG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/k5dSPjUf5PaOkWTEo115JoIQ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1-x1XCWITI0K3tAy6s8t_T3O4j3AsdCjE?usp=sharing"
+}

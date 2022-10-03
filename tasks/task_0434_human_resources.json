@@ -1,0 +1,152 @@
+{
+    "Contributor": "hillikerjacob",
+    "Domain": "Human Resources",
+    "Task": "Behavioral Interview",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert behavioral interviewer. I will ask some questions to collect information and then I will use the information to assess a candidate's performance in a behavioral interview.",
+        "task_specific_prompt": "Generate an assessment of the candidate using the questions and answers above. How well do they perform under difficult circumstances? Would they be pleasant to work with? Would they contribute to team success?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Can you please describe a time when you had to deal with a difficult customer or client?",
+                    "Answer": "I have never had to work with customers or clients, but I have had to deal with difficult members of my trumpet section in the ASU Marching Band. For instance, in the fall of 2021 a new trumpet player joined who was not very sociable, seemed irritable, and was complaining about having to review basic marching technique at the start of the season. He would ask why we were doing a particular exercise, and I would calmly explain why. I knew that \"because I said so\" or \"because the director said so\" would just create a greater divide between him and the band leadership. The explanations didn't seem to totally satisfy him, but he at least stopped asking. Over the course of that season and his next season, he slowly grew closer to the other members of the section and was more accepting of leadership."
+                },
+                {
+                    "Question": "Describe a time when you had to use persuasion to get someone to see your point of view.",
+                    "Answer": "In my second internship at Garmin, I worked together with another intern on a summer-long project building an internal tool for debugging GPS route calculation. Our department was using PEP 8 as the style guidelines for Python, the language the other intern and I used for the scripts in our project. We often consulted each other on code to make sure we weren't working on the same thing, and we helped each other when we got stuck. I often noticed during this process that I found his code very difficult to read because it wasn't conforming to these guidelines. I suggested that he follow the guidelines as he works, but he said that he just prefers to get his thoughts down in code and then clean them up later. However, this made debugging more difficult when anyone else tried to help with his program, as we had a much harder time reading it. Variable names were unclear, the lines were very long, and the spacing was inconsistent. I showed him my code which conformed to the guidelines and he had a much easier time reading it, so he began to apply it earlier in his personal development process."
+                },
+                {
+                    "Question": "Can you please describe a time when you had to manage a difficult situation?",
+                    "Answer": "At the beginning of my final season in the ASU marching band, we met in \"The Bubble,\" a large athletic practice facility inflated with pressurized air, for our introductory season meeting. We went over some logistics as a whole group, but we had to cut that part short because there was an enormous dust storm going on outside that was causing the whole building and the lights to sway. We were dismissed early, and my trumpet section had planned to head to a restaurant nearby after the meeting, so we began to head there. Unfortunately, even that was too far, as visibility was dropping rapidly and the winds were very intense. Thankfully, I had made sure at the start of our full band meeting that all the trumpets were added to our group chat, so I put out a message to head next door to IHOP to regroup, since I knew there was plenty of seating for us. We ended up finishing our introductions and announcements in an IHOP, which was a surreal but memorable experience, but I'm glad everyone made it there safely."
+                },
+                {
+                    "Question": "Describe a time when you had to use your problem-solving skills to resolve an issue.",
+                    "Answer": "In my senior year of my Bachelor's degree, I had an immense amount of difficulty finding direction with my honors thesis. It took me months before the project just to realize that I wanted to somehow combine machine learning with jazz improvisation. Once the project actually began, I followed my director's advice and began with a literature review, gathering a dozen or so papers about a variety of complex models used in machine learning music research. I became completely locked by decision paralysis. I still kept in touch with my committee throughout the first semester, but my progress was incredibly slow. After the break between semesters, I began looking for ways I could narrow my focus. I initially planned on building a new machine learning model, but over the course of my reading, I noticed almost every research team was using a different dataset to generate their results. I revised my approach and decided to train several models on the same dataset and compare their performance using objective numerical metrics, explaining how outliers in certain metrics contributed to certain unpleasant sounds in the generated music. By paying attention to details in the researchers' papers, I realizes the lack of standardization in the field of research, and I was able to highlight a need with my thesis rather than purely retracing others' steps."
+                },
+                {
+                    "Question": "Describe a time when you had to manage a team or group of people.",
+                    "Answer": "In my final semester of my Master's degree, I was the trumpet section leader in the ASU marching band. It was one of the largest sections in the band, at 33 people counting myself. I had two other leaders in my section, called \"rank leaders,\" to help me, but I was ultimately responsible for managing the section. I was in charge of all time designated for sectional practices, whether we were focusing on marching technique or on music. One thing I learned through this was how to better maintain a constant energy level within a group. I would give a set of instructions for a marching exercise, and I would always end with a question like \"Does that make sense?\" or \"Does everybody understand?\" Early in the season, the first response would often be one or two students saying \"Yes\" under their breath. I made sure to ask the question again, louder, to reinforce the notion that everybody needed to participate and invest energy to make progress as performers. This method seemed to noticeably improve the energy level and performance of my section."
+                },
+                {
+                    "Question": "Can you please describe a time when you had to present information to a group?",
+                    "Answer": "In the fall of 2020 and the spring of 2021, I was a teaching assistant for several online sections of CSE 205, an early programming class in my major. I gave two presentations for each session: one for the midterm exam, and one for the final. In general, my presentations consisted of a format of definitions, then examples if applicable, and occasionally some practice multiple-choice questions. I made sure at the end of each slide to provide time for students to ask questions. Occasionally, their questions would be very obscure, especially if they were interested in the subject. In those cases, I often told them to hold those questions until the end to keep the presentation to the allotted time limit, as we had online students attending from many different time zones. I received a lot of positive feedback on my presentation style, and the students who attended my sessions reported that they understood new ideas or better understood existing concepts because of my review."
+                },
+                {
+                    "Question": "Describe a time when you had to use your organizational skills to manage a project.",
+                    "Answer": "In the spring of 2021, I was the project manager for a team of three other students working on a semester-long project for our senior design class. Our project was to develop an educational virtual reality game to teach basic programming concepts to elementary school students. I was in charge of creating and maintaining the project schedule, as well as coordinating with our client and faculty adviser. I also served as the main point of contact between our team and the other team that was developing the game's art and audio. I made sure that our team stayed on track and that we hit all of our milestones on time. This required me to be very organized and to have a good understanding of the project as a whole, as well as the individual tasks that each team member was working on."
+                },
+                {
+                    "Question": "Describe a time when you had to use your negotiation skills to reach an agreement.",
+                    "Answer": "In the fall of 2020, I was a teaching assistant for an online section of CSE 205, an early programming class in my major. One of the students in my section was having a lot of difficulty with the material, and she was also struggling to keep up with the pace of the class. She reached out to me and asked if we could meet so that she could show me her code and ask me for help. I agreed to meet with her, but I told her that I could only meet for 30 minutes at a time, twice a week. She said that she needed more time than that, so we compromised and agreed to meet for 45 minutes, twice a week. This allowed her to get the help she needed, and it also allowed me to continue to help other students who were struggling."
+                },
+                {
+                    "Question": "Describe a time when you had to use your interpersonal skills to build relationships.",
+                    "Answer": "As trumpet section leader in the ASU marching band, I had to manage over 30 students with different personalities and interests. One of the other trumpets, who I'll call Brian, was very talkative. This aspect of his personality was great when it came to making new band members feel welcome, but it often interfered with our rehearsals, as he was causing distractions. I had an individual discussion with him because repeatedly reminding him during rehearsal to focus and listen to instructions was not working very well. I pointed to the section meetups he regularly organized, and I told him that those should be the outlets for conversation, not while our director was giving instructions during rehearsal. I attended some of these gatherings to ensure he knew I was supportive of him, as long as he behaved during rehearsal, and his behavior improved."
+                },
+                {
+                    "Question": "Describe a time when you had to use your leadership skills to influence others.",
+                    "Answer": "In my final semester of my Master's degree, I was the trumpet section leader in the ASU marching band. I was in charge of leading the section in both marching and musical rehearsals. I would often start rehearsals with some section-specific announcements, and then I would lead the section in a series of vocal and physical warm-ups. After that, I would cue the section to begin playing our music. I would make sure that we were playing with a clear and consistent sound, and I would give corrections as needed. I would also make sure that we were marching in time with the music, and I would give corrections as needed. I would often have to give verbal cues to the section to make sure that we were playing and marching correctly."
+                }
+            ],
+            "Output": "Based on the questions and answers above, the candidate appears to be able to handle difficult situations and difficult people. They are able to stay calm and use their problem-solving skills to resolve issues. They are also able to lead and manage a team effectively."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on taking risks?",
+                    "Answer": "I think that risk assessment is essential before taking risks. Weighing the probability and magnitude of failure against the potential benefits is far better than just sticking to one's \"gut feeling.\" Therefore, risks can be beneficial as long as they are carefully considered."
+                },
+                {
+                    "Question": "Give me an example of a time when you faced a difficult situation.",
+                    "Answer": "I was taking a really difficult class in the summer of 2020, and my motivation was down because of the pandemic. I got a D or something similar on the first exam. Thankfully, the professor was very accessible, so I made sure to attend all the \"problem-solving sessions\" he hosted throughout the session, and I did every relevant problem available in the textbook to get the most practice I could. I got a 98 on each of the next two exams."
+                },
+                {
+                    "Question": "What is your greatest strength?",
+                    "Answer": "I believe my greatest strength is being able to connect and build trust with those around me. A strategy I've used when dealing with customer service situations and in job interviews is to talk to the person, not the position. Every person is a complex individual with their own life experiences, desires, and goals, and I find that I can make stronger connections with others when I keep this at the forefront of my mind. Finding common ground with someone whose life is different from yours makes it much easier for trust to develop."
+                },
+                {
+                    "Question": "What is your greatest weakness?",
+                    "Answer": "I would consider myself a people pleaser, which can cause some complications in my life. For instance, it can become enormously stressful in my personal life to deal with conflicting wants from different people I care about, but I am better at prioritizing those desires in a professional environment. I can also be overeager to start tasks out of a desire to impress, so I've been working more on planning out non-trivial tasks in advance."
+                },
+                {
+                    "Question": "What are your thoughts on failure?",
+                    "Answer": "This answer might be overused, but it's true: failure provides wisdom and opportunities for growth. As a child I was immensely successful in almost everything I did, so when I reached adulthood, small hurdles became major obstacles. I hadn't learned the ability to build new habits or break old ones because I had never needed to. All the failures I ran into once I started living on my own allowed me to learn the hard way and set myself on a better path for future success."
+                },
+                {
+                    "Question": "How do you handle stress and pressure?",
+                    "Answer": "For a while, my primary source of comfort during stressful times were the ones around me, such as my family or my girlfriend. I still believe it is important to lean on others when the issues are too great to manage individually, but I also feel a bit guilty when I rely on others \"too much.\" As a result, I have adopted other practices like meditation, journaling, and practicing gratefulness to complement the support from my loved ones."
+                },
+                {
+                    "Question": "What are your thoughts on change?",
+                    "Answer": "Change is absolutely essential for growth in every area of life, but it is also important to \"not break it\" if \"it isn't broke,\" as the saying goes. Identifying the best avenues for change and focusing your efforts on those is more likely to bring success an individual and a professional than trying to build new habits and skills everywhere at once."
+                },
+                {
+                    "Question": "What are your thoughts on taking risks?",
+                    "Answer": "I already answered this question, but I think that properly assessed risks can be worth taking. Taking risks just to be \"different\" or \"innovative\" seems counter-productive."
+                },
+                {
+                    "Question": "What are your thoughts on failure?",
+                    "Answer": "As I mentioned, I think it is the best instructor. It is easy to think you understand things by hearing about them secondhand, but knowledge gained through failure is far more memorable."
+                },
+                {
+                    "Question": "How do you handle stress and pressure?",
+                    "Answer": "As I previously mentioned, while it's wrong to believe you can handle every problem yourself, and loved ones can be invaluable, using simple exercises like meditation and journaling can also ease the issue."
+                }
+            ],
+            "Output": "The candidate seems to be able to cope well under difficult circumstances and has a good attitude towards taking risks and failure. They would probably be pleasant to work with and would contribute to team success."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on taking risks?",
+                    "Answer": "Risks allow us to push our boundaries in a way that \"playing it safe\" never would. Taking the right risks and learning from failures along the way is the quickest path to growth."
+                },
+                {
+                    "Question": "Can you give me an example of a time when you took a risk?",
+                    "Answer": "I took a risk in the last semester of my graduate degree when I signed up to be the trumpet section leader in the ASU marching band while also working part-time as an intern with Garmin. I was initially concerned that I would be overwhelmed, but I wanted to see if I could pull it off. It took some adjustments and some investment in time management, but it was definitely worth the risk, and I still graduated on time with a 4.0."
+                },
+                {
+                    "Question": "What do you think are the benefits of taking risks?",
+                    "Answer": "There are many benefits to taking risks. Risks allow us to push our boundaries, discover our limits, and fail in instructive ways. We can chart new territory that will either reap great benefits or provide fuel for improvement."
+                },
+                {
+                    "Question": "What do you think are the potential drawbacks of taking risks?",
+                    "Answer": "Risks obviously have drawbacks; otherwise they'd be obvious decisions. While risk-taking can be advantageous, it is also important to take calculated risks and not fall into a mindset of being overly adventurous or a thrill-seeker. The failure itself or the allure of potentially becoming a trailblazer or trendsetter are both to be considered when taking risks."
+                },
+                {
+                    "Question": "Can you give me an example of a time when you took a risk that didn't pan out?",
+                    "Answer": "I took a risk by completing an honors contract with my Calculus II professor in my first semester of college. I ended up working with him on his research in cryptography and number theory. I implemented a simple program that attempted to follow a mathematical procedure to decrypt RSA, a very popular encryption algorithm.  While I was exposed to some interesting research areas, I feel like I contributed very little to the project and didn't learn much more than the fact that I was not interested in that kind of research."
+                },
+                {
+                    "Question": "What did you learn from that experience?",
+                    "Answer": "I learned that it would have been wise to gather more information before jumping into a new experience like that, especially since I was brand new to college in general."
+                },
+                {
+                    "Question": "How did you adjust your approach to taking risks after that experience?",
+                    "Answer": "I adjusted my approach to taking risks by more carefully assessing the pros and cons of each option before making a decision."
+                },
+                {
+                    "Question": "Can you give me another example of a time when you took a risk?",
+                    "Answer": "I took a risk by joining marching band in college. I was concerned about the time commitment and about my studies getting more difficult, but I ended up having a light semester and I was sorely missing performing with a larger ensemble. I also met plenty of great people through the experience. I am glad I risked a hectic schedule to be a part of the ASU marching band."
+                },
+                {
+                    "Question": "What do you think are the benefits of taking risks?",
+                    "Answer": "As I mentioned before, taking risks allows us to push our boundaries and discover our limits. Additionally, taking risks can lead to new opportunities and experiences that we would never have had otherwise."
+                },
+                {
+                    "Question": "What do you think are the potential drawbacks of taking risks?",
+                    "Answer": "Risks obviously present a chance of failure. Additionally, they can either cause stress or can be appealing to thrill-seekers just by the nature of being risks, which can make them more enticing than is reasonable."
+                }
+            ],
+            "Output": "The candidate appears to be someone who is willing to take risks in order to learn and grow. They have taken risks in their academic career and in their extracurricular activities. They have also learned from their experiences, which shows that they are able to take feedback and use it to improve their approach. Overall, the candidate seems like they would be pleasant to work with and would contribute to team success."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ocXCfH1icQu07uNGdUtB73V5?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Sm7uFZB3FKKlj3tB4jnVkiCz?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2J6PHDiUnihoVWhZs2ktquCX?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1BYwISj3ddMHc_JBqOUol6TkUg_EXS_ZU?usp=sharing"
+}

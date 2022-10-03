@@ -1,0 +1,148 @@
+{
+    "Contributor": "lizhuoran",
+    "Domain": "publishing",
+    "Task": "generate the comment",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert commentator. I will give you a new or event and ask some questions to collect information and then I will use the information to publish an article. news:Ukraine claims new push in Russian-held region.",
+        "task_specific_prompt": "Write an article for the news by using the question and answer above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What is the new push that Ukraine is claiming?",
+                    "Answer": "The new push that Ukraine is claiming is an attempt to retake the region of Donetsk from Russian control."
+                },
+                {
+                    "Question": "Why is this push significant?",
+                    "Answer": "This push is significant because it represents a significant escalation in the conflict between Ukraine and Russia. "
+                },
+                {
+                    "Question": "What has been the response from Russia?",
+                    "Answer": "The response from Russia has been to increase its military presence in the region and to warn Ukraine against taking any further action."
+                },
+                {
+                    "Question": "What is the current situation in the Ukrainian region that is controlled by Russia?",
+                    "Answer": "The current situation in the Ukrainian region that is controlled by Russia is one of conflict and tension. The Ukrainian government is trying to retake the region from Russian control, and the people living in the region are caught in the middle."
+                },
+                {
+                    "Question": "What are the Ukrainian government's goals in this region?",
+                    "Answer": "The Ukrainian government's goals in this region are to retake control of the region and to protect the people who live there."
+                },
+                {
+                    "Question": "How do the people living in this region feel about the Ukrainian government's actions?",
+                    "Answer": "The people living in this region are caught in the middle of the conflict and are often caught in the crossfire. They are also worried about the future of their region and their own safety."
+                },
+                {
+                    "Question": "What is the significance of this news?",
+                    "Answer": "The significance of this news is that Ukraine is claiming a new push in a Russian-held region. This could potentially mean more fighting and conflict in the region"
+                },
+                {
+                    "Question": "What does this mean for the people of Ukraine?",
+                    "Answer": "For the people of Ukraine, this could mean more unrest and conflict in their country. They may also feel like they are being pushed out of their own territory by the Russian government."
+                },
+                {
+                    "Question": "What does this mean for the people of Russia?",
+                    "Answer": " For the people of Russia, this could mean more tension and conflict with Ukraine. It could also mean that the Russian government is trying to assert its control over the region."
+                },
+                {
+                    "Question": " What is your opinion about this new?",
+                    "Answer": "  I believe that this news is significant because it represents a potential escalation in the conflict between Ukraine and Russia. This could mean more fighting and conflict in the region, which would be detrimental to the people who live there. I also believe that the Russian government is trying to assert its control over the region, which could lead to further tension and conflict with Ukraine."
+                }
+            ],
+            "Output": "The new push that Ukraine is claiming is an attempt to retake the region of Donetsk from Russian control. This is a significant escalation in the conflict between Ukraine and Russia, and the response from Russia has been to increase its military presence in the region and to warn Ukraine against taking any further action. The people living in this region are caught in the middle of the conflict, and they are worried about the future of their region and their own safety. The Ukrainian government's goals in this region are to retake control of the region and to protect the people who live there. However, the people living in this region are caught in the middle of the conflict and are often caught in the crossfire. This news is significant because it represents a potential escalation in the conflict between Ukraine and Russia. This could mean more fighting and conflict in the region, which would be detrimental to the people who live there."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What motivated the US to attack Iraq?",
+                    "Answer": "The primary motivation for the US attack on Iraq was to overthrow the government of Saddam Hussein."
+                },
+                {
+                    "Question": "What were the consequences of the US attack on Iraq",
+                    "Answer": "The consequences of the US attack on Iraq have been widespread instability and violence."
+                },
+                {
+                    "Question": "How has the US attack on Iraq affected the region?",
+                    "Answer": "The US attack on Iraq has had a profound impact on the region, causing a rise in sectarian tensions and violence."
+                },
+                {
+                    "Question": "What is the current status of Iraq?",
+                    "Answer": "The current status of Iraq is one of instability and violence."
+                },
+                {
+                    "Question": "What are the details of the US attack on Iraq?",
+                    "Answer": "On Wednesday, the United States carried out airstrikes in Iraq targeting Iranian-backed militias, killing at least 25 people and wounding 55, according to Iraqi security officials. The strikes come amid rising tensions between the US and Iran."
+                },
+                {
+                    "Question": "Who is behind the attack?",
+                    "Answer": " It is not yet clear who was behind the attack, but the US has been increasingly vocal in its criticism of Iran and its proxies in Iraq."
+                },
+                {
+                    "Question": "What do you think will be the long-term consequences of this attack?",
+                    "Answer": "It is difficult to say what the long-term consequences of the US attacking Iraq will be. It is possible that it could lead to increased instability in the region, or that it could be a catalyst for further conflict."
+                },
+                {
+                    "Question": "How do you think the Iraqi people will react to this news?",
+                    "Answer": "The Iraqi people are likely to react to this news with anger and frustration. Many will see it as another example of the US interfering in their country, and it is likely to increase anti-American sentiment."
+                },
+                {
+                    "Question": "What do you think other countries in the region will do in response to this news?",
+                    "Answer": "Other countries in the region are likely to be concerned about the implications of the US attacking Iraq. Some may see it as a threat to their own security, and it is possible that there could be an escalation of tensions in the region."
+                },
+                {
+                    "Question": "what is your opinion? ",
+                    "Answer": "I believe that the US attack on Iraq was unjustified. There were no weapons of mass destruction, and the US has not been able to establish a stable government in Iraq since toppling Saddam Hussein."
+                }
+            ],
+            "Output": "On Wednesday, the United States carried out airstrikes in Iraq targeting Iranian-backed militias, killing at least 25 people and wounding 55, according to Iraqi security officials. The strikes come amid rising tensions between the US and Iran. It is not yet clear who was behind the attack, but the US has been increasingly vocal in its criticism of Iran and its proxies in Iraq. The consequences of the US attack on Iraq have been widespread instability and violence. The US attack on Iraq has had a profound impact on the region, causing a rise in sectarian tensions and violence. The Iraqi people are likely to react to this news with anger and frustration. Many will see it as another example of the US interfering in their country, and it is likely to increase anti-American sentiment. Other countries in the region are likely to be concerned about the implications of the US attacking Iraq. Some may see it as a threat to their own security, and it is possible that there could be an escalation of tensions in the region. I believe that the US attack on Iraq was unjustified. There were no weapons of mass destruction, and the US has not been able to establish a stable government in Iraq since toppling Saddam Hussein."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the event?",
+                    "Answer": "Meta, a virtual reality startup, announced a mass layoff, affecting over half of its workforce."
+                },
+                {
+                    "Question": "What caused the event?",
+                    "Answer": "The layoff was due to the company's struggles to secure funding and generate revenue."
+                },
+                {
+                    "Question": "How did people react to the event?",
+                    "Answer": " Employees affected by the layoff were given two weeks' notice and were offered severance packages."
+                },
+                {
+                    "Question": "What were the consequences of the event?",
+                    "Answer": "The layoff will likely have a negative impact on the company's ability to develop its technology and a"
+                },
+                {
+                    "Question": "What is the Meta layoff?",
+                    "Answer": "The Meta layoff is a reduction in the workforce of the company."
+                },
+                {
+                    "Question": "What are the reasons for the Meta layoff?",
+                    "Answer": "The reasons for the Meta layoff are not yet clear, but it is thought to be due to financial difficulties."
+                },
+                {
+                    "Question": "How will the Meta layoff affect employees?",
+                    "Answer": "The Meta layoff will affect employees who will lose their jobs. "
+                },
+                {
+                    "Question": "What is the future of Meta?",
+                    "Answer": "The future of Meta is uncertain at this time."
+                },
+                {
+                    "Question": "How many employees were affected?",
+                    "Answer": "The exact number of employees affected has not been disclosed, but it is believed to be around 30."
+                },
+                {
+                    "Question": "How do the employees feel about the layoffs?",
+                    "Answer": "Employees affected by the layoffs are said to be feeling shocked and disappointed."
+                }
+            ],
+            "Output": "Meta, a virtual reality startup, has announced a mass layoff, affecting over half of its workforce. The layoff was due to the company's struggles to secure funding and generate revenue. Employees affected by the layoff were given two weeks' notice and were offered severance packages. The layoff will likely have a negative impact on the company's ability to develop its technology. The Meta layoff has come as a shock to employees, many of whom are disappointed with the company's decision. The exact number of employees affected has not been disclosed, but it is believed to be around 30. The future of Meta is uncertain at this time."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/zycSulQK3hzPQm6NbhINt67B?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1lVeqLdVFGhrLsxj7SaLqgxSRpVFBJ-oRULKi6UfqO_0/edit?usp=sharing"
+}

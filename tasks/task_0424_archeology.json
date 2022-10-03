@@ -1,0 +1,152 @@
+{
+    "Contributor": "handadivij",
+    "Domain": "Archeology",
+    "Task": "Archeology Field",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert archeologists. I will ask some questions to collect information and then I will use the information to tell you which branch of archeology is most suited for you.",
+        "task_specific_prompt": "Write a report on which field of archeology is most suited for me using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you like to spend your time?",
+                    "Answer": "Working with my hands, in the great outdoors, and interacting with people."
+                },
+                {
+                    "Question": "What kind of work do you see yourself doing?",
+                    "Answer": "I see myself doing work that is active, where I can be outdoors, and that involves working with people."
+                },
+                {
+                    "Question": "What are you interested in?",
+                    "Answer": "I am interested in history, cultures, and people."
+                },
+                {
+                    "Question": "What kind of environment do you feel most comfortable in?",
+                    "Answer": "I feel most comfortable in an outdoor environment."
+                },
+                {
+                    "Question": "What are your strengths?",
+                    "Answer": "I am good at problem solving, I have a lot of energy, and I am a quick learner."
+                },
+                {
+                    "Question": "What are your weaknesses?",
+                    "Answer": "I can be impatient, I sometimes have difficulty sitting still for long periods of time, and I can be impulsive."
+                },
+                {
+                    "Question": "What do you think are the most important skills for an archeologist?",
+                    "Answer": "The most important skills for an archeologist are problem solving, critical thinking, and the ability to pay attention to detail."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for an archeologist?",
+                    "Answer": "The most important qualities for an archeologist are curiosity, perseverance, and the ability to think creatively."
+                },
+                {
+                    "Question": "What do you think are the most important values for an archeologist?",
+                    "Answer": "The most important values for an archeologist are honesty, integrity, and respect for other cultures."
+                },
+                {
+                    "Question": "What do you think are the most important goals for an archeologist?",
+                    "Answer": "The most important goals for an archeologist are to learn about the past, to contribute to our understanding of the present, and to preserve our heritage for the future."
+                }
+            ],
+            "Output": "The field of archeology that is most suited for you is historical archeology. This type of archeology focuses on the study of history and cultures. It is a field that is active, where you can be outdoors, and that involves working with people. You will use your problem solving skills, your critical thinking skills, and your attention to detail to learn about the past and contribute to our understanding of the present."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Divij."
+                },
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have a degree in Anthropology from UCLA."
+                },
+                {
+                    "Question": "What is your experience in archeology?",
+                    "Answer": "I have worked as an intern at an archeological site in Greece and I have also volunteered at an archeological site in Mexico."
+                },
+                {
+                    "Question": "What are your interests in archeology?",
+                    "Answer": "I am interested in learning about different cultures and how they lived."
+                },
+                {
+                    "Question": "What are your goals for your career in archeology?",
+                    "Answer": "I hope to one day work as a full-time archeologist."
+                },
+                {
+                    "Question": "What are your skills in archeology?",
+                    "Answer": "I have good computer skills."
+                },
+                {
+                    "Question": "What are your weaknesses in archeology?",
+                    "Answer": "I am not very physically fit."
+                },
+                {
+                    "Question": "What are your available resources for your career in archeology?",
+                    "Answer": "I have a laptop and a printer."
+                },
+                {
+                    "Question": "What are your restrictions for your career in archeology?",
+                    "Answer": "I am not able to travel to places that are too remote."
+                },
+                {
+                    "Question": "What are your thoughts on working in a team environment?",
+                    "Answer": "I am open to working in a team environment."
+                }
+            ],
+            "Output": "Based on the information provided, it seems that the field of archeology that is most suited for Divij is cultural anthropology. This is because Divij is interested in learning about different cultures and how they lived, and has experience working at an archeological site in Greece. Additionally, cultural anthropology typically does not require physically demanding work, which is a weakness of Divij."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in dinosaurs."
+                },
+                {
+                    "Question": "What are your qualifications?",
+                    "Answer": "I have a degree in paleontology."
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "I would like to study dinosaurs and their environment in order to learn more about their ecology and evolution."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "I am good at digging and I have a lot of patience."
+                },
+                {
+                    "Question": "What are your available resources?",
+                    "Answer": "I have a lot of time and I am willing to travel."
+                },
+                {
+                    "Question": "What are your limitations?",
+                    "Answer": "I do not have a lot of money."
+                },
+                {
+                    "Question": "What are your preferred working conditions?",
+                    "Answer": "I would like to work in a team and I am comfortable with working outdoors."
+                },
+                {
+                    "Question": "What are your preferred research methods?",
+                    "Answer": "I would like to use a combination of fieldwork and laboratory analysis."
+                },
+                {
+                    "Question": "What are your preferred research topics?",
+                    "Answer": "I am interested in dinosaurs and their environment."
+                },
+                {
+                    "Question": "What are your preferred geographical areas?",
+                    "Answer": "India"
+                }
+            ],
+            "Output": "Paleontology is the most suited field of archeology for the individual based on the information provided. The individual has a degree in paleontology, is interested in dinosaurs and their environment, and would like to use a combination of fieldwork and laboratory analysis in their research. India is also a preferred geographical area, making paleontology a good fit."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/WZ5RJ9H5VPF5AmwWszblAfTG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/KCeTFy7ZVOwj5zhLQyS2POFl?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/bWA1iQYByDWjd7wzVsQ40Ak6?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1sXTNJQM_rXOMsGcs2HiVNNMHlqzJAr2x?usp=sharing"
+}

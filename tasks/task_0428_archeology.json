@@ -1,0 +1,152 @@
+{
+    "Contributor": "handadivij",
+    "Domain": "Archeology",
+    "Task": "Archaeologist Advertisement",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert manager with experience advertisement with archeologists. I will ask some questions to collect information and then I will use the information to design an advertisement for you.",
+        "task_specific_prompt": "Write an advertisement using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your product or service?",
+                    "Answer": "Our product is a new software that helps archeologists catalog and manage their data."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "Our target audience is archeologists who are looking for a better way to catalog and manage their data."
+                },
+                {
+                    "Question": "What are the benefits of your product or service?",
+                    "Answer": "Our product helps archeologists save time and be more organized. It is easy to use and helps them keep track of their data."
+                },
+                {
+                    "Question": "What is your unique selling proposition?",
+                    "Answer": "Our product is the only software that is specifically designed for archeologists. It is easy to use and helps them save time and be more organized."
+                },
+                {
+                    "Question": "What are your product or service features?",
+                    "Answer": "Our product helps archeologists catalog and manage their data. It is easy to use and helps them keep track of their data."
+                },
+                {
+                    "Question": "Why should your target audience buy your product or service?",
+                    "Answer": "Our product is the only software that is specifically designed for archeologists. It is easy to use and helps them save time and be more organized."
+                },
+                {
+                    "Question": "What kind of advertisement do you want?",
+                    "Answer": "We would like an advertisement that is specifically targeted to archeologists."
+                },
+                {
+                    "Question": "What is your budget for advertising?",
+                    "Answer": "Our budget for advertising is $500."
+                },
+                {
+                    "Question": "When do you want your advertisement to run?",
+                    "Answer": "We would like our advertisement to run for two weeks, starting on Monday."
+                },
+                {
+                    "Question": "Where do you want your advertisement to run?",
+                    "Answer": "We would like our advertisement to run in the Archeology Today magazine."
+                }
+            ],
+            "Output": "Looking for a better way to catalog and manage your data? Look no further than our new software designed specifically for archeologists. Our easy-to-use software will help you save time and be more organized."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business's core values?",
+                    "Answer": "We pride ourselves on being honest, hardworking, and dedicated to our clients. We work closely with our clients to ensure that their needs are met and that they are happy with our work."
+                },
+                {
+                    "Question": "What is your target market?",
+                    "Answer": "Our target market is people who are interested in history and archaeology. We want to reach people who are looking for a company that they can trust to provide quality services."
+                },
+                {
+                    "Question": "What are your unique selling points?",
+                    "Answer": "We are one of the only companies that offer this type of service in the area. We have a lot of experience and we are very dedicated to our work."
+                },
+                {
+                    "Question": "What type of advertising are you interested in?",
+                    "Answer": "We are interested in any type of advertising that will reach our target market. We are willing to try new things and we are open to suggestions."
+                },
+                {
+                    "Question": "What is your budget for advertising?",
+                    "Answer": "We have a limited budget for advertising, but we are willing to spend what is necessary to reach our target market."
+                },
+                {
+                    "Question": "What are your goals for this advertising campaign?",
+                    "Answer": "Our goal is to reach our target market and to promote our business. We want people to know that we are a reliable and trustworthy company."
+                },
+                {
+                    "Question": "What call to action do you want your advertising to have?",
+                    "Answer": "We want people to call us or visit our website to learn more about our company."
+                },
+                {
+                    "Question": "Do you have any additional information that you would like to share?",
+                    "Answer": "We are a family-owned business and we have been in business for over 20 years. We are the only company in the area that offers this type of service."
+                },
+                {
+                    "Question": "Do you have any existing marketing materials?",
+                    "Answer": "Yes, we have a website and we also have some brochures and business cards."
+                },
+                {
+                    "Question": "What is your company's name?",
+                    "Answer": "Our company's name is ABC Archaeology."
+                }
+            ],
+            "Output": "Looking for a reliable and trustworthy archaeology company? Look no further than ABC Archaeology! We are a family-owned business with over 20 years of experience. We offer a unique service that is perfect for history buffs and we are dedicated to our work. Call us or visit our website to learn more!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you hope to accomplish with your advertisement?",
+                    "Answer": "I hope to increase awareness of my archeology business and attract new customers."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "My target audience is anyone who is interested in history or archaeology."
+                },
+                {
+                    "Question": "What are some key points you would like to include in your advertisement?",
+                    "Answer": "I would like to include information about my experience, my services, and my rates."
+                },
+                {
+                    "Question": "What type of tone would you like your advertisement to have?",
+                    "Answer": "I would like my advertisement to be professional and informative."
+                },
+                {
+                    "Question": "Are there any specific images or colors you would like to include?",
+                    "Answer": "I would like to include an image of an archaeological site or artifacts."
+                },
+                {
+                    "Question": "When do you need your advertisement?",
+                    "Answer": "I need my advertisement as soon as possible."
+                },
+                {
+                    "Question": "What is your budget for this project?",
+                    "Answer": "My budget for this project is $500."
+                },
+                {
+                    "Question": "Do you have any other instructions or information?",
+                    "Answer": "No, thank you."
+                },
+                {
+                    "Question": "Would you like to see some examples of my work before deciding to hire me?",
+                    "Answer": "Yes, that would be helpful."
+                },
+                {
+                    "Question": "Do you have a preferred format for the advertisement?",
+                    "Answer": "I would like the advertisement to be a print ad in a local newspaper."
+                }
+            ],
+            "Output": "Looking for a qualified and experienced archaeologist? Look no further than me! I have over 10 years of experience in the field and can provide a variety of services, from excavation to artifact restoration. My rates are competitive, and I am committed to providing the best possible service to my clients. Contact me today to learn more!"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/DvRwpuIeEVGMO6yOVvGRqqV2?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZFqaUMr7cf3h2071GHpEbVht?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Ll8bJZdXjThGpPfjxEa1snm0?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1QhcFDU1ur9ZmeT0I5mbiGRB-D0uq-Jrp?usp=sharing"
+}

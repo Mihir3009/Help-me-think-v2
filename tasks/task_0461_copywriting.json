@@ -1,0 +1,156 @@
+{
+    "Contributor": "kumarabhinav",
+    "Domain": "Copywriting",
+    "Task": "Report Creation ",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in copywriting. I will ask some questions to collect information and then I will use the information to prepare report .",
+        "task_specific_prompt": "Write a detailed report based on questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": " What is the purpose of the report? ",
+                    "Answer": " The purpose of the report is to write about the recent fire accident that occurred in one of the factories ."
+                },
+                {
+                    "Question": " Who is the target audience of the report? ",
+                    "Answer": " The target audience of the report is the upper management."
+                },
+                {
+                    "Question": " What are the main points that you want to communicate in the report? ",
+                    "Answer": " The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents."
+                },
+                {
+                    "Question": " What is the tone of the report? ",
+                    "Answer": " The tone of the report is objective and factual."
+                },
+                {
+                    "Question": " What is the structure of the report? ",
+                    "Answer": " The structure of the report is as follows: Introduction Body Conclusion."
+                },
+                {
+                    "Question": " What are the main sources of information for the report? ",
+                    "Answer": " The main sources of information for the report are the interviews with the workers, the management and the safety inspector."
+                },
+                {
+                    "Question": " What are the limitations of the report? ",
+                    "Answer": " The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations."
+                },
+                {
+                    "Question": " What are the recommendations of the report? ",
+                    "Answer": " The recommendations of the report are as follows: 1- Improve the safety procedures in the factory - 2- Provide more training to the workers on safety procedures- 3- Conduct regular safety audits in the factory."
+                },
+                {
+                    "Question": " What is the expected length of the report? ",
+                    "Answer": " The expected length of the report is 200 words."
+                },
+                {
+                    "Question": " When is the report due? ",
+                    "Answer": " The report is due on Monday."
+                }
+            ],
+            "Output": "Introduction On Monday, a fire accident occurred in one of the factories. The purpose of this report is to write about the recent fire accident and to make recommendations to prevent future accidents. The target audience of this report is the upper management. The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents. The tone of the report is objective and factual. The structure of the report is as follows: Introduction Body Conclusion The main sources of information for this report are the interviews with the workers, the management and the safety inspector. The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations. The recommendations of the report are as follows: 1. Improve the safety procedures in the factory. 2. Provide more training to the workers on safety procedures. 3. Conduct regular safety audits in the factory. The expected length of the report is 200 words."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What is the main purpose of the report? ",
+                    "Answer": " To provide a detailed information about an accident."
+                },
+                {
+                    "Question": " What type of accident is it? ",
+                    "Answer": " It is a car accident."
+                },
+                {
+                    "Question": " When and where did it happen? ",
+                    "Answer": " It happened on May 5th, 2020 at 3:00pm on the I-5 freeway."
+                },
+                {
+                    "Question": " Who was involved in the accident? ",
+                    "Answer": " There were two cars involved in the accident- The first car was a black Honda Civic and the second car was a white Toyota Camry."
+                },
+                {
+                    "Question": " What caused the accident? ",
+                    "Answer": " The cause of the accident is still under investigation."
+                },
+                {
+                    "Question": " What are the damages? ",
+                    "Answer": " The damages are still unknown."
+                },
+                {
+                    "Question": " Were there any injuries? ",
+                    "Answer": " There were no injuries reported."
+                },
+                {
+                    "Question": " Is the road blocked? ",
+                    "Answer": " The road is not blocked."
+                },
+                {
+                    "Question": " Who is the insurance company? ",
+                    "Answer": " The insurance company is still unknown."
+                },
+                {
+                    "Question": " What is the policy number? ",
+                    "Answer": " The policy number is still unknown."
+                },
+                {
+                    "Question": " What is the claim number? ",
+                    "Answer": " The claim number is still unknown."
+                },
+                {
+                    "Question": " Is there a police report? ",
+                    "Answer": " Yes, there is a police report."
+                }
+            ],
+            "Output": "On May 5th, 2020, at 3:00pm, there was a car accident on the I-5 freeway. The accident involved two cars, a black Honda Civic and a white Toyota Camry. The cause of the accident is still under investigation. The damages are unknown at this time. There were no reported injuries and the road is not blocked. The insurance company is unknown at this time. The policy number and claim number are also unknown. There is a police report. "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What would you like me to write about? ",
+                    "Answer": " I would like to write a report about GPT-3 and its success."
+                },
+                {
+                    "Question": " What are your thoughts on GPT-3? ",
+                    "Answer": " I believe that GPT-3 is a great tool for copywriters- It allows you to create high quality content very quickly and easily."
+                },
+                {
+                    "Question": " What do you think are the benefits of using GPT-3? ",
+                    "Answer": " The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content."
+                },
+                {
+                    "Question": " Do you have any examples of reports or articles that you have written using GPT-3? ",
+                    "Answer": " Yes, I have written several reports and articles using GPT-3."
+                },
+                {
+                    "Question": " What do you think sets GPT-3 apart from other writing tools? ",
+                    "Answer": " I believe that GPT-3 is the best writing tool available because it is very fast and easy to use, and it produces high quality content."
+                },
+                {
+                    "Question": " Do you have any tips on how to get the most out of GPT-3? ",
+                    "Answer": " Yes, I have a few tips on how to get the most out of GPT-3- 1- Make sure to give GPT-3 clear and concise instructions- 2- Make sure to proofread your content before publishing it- 3- Use GPT-3 to create a first draft, and then edit and revise the draft yourself."
+                },
+                {
+                    "Question": " Do you think GPT-3 will become the standard writing tool for copywriters? ",
+                    "Answer": " I believe that GPT-3 will become the standard writing tool for copywriters because it is very fast and easy to use, and it produces high quality content."
+                },
+                {
+                    "Question": " Do you have any other thoughts on GPT-3? ",
+                    "Answer": " I believe GPT-3 needs to improve."
+                },
+                {
+                    "Question": " What do you think GPT-3 needs to improve? ",
+                    "Answer": " I believe that GPT-3 needs to improve its grammar and spelling checking features."
+                },
+                {
+                    "Question": " Do you think GPT-3 is a good writing tool? ",
+                    "Answer": " Yes, I believe that GPT-3 is a good writing tool."
+                }
+            ],
+            "Output": "GPT-3 is a great tool for copywriters. It is very fast and easy to use, and it produces high quality content. The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content. I have written several reports and articles using GPT-3, and I believe that it is the best writing tool available. A few tips on how to get the most out of GPT-3 include giving it clear and concise instructions, proofreading your content before publishing it, and using GPT-3 to create a first draft before editing and revising it yourself. I believe that GPT-3 will become the standard writing tool for copywriters."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/qKUp9ibKzfGedpYbjBJyMXyQ?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask6"
+}

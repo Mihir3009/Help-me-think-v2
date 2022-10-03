@@ -1,0 +1,148 @@
+{
+    "Contributor": "kalvakolanusaikousthubhadas",
+    "Domain": "Instructional Design",
+    "Task": "Course Title Generator",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert instructional designer. I will ask some questions to collect information and then I will use the information to suggest a title for the course.",
+        "task_specific_prompt": "Write a title for the course using the questions and answers above. The title cannot be longer than 5 words."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the focus of the course?",
+                    "Answer": "Provide students the skill of web designing."
+                },
+                {
+                    "Question": "What is the level of the course?",
+                    "Answer": "Preliminary"
+                },
+                {
+                    "Question": "What are the goals of the course?",
+                    "Answer": "To equip students with web development skills and make them capable of taking up web development tasks."
+                },
+                {
+                    "Question": "What is the format of the course?",
+                    "Answer": "The course will be conducted in-person."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "The course is 8 weeks long."
+                },
+                {
+                    "Question": "What is the schedule of the course?",
+                    "Answer": "The course is provided as a 2 hour class on every Tuesday."
+                },
+                {
+                    "Question": "What is the size of the class?",
+                    "Answer": "Size of the class is 50 students."
+                },
+                {
+                    "Question": "What is the age group of the students?",
+                    "Answer": "Students are between 18 to 45 years old."
+                },
+                {
+                    "Question": "What is the gender mix of the students?",
+                    "Answer": "Both male & female students can take this class."
+                },
+                {
+                    "Question": "What are the qualifications of the students?",
+                    "Answer": "Students should have a basic understanding of how the web works."
+                }
+            ],
+            "Output": "Web Designing Skills"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the focus of the course?",
+                    "Answer": "Help students improve communication skills."
+                },
+                {
+                    "Question": "What is the level of the course?",
+                    "Answer": "Elementary"
+                },
+                {
+                    "Question": "What are the goals of the course?",
+                    "Answer": "To find areas where students are struggling to communicate properly and help them improve in those areas."
+                },
+                {
+                    "Question": "What is the format of the course?",
+                    "Answer": "The course will be conducted in-person."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "The course is 12 weeks long."
+                },
+                {
+                    "Question": "What is the schedule of the course?",
+                    "Answer": "The course is provided as a 1 hour class on every Monday & Tuesday."
+                },
+                {
+                    "Question": "What is the size of the class?",
+                    "Answer": "Size of the class is 20 students."
+                },
+                {
+                    "Question": "What is the age group of the students?",
+                    "Answer": "Students are between 12 to 40 years old."
+                },
+                {
+                    "Question": "What is the gender mix of the students?",
+                    "Answer": "Both male & female students can take this class."
+                },
+                {
+                    "Question": "What are the qualifications of the students?",
+                    "Answer": "No prior knowledge required for this course."
+                }
+            ],
+            "Output": "Communication Skills Improvement Course"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the focus of the course?",
+                    "Answer": "Teach advanced accounting methods"
+                },
+                {
+                    "Question": "What is the level of the course?",
+                    "Answer": "Expert"
+                },
+                {
+                    "Question": "What are the goals of the course?",
+                    "Answer": "To help students understand mechanisms which help create a smooth accounting system in large corporations."
+                },
+                {
+                    "Question": "What is the format of the course?",
+                    "Answer": "The course will be conducted online over zoom."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "The course is 6 weeks long."
+                },
+                {
+                    "Question": "What is the schedule of the course?",
+                    "Answer": "The course is provided as a 4 hour class on every Friday with a 15 min break after 2 hours."
+                },
+                {
+                    "Question": "What is the size of the class?",
+                    "Answer": "Size of the class is 25 students."
+                },
+                {
+                    "Question": "What is the age group of the students?",
+                    "Answer": "Students are between 25 to 50 years old."
+                },
+                {
+                    "Question": "What is the gender mix of the students?",
+                    "Answer": "Both male & female students can take this class."
+                },
+                {
+                    "Question": "What are the qualifications of the students?",
+                    "Answer": "Students should have a solid foundation in accounting and finance management concepts."
+                }
+            ],
+            "Output": "Advanced Accounting Methods"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/Zx8uPe5RVASosHp0qhlyc9LK?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1jJ3FJJKDu03io1D_HsqAbHxa-qDwOeGj/view?usp=sharing"
+}

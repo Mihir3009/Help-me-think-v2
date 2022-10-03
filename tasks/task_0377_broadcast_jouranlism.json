@@ -1,0 +1,149 @@
+{
+    "Contributor": "khajuriabrijbhushan",
+    "Domain": "Broadcast Jouranlism",
+    "Task": "10-word News Headlines Generation",
+    "Prompt": {
+        "pre_question_prompt": "I am a News Channel Editor. I will ask 10 questions to a news correspondent in $name-of-place$ regarding $topic$.",
+        "intermediate_prompt": "I am the news correspondent. I will answer above questions in detail.",
+        "task_specific_prompt": "Create 5 news headlines of not more than 10 words for above answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the cause of the fire?",
+                    "Answer": "1. The cause of the fire is still unknown and is under investigation."
+                },
+                {
+                    "Question": " 2. How many acres have been burned?",
+                    "Answer": " 2. The fire has burned through 8,000 acres. "
+                },
+                {
+                    "Question": " 3. How many homes have been evacuated?",
+                    "Answer": "3. 500 homes have been evacuated and 2,000 people have been displaced."
+                },
+                {
+                    "Question": " 4. How many firefighters are on the scene?",
+                    "Answer": " 4. There are 500 firefighters on the scene. "
+                },
+                {
+                    "Question": " 5. What is the status of the fire?",
+                    "Answer": "5. The fire is 10% contained. "
+                },
+                {
+                    "Question": " 6. What is the forecast for the next few days?",
+                    "Answer": "6. The forecast for the next few days includes high winds which could potentially spread the fire."
+                },
+                {
+                    "Question": " 7. What is the air quality like in the area?",
+                    "Answer": " 7. The air quality in the area is poor and people are being advised to stay indoors. "
+                },
+                {
+                    "Question": " 8. What is the biggest challenge firefighters are facing?",
+                    "Answer": "8. The biggest challenge firefighters are facing is the terrain. "
+                },
+                {
+                    "Question": " 9. How can people help?",
+                    "Answer": "9. People can help by donating to the American Red Cross or donating supplies."
+                },
+                {
+                    "Question": " 10. Is there anything else we should know?",
+                    "Answer": " 10. There are currently no injuries or fatalities reported."
+                }
+            ],
+            "Output": "1. Wildfire in Arizona continues to spread\n2. 500 homes evacuated, 2,000 people displaced\n3. 500 firefighters on the scene\n4. High winds could potentially spread the fire\n5. Air quality in the area is poor"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. When do the Olympics take place?",
+                    "Answer": "1. The Olympics will take place in July and August of 2022."
+                },
+                {
+                    "Question": "2. How many athletes are expected to participate?",
+                    "Answer": "2. Approximately 11,000 athletes are expected to participate."
+                },
+                {
+                    "Question": "3. What is the cost of hosting the Olympics?",
+                    "Answer": "3. The cost of hosting the Olympics is estimated to be around $12 billion."
+                },
+                {
+                    "Question": "4. How many events are there?",
+                    "Answer": "4. There are a total of 34 events."
+                },
+                {
+                    "Question": "5. What is the opening ceremony like?",
+                    "Answer": "5. The opening ceremony is typically a grand affair, with a parade of nations and a ceremonial lighting of the Olympic flame."
+                },
+                {
+                    "Question": "6. What are the venues like?",
+                    "Answer": "6. The venues are typically large stadiums that can accommodate a lot of people."
+                },
+                {
+                    "Question": "7. What is the food like?",
+                    "Answer": "7. The food is typically healthy and nutritious, with a variety of options for athletes."
+                },
+                {
+                    "Question": "8. What is the transportation like?",
+                    "Answer": "8. The transportation is typically efficient, with a variety of options for athletes."
+                },
+                {
+                    "Question": "9. What is the weather like?",
+                    "Answer": "9. The weather is typically mild, with a chance of occasional showers."
+                },
+                {
+                    "Question": "10. What is the security like?",
+                    "Answer": "10. The security is typically tight, with a heavy police presence."
+                }
+            ],
+            "Output": "1. Tokyo to host Olympics in 2022.\n2. 11,000 athletes to participate in Olympics.\n3. Cost of hosting Olympics estimated at $12 billion.\n4. 34 events to be held at Olympics.\n5. Opening ceremony of Olympics to be held in July."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the latest number of confirmed cases of the coronavirus in Florida?",
+                    "Answer": "1. As of today, the Florida Department of Health has reported a total of 2,766 cases of the coronavirus in the state."
+                },
+                {
+                    "Question": "2. What is the latest number of fatalities in Florida attributed to the coronavirus?",
+                    "Answer": "2. The state of Florida has reported a total of 38 fatalities attributed to the coronavirus."
+                },
+                {
+                    "Question": "3. What are the most recent numbers for hospitalizations and intensive care unit (ICU) admissions in Florida due to the coronavirus?",
+                    "Answer": "3. The most recent numbers for hospitalizations in Florida due to the coronavirus are 1,416, with 633 patients in the ICU."
+                },
+                {
+                    "Question": "4. What is the current status of testing for the coronavirus in Florida?",
+                    "Answer": "4. The current status of testing for the coronavirus in Florida is that there are a limited number of tests available and priority is being given to those who are sick and/or have been exposed to the virus."
+                },
+                {
+                    "Question": "5. What restrictions are currently in place in Florida to help prevent the spread of the coronavirus?",
+                    "Answer": "5. The restrictions currently in place in Florida to help prevent the spread of the coronavirus include a statewide order for all residents to stay at home except for essential activities, a closure of all non-essential businesses, and a limit on gatherings of more than 10 people."
+                },
+                {
+                    "Question": "6. What advice is being given to Florida residents regarding the coronavirus?",
+                    "Answer": "6. The advice being given to Florida residents regarding the coronavirus is to practice social distancing, wash your hands often, and avoid touching your face."
+                },
+                {
+                    "Question": "7. What is the current status of schools and educational institutions in Florida in relation to the coronavirus?",
+                    "Answer": "7. The current status of schools and educational institutions in Florida in relation to the coronavirus is that all schools are closed until at least April 15th."
+                },
+                {
+                    "Question": "8. Are there any specific areas of Florida that are being advised to take extra precautions due to the coronavirus?",
+                    "Answer": "8. There are no specific areas of Florida that are being advised to take extra precautions due to the coronavirus at this time."
+                },
+                {
+                    "Question": "9. What is the current status of travel to and from Florida in relation to the coronavirus?",
+                    "Answer": "9. The current status of travel to and from Florida in relation to the coronavirus is that all non-essential travel is discouraged."
+                },
+                {
+                    "Question": "10. Are there any other notable developments or information regarding the coronavirus situation in Florida that we should be aware of?",
+                    "Answer": "10. The only other notable development regarding the coronavirus situation in Florida at this time is that the state is working on setting up drive-thru testing sites."
+                }
+            ],
+            "Output": "1. Florida reports 2,766 cases of coronavirus\n2. 38 fatalities attributed to coronavirus in Florida\n3. 1,416 hospitalizations, 633 in ICU due to coronavirus\n4. Statewide order for residents to stay at home\n5. Schools closed until at least April 15th"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/DqtCT08wqmQSUMpXmMS9cYKS?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1WbpxiUtU7ExKkR4LpE1RZJfuFAQzpqKt?usp=sharing"
+}

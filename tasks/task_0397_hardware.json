@@ -1,0 +1,148 @@
+{
+    "Contributor": "leealex",
+    "Domain": "Hardware",
+    "Task": "Mechanical Keyboard Recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in recommending custom mechanical keyboards. I will ask some questions to collect information and then I will use the information to recommend a custom mechanical keyboard.",
+        "task_specific_prompt": "Write a mechanical keyboard recommendation using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "60%"
+                },
+                {
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Tactile switches."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$100"
+                },
+                {
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wireless."
+                },
+                {
+                    "Question": "Do you want it to be ergonomic?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "black, white and orange."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Would you like RGB Lighting?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do you have a preferred brand?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "We recommend the Durgod Taurus K320 TKL Mechanical Keyboard. It has a minimalistic design with a black, white and orange color scheme. It has tactile switches and is hot-swappable. It is also compatible with Windows operating systems."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "TKL."
+                },
+                {
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Tactile switches."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$200"
+                },
+                {
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wired."
+                },
+                {
+                    "Question": "Do you want it to be ergonomic?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "white and pink."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Would you like RGB Lighting?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do you have a preferred brand?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "We recommend the Ducky One 2 TKL with Cherry MX Brown switches. It is a wired keyboard with hot-swapping capabilities, and it has a white and pink color scheme. It is compatible with Windows operating systems."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "96%."
+                },
+                {
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Optical switches."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$500"
+                },
+                {
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wired."
+                },
+                {
+                    "Question": "Do you want it to be ergonomic?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "blue and green."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Would you like RGB Lighting?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Do you have a preferred brand?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "We recommend the Ducky x Varmilo MIYA Pro Panda for 96% custom mechanical keyboard with optical switches. It is a wired keyboard that does not need to be hot-swapping. It is compatible with Windows and has RGB lighting."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/qbBOplR4Td33e9uGcKZ5bnZ1?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ny_Qnhjmw2a9lfO5KD4v_WnrApT0ImUb?usp=sharing"
+}

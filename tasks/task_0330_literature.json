@@ -1,0 +1,164 @@
+{
+    "Contributor": "kannanmohithjothi",
+    "Domain": "Literature",
+    "Task": "Story Generator",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert story writer. I will ask some questions to collect information and then I will use the information to write you a story.",
+        "task_specific_prompt": "Generate a story using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "A young woman who is struggling to make ends meet and is desperate to find a better paying job. She comes across an ad for a job that seems too good to be true. It turns out, the job is a bit shady and she is soon caught up in a world of crime."
+                },
+                {
+                    "Question": "What is the young woman's name?",
+                    "Answer": "The young woman's name is Sarah."
+                },
+                {
+                    "Question": "What type of crimes is she caught up in?",
+                    "Answer": "Sarah is caught up in a world of drug trafficking and money laundering."
+                },
+                {
+                    "Question": "How does she get out of this life of crime?",
+                    "Answer": "Sarah is able to get out of this life of crime with the help of a friend."
+                },
+                {
+                    "Question": "What does she do after she gets out?",
+                    "Answer": "Sarah decides to start a new life and leaves her old life behind."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "The moral of the story is that it is never too late to start over."
+                },
+                {
+                    "Question": "Which country do you want the story to be set in?",
+                    "Answer": "United Kingdom"
+                },
+                {
+                    "Question": "Do you want the story to have a happy ending?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you want Sarah to get caught by the police?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you want Sarah to go to jail?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you want Sarah to get out of jail?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you want Sarah to be able to start a new life?",
+                    "Answer": "Yes"
+                }
+            ],
+            "Output": "Sarah was desperate to find a better paying job. She came across an ad for a job that seemed too good to be true. It turned out, the job was a bit shady and she is soon caught up in a world of crime. Sarah is caught up in a world of drug trafficking and money laundering. Sarah is able to get out of this life of crime with the help of a friend. Sarah decides to start a new life and leaves her old life behind. The moral of the story is that it is never too late to start over."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story about a girl who recently broke up."
+                },
+                {
+                    "Question": "What is the girl's name?",
+                    "Answer": "The girl's name is Haley."
+                },
+                {
+                    "Question": "What does Haley look like?",
+                    "Answer": "Haley is a tall, thin girl with long, blonde hair. She has blue eyes and a pretty face."
+                },
+                {
+                    "Question": "What does Haley do for a living?",
+                    "Answer": "Haley is a writer. She writes articles for a living."
+                },
+                {
+                    "Question": "What happened to Haley's relationship?",
+                    "Answer": "Haley's relationship ended because her boyfriend cheated on her."
+                },
+                {
+                    "Question": "How did Haley find out?",
+                    "Answer": "Haley found out because she saw her boyfriend kissing another girl."
+                },
+                {
+                    "Question": "How did Haley feel when she saw her boyfriend kissing another girl?",
+                    "Answer": "Haley felt heartbroken and betrayed when she saw her boyfriend kissing another girl."
+                },
+                {
+                    "Question": "What did Haley do after she saw her boyfriend kissing another girl?",
+                    "Answer": "Haley confront her boyfriend and they had a big argument. After the argument, Haley broke up with her boyfriend."
+                },
+                {
+                    "Question": "Where does Haley live?",
+                    "Answer": "Haley lives in a small apartment in the city."
+                },
+                {
+                    "Question": "What does Haley do after she breaks up with her boyfriend?",
+                    "Answer": "After Haley breaks up with her boyfriend, she decides to move out of her apartment and into a new one. She also decides to change her job and start fresh."
+                }
+            ],
+            "Output": "Haley was having a tough time. She had just gone through a break up and it was really hard for her. Haley is a tall, thin girl with long, blonde hair. She has blue eyes and a pretty face. Haley is a writer. She writes articles for a living. Haley's relationship ended because her boyfriend cheated on her. Haley found out because she saw her boyfriend kissing another girl. Haley felt heartbroken and betrayed when she saw her boyfriend kissing another girl. Haley confront her boyfriend and they had a big argument. After the argument, Haley broke up with her boyfriend. Haley lives in a small apartment in the city. After Haley breaks up with her boyfriend, she decides to move out of her apartment and into a new one. She also decides to change her job and start fresh."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story about a boy in love."
+                },
+                {
+                    "Question": "What is the boy's name?",
+                    "Answer": "The boy's name is Phil."
+                },
+                {
+                    "Question": "Who does Phil love?",
+                    "Answer": "Phil loves a girl named Emily."
+                },
+                {
+                    "Question": "How does Phil feel about Emily?",
+                    "Answer": "Phil is head-over-heels in love with Emily."
+                },
+                {
+                    "Question": "What does Phil do to try and win Emily's love?",
+                    "Answer": "Phil does everything he can think of to try and win Emily's love. He writes her love letters, buys her flowers, and even sings to her outside her window."
+                },
+                {
+                    "Question": "Does Emily love Phil back?",
+                    "Answer": "Emily loves Phil back just as much as he loves her."
+                },
+                {
+                    "Question": "Did Phil ask Emily out?",
+                    "Answer": "Yes, Phil asked Emily out on a date and she said yes."
+                },
+                {
+                    "Question": "Where did Phil and Emily go on their date?",
+                    "Answer": "Phil and Emily went to the movies and then out for ice cream afterwards."
+                },
+                {
+                    "Question": "What happened on the date?",
+                    "Answer": "The date was perfect. Phil and Emily laughed and talked the whole time. They even shared a kiss at the end of the night. "
+                },
+                {
+                    "Question": "Are Phil and Emily still together?",
+                    "Answer": "Yes, Phil and Emily are still together. They are happier than ever and their love for each other just keeps getting stronger."
+                }
+            ],
+            "Output": "Phil and Emily's love story started out like something straight out of a movie. Phil was head-over-heels in love with Emily and he did everything he could think of to try and win her love. He wrote her love letters, bought her flowers, and even sang to her outside her window. Emily loved Phil back just as much as he loved her and when he finally asked her out on a date, she said yes. Phil and Emily went to the movies and then out for ice cream afterwards. The date was perfect. Phil and Emily laughed and talked the whole time. They even shared a kiss at the end of the night. Phil and Emily are still together and they are happier than ever. Their love for each other just keeps getting stronger."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/pRr31D85gljz6q07rkqeYkpP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3mJAloRL3uzDdH9rGKtioUzn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/How53pIsOIrVA6PpbuxFtoY4?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1mTOqIOAV4nbiOAU8bWkECqote8LLn_wA/view?usp=sharing",
+        "https://drive.google.com/file/d/1ifDq6Fm11Zm6gJXCZm9fMzYgcHom98GY/view?usp=sharing",
+        "https://drive.google.com/file/d/1HvPjUZMfUjexWMXa5loqKmsL8QOmSih7/view?usp=sharing"
+    ]
+}

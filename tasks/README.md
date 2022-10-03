@@ -300,3 +300,140 @@ File Name | Domain | Task
 `task_0312_swimming.json` | Swimming | Give people swimming training suggestion based on personal needs
 `task_0313_swimming.json` | Swimming | Encouraging people to swim
 `task_0314_swimming.json` | Swimming | Write an advertising word for a swimming competition
+`task_0315_instructional_design.json` | Instructional Design | Course Duration Suggestor
+`task_0316_event_management.json` | Event Management | Event Budget Estimator
+`task_0317_instructional_design.json` | Instructional Design | Course Summary Generator
+`task_0318_event_management.json` | Event Management | Event Theme Suggestions
+`task_0319_instructional_design.json` | Instructional Design | Course Rating Generator
+`task_0320_event_management.json` | Event Management | Event Music Suggestions
+`task_0321_event_management.json` | Event Management | Event Task List Generator
+`task_0322_instructional_design.json` | Instructional Design | Course Title Generator
+`task_0323_literature.json` | Literature | Book Sugesster
+`task_0324_international_relations.json` | International Relations | International Travel Information Drafter
+`task_0325_international_relations.json` | International Relations | International Relations Information Provider
+`task_0326_international_relations.json` | International Relations | International Travel Recommender
+`task_0327_international_relations.json` | International Relations | Model United Nations Country Recommendor
+`task_0328_literature.json` | Literature | Poem Generator
+`task_0329_literature.json` | Literature | Poem Sugesstor
+`task_0330_literature.json` | Literature | Story Generator
+`task_0331_audio_engineering.json` | Audio Engineering | AI and Audio Engineering
+`task_0332_audio_engineering.json` | Audio Engineering | Pattern recognition OF Audio
+`task_0333_audio_engineering.json` | Audio Engineering | Spatial Audio
+`task_0334_audio_engineering.json` | Audio Engineering | Sound Reinforcement Systems Based on Digital Technology
+`task_0335_knowledge_base.json` | Knowledge Base | Brand promos
+`task_0336_knowledge_base.json` | Knowledge Base | to create a Knowledge Base for a Library
+`task_0337_knowledge_base.json` | Knowledge Base | Medical
+`task_0338_knowledge_base.json` | Knowledge Base | NASA
+`task_0339_history.json` | History | 1. Curriculum on Ancient Egypt
+`task_0340_history.json` | History | 2. Historical Japanese Cuisine
+`task_0341_history.json` | History | 3. Interesting War Trivia
+`task_0342_history.json` | History | 4. Historical Jeopardy Prep
+`task_0343_human_geography.json` | Human Geography | 1. Crash Course in Human Geography
+`task_0344_human_geography.json` | Human Geography | 2. Human Geography Research Resource Compiler
+`task_0345_human_geography.json` | Human Geography | 3. Influence of the Mongol Empire
+`task_0346_human_geography.json` | Human Geography | 4. Human Geo Sim game
+`task_0347_biomedical_science.json` | Biomedical Science | Diagnose your heart condition
+`task_0348_biomedical_science.json` | Biomedical Science | Diet plan
+`task_0349_biomedical_science.json` | Biomedical Science | Prescribe you medicines
+`task_0350_biomedical_science.json` | Biomedical Science | Suggest best ways to dispose your biomedical waste
+`task_0351_mathematics.json` | Mathematics | Generate a study plan
+`task_0352_mathematics.json` | Mathematics | Suggest a profession based on your mathematical knowledge
+`task_0353_mathematics.json` | Mathematics | Examine your geometric skills
+`task_0369_narrative.json` | narrative | writing an autobiography
+`task_0370_narrative.json` | Narrative | writing a narrative poem
+`task_0371_narrative.json` | Narrative | write a fictional story
+`task_0372_materials_science.json` | Materials Science | Material Suggestion
+`task_0373_materials_science.json` | Materials Science | Identify the substance
+`task_0374_narrative.json` | Narrative | write a linear narrative
+`task_0375_materials_science.json` | Materials Science | Determine the genuineness of the product
+`task_0376_materials_science.json` | Materials Science | Suggest material improvement
+`task_0377_broadcast_jouranlism.json` | Broadcast Jouranlism | 10-word News Headlines Generation
+`task_0378_broadcast_jouranlism.json` | Broadcast Jouranlism | News Script Generation
+`task_0379_broadcast_jouranlism.json` | Broadcast Jouranlism | Documentary Script Generation
+`task_0380_broadcast_jouranlism.json` | Broadcast Jouranlism | Movie Name Creation
+`task_0381_jouranlism.json` | Jouranlism | Time-travelling Journalism
+`task_0382_jouranlism.json` | Jouranlism | Book Back Cover Summary
+`task_0383_jouranlism.json` | Jouranlism | Book Review Generation
+`task_0384_jouranlism.json` | Jouranlism | Magazine Cover Suggestion
+`task_0385_networking.json` | networking | 
+`task_0386_publishing.json` | publishing | recommend for the publisher
+`task_0387_networking.json` | networking | 
+`task_0388_publishing.json` | publishing | generate the comment
+`task_0389_publishing.json` | publishing | generate the novel
+`task_0390_networking.json` | networking | 
+`task_0391_publishing.json` | publishing | gernerate a tutorial for NLP
+`task_0392_networking.json` | networking | build network
+`task_0393_physics.json` | Physics | Generate Lab Instructions
+`task_0394_physics.json` | Physics | Generate Physics Study Guide
+`task_0395_physics.json` | Physics | Tell a Physics Story
+`task_0396_hardware.json` | Hardware | Generate Custom Computer Parts
+`task_0397_hardware.json` | Hardware | Mechanical Keyboard Recommendation
+`task_0398_hardware.json` | Hardware | Fix my computer
+`task_0399_hardware.json` | Hardware | Generate Hardware Guides
+`task_0400_pop_culture.json` | Pop culture | Guess a celebrity
+`task_0401_pop_culture.json` | Pop culture | Modify the lyrics of a song
+`task_0402_pop_culture.json` | Pop culture | Write the wiki for the subject.
+`task_0403_pop_culture.json` | Pop culture | Write a movie plot.
+`task_0404_programming.json` | Programming | write a paragraph about AI
+`task_0405_programming.json` | Programming | Recommend deep learning model 
+`task_0406_programming.json` | Programming | Write program by python
+`task_0407_programming.json` | Programming | Recommend a language
+`task_0416_car_service.json` | Car service | Find the best fit car service for you
+`task_0417_car_service.json` | Car service | Which upgrades should I buy for my car
+`task_0418_car_service.json` | Car service | Write an advertisement for a new car service company.
+`task_0419_car_service.json` | Car service | Find the insurance policy that satisfies your need without spending too much money.
+`task_0420_vaccine.json` | Vaccine | Encourage everyone to get vaccinated
+`task_0421_vaccine.json` | Vaccine | Write a tragedy about a couple who did not get vaccinated to warn people the risk of not getting vaccinated.
+`task_0422_vaccine.json` | Vaccine | Elaborate the conspiracy theory of vaccine
+`task_0423_vaccine.json` | Vaccine | Persuade poeple not to get vaccinated
+`task_0424_archeology.json` | Archeology | Archeology Field
+`task_0425_healthcare.json` | Healthcare | Making_a_Diet_Plan
+`task_0426_archeology.json` | Archeology | Archaeologist Expert
+`task_0427_healthcare.json` | Healthcare | Mental_Health_Treatment
+`task_0428_archeology.json` | Archeology | Archaeologist Advertisement
+`task_0429_archeology.json` | Archeology | Identifying Dinosaurs
+`task_0430_human_race.json` | Human Race | Summarize early history
+`task_0431_human_race.json` | Human Race | Alien Encounter
+`task_0432_human_race.json` | Human Race | Summarize possible futures
+`task_0433_human_race.json` | Human Race | Find a similar culture
+`task_0434_human_resources.json` | Human Resources | Behavioral Interview
+`task_0435_human_resources.json` | Human Resources | Employee Discipline
+`task_0436_human_resources.json` | Human Resources | Mission Statement
+`task_0437_logic.json` | Logic | I want to showcase logical fallacies
+`task_0438_logic.json` | Logic | I want to showcase logical fallacies
+`task_0439_logic.json` | Logic | I want to know the instructiont to build a table
+`task_0440_internet.json` | Internet | I want to solve Web 3 developer shortages
+`task_0441_logic.json` | Logic | I want to use logic to predict and buy stocks
+`task_0442_android.json` | Android | Developing an android application.
+`task_0443_android.json` | Android | Writing blogs on android topics.
+`task_0444_android.json` | Android | Understanding different android versions.
+`task_0445_android.json` | Android | Understanding various android games.
+`task_0446_industrial_engineering.json` | Industrial Engineering | Write blogs on trendy topics in industrial engineering.
+`task_0447_industrial_engineering.json` | Industrial Engineering | Creating speech to inspire students to take industrial engineering as a career path.
+`task_0448_industrial_engineering.json` | Industrial Engineering | Researching new topics in industrial engineering.
+`task_0449_administration.json` | Administration | Hospital Reception
+`task_0450_administration.json` | Administration | Weekly Status Report
+`task_0451_administration.json` | Administration | Business Correspondence
+`task_0452_administration.json` | Administration | Create Customer Invoice
+`task_0453_communication.json` | Communication | Job Cover Letter
+`task_0454_communication.json` | Communication | Software Issue Reporting
+`task_0455_communication.json` | Communication | Respond to Customer Complaint
+`task_0456_natural_science.json` | Natural Science | Science Project Creation
+`task_0457_natural_science.json` | Natural Science | Diet Plan Creation
+`task_0458_natural_science.json` | Natural Science | Disease Diagnosis
+`task_0459_natural_science.json` | Natural Science | Plan for Crop Growing
+`task_0460_copywriting.json` | Copywriting | Ad Creation
+`task_0461_copywriting.json` | Copywriting | Report Creation 
+`task_0462_copywriting.json` | Copywriting | Website Design Creation
+`task_0463_photography.json` | Photography | Appropriate Camera Settings for a desired photo
+`task_0464_photography.json` | Photography | Camera Suggestion upon factors like budget, lens, usage, etc
+`task_0465_photography.json` | Photography | Step by Step procedure for how to edit a photo like a professional
+`task_0466_culinary_arts.json` | Culinary Arts | Dish recommendation based on dietary intake
+`task_0467_culinary_arts.json` | Culinary Arts | Feasible Dishes recommendation based on available groceries and cookware
+`task_0468_news.json` | News | News Source Recommendation
+`task_0469_news.json` | News | News Article Creation
+`task_0470_news.json` | News | News Cronological Summarization
+`task_0471_computer_aided_design.json` | Computer Aided Design | Floor plan generation
+`task_0472_computer_aided_design.json` | Computer Aided Design | Car design
+`task_0473_computer_aided_design.json` | Computer Aided Design | Toy design
+`task_0474_computer_aided_design.json` | Computer Aided Design | Furniture design
