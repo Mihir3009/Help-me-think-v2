@@ -1,0 +1,189 @@
+{
+    "Contributor": "dolinpavel",
+    "Domain": "water_resources",
+    "Task": "dam_design",
+    "Prompt": {
+        "pre_question_prompt": "I am a civil engineer specializing in water dam construction. I will ask some questions to collect information, and then I will use the information to create a comprehensive dam design.",
+        "task_specific_prompt": "Write a dam design engineering proposal using the questions and answers above. Note this proposal will be presented to the city officials."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is the purpose of the dam?": "The dam is being built for agricultural and residential purposes"
+                },
+                {
+                    "What is the height of the dam?": "The dam will be 40 meters high."
+                },
+                {
+                    "What is the length of the dam?": "The dam will be 1000 meters long."
+                },
+                {
+                    "What is the width of the dam?": "The dam will be 20 meters wide."
+                },
+                {
+                    "What is the maximum water level that the dam can hold?": "The maximum water level that the dam can hold is 200 meters."
+                },
+                {
+                    "What is the size of the reservoir that the dam will create?": "The reservoir that the dam will create will be 3000 hectares."
+                },
+                {
+                    "What is the average rainfall in the area?": "The average rainfall in the area is 300mm."
+                },
+                {
+                    "What is the maximum flood level that is expected in the area?": "The maximum flood level that is expected in the area is 200mm."
+                },
+                {
+                    "What is the soil type in the area?": "clay"
+                },
+                {
+                    "What is the bedrock type in the area?": "granite"
+                },
+                {
+                    "What is the seismic activity in the area?": "Low"
+                },
+                {
+                    "What is the slope of the land in the area?": "The slope of the land in the area is 2%."
+                },
+                {
+                    "What is the width of the river that the dam will be built on?": "The width of the river that the dam will be built on is 200 meters."
+                },
+                {
+                    "What is the depth of the river?": "The depth of the river is 15 meters."
+                },
+                {
+                    "What is the average flow velocity of the river?": "The average flow velocity of the river is 1 meter per second."
+                }
+            ],
+            "Output": "The purpose of the dam is to provide water for agricultural and residential purposes. The dam will be 40 meters high and 1000 meters long. It will be 20 meters wide and will have a maximum water level of 200 meters. The reservoir that the dam will create will be 3000 hectares. The average rainfall in the area is 300mm and the maximum flood level that is expected in the area is 200mm. The soil type in the area is clay and the bedrock type is granite. The seismic activity in the area is low and the slope of the land is 2%. The width of the river that the dam will be built on is 200 meters and the depth of the river is 15 meters. The average flow velocity of the river is 1 meter per second."
+        },
+        {
+            "QApair": [
+                {
+                    "What is the purpose of the dam?": "The dam is being built for the purpose of creating a reservoir to store water for the town's water supply."
+                },
+                {
+                    "What is the height of the dam?": "The dam will be 100 feet high."
+                },
+                {
+                    "What is the length of the dam?": "The dam will be 700 feet long."
+                },
+                {
+                    "What is the width of the dam?": "The dam will be 200 feet wide."
+                },
+                {
+                    "What is the depth of the water in the reservoir?": "The depth of the water in the reservoir will be 90 feet."
+                },
+                {
+                    "What is the average rainfall in the area?": "The average rainfall in the area is 50 inches per year."
+                },
+                {
+                    "What is the maximum flood level in the area?": "The maximum flood level in the area is 50 feet."
+                },
+                {
+                    "What is the soil type in the area?": "sandy"
+                },
+                {
+                    "What is the bedrock depth in the area?": "The bedrock depth is 300 feet."
+                },
+                {
+                    "What is the seismic activity in the area?": "high"
+                },
+                {
+                    "What is the groundwater level in the area?": "The groundwater level is 100 feet."
+                },
+                {
+                    "What is the groundwater quality in the area?": "poor"
+                },
+                {
+                    "What is the land use in the area?": "agricultural"
+                },
+                {
+                    "What are the surrounding land uses?": "residential"
+                },
+                {
+                    "Is there any mining activity in the area?": "No"
+                },
+                {
+                    "What is the ground slope in the area?": "The ground slope is 3%."
+                },
+                {
+                    "What is the foundation material in the area?": "granite."
+                },
+                {
+                    "What is the water table in the area?": "The water table is 50 feet."
+                },
+                {
+                    "What is the water quality in the area?": "ok"
+                },
+                {
+                    "What is the water temperature in the area?": "The water temperature is 40 degrees Fahrenheit."
+                },
+                {
+                    "What is the wind speed in the area?": "The wind speed is 35 miles per hour."
+                },
+                {
+                    "What is the air temperature in the area?": "The air temperature is 70 degrees Fahrenheit."
+                },
+                {
+                    "What is the humidity in the area?": "The humidity is 70%."
+                }
+            ],
+            "Output": "The proposed dam will be an earth-filled dam with a height of 100 feet, a length of 700 feet, and a width of 200 feet. The reservoir created by the dam will have a depth of 90 feet and will supply the town's water needs. The average rainfall in the area is 50 inches per year, and the maximum flood level is 50 feet. The soil type in the area is sandy, and the bedrock depth is 300 feet. The seismic activity in the area is high, and the groundwater level is 100 feet. The groundwater quality in the area is poor, and the land use is agricultural. The surrounding land uses are residential, and there is no mining activity in the area. The ground slope in the area is 3%, and the foundation material is granite. The water table in the area is 50 feet, and the water quality is ok. The water temperature in the area is 40 degrees Fahrenheit, and the wind speed is 35 miles per hour. The air temperature in the area is 70 degrees Fahrenheit, and the humidity is 70%."
+        },
+        {
+            "QApair": [
+                {
+                    "What are your water usage goals?": "Ensure the water supply can handle the growth"
+                },
+                {
+                    "What is the size of your city?": "2 million people"
+                },
+                {
+                    "What is the source of your water?": "River"
+                },
+                {
+                    "What are your plans for the future of your city?": "The city is growing at a rapid rate of 5% each year"
+                },
+                {
+                    "What are your plans for the future of your water system?": "The water system will need to be expanded to accommodate the growth of the city. Infrastructure for ground water will need to be developed."
+                },
+                {
+                    "What are your plans for the future of your wastewater system?": "The wastewater system will need to be expanded to accommodate the growth of the city."
+                },
+                {
+                    "What are your plans for the future of your stormwater system?": "Existing infrastructure will need to be expanded"
+                },
+                {
+                    "What are your plans for the future of your drinking water system?": "The city will need to maintain the current standards and expand the current infrastructure"
+                },
+                {
+                    "What are your plans for the future of your irrigation water system?": "The irrigation system will be expanded and subsidized by federal grants in order to promote agricultural growth"
+                },
+                {
+                    "What are your plans for the future of your industrial water system?": "The industrial water system will be expanded and subsidized by federal grants in order to promote growth"
+                },
+                {
+                    "What are your plans for the future of your water recycling system?": "The water recycling system will be expanded in order to save water"
+                },
+                {
+                    "What are your plans for the future of your desalination system?": "The city currently does not have a budget for it"
+                },
+                {
+                    "What are your plans for the future of your groundwater system?": "It is not developed and will need to be addressed in the future"
+                }
+            ],
+            "Output": "The city plans to grow at a rapid rate of 5% each year. In order to accommodate this growth, the water system will need to be expanded. This expansion will include the development of infrastructure for ground water. The wastewater system will also need to be expanded to accommodate the growth of the city. Existing infrastructure for stormwater will need to be expanded. The city will need to maintain the current standards and expand the current infrastructure for drinking water. The irrigation system will be expanded and subsidized by federal grants in order to promote agricultural growth. The industrial water system will be expanded and subsidized by federal grants in order to promote growth. The water recycling system will be expanded in order to save water. The city currently does not have a budget for desalination. Groundwater will need to be addressed in the future."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/kas6Y918MBBCUwpXJHGuyrzN",
+        "https://beta.openai.com/playground/p/v7VlWXWSTC9MRDEVNYVl9gCI",
+        "https://beta.openai.com/playground/p/IRE0mUtYMsyQp4q8Usv1sZBO"
+    ],
+    "screenshot_link": [
+        "https://docs.google.com/document/d/1i9m9raq90g5s8GaMRqG9ku2HZQnFnYEK9NraIfE9RdM",
+        "https://docs.google.com/document/d/1fOo2f1xw9XrXHJBkmwEI3TuSqtWSO5cM7AjJay3lNAU",
+        "https://docs.google.com/document/d/1wQLhnGHlDiALXavuzSomMpqdYCU4t0bfbogFk5TIuPI"
+    ]
+}

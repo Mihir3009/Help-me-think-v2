@@ -1,0 +1,222 @@
+{
+    "Contributor": "dolinpavel",
+    "Domain": "folklore",
+    "Task": "a_legend",
+    "Prompt": {
+        "pre_question_prompt": "I am a creative storyteller who specializes in legends. I will ask some questions to collect information, and then I will use the information to write a legend.",
+        "task_specific_prompt": "Write a legend using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is the name of your town?": "The name of the town is Hpsdonson"
+                },
+                {
+                    "What is the name of the nearest body of water?": "The nearest body of water is a lake"
+                },
+                {
+                    "What is the name of the nearest mountain?": "The nearest mountain is Mt. Gordinson"
+                },
+                {
+                    "What is the name of the nearest forest?": "The nearest forest is the Hpsdonson forest"
+                },
+                {
+                    "What is the name of the local hero?": "The local hero is Jacarta Tonggston"
+                },
+                {
+                    "What is the name of the villain?": "The villain is Bill Gates"
+                },
+                {
+                    "What is the name of the magical creature?": "The magical creature is Mighty Mouse"
+                },
+                {
+                    "What is the goal of the local hero?": "The goal of the local hero is to defend the people of Hpsdonson and the creatures of Hpsdonson forest"
+                },
+                {
+                    "What is the goal of the villain?": "The goal of the villain is to enslave the people of Hpsdonson and the creatures of Hpsdonson Forest"
+                },
+                {
+                    "What is the name of the magical item?": "The magical item is tiny umbrella"
+                },
+                {
+                    "What is the name of the place where the action takes place?": "the name of the place where the action takes place is Hpsdonson"
+                },
+                {
+                    "What is the name of the king?": "The is no king"
+                },
+                {
+                    "What is the name of the queen?": "The is no queen"
+                },
+                {
+                    "What is the name of the prince?": "The is no prince"
+                },
+                {
+                    "What is the name of the princess?": "The is no princess"
+                },
+                {
+                    "What is the name of the wizard?": "Wizard Steve"
+                },
+                {
+                    "What is the name of the witch?": "Auntie Kitz"
+                },
+                {
+                    "What is the name of the dragon?": "Joe the dragon"
+                },
+                {
+                    "What is the name of the knight?": "Sir Mac"
+                },
+                {
+                    "What is the name of the peasant?": "Fooly"
+                },
+                {
+                    "What is the name of the animal?": "Dope Snake"
+                }
+            ],
+            "Output": "Once upon a time, in the town of Hpsdonson, there lived a local hero by the name of Jacarta Tonggston. Jacarta was a brave and strong young woman who defended the people of Hpsdonson and the creatures of Hpsdonson Forest from the villainous Bill Gates. Gates was a cruel man who sought to enslave the people of Hpsdonson and the creatures of the forest. But Jacarta was not afraid to stand up to him. With the help of her magical creature, Mighty Mouse, and her magical item, the tiny umbrella, she was able to defeat Gates and keep the people of Hpsdonson safe."
+        },
+        {
+            "QApair": [
+                {
+                    "What is the name of your town?": "The name of the town is Hudson"
+                },
+                {
+                    "What is the name of the nearest body of water?": "The nearest body of water is a river"
+                },
+                {
+                    "What is the name of the nearest mountain?": "The nearest mountain is Mt. Nothingness"
+                },
+                {
+                    "What is the name of the nearest forest?": "There is no forest"
+                },
+                {
+                    "What is the name of the local hero?": "The local hero is Lolollson Jallop"
+                },
+                {
+                    "What is the name of the villain?": "The villain is Haal Choms"
+                },
+                {
+                    "What is the name of the magical creature?": "There is no creature"
+                },
+                {
+                    "What is the goal of the local hero?": "The goal of the local hero is to not cause more damage"
+                },
+                {
+                    "What is the goal of the villain?": "The goal of the villain is to destroy everything"
+                },
+                {
+                    "What is the name of the magical item?": "The magical item is a stone of fire"
+                },
+                {
+                    "What is the name of the place where the action takes place?": "In the skies aove town"
+                },
+                {
+                    "What is the name of the king?": "King Sal"
+                },
+                {
+                    "What is the name of the queen?": "Queen Toot"
+                },
+                {
+                    "What is the name of the prince?": "The prince died"
+                },
+                {
+                    "What is the name of the princess?": "The is no princess"
+                },
+                {
+                    "What is the name of the wizard?": "Wizard Jo"
+                },
+                {
+                    "What is the name of the witch?": "Witch Slally"
+                },
+                {
+                    "What is the name of the dragon?": "There is no dragon"
+                },
+                {
+                    "What is the name of the knight?": "Sir Mac"
+                },
+                {
+                    "What is the name of the peasant?": "James the mighty"
+                },
+                {
+                    "What is the name of the animal?": "Elephant Utts"
+                }
+            ],
+            "Output": "The town of Hudson was founded by a group of settlers who were looking for a new land to call their own. They built their homes along the banks of a river and named their town after the river. The town prospered for many years and was a peaceful place to live. However, all that changed when a villain named Haal Choms came to town. Haal Choms was a ruthless killer who enjoyed nothing more than destruction and chaos. He quickly began to terrorize the townspeople and soon became the most feared man in Hudson.  The townspeople knew they needed a hero to protect them from Haal Choms. They turned to Lolollson Jallop, the local hero, to save them. Lolollson was a brave and courageous man who had once saved the town from a group of bandits. He was their only hope of defeating Haal Choms.  Lolollson was successful in defeating Haal Choms and saving the town. However, the villain was not the only danger they faced. There was also a magical creature that was terrorizing the town. The creature was a stone of fire that would shoot flames from its mouth. The townspeople were terrified of the creature and begged Lololl"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the name of your town?": "It's not a town it's a big city of New Faus"
+                },
+                {
+                    "What is the name of the nearest body of water?": "It's close to a sea of Charms"
+                },
+                {
+                    "What is the name of the nearest mountain?": "There are no close mountains"
+                },
+                {
+                    "What is the name of the nearest forest?": "There is no forest"
+                },
+                {
+                    "What is the name of the local hero?": "The local hero is a train car operator, Mia"
+                },
+                {
+                    "What is the name of the villain?": "The villain is a giant earthworm, SPX21389 who lives under the city"
+                },
+                {
+                    "What is the name of the magical creature?": "The magical creature is a butterfly"
+                },
+                {
+                    "What is the goal of the local hero?": "The goal of the local hero is to stop SPX21389 from destroying the city and the subway system"
+                },
+                {
+                    "What is the goal of the villain?": "Destroy the city and eat people"
+                },
+                {
+                    "What is the name of the magical item?": "The magical item is a train"
+                },
+                {
+                    "What is the name of the place where the action takes place?": "Underground in the subway tunnels"
+                },
+                {
+                    "What is the name of the king?": "Mayor Quincy"
+                },
+                {
+                    "What is the name of the queen?": "None"
+                },
+                {
+                    "What is the name of the prince?": "None"
+                },
+                {
+                    "What is the name of the princess?": "None"
+                },
+                {
+                    "What is the name of the wizard?": "The main wizard of subway bureaucracy, Mr Hemsworth"
+                },
+                {
+                    "What is the name of the witch?": "There is no witch"
+                },
+                {
+                    "What is the name of the dragon?": "THe dragon died"
+                },
+                {
+                    "What is the name of the knight?": "Sir DrinkALot"
+                },
+                {
+                    "What is the name of the peasant?": "Peasant Gob"
+                }
+            ],
+            "Output": "Mia was a train car operator who lived in the big city of New Faus. She was always on the lookout for anything that might cause problems for the city's subway system. One day, she was contacted by the main wizard of the subway bureaucracy, Mr Hemsworth. He told her that a giant earthworm, SPX21389, was planning to destroy the city and the subway system. Mia knew that she had to stop SPX21389. She gathered a group of brave knights and peasants and set off into the underground subway tunnels to stop the villain. After a long and difficult battle, Mia and her group were able to defeat SPX21389 and save the city."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/8bytenBqQzyIqEMtu3bzT1d9",
+        "https://beta.openai.com/playground/p/a2uK6eey1jjyfAoIXtsxwM6V",
+        "https://beta.openai.com/playground/p/oNGGbXFlAd4GQAIP0I559SGY"
+    ],
+    "screenshot_link": [
+        "https://docs.google.com/document/d/1gS2kRv_ydhL4iZHGw1VIpSrlTi3sfvFFUX6RS4aL3YE",
+        "https://docs.google.com/document/d/1DDGXTFvhA0gR2A87lbKteYFUU03HJRWHQ6WqoWppMZk",
+        "https://docs.google.com/document/d/1-bV3yEIPjvEZRYWFypzlIU5sEAWe9u0beVX_5d3vJw8"
+    ]
+}

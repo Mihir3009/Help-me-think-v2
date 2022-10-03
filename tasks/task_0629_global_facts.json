@@ -1,0 +1,208 @@
+{
+    "Contributor": "guptaakshat",
+    "Domain": "Global Facts",
+    "Task": "Writing News Article",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous journalist. I will ask some questions to collect information about natural disasters and then I will use that information to write a news article.",
+        "task_specific_prompt": "Write a news article using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the natural disaster?",
+                    "Answer": "The name of the natural disaster is a tornado."
+                },
+                {
+                    "Question": "Where did the natural disaster occur?",
+                    "Answer": "The natural disaster occurred in the town of El Reno, Oklahoma."
+                },
+                {
+                    "Question": "When did the natural disaster occur?",
+                    "Answer": "The natural disaster occurred on May 31, 2013."
+                },
+                {
+                    "Question": "How many people were affected by the natural disaster?",
+                    "Answer": "The natural disaster affected approximately 10,000 people."
+                },
+                {
+                    "Question": "What was the cost of the damage caused by the natural disaster?",
+                    "Answer": "The damage caused by the natural disaster was estimated at $2 billion."
+                },
+                {
+                    "Question": "What was the cause of the natural disaster?",
+                    "Answer": "The natural disaster was caused by a severe thunderstorm."
+                },
+                {
+                    "Question": "What was the most damage caused by the natural disaster?",
+                    "Answer": "The most damage caused by the natural disaster was to homes and businesses."
+                },
+                {
+                    "Question": "What was the least damage caused by the natural disaster?",
+                    "Answer": "The least damage caused by the natural disaster was to infrastructure."
+                },
+                {
+                    "Question": "What was the death toll of the natural disaster?",
+                    "Answer": "The death toll of the natural disaster was 24."
+                },
+                {
+                    "Question": "What was the injured count of the natural disaster?",
+                    "Answer": "The injured count of the natural disaster was 352."
+                },
+                {
+                    "Question": "What was the displacement count of the natural disaster?",
+                    "Answer": "The displacement count of the natural disaster was 1,000."
+                },
+                {
+                    "Question": "What was the response of the government to the natural disaster?",
+                    "Answer": "The government's response to the natural disaster was to provide financial assistance to those affected."
+                }
+            ],
+            "Output": "Tornado Strikes El Reno, Oklahoma. On May 31, 2013, a tornado struck the town of El Reno, Oklahoma. The tornado was caused by a severe thunderstorm and affected approximately 10,000 people. The damage caused by the tornado was estimated at $2 billion. The most damage was to homes and businesses, but the tornado also caused infrastructure damage. The death toll from the tornado was 24 and the injured count was 352. 1,000 people were displaced by the tornado. The government's response to the disaster was to provide financial assistance to those affected."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the natural disaster?",
+                    "Answer": "The name of the natural disaster is an earthquake."
+                },
+                {
+                    "Question": "What are the causes of the natural disaster?",
+                    "Answer": "The causes of an earthquake can be natural or manmade. Natural causes can include things like volcanic activity, the movement of tectonic plates, and changes in the earth's climate. Manmade causes can include things like mining, construction, and the use of explosives."
+                },
+                {
+                    "Question": "When did the natural disaster occur?",
+                    "Answer": "The earthquake occurred on September 20, 2017 at 4:37pm."
+                },
+                {
+                    "Question": "Where did the natural disaster occur?",
+                    "Answer": "The earthquake occurred in Mexico City, Mexico."
+                },
+                {
+                    "Question": "How many people were affected by the natural disaster?",
+                    "Answer": "The earthquake affected millions of people in Mexico City and the surrounding areas."
+                },
+                {
+                    "Question": "What was the damage caused by the natural disaster?",
+                    "Answer": "The earthquake caused extensive damage to buildings and infrastructure in Mexico City and the surrounding areas."
+                },
+                {
+                    "Question": "What was the death toll from the natural disaster?",
+                    "Answer": "The death toll from the earthquake was over 200 people."
+                },
+                {
+                    "Question": "What was the cost of the damage caused by the natural disaster?",
+                    "Answer": "The cost of the damage caused by the earthquake is estimated to be over $8 billion."
+                },
+                {
+                    "Question": "What was the relief effort like after the natural disaster?",
+                    "Answer": "The relief effort after the earthquake was massive, with many organizations and individuals coming together to help those affected by the disaster."
+                },
+                {
+                    "Question": "What lessons were learned from the natural disaster?",
+                    "Answer": "Some of the lessons learned from the earthquake include the importance of having a good emergency response plan, the importance of having sturdy buildings, and the importance of having a good communication system."
+                },
+                {
+                    "Question": "How can people prepare for future natural disasters?",
+                    "Answer": "Some of the ways people can prepare for future natural disasters include having an emergency response plan, having sturdy buildings, and having a good communication system."
+                },
+                {
+                    "Question": "What can be done to mitigate the effects of future natural disasters?",
+                    "Answer": "Some of the things that can be done to mitigate the effects of future natural disasters include early warning systems, better building standards, and better land-use planning."
+                },
+                {
+                    "Question": "What was the most challenging part of the natural disaster?",
+                    "Answer": "The most challenging part of the earthquake was the aftermath, when people had to deal with the damage and the death of loved ones."
+                }
+            ],
+            "Output": "Mexico City Earthquake Leaves Devastation in Its Wake. On September 20, 2017, an earthquake of magnitude 7.1 struck Mexico City, leaving a trail of destruction in its wake. The earthquake caused extensive damage to buildings and infrastructure, resulting in a death toll of over 200 people. The cost of the damage is estimated to be over $8 billion. The relief effort after the earthquake was massive, with many organizations and individuals coming together to help those affected by the disaster. Some of the lessons learned from the earthquake include the importance of having a good emergency response plan, the importance of having sturdy buildings, and the importance of having a good communication system. Some of the ways people can prepare for future natural disasters include having an emergency response plan, having sturdy buildings, and having a good communication system. Some of the things that can be done to mitigate the effects of future natural disasters include early warning systems, better building standards, and better land-use planning. The most challenging part of the earthquake was the aftermath, when people had to deal with the damage and the death of loved ones."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the natural disaster?",
+                    "Answer": "The name of the natural disaster is an drought."
+                },
+                {
+                    "Question": "What are the effects of the natural disaster?",
+                    "Answer": "The effects of the natural disaster are that it can cause food and water shortages, and it can also lead to wildfires."
+                },
+                {
+                    "Question": "How can people prepare for the natural disaster?",
+                    "Answer": "People can prepare for the natural disaster by stockpiling food and water, and by creating an evacuation plan."
+                },
+                {
+                    "Question": "What are the long-term effects of the natural disaster?",
+                    "Answer": "The long-term effects of the natural disaster can include famine, displacement of people, and loss of property."
+                },
+                {
+                    "Question": "Is the natural disaster common in the area?",
+                    "Answer": "The natural disaster is common in the area."
+                },
+                {
+                    "Question": "What is the government doing to help people affected by the natural disaster?",
+                    "Answer": "The government is providing food and water to people affected by the natural disaster."
+                },
+                {
+                    "Question": "What can people do to help people affected by the natural disaster?",
+                    "Answer": "People can donate money to relief organizations, or they can volunteer to help with relief efforts."
+                },
+                {
+                    "Question": "How long will the natural disaster last?",
+                    "Answer": "The natural disaster will last for several months."
+                },
+                {
+                    "Question": "When did the natural disaster start?",
+                    "Answer": "The natural disaster started on January 1st."
+                },
+                {
+                    "Question": "Is the natural disaster over?",
+                    "Answer": "No, the natural disaster is still ongoing."
+                },
+                {
+                    "Question": "What is the death toll from the natural disaster?",
+                    "Answer": "The death toll from the natural disaster is currently unknown."
+                },
+                {
+                    "Question": "What is the damage cost from the natural disaster?",
+                    "Answer": "The damage cost from the natural disaster is currently unknown."
+                },
+                {
+                    "Question": "How many people have been affected by the natural disaster?",
+                    "Answer": "The number of people affected by the natural disaster is currently unknown."
+                },
+                {
+                    "Question": "What is the name of the organization that is helping people affected by the natural disaster?",
+                    "Answer": "The name of the organization that is helping people affected by the natural disaster is the Red Cross."
+                },
+                {
+                    "Question": "What is the website for the organization that is helping people affected by the natural disaster?",
+                    "Answer": "The website for the organization that is helping people affected by the natural disaster is www.redcross.org."
+                },
+                {
+                    "Question": "What is the phone number for the organization that is helping people affected by the natural disaster?",
+                    "Answer": "The phone number for the organization that is helping people affected by the natural disaster is 1-800-RED-CROSS."
+                },
+                {
+                    "Question": "Is there a way to volunteer to help people affected by the natural disaster?",
+                    "Answer": "Yes, there is a way to volunteer to help people affected by the natural disaster. You can go to the website www.redcross.org and sign up to volunteer."
+                },
+                {
+                    "Question": "Is there a way to donate money to help people affected by the natural disaster?",
+                    "Answer": "Yes, there is a way to donate money to help people affected by the natural disaster. You can go to the website www.redcross.org and donate money."
+                },
+                {
+                    "Question": "What is the best way to stay updated on the latest information about the natural disaster?",
+                    "Answer": "The best way to stay updated on the latest information about the natural disaster is to follow the Red Cross on social media, or to visit their website at www.redcross.org."
+                }
+            ],
+            "Output": "Drought conditions are continuing to worsen in California, causing food and water shortages, as well as leading to an increased risk of wildfires. The drought started on January 1st, and it is expected to last for several months. So far, the death toll is unknown, but the damage cost is estimated to be in the billions of dollars. The number of people affected by the drought is also unknown, but it is estimated to be in the millions. The Red Cross is one of the organizations helping people affected by the drought. People can volunteer or donate money to the Red Cross by visiting their website at www.redcross.org. The best way to stay updated on the latest information about the drought is to follow the Red Cross on social media, or to visit their website at www.redcross.org."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/aqSSXuGwVchCXxhTwB4l3xVO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/x9317kBFd501wOHNS0Wb7X6F?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fpSqlqfKEeuzDuXI3KGeVYsW?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ow4lq6PapgDATOGLxyEvcmFLbYRbwklB?usp=sharing"
+}

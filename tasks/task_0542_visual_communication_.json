@@ -1,0 +1,152 @@
+{
+    "Contributor": "dinakarshreyaa",
+    "Domain": "Visual communication ",
+    "Task": "Dream story teller",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert dream story teller. I will ask some questions to collect information and then I will use the information to tell a story about your dream.",
+        "task_specific_prompt": "Write the story about the dream using the questions and answers above:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What did you dream about?",
+                    "Answer": "I dreamed about a party."
+                },
+                {
+                    "Question": "What kind of party was it?",
+                    "Answer": "It was a birthday party with a lot of people."
+                },
+                {
+                    "Question": "Who was at the party?",
+                    "Answer": "My family and friends were at the party."
+                },
+                {
+                    "Question": "What did you do at the party?",
+                    "Answer": "I ate cake and ice cream and danced with my friends."
+                },
+                {
+                    "Question": "Did you have fun at the party?",
+                    "Answer": "Yes, I had a lot of fun at the party."
+                },
+                {
+                    "Question": "What was the best part of the party?",
+                    "Answer": "The best part of the party was when I got to blow out the candles on my cake."
+                },
+                {
+                    "Question": "What did you wish for?",
+                    "Answer": "I wished for happiness and health for my family and friends."
+                },
+                {
+                    "Question": "Will your wish come true?",
+                    "Answer": "Yes, I think my wish will come true. I am optimistic."
+                },
+                {
+                    "Question": "What do you think the dream meant?",
+                    "Answer": "I think the dream meant that I am happy with my life and that I am surrounded by people who love me."
+                },
+                {
+                    "Question": "Do you think the dream was symbolic of something?",
+                    "Answer": "Yes, I think the dream was symbolic of how I feel about my life and the people in it."
+                }
+            ],
+            "Output": "I had a dream about a party. It was a birthday party and there were a lot of people there. My family and friends were at the party. I ate cake and ice cream and danced with my friends. I had a lot of fun at the party. The best part of the party was when I got to blow out the candles on my cake. I wished for happiness and health for my family and friends. I think my wish will come true. I am optimistic. I think the dream meant that I am happy with my life and that I am surrounded by people who love me."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What did you dream about?",
+                    "Answer": "I dreamed about a scary situation where I fall off a cliff."
+                },
+                {
+                    "Question": "What happened before the dream?",
+                    "Answer": "I was chased by random people where I lost track of my path."
+                },
+                {
+                    "Question": "What happened after the dream?",
+                    "Answer": "I woke up panting and sweating uncontrollably."
+                },
+                {
+                    "Question": "Did the dream feel real?",
+                    "Answer": "The dream felt very real to me and it was very frightening."
+                },
+                {
+                    "Question": "What emotions did you feel in the dream?",
+                    "Answer": "I felt scared and panicked throughout the dream. I sensed fear."
+                },
+                {
+                    "Question": "Do you think the dream has any meaning?",
+                    "Answer": "I'm not sure what the dream could mean. Maybe it's a warning to be careful or maybe it's just a product of my stress."
+                },
+                {
+                    "Question": "What do you think caused the dream?",
+                    "Answer": "I'm not sure what caused the dream. It could be some harsh conversation with my friend or something I'm worried about."
+                },
+                {
+                    "Question": "What was the most intense part of the dream?",
+                    "Answer": "The most intense part of the dream was when I was falling off the cliff because I thought I was going to die."
+                },
+                {
+                    "Question": "Did anything in the dream surprise you?",
+                    "Answer": "I was surprised after the dream that I was alive and that was not he reality."
+                },
+                {
+                    "Question": "What would you do differently if you were in the dream?",
+                    "Answer": "If I were in the dream, I would be more careful about where I am going and not let myself get lost and fall off a cliff."
+                }
+            ],
+            "Output": "The dreamer is being chased by random people and loses track of their path. They fall off a cliff and wake up panting and sweating uncontrollably. The dream is very frightening and feels real. The dreamer is scared and panicked throughout the dream. They sense fear. The dream may be a warning to be careful or a product of stress. The most intense part of the dream is when the dreamer is falling off the cliff. They are surprised after the dream that they are alive. If they were in the dream, they would be more careful about where they are going."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What did you dream about?",
+                    "Answer": "I dreamed about a scary situation where I am chased by a ghost."
+                },
+                {
+                    "Question": "What happened before the dream?",
+                    "Answer": "I was home alone and scared of darkness."
+                },
+                {
+                    "Question": "What happened after the dream?",
+                    "Answer": "I woke up panting and sweating uncontrollably."
+                },
+                {
+                    "Question": "Did the dream feel real?",
+                    "Answer": "The dream felt very real to me and it was very frightening."
+                },
+                {
+                    "Question": "What emotions did you feel in the dream?",
+                    "Answer": "I felt scared throughout the dream."
+                },
+                {
+                    "Question": "Do you think the dream has any meaning?",
+                    "Answer": "I'm not sure what the dream could mean. Maybe it brought out my fear of ghosts."
+                },
+                {
+                    "Question": "What do you think caused the dream?",
+                    "Answer": "I'm not sure what caused the dream. It could be some unpleasant moments in my life or something that's causing me stress."
+                },
+                {
+                    "Question": "What was the most intense part of the dream?",
+                    "Answer": "The most intense part of the dream was when I was chased by the ghost I thought it was going to kill me."
+                },
+                {
+                    "Question": "Did anything in the dream surprise you?",
+                    "Answer": "I was surprised after the dream that I was alive and safe  and that it was not the reality."
+                },
+                {
+                    "Question": "What would you do differently if you were in the dream?",
+                    "Answer": "If I were in the dream, I would avoid staying alone and always have light around me."
+                }
+            ],
+            "Output": "I was home alone one night and I started to feel scared of the darkness. I tried to stay calm but I couldn't help but feel like something was going to happen. Suddenly, I heard a noise and it sounded like someone was coming upstairs. I got up to check and see what it was but when I got to the top of the stairs, I saw a ghost. The ghost was floating towards me and I started to scream. I tried to run away but it felt like the ghost was following me. No matter where I went, the ghost was always there. I was so scared that I woke up panting and sweating uncontrollably. The dream felt so real to me that it was hard to believe that it wasn't actually happening. Even though I know it was just a dream, it was still very frightening."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/L2RC7cHuDOCbyarTTwTToPbW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/EbwtzliZM0tACOsjz39J570j?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jh2Z6DtxiS8bo1ZGsdXXvAoj?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/u/1/folders/1LEYcr1ioAMoWn21AGoU3ed5X52GX6LJa"
+}

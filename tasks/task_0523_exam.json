@@ -1,0 +1,148 @@
+{
+    "Contributor": "gangakirity",
+    "Domain": "Exam",
+    "Task": "Student Performance Prompter",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert student prompter. For a given student I will ask some questions to collect information about student's performance indifferent subjects and then I will use the information to give an analysis report of that particular student.",
+        "task_specific_prompt": "Write an detailed performance analysis report of above mentioned student using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the student's name?",
+                    "Answer": "student's name is Kirity Ganga"
+                },
+                {
+                    "Question": "What is the student's grade in the subject?",
+                    "Answer": "The student's grade in the subject is A-."
+                },
+                {
+                    "Question": "How often does the student miss class?",
+                    "Answer": "The student misses class occasionally."
+                },
+                {
+                    "Question": "When the student is in class, how often does he or she participate?",
+                    "Answer": "The student participates in class frequently."
+                },
+                {
+                    "Question": "Does the student turn in homework on time?",
+                    "Answer": "The student turns in homework on time."
+                },
+                {
+                    "Question": "Does the student participate in class discussion?",
+                    "Answer": "The student participates in class discussion."
+                },
+                {
+                    "Question": "Does the student ask questions in class?",
+                    "Answer": "The student rarely asks questions in class."
+                },
+                {
+                    "Question": "Does the student do well on tests?",
+                    "Answer": "The student does well on tests."
+                },
+                {
+                    "Question": "Does the student understand the material?",
+                    "Answer": "The student understands the material."
+                },
+                {
+                    "Question": "What is the student's attitude towards the subject?",
+                    "Answer": "Student takes the subject very lightly."
+                }
+            ],
+            "Output": "Kirity Ganga is a student who takes her academics very lightly. Even though she participates frequently in class and turns her homework in on time, she does not seem to understand the material as well as she could. This was made evident by the questions she asked in class and her score on the tests. Her attitude towards the subject is one of apathy and it shows in her work."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the student's name?",
+                    "Answer": "Name is Rahul Mishra"
+                },
+                {
+                    "Question": "What is the student's grade in the subject?",
+                    "Answer": "The student's grade in the subject is C."
+                },
+                {
+                    "Question": "How often does the student miss class?",
+                    "Answer": "0"
+                },
+                {
+                    "Question": "How often does the student participate in class?",
+                    "Answer": "Regularly"
+                },
+                {
+                    "Question": "Does the student turn in homework on time?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Does the student get along with classmates?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Does the student ask questions in class?",
+                    "Answer": "The student rarely asks questions in class."
+                },
+                {
+                    "Question": "Does the student do well on tests?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Does the student understand the material?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Is the student motivated in class?",
+                    "Answer": "Yes"
+                }
+            ],
+            "Output": "Rahul Mishra is a 17-year-old student who is currently in grade C for the subject. He has missed no classes and participates regularly in class. However, he does not hand in homework on time and does not get along well with classmates. Despite this, he understands the material and is motivated in class. He studies for tests."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you study for this subject?",
+                    "Answer": "On regular basis"
+                },
+                {
+                    "Question": "How many hours do you study for this subject?",
+                    "Answer": "10 hours"
+                },
+                {
+                    "Question": "Do you feel like you understand the material?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you feel like you could do better in the subject?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What grade are you currently getting in the subject?",
+                    "Answer": "B"
+                },
+                {
+                    "Question": "Do you feel like you need to improve your study habits for this subject?",
+                    "Answer": "A bit of yes"
+                },
+                {
+                    "Question": "What are your current study habits for this subject?",
+                    "Answer": "I read the textbook but don't take notes"
+                },
+                {
+                    "Question": "Do you feel like you need to do more practice problems for this subject?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What resources do you use to study for this subject (textbook, notes, practice problems, etc.)?",
+                    "Answer": "I only use the textbook"
+                },
+                {
+                    "Question": "Do you have any other comments about your performance in this subject or suggestions on how to improve?",
+                    "Answer": "Sometime I feel lazy studying this subject"
+                }
+            ],
+            "Output": "The student is currently getting a B in the subject. The student feels they could do better in the subject and believes they need to improve their study habits. The student currently only uses the textbook as a resource to study. The student suggests that they feel lazy studying the subject at times. In order to improve their grade, the student should consider the following: studying on a regular basis, taking more practice problems, and using a variety of resources to study (textbook, notes, practice problems, etc.). The student should also try to avoid feeling lazy when studying the subject."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/X9XdCtshZ6Sz0y2AGeU38HT6?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1xpFL7eXrLd8fsRfOR37tDF9LTYapZCnz/view?usp=sharing"
+}

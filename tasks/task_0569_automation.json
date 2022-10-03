@@ -1,0 +1,152 @@
+{
+    "Contributor": "baptistawalstan",
+    "Domain": "Automation",
+    "Task": "Article",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Automation. I will ask some questions to collect information and then I will use the information to write an news article about Self-driving cars.",
+        "task_specific_prompt": "Write a news article using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do self-driving cars work?",
+                    "Answer": "Self-driving cars use a variety of sensors to detect their surroundings, including radar, lasers, and cameras. The data from these sensors is processed by a computer, which uses it to navigate the car."
+                },
+                {
+                    "Question": "What are the benefits of self-driving cars?",
+                    "Answer": "Self-driving cars have the potential to improve safety, efficiency, and convenience. They could reduce the number of accidents, free up people\u2019s time, and reduce congestion and pollution."
+                },
+                {
+                    "Question": "Are there any challenges with self-driving cars?",
+                    "Answer": "One challenge is that self-driving cars need to be able to handle all kinds of weather and terrain. Another challenge is that the technology is still being developed and tested, and there are concerns about safety and privacy."
+                },
+                {
+                    "Question": "What is the future of self-driving cars?",
+                    "Answer": "The future of self-driving cars is uncertain, but they are likely to become more common in the coming years."
+                },
+                {
+                    "Question": "How do you feel about self-driving cars?",
+                    "Answer": "I am excited about the potential of self-driving cars. I think they have the potential to improve safety, efficiency, and convenience."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be safe?",
+                    "Answer": "I think self-driving cars will be safe, but I think there will always be some risk involved."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be widely used?",
+                    "Answer": "I think self-driving cars will become more common in the coming years, but I don\u2019t think they will be widespread."
+                },
+                {
+                    "Question": "What do you think about the challenges with self-driving cars?",
+                    "Answer": "I think the challenges with self-driving cars are surmountable. I think the benefits of self-driving cars are too great to ignore."
+                },
+                {
+                    "Question": "As an expert in automation and self-driving cars, what is your opinion on the current state of self-driving cars?",
+                    "Answer": "I think the current state of self-driving cars is exciting. The technology is still being developed and tested, but the potential benefits are too great to ignore. I think self-driving cars will become more common in the coming years, but I don\u2019t think they will be widespread."
+                },
+                {
+                    "Question": "What do you think the benefits of self-driving cars are?",
+                    "Answer": "I think the benefits of self-driving cars are safety, efficiency, and convenience. I think self-driving cars have the potential to reduce the number of accidents, free up people\u2019s time, and reduce congestion and pollution."
+                }
+            ],
+            "Output": "Self-driving cars are a hot topic in the automotive world, and there is a lot of excitement about their potential. Self-driving cars use a variety of sensors to detect their surroundings, including radar, lasers, and cameras. The data from these sensors is processed by a computer, which uses it to navigate the car.\nSelf-driving cars have the potential to improve safety, efficiency, and convenience. They could reduce the number of accidents, free up people\u2019s time, and reduce congestion and pollution. However, there are some challenges with self-driving cars. One challenge is that self-driving cars need to be able to handle all kinds of weather and terrain. Another challenge is that the technology is still being developed and tested, and there are concerns about safety and privacy.\nThe future of self-driving cars is uncertain, but they are likely to become more common in the coming years. I am excited about the potential of self-driving cars. I think they have the potential to improve safety, efficiency, and convenience. I think self-driving cars will be safe, but I think there will always be some risk involved. I think self-driving cars will become more common in the coming years, but I don\u2019t think they will be widespread. I think the challenges with self-driving cars are surmountable. I think the benefits of self-driving cars are too great to ignore."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do self-driving cars work?",
+                    "Answer": "Self-driving cars are equipped with a variety of sensors and cameras that allow the car to see the world around it. The car then uses this information to navigate itself."
+                },
+                {
+                    "Question": "What are the benefits of self-driving cars?",
+                    "Answer": "Self-driving cars have the potential to revolutionize transportation. They have the potential to reduce accidents, traffic congestion, and emissions."
+                },
+                {
+                    "Question": "Are there any challenges with self-driving cars?",
+                    "Answer": "One of the challenges with self-driving cars is that they need to be able to operate in a wide range of conditions. Another challenge is that the technology is still evolving and there are concerns about safety."
+                },
+                {
+                    "Question": "What is the future of self-driving cars?",
+                    "Answer": "The future of self-driving cars is uncertain. It is possible that they will become commonplace, or they may never live up to their potential."
+                },
+                {
+                    "Question": "How do you feel about self-driving cars?",
+                    "Answer": "I am excited about the potential of self-driving cars. I think they have the potential to make transportation safer and more efficient."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be safe?",
+                    "Answer": "I think self-driving cars have the potential to be much safer than human-driven cars. However, there are still some safety concerns that need to be addressed."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be widely used?",
+                    "Answer": "I think self-driving cars have the potential to be widely used. However, it is still unclear how quickly they will be adopted."
+                },
+                {
+                    "Question": "What do you think about the challenges with self-driving cars?",
+                    "Answer": "I think the challenges with self-driving cars are understandable. The technology is still evolving and there are concerns about safety. However, I think the potential benefits are worth exploring."
+                },
+                {
+                    "Question": "As an expert in automation and self-driving cars, what is your opinion on the current state of self-driving cars?",
+                    "Answer": "The current state of self-driving cars is still in the early stages. The technology is still evolving and there are some challenges that need to be addressed. However, I think the potential benefits are worth exploring."
+                },
+                {
+                    "Question": "What do you think the benefits of self-driving cars are?",
+                    "Answer": "I think the benefits of self-driving cars are significant. They have the potential to reduce accidents, traffic congestion, and emissions."
+                }
+            ],
+            "Output": "Self-driving cars are a hot topic in the world of transportation. These cars are equipped with a variety of sensors and cameras that allow the car to 'see' the world around it. The car then uses this information to navigate itself.\nThere are many potential benefits to self-driving cars. These cars have the potential to reduce accidents, traffic congestion, and emissions. However, there are also some challenges that need to be addressed. The technology is still evolving and there are concerns about safety. \n It is still unclear how quickly self-driving cars will be adopted. However, the potential benefits are significant. I believe that the challenges with self-driving cars are understandable and that the potential benefits are worth exploring."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do self-driving cars work?",
+                    "Answer": "Self-driving cars are equipped with a variety of sensors and cameras that allow them to navigate the world around them. The sensors and cameras collect data about the world around the car, and the car\u2019s computer uses that data to map out a route and navigate to its destination."
+                },
+                {
+                    "Question": "What are the benefits of self-driving cars?",
+                    "Answer": "There are many potential benefits of self-driving cars, including increased safety, efficiency, and convenience."
+                },
+                {
+                    "Question": "Are there any challenges with self-driving cars?",
+                    "Answer": "Yes, there are several challenges with self-driving cars."
+                },
+                {
+                    "Question": "What is the future of self-driving cars?",
+                    "Answer": "The future of self-driving cars is uncertain. It\u2019s possible that self-driving cars will become a mainstream reality in the next few years. However, it\u2019s also possible that the technology will never reach its full potential. Only time will tell."
+                },
+                {
+                    "Question": "How do you feel about self-driving cars?",
+                    "Answer": "I think self-driving cars are a promising new technology. I think they have the potential to be much safer than human-driven cars. I also think they have the potential to be more efficient and convenient. However, I think there are still some challenges that need to be addressed before self-driving cars can become a mainstream reality."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be safe?",
+                    "Answer": "There is no easy answer to this question. Self-driving cars are a new technology, and there is still some debate about how safe they are. Overall, I think self-driving cars have the potential to be much safer than human-driven cars. However, I think there are still some safety concerns that need to be addressed before self-driving cars can become a mainstream reality."
+                },
+                {
+                    "Question": "Do you think self-driving cars will be widely used?",
+                    "Answer": "I think it\u2019s possible that self-driving cars will become a mainstream reality in the next few years. However, I think the future of self-driving cars is uncertain. It\u2019s possible that the technology will never reach its full potential. Only time will tell."
+                },
+                {
+                    "Question": "What do you think about the challenges with self-driving cars?",
+                    "Answer": "I think the challenges with self-driving cars are understandable. Self-driving cars are a new technology, and there are still some kinks that need to be ironed out. Additionally, not everyone is comfortable with the idea of self-driving cars. I think the challenges are surmountable, but they need to be addressed before self-driving cars can become a mainstream reality."
+                },
+                {
+                    "Question": "As an expert in automation and self-driving cars, what is your opinion on the current state of self-driving cars?",
+                    "Answer": "I think self-driving cars are a promising new technology. I think they have the potential to be much safer than human-driven cars. I also think they have the potential to be more efficient and convenient. However, I think there are still some challenges that need to be addressed before self-driving cars can become a mainstream reality."
+                },
+                {
+                    "Question": "What do you think the benefits of self-driving cars are?",
+                    "Answer": "There are many potential benefits of self-driving cars, including increased safety, efficiency, and convenience.Self-driving cars have the potential to be much safer than human-driven cars. They can react faster than humans, and they don\u2019t get tired or distracted.Self-driving cars also have the potential to be much more efficient than human-driven cars. They can drive closer together, and they can make better use of roadways.Convenience is another potential benefit of self-driving cars. If you\u2019re in a self-driving car, you can use that time to do other things, like work or relax."
+                }
+            ],
+            "Output": "Self-driving cars are a promising new technology that could revolutionize transportation. However, there are still some challenges that need to be addressed before self-driving cars can become a mainstream reality.Self-driving cars are equipped with a variety of sensors and cameras that allow them to navigate the world around them. The sensors and cameras collect data about the world around the car, and the car\u2019s computer uses that data to map out a route and navigate to its destination.There are many potential benefits of self-driving cars, including increased safety, efficiency, and convenience.Self-driving cars have the potential to be much safer than human-driven cars. They can react faster than humans, and they don\u2019t get tired or distracted.Self-driving cars also have the potential to be much more efficient than human-driven cars. They can drive closer together, and they can make better use of roadways.Convenience is another potential benefit of self-driving cars. If you\u2019re in a self-driving car, you can use that time to do other things, like work or relax.However, there are also some challenges with self-driving cars. One challenge is that self-driving cars are still new technology, and there are still some kinks that need to be ironed out.Another challenge is that not everyone is comfortable with the idea of self-driving cars. Some people are worried about safety, and others are worried about privacy.Another challenge is that self-driving cars could lead to job losses. For example, taxi and Uber drivers could be replaced by self-driving cars.Overall, self-driving cars are a promising new technology with the potential to revolutionize transportation. However, there are still some challenges that need to be addressed before self-driving cars can become a mainstream reality."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ul89Zot2Rsdo1t3eNhOeQfog?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/M0tgBzy9heJr1tTiHvkNcnyp?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/V2MPZ5WcNd0j4msVxW4oQ6m8?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/14A3L5rMJZz7g0vx49iogVtWP3DVuVvbz?usp=sharing"
+}

@@ -1,0 +1,153 @@
+{
+    "Contributor": "guweiwei",
+    "Domain": "Acting",
+    "Task": "Actor_interview_main_char",
+    "Prompt": {
+        "pre_question_prompt": "I am a professional actor who acts as the main character in the film. I will ask some questions to collect information and then I will use the information to prepare a speech in the interview.",
+        "task_specific_prompt": "Write a speech for interview using all the questions and answers above. Make the audience exciting for the film and the next project."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the film?",
+                    "Answer": "The name of the film is 'Last Samurai'."
+                },
+                {
+                    "Question": "What is your character's name?",
+                    "Answer": "My character's name is Kenshinn."
+                },
+                {
+                    "Question": "What is the plot of the film?",
+                    "Answer": "The plot of the film is set in Japan during the late 1800s, and revolves around a group of samurai who fight to keep their way of life alive as the world around them changes."
+                },
+                {
+                    "Question": "What are your thoughts on your character?",
+                    "Answer": "I think my character is a skillful warrior. He used to be very determined that it is necessary for him to kill for the greater good. However, because he is a good person in heart, he feels tired and empty for being a killing machine during the process, and swears to kill no more and use his katana instead to protect people."
+                },
+                {
+                    "Question": "What is your favorite scene in the film?",
+                    "Answer": "My favorite scene in the film is when Kenshinn and his friends are in the forest and they are about to fight the enemy. Kenshinn's friends are killed one by one, but Kenshinn keeps going and he is the only one left standing. He is covered in blood, but he keeps fighting and he eventually defeats the enemy."
+                },
+                {
+                    "Question": "What was the most challenging scene for you to film?",
+                    "Answer": "The most challenging scene for me to film was the final scene that Kenshinn struggles in his assassination task after seeing the strong will to survive of his target."
+                },
+                {
+                    "Question": "What was your favorite part of filming?",
+                    "Answer": "My favorite part of filming was getting to explore the different aspects of my character. I enjoyed playing a character who is conflicted and has to grapple with his own morality."
+                },
+                {
+                    "Question": "What are your thoughts on the film overall?",
+                    "Answer": "I think the film is a great exploration of the true samurai code and what it means to be a samurai in a changing world. It's a very visually stunning film and I think it will be very popular."
+                },
+                {
+                    "Question": "Do you have any upcoming projects that you can tell us about?",
+                    "Answer": "I am currently working on a film called 'The Last Samurai 2'. It is a sequel to 'Last Samurai' and it picks up where the first film left off. I am really excited to be a part of this project and I think fans of the first film will love it."
+                },
+                {
+                    "Question": "Do you have any advice for aspiring actors?",
+                    "Answer": "My advice for aspiring actors is to never give up on your dreams. If you truly believe in yourself and your talents, you will eventually find success. Just keep working hard and eventually your time will come."
+                }
+            ],
+            "Output": "Hello, everyone. Thank you for taking the time to speak with me today. I am thrilled to be here to talk about my new film, 'Last Samurai'. As many of you know, the film is set in Japan during the late 1800s, and revolves around a group of samurai who fight to keep their way of life alive as the world around them changes. I think this film will be very popular because it is such a visually stunning film and because it explores the true samurai code. I play the main character, Kenshinn, in the film. Kenshinn is a skilled warrior who has to grapple with his own morality. I enjoyed playing this character because he is so conflicted and there are so many different aspects to him. The final scene in the film was the most challenging for me to film. Kenshinn is struggling with his decision to kill or not kill his target. This was a very emotional scene and it was difficult to get into the mindset of my character. Overall, I am very proud of this film and I think it will be very successful. I would like to thank everyone who worked on this film with me. I could not have done it without you. Now, I would like to speak about my next project. I am currently working on a film called 'The Last Samurai 2'. It is a sequel to 'Last Samurai' and it picks up where the first film left off. I am really excited to be a part of this project and I think fans of the first film will love it. I want to thank you all again for your time. I hope you enjoy the film."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the film?",
+                    "Answer": "The name of the film is 'Last Customer'."
+                },
+                {
+                    "Question": "What is your character's name?",
+                    "Answer": "My character's name is Ben."
+                },
+                {
+                    "Question": "What is the plot of the film?",
+                    "Answer": "The plot of the film is set in a cafeteria in Hongkong. It depicts the terrifying and abnormal things the main character experiences after he starts working as a waiter in the cafeteria."
+                },
+                {
+                    "Question": "What are your thoughts on your character?",
+                    "Answer": "I think my character is a normal figure that we can see everywhere in our life. However, during his weird experiences, he become scared, confused, and irritated. "
+                },
+                {
+                    "Question": "What is your favorite scene in the film?",
+                    "Answer": "My favorite scene in the film is when Ben first encounters the ghost, and by the time he was treating the ghost as normal customers, without noticing any abnormality."
+                },
+                {
+                    "Question": "What was the most challenging scene for you to film?",
+                    "Answer": "The most challenging scene for me to film was the scene that Ben finally got the false hope to being able to escape from the ghost, and then he was haunted again with even deeper desperate."
+                },
+                {
+                    "Question": "What was your favorite part of filming?",
+                    "Answer": "My favorite part of filming was getting to explore the different aspects of my character. Specifically, it's interesting to explore the transition of the character under such a terrifying and stressful settings."
+                },
+                {
+                    "Question": "What are your thoughts on the film overall?",
+                    "Answer": "I think the film is a great exploration of true humanity under the threat of death and unknown. It is a terrifying movie that every hope given in the movie is false and finally devoured by greater desperate."
+                },
+                {
+                    "Question": "Do you have any upcoming projects that you can tell us about?",
+                    "Answer": "I am currently working on a film called 'Waiter', which is a sequential film continue on the story. I can't speak anything detail of it yet."
+                },
+                {
+                    "Question": "Do you have any advice for aspiring actors?",
+                    "Answer": "My advice for aspiring actors is to never give up on your dreams. If you truly believe in yourself and your talents, you will eventually find success. Just keep working hard and eventually your time will come."
+                }
+            ],
+            "Output": "Hi, my name is Ben and I act as the main character in the film 'Last Customer'. In the film, I play a waiter who experiences terrifying and abnormal things after starting to work in a cafeteria in Hongkong. I think my character is a normal figure that we can see everywhere in our life. However, during his weird experiences, he become scared, confused, and irritated. My favorite scene in the film is when Ben first encounters the ghost, and by the time he was treating the ghost as normal customers, without noticing any abnormality. The most challenging scene for me to film was the scene that Ben finally got the false hope to being able to escape from the ghost, and then he was haunted again with even deeper desperate. My favorite part of filming was getting to explore the different aspects of my character. Specifically, it's interesting to explore the transition of the character under such a terrifying and stressful settings. I think the film is a great exploration of true humanity under the threat of death and unknown. It is a terrifying movie that every hope given in the movie is false and finally devoured by greater desperate. I am currently working on a film called 'Waiter', which is a sequential film continue on the story. I can't speak anything detail of it yet. My advice for aspiring actors is to never give up on your dreams. If you truly believe in yourself and your talents, you will eventually find success. Just keep working hard and eventually your time will come."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the film?",
+                    "Answer": "The name of the film is 'The Decryption Game'."
+                },
+                {
+                    "Question": "What is your character's name?",
+                    "Answer": "My character's name is Alan."
+                },
+                {
+                    "Question": "What is the plot of the film?",
+                    "Answer": "The plot of the film is set in England in WWII. The main character tries to crack the Nazi's encryption system along with his colleague scientists. "
+                },
+                {
+                    "Question": "What are your thoughts on your character?",
+                    "Answer": "My character is a genius mathematician. He is excited working to crack the encryption system, and his genius work saved millions of lives in the war. However on the other hand, because of his homosexuality nature, he is deeply troubled by his relationships with his colleagues."
+                },
+                {
+                    "Question": "What is your favorite scene in the film?",
+                    "Answer": "My favorite scene in the film is when Alan told her fiancee that he is actually homosexual."
+                },
+                {
+                    "Question": "What was the most challenging scene for you to film?",
+                    "Answer": "The most challenging scene for me to film was the final scene that Alan's suicide by eating a poisonous apple."
+                },
+                {
+                    "Question": "What was your favorite part of filming?",
+                    "Answer": "My favorite part of filming was getting to explore the different aspects of my character. I enjoyed playing a character who is conflicted."
+                },
+                {
+                    "Question": "What are your thoughts on the film overall?",
+                    "Answer": "The film displays the strong contrast between the fascinating cleverness of Alan and his trouble as a normal person."
+                },
+                {
+                    "Question": "Do you have any upcoming projects that you can tell us about?",
+                    "Answer": "Currently not."
+                },
+                {
+                    "Question": "Do you have any advice for aspiring actors?",
+                    "Answer": "My advice for aspiring actors is to never give up on your dreams. If you truly believe in yourself and your talents, you will eventually find success. Just keep working hard and eventually your time will come."
+                }
+            ],
+            "Output": "Hi, everyone. I'm Alan, the main character in 'The Decryption Game'. It's an exciting film set during WWII in England. My character is a genius mathematician who works to crack the Nazi's encryption system. The film displays the strong contrast between the fascinating cleverness of Alan and his trouble as a normal person. I think it will be a great film for everyone to watch. As for upcoming projects, I don't have anything lined up at the moment but I encourage aspiring actors to never give up on their dreams. If you truly believe in yourself and your talents, you will eventually find success. Just keep working hard and eventually your time will come. Thanks for watching 'The Decryption Game'!"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZoTXu74DQyGPpW52BERtihXf?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/2hZGSpsgJFH5A0NH0PCV9pFj?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/IEwTQwly1R3MmYD6oqao5Nhw?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1hgEFuVQtYT0umJDuoxHVIFTbQYMFlJrq?usp=sharing",
+    "contributor": "Weiwei Gu"
+}

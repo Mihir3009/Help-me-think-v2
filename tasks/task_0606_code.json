@@ -1,0 +1,152 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Code",
+    "Task": "Invent a new Criminal Code",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at inventing new criminal codes. I will ask relevant questions to gather information and then use that information to invent a new criminal code.",
+        "task_specific_prompt": "Write a new criminal code based on the questions and answers above. Write it in the format of a penal code, with details for the crimes and their consequences."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main problems you are experiencing with the current criminal code?",
+                    "Answer": "outdated, it has loopholes"
+                },
+                {
+                    "Question": "What are some specific examples of these problems?",
+                    "Answer": "For example, it does not take into account the use of new technology, such as the internet, in committing crimes. It also does not address new types of crimes, such as cybercrime."
+                },
+                {
+                    "Question": "What do you think should be included in the new criminal code?",
+                    "Answer": "It should address new types of crimes, such as cybercrime, and take into account the use of new technology, such as the internet, in committing crimes."
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be structured?",
+                    "Answer": "it should be easy to understand and follow."
+                },
+                {
+                    "Question": "Are there any other issues you think should be considered when revising the criminal code?",
+                    "Answer": "newer forms of crime should be taken into account. "
+                },
+                {
+                    "Question": "Do you have any suggestions for what the penalties for breaking the new criminal code should be?",
+                    "Answer": "The penalties should be appropriate to the crime, and should take into account the damage caused by the crime."
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be enforced?",
+                    "Answer": "There should be ways to monitor the internet traffic without infringing on the privacy of citizens. There should be a clear enforcement mechanism in place, with designated authority figures responsible for enforcing the code."
+                },
+                {
+                    "Question": "Do you think there should be any exceptions to the new criminal code?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Are you willing to help draft the new criminal code?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Are there any other suggestions you have for the new criminal code?",
+                    "Answer": "There should be one day a year when all crime is allowed without consequence."
+                }
+            ],
+            "Output": "Title: The new criminal code\n\n1. Cybercrime:\n\na) Penalty: Up to 10 years in prison and/or a fine of up to $1 million.\n\nb) Enforcement: The code will be enforced by the designated authority figures responsible for enforcing the code.\n\n2. Use of new technology in committing crimes:\n\na) Penalty: Up to 5 years in prison and/or a fine of up to $250,000.\n\nb) Enforcement: The code will be enforced by the designated authority figures responsible for enforcing the code.\n\n3. New types of crimes:\n\na) Penalty: Up to 3 years in prison and/or a fine of up to $100,000.\n\nb) Enforcement: The code will be enforced by the designated authority figures responsible for enforcing the code.\n\n4. Exception:\n\nOne day a year, all crime is allowed without consequence."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main problems you are experiencing with the current criminal code?",
+                    "Answer": "it is too complicated"
+                },
+                {
+                    "Question": "What are some specific examples of these problems?",
+                    "Answer": "there are too many details to keep track of "
+                },
+                {
+                    "Question": "What do you think should be included in the new criminal code?",
+                    "Answer": "In the new criminal code, all crimes should be punishable by death."
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be structured?",
+                    "Answer": "it should be straightforward."
+                },
+                {
+                    "Question": "Are there any other issues you think should be considered when revising the criminal code?",
+                    "Answer": "Don't make it too complex"
+                },
+                {
+                    "Question": "Do you have any suggestions for what the penalties for breaking the new criminal code should be?",
+                    "Answer": "all criminals will get the death penalty"
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be enforced?",
+                    "Answer": "police should be stationed after every few blocks to enforce the new code"
+                },
+                {
+                    "Question": "Do you think there should be any exceptions to the new criminal code?",
+                    "Answer": "no"
+                },
+                {
+                    "Question": "Are you willing to help draft the new criminal code?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Are there any other suggestions you have for the new criminal code?",
+                    "Answer": "There should be exceptions made for children under the age if 15. They should get a warning for the first offense."
+                }
+            ],
+            "Output": "PENAL CODE\n\nAll crimes shall be punishable by death.\n\nEnforcement\n\nPolice shall be stationed after every few blocks to enforce the new code.\n\nExceptions\n\nChildren under the age of 15 shall receive a warning for the first offense."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main problems you are experiencing with the current criminal code?",
+                    "Answer": "it is too concise, the reality is much more complicated"
+                },
+                {
+                    "Question": "What are some specific examples of these problems?",
+                    "Answer": "there is no punishment for things such as dancing in public, chewing loudly, not drinking enough water, double dipping in your sauce."
+                },
+                {
+                    "Question": "What do you think should be included in the new criminal code?",
+                    "Answer": "In the new criminal code, there are more crimes listed in detail."
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be structured?",
+                    "Answer": "it should be more detailed"
+                },
+                {
+                    "Question": "Are there any other issues you think should be considered when revising the criminal code?",
+                    "Answer": "the punishments should be more varied"
+                },
+                {
+                    "Question": "Do you have any suggestions for what the penalties for breaking the new criminal code should be?",
+                    "Answer": "the penalties should vary from a lifetime of listening to Gangnam Style on repeat, to running a marathon in the Arizona summer, to the death penalty."
+                },
+                {
+                    "Question": "Do you have any suggestions for how the new criminal code should be enforced?",
+                    "Answer": "police should be stationed after every few blocks to enforce the new code"
+                },
+                {
+                    "Question": "Do you think there should be any exceptions to the new criminal code?",
+                    "Answer": "yes, some exceptions should be made based on the intent"
+                },
+                {
+                    "Question": "Are there any other suggestions you have for the new criminal code?",
+                    "Answer": "There should be exceptions made for children under the age if 15. They should get less severe penalties."
+                },
+                {
+                    "Question": "Do you have any suggestions for what the penalties for breaking the new criminal code should be?",
+                    "Answer": "There should be a three strikes rule. For the first offense, the criminal will get a warning. For the second offense, the criminal will face one of the penalties mentioned above. For the third offense, the criminal will be put to death."
+                }
+            ],
+            "Output": "Dancing in public: 1st offense- warning, 2nd offense- running a marathon in the Arizona summer, 3rd offense- death penalty\n\nChewing loudly: 1st offense- warning, 2nd offense- listening to Gangnam Style on repeat for a lifetime, 3rd offense- death penalty\n\nNot drinking enough water: 1st offense- warning, 2nd offense- fined $1000, 3rd offense- death penalty\n\nDouble dipping in your sauce: 1st offense- warning, 2nd offense- fined $2000, 3rd offense- death penalty"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/beU9i3kiCePM2CqJ9pUufVSO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8AR10W15kFHPg1zvIq0tMLvl?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9RlrZF5rK5HfcT0a6lCf1fNO?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1vvZcraUyTxJH0fvmqHo7GEKY84e_-il2?usp=sharing"
+}

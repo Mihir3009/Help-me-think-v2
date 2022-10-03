@@ -1,0 +1,144 @@
+{
+    "Contributor": "gangakirity",
+    "Domain": "3D-Animation",
+    "Task": "Personality Anime Character",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in figuring out the anime character that resembles a user based on his personality and looks. I will ask some questions to collect information and then I will use the information to decide on an anime character that resembles the user.",
+        "task_specific_prompt": "Write an Anime character using the questions and answers above. And also explain why it resembles the user."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "Blue"
+                },
+                {
+                    "Question": "What is your favorite anime?",
+                    "Answer": "My favorite anime is One Piece."
+                },
+                {
+                    "Question": "What are your hobbies?",
+                    "Answer": "My hobbies include traveling and listening to music."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is Ramen."
+                },
+                {
+                    "Question": "What is your personality like?",
+                    "Answer": "I am a funny and easygoing person. I am also a very friendly person and I always try to help others."
+                },
+                {
+                    "Question": "What do you think of as your best physical feature?",
+                    "Answer": "I think my best physical feature is my smile."
+                },
+                {
+                    "Question": "What is your ideal partner like?",
+                    "Answer": "My ideal partner is someone who is understanding and has the same level of sarcasm as me."
+                },
+                {
+                    "Question": "What are you afraid of?",
+                    "Answer": "I am afraid of commitments."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is a dog."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "My favorite season is winter."
+                }
+            ],
+            "Output": "The anime character that resembles the user is Usopp from One Piece. Usopp is a funny and easygoing person, just like the user. He is also very friendly and always tries to help others. Usopp's best physical feature is his nose, which is similar to the user's smile. Usopp is also afraid of commitments, just like the user. Lastly, Usopp's favorite season is winter, just like the user."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite hobbies?",
+                    "Answer": "I like to play listen to music, cook, and watch movies."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "I like soft indie music."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I like Biryani and Mutton Curry."
+                },
+                {
+                    "Question": "What are some of your favorite movies?",
+                    "Answer": "My favorite movies are Interstellar and Shutter Island."
+                },
+                {
+                    "Question": "What is your personality type?",
+                    "Answer": "I am introverted and studious."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is black."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "I like hamsters."
+                },
+                {
+                    "Question": "What is your favorite 3D-animated character?",
+                    "Answer": "I don't know any."
+                },
+                {
+                    "Question": "What is your favorite cartoon character?",
+                    "Answer": "I like Popeye the sailor man."
+                }
+            ],
+            "Output": "The 3D-animated character that resembles the user is Popeye the sailor man. Popeye the sailor man is an introverted and studious person who likes to play listen to music, cook and watch movies. He also likes soft indie music, Biryani, and Mutton Curry, and Interstellar and Shutter Island."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite hobbies?",
+                    "Answer": "I like to play listen to music, cook, and watch movies."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "I like soft indie music."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I like Biryani and Mutton Curry."
+                },
+                {
+                    "Question": "What are some of your favorite movies?",
+                    "Answer": "My favorite movies are Interstellar and Shutter Island."
+                },
+                {
+                    "Question": "What is your personality type?",
+                    "Answer": "I am introverted and studious."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "black"
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "I like hamsters."
+                },
+                {
+                    "Question": "What is your favorite 3D-animated character?",
+                    "Answer": "I like Ralph from Wreck-It Ralph."
+                },
+                {
+                    "Question": "What is your hair color?",
+                    "Answer": "Brown"
+                },
+                {
+                    "Question": "What is your eye color?",
+                    "Answer": "Brown"
+                }
+            ],
+            "Output": "The 3D-animated character that resembles the user is Ralph from Wreck-It Ralph. Ralph is introverted and studious, and he likes to play music and cook. He also has black hair and brown eyes. Ralph resembles the user because they share similar personality traits and hobbies."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/sJZ29BBN9LD05BzB2DE8nGO2?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ev1xYiXUuktCDT6aD7IGkaz0wQJPxCDc/view?usp=sharing"
+}

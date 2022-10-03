@@ -1,0 +1,196 @@
+{
+    "Contributor": "guptaakshat",
+    "Domain": "Higher Education",
+    "Task": "Suggesting Degree Program",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous education counsellor with experience in finding best degree program for students. I will ask some questions to collect information and then I will use that information to find the best degree program for you.",
+        "task_specific_prompt": "Suggest a degree using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have done bachelor's in Information Technology"
+                },
+                {
+                    "Question": "What are your educational goals?",
+                    "Answer": "I want to learn data science and analytics"
+                },
+                {
+                    "Question": "What type of job are you interested in?",
+                    "Answer": "I want to work as a data analyst"
+                },
+                {
+                    "Question": "What is your budget for tuition?",
+                    "Answer": "I can afford up to $20,000 per year"
+                },
+                {
+                    "Question": "What is your preferred learning style?",
+                    "Answer": "I prefer to learn in class"
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I prefer to study in the United States"
+                },
+                {
+                    "Question": "What is your preferred program length?",
+                    "Answer": "I prefer a two-year program"
+                },
+                {
+                    "Question": "What is your citizenship status?",
+                    "Answer": "I am a citizen of India"
+                },
+                {
+                    "Question": "What is your TOEFL score?",
+                    "Answer": "I have a score of 100 on the TOEFL"
+                },
+                {
+                    "Question": "What is your GPA?",
+                    "Answer": "I have a GPA of 3.5"
+                },
+                {
+                    "Question": "What are your extracurricular interests?",
+                    "Answer": "I am interested in playing sports and I am also a member of the music society."
+                }
+            ],
+            "Output": "The degree I would recommend is a Master's in Data Science."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have just completed my high school."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in mathematics and physics."
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "I would like to pursue a career in engineering."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "I have a limited budget."
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I would like to stay in India."
+                },
+                {
+                    "Question": "What is your preferred type of institution?",
+                    "Answer": "I would like to attend a university."
+                },
+                {
+                    "Question": "What is your preferred learning environment?",
+                    "Answer": "I would like to learn in a traditional classroom setting."
+                },
+                {
+                    "Question": "What is your preferred teaching style?",
+                    "Answer": "I prefer a hands-on approach to learning."
+                },
+                {
+                    "Question": "What is your level of English proficiency?",
+                    "Answer": "I am proficient in English."
+                },
+                {
+                    "Question": "What are your other skills and interests?",
+                    "Answer": "I am interested in computers and programming."
+                },
+                {
+                    "Question": "What are your availability?",
+                    "Answer": "I am available full time."
+                },
+                {
+                    "Question": "What are your preferred start date?",
+                    "Answer": "I would like to start my degree program as soon as possible."
+                },
+                {
+                    "Question": "What is your preferred length of study?",
+                    "Answer": "I would like to study for four years."
+                },
+                {
+                    "Question": "What is your citizenship?",
+                    "Answer": "I am a citizen of India."
+                }
+            ],
+            "Output": "The best degree program for you would be an engineering program at a university in India."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your educational background?",
+                    "Answer": "I have just completed my high school."
+                },
+                {
+                    "Question": "What are your educational goals?",
+                    "Answer": "I am looking to pursue a degree in medicine"
+                },
+                {
+                    "Question": "What are your specific areas of interest within medicine?",
+                    "Answer": "I am interested in becoming a doctor specializing in pediatrics."
+                },
+                {
+                    "Question": "What type of schedule do you prefer?",
+                    "Answer": "I would like a schedule that is flexible and allows me to have time for other activities outside of school."
+                },
+                {
+                    "Question": "What is your budget for tuition?",
+                    "Answer": "I can afford upto $20,000 a year."
+                },
+                {
+                    "Question": "What is your preferred location?",
+                    "Answer": "I would like to stay in the United States for my studies."
+                },
+                {
+                    "Question": "What is your preferred learning style?",
+                    "Answer": "I prefer a hands-on learning style where I can get involved in practical activities."
+                },
+                {
+                    "Question": "What are your preferred extracurricular activities?",
+                    "Answer": "I am interested in extracurricular activities that involve helping others, such as volunteering at a hospital or working with a nonprofit organization."
+                },
+                {
+                    "Question": "Do you have any other preferences or requirements that you would like me to consider?",
+                    "Answer": "I would like to find a degree program that is accredited and offers a good reputation."
+                },
+                {
+                    "Question": "What is your preferred degree program?",
+                    "Answer": "I am interested in a degree program that offers a broad range of courses in medicine."
+                },
+                {
+                    "Question": "What is your preferred type of institution?",
+                    "Answer": "I would like to attend a university that is known for its research opportunities."
+                },
+                {
+                    "Question": "What is your preferred size of institution?",
+                    "Answer": "I would like to attend a large university."
+                },
+                {
+                    "Question": "What is your preferred campus setting?",
+                    "Answer": "I would like to attend a university that is located in a major city."
+                },
+                {
+                    "Question": "What is your preferred climate?",
+                    "Answer": "I would like to attend a university that is located in a warm climate."
+                },
+                {
+                    "Question": "What is your preferred admissions requirements?",
+                    "Answer": "I would like to find a degree program that has high admissions requirements."
+                },
+                {
+                    "Question": "What is your preferred degree program length?",
+                    "Answer": "I would like to find a degree program that can be completed in four years."
+                }
+            ],
+            "Output": "The ideal degree program for the student would be a Bachelor of Science in Medicine from a large university located in a warm climate with high admissions requirements. The program should offer a broad range of courses in medicine and should be accredited with a good reputation. The student should also look for a degree program that is flexible and allows for extracurricular activities outside of school."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/lutwt9hYUB9u82sgs2CFGCf7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CzCzNLRk0ffDJeJ7OBN9qME4?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/w0HSffLx7Vhf9ttV31oHnF9J?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1CJmEMtQ2MSKiHuao1GISTEwgvAMAjHTp?usp=sharing"
+}

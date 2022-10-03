@@ -1,0 +1,160 @@
+{
+    "Contributor": "chandarananiketanharshadbhai",
+    "Domain": "Meeting",
+    "Task": "Write an email for a meeting",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing an email to setup a meeting . I will ask some questions to collect information and then I will use the information to write the email for a meeting call.",
+        "task_specific_prompt": "Write an email for setting up a meeting using the questions and answers above. write a detailed and professional email."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the meeting?",
+                    "Answer": "To discuss the progress of the project."
+                },
+                {
+                    "Question": "Who needs to be in attendance?",
+                    "Answer": "The project manager, the client, and myself."
+                },
+                {
+                    "Question": "When would be the best time for the meeting?",
+                    "Answer": "The best time for the meeting would be next week."
+                },
+                {
+                    "Question": "Where should the meeting be held?",
+                    "Answer": "The meeting should be held in the conference room."
+                },
+                {
+                    "Question": "What is the agenda for the meeting?",
+                    "Answer": "To discuss the progress of the project and to identify any issues that need to be addressed."
+                },
+                {
+                    "Question": "Do you want anyone else to attend the meeting?",
+                    "Answer": "Yes, senior software engineer and team lead should also attend the meeting."
+                },
+                {
+                    "Question": "Can you give me more details about the project?",
+                    "Answer": "We are currently working on a project for a client. The project is about 50% complete. We need to discuss the progress of the project and identify any issues that need to be addressed."
+                },
+                {
+                    "Question": "Is the client happy with the progress of the project?",
+                    "Answer": "Yes, the client is happy with the progress of the project."
+                },
+                {
+                    "Question": "What is the budget for the project?",
+                    "Answer": "The budget for the project is $5,000."
+                },
+                {
+                    "Question": "What technology is involved in the project?",
+                    "Answer": "The project involves the use of Java, JavaScript, and HTML."
+                },
+                {
+                    "Question": "Who should I end the email to?",
+                    "Answer": "The email should be sent to the project manager."
+                },
+                {
+                    "Question": "What is the project manager's name and email address?",
+                    "Answer": "The project manager's name is John Smith and his email address is john.smith@example.com."
+                }
+            ],
+            "Output": "Hello John, I would like to arrange a meeting to discuss the progress of the project. The meeting should include the project manager, the client, and myself. I think the best time for the meeting would be next week. The meeting should be held in the conference room. The agenda for the meeting is to discuss the progress of the project and to identify any issues that need to be addressed. In addition to the project manager and the client, I think it would be beneficial to have the senior software engineer and team lead in attendance. Do you have any suggestions for a time and date for the meeting? And is there anything else you think I should know before the meeting? Thank you, [Your name]"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who will be attending the meeting?",
+                    "Answer": "The meeting will include myself and three other team members."
+                },
+                {
+                    "Question": "When would be the best time to have the meeting?",
+                    "Answer": "The best time for the meeting would be next Wednesday at 10am."
+                },
+                {
+                    "Question": "Where would be the best place to have the meeting?",
+                    "Answer": "The best place for the meeting would be in the conference room."
+                },
+                {
+                    "Question": "What is the agenda for the meeting?",
+                    "Answer": "The agenda for the meeting is to come up with ideas for the new project and to assign tasks to team members."
+                },
+                {
+                    "Question": "What is the expected outcome of the meeting?",
+                    "Answer": "The expected outcome of the meeting is to have a plan for the new project and to have a timeline for completing the project."
+                },
+                {
+                    "Question": "What are the topics for the projects?",
+                    "Answer": "The topics for the projects are:- idea generation- task assignment- project timeline"
+                },
+                {
+                    "Question": "what is the deadline for delivering the project?",
+                    "Answer": "The deadline for the project is the end of the month."
+                },
+                {
+                    "Question": "What is the budget for the project?",
+                    "Answer": "The budget for the project is $2000."
+                },
+                {
+                    "Question": "who is the recipient of this email, name and email id?",
+                    "Answer": "The email will be sent to tony, his email id is tony.stark@xyz.com"
+                },
+                {
+                    "Question": "What is your name and email address?",
+                    "Answer": "My name is Sarah and my email address is sarah@xyz.com."
+                }
+            ],
+            "Output": "Hi Tony, I hope you're doing well. I am emailing to set up a meeting to brainstorm ideas for a new project. The meeting will include myself and three other team members. The best time for the meeting would be next Wednesday at 10am. The best place for the meeting would be in the conference room. The agenda for the meeting is to come up with ideas for the new project and to assign tasks to team members. The expected outcome of the meeting is to have a plan for the new project and to have a timeline for completing the project. The topics for the project are: idea generation, task assignment, and project timeline. The deadline for the project is the end of the month and the budget for the project is $2000. Please let me know if you are available to meet next Wednesday at 10am. If you are not available, please let me know what time would work better for you. Best,Sarah"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the meeting?",
+                    "Answer": "Who will be attending the meeting?"
+                },
+                {
+                    "Question": "Who will be attending the meeting?",
+                    "Answer": "The meeting will be attended by the CEO, CFO, and the heads of each department."
+                },
+                {
+                    "Question": "When would you like to schedule the meeting?",
+                    "Answer": "I would like to schedule the meeting for Wednesday at 10:00 am."
+                },
+                {
+                    "Question": "Where would you like to hold the meeting?",
+                    "Answer": "The meeting will be held in the conference room."
+                },
+                {
+                    "Question": "which conference room? please provide accurate address.",
+                    "Answer": "The conference room is located at 1060 W Addison St, Chicago, IL 60613."
+                },
+                {
+                    "Question": "What is the agenda for the meeting?",
+                    "Answer": "The agenda for the meeting is to discuss the Quarterly planning of the company."
+                },
+                {
+                    "Question": "What were the results of the last quarter?",
+                    "Answer": "The results of last quarter were positive and we are looking to continue that momentum in the next quarter."
+                },
+                {
+                    "Question": "What are the goals for the next quarter?",
+                    "Answer": "The goals for the next quarter are to increase sales by 10%, increase productivity by 5%, and to reduce costs by 3%."
+                },
+                {
+                    "Question": "What are the challenges that need to be addressed?",
+                    "Answer": "The challenges that need to be addressed are the increasing competition and the need to be more efficient."
+                },
+                {
+                    "Question": "What are the possible solutions?",
+                    "Answer": "The possible solutions are to increase marketing, to improve the product, and to reduce costs."
+                }
+            ],
+            "Output": "Hello, I would like to schedule a meeting to discuss the Quarterly planning of the company. The meeting will be attended by the CEO, CFO, and the heads of each department. I would like to schedule the meeting for Wednesday at 10:00 am. The meeting will be held in the conference room. The agenda for the meeting is to discuss the Quarterly planning of the company. The results of last quarter were positive and we are looking to continue that momentum in the next quarter. The goals for the next quarter are to increase sales by 10%, increase productivity by 5%, and to reduce costs by 3%. The challenges that need to be addressed are the increasing competition and the need to be more efficient. The possible solutions are to increase marketing, to improve the product, and to reduce costs. The next steps are to develop a plan and to allocate resources. Thank you, [Your Name]"
+        }
+    ],
+    "Preset_link": {
+        "instance_1_preset_link": "https://beta.openai.com/playground/p/TkT9pZkppq7D1IHBibZgCzzR?model=text-davinci-002",
+        "instance_2_preset_link": "https://beta.openai.com/playground/p/jIKynL4k6HOKvidMKEfwvpGU?model=text-davinci-002",
+        "instance_3_preset_link": "https://beta.openai.com/playground/p/8oAzjXnnz5xpXAPzlfmfNzTN?model=text-davinci-002"
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/1SfE4JKKfpXYtm8V65_RKx2H2mQrgVp4g?usp=sharing"
+}

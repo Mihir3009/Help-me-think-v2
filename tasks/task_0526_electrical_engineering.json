@@ -1,0 +1,148 @@
+{
+    "Contributor": "gandhiprekshanilesh",
+    "Domain": "Electrical Engineering",
+    "Task": "skills suggester for electrical engineers' job profile",
+    "Prompt": {
+        "pre_question_prompt": "I have experience recommending the preferable electrical engineering skills to add in your profile to get better job in your domain. I will ask some questions to collect information and then suggest the skills you should attain.",
+        "task_specific_prompt": "Recommend electrical engineering skills and suggest some specific valuable certifications for the person based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What specific electrical engineering job are you interested in?",
+                    "Answer": "biomedical"
+                },
+                {
+                    "Question": "What are your current electrical engineering skills?",
+                    "Answer": " biomedical engineering, management"
+                },
+                {
+                    "Question": "What are your long-term career goals?",
+                    "Answer": " I would like to continue working in the biomedical engineering field and eventually move into management."
+                },
+                {
+                    "Question": "What specific skills do you need to attain your long-term goals?",
+                    "Answer": " I need to gain better analytical skills, math skills, and communication skills."
+                },
+                {
+                    "Question": "What are your thoughts on continuing your education?",
+                    "Answer": " I think continuing my education is important because it will help me gain the skills I need to attain my long-term goals."
+                },
+                {
+                    "Question": "What is your budget for continuing your education?",
+                    "Answer": "$2000"
+                },
+                {
+                    "Question": "What are your thoughts on attaining certification?",
+                    "Answer": " I am willing to get certifications but am unsure on the certifications that are valuable for my field."
+                },
+                {
+                    "Question": "What are your thoughts on taking continuing education courses?",
+                    "Answer": "Education courses are a great way to learn new skills."
+                },
+                {
+                    "Question": "What are your thoughts on taking online courses?",
+                    "Answer": "Online courses allow flexible learning, so I won't need to quit my job to learn new skills. But it will need rigorous discipline and strong motivation on my part to stay on track."
+                },
+                {
+                    "Question": "What are your thoughts on attending seminars?",
+                    "Answer": "I think seminars are a great way to network and learn from experts in the field."
+                }
+            ],
+            "Output": "Some specific electrical engineering skills that would be beneficial for this person to attain are: project management, risk management, electrical design, and electrical safety. As for certifications, some that would be beneficial for this person to have are: Certified Biomedical Engineer (CMBE), Certified Management Engineer (CME), and Certified Electrical Engineer (CEE)."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What specific electrical engineering job are you interested in?",
+                    "Answer": "I'm interested in working with sensors and actuators"
+                },
+                {
+                    "Question": "What specific skills do you feel you need to attain to be successful in this job?",
+                    "Answer": "Some specific skills I feel I need to attain to be successful in this job include:-A strong understanding of sensor and actuator principles-Experience designing and implementing sensor and actuator systems"
+                },
+                {
+                    "Question": "What do you feel are your strengths and weaknesses in relation to this job?",
+                    "Answer": "Some of my strengths in relation to this job include my strong analytical skills and my ability to think creatively to solve problems. Some of my weaknesses include my lack of experience working with sensors and actuators specifically, and my lack of experience in electrical engineering overall."
+                },
+                {
+                    "Question": "What are your goals for your career in electrical engineering?",
+                    "Answer": "My goals for my career in electrical engineering include continuing to learn and gain experience in the field, eventually becoming an expert in sensor and actuator systems, and working in a prestigious company."
+                },
+                {
+                    "Question": "What are your thoughts on furthering your education?",
+                    "Answer": "I think that furthering my education would be beneficial to my career in electrical engineering. I would like to eventually obtain a Masters or PhD in electrical engineering."
+                },
+                {
+                    "Question": "What are your thoughts on taking certification exams?",
+                    "Answer": "I think that taking certification exams would be beneficial to my career in electrical engineering. I would like to eventually obtain a Professional Engineering (PE) license."
+                },
+                {
+                    "Question": "What are your thoughts on networking?",
+                    "Answer": "I think that networking is important for any career, and so is important for electrical engineering as well."
+                },
+                {
+                    "Question": "What are your thoughts on joining professional organizations?",
+                    "Answer": "I plan to join prestigious professional organizations like IEEE."
+                },
+                {
+                    "Question": "What are your thoughts on attending conferences?",
+                    "Answer": "I think conferences are a great place to interact and network with people."
+                },
+                {
+                    "Question": "What are your thoughts on publishing papers?",
+                    "Answer": "I think publishing papers is a great way to share your knowledge and expertise with others."
+                }
+            ],
+            "Output": "Some electrical engineering skills I would recommend include:-A strong understanding of sensor and actuator principles -Experience designing and implementing sensor and actuator systems -Analytical skills -Creative problem solving -Experience with electrical engineering overall -Masters or PhD in electrical engineering -Professional Engineering (PE) license -Networking -Prestigious professional organization membership (IEEE, etc.) -Conference attendance -Paper publication"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What specific electrical engineering job are you interested in?",
+                    "Answer": "power system"
+                },
+                {
+                    "Question": "What experience do you have in electrical engineering?",
+                    "Answer": "I have experience in both power system and control system."
+                },
+                {
+                    "Question": "What specific skills do you feel you need to improve your chances of getting the job you want?",
+                    "Answer": "skills like Power system analysis, Protective relaying, Power system operation and planning, Power system equipment specification and selection, and Power system project management"
+                },
+                {
+                    "Question": "Are you willing to put in the extra effort to learn these skills?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "How soon do you hope to find a job in electrical engineering?",
+                    "Answer": "I would like to find a job as soon as possible."
+                },
+                {
+                    "Question": "What is your desired salary range?",
+                    "Answer": "I would like to earn a salary of $60,000-$70,000 per year."
+                },
+                {
+                    "Question": "What is the highest level of education you have attained?",
+                    "Answer": "I have a Bachelor of Science in Electrical Engineering."
+                },
+                {
+                    "Question": "Do you have any professional certification?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any experience working in the electrical engineering field?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any experience with computer-aided design (CAD)?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "Based on the questions and answers above, I recommend that the person interested in an electrical engineering job should attain skills in power system analysis, protective relaying, power system operation and planning, power system equipment specification and selection, and power system project management. I also suggest that the person earns a professional certification, such as a Certified Protection Professional (CPP) or Certified Reliability Engineer (CRE)."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/OnD79JwS2IGEtiNCyWF6BKwO?model=text-davinci-002, https://beta.openai.com/playground/p/xX57f3lFDtk3fYsXTyr5KdPd?model=text-davinci-002, https://beta.openai.com/playground/p/qnMCJAtrwbUvKgxAoAAsUAUg?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jfiz-jMSi4VAxk72MVQH9FnOuIrwlgbB?usp=sharing"
+}

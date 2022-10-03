@@ -1,0 +1,156 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Code",
+    "Task": "Draft the Code of Conduct for a company",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at drafting a code of conduct. I will ask relevant questions to gather information and then use that information to draft a code of conduct.",
+        "task_specific_prompt": "Draft a Code of Conduct for a company based on the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of business do you operate?",
+                    "Answer": "We are a small business that manufactures and sells cosmetics."
+                },
+                {
+                    "Question": "What are your company's values?",
+                    "Answer": "We believe in providing quality products and excellent customer service. We also believe in treating our employees fairly and with respect."
+                },
+                {
+                    "Question": "What are your company's policies regarding harassment and discrimination?",
+                    "Answer": "We have a zero tolerance policy for harassment and discrimination of any kind. We expect our employees to treat each other and our customers with respect at all times."
+                },
+                {
+                    "Question": "Do you have any other policies that you would like to include in the code of conduct?",
+                    "Answer": "We have a policy of mutual respect, which means that we expect our employees to treat each other and our customers with respect at all times. We also have a policy of encouraging employees to report any incidents of harassment or discrimination."
+                },
+                {
+                    "Question": "Would you like me to include anything else in the code of conduct?",
+                    "Answer": "Yes. The main topics of focus should be 1. Integrity 2. Inclusivity 3. Respect 4. Teamwork 5. Growth"
+                },
+                {
+                    "Question": "Do you have a preferred format for the code of conduct?",
+                    "Answer": "We would like the code of conduct to be concise and easy to understand and follow. It should be structured in a way that highlights the main focus areas, along with some details and examples for each."
+                },
+                {
+                    "Question": "Do you have any other questions or comments?",
+                    "Answer": "The company's name is \"Cosmetic Technologies\"."
+                },
+                {
+                    "Question": "Would you like me to include the company's name in the code of conduct?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "Would you like me to include the company's values in the code of conduct?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "Would you like me to include the company's policies in the code of conduct?",
+                    "Answer": "yes"
+                }
+            ],
+            "Output": "The Cosmetic Technologies Code of Conduct\n\n1. Integrity\n\nWe believe in providing quality products and excellent customer service. We also believe in treating our employees fairly and with respect. We expect our employees to uphold these values in their interactions with each other and with our customers.\n\n2. Inclusivity\n\nWe have a zero tolerance policy for harassment and discrimination of any kind. We expect our employees to treat each other and our customers with respect at all times. We are an inclusive company and believe that our employees should feel respected and valued.\n\n3. Respect\n\nWe have a policy of mutual respect, which means that we expect our employees to treat each other and our customers with respect at all times. We also have a policy of encouraging employees to report any incidents of harassment or discrimination. We expect our employees to maintain a respectful and professional attitude at all times.\n\n4. Teamwork\n\nWe believe that our employees are our most valuable asset and that working together as a team is essential to our success. We expect our employees to cooperate and collaborate with each other in a constructive and positive manner.\n\n5. Growth\n\nWe believe in supporting the professional development of our employees. We encourage our employees to continuously learn and grow in their careers. We offer opportunities for advancement and provide resources for employees to develop their skills."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of business do you operate?",
+                    "Answer": "We are a large multinational software company."
+                },
+                {
+                    "Question": "What are your company's values?",
+                    "Answer": "Our core values are Quality, Customer Success, Trust and Innovation."
+                },
+                {
+                    "Question": "What are your company's policies regarding harassment and discrimination?",
+                    "Answer": "We have a zero tolerance policy for harassment and discrimination."
+                },
+                {
+                    "Question": "Do you have a preferred format for the code of conduct?",
+                    "Answer": "The code of conduct should open with the company's mission statement: \"To empower every person and every organization on the planet to achieve more.\", followed by its core values and their meanings. It should then have some examples for employees structured in a do's and don'ts format."
+                },
+                {
+                    "Question": "Are there any other topics you would like the code of conduct to address?",
+                    "Answer": "We would also like the code of conduct to address our policy on conflicts of interest. Employees are expected to perform their duties honestly, and in accordance with the organization's best interest."
+                },
+                {
+                    "Question": "Would you like the code of conduct to be binding?",
+                    "Answer": "Yes, the code of conduct should be binding on all employees."
+                },
+                {
+                    "Question": "Would you like the code of conduct to be reviewed and updated on a regular basis?",
+                    "Answer": "Yes, the code of conduct should be reviewed and updated at least annually."
+                },
+                {
+                    "Question": "Do you have any other comments or suggestions?",
+                    "Answer": "We would also like the code of conduct to be accessible to all employees, and easily understandable. It should include a link to the audio version of the code of conduct. Also, the company's name is Zamagon."
+                },
+                {
+                    "Question": "Would you like me to include anything else?",
+                    "Answer": "Yes, please include our company's commitment to providing a work environment that is free of discrimination and harassment. Also include the company's commitment to being inclusive to all, and the same is expected from all employees."
+                },
+                {
+                    "Question": "Would you like a draft of the code of conduct now, or would you like me to wait until I have all the information?",
+                    "Answer": "Please ask more relevant questions to get all the information first."
+                },
+                {
+                    "Question": "Okay. Are there any specific examples of the types of behavior that are not tolerated by the company?",
+                    "Answer": "Some examples of behavior that would not be tolerated include, but are not limited to, discrimination, harassment, retaliation, and any other conduct that would negatively impact the work environment or another individual's work performance. There is also a no pet's policy in the workplace."
+                }
+            ],
+            "Output": "Zamagon's Code of Conduct\n\nZamagon is committed to providing a work environment that is free of discrimination and harassment. We are also committed to being inclusive to all, and the same is expected from all employees.\n\nSome examples of behavior that would not be tolerated include, but are not limited to, discrimination, harassment, retaliation, and any other conduct that would negatively impact the work environment or another individual's work performance. There is also a no pet's policy in the workplace.\n\nZamagon's core values are Quality, Customer Success, Trust and Innovation. We expect all employees to uphold these values.\n\nDo's:\n\n-Treat everyone with respect\n\n-Value diversity\n\n-Create an inclusive environment\n\n-Follow company policies\n\n-Be honest and transparent\n\n-Communicate openly\n\nDon'ts:\n\n-Discriminate against anyone\n\n-Harass or bully anyone\n\n-Retaliate against anyone\n\n-Bring pets to work\n\n-Violate company policy"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of business do you operate?",
+                    "Answer": "We are a small e-commerce business."
+                },
+                {
+                    "Question": "What are the company's values?",
+                    "Answer": "All work and no play"
+                },
+                {
+                    "Question": "What types of behavior do you expect from employees?",
+                    "Answer": "We expect employees to be professional, and complete their duties without fail."
+                },
+                {
+                    "Question": "What are the consequences for breaking the code of conduct?",
+                    "Answer": "The consequences for breaking the code of conduct  will depend on the severity of the offense. Minor offenses may result in a warning, while more serious offenses may lead to termination of employment."
+                },
+                {
+                    "Question": "Is there anything else you would like to include in the code of conduct?",
+                    "Answer": "We also expect employees to respect the confidentiality of company information. The structure of the code of conduct should be clear and different sections should have appropriate headers."
+                },
+                {
+                    "Question": "Do you have a specific format that you would like the code of conduct to follow?",
+                    "Answer": "We would like the code of conduct to be divided into separate sections, with each section having an appropriate heading. The different sections should cover the company's core values, organizational code of conduct, general employee conduct, conflict of interest and outside activities."
+                },
+                {
+                    "Question": "Do you have any specific examples of behavior that you would like to prohibit?",
+                    "Answer": "We would like to specifically prohibit any behavior that could be considered harassment or discrimination. We would also like to prohibit employees using company resources to work on personal projects, or otherwise using their time to work on something apart from what is in the company's interest while clocked in."
+                },
+                {
+                    "Question": "Are there any other policies that you would like to include in the code of conduct?",
+                    "Answer": "We would also like to include a policy on the use of social media, as well as a policy on conflicts of interest."
+                },
+                {
+                    "Question": "Do you have any questions that you would like addressed in the code of conduct?",
+                    "Answer": "We would like the code of conduct to address how conflicts of interest should be handled, as well as how employees should use social media. We would also like the code of conduct to clarify what the consequences are for breaking the code of conduct."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "Yes, the company's name is \"General Com Pany\" and it's mission statement is \"We work. That's all.\""
+                }
+            ],
+            "Output": "General Com Pany Code of Conduct\n\n1. Introduction\n\nThe following code of conduct (the \"Code\") sets out the standards of behavior that all employees of General Com Pany (\"General Com\", \"we\", \"us\", or \"our\") are expected to uphold. This Code is based on our company values of professionalism and dedication to our work.\n\n2. Core Values\n\nAll employees of General Com are expected to uphold our core values of professionalism and dedication to our work. These values include, but are not limited to:\n\n- behaving in a professional manner at all times;\n- completing all duties and tasks assigned in a timely and efficient manner;\n- respecting the confidentiality of company information; and\n- using company resources only for company business.\n\n3. Organizational Code of Conduct\n\nAll employees of General Com are expected to adhere to our organizational code of conduct. This code of conduct includes, but is not limited to:\n\n- behaving in a way that does not bring discredit to General Com;\n- complying with all applicable laws and regulations;\n- adhering to our company policies and procedures; and\n- reporting any potential violations of this Code.\n\n4. General Employee Conduct\n\nAll employees of General Com are expected to adhere to our general employee conduct policy. This policy includes, but is not limited to:\n\n- treating all fellow employees, customers, and vendors with respect and courtesy;\n- refraining from any form of harassment or discrimination;\n- using company resources only for company business;\n- being honest and transparent in all communications; and\n- refraining from engaging in any activity that could be considered a conflict of interest.\n\n5. Social Media\n\nAll employees of General Com are expected to adhere to our social media policy. This policy includes, but is not limited to:\n\n- not using social media to post confidential or proprietary information about General Com;\n- not using social media to make negative or disparaging comments about General Com, our employees, customers, or vendors;\n- using social media in a way that is respectful and professional; and\n- refraining from using social media while on company time, unless it is for company business.\n\n6. Conflicts of Interest\n\nAll employees of General Com are expected to adhere to our conflicts of interest policy. This policy includes, but is not limited to:\n\n- disclosing any potential conflicts of interest to a supervisor or manager;\n- recusing oneself from any situation in which there is a potential conflict of interest;\n- refraining from using company resources for personal gain; and\n- adhering to all applicable laws and regulations regarding conflicts of interest.\n\n7. Outside Activities\n\nAll employees of General Com are expected to adhere to our outside activities policy. This policy includes, but is not limited to:\n\n- refraining from engaging in any activity that could be considered a conflict of interest;\n- disclosing any outside activities that could be considered a conflict of interest;\n- obtaining prior approval from a supervisor or manager before engaging in any outside activity; and\n- adhering to all applicable laws and regulations regarding outside activities.\n\n8. Enforcement\n\nEmployees who violate this Code may be subject to disciplinary action, up to and including termination of employment."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/y8TppE4J1qf0WiHSCtw89Qib?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jOo5pw4zXuDKQYDjJT8M8HS1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6bAJ57ucn8WZqywbLAEjQvmX?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1vvZcraUyTxJH0fvmqHo7GEKY84e_-il2?usp=sharing"
+}

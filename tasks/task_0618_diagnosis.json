@@ -1,0 +1,156 @@
+{
+    "Contributor": "chatterjeeagneet",
+    "Domain": "Diagnosis",
+    "Task": "Making future health predictions",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert diagnostic. I will ask some questions to collect information and then I will use the information to predict future health condition of a patient, based on medical history",
+        "task_specific_prompt": "Write a detailed diagnosis of the person's future health based on what you learned from the questions and answers above. Also suggest remedies and next steps."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the patient's age?",
+                    "Answer": "The patient's age is 55."
+                },
+                {
+                    "Question": "What is the patient's current health condition?",
+                    "Answer": "The patient has high blood pressure and is overweight."
+                },
+                {
+                    "Question": "What is the patient's family history?",
+                    "Answer": "The patient's father had high blood pressure and died of a heart attack at age 60. The patient's mother is alive and well."
+                },
+                {
+                    "Question": "What is the patient's lifestyle?",
+                    "Answer": "The patient is a smoker and does not exercise regularly."
+                },
+                {
+                    "Question": "Has the patient been hospitalised?",
+                    "Answer": "Yes he has been hospitalised twice for a heart attack."
+                },
+                {
+                    "Question": "What is the patient's current medication?",
+                    "Answer": "The patient is currently taking blood pressure medication and cholesterol medication."
+                },
+                {
+                    "Question": "What is the person's occupation?",
+                    "Answer": "The patient is a truck driver."
+                },
+                {
+                    "Question": "How many hours a week does the person work?",
+                    "Answer": "The patient works 60 hours a week."
+                },
+                {
+                    "Question": "Does the patient have any other health conditions?",
+                    "Answer": "The patient also has diabetes."
+                },
+                {
+                    "Question": "In which country does the patient work?",
+                    "Answer": "The patient works in the United States."
+                }
+            ],
+            "Output": "The patient is at high risk for developing cardiovascular disease. The patient should quit smoking, eat a healthier diet, and exercise regularly. The patient should also continue to take their blood pressure and cholesterol medication as prescribed. The patient should see a doctor regularly to monitor their health."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the patient's age?",
+                    "Answer": "The patient's age is 10."
+                },
+                {
+                    "Question": "What is the patient's current health condition?",
+                    "Answer": "The patient's current health condition is not well."
+                },
+                {
+                    "Question": "What is the patient's medical history?",
+                    "Answer": "The patient has a history of allergies, was born premature and underweight."
+                },
+                {
+                    "Question": "What is the patient's current weight?",
+                    "Answer": "The patient's current weight is 50 pounds."
+                },
+                {
+                    "Question": "What is the patient's current height?",
+                    "Answer": "The patient's current height is 4 feet."
+                },
+                {
+                    "Question": "What is the patient's current blood pressure?",
+                    "Answer": "The patient's current blood pressure is 120/80."
+                },
+                {
+                    "Question": "What is the patient's current heart rate?",
+                    "Answer": "The patient's current heart rate is 30."
+                },
+                {
+                    "Question": "What is the patient's current respiratory rate?",
+                    "Answer": "The patient's current respiratory rate is 10."
+                },
+                {
+                    "Question": "What is the patient's current temperature?",
+                    "Answer": "The patient's current temperature is 102.6 degrees Fahrenheit."
+                },
+                {
+                    "Question": "What is the patient's current oxygen saturation level?",
+                    "Answer": "The patient's current oxygen saturation level is 77%."
+                }
+            ],
+            "Output": "The patient is at risk for developing a number of health problems based on their age, current health condition, medical history, weight, height, blood pressure, heart rate, respiratory rate, and temperature. The patient's allergies, history of being born premature and underweight, and current weight of 50 pounds put them at risk for a number of problems, including asthma, respiratory infections, and obesity. The patient's current blood pressure of 120/80 and heart rate of 30 suggest that they are at risk for hypertension and heart disease. The patient's respiratory rate of 10 and oxygen saturation level of 77% suggest that they are at risk for respiratory failure. The patient's current temperature of 102.6 degrees Fahrenheit suggests that they are at risk for a fever and possible infection. The patient should see a doctor as soon as possible to assess their current condition and to develop a treatment plan to prevent the development of serious health problems."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the patient's age?",
+                    "Answer": "The patient's age is 25."
+                },
+                {
+                    "Question": "What is the patient's current health condition?",
+                    "Answer": "The patient's current health condition is fair, however he does not have a kidney."
+                },
+                {
+                    "Question": "What is the patient's medical history?",
+                    "Answer": "The patient has a history of thyroid and allergies"
+                },
+                {
+                    "Question": "What is the patient's current weight?",
+                    "Answer": "The patient's current weight is 110 pounds."
+                },
+                {
+                    "Question": "What is the patient's current height?",
+                    "Answer": "The patient's current height is 5.5 feet."
+                },
+                {
+                    "Question": "What is the patient's current blood pressure?",
+                    "Answer": "The patient's current blood pressure is 160/90."
+                },
+                {
+                    "Question": "What is the patient's current heart rate?",
+                    "Answer": "The patient's current heart rate is 80."
+                },
+                {
+                    "Question": "What is the patient's current respiratory rate?",
+                    "Answer": "The patient's current respiratory rate is 10."
+                },
+                {
+                    "Question": "What is the patient's current temperature?",
+                    "Answer": "The patient's current temperature is 98.3 degrees Fahrenheit."
+                },
+                {
+                    "Question": "What is the patient's current oxygen saturation level?",
+                    "Answer": "The patient's current oxygen saturation level is 87%."
+                },
+                {
+                    "Question": "Anything else I should know?",
+                    "Answer": "The patient is an alcoholic"
+                }
+            ],
+            "Output": "The patient's future health is likely to be poor due to his alcohol addiction and lack of a kidney. He is also at risk for high blood pressure, heart disease, and respiratory problems. It is recommended that the patient seek treatment for his alcoholism and try to improve his overall health by eating a healthy diet and exercising regularly."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/bVTPQbVjULnHoPQRsZmft4KA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0IiRw0DlDh3ff0jlSPSxAzrk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/EQIDRdpnBcSzTU8rfK43nxJi?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1TErQE1XgnZiooDdMc6EyM3wZIf8wG-Us?usp=sharing"
+}

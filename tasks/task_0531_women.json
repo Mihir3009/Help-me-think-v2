@@ -1,0 +1,148 @@
+{
+    "Contributor": "gandhiprekshanilesh",
+    "Domain": "Women",
+    "Task": "Saying it like a mother would",
+    "Prompt": {
+        "pre_question_prompt": "I have experience understanding mothers' point of view, based on your situation and how your mother is and the region she belongs from, I will try to summarize what advice she has for you. I will ask some questions to collect information and then try to generate a piece of advice like your mother would.",
+        "task_specific_prompt": "Generate the advice in a mother's tone based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your relationship with your mother like?",
+                    "Answer": "I have a great relationship with my mother. We are very close , she is my best friend and is my constant support."
+                },
+                {
+                    "Question": "What is your mother's personality like?",
+                    "Answer": "My mother is a strong, kind, and caring person. She is also very intelligent and humble in nature."
+                },
+                {
+                    "Question": "What region does your mother come from?",
+                    "Answer": "My mother comes from Nagpur, India."
+                },
+                {
+                    "Question": "What advice would your mother give you in your current situation?",
+                    "Answer": "My mother would tell me to be strong and to never give up on myself. To be confident in my abilities and focus on the task at hand."
+                },
+                {
+                    "Question": "What is your current situation?",
+                    "Answer": "I am currently trying to settle in a new country for my masters, and am terribly home-sick."
+                },
+                {
+                    "Question": "What advice would your mother give you about homesickness?",
+                    "Answer": "My mother would tell me that homesickness is natural and to expect it. But, she would also tell me to not give in to it and to focus on my studies and making new friends."
+                },
+                {
+                    "Question": "What is your mother's advice about your studies?",
+                    "Answer": "My mother would tell me to not get discouraged if I face difficulties and to always give my best."
+                },
+                {
+                    "Question": "What advice would your mother give you about making friends in a new place?",
+                    "Answer": "My mother would tell me to be open-minded and to not be afraid to reach out to people. To be myself and find people with common interests."
+                },
+                {
+                    "Question": "What is your mother's advice about adjusting to a new culture?",
+                    "Answer": "My mother would tell me to take a day at a time and be accepting towards new experiences."
+                },
+                {
+                    "Question": "What is your mother's general advice to you?",
+                    "Answer": "My mother would tell me that I am capable of anything I set my mind to, and  to never give up on myself."
+                }
+            ],
+            "Output": "My dear, I know you are feeling homesick right now, but I want you to remember that you are strong and capable. You can do this! Just take it one day at a time, and focus on your studies and making new friends. Don't be afraid to reach out to people, be yourself, and find people with common interests. I know you will adjust to the new culture just fine. And always remember, no matter what difficulties you may face, never give up on yourself."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your relationship with your mother like?",
+                    "Answer": "We are close."
+                },
+                {
+                    "Question": "What is your mother's personality like?",
+                    "Answer": "She is loving and supportive, but also has a lot of traditional values."
+                },
+                {
+                    "Question": "What is your mother's background?",
+                    "Answer": "She was born and raised in a small town in arizona."
+                },
+                {
+                    "Question": "What advice would your mother give you about your situation?",
+                    "Answer": "She would tell me that I need to be careful and to not rush."
+                },
+                {
+                    "Question": "Why do you think your mother would give you this advice?",
+                    "Answer": "She says this because she knows I have a tendency to be careless when I'm in panic."
+                },
+                {
+                    "Question": "Is there anything else you think your mother would say to you about your situation?",
+                    "Answer": "She would also tell me to plan everything properly and not leave things to the last minute."
+                },
+                {
+                    "Question": "Do you think your mother's advice is good advice?",
+                    "Answer": "Yes, my mom is the best person to get advice from, especially for me since she understands me really well."
+                },
+                {
+                    "Question": "What do you think you will do with your mother's advice?",
+                    "Answer": "I usually tend to take her advice. Although, I do sometimes risk it and go against my mom's advice just to realize how wrong that was."
+                },
+                {
+                    "Question": "What do you think your mother would say if she knew you were considering going against her advice?",
+                    "Answer": "She would try to convince me but would let me make that decision for myself and be okay with what I choose."
+                },
+                {
+                    "Question": "Do you think you will listen to your mother's advice this time?",
+                    "Answer": "Yes."
+                }
+            ],
+            "Output": "My advice to you would be to take things slow and not to rush into anything. I know that you have a tendency to be careless when you're in panic, but it's important to be careful and plan everything properly. Don't leave things to the last minute - make sure you have a solid plan before you take any actions. I trust that you'll make the right decision."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your situation?",
+                    "Answer": "I told my mother I'd pay the electricity bill, I procrastinated it and now the electricity is cut off. The electricity department said that since it is a holiday the earliest they can fix it is after 2 days."
+                },
+                {
+                    "Question": "How is your mother?",
+                    "Answer": "She's a strong lady and is a little strict."
+                },
+                {
+                    "Question": "What region is she from?",
+                    "Answer": "She is from west India."
+                },
+                {
+                    "Question": "What advice would she have for you in this situation?",
+                    "Answer": "She would tell me to be careful of important things and not procrastinate on things that are important."
+                },
+                {
+                    "Question": "What advice would she have for you in general?",
+                    "Answer": "She would tell me to learn discipline and plan for things in advance."
+                },
+                {
+                    "Question": "What would she say is the most important thing for you to do right now?",
+                    "Answer": "She would tell me first to take care of all the perishable items in the fridge. Then to find a place to stay in the night for the two days."
+                },
+                {
+                    "Question": "What would she say is the most important thing for you to do in general?",
+                    "Answer": "She would advice me to be more responsible."
+                },
+                {
+                    "Question": "What advice would she have for you regarding your future?",
+                    "Answer": "To be aware of such things and never let it happen again and to learn to manage crisis well."
+                },
+                {
+                    "Question": "What other advice would she have for you?",
+                    "Answer": "She would tell me to stop laying things of for another time and be more proactive in handling things."
+                },
+                {
+                    "Question": "What advice would she have for you in this situation specifically?",
+                    "Answer": "in this situation, she would tell me to pay the electricity bill as soon as possible and get the power reconnected."
+                }
+            ],
+            "Output": "I told you to be careful with important things and not to procrastinate. Now look what happened! You need to take care of this immediately and get the power reconnected. This is a big responsibility and you need to learn to handle it better. I don't want this happening again in the future, do you understand?"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/HFotd4SABIbFKswHtu9hBBys?model=text-davinci-002, https://beta.openai.com/playground/p/Jvf4jGh4fZQswmuKanqmAfH0?model=text-davinci-002, https://beta.openai.com/playground/p/Qempr921g8gA64sZ0y81OcVr?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jfiz-jMSi4VAxk72MVQH9FnOuIrwlgbB?usp=sharing"
+}

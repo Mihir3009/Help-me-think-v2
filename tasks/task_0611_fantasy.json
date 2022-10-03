@@ -1,0 +1,176 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Fantasy",
+    "Task": "Script Writing for a Fantasy Movie Trailer",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at writing scripts for fantasy movies trailers. I will ask relevant questions to gather information and then use that information to write a script for a fantasy movie trailer.",
+        "task_specific_prompt": "Write a movie trailer script based on the questions and answers above. Include details about the scenes, transitions and characters emotions."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a young girl who discovers she has magical powers and must use them to save her kingdom from a evil queen."
+                },
+                {
+                    "Question": "What is the movie's title?",
+                    "Answer": "The movie's title is The Princess and the Witch."
+                },
+                {
+                    "Question": "What is the movie's release date?",
+                    "Answer": "The movie's release date is October 6, 2022."
+                },
+                {
+                    "Question": "Who is starring in the movie?",
+                    "Answer": "The movie stars Lily James as the princess and Charlize Theron as the witch."
+                },
+                {
+                    "Question": "What is the movie's tagline?",
+                    "Answer": "The movie's tagline is \"The battle between good and evil begins.\""
+                },
+                {
+                    "Question": "What is the movie's rating?",
+                    "Answer": "The movie is rated PG."
+                },
+                {
+                    "Question": "What is the movie's runtime?",
+                    "Answer": "The movie's runtime is 1 hour and 45 minutes."
+                },
+                {
+                    "Question": "What is the movie's genre?",
+                    "Answer": "The movie is a fantasy adventure."
+                },
+                {
+                    "Question": "What is the movie's budget?",
+                    "Answer": "The movie's budget is $100 million."
+                },
+                {
+                    "Question": "Who is the movie's distributor?",
+                    "Answer": "The movie's distributor is Walt Disney Studios Motion Pictures."
+                },
+                {
+                    "Question": "Who is the movie's production company?",
+                    "Answer": "The movie's production company is Walt Disney Pictures."
+                },
+                {
+                    "Question": "Who wrote the movie?",
+                    "Answer": "The movie was written by Lindsey Bershaw and Evan Spiliotopoulos."
+                },
+                {
+                    "Question": "Who directed the movie?",
+                    "Answer": "The movie was directed by Joachim Ronning."
+                },
+                {
+                    "Question": "What are the movie's songs?",
+                    "Answer": "The movie's songs are \"How Far I'll Go\" by Auli'i Cravalho and \"I See the Light\" by Zachary Levi and Mandy Moore."
+                }
+            ],
+            "Output": "The movie trailer opens with a scene of the kingdom in chaos as the evil queen's army attacks. The princess is seen fighting alongside her subjects, but it is clear that they are outnumbered and outmatched. Suddenly, the princess's eyes begin to glow as she summons a magical force to push back the enemy. The queen looks on in disbelief as the princess uses her powers to save her kingdom. The scene transitions to the princess being crowned as the new queen as her subjects look on in admiration. The queen looks to the sky and vows to protect her people from all evil. The scene transitions to the witch in her dark castle, plotting her revenge against the princess. She knows that the princess is the only one who can stop her from taking over the kingdom and she will do whatever it takes to destroy her. The trailer ends with a voiceover saying, \"The battle between good and evil begins.\" The princess is seen standing on a cliff, looking out at the kingdom she must protect. The witch is seen in the shadows, watching and waiting for her opportunity to strike. The trailer ends with the movie's title, The Princess and the Witch, and its release date, October 6, 2022."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your movie about?",
+                    "Answer": "The movie is about a young girl who discovers she has magical powers and must use them to save her city from an evil monster."
+                },
+                {
+                    "Question": "What is the title of your movie?",
+                    "Answer": "The title of the movie is \"The Girl with the Magic Powers.\""
+                },
+                {
+                    "Question": "What is the name of the main character?",
+                    "Answer": "The name of the main character is Sarah."
+                },
+                {
+                    "Question": "What are Sarah's magical powers?",
+                    "Answer": "Sarah's magical powers include the ability to control fire, water, and wind."
+                },
+                {
+                    "Question": "Is Sarah's city in danger?",
+                    "Answer": "Yes, Sarah's city is in danger from an evil monster."
+                },
+                {
+                    "Question": "How does Sarah save her city?",
+                    "Answer": "Sarah uses her magic powers to defeat the monster and save her city."
+                },
+                {
+                    "Question": "Who else is in the movie?",
+                    "Answer": "The movie also features Sarah's best friend, who is a talking rabbit, and her parents."
+                },
+                {
+                    "Question": "What is the genre of your movie?",
+                    "Answer": "The genre of the movie is fantasy."
+                },
+                {
+                    "Question": "What is the movie's rating?",
+                    "Answer": "The movie is rated PG."
+                },
+                {
+                    "Question": "When will the movie be released?",
+                    "Answer": "The movie will be released in theaters on December 18, 2022."
+                },
+                {
+                    "Question": "What is the trailer's tone?",
+                    "Answer": "The trailer's tone is exciting and suspenseful, with a touch of magic and wonder."
+                },
+                {
+                    "Question": "What is the trailer's tagline?",
+                    "Answer": "In a world of magic and wonder, one girl must step up and save her city."
+                }
+            ],
+            "Output": "INT. SARAH'S HOUSE - NIGHT\n\nWe see Sarah asleep in her bed. Suddenly, she wakes up with a start, as if sensing something is wrong. She gets out of bed and goes to the window.\n\nSARAH\n\nWhat's happening?\n\nSuddenly, the ground starts shaking and Sarah's city is under attack by an evil monster!\n\nSARAH\n\nI have to help!\n\nSarah runs downstairs and outside, using her magic powers to control fire, water and wind to fight the monster. Her parents and best friend join her in the battle.\n\nSARAH\n\nWe have to stop this thing!\n\nAfter a fierce battle, Sarah finally defeats the monster and saves her city.\n\nPARENTS/FRIEND\n\nThank you, Sarah! You're our hero!\n\nSARAH\n\nI just did what anyone would do in a situation like this.\n\nThe Girl with the Magic Powers is a heart-pounding fantasy adventure that will leave you spellbound. In theaters December 18, 2022."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a world where everything has suddenly turned into a mirror image of itself."
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "The main character's goal is to find a way to revert the world back to normal."
+                },
+                {
+                    "Question": "What is the main conflict?",
+                    "Answer": "The main conflict is that the main character must find a way to fix the world before it's too late."
+                },
+                {
+                    "Question": "What is the movie's genre?",
+                    "Answer": "The movie's genre is fantasy."
+                },
+                {
+                    "Question": "What is the movie's tone?",
+                    "Answer": "The movie's tone is suspenseful."
+                },
+                {
+                    "Question": "What is the movie's setting?",
+                    "Answer": "The movie's setting is in a mirror world."
+                },
+                {
+                    "Question": "What is the movie's climax?",
+                    "Answer": "The movie's climax is when the main character finally figures out how to fix the world."
+                },
+                {
+                    "Question": "What is the movie's resolution?",
+                    "Answer": "The movie's resolution is when the world is finally reverted back to normal."
+                },
+                {
+                    "Question": "What is the movie's tagline?",
+                    "Answer": "The movie's tagline is \"In a world of reflections, one man must find the answer.\""
+                },
+                {
+                    "Question": "What images would be shown in the trailer?",
+                    "Answer": "The trailer would show images of the main character walking through a world that is a mirror image of itself. It would also show the main character interacting with people and objects in this world."
+                }
+            ],
+            "Output": "In a world of reflections, one man must find the answer. (We see the main character, a man, walking through a world that is a mirror image of itself. He looks confused and scared. Objects and people pass him by in a blur. He comes to a stop in front of a building. He looks up at it and then starts to walk inside. Once inside, he looks around and sees people walking around in a daze. He approaches one of them and asks what's going on. The person doesn't answer and just keeps walking. The man starts to feel panicked. He doesn't know what to do or where to go. Suddenly, he hears a voice. It's coming from a person who is standing in front of a mirror. The man walks over to the person and asks who they are. The person tells him that they are from the other side and that they can help him. The man is skeptical at first, but then decides to trust the person. The person leads him through the mirror into the other world. In this world, everything is the same, but it's reversed. The man is amazed at what he sees. The person tells him that he needs to find the key to revert the world back to normal. The man starts his journey to find the key. Along the way, he meets people and learns about this world. He also encounters obstacles that he must overcome. Finally, he finds the key and uses it to revert the world back to normal. The man is relieved and happy that he was able to fix the world. Tagline: In a world of reflections, one man must find the answer."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/CpmCIeBUasslTmhc71QlQdii?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/gHeAT9AdI0Va1ZYQkfS79UcQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/s6259UOlQl8VGK97Ld9aXIYr?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1cyqOV8IwIZquP5ifBCjjRzmsnJUqMZB1?usp=sharing"
+}

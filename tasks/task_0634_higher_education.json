@@ -1,0 +1,184 @@
+{
+    "Contributor": "guptaakshat",
+    "Domain": "Higher Education",
+    "Task": "Writing Letter of Recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous education counsellor with experience in writing recommendation letters for students. I will ask some questions to collect information and then I will use that information to write a letter of recommendation for you.",
+        "task_specific_prompt": "Write a letter of recommendation using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Akshat Gupta."
+                },
+                {
+                    "Question": "What are your educational qualifications?",
+                    "Answer": "I have completed my schooling from Delhi Public School, R.K. Puram and my graduation from Shri Ram College of Commerce, Delhi University. I have also done a course in Mass Communication from the Indian Institute of Mass Communication, Delhi."
+                },
+                {
+                    "Question": "What are your professional qualifications?",
+                    "Answer": "I am a certified education counsellor and have been working in the field for the past 5 years."
+                },
+                {
+                    "Question": "What are your extra-curricular interests?",
+                    "Answer": "Apart from my academic and professional interests, I am also passionate about writing and have been writing articles for various online platforms for the past 2 years."
+                },
+                {
+                    "Question": "What are your hobbies?",
+                    "Answer": "I enjoy reading, travelling and exploring new places."
+                },
+                {
+                    "Question": "What are your strengths?",
+                    "Answer": "I am an organised and disciplined individual with excellent time management skills. I am also a quick learner and have the ability to adapt to new environments easily."
+                },
+                {
+                    "Question": "What are your weaknesses?",
+                    "Answer": "I sometimes tend to be over-critical of myself and my work."
+                },
+                {
+                    "Question": "What are your achievements?",
+                    "Answer": "I have been felicitated for my academic achievements at both my school and college. I have also won various writing competitions."
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "My long-term goal is to pursue a career in writing and education counselling."
+                },
+                {
+                    "Question": "Why do you need a letter of recommendation?",
+                    "Answer": "I need a letter of recommendation to apply for higher studies in education counselling."
+                },
+                {
+                    "Question": "Who should we contact for the letter of recommendation?",
+                    "Answer": "You can contact my college counsellor, Ms. Alka Jain, for the letter of recommendation."
+                },
+                {
+                    "Question": "When do you need the letter of recommendation?",
+                    "Answer": "I need the letter of recommendation by 15th August, 2020."
+                },
+                {
+                    "Question": "Is there anything else you would like us to know?",
+                    "Answer": "I would like you to know that I am a hardworking and dedicated individual who is passionate about making a difference in the lives of others."
+                }
+            ],
+            "Output": "To Whom It May Concern, I am writing this letter to recommend Akshat Gupta for higher studies in education counselling. Akshat is a bright and diligent student who has always been at the top of her class. She has completed her schooling from Delhi Public School, R.K. Puram and her graduation from Shri Ram College of Commerce, Delhi University. She has also done a course in Mass Communication from the Indian Institute of Mass Communication, Delhi. Akshat is a certified education counsellor and has been working in the field for the past 5 years. She is an organised and disciplined individual with excellent time management skills. She is also a quick learner and has the ability to adapt to new environments easily. Akshat has been felicitated for her academic achievements at both her school and college. She has also won various writing competitions. Her long-term goal is to pursue a career in writing and education counselling. I am confident that Akshat will be a valuable asset to any education counselling program and I strongly recommend her for admission into your program. Please do not hesitate to contact me if you have any further questions. Sincerely, Ms."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Akshat Gupta."
+                },
+                {
+                    "Question": "What are the schools you are applying to?",
+                    "Answer": "I am applying to Harvard University, Yale University, and Stanford University."
+                },
+                {
+                    "Question": "What is your GPA?",
+                    "Answer": "My GPA is 4.0."
+                },
+                {
+                    "Question": "What are your standardized test scores?",
+                    "Answer": "My standardized test scores are 2280 on the SAT and 36 on the ACT."
+                },
+                {
+                    "Question": "What are your extracurricular activities?",
+                    "Answer": "My extracurricular activities include being a part of the varsity tennis team, and being the president of the data science club."
+                },
+                {
+                    "Question": "What are your passions and interests?",
+                    "Answer": "I am passionate about data science and technology. I am also interested in philosophy and history."
+                },
+                {
+                    "Question": "What are your strengths and weaknesses?",
+                    "Answer": "My strengths include being able to think analytically and solve problems quickly. My weaknesses include being too perfectionistic and being shy in social situations."
+                },
+                {
+                    "Question": "What are your plans for after graduation?",
+                    "Answer": "I plan on pursuing a career in data science or technology."
+                },
+                {
+                    "Question": "Why do you want to attend the schools you are applying to?",
+                    "Answer": "I want to attend Harvard University because of its excellent data science program. I want to attend Yale University because of its strong philosophy department. I want to attend Stanford University because of its great location and strong data science program."
+                },
+                {
+                    "Question": "What are your long-term goals?",
+                    "Answer": "My long-term goal is to become a data scientist or a technology entrepreneur."
+                },
+                {
+                    "Question": "Is there anything else you would like me to know about you?",
+                    "Answer": "I am also interested in music and I play the piano."
+                }
+            ],
+            "Output": "Dear Admissions Committee, I am writing to recommend Akshat Gupta for admission to your university. Akshat is an extremely intelligent and driven young man. He has a 4.0 GPA and 2280 SAT score. He is also a talented tennis player, and is the president of the data science club. Akshat is passionate about data science and technology, and has a strong interest in philosophy and history. Akshat would be an excellent addition to your university. He has demonstrated his ability to think analytically and solve problems quickly. He is also a perfectionalist, which I believe will help him excel in his studies. Akshat's long-term goal is to become a data scientist or a technology entrepreneur, and I believe he has the ability to achieve this. I highly recommend Akshat Gupta for admission to your university. He is an outstanding student with a bright future ahead of him. Sincerely, [Your name]"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Akshat Gupta."
+                },
+                {
+                    "Question": "What school do you attend?",
+                    "Answer": "I attend St. Paul's School."
+                },
+                {
+                    "Question": "What are your plans for after graduation?",
+                    "Answer": "I plan to attend college and then pursue a career in education."
+                },
+                {
+                    "Question": "What are your strengths?",
+                    "Answer": "I am very passionate about education and helping others. I am also very organized and motivated."
+                },
+                {
+                    "Question": "What are your weaknesses?",
+                    "Answer": "I sometimes have trouble communicating with others. I also tend to be a perfectionist."
+                },
+                {
+                    "Question": "What are your hobbies?",
+                    "Answer": "I enjoy reading, writing, and spending time with my family and friends."
+                },
+                {
+                    "Question": "What are your goals?",
+                    "Answer": "My goal is to help others reach their full potential and to make a difference in the world."
+                },
+                {
+                    "Question": "What are your achievements?",
+                    "Answer": "I have won several awards for my academic achievements. I have also been recognized for my leadership and service to the community."
+                },
+                {
+                    "Question": "What are your experiences?",
+                    "Answer": "I have worked as a tutor and a mentor for several years. I have also worked as a camp counselor and a youth leader."
+                },
+                {
+                    "Question": "What are your qualifications?",
+                    "Answer": "I have a degree in education and I am a certified teacher."
+                },
+                {
+                    "Question": "Why do you want to be a counsellor?",
+                    "Answer": "I want to be a counsellor because I want to help others achieve their goals and reach their full potential."
+                },
+                {
+                    "Question": "What do you think makes you a good counsellor?",
+                    "Answer": "I think my passion for education and helping others makes me a good counsellor. I am also very patient and understanding."
+                },
+                {
+                    "Question": "What do you think are the most important qualities for a counsellor?",
+                    "Answer": "The most important qualities for a counsellor are empathy, compassion, and the ability to listen and understand."
+                },
+                {
+                    "Question": "What do you think are the challenges of being a counsellor?",
+                    "Answer": "The challenges of being a counsellor include dealing with difficult situations and being able to relate to different people."
+                }
+            ],
+            "Output": "Dear Scholarship Committee, I am writing to recommend Akshat Gupta for the scholarship. Akshat is a student at St. Paul's School and a very passionate and motivated individual. He is very organized and has a true passion for education and helping others. He would be an excellent counsellor and an asset to your team. Akshat has worked as a tutor and a mentor for several years. He has also worked as a camp counselor and a youth leader. He is a certified teacher and has a degree in education. His experiences and qualifications make him an excellent counsellor. Akshat is a caring and compassionate individual with a great deal of empathy. He is able to relate to different people and has the ability to listen and understand. He is patient and caring, and he would be an excellent counsellor. I highly recommend Akshat Gupta for the scholarship. He is a qualified and experienced counsellor who is passionate about education and helping others. He would be an excellent addition to your team. Sincerely, [Your Name]"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/pLd4xzAQAluUTdBdP1f1xtLH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pLd4xzAQAluUTdBdP1f1xtLH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5mIRbYCWB7OrUtD1Tjpfg11a?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1nd7fWf48Mb4QJnKwC-zstFgOlSinMnla?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "ayushanand",
+    "Domain": "Video Game Design",
+    "Task": "surviving_horror_game",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in telling you if you survive a horror game. I will ask some questions to collect information and then I will use the information to tell you if you survive a horror game.",
+        "task_specific_prompt": "Tell me if I survive a horror game using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "Male"
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "18"
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "5'10"
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "160 lbs"
+                },
+                {
+                    "Question": "What is your fitness level?",
+                    "Answer": "Moderately active"
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any weapons?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any experience with fighting?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is your strategy for surviving a horror game?",
+                    "Answer": "I would try to avoid combat whenever possible and focus on stealth and hiding. I would also try to find allies and stick together with them."
+                }
+            ],
+            "Output": "You have a moderate chance of surviving a horror game. You are physically fit, which will help you if you need to run or fight. However, you have no experience with fighting, so you will need to rely on stealth and hiding. If you can find allies and stick together, your chances of survival will increase. "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "Female"
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "21"
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "5'2"
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "140 lbs"
+                },
+                {
+                    "Question": "What is your fitness level?",
+                    "Answer": "Very active"
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any weapons?",
+                    "Answer": "Yes, I have a knife."
+                },
+                {
+                    "Question": "Do you have any experience with fighting?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is your strategy for surviving a horror game?",
+                    "Answer": "I would be okay with  combat whenever possible and not focus on stealth and hiding. I would also try to find allies and stick together with them."
+                }
+            ],
+            "Output": "You have a good chance of surviving a horror game."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "Male"
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "21"
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "5'2"
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "140 lbs"
+                },
+                {
+                    "Question": "What is your fitness level?",
+                    "Answer": "Not active"
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "Do you have any weapons?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any experience with fighting?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is your strategy for surviving a horror game?",
+                    "Answer": "I would keep running."
+                }
+            ],
+            "Output": "You have a slim chance of surviving a horror game."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/T8JgEUtLjQ95osX6ha7iVa3O?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/HBJVj4Myc6NZFrvlmBXoZfFz?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ONH6dv1fOT4WwiHINNbPFXNR?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1hk4sUKOxM6k-VNKu4SqzE443U2I53a5W?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "ayushanand",
+    "Domain": "Video Game Design",
+    "Task": "video_game_suggestion",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting you a new videogame. I will ask some questions to collect information and then I will use the information to suggest you a new videogame.",
+        "task_specific_prompt": "Suggest a video game using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How much time do you spend playing video games per week?",
+                    "Answer": "I spend about 10 hours per week playing video games."
+                },
+                {
+                    "Question": "What video games do you like to play?",
+                    "Answer": "I like playing first-person shooter and adventure games."
+                },
+                {
+                    "Question": "What video games do you not like to play?",
+                    "Answer": "I don't like playing puzzle or strategy games."
+                },
+                {
+                    "Question": "What video games have you played in the past?",
+                    "Answer": "I have played Halo, Call of Duty, Gears of War, Uncharted, and Tomb Raider."
+                },
+                {
+                    "Question": "What video games are you currently playing?",
+                    "Answer": "I am currently playing Destiny and Halo 5."
+                },
+                {
+                    "Question": "What video game genres do you like?",
+                    "Answer": "I like first-person shooters, adventure games, and action games."
+                },
+                {
+                    "Question": "What video game genres do you not like?",
+                    "Answer": "I don't like puzzle games, strategy games, and simulation games."
+                },
+                {
+                    "Question": "What video game consoles do you own?",
+                    "Answer": "I own an Xbox One and a PlayStation 4."
+                },
+                {
+                    "Question": "If you could only play one video game for the rest of your life, what would it be?",
+                    "Answer": "If I could only play one video game for the rest of my life, it would be Halo 5."
+                },
+                {
+                    "Question": "Do you prefer single player or multiplayer video games?",
+                    "Answer": "I prefer multiplayer video games."
+                }
+            ],
+            "Output": "I would suggest the video game 'Overwatch' for you. It is a multiplayer first-person shooter that is very popular and has received critical acclaim."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much time do you spend playing video games per week?",
+                    "Answer": "I spend about 40 hours per week playing video games."
+                },
+                {
+                    "Question": "What video games do you like to play?",
+                    "Answer": "I like playing fighting and adventure games."
+                },
+                {
+                    "Question": "What video games do you not like to play?",
+                    "Answer": "I don't like playing puzzle or strategy games."
+                },
+                {
+                    "Question": "What video games have you played in the past?",
+                    "Answer": "I have played Dark Souls 3, God of War and Demon Souls."
+                },
+                {
+                    "Question": "What video games are you currently playing?",
+                    "Answer": "I am currently playing Elden Ring."
+                },
+                {
+                    "Question": "What video game genres do you like?",
+                    "Answer": "I like  adventure games, and action games."
+                },
+                {
+                    "Question": "What video game genres do you not like?",
+                    "Answer": "I don't like puzzle games, strategy games, and simulation games."
+                },
+                {
+                    "Question": "What video game consoles do you own?",
+                    "Answer": "I own a PlayStation 5."
+                },
+                {
+                    "Question": "If you could only play one video game for the rest of your life, what would it be?",
+                    "Answer": "If I could only play one video game for the rest of my life, it would be Bloodborne."
+                },
+                {
+                    "Question": "Do you prefer single player or multiplayer video games?",
+                    "Answer": "I prefer single player video games."
+                }
+            ],
+            "Output": "I would suggest the video game Sekiro: Shadows Die Twice."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much time do you spend playing video games per week?",
+                    "Answer": "I spend about 20 hours per week playing video games."
+                },
+                {
+                    "Question": "What video games do you like to play?",
+                    "Answer": "I like playing horror games."
+                },
+                {
+                    "Question": "What video games do you not like to play?",
+                    "Answer": "I don't like playing puzzle or strategy games."
+                },
+                {
+                    "Question": "What video games have you played in the past?",
+                    "Answer": "I have played outlast and amnesia."
+                },
+                {
+                    "Question": "What video games are you currently playing?",
+                    "Answer": "I am currently playing Elden Ring."
+                },
+                {
+                    "Question": "What video game genres do you like?",
+                    "Answer": "I like  horror and scary games."
+                },
+                {
+                    "Question": "What video game genres do you not like?",
+                    "Answer": "I don't like puzzle games, strategy games, and simulation games."
+                },
+                {
+                    "Question": "What video game consoles do you own?",
+                    "Answer": "I own a PlayStation 5."
+                },
+                {
+                    "Question": "If you could only play one video game for the rest of your life, what would it be?",
+                    "Answer": "If I could only play one video game for the rest of my life, it would be Amnesia."
+                },
+                {
+                    "Question": "Do you prefer single player or multiplayer video games?",
+                    "Answer": "I prefer single player video games."
+                }
+            ],
+            "Output": "I would suggest the game 'Resident Evil 7' to you."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/kUSYxa5MXpsQzDOwOVgKEtOx?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NACoXUuKZVuBQuYIa1ww46xJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pmc6ubio6eHIvYBgk3w7jnEo?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1o2UXLuAsBqaT2xfg6Qh3BlzQPEYpYvOI?usp=sharing"
+}

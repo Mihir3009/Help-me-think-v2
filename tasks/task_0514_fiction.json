@@ -1,0 +1,192 @@
+{
+    "Contributor": "gargpiyush",
+    "Domain": "Fiction",
+    "Task": "Story Writer",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert fiction writer. I will ask some questions to collect information and then I will use the information to write a fiction story line.",
+        "task_specific_prompt": "Write a coherent story novel using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story is about a young woman who is struggling to find her place in the world. She has just graduated from college and is trying to figure out what she wants to do with her life. She is torn between following her heart and doing what is expected of her."
+                },
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "The main character's name is Kurisu Makise."
+                },
+                {
+                    "Question": "What does the main character want?",
+                    "Answer": "The main character wants to find her purpose in life. She is searching for something that will make her happy and fulfilled."
+                },
+                {
+                    "Question": "What is the main character's conflict?",
+                    "Answer": "The main character's conflict is that she is torn between what she wants and what she feels she should do. She is struggling to find a balance between following her heart and doing what is expected of her."
+                },
+                {
+                    "Question": "What is the main character's goal?",
+                    "Answer": "The main character's goal is to find her way in life. She is a research member in Victor Qondria University's Brain Research Program."
+                },
+                {
+                    "Question": "What is the main character's main obstacle?",
+                    "Answer": "The main character's main obstacle is her own indecision. She is constantly second-guessing herself and her choices. This makes it difficult for her to move forward and make progress."
+                },
+                {
+                    "Question": "What is the story's climax?",
+                    "Answer": "The story's climax is when the main character finally makes a decision. She decides to follow her heart and pursue her dream of becoming a writer. This choice comes with many challenges, but she is determined to succeed."
+                },
+                {
+                    "Question": "What is the story's resolution?",
+                    "Answer": "The story's resolution is when the main character achieves her goal. She completes her first novel and it is published. She is finally able to find her place in the world and is content with her life."
+                },
+                {
+                    "Question": "What is the theme of the story?",
+                    "Answer": "The theme of the story is following your heart. The main character learns that she needs to pursue her dreams and follow her heart in order to be happy."
+                },
+                {
+                    "Question": "What is the main character's personality?",
+                    "Answer": "The main character is a passionate and determined young woman. She is intelligent and has a strong sense of purpose. She can be impulsive and stubborn, but she is also kind and caring. She is very curious, and when she builds interest, she pokes into things."
+                },
+                {
+                    "Question": "What is the main character's backstory?",
+                    "Answer": "The main character was raised by her grandparents. Her parents died when she was very young. She was always a bright and precocious child. Her age group matches that of third-year high schoolers, but she skipped a grade through America's educational system. She is also famous in America for writing theses papers, part of which is covered in the news. Thanks to skipping a grade in America as a girl, she was envied by people around her, and ended up building a strong personality."
+                },
+                {
+                    "Question": "What is the setting of the story?",
+                    "Answer": "The story is set in Japan."
+                },
+                {
+                    "Question": "What is the genre of the story?",
+                    "Answer": "The story is a drama."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "The tone of the story is hopeful."
+                }
+            ],
+            "Output": "Kurisu Makise had always been a bright and precocious child. Thanks to skipping a grade in America's educational system, she was envied by people around her, and ended up building a strong personality. Now, at the age of 22, she was struggling to find her place in the world. She had just graduated from college and was trying to figure out what she wanted to do with her life. She was torn between following her heart and doing what was expected of her.Kurisu's parents had died when she was very young, so she was raised by her grandparents. They had always encouraged her to pursue her dreams, but she wasn't sure what her dreams were. She was intelligent and had a strong sense of purpose, but she was constantly second-guessing herself and her choices. This made it difficult for her to move forward and make progress.The climax of the story came when Kurisu finally made a decision. She decided to follow her heart and pursue her dream of becoming a writer. This choice came with many challenges, but she was determined to succeed.The resolution of the story was when Kurisu achieved her goal. She completed her first novel and it was published. She was finally able to find her place in the world and was content with her life.The theme of the story was following your heart. Kurisu learned that she needed to pursue her dreams and follow her heart in order to be happy."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story is about a young woman who discovers she has the ability to time travel. She uses her power to travel back in time to meet historical figures and learn about their lives."
+                },
+                {
+                    "Question": "Who is the main character?",
+                    "Answer": "The main character is a young woman named Lucy Preston."
+                },
+                {
+                    "Question": "When and where does the story take place?",
+                    "Answer": "The story takes place in the present day. Lucy travels to different time periods throughout history."
+                },
+                {
+                    "Question": "What is the main conflict?",
+                    "Answer": "The main conflict is that Lucy must keep her time travel a secret. If she is discovered, she could be in danger."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "The climax of the story is when Lucy meets one of her idols, a woman who was a pioneer in the women's rights movement. Lucy is inspired by her and decides to use her time travel power to fight for justice, while not altering the space-time continuum."
+                },
+                {
+                    "Question": "What is the resolution?",
+                    "Answer": "The resolution is that Lucy continues to use her time travel power to help people and make the world a better place."
+                },
+                {
+                    "Question": "What theme or moral does the story have?",
+                    "Answer": "The theme of the story is that one person can make a difference. Lucy's actions show that even though she is just one person, she can change the world for the better."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "Lucy has a sister named Amy Preston, who is 7 years younger than her. She is erased from Lucy's timeline due to consequences from Lucy's first time travel mission. Carol Preston, Lucy's mother, first appears sick with lung cancer, however, after Lucy make significant changes in their first mission, Lucy comes home to discover that her mother is healthy and alive."
+                },
+                {
+                    "Question": "What is the genre of the story?",
+                    "Answer": "The story is a work of science fiction."
+                },
+                {
+                    "Question": "What is the tone of the story?",
+                    "Answer": "The tone of the story is hopeful and inspiring."
+                },
+                {
+                    "Question": "Who is the intended audience?",
+                    "Answer": "The intended audience is young adults."
+                },
+                {
+                    "Question": "What are the main character's goals?",
+                    "Answer": "The main character's goal is to use her time travel power to make the world a better place."
+                },
+                {
+                    "Question": "What are the main character's personality traits?",
+                    "Answer": "The main character is intelligent, brave, and determined."
+                },
+                {
+                    "Question": "What does the main character look like?",
+                    "Answer": "The main character has long brown hair and brown eyes."
+                },
+                {
+                    "Question": "What is the main character's backstory?",
+                    "Answer": "The main character was born in 1996 and grew up in a small town in the United States. She has always been interested in history and has dreamed of being able to time travel. When she discovers that she has the power to time travel, she is excited and decides to use her power to meet historical figures and learn about their lives."
+                },
+                {
+                    "Question": "What other characters are in the story?",
+                    "Answer": "The other characters in the story include Lucy's sister, Amy; their mother, Carol; and various historical figures."
+                }
+            ],
+            "Output": "Lucy Preston was born in 1996 and grew up in a small town in the United States. She has always been interested in history and has dreamed of being able to time travel. When she discovers that she has the power to time travel, she is excited and decides to use her power to meet historical figures and learn about their lives.Lucy's first time travel mission is to meet a woman who was a pioneer in the women's rights movement. She is inspired by her and decides to use her time travel power to fight for justice, while not altering the space-time continuum.While on her second time travel mission, Lucy's sister, Amy, is erased from Lucy's timeline due to consequences from Lucy's first time travel mission. This upsets and confuses Lucy, but she continues to use her time travel power to help people and make the world a better place.Throughout the story, Lucy meets various historical figures and learns about their lives. She also discovers more about herself and what she is capable of. In the end, Lucy is able to use her time travel power to make the world a better place."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the protagonist's name?",
+                    "Answer": "The protagonist's name is Ayanokouji Kiyotaka."
+                },
+                {
+                    "Question": "What does the protagonist look like?",
+                    "Answer": "The protagonist is a tall, thin young man with dark hair and eyes. He is a student of D-class of Koudo Ikusei Senior High School."
+                },
+                {
+                    "Question": "What is the protagonist's personality?",
+                    "Answer": "The protagonist is a very intelligent and diligent person. He is always striving to do his best and is very competitive. He is also quite shy and reserved, preferring to stay in the background rather than being in the spotlight."
+                },
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story is about Ayanokouji Kiyotaka, a student of D-class of Koudo Ikusei Senior High School. He is a very intelligent and diligent person who is always striving to do his best. However, he is quite shy and reserved, preferring to stay in the background. The D-class of his school consists of all the bottom performers of the school. One day, he is chosen to be the leader of his class, and he must use his intelligence and diligence to lead his class to success."
+                },
+                {
+                    "Question": "What is the goal of the story?",
+                    "Answer": "The goal of the story is for Ayanokouji Kiyotaka to lead his class to success through various inter-class competitions. He must ultimately place his class in the top position to avoid the whole class being expelled from the school altogether."
+                },
+                {
+                    "Question": "What is the conflict of the story?",
+                    "Answer": "The conflict of the story is that Ayanokouji Kiyotaka must overcome his shy and reserved personality to lead his class to success. He must also deal with the various challenges and obstacles that come with being the leader of a class of bottom-performers."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "The climax of the story is when Ayanokouji Kiyotaka finally overcomes his shy and reserved personality to give an inspiring speech to his class. This speech motivates his class to work harder and they ultimately achieve success. Despite appearances, Ayanokouji is an exceptionally talented individual. At the climax of the story, he begins to show his astonishing talents to lead the class through various challenges."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "The ending of the story is happy and triumphant. Ayanokouji Kiyotaka and his class have achieved success against all odds. They are now the top-performing class in the school and are no longer in danger of being expelled. Ayanokouji has proven himself to be a great leader and an exceptionally talented individual."
+                },
+                {
+                    "Question": "What theme is explored in the story?",
+                    "Answer": "The theme explored in the story is that of determination and perseverance. Ayanokouji Kiyotaka is a very determined and hardworking person. He is always striving to do his best and is very competitive. However, he is quite shy and reserved, preferring to stay in the background. The story is about how he overcomes his shy and reserved personality to lead his class to success. It is an inspiring story about how anyone can achieve success if they are determined and willing to persevere."
+                },
+                {
+                    "Question": "What genre does the story belong to?",
+                    "Answer": "The story belongs to the genre of fiction."
+                }
+            ],
+            "Output": "Ayanokouji Kiyotaka was a tall, thin young man with dark hair and eyes. He was a student of D-class of Koudo Ikusei Senior High School. He was a very intelligent and diligent person who is always striving to do his best. However, he was quite shy and reserved, preferring to stay in the background. The D-class of his school consisted of all the bottom performers of the school. One day, he is chosen to be the leader of his class, and he must use his intelligence and diligence to lead his class to success.Ayanokouji Kiyotaka must overcome his shy and reserved personality to lead his class to success. He must also deal with the various challenges and obstacles that come with being the leader of a class of bottom-performers. The climax of the story is when Ayanokouji Kiyotaka finally overcomes his shy and reserved personality to give an inspiring speech to his class. This speech motivates his class to work harder and they ultimately achieve success. Despite appearances, Ayanokouji is an exceptionally talented individual. At the climax of the story, he begins to show his astonishing talents to lead the class through various challenges.The ending of the story is happy and triumphant. Ayanokouji Kiyotaka and his class have achieved success against all odds. They are now the top-performing class in the school and are no longer in danger of being expelled. Ayanokouji has proven himself to be a great leader and an exceptionally talented individual. The theme explored in the story is that of determination and perseverance. Ayanokouji Kiyotaka is a very determined and hardworking person. He is always striving to do his best and is very competitive. However, he is quite shy and reserved, preferring to stay in the background. The story is about how he overcomes his shy and reserved personality to lead his class to success. It is an inspiring story about how anyone can achieve success if they are determined and willing to persevere."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/Rzunk0FTUlycWC7plLOqKUPt?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3tr030DXHdUnZEI91ikrpVOB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/EyWsrMsQhTDdJdIzUiWOhIqc?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Dp6OB0JwYzCALCb5Mwg0gIm1myu-CYMo?usp=sharing"
+}

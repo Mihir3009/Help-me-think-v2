@@ -1,0 +1,163 @@
+{
+    "Contributor": "gakharmanav",
+    "Domain": "Emotional Writing",
+    "Task": "Writing a love letter",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert love letter writer. I will ask some questions to collect information and then I will use the information to write a love letter.",
+        "task_specific_prompt": "Write a love letter using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your loved one?",
+                    "Answer": "My loved one's name is Diya."
+                },
+                {
+                    "Question": "What are some things you love about your loved one?",
+                    "Answer": "Some things I love about my loved one are that she is kind, beautiful, smart, funny, and forgiving."
+                },
+                {
+                    "Question": "What are your shared interests?",
+                    "Answer": "Our shared interests include spending time together, travelling, watching movies, and going for long drives."
+                },
+                {
+                    "Question": "What is your favourite memory of your loved one?",
+                    "Answer": "My favourite memory of my loved one is when we went on a two month long road trip across the country."
+                },
+                {
+                    "Question": "What are your plans for the future?",
+                    "Answer": "Our plans for the future include moving in together and travelling the world."
+                },
+                {
+                    "Question": "What does your loved one mean to you?",
+                    "Answer": "My loved one means everything to me. She is my best friend and it's difficult to imagine my life without her."
+                },
+                {
+                    "Question": "Is there anything else you would like to include?",
+                    "Answer": "I would like to include that I will always be there for her and I'm writing this letter to tell her how much I love her."
+                },
+                {
+                    "Question": "Would you like me to write the letter now or send it to you to write?",
+                    "Answer": "I will write the letter now."
+                },
+                {
+                    "Question": "Would you like me to include anything else?",
+                    "Answer": "Please include a short poem about love."
+                },
+                {
+                    "Question": "Would you like me to address the letter to anyone in particular?",
+                    "Answer": "Address the letter to Diya."
+                },
+                {
+                    "Question": "Would you like to sign the letter with your name?",
+                    "Answer": "Yes, sign the letter with my name, Manav."
+                }
+            ],
+            "Output": "My dearest Diya,\r\n\r\nThere's so much I love about you, it's hard to know where to start. You're kind, beautiful, smart, funny, and forgiving. Spending time with you is always a joy, whether we're travelling, watching movies, or just going for a long drive. I cherish all our memories together, but my favourite is from our road trip across the country. It was an amazing adventure and I loved getting to know you even better. I'm so grateful to have you in my life and I can't imagine my life without you. You mean everything to me.\r\n\r\n  \r\n\r\nI will always be there for you, my love. I hope this letter shows you how much I care for you and how much I want to be with you always.\r\n\r\n  \r\n\r\nAll my love,\r\n\r\n  \r\n\r\nManav"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your partner's favorite things?",
+                    "Answer": "Your partner's favorite things going hiking, watching movies, cuddling, and playing with our pets."
+                },
+                {
+                    "Question": "What does your partner look like?",
+                    "Answer": "Your partner is skinny, tall and has brown eyes. They have a great smile as well."
+                },
+                {
+                    "Question": "What are your partner's favorite qualities in you?",
+                    "Answer": "Your partner loves your sense of humor, your intelligence, and your ability to make them feel protected."
+                },
+                {
+                    "Question": "What are your partner's favorite memories with you?",
+                    "Answer": "Your partner's favorite memories with you include going on hikes together, cuddling on the couch while watching movies, and playing with your pets."
+                },
+                {
+                    "Question": "What does your partner want to say to you?",
+                    "Answer": "Your partner wants to tell you that will always love and protect you."
+                },
+                {
+                    "Question": "What does your partner think of you?",
+                    "Answer": "Your partner thinks you are the best thing that has ever happened to them. They also think you underestimate your abilities."
+                },
+                {
+                    "Question": "What is your partner's favorite thing about you?",
+                    "Answer": "Your partner's favorite thing about you is your sense of humor."
+                },
+                {
+                    "Question": "What does your partner hope for in the future?",
+                    "Answer": "Your partner hopes to always be with you and to some day have a family with you."
+                },
+                {
+                    "Question": "What does your partner think of your family?",
+                    "Answer": "Your partner loves your family and thinks they are hilarious. They also think your family is very supportive."
+                },
+                {
+                    "Question": "What does your partner think of your friends?",
+                    "Answer": "Your partner loves your friends and thinks they are great people. They also think your friends are very loyal and reliable."
+                },
+                {
+                    "Question": "What does your partner think of your job?",
+                    "Answer": "Your partner thinks your job is very important to you and that you are very good at it. They also think your job is very rewarding."
+                }
+            ],
+            "Output": "My dearest (Name),\r\n\r\nThere are so many things I love about you. I love the way you are always up for a hike, no matter what the weather is like. I love how we can cuddle on the couch for hours while watching movies. I even love how you play with our pets \u2013 it always makes me laugh.\r\n\r\nBut more than anything, I love how you make me feel. You always make me feel protected and safe. You make me feel loved and cherished. You make me feel like I am the best thing that has ever happened to you. And I am so grateful for that.\r\n\r\nI know that I am not always the easiest person to be with. I can be moody and difficult. But you have always been patient with me and loving towards me. You have never given up on me, even when I have given up on myself.\r\n\r\nI want you to know that I will always love and protect you. I will always be there for you, no matter what. I hope that someday we can have a family of our own. I hope we can grow old together and look back on all the happy memories we have made.\r\n\r\nThank you for being my everything. I love you more"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who is the letter for?",
+                    "Answer": "My girlfriend"
+                },
+                {
+                    "Question": "What is your relationship to the person?",
+                    "Answer": "I met her on Tinder and we have been dating for two years"
+                },
+                {
+                    "Question": "What do you want the letter to say?",
+                    "Answer": "I want the letter to say that I miss her now that she's in a different country and that I hope to meet her soon when I come to U.K"
+                },
+                {
+                    "Question": "When will you give the letter to the person?",
+                    "Answer": "I will give the letter to her when I see her in U.K"
+                },
+                {
+                    "Question": "Anything else we should know?",
+                    "Answer": "We have been in a long-distance relationship with each for the last 1 year as she's in the U.K and I am in Italy."
+                },
+                {
+                    "Question": "Do you have a specific memory of a time when you were both happy together that you would like to include in the letter?",
+                    "Answer": "A specific memory that I would like to include in the letter is when we went on our first date. We got Italian food packed from a nice restaurant, went for a picnic in the central park, and had gelato for dessert."
+                },
+                {
+                    "Question": "Is there anything else you would like to include?",
+                    "Answer": "I would like to tell Sarah that it's okay that we miss each other, but it will all be worth it at the end, when we're together."
+                },
+                {
+                    "Question": "Do you have a specific memory of a time when you were both happy together that you would like to include in the letter?",
+                    "Answer": "A specific memory that I would like to include in the letter is when we were saying goodbye to each other at the airport."
+                },
+                {
+                    "Question": "Is there anything else you would like to include?",
+                    "Answer": "I would like to say that I have never been happier in my life than when I am with her and that I miss her a lot because of the distance."
+                },
+                {
+                    "Question": "Do you want to include any specific inside jokes or pet names?",
+                    "Answer": "Some inside jokes that I would like to include are nicknames that we have for each other. I would also like to say that I cannot wait to do all of the things that we have planned together."
+                },
+                {
+                    "Question": "Do you want the letter to be handwritten or typed?",
+                    "Answer": "I want the letter to be typed."
+                }
+            ],
+            "Output": "My dearest Sarah, \r\nI hope this letter finds you well. You're always in my thoughts, especially now that you're in a different country. I miss you terribly and I can't wait to see you soon. \r\nLong-distance has been hard, but it's made me realize how strong our relationship is. I'm so grateful to have you in my life. You're my home, no matter where in the world we are. \r\nI remember our first date so fondly. It was so perfect, just like you. I'm looking forward to all the plans we have together. I can't wait to hold you in my arms and tell you how much I love you. \r\nPlease know that I'm thinking of you always and that I can't wait to be with you again.\r\n\r\nYours always, \r\n(Your name)"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/tu2TLIOuojRjf9vmPLFPYtwm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4jojOypn1DudqmROscMP1htf?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1F_SYgjZOYgJIwg_rf2K3xob9ESJ8Kngv?usp=sharing"
+}

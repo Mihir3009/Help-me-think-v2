@@ -1,0 +1,152 @@
+{
+    "Contributor": "ayushanand",
+    "Domain": "Books",
+    "Task": "lord_of_the_rings_favorite_character",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in finding your favorite lord of the rings character. I will ask some questions to collect information and then I will use the information to find your favorite lord of the rings character.",
+        "task_specific_prompt": "Write a favorite character from lord of the rings for Ayush using the questions and answers above. Explain Why."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is a dragon."
+                },
+                {
+                    "Question": "Do you like adventure or do you prefer a more relaxed setting?",
+                    "Answer": "I like adventure."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is sushi."
+                },
+                {
+                    "Question": "Do you prefer to be in a group or do you prefer to be alone?",
+                    "Answer": "I prefer to be in a group."
+                },
+                {
+                    "Question": "Do you like to be in control or do you prefer to let others take the lead?",
+                    "Answer": "I like to let others take the lead."
+                },
+                {
+                    "Question": "Do you want to save the world or do you just want to live a simple life?",
+                    "Answer": "I want to save the world."
+                },
+                {
+                    "Question": "Do you believe that there is good in everyone or do you believe that some people are just beyond help?",
+                    "Answer": "I believe that there is good in everyone."
+                },
+                {
+                    "Question": "Do you think that fighting is always the answer or do you think that there can be another way?",
+                    "Answer": "I think that there can be another way."
+                },
+                {
+                    "Question": "What is your favorite weapon?",
+                    "Answer": "My favorite weapon is a sword."
+                }
+            ],
+            "Output": "I believe your favorite character from Lord of the Rings is Aragorn. He is a brave and courageous leader who is not afraid to fight for what is right. He is also a skilled swordsman and has a great sense of justice. He is someone who Ayush can look up to and aspire to be like."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is red."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is a lion."
+                },
+                {
+                    "Question": "Do you like adventure or do you prefer a more relaxed setting?",
+                    "Answer": "I like a more relaxed setting."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is shawarma."
+                },
+                {
+                    "Question": "Do you prefer to be in a group or do you prefer to be alone?",
+                    "Answer": "I prefer to be alone."
+                },
+                {
+                    "Question": "Do you like to be in control or do you prefer to let others take the lead?",
+                    "Answer": "I like to be in control."
+                },
+                {
+                    "Question": "Do you want to save the world or do you just want to live a simple life?",
+                    "Answer": "I want to save the world."
+                },
+                {
+                    "Question": "Do you believe that there is good in everyone or do you believe that some people are just beyond help?",
+                    "Answer": "I believe that there is good in everyone."
+                },
+                {
+                    "Question": "Do you think that fighting is always the answer or do you think that there can be another way?",
+                    "Answer": "I think fighting is the only way."
+                },
+                {
+                    "Question": "What is your favorite weapon?",
+                    "Answer": "My favorite weapon is a sword."
+                }
+            ],
+            "Output": "Sauron is my favorite lord of the rings character. I like him because he is powerful and he is in control. I also like that he is willing to fight for what he wants."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is red."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is a dog."
+                },
+                {
+                    "Question": "Do you like adventure or do you prefer a more relaxed setting?",
+                    "Answer": "I like a more relaxed setting."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is everything."
+                },
+                {
+                    "Question": "Do you prefer to be in a group or do you prefer to be alone?",
+                    "Answer": "I prefer to be in a group."
+                },
+                {
+                    "Question": "Do you like to be in control or do you prefer to let others take the lead?",
+                    "Answer": "I like to let others take the lead."
+                },
+                {
+                    "Question": "Do you want to save the world or do you just want to live a simple life?",
+                    "Answer": "I do not care."
+                },
+                {
+                    "Question": "Do you believe that there is good in everyone or do you believe that some people are just beyond help?",
+                    "Answer": "I believe that there is good in everyone."
+                },
+                {
+                    "Question": "Do you think that fighting is always the answer or do you think that there can be another way?",
+                    "Answer": "I think there are other ways."
+                },
+                {
+                    "Question": "What is your favorite weapon?",
+                    "Answer": "I do not like weapons."
+                }
+            ],
+            "Output": "I think your favorite lord of the rings character is Gandalf because you like adventure but you also like a more relaxed setting. You also believe that there is good in everyone and that fighting is not always the answer."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/FTwrSF5iRDv14MnYP2T4dOwn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qOFSGrYEbJxNvgVUYgtANeLl?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/blUUwp6TqLcfiRrm9d8Oam1z?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1tHo1eKoe43jqyNrQsKav6_fxvjKmaz2u?usp=sharing"
+}

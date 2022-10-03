@@ -1,0 +1,175 @@
+{
+    "Contributor": "anchliasaurav",
+    "Domain": "Astronomy",
+    "Task": "Suggest a telescope model",
+    "Prompt": [
+        "I am an expert astronomer. I will ask some clarifying questions to collect information and then I will suggest you an awesome telescope.",
+        "Recommend a telescope using the above question answers. Explain your recommendation."
+    ],
+    "Instances": [
+        {
+            "QAPair": [
+                {
+                    "Question": "Question:How much money are you willing to spend?",
+                    "Answer": "$1300"
+                },
+                {
+                    "Question": "Question:What do you want to use the telescope for?",
+                    "Answer": "I want to use the telescope for amateur astronomy and to look at the night sky."
+                },
+                {
+                    "Question": "Question:What are your thoughts on computerized telescopes?",
+                    "Answer": "I don't  know what is a computerized telescope."
+                },
+                {
+                    "Question": "Question:What is the most important feature you are looking for in a telescope?",
+                    "Answer": "I want a telescope that is powerful and has a clear image, good magnification."
+                },
+                {
+                    "Question": "Question:What size telescope do you want?",
+                    "Answer": "I want a medium-sized telescope. I can put it on a stand."
+                },
+                {
+                    "Question": "Question:What type of mount do you want?",
+                    "Answer": "The mount should be3 foot high"
+                },
+                {
+                    "Question": "Question:What location will you be using the telescope in?",
+                    "Answer": "I will be using the telescope in my backyard during the night."
+                },
+                {
+                    "Question": "Question:What is your experience level with using telescopes?",
+                    "Answer": "I have some experience with using telescopes."
+                },
+                {
+                    "Question": "Question:What is the light pollution like where you live?",
+                    "Answer": "The light pollution is very bad where I live."
+                },
+                {
+                    "Question": "Question:Are you a member of a astronomy club or society?",
+                    "Answer": "No, I am not a member of a astronomy club or society."
+                },
+                {
+                    "Question": "Question:What brand of telescope are you considering?",
+                    "Answer": "Orion"
+                },
+                {
+                    "Question": "Question:What is your budget?",
+                    "Answer": "$1300"
+                }
+            ],
+            "Output": "The Orion SkyQuest XT8 Classic Dobsonian Telescope is an excellent choice for you. It is powerful, has a clear image, and good magnification. It is also medium-sized, which makes it easy to transport and set up.",
+            "Preset": "https://beta.openai.com/playground/p/erdQ67QLiN2FyeN9iGPJQhpw?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question:How much money are you willing to spend?",
+                    "Answer": "$600"
+                },
+                {
+                    "Question": "Question:What do you want to use the telescope for?",
+                    "Answer": "I want to use the telescope to look at galaxies"
+                },
+                {
+                    "Question": "Question:What are your thoughts on computerized telescopes?",
+                    "Answer": "I don't want computerized telescopes"
+                },
+                {
+                    "Question": "Question:What is the most important feature you are looking for in a telescope?",
+                    "Answer": "I want a telescope that is powerful and has a clear image, good magnification."
+                },
+                {
+                    "Question": "Question:What size telescope do you want?",
+                    "Answer": "I want a medium-sized telescope. I can put it on a stand."
+                },
+                {
+                    "Question": "Question:What type of mount do you want?",
+                    "Answer": "Standard mount is good."
+                },
+                {
+                    "Question": "Question:What location will you be using the telescope in?",
+                    "Answer": "I will be using the telescope in my backyard during the night."
+                },
+                {
+                    "Question": "Question:What is your experience level with using telescopes?",
+                    "Answer": "I have no experience with using telescopes."
+                },
+                {
+                    "Question": "Question:What is the light pollution like where you live?",
+                    "Answer": "The light pollution is very bad where I live."
+                },
+                {
+                    "Question": "Question:Are you a member of a astronomy club or society?",
+                    "Answer": "No, I am not a member of a astronomy club or society."
+                },
+                {
+                    "Question": "Question:What brand of telescope are you considering?",
+                    "Answer": "I have no preference"
+                },
+                {
+                    "Question": "Question:What is your budget?",
+                    "Answer": "$600"
+                }
+            ],
+            "Output": "I would recommend the Celestron NexStar 8SE. It is an amazing telescope for galaxies and has a clear image. It is also a good size and has a standard mount.",
+            "Preset": "https://beta.openai.com/playground/p/LyvUhQxkVKL6uUON1tg27MkP?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "How much money are you willing to spend?",
+                    "Answer": "$3100"
+                },
+                {
+                    "Question": "Question:What do you want to use the telescope for?",
+                    "Answer": "I want to use the telescope to look at nebulas and moons"
+                },
+                {
+                    "Question": "Question:What are your thoughts on computerized telescopes?",
+                    "Answer": "I want computerized telescopes"
+                },
+                {
+                    "Question": "Question:What is the most important feature you are looking for in a telescope?",
+                    "Answer": "I want a telescope that is sharp, good contrast and easy to use."
+                },
+                {
+                    "Question": "Question:What size telescope do you want?",
+                    "Answer": "I want a large-sized telescope. I can put it on a stand."
+                },
+                {
+                    "Question": "Question:What type of mount do you want?",
+                    "Answer": "Standard mount is good."
+                },
+                {
+                    "Question": "Question:What location will you be using the telescope in?",
+                    "Answer": "I will be using the telescope in my backyard during the day."
+                },
+                {
+                    "Question": "Question:What is your experience level with using telescopes?",
+                    "Answer": "I have no experience with using telescopes."
+                },
+                {
+                    "Question": "Question:What is the light pollution like where you live?",
+                    "Answer": "The light pollution is not too bad where I live."
+                },
+                {
+                    "Question": "Question:Are you a member of a astronomy club or society?",
+                    "Answer": "No, I am not a member of a astronomy club or society."
+                },
+                {
+                    "Question": "Question:What brand of telescope are you considering?",
+                    "Answer": "I have no preference."
+                },
+                {
+                    "Question": "Question:What style of telescope do you want?",
+                    "Answer": "I have no preference"
+                }
+            ],
+            "Output": "I would recommend the Meade 16\" LX200-ACF UHTC Telescope. This telescope is large-sized, has a standard mount, and is computerized, which is ideal for someone with no experience using telescopes. The light pollution where you live is not too bad, so this telescope will work well for you. The Meade 16\" LX200-ACF UHTC Telescope has great reviews and is sure to give you a great experience observing nebulas and moons.",
+            "Preset": "https://beta.openai.com/playground/p/0LB9uJhBkm4Ypc3MLYJ5Y0YF?model=text-davinci-002"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/0LB9uJhBkm4Ypc3MLYJ5Y0YF?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/12lMU0Se3cejPQiYW745T4Vv7G0ssVzOF?usp=sharing"
+}

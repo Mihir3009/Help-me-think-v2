@@ -1,0 +1,136 @@
+{
+    "Contributor": "gangakirity",
+    "Domain": "Exam",
+    "Task": "Hint and Solution Provider",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert examiner in Linear Algebra. I will give you a linear algebra problem and ask if you can solve it or not. If you cannot solve it then I will ask some questions to collect information and then I will use the information to give you hint for that problem.Problem:  $Problem$ I cannot solve it. Give Hint: Question:",
+        "task_specific_prompt": "Write a solution for the user using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Can you find the determinant of the matrix?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Can you find the trace of the matrix?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Can you find the characteristic polynomial of the matrix?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Can you solve the characteristic polynomial to find the eigenvalues of the matrix?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Can you find the eigenvectors of the matrix?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Can you use the eigenvectors to find a matrix that will diagonalize the original matrix?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Can you use the eigenvectors to find a matrix that will similarity transform the original matrix?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Can you use the similarity transformation to diagonalize the original matrix?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Can you use the similarity transformation to find the eigenvectors of the original matrix?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "You can use the similarity transformation to find the eigenvalues of the original matrix. The eigenvalues are the roots of the characteristic polynomial."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of patterns are you looking for?",
+                    "Answer": "Not Sure"
+                },
+                {
+                    "Question": "What type of data is in the images?",
+                    "Answer": "Pixel Data"
+                },
+                {
+                    "Question": "What are the dimensions of the images?",
+                    "Answer": "64x64"
+                },
+                {
+                    "Question": "What is the goal of finding patterns in the images?",
+                    "Answer": "To find any interesting relationships that may exist between the pixels"
+                },
+                {
+                    "Question": "What type of machine learning algorithm would you use to find patterns in the images?",
+                    "Answer": "A supervised Algorithm"
+                },
+                {
+                    "Question": "Can you provide more details about the data set?",
+                    "Answer": "The data set contains 1 million images"
+                },
+                {
+                    "Question": "Can you provide more details about the data set?",
+                    "Answer": "The data set black and white images of faces"
+                },
+                {
+                    "Question": "What type of patterns are you looking for?",
+                    "Answer": "Facial features"
+                }
+            ],
+            "Output": "To find patterns in the images, you could use a supervised machine learning algorithm. This would require labelling the data set in order to train the algorithm to find patterns. For example, you could label the images by the facial features present. Once the algorithm is trained, it can then be used to find patterns in new images."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your academic standing?",
+                    "Answer": "I am a senior in high school."
+                },
+                {
+                    "Question": "What is your area of interest?",
+                    "Answer": "I am interested in studying business."
+                },
+                {
+                    "Question": "What are your university preferences?",
+                    "Answer": "I am looking for a university that has a good business program and is located in Australia."
+                },
+                {
+                    "Question": "What is your budget for university tuition?",
+                    "Answer": "I am willing to spend up to $30,000 per year on university tuition."
+                },
+                {
+                    "Question": "What are your plans after graduation?",
+                    "Answer": "I plan on working in Fianancial Consulting Firm like Deloitte"
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in writing stories for movies"
+                },
+                {
+                    "Question": "What is your CGPA?",
+                    "Answer": "My GPA is 3.4"
+                },
+                {
+                    "Question": "Do you have any preferences for the university?",
+                    "Answer": "It should be a state university"
+                },
+                {
+                    "Question": "What is your SAT score?",
+                    "Answer": "Didn't give it"
+                },
+                {
+                    "Question": "What is your ACT score?",
+                    "Answer": "Didn't give it"
+                }
+            ],
+            "Output": "The university name is Monash University and its entrance exam is the Victorian Certificate of Education (VCE). The VCE is a statewide senior secondary certificate awarded to eligible students who successfully complete their final two years of secondary education in Victoria, Australia."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/RyQswvGkMMRe4cqZSrT7DMe1?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1pCNtjltIPl74jD7GWut6sdvpA4zuw4WP/view?usp=sharing"
+}

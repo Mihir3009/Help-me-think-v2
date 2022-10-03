@@ -1,0 +1,160 @@
+{
+    "Contributor": "chandarananiketanharshadbhai",
+    "Domain": "Meeting",
+    "Task": "Summarize the meeting",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing meeting summary. I will ask some questions to collect information and then I will use the information to summarize the meeting.",
+        "task_specific_prompt": "Write a summary of the meeting using the questions and answers above"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What was the meeting about?",
+                    "Answer": "The meeting was about the new product launch."
+                },
+                {
+                    "Question": "Who was in attendance?",
+                    "Answer": "The attendees were the marketing team."
+                },
+                {
+                    "Question": "What was discussed?",
+                    "Answer": "The discussion centered on the product launch timeline and the budget."
+                },
+                {
+                    "Question": "What was decided?",
+                    "Answer": "The team decided to launch the product in two months."
+                },
+                {
+                    "Question": "Who is responsible for what?",
+                    "Answer": "The marketing team is responsible for the product launch."
+                },
+                {
+                    "Question": "When is the next meeting?",
+                    "Answer": "The next meeting is in two weeks."
+                },
+                {
+                    "Question": "Did everyone agree on the decisions made?",
+                    "Answer": "Yes, the team was in agreement about the decisions made."
+                },
+                {
+                    "Question": "Are there any action items?",
+                    "Answer": "Yes, the team has a few action items to complete before the next meeting."
+                },
+                {
+                    "Question": "What are the action items?",
+                    "Answer": "The action items are to finalize the product launch timeline and budget."
+                },
+                {
+                    "Question": "When are the action items due?",
+                    "Answer": "The action items are due in two weeks."
+                }
+            ],
+            "Output": "The meeting was about the new product launch. The attendees were the marketing team. The discussion centered on the product launch timeline and the budget. The team decided to launch the product in two months. The marketing team is responsible for the product launch. The next meeting is in two weeks. Yes, the team was in agreement about the decisions made. Yes, the team has a few action items to complete before the next meeting. The action items are to finalize the product launch timeline and budget. The action items are due in two weeks."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the meeting about?",
+                    "Answer": "The meeting was about the team-building."
+                },
+                {
+                    "Question": "What happened during the meeting?",
+                    "Answer": "During the meeting, the team-building activities were organized and the team discussed the importance of working together."
+                },
+                {
+                    "Question": "What was the outcome of the meeting?",
+                    "Answer": "The outcome of the meeting was that the team decided to work together more closely in order to achieve their goals."
+                },
+                {
+                    "Question": "What are the next steps?",
+                    "Answer": "The next steps are to continue to work on team-building and to continue to discuss the importance of working together."
+                },
+                {
+                    "Question": "What were the team-building activities?",
+                    "Answer": "The team-building activities were designed to help the team to work together more closely."
+                },
+                {
+                    "Question": "Did everyone participate in the activities?",
+                    "Answer": "Everyone participated in the activities."
+                },
+                {
+                    "Question": "Did everyone agree with the outcome of the meeting?",
+                    "Answer": "Everyone agreed with the outcome of the meeting."
+                },
+                {
+                    "Question": "Who led the team-building activities?",
+                    "Answer": "The team-building activities were led by a professional team-building facilitator."
+                },
+                {
+                    "Question": "What were some of the activities?",
+                    "Answer": "Some of the activities included trust-building exercises, problem-solving exercises, and communication exercises."
+                },
+                {
+                    "Question": "How long did the meeting last?",
+                    "Answer": "The meeting lasted for two hours."
+                },
+                {
+                    "Question": "Was the meeting successful?",
+                    "Answer": "The meeting was successful."
+                }
+            ],
+            "Output": "The meeting was successful and lasted for two hours. The meeting was about the team-building and the team discussed the importance of working together. The team-building activities were led by a professional team-building facilitator and included trust-building exercises, problem-solving exercises, and communication exercises. Everyone participated in the activities and agreed with the outcome of the meeting. The outcome of the meeting was that the team decided to work together more closely in order to achieve their goals. The next steps are to continue to work on team-building and to continue to discuss the importance of working together."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the meeting about?",
+                    "Answer": "The meeting was about the problem-solving."
+                },
+                {
+                    "Question": "Who was in attendance?",
+                    "Answer": "The attendance included the problem-solving team."
+                },
+                {
+                    "Question": "What was discussed?",
+                    "Answer": "The team discussed the problem and brainstormed possible solutions."
+                },
+                {
+                    "Question": "What was the outcome of the meeting?",
+                    "Answer": "The team came up with a plan of action to solve the problem."
+                },
+                {
+                    "Question": "Was the meeting productive?",
+                    "Answer": "The meeting was productive."
+                },
+                {
+                    "Question": "What was the problem that was discussed?",
+                    "Answer": "The problem related to some bugs in the production code."
+                },
+                {
+                    "Question": "What was the solution that was decided upon?",
+                    "Answer": "The team decided to work on the problem and fix the bugs."
+                },
+                {
+                    "Question": "Who is going to work on the solution?",
+                    "Answer": "The team is going to work on the solution."
+                },
+                {
+                    "Question": "What is the timeline for the solution?",
+                    "Answer": "The team did not set a timeline for the solution."
+                },
+                {
+                    "Question": "Are there any risks or challenges with the solution?",
+                    "Answer": "There are no risks or challenges with the solution."
+                },
+                {
+                    "Question": "When will the solution be implemented?",
+                    "Answer": "The solution will be implemented in 1 business day."
+                }
+            ],
+            "Output": "The meeting was about the problem-solving and the attendance included the problem-solving team. The team discussed the problem and brainstormed possible solutions. The team came up with a plan of action to solve the problem. The meeting was productive. The problem related to some bugs in the production code. The team decided to work on the problem and fix the bugs. The team is going to work on the solution. There are no risks or challenges with the solution. The solution will be implemented in 1 business day."
+        }
+    ],
+    "Preset_link": {
+        "instance_1_preset_link": "https://beta.openai.com/playground/p/lQYoR8q7DG8DU96DBxLS96bf?model=text-davinci-002",
+        "instance_2_preset_link": "https://beta.openai.com/playground/p/zMU2H98o9h9OaNvJf4WNJ3Fb?model=text-davinci-002",
+        "instance_3_preset_link": "https://beta.openai.com/playground/p/PqDp0wkJ0CjP67wxGDcePWBz?model=text-davinci-002"
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/14EY5ye6HAXBXefjJKk-Cy8K_SUiSo05q?usp=sharing"
+}

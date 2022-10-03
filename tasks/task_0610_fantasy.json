@@ -1,0 +1,180 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Fantasy",
+    "Task": "Create a new fantasy world",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert fantasy world creator. I will ask some questions to collect information and then use that information to create a new fantasy world.",
+        "task_specific_prompt": "Write a detailed description of a new fantasy world based on the questions and answers above. Make the description dramatic and intense."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of world do you want?",
+                    "Answer": "I want a world with a medieval setting."
+                },
+                {
+                    "Question": "What type of government does this world have?",
+                    "Answer": "The world has a monarchy."
+                },
+                {
+                    "Question": "What type of economy does this world have?",
+                    "Answer": "The world has a feudal economy."
+                },
+                {
+                    "Question": "What is the social structure like in this world?",
+                    "Answer": "The social structure is stratified, with a nobility and a peasantry."
+                },
+                {
+                    "Question": "What is the geography like in this world?",
+                    "Answer": "The world is divided into several kingdoms, each with its own capital city. There are also many small villages and towns. The landscape is varied, with mountains, forests, and plains."
+                },
+                {
+                    "Question": "What is the history of this world?",
+                    "Answer": "The world was once ruled by a great empire. However, the empire collapsed and the world was plunged into chaos. For centuries, the different kingdoms of the world battled for supremacy. In recent years, a great king Portarna has arisen and has begun to unite the world under his banner."
+                },
+                {
+                    "Question": "What are the major religions of this world?",
+                    "Answer": "The world is polytheistic, with each kingdom having its own pantheon of gods. However, the great king is a follower of the old empire's religion, and is working to convert the people of the world to this faith."
+                },
+                {
+                    "Question": "What are the major races of this world?",
+                    "Answer": "The major races of the world are humans and gods."
+                },
+                {
+                    "Question": "What type of magic exists in this world?",
+                    "Answer": "Magic does not exist in the world. Only gods have otherworldly powers."
+                },
+                {
+                    "Question": "What is the overall tone of this world?",
+                    "Answer": "The overall tone of this world is one of conflict and struggle, and the war for power."
+                },
+                {
+                    "Question": "Are there any other notable features of this world?",
+                    "Answer": "The women of the world are finally uniting to join the great king in his quest."
+                }
+            ],
+            "Output": "The world is a land of conflict and war. For centuries, the different kingdoms of the world have battled for supremacy. In recent years, a great king Portarna has arisen and has begun to unite the world under his banner. However, the other kingdoms will not give up their autonomy easily, and the conflict threatens to plunge the world into chaos once again. The different races of the world are caught in the middle of this conflict, and must choose sides carefully. The humans are the most populous race, and the gods are the most powerful. Magic does not exist in the world. Only gods have otherworldly powers. The overall tone of this world is one of conflict and struggle, and the war for power."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of world do you want to create?",
+                    "Answer": "I would like to create a high fantasy world with elements of magic and adventure."
+                },
+                {
+                    "Question": "What sort of cultures and races do you want in your world?",
+                    "Answer": "I would like there to be humans, elves, dwarves, and orcs."
+                },
+                {
+                    "Question": "What is the history of your world?",
+                    "Answer": "I would like the history of my world to be long and complex. I would like there to be a war between the humans and the elves that ended with the humans victorious. The dwarves and orcs have always been at war with each other."
+                },
+                {
+                    "Question": "What are the major geographical features of your world?",
+                    "Answer": "I would like there to be mountains, forests, and deserts."
+                },
+                {
+                    "Question": "What is the climate like in your world?",
+                    "Answer": "I would like there to be temperate regions, as well as cold regions."
+                },
+                {
+                    "Question": "What sort of magical creatures and beings exist in your world?",
+                    "Answer": "I would like there to be dragons, unicorns, and fairies."
+                },
+                {
+                    "Question": "What sort of technology exists in your world?",
+                    "Answer": "I would like the technology in my world to be similar to that of the medieval period. I would like there to be castles, swords, and horses."
+                },
+                {
+                    "Question": "What sort of government exists in your world?",
+                    "Answer": "I would like there to be a monarchy in my world. I would like the king or queen to have a council of advisors to help them make decisions."
+                },
+                {
+                    "Question": "What are the major religions of your world?",
+                    "Answer": "I would like there to be humans who worship the orcs, dwarves who worship the elves, and orcs who worship the dragons."
+                },
+                {
+                    "Question": "What are the major economic activities in your world?",
+                    "Answer": "I would like there to be a variety of economic activities in my world. I would like there to be agriculture, mining, and trade."
+                },
+                {
+                    "Question": "What are the major political factions in your world?",
+                    "Answer": "I would like there to be those who support the monarchy, those who support the orcs, and those who support the elves."
+                }
+            ],
+            "Output": "The world is one of high fantasy, with elements of magic and adventure. It is inhabited by humans, elves, dwarves, and orcs. The history of the world is long and complex. There was a war between the humans and the elves that ended with the humans victorious. The dwarves and orcs have always been at war with each other. The major geographical features of the world include mountains, forests, and deserts. The climate is temperate in some regions and cold in others. The sort of magical creatures and beings that exist in the world include dragons, unicorns, and fairies. The technology of the world is similar to that of the medieval period. There are castles, swords, and horses. The government of the world is a monarchy. The king or queen has a council of advisors to help them make decisions. The major religions of the world include humans who worship the orcs, dwarves who worship the elves, and orcs who worship the dragons. The major economic activities include agriculture, mining, and trade. The major political factions include those who support the monarchy, those who support the orcs, and those who support the elves."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of world do you want?",
+                    "Answer": "I would like a futuristic world."
+                },
+                {
+                    "Question": "What type of environment do you want?",
+                    "Answer": "I would like an urban environment."
+                },
+                {
+                    "Question": "What type of economy do you want?",
+                    "Answer": "I would like a capitalist economy."
+                },
+                {
+                    "Question": "What type of social structure do you want?",
+                    "Answer": "I would like a stratified social structure."
+                },
+                {
+                    "Question": "What type of religion do you want?",
+                    "Answer": "I would like a polytheistic religion."
+                },
+                {
+                    "Question": "What type of technology do you want?",
+                    "Answer": "I would like a world with advanced technology."
+                },
+                {
+                    "Question": "What type of magical system do you want?",
+                    "Answer": "I would like a world with no magic."
+                },
+                {
+                    "Question": "Are there any other specific details you would like to include?",
+                    "Answer": "I would like there to be a lot of crime and poverty."
+                },
+                {
+                    "Question": "What is the name of your world?",
+                    "Answer": "My world is called New Detroit."
+                },
+                {
+                    "Question": "What is the history of your world?",
+                    "Answer": "New Detroit was founded by a group of refugees from a war-torn world. They settled in an abandoned city and began to rebuild it. Over time, the city became a thriving metropolis. However, crime and poverty are still a problem."
+                },
+                {
+                    "Question": "Who are the major factions in your world?",
+                    "Answer": "The major factions in New Detroit are the government, the criminal underworld, and the poverty-stricken masses."
+                },
+                {
+                    "Question": "What are the major conflicts in your world?",
+                    "Answer": "The major conflicts in New Detroit are the government's attempts to control the criminal underworld, and the struggle of the poor to survive."
+                },
+                {
+                    "Question": "What are the major geographical features of your world?",
+                    "Answer": "The major geographical features of New Detroit are the city itself and the surrounding countryside."
+                },
+                {
+                    "Question": "What is the climate like in your world?",
+                    "Answer": "The climate in New Detroit is temperate."
+                },
+                {
+                    "Question": "What is the wildlife like in your world?",
+                    "Answer": "The wildlife in New Detroit is mostly limited to birds and small mammals."
+                }
+            ],
+            "Output": "New Detroit is a bustling city filled with people from all walks of life. The city is a hive of activity, with businesses and homes towering into the sky. The streets are always busy, and the air is filled with the sound of car horns and conversations. Despite the city's bustle, there is an undercurrent of crime and poverty. These problems are especially prevalent in the slums, where people are crammed into tiny apartments and struggle to make ends meet. The government tries to keep a lid on crime, but the criminal underworld is always finding new ways to operate. The poor masses are constantly struggling to survive. In the midst of all this, the city is still a beautiful place. The skyline is filled with sparkling skyscrapers, and the parks are always full of people enjoying the sunny days."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/XkMUjL89CLeOtk8VhKYAdVaR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9a5HbHdyMyEZCqgwvSarGKvG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/e4SxeabLa9nVssZCWFgIQCbo?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1cyqOV8IwIZquP5ifBCjjRzmsnJUqMZB1?usp=sharing"
+}

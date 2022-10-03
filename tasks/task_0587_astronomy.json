@@ -1,0 +1,151 @@
+{
+    "Contributor": "anchliasaurav",
+    "Domain": "Astronomy",
+    "Task": "Determine the constellation",
+    "Prompt": [
+        "I am an expert astronomer.I want to determine constellations in the sky by taking inputs.I will now ask some questions to ascertain the constellation.",
+        "Write the constellations that are possible in the sky with explanation using the questions and answers above."
+    ],
+    "Instances": [
+        {
+            "QAPair": [
+                {
+                    "Question": "Question: What is your latitude?",
+                    "Answer": "I don't  have a latitude, I am in delhi"
+                },
+                {
+                    "Question": "Question: What is your longitude?,",
+                    "Answer": "I don't  have a longitude,I am in delhi"
+                },
+                {
+                    "Question": "Question: What month is it?,",
+                    "Answer": "It is currently August."
+                },
+                {
+                    "Question": "Question: What time is it?,",
+                    "Answer": "It is currently 3.29 PM."
+                },
+                {
+                    "Question": "Question: What is the direction you are facing?,",
+                    "Answer": "I am facing west."
+                },
+                {
+                    "Question": "Question: Are you able to see the horizon?,",
+                    "Answer": "Yes, I can see the horizon."
+                },
+                {
+                    "Question": "Question: What is the elevation of the horizon?,",
+                    "Answer": "I don't have the elevation."
+                },
+                {
+                    "Question": "Question: What objects do you see in the sky?,",
+                    "Answer": "I can see the sun"
+                },
+                {
+                    "Question": "Question: Do you see any planets?,",
+                    "Answer": "Yes, I  see a planet."
+                },
+                {
+                    "Question": "Question: What do the stars look like?,",
+                    "Answer": "The stars look like two human stick figures holding hand."
+                }
+            ],
+            "Output": "The constellation that is possible in the sky is the constellation of Scorpio.",
+            "Preset_link": "https://beta.openai.com/playground/p/0sqWjWvpWSXJiVCpvX935xXP?model=text-davinci-002\n"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question: What is your latitude?",
+                    "Answer": "I don't  have a latitude, I am in san jose"
+                },
+                {
+                    "Question": "Question: What is your longitude?,",
+                    "Answer": "I don't  have a longitude,I am in san jose"
+                },
+                {
+                    "Question": "Question: What month is it?,",
+                    "Answer": "It is currently december."
+                },
+                {
+                    "Question": "Question: What time is it?,",
+                    "Answer": "It is currently 3.29 PM."
+                },
+                {
+                    "Question": "Question: What is the direction you are facing?,",
+                    "Answer": "I am facing west."
+                },
+                {
+                    "Question": "Question: Are you able to see the horizon?,",
+                    "Answer": "Yes, I can see the horizon."
+                },
+                {
+                    "Question": "Question: What is the elevation of the horizon?,",
+                    "Answer": "I don't have the elevation."
+                },
+                {
+                    "Question": "Question: What objects do you see in the sky?,",
+                    "Answer": "I can see the sun"
+                },
+                {
+                    "Question": "Question: Do you see any planets?,",
+                    "Answer": "No, I don't see a planet."
+                },
+                {
+                    "Question": "Question: What do the stars look like?,",
+                    "Answer": "The stars looks like a triangle"
+                }
+            ],
+            "Output": "The constellation that is possible in the sky is the constellation of Orion. Orion is a constellation that is visible in the northern hemisphere in the winter. It is one of the most recognizable constellations in the sky. It is made up of three bright stars in a row, which are Orion's Belt, and two bright stars, which are Orion's Sword.",
+            "Preset_link": "https://beta.openai.com/playground/p/FkE89d8xa8jmRMgPFPXzg2DN?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question: What is your latitude?",
+                    "Answer": "I don't  have a latitude, I am in new york"
+                },
+                {
+                    "Question": "Question: What is your longitude?,",
+                    "Answer": "I don't  have a longitude,I am in new york"
+                },
+                {
+                    "Question": "Question: What month is it?,",
+                    "Answer": "It is currently may"
+                },
+                {
+                    "Question": "Question: What time is it?,",
+                    "Answer": "It is currently 6.29 PM."
+                },
+                {
+                    "Question": "Question: What is the direction you are facing?,",
+                    "Answer": "I am facing west."
+                },
+                {
+                    "Question": "Question: Are you able to see the horizon?,",
+                    "Answer": "No, I can't see the horizon."
+                },
+                {
+                    "Question": "Question: What is the elevation of the horizon?,",
+                    "Answer": "I don't have the elevation."
+                },
+                {
+                    "Question": "Question: What objects do you see in the sky?,",
+                    "Answer": "I can see the sun"
+                },
+                {
+                    "Question": "Question: Do you see any planets?,",
+                    "Answer": "No, I don't see a planet."
+                },
+                {
+                    "Question": "Question: What do the stars look like?,",
+                    "Answer": "The stars are very bright, they are v shaped."
+                }
+            ],
+            "Output": "The constellation that is possible in the sky is Scorpius.",
+            "Preset_link": "https://beta.openai.com/playground/p/O8NQuvzjeTQnDSBsUhlQSPof?model=text-davinci-002"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/O8NQuvzjeTQnDSBsUhlQSPof?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1q1ZQDm5W9DWfhdYzGUQ1LkBmiSGKmFT-?usp=sharing"
+}

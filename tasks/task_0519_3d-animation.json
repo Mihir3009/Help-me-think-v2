@@ -1,0 +1,148 @@
+{
+    "Contributor": "gangakirity",
+    "Domain": "3D-Animation",
+    "Task": "Guess 3D-animated movie",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in guessing 3D- animated movie. I will ask some questions to collect information and then I will use the information to guess the movie.",
+        "task_specific_prompt": "Guess the movie using the questions and answers above. Also where I can watch the movie"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the movie?",
+                    "Answer": "About a princess and her castle."
+                },
+                {
+                    "Question": "What is the movie's genre?",
+                    "Answer": "Fantasy"
+                },
+                {
+                    "Question": "What is the movie's target audience?",
+                    "Answer": "Kids"
+                },
+                {
+                    "Question": "What is the movie's release date?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "What is the movie's budget?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "What is the movie's title?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "What is the movie's tagline?",
+                    "Answer": "There was a dialogue 'let it go'"
+                },
+                {
+                    "Question": "Who are the movie's cast members?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "Is the movie based on a book?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is the movie a sequel?",
+                    "Answer": "yes"
+                }
+            ],
+            "Output": "The movie is Frozen 2. It is a fantasy movie about a princess and her castle. It is a sequel to the movie Frozen. It has a runtime of around 1 hour and 30 minutes."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the movie?",
+                    "Answer": "A kid living in a dead people world."
+                },
+                {
+                    "Question": "What is the movie's genre?",
+                    "Answer": " Family/ Adventure."
+                },
+                {
+                    "Question": "What are the main characters' names?",
+                    "Answer": "The main character's name is miguet."
+                },
+                {
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "A kid goes into a fantasy world to look for his great grandfather in the world of dead."
+                },
+                {
+                    "Question": "What is the title of the movie?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "Who is the director of the movie?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "When was the movie released?",
+                    "Answer": "2017"
+                },
+                {
+                    "Question": "What studio produced the movie?",
+                    "Answer": "Disney"
+                },
+                {
+                    "Question": "Is the movie part of a franchise?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is the movie a sequel?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "Coco."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of the movie?",
+                    "Answer": "about vampire lord in a restaurent"
+                },
+                {
+                    "Question": "What is the movie's genre?",
+                    "Answer": "Fantasy"
+                },
+                {
+                    "Question": "What is the name of the main character?",
+                    "Answer": "Dracula"
+                },
+                {
+                    "Question": "What is the movie's release date?",
+                    "Answer": "Don't know"
+                },
+                {
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "Daughter Birthday party of all ghosts"
+                },
+                {
+                    "Question": "What is the genre of the movie?",
+                    "Answer": "comedy"
+                },
+                {
+                    "Question": "Is the movie recent or old?",
+                    "Answer": "Not that old, that is in 2012s"
+                },
+                {
+                    "Question": "What is the name of the studio that produced the movie?",
+                    "Answer": "Columbia"
+                },
+                {
+                    "Question": "Is the movie part of a franchise?",
+                    "Answer": "No, but has a sequel"
+                },
+                {
+                    "Question": "What is the name of the studio that produced the movie?",
+                    "Answer": "Don't know"
+                }
+            ],
+            "Output": "The movie is Hotel Transylvania. You can watch it on Amazon Video."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/NHtAupEQDvppm205x7zyRm1p?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/16SzPap88itYwEP3uSgNQRDC7u6b6G6ei/view?usp=sharing"
+}

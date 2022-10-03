@@ -1,0 +1,156 @@
+{
+    "Contributor": "gunnreddyvarunkumarreddy",
+    "Domain": "Game",
+    "Task": "Design quide for game",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert game designer. I will ask some questions to collect information and then I will use the information to design guide for game.",
+        "task_specific_prompt": "Write a guide for playing a game using the questions and answers above. Also add goals and abilities in step-by step details for beginners."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to design?",
+                    "Answer": "I would like to design a first-person shooter game."
+                },
+                {
+                    "Question": "What is the player's goal in the game?",
+                    "Answer": "The player's goal is to shoot enemies and complete the levels."
+                },
+                {
+                    "Question": "What are the player's abilities in the game?",
+                    "Answer": "The player will be able to move around the environment and shoot enemies with a gun."
+                },
+                {
+                    "Question": "What kind of enemies will be in the game?",
+                    "Answer": "The enemies will be other players or AI-controlled characters."
+                },
+                {
+                    "Question": "What kind of environment will the game take place in?",
+                    "Answer": "The game will take place in a variety of environments, including indoor and outdoor locations."
+                },
+                {
+                    "Question": "What kind of weapons will be in the game?",
+                    "Answer": "The game will include a variety of different weapons, including pistols, rifles, and shotguns."
+                },
+                {
+                    "Question": "What other features do you want to include in the game?",
+                    "Answer": "I would like to include a multiplayer mode in the game."
+                },
+                {
+                    "Question": "What is the player's goal in the multiplayer mode?",
+                    "Answer": "The player's goal in the multiplayer mode is to shoot enemies and complete the levels."
+                },
+                {
+                    "Question": "What are the player's abilities in the multiplayer mode?",
+                    "Answer": "The player will be able to move around the environment and shoot enemies with a gun."
+                },
+                {
+                    "Question": "What kind of enemies will be in the multiplayer mode?",
+                    "Answer": "The enemies will be other players and also AI-controlled characters."
+                }
+            ],
+            "Output": "Welcome to the game! The goal of the game is to shoot enemies and complete the levels. You will be able to move around the environment and shoot enemies with a gun. The enemies will be other players or AI-controlled characters. The game will take place in a variety of environments, including indoor and outdoor locations. The game will include a variety of different weapons, including pistols, rifles, and shotguns.In the multiplayer mode, the goal is to shoot enemies and complete the levels. You will be able to move around the environment and shoot enemies with a gun. The enemies will be other players and also AI-controlled characters.Here are some tips for playing the game:- Use cover to avoid enemy fire- Try to flank enemy positions- Use grenades to flush out enemies from cover- Use different weapons to take down different kinds of enemies- Communicate with your team to coordinate your attacks- Watch for enemy ambushes- Stay aware of your surroundings at all times"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to design?",
+                    "Answer": "I would like to design a guide for Age of Empires game."
+                },
+                {
+                    "Question": "What are the goals of the game?",
+                    "Answer": "The goal of the game is to conquer all of the empires and become the ultimate ruler."
+                },
+                {
+                    "Question": "What are the mechanics of the game?",
+                    "Answer": "The mechanics of the game include gathering resources, building structures, training units, and attacking enemy empires."
+                },
+                {
+                    "Question": "What are the player interactions in the game?",
+                    "Answer": "The player interactions in the game include resource gathering, unit training, and combat."
+                },
+                {
+                    "Question": "What is the game pace?",
+                    "Answer": "The game pace is fairly fast, with players spending most of their time gathering resources and building up their armies."
+                },
+                {
+                    "Question": "What is the game difficulty?",
+                    "Answer": "The game difficulty can be adjusted to be easy, medium, or hard."
+                },
+                {
+                    "Question": "What is the game economy?",
+                    "Answer": "The game economy is based on gathering resources and spending them on building structures, training units, and upgrading technologies."
+                },
+                {
+                    "Question": "What is the game victory condition?",
+                    "Answer": "The game victory condition is to conquer all of the enemy empires."
+                },
+                {
+                    "Question": "What are the game losing conditions?",
+                    "Answer": "The game losing conditions are to have all of your empires conquered, or to run out of resources."
+                },
+                {
+                    "Question": "What are the game rules?",
+                    "Answer": "The game rules are fairly simple. Players must gather resources, build structures, train units, and attack enemy empires. The goal is to conquer all of the enemy empires."
+                },
+                {
+                    "Question": "What are the game mechanics?",
+                    "Answer": "The game mechanics are resource gathering, unit training, and combat."
+                }
+            ],
+            "Output": "Age of Empires is a real-time strategy game in which players must gather resources, build structures, train units, and attack enemy empires. The goal of the game is to conquer all of the enemy empires.Players must gather resources in order to build structures, train units, and upgrade technologies. There are three main resources in the game: food, wood, and gold. Players can gather resources by building farms, lumber mills, and mines.Players must build structures in order to train units and upgrade technologies. There are four main types of structures in the game: barracks, archery ranges, stables, and temples. Barracks are used to train infantry units, archery ranges are used to train archer units, stables are used to train cavalry units, and temples are used to upgrade technologies.Players can attack enemy empires by training units and sending them to enemy cities. There are four main types of units in the game: infantry, archers, cavalry, and siege weapons. Each type of unit has different strengths and weaknesses.The game difficulty can be adjusted to be easy, medium, or hard. The game pace is fairly fast, with players spending most of their time gathering resources and building up their armies."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to design?",
+                    "Answer": "I would like to design a guide for playing Catan Board Game."
+                },
+                {
+                    "Question": "What are the rules of the game?",
+                    "Answer": "The game is for three to four players. The objective of the game is to earn 10 victory points by the end of the game. Players earn points by building settlements, cities, and longest road. The game board is made up of hexagonal tiles. Each tile represents a different resource. Players collect these resources by rolling dice. The resources are used to build settlements, cities, and longest road."
+                },
+                {
+                    "Question": "What is the goal of the game?",
+                    "Answer": "The goal of the game is to be the first player to earn 10 victory points."
+                },
+                {
+                    "Question": "How do players earn points?",
+                    "Answer": "Players earn points by building settlements, cities, and longest road."
+                },
+                {
+                    "Question": "What resources are needed to build settlements, cities, and longest road?",
+                    "Answer": "Players need the resources of brick, lumber, wool, grain, and ore to build settlements, cities, and longest road."
+                },
+                {
+                    "Question": "How do players collect resources?",
+                    "Answer": "Players collect resources by rolling dice. The number that is rolled corresponds to the resource that is collected."
+                },
+                {
+                    "Question": "What other information do you need to design the guide?",
+                    "Answer": "I need to know the specific rules for building settlements, cities, and longest road."
+                },
+                {
+                    "Question": "Are there any special rules or conditions that need to be met in order to win the game?",
+                    "Answer": "No, there are no special rules or conditions that need to be met in order to win the game."
+                },
+                {
+                    "Question": "What is the game board made up of?",
+                    "Answer": "The game board is made up of hexagonal tiles."
+                },
+                {
+                    "Question": "What does each tile represent?",
+                    "Answer": "Each tile represents a different resource."
+                }
+            ],
+            "Output": "Object of the GameThe object of the game is to be the first player to earn 10 victory points. Players earn points by building settlements, cities, and longest road.Setup The game board is made up of hexagonal tiles. Each tile represents a different resource. Players collect these resources by rolling dice. The resources are used to build settlements, cities, and longest road.Players--The game is for three to four players.Resources -- Players need the resources of brick, lumber, wool, grain, and ore to build settlements, cities, and longest road.Rolling the Dice -- Players collect resources by rolling dice. The number that is rolled corresponds to the resource that is collected.Building Settlements -- Players can build a settlement on any unoccupied corner of any hex. To build a settlement, the player must spend 1 brick, 1 lumber, 1 wool, 1 grain, and 1 ore. The player then places one of their settlement pieces on the unoccupied corner.Building Cities -- Players can upgrade their settlements to cities. To upgrade a settlement to a city, the player must spend 3 ore and 2 grain. The player removes their settlement piece from the board and replaces it with one of their city pieces.Longest Road --The player with the longest road receives 2 victory points. A road is built by spending 1 brick and 1 lumber. A road must be built between two adjacent corners, and cannot intersect with any other roads or settlements."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ORo5vFMvkilfmbekR7AMM4Qa?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CNl5cr5dQvUnUfZJnDCnysR8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/maqf6Dk0aCOlBTeptXbP1xQP?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1DVIxAx-PgK9-8y3eonb6d4B4A7WkDErN?usp=sharing"
+}

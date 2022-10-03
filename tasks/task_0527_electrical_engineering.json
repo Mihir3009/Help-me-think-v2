@@ -1,0 +1,160 @@
+{
+    "Contributor": "gandhiprekshanilesh",
+    "Domain": "Electrical Engineering",
+    "Task": "personalized electricity consumption saving",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in reducing electricity consumption based on your usage and region that is customized to your house. I will ask some questions to collect information and then suggest the ways in which you can reduce your electricity bill.",
+        "task_specific_prompt": "Recommend customized suggestions for the person to become energy efficient based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you spend on your electricity bill each month?",
+                    "Answer": "$120"
+                },
+                {
+                    "Question": "What is your zip code?",
+                    "Answer": "85281"
+                },
+                {
+                    "Question": "What is your average monthly temperature?",
+                    "Answer": "93 degrees"
+                },
+                {
+                    "Question": "How many people live in your household?",
+                    "Answer": "4"
+                },
+                {
+                    "Question": "What are your biggest electricity consumption months?",
+                    "Answer": "June, July, and August"
+                },
+                {
+                    "Question": "What are your biggest electricity consumption days?",
+                    "Answer": "Monday, Wednesday, and Friday"
+                },
+                {
+                    "Question": "What time of day do you use the most electricity?",
+                    "Answer": "8am-10pm"
+                },
+                {
+                    "Question": "What appliances do you use the most?",
+                    "Answer": "Air conditioner, fridge, stove, dishwasher and lights"
+                },
+                {
+                    "Question": "What are some ways you can reduce your electricity consumption?",
+                    "Answer": "conservation, and switching to greener energy sources"
+                },
+                {
+                    "Question": "What are some energy-saving tips you can use?",
+                    "Answer": "Turn off lights when you leave a room, unplug appliances when you're not using them, and use a fan instead of the air conditioner when possible."
+                },
+                {
+                    "Question": "What are some alternative energy sources you can use?",
+                    "Answer": "solar, and wind"
+                }
+            ],
+            "Output": "Some suggestions to help reduce your electricity consumption and bill are:-use energy-saving light bulbs -turn off lights when you leave a room -unplug appliances when you're not using them -use a fan instead of the air conditioner when possible -use solar power for your home -use wind power for your home"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you spend on your electricity bill each month?",
+                    "Answer": "$200"
+                },
+                {
+                    "Question": "What region do you live in?",
+                    "Answer": "New York"
+                },
+                {
+                    "Question": "How many people live in your household?",
+                    "Answer": "4"
+                },
+                {
+                    "Question": "How old is your home?",
+                    "Answer": "20 years old"
+                },
+                {
+                    "Question": "What type of insulation do you have in your home?",
+                    "Answer": "Fiberglass"
+                },
+                {
+                    "Question": "What type of heating and cooling system do you have in your home?",
+                    "Answer": "Central cooling and heating"
+                },
+                {
+                    "Question": "What are some ways you can reduce your electricity consumption?",
+                    "Answer": "use sunlight and switch lights off when not in use"
+                },
+                {
+                    "Question": "How often do you use your air conditioner?",
+                    "Answer": "In the summer, I use it almost every day."
+                },
+                {
+                    "Question": "What are some ways you can reduce your air conditioning usage?",
+                    "Answer": "I can use fans when required and have different temperature control for each room."
+                },
+                {
+                    "Question": "How often do you use your heating system?",
+                    "Answer": "In the winter, I use it every day."
+                },
+                {
+                    "Question": "What are some ways you can reduce your heating usage?",
+                    "Answer": "I can lower the thermostat when I am not home and at night when I am sleeping."
+                }
+            ],
+            "Output": "Some ways that you can reduce your electricity consumption and lower your monthly bill are: - Use sunlight during the day to light your home instead of relying on electric lights. Open curtains and blinds to let in as much natural light as possible. - Turn off lights in any room that you are not using. Getting into the habit of doing this can save you a significant amount of money over time. - Consider installing a programmable thermostat. This will allow you to automatically lower the temperature in your home when you are not there or are asleep, which can save you a lot of money on your heating and cooling costs. - Make sure that your home is well insulated. This will help to keep the heat or cool air inside your home, instead of escaping through cracks and gaps. - Consider investing in energy efficient appliances. These appliances use less electricity and can save you money in the long run."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you spend on your electricity bill each month?",
+                    "Answer": "$200"
+                },
+                {
+                    "Question": "What region do you live in?",
+                    "Answer": "Chicago"
+                },
+                {
+                    "Question": "What is the average temperature in your region?",
+                    "Answer": "52.5 degrees"
+                },
+                {
+                    "Question": "What is the square footage of your home?",
+                    "Answer": "2000 square feet"
+                },
+                {
+                    "Question": "How many people live in your home?",
+                    "Answer": "2"
+                },
+                {
+                    "Question": "What are your major appliances?",
+                    "Answer": "Washing machine, dryer, dishwasher, refrigerator, stove, oven"
+                },
+                {
+                    "Question": "Do you have any energy-efficient appliances?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any solar panels?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the age of your home?",
+                    "Answer": "30 years"
+                },
+                {
+                    "Question": "Do you have any leaks in your home?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What type of insulation do you have in your home?",
+                    "Answer": "blanket insulation"
+                }
+            ],
+            "Output": "1. Change your light bulbs to LED bulbs.    2. Get a smart thermostat and program it to lower the temperature when you are not home. 3. Make sure your windows and doors are well sealed. 4. Add insulation to your attic. 5. Have your furnace and air conditioner serviced regularly. 6. Wash your clothes in cold water. 7. Hang your clothes to dry whenever possible. 8. Run your dishwasher and washing machine only when they are full. 9. Defrost your freezer regularly. 10. Unplug appliances and electronics when they are not in use."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/WXPsp6hypssW2iov2aWUjn4Z?model=text-davinci-002, https://beta.openai.com/playground/p/yWkYYDsscBZZ7fuCLH0STk0E?model=text-davinci-002, https://beta.openai.com/playground/p/liYKmA2fLgw3UUWRjALrqv9A?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jfiz-jMSi4VAxk72MVQH9FnOuIrwlgbB?usp=sharing"
+}

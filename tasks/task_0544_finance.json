@@ -1,0 +1,172 @@
+{
+    "Contributor": "chelenahallisatishmanthan",
+    "Domain": "Finance",
+    "Task": "Financial Audit Report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert charted accountant. I will ask some questions to collect information related to the financial records of a company and then I will use the information to audit that company.",
+        "task_specific_prompt": "Based on the questions and answers above, write a long and detailed audit report of the company."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the company?",
+                    "Answer": "Cognitron"
+                },
+                {
+                    "Question": "What are the total revenues for the company?",
+                    "Answer": "The total revenues for the company are $142,000,000."
+                },
+                {
+                    "Question": "What are the total expenses for the company?",
+                    "Answer": "The total expenses for the company are $11,000,000."
+                },
+                {
+                    "Question": "What is the net income for the company?",
+                    "Answer": "The net income for the company is $130,000,000."
+                },
+                {
+                    "Question": "What are the total assets for the company?",
+                    "Answer": "The total assets for the company are $1,000,000,000."
+                },
+                {
+                    "Question": "What are the total liabilities for the company?",
+                    "Answer": "The total liabilities for the company are $500,000,000."
+                },
+                {
+                    "Question": "What is the equity for the company?",
+                    "Answer": "The equity for the company is $530,000,000."
+                },
+                {
+                    "Question": "What is the debt to equity ratio for the company?",
+                    "Answer": "The debt to equity ratio for the company is 0.94."
+                },
+                {
+                    "Question": "What is the interest coverage ratio for the company?",
+                    "Answer": "The interest coverage ratio for the company is 11.36."
+                },
+                {
+                    "Question": "What is the return on assets for the company?",
+                    "Answer": "The return on assets for the company is 12%."
+                },
+                {
+                    "Question": "What is the return on equity for the company?",
+                    "Answer": "The return on equity for the company is 23.91%."
+                }
+            ],
+            "Output": "We have audited the accompanying financial statements of Cognitron, which comprise the balance sheet as of December 31, 20X1, and the related income statement, comprehensive income statement, and cash flow statement for the year then ended, and the related notes to the financial statements. Management's Responsibility for the Financial Statements Management is responsible for the preparation and fair presentation of these financial statements in accordance with accounting principles generally accepted in the United States of America; this includes the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error. Auditor's Responsibility Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance with auditing standards generally accepted in the United States of America. Those standards require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the financial statements are free from material misstatement. An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor's judgment, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity's preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion. Opinion In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Cognitron as of December 31, 20X1, and the results of its operations and its cash flows for the year then ended in accordance with accounting principles generally accepted in the United States of America. Emphasis of Matter As described in Note 2, the Company has recognized revenue in accordance with Accounting Standards Codification 605-15, Revenue Recognition, which requires that four basic criteria must be met before revenue can be recognized: (1) persuasive evidence of an arrangement exists; (2) delivery has occurred or services have been rendered; (3) the selling price is fixed or determinable; and (4) collectability is reasonably assured. The Company has determined that it meets the criteria for revenue recognition for all of its revenue streams. We drew attention to the matter described in the preceding paragraph because the application of the criteria for revenue recognition is particularly judgmental and, as a result, susceptible to material misstatement. Other Matters We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the Cognitron 20X1 financial statements and our report dated February 20X2 expressed an unmodified opinion on those statements. The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has incurred significant losses from operations and has a material uncertainty that raises doubt about the Company's ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. /s/ Ernst & Young LLP We have served as the Company's auditor since 20X1. Cognitron Balance Sheets As of December 31, 20X1 20X0 Assets Current assets: Cash and cash equivalents $ 30,000,000 $ 20,000,000 Accounts receivable, net 70,000,000 60,000,000 Inventory 10,000,000 9,000,000 Total current assets 110,000,000 89,000,000 Property, plant, and equipment, net 40,000,000 40,000,000 Goodwill 20,000,000 20,000,000 Intangible assets, net 10,000,000 10,000,000 Total assets $ 180,000,000 $ 159,000,000 Liabilities and equity Current liabilities: Accounts payable $ 30,000,000 $ 20,000,000 Accrued expenses 10,000,000 9,000,000 Total current liabilities 40,000,000 29,000,000 Long-term debt 100,000,000 100,000,000 Total liabilities 140,000,000 129,000,000 Commitments and contingencies Equity: Preferred"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the company?",
+                    "Answer": "Cognitron."
+                },
+                {
+                    "Question": "What are the total revenues for the company?",
+                    "Answer": "The total revenues for the company are $1,000,000."
+                },
+                {
+                    "Question": "What are the total expenses for the company?",
+                    "Answer": "The total expenses for the company are $4,000,000."
+                },
+                {
+                    "Question": "What is the net income for the company?",
+                    "Answer": "The net income for the company is $12,000,000."
+                },
+                {
+                    "Question": "What are the total assets for the company?",
+                    "Answer": "The total assets for the company are $2,500,000."
+                },
+                {
+                    "Question": "What are the total liabilities for the company?",
+                    "Answer": "The total liabilities for the company are $5,000,000."
+                },
+                {
+                    "Question": "What is the equity for the company?",
+                    "Answer": "The equity for the company is $2,000,000."
+                },
+                {
+                    "Question": "What is the debt to equity ratio for the company?",
+                    "Answer": "The debt to equity ratio for the company is 1.14."
+                },
+                {
+                    "Question": "What is the interest coverage ratio for the company?",
+                    "Answer": "The interest coverage ratio for the company is 16.84."
+                },
+                {
+                    "Question": "What is the return on assets for the company?",
+                    "Answer": "The return on assets for the company is -2%."
+                },
+                {
+                    "Question": "What is the return on equity for the company?",
+                    "Answer": "The return on equity for the company is 3.91%."
+                }
+            ],
+            "Output": "Cognitron is a company that is in need of a financial turnaround. The company has been struggling to make ends meet, and its financial situation is dire. The company has a net income of just $12,000,000, and its total assets are only $2,500,000. This gives the company a debt to equity ratio of 1.14, which is very high. The company's interest coverage ratio is also very low at just 16.84. This means that the company is not making enough money to cover its interest payments. The company's return on assets is also negative at -2%. This means that the company is losing money on its investments. The company's return on equity is also very low at just 3.91%. This means that the company is not generating enough profit to cover its shareholders' equity. The company's financial situation is very precarious, and it is in need of a major turnaround. The company needs to increase its revenues and decrease its expenses in order to improve its bottom line. The company also needs to reduce its debt and improve its equity position. The company needs to take immediate action to improve its financial situation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the company?",
+                    "Answer": "Cognitron."
+                },
+                {
+                    "Question": "What are the total revenues for the company?",
+                    "Answer": "The total revenues for the company are $100,000."
+                },
+                {
+                    "Question": "What are the total expenses for the company?",
+                    "Answer": "The total expenses for the company are $520,000."
+                },
+                {
+                    "Question": "What is the net income for the company?",
+                    "Answer": "The net income for the company is $480,000."
+                },
+                {
+                    "Question": "What are the total assets for the company?",
+                    "Answer": "The total assets for the company are $1,000,000."
+                },
+                {
+                    "Question": "What are the total liabilities for the company?",
+                    "Answer": "The total liabilities for the company are $600,000."
+                },
+                {
+                    "Question": "What is the equity for the company?",
+                    "Answer": "The equity for the company is $400,000."
+                },
+                {
+                    "Question": "What is the return on assets for the company?",
+                    "Answer": "The return on assets for the company is 4.8%."
+                },
+                {
+                    "Question": "What is the return on equity for the company?",
+                    "Answer": "The return on equity for the company is 22%."
+                },
+                {
+                    "Question": "What is the debt to equity ratio for the company?",
+                    "Answer": "The debt to equity ratio for the company is 1.5."
+                },
+                {
+                    "Question": "What are the interest expenses for the company?",
+                    "Answer": "The interest expenses for the company are $30,000."
+                },
+                {
+                    "Question": "What are the tax expenses for the company?",
+                    "Answer": "The tax expenses for the company are $70,000."
+                }
+            ],
+            "Output": "Cognitron is a company that provides financial services to its clients. The company is headquartered in the United States and its total revenues for the year were $100,000. The company's total expenses for the year were $520,000, resulting in a net income of $480,000. The company's total assets were $1,000,000 and its total liabilities were $600,000, resulting in equity of $400,000. The company's return on assets was 4.8% and its return on equity was 22%. The company's debt to equity ratio was 1.5 and its interest expenses for the year were $30,000. The company's tax expenses for the year were $70,000. The audit of Cognitron was conducted in order to assess the financial statements of the company for the year. The audit included a review of the company's accounting records and financial statements, as well as interviews with management. Based on the audit, it is our opinion that the financial statements of Cognitron are a fair and accurate representation of the financial position of the company as of December 31, 20xx."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/FyoOpW43czS7ljSUlfEwAg73?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/QsBgHe8OkIxd1kBR6jwR8hJt?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/XEPsOOti7jEbNV64XPCRfp28?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1zUW34nYEGJUDwAUyb1p0RqUhlEAP-j6s/view?usp=sharing",
+        "https://drive.google.com/file/d/1HYeAka6y0fFz0NPMjU3rjb1QRVHoJX_X/view?usp=sharing",
+        "https://drive.google.com/file/d/1EJnHg_p6CYG0JyBt-8vsAiqVOtRuTGyl/view?usp=sharing"
+    ]
+}

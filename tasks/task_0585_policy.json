@@ -1,0 +1,164 @@
+{
+    "Contributor": "anchliasaurav",
+    "Domain": "Policy",
+    "Task": "Write a compliance policy",
+    "Prompt": [
+        "I am an expert in policy. I will now ask you some questions and then use that information to write a compliance policy for you.",
+        "Write a detailed compliance policy using the above question and answers. Also suggest ways to improve the policy."
+    ],
+    "Instances": [
+        {
+            "QAPair": [
+                {
+                    "op": "Assuming you would like a detailed plan:\n\nFirst, head outside to your rooftop at around 12 am. It's important to give your eyes 30 minutes to adjust to the darkness, so try to avoid using any bright lights during this time. If you have a red light, that's even better, as it won't disrupt your night vision as much.\n\nOnce it's nice and dark, take a look around and see what's visible. If you're not familiar with the night sky, it might be helpful to use a star chart to help you find your way around.\n\nSome good things to start with are the constellations. Pick out a few of the most prominent ones and see if you can find them in the sky. Once you've found them, see if you can find some of the stars that make up those constellations.\n\nFrom there, see if you can find some of the other bright objects in the night sky. The moon, for example, is usually quite easy to spot. Jupiter and Saturn are also usually visible to the naked eye, although they might require a little bit of searching to find.\n\nIf you have a telescope, now is the time to set it up. Start with some of the easier objects to find, like the moon or some of the brighter planets. Once you've found them, see if you can use your telescope to get a closer look. See if you can spot any of the features that you would normally be able to see with binoculars or a small telescope.\n\nAfter you've spent some time looking at some of the easier objects, see if you can find some of the more challenging ones. The supernova, for example, might be a little bit more difficult to find. But if you know where to look, you should be able to spot it. The same goes for galaxies. They're usually not as bright as some of the other objects in the night sky, but they can be just as interesting to look at.\n",
+                    "Question": "Question 1: What is the purpose of this policy?",
+                    "Answer": "The purpose of this policy is to establish guidelines for compliance for stock trading."
+                },
+                {
+                    "Question": "Question: What are the conditions under which stock trading is allowed?",
+                    "Answer": "Stock trading is only allowed under the following conditions:\n\n\n\n-All trades must be made through a registered broker.\n-All trades must be made in accordance with applicable laws and regulations.\n-All trades must be made in good faith and in the best interests of the company.\n-All trades must be disclosed in accordance with applicable laws and regulations.\n-All trades must be recorded in the company's books and records."
+                },
+                {
+                    "Question": "Question: What are the consequences for violating this policy?",
+                    "Answer": "Violations of this policy may result in disciplinary action, including but not limited to, suspension or termination of employment."
+                },
+                {
+                    "Question": "Question: Are there any exceptions to this policy?",
+                    "Answer": "Yes, there are exceptions to this policy. Exceptions may be made on a case-by-case basis at the discretion of the company."
+                },
+                {
+                    "Question": "Question: Who is responsible for enforcing this policy?",
+                    "Answer": "The compliance department is responsible for enforcing this policy."
+                },
+                {
+                    "Question": "Question: Who should employees contact if they have questions about this policy?",
+                    "Answer": "Employees should contact the compliance department if they have questions about this policy."
+                },
+                {
+                    "Question": "Question: When will this policy go into effect?",
+                    "Answer": "This policy will go into effect start of 2023"
+                },
+                {
+                    "Question": "Question: When will this policy be reviewed?",
+                    "Answer": "This policy will be reviewed every 3 years"
+                },
+                {
+                    "Question": "Question: How often do employees need to be trained on this policy?",
+                    "Answer": "Employees need to be trained on this policy annually."
+                },
+                {
+                    "Question": "Question: What type of information do employees need to be trained on?",
+                    "Answer": "Employees need to be trained on the purpose of the policy, the conditions under which stock trading is allowed, the consequences for violating the policy, and the exceptions to the policy."
+                },
+                {
+                    "Question": "Question: Who will provide the training?",
+                    "Answer": "The compliance department will provide the training."
+                }
+            ],
+            "Output": "This policy is effective as of [DATE].\n\n1. Purpose\n\nThe purpose of this policy is to establish guidelines for compliance for stock trading.\n\n2. Conditions\n\nStock trading is only allowed under the following conditions:\n\n-All trades must be made through a registered broker.\n-All trades must be made in accordance with applicable laws and regulations.\n-All trades must be made in good faith and in the best interests of the company.\n-All trades must be disclosed in accordance with applicable laws and regulations.\n-All trades must be recorded in the company's books and records.\n\n3. Consequences\n\nViolations of this policy may result in disciplinary action, including but not limited to, suspension or termination of employment.\n\n4. Exceptions\n\nExceptions may be made on a case-by-case basis at the discretion of the company.\n\n5. Enforcement\n\nThe compliance department is responsible for enforcing this policy.\n\n6. Training\n\nEmployees need to be trained on this policy annually. Training will cover the purpose of the policy, the conditions under which stock trading is allowed, the consequences for violating the policy, and the exceptions to the policy. The compliance department will provide the training.\n\n7. Review\n\nThis policy will be reviewed every 3 years.\n\n",
+            "Preset_link": "https://beta.openai.com/playground/p/Vwahj1sZZtqt9jGiEusfpLPW?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question: What is the scope of this policy?",
+                    "Answer": "The scope of this policy is to establish guidelines to protect patient health and medical information."
+                },
+                {
+                    "Question": "Question: What are the compliance risks associated with this policy?",
+                    "Answer": "There are compliance risks associated with this policy if patient health and medical information is not protected. These risks could include unauthorized access to patient information, disclosure of patient information, and loss or destruction of patient information."
+                },
+                {
+                    "Question": "Question: What are the compliance requirements for this policy?",
+                    "Answer": "The compliance requirements for this policy are that patient health and medical information must be protected. This includes ensuring that only authorized personnel have access to patient information, ensuring that patient information is not disclosed without authorization, and ensuring that patient information is not lost or destroyed."
+                },
+                {
+                    "Question": "Question:What are the consequences for not complying with this policy?",
+                    "Answer": "The consequences for not complying with this policy could include disciplinary action, loss of access to patient information, and legal action. It could also involve monetary fine."
+                },
+                {
+                    "Question": "Question:What is the effective date of this policy?",
+                    "Answer": "The effective date of this policy is  2023 january"
+                },
+                {
+                    "Question": "Question:Who is responsible for enforcing this policy?",
+                    "Answer": "The responsible for enforcing this policy is the health information administrator."
+                },
+                {
+                    "Question": "Question:Who will be impacted by this policy?",
+                    "Answer": "This policy will impact all personnel who have access to patient health and medical information."
+                },
+                {
+                    "Question": "Question:What exceptions are there to this policy?",
+                    "Answer": "The exceptions to this policy are when patient information is being used for research purposes or when disclosure of patient information is required by law."
+                },
+                {
+                    "Question": "Question:Are there any other compliance risks that should be addressed in this policy?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "This policy establishes guidelines for compliance with health and medical information. The scope of this policy is to establish guidelines to protect patient health and medical information. The compliance risks associated with this policy if patient health and medical information is not protected. These risks could include unauthorized access to patient information, disclosure of patient information, and loss or destruction of patient information. The compliance requirements for this policy are that patient health and medical information must be protected. This includes ensuring that only authorized personnel have access to patient information, ensuring that patient information is not disclosed without authorization, and ensuring that patient information is not lost or destroyed. The consequences for not complying with this policy could include disciplinary action, loss of access to patient information, and legal action. It could also involve monetary fine. The effective date of this policy is 2023 january. The person responsible for enforcing this policy is the health information administrator. This policy will impact all personnel who have access to patient health and medical information. The exceptions to this policy are when patient information is being used for research purposes or when disclosure of patient information is required by law.",
+            "Preset_link": "https://beta.openai.com/playground/p/AEoK4Uel791ViwD4mUpcqft5?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question: What is the purpose of this policy?",
+                    "Answer": "The purpose of this policy is to establish guidelines for compliance for workplace safety."
+                },
+                {
+                    "Question": "Question: What is the scope of this policy?",
+                    "Answer": "The scope of this policy is to establish guidelines to protect workers and managers at the workplace."
+                },
+                {
+                    "Question": "Question: What are the compliance risks associated with this policy?",
+                    "Answer": "There are compliance risks associated with this policy if workers don't have saftey operating standards, they could get injured seriously or fatally."
+                },
+                {
+                    "Question": "Question: What are the consequences of non-compliance with this policy?",
+                    "Answer": "The consequences of non-compliance with this policy could result in workers getting injured or killed."
+                },
+                {
+                    "Question": "Question: What are the compliance requirements of this policy?",
+                    "Answer": "The compliance requirements of this policy are that all workers  and company must follow safety operating procedures at all times."
+                },
+                {
+                    "Question": "Question: What are the compliance enforcement mechanisms of this policy?",
+                    "Answer": "The compliance enforcement mechanisms of this policy are that any worker, manager, supervisor who does not comply with the policy will be subject to disciplinary action."
+                },
+                {
+                    "Question": "Question: What are the compliance monitoring mechanisms of this policy?",
+                    "Answer": "The compliance monitoring mechanisms of this policy are that the company will have regular audits to ensure that the policy is being followed."
+                },
+                {
+                    "Question": "Question: Whom does this policy apply to?",
+                    "Answer": "This policy applies to all workers and managers at the company."
+                },
+                {
+                    "Question": "Question: When does this policy take effect?",
+                    "Answer": "This policy takes effect immediately."
+                },
+                {
+                    "Question": "Question: How often will this policy be reviewed?",
+                    "Answer": "This policy will be reviewed every year."
+                },
+                {
+                    "Question": "Question: Who is responsible for ensuring compliance with this policy?",
+                    "Answer": "The company is responsible for ensuring compliance with this policy."
+                },
+                {
+                    "Question": "Question: How will compliance with this policy be reported?",
+                    "Answer": "Compliance with this policy will be reported to the company's board of directors."
+                },
+                {
+                    "Question": "Question: What happens if this policy is not followed?",
+                    "Answer": "If this policy is not followed, the company will be subject to disciplinary action."
+                }
+            ],
+            "Output": "The purpose of this policy is to establish guidelines for compliance for workplace safety. The scope of this policy is to establish guidelines to protect workers and managers at the workplace. There are compliance risks associated with this policy if workers don't have safety operating standards, they could get injured seriously or fatally. The consequences of non-compliance with this policy could result in workers getting injured or killed. The compliance requirements of this policy are that all workers and company must follow safety operating procedures at all times. The compliance enforcement mechanisms of this policy are that any worker, manager, supervisor who does not comply with the policy will be subject to disciplinary action. The compliance monitoring mechanisms of this policy are that the company will have regular audits to ensure that the policy is being followed. This policy applies to all workers and managers at the company. This policy takes effect immediately. This policy will be reviewed every year. The company is responsible for ensuring compliance with this policy. Compliance with this policy will be reported to the company's board of directors. If this policy is not followed, the company will be subject to disciplinary action.",
+            "Preset_link": "https://beta.openai.com/playground/p/0uuJUhyA3vUuJaun94dvvJtF?model=text-davinci-002"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/0uuJUhyA3vUuJaun94dvvJtF?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/10svq0fD6Sn8NtPRogfd0nRfw-PPvuqNK?usp=sharing"
+}

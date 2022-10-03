@@ -1,0 +1,156 @@
+{
+    "Contributor": "gakharmanav",
+    "Domain": "Emotional Writing",
+    "Task": "Writing a political note",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert political note writer. I will ask some questions to collect information and then I will use the information to write a political note.",
+        "task_specific_prompt": "Write a political note using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the main points of your political platform?",
+                    "Answer": "Answer:\n\nOur political platform is built on the idea of a strong and prosperous America. We believe in an America that is safe, secure, and free. We believe in an America that is prosperous and thriving. We believe in an America that is strong and united."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the economy?",
+                    "Answer": "Answer:\n\nThe current state of the economy is a mixed bag. On one hand, the unemployment rate is at a historic low. On the other hand, wages have been stagnant for years."
+                },
+                {
+                    "Question": "What is your plan for improving the economy?",
+                    "Answer": "Answer:\n\nOur plan for improving the economy is three-fold. First, we will cut taxes for businesses and individuals. Second, we will reduce regulations that are stifling economic growth. Third, we will increase government spending on infrastructure and education."
+                },
+                {
+                    "Question": "What are your thoughts on immigration and illegal immigration?",
+                    "Answer": "Answer:\n\nWe believe in legal immigration. Illegal immigration is a drain on our economy and our resources. We must secure our borders and enforce our immigration laws."
+                },
+                {
+                    "Question": "What is your plan for dealing with illegal immigration?",
+                    "Answer": "Answer:\n\nOur plan for dealing with illegal immigration is three-fold. First, we will build a wall along our southern border. Second, we will increase funding for border security. Third, we will enforce our immigration laws."
+                },
+                {
+                    "Question": "What are your thoughts on gun control?",
+                    "Answer": "Answer:\n\nWe believe in the Second Amendment and the right of Americans to bear arms. We also believe that there should be common sense gun control measures in place to keep guns out of the hands of criminals and those with mental health issues."
+                },
+                {
+                    "Question": "What is your plan for dealing with gun control?",
+                    "Answer": "Answer:\n\nOur plan for dealing with gun control is two-fold. We will strengthen background checks. Second, we will ban bump stocks and close the gun show loophole."
+                },
+                {
+                    "Question": "What are your thoughts on education?",
+                    "Answer": "Answer:\n\nWe believe in a quality education for all Americans. We believe that education is the key to a successful future. We must invest in our education system so that our children can succeed."
+                },
+                {
+                    "Question": "What is your plan for improving education?",
+                    "Answer": "Answer:\n\nOur plan for improving education is three-fold. First, we will increase the funding for education. Second, we will reduce class sizes. Third, we will invest in early childhood education."
+                },
+                {
+                    "Question": "What are your thoughts on healthcare?",
+                    "Answer": "Answer:\n\nWe believe in a quality healthcare system for all Americans. We believe  strongly that healthcare is a right, not a privilege. We must work to improve our healthcare system so that everyone can have access to quality care."
+                },
+                {
+                    "Question": "What is your plan for improving healthcare?",
+                    "Answer": "Answer:\n\nOur plan for improving healthcare is three-fold. First, we will expand access to healthcare. Second, we will improve the quality of care. Third, we will reduce the costs of healthcare."
+                }
+            ],
+            "Output": "Dear Friend,\r\n\r\nI wanted to update you on our political platform and what we are doing to improve the economy and healthcare.\r\n\r\nOur political platform is built on the idea of a strong and prosperous America. We believe in an America that is safe, secure, and free. We believe in an America that is prosperous and thriving. We believe in an America that is strong and united.\r\n\r\nThe current state of the economy is a mixed bag. On one hand, the unemployment rate is at a historic low. On the other hand, wages have been stagnant for years.\r\n\r\nOur plan for improving the economy is three-fold. First, we will cut taxes for businesses and individuals. Second, we will reduce regulations that are stifling economic growth. Third, we will increase government spending on infrastructure and education.\r\n\r\nWe believe in a quality healthcare system for all Americans. We believe strongly that healthcare is a right, not a privilege. We must work to improve our healthcare system so that everyone can have access to quality care.\r\n\r\nOur plan for improving healthcare is three-fold. First, we will expand access to healthcare. Second, we will improve the quality of care. Third, we will reduce the costs of healthcare.\r\n\r\nWe"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on the current state of the economy?",
+                    "Answer": "I believe the current state of the economy is terrible. The stock market isn't doing too well, inflation is at an all-time high, and the current administration is unable to control it."
+                },
+                {
+                    "Question": "What is your opinion of the current administration's economic policies?",
+                    "Answer": "I believe the current administration's economic policies are terrible. These policies have resulted in mass layoffs, unemployment, and skyrocketing oil prices."
+                },
+                {
+                    "Question": "What do you think could be done to improve the economy?",
+                    "Answer": "I think the government needs to invest in infrastructure and green energy, and create jobs in those industries. I also think we need to reduce our dependence on foreign oil, and invest in domestic energy sources. In addition, the Fed needs to control the interest rates, which help our country get out of this economic slump by controlling inflation."
+                },
+                {
+                    "Question": "What is your opinion of the current state of politics?",
+                    "Answer": "I believe the current state of politics is terrible. Our country is divided, and our government is gridlocked. I believe we need to come together and find common ground, so we can move our country forward in this difficult time."
+                },
+                {
+                    "Question": "What is your opinion of the current administration?",
+                    "Answer": "I believe the current administration is average. Although they have done some good work in healthcare policies, they have made a lot of promises that they haven't kept, and they have failed to deliver on some policies."
+                },
+                {
+                    "Question": "What do you think could be done to improve the current state of politics?",
+                    "Answer": "Our country is going through a difficult time. I believe this is not the best time for divisive politics.  Instead, we need to find common ground and work together for the country."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the economy?",
+                    "Answer": "Inflation is at an all-time high,  but I believe that if the Fed controls the interest rates, we can rise again. We also need to focus on healthcare policies again, especially after the pandemic strained our healthcare system. I think we need to question the motives of the current party for the country's well-being."
+                },
+                {
+                    "Question": "What is your opinion of the current administration's healthcare policies?",
+                    "Answer": "The current administration has done some good work in healthcare, and this must be sustained. Especially after the pandemic."
+                },
+                {
+                    "Question": "What do you think could be done to improve the quality of healthcare in the United States?",
+                    "Answer": "I think we need to invest in research and development in the healthcare industry. We also need to focus on preventative care, rather than reactionary care. Finally, we need to provide healthcare for all citizens, regardless of their ability to pay. This would go a long way in supporting the well-being of our citizens and making sure that they are taken care of in their worst times."
+                },
+                {
+                    "Question": "What are your thoughts on race?",
+                    "Answer": "I believe that race is merely a social construct. We are all human beings, and we should be treated as such. I believe that we need to come together and have an honest conversation about race in our country, so we can move forward and create a more equitable society for all."
+                }
+            ],
+            "Output": "Dear Fellow Americans,\r\n\r\nI am writing to you today to share my thoughts on the current state of our economy and politics. I believe the current state of the economy is terrible. The stock market isn't doing too well, inflation is at an all-time high, and the current administration is unable to control it. I believe the current administration's economic policies are terrible. These policies have resulted in mass layoffs, unemployment, and skyrocketing oil prices. I think the government needs to invest in infrastructure and green energy, and create jobs in those industries. I also think we need to reduce our dependence on foreign oil, and invest in domestic energy sources. In addition, the Fed needs to control the interest rates, which help our country get out of this economic slump by controlling inflation.\r\n\r\nI also believe the current state of politics is terrible. Our country is divided, and our government is gridlocked. I believe we need to come together and find common ground, so we can move our country forward in this difficult time. I believe the current administration is average. Although they have done some good work in healthcare policies, they have made a lot of promises that they haven't kept, and they have failed to deliver on some policies. I think we need"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on the current situation in the United States?",
+                    "Answer": "I believe things aren't going too well for the country right now. There are a lot issues with healthcare policies, the economy is struggling, and there are racial tensions and social unrest in general."
+                },
+                {
+                    "Question": "What do you think the government should do to improve the current situation?",
+                    "Answer": "I  think the government needs to completely overhaul its healthcare and economic policies, while also try to reduce social unrest by promoting equality for all races."
+                },
+                {
+                    "Question": "Do you have any specific suggestions on how the government can improve the current situation?",
+                    "Answer": "I believe the government should create policies that benefit all sections of society, especially the poor or the marginalized.  In addition, it should ask the Fed to increase interest rates that will help reduce inflation. To reduce racial tensions, the government should widely publicize incentives for equality."
+                },
+                {
+                    "Question": "Do you think the current situation is the fault of the government?",
+                    "Answer": "I believe the government is not entirely responsible, however better policies could have mitigated some of the damage that the pandemic cause to the country."
+                },
+                {
+                    "Question": "Do you think the current situation is the fault of the people?",
+                    "Answer": "No, it is not the fault of the people. The pandemic was unprecedented and the policies are not in control of the public."
+                },
+                {
+                    "Question": "What do you think is the most pressing issue in the United States right now?",
+                    "Answer": "The most pressing issue in the United States right now is the economy. The country is really struggling to recover from the pandemic, and many people are still unemployed."
+                },
+                {
+                    "Question": "What do you think is the most pressing issue in the world right now?",
+                    "Answer": "The most pressing issue in the world right now is the environment and geopolitical unrest. Climate change is a real and pressing threat, and we need to do something about it now. In addition, geopolitical unrest is giving rise to a lot of wars. Since nuclear weapons are common now, even a small war could cascade into a full-blown nuclear war."
+                },
+                {
+                    "Question": "What do you think the United States should do to improve its current situation?",
+                    "Answer": "The United States should focus on improving its economy and healthcare policies. In addition, it should be the flagbearer of world peace, by promoting geopolitical peace and integrity."
+                },
+                {
+                    "Question": "What do you think the world should do to improve its current situation?",
+                    "Answer": "The world needs to unify properly in this divisive time of human history that is heavily affected by the pandemic, climate change, and war."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of the world?",
+                    "Answer": "I think the world is still recovering from the pandemic, however, the recovery looks promising. I strongly believe that the government can help us come out of this phase."
+                }
+            ],
+            "Output": "The United States is facing a lot of challenges right now. The economy is struggling, healthcare policies are in flux, and there are racial tensions and social unrest. The government needs to take action to improve the current situation. Some specific suggestions include creating policies that benefit all sections of society and promoting equality for all races. The most pressing issue in the United States right now is the economy. The country is really struggling to recover from the pandemic, and many people are still unemployed. The most pressing issue in the world right now is the environment and geopolitical unrest. Climate change is a real and pressing threat, and we need to do something about it now. In addition, geopolitical unrest is giving rise to a lot of wars. Since nuclear weapons are common now, even a small war could cascade into a full-blown nuclear war. The United States should focus on improving its economy and healthcare policies. In addition, it should be the flagbearer of world peace, by promoting geopolitical peace and integrity."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/sHKEPHZjyjitTjwRzpwTFrw5?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Rac89jOm4VSdek0oJOSnPNiT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JQsaPDDgit7DhqfpY60sxROP?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ry-PS1FwSKpNvJdvpnCcTBK5MQBWR6_F?usp=sharing"
+}

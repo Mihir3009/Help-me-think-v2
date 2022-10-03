@@ -1,0 +1,152 @@
+{
+    "Contributor": "baptistawalstan",
+    "Domain": "Automation",
+    "Task": "Interview Report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Automation. I will ask some questions to collect information and then I will use the information to write an interview report about Drone deliveries.",
+        "task_specific_prompt": "Write a interview report using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about drone deliveries?",
+                    "Answer": "I think they're amazing! It's so cool that we can now use technology to deliver goods in a faster and more efficient way."
+                },
+                {
+                    "Question": "What do you think are the benefits of drone deliveries?",
+                    "Answer": "There are many benefits of drone deliveries, including the fact that they are faster and more efficient than traditional methods of delivery. Additionally, drone deliveries can help to reduce traffic congestion and environmental pollution."
+                },
+                {
+                    "Question": "What do you think are the challenges of drone deliveries?",
+                    "Answer": "There are several challenges associated with drone deliveries, including the need for regulatory approval, the potential for drone collisions, and the possibility of package theft."
+                },
+                {
+                    "Question": "What do you think the future of drone deliveries?",
+                    "Answer": "I think the future of drone deliveries is very bright. I believe that we will see more and more businesses using drones to deliver goods and that the technology will only continue to improve."
+                },
+                {
+                    "Question": "Do you have any other thoughts on drone deliveries?",
+                    "Answer": "I think they're amazing and I can't wait to see them become more widespread!"
+                },
+                {
+                    "Question": "Would you ever use a drone delivery service?",
+                    "Answer": "Yes, I would definitely use a drone delivery service!"
+                },
+                {
+                    "Question": "What do you think about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I think it's amazing! I think it's a great way to use technology to improve the efficiency of deliveries."
+                },
+                {
+                    "Question": "Do you have any concerns about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I don't have any major concerns, but I think it's important to make sure that the drones are operated safely and that there are regulations in place to protect the privacy of people who may be in the vicinity of the drones."
+                },
+                {
+                    "Question": "What do you think about the use of drones for deliveries in general?",
+                    "Answer": "I think it's amazing! I think it's a great way to use technology to improve the efficiency of deliveries."
+                },
+                {
+                    "Question": "Do you have any concerns about the use of drones for deliveries in general?",
+                    "Answer": "I don't have any major concerns, but I think it's important to make sure that the drones are operated safely and that there are regulations in place to protect the privacy of people who may be in the vicinity of the drones."
+                }
+            ],
+            "Output": "In an interview with an expert on automation, it was discovered that there are many benefits to drone deliveries, including the fact that they are faster and more efficient. Additionally, it was found that drone deliveries can help to reduce traffic congestion and environmental pollution. However, there are also some challenges associated with drone deliveries, including the need for regulatory approval and the potential for collisions or package theft. The future of drone deliveries is seen as very bright, with the potential for more businesses to use the technology to improve the efficiency of their deliveries. There was also some discussion on Amazon's plans to use drones for deliveries, with the expert believing that it is a great way to use technology to improve the efficiency of deliveries. There were no major concerns raised about the use of drones for deliveries, but it was emphasized that it is important to make sure that they are operated safely and that there are regulations in place to protect the privacy of people who may be in the vicinity of the drones."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about drone deliveries?",
+                    "Answer": "I think they're amazing! It's such a cool concept and I think it definitely has a lot of potential. I think it would be really efficient and would make life a lot easier for people."
+                },
+                {
+                    "Question": "What do you think are the benefits of drone deliveries?",
+                    "Answer": "I think the benefits are that it would be more efficient, it would save time, and it would be more convenient."
+                },
+                {
+                    "Question": "What do you think are the challenges of drone deliveries?",
+                    "Answer": "I think the challenges are that it might be expensive, and there might be regulatory issues."
+                },
+                {
+                    "Question": "What do you think the future of drone deliveries?",
+                    "Answer": "I think the future of drone deliveries is definitely bright. I think more and more companies will start using them and they will become more and more popular."
+                },
+                {
+                    "Question": "Do you have any other thoughts on drone deliveries?",
+                    "Answer": "I think it's a really great concept and I think it has a lot of potential. I think it would make life a lot easier for people and I think it would be really efficient."
+                },
+                {
+                    "Question": "Would you ever use a drone delivery service?",
+                    "Answer": "Yes, I would definitely use a drone delivery service. I think it would be really convenient and I think it would save a lot of time."
+                },
+                {
+                    "Question": "What do you think about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I think it's a great idea! I think it would be really efficient and it would save a lot of time."
+                },
+                {
+                    "Question": "Do you have any concerns about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I don't really have any concerns. I think it's a great idea and I think it would be really beneficial."
+                },
+                {
+                    "Question": "What do you think about the use of drones for deliveries in general?",
+                    "Answer": "I think it's a great idea! I think it would be really efficient and it would save a lot of time."
+                },
+                {
+                    "Question": "Do you have any concerns about the use of drones for deliveries in general?",
+                    "Answer": "I don't really have any concerns. I think it's a great idea and I think it would be really beneficial."
+                }
+            ],
+            "Output": "In this interview, the person spoke positively about drone deliveries, believing that they are amazing and have a lot of potential. They think that the benefits of drone deliveries include efficiency, time-saving, and convenience. The challenges of drone deliveries that they see are potential expense and regulatory issues. They believe that the future of drone deliveries is bright, with more and more companies using them. The person would definitely use a drone delivery service themselves, finding it convenient and time-saving. They had no concerns about Amazon's plans to use drones for deliveries. In general, they think that the use of drones for deliveries is a great idea with many benefits."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you feel about drone deliveries?",
+                    "Answer": "I think that drone deliveries are a great idea and can really help to speed up the delivery process. I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation."
+                },
+                {
+                    "Question": "What do you think are the benefits of drone deliveries?",
+                    "Answer": "I think that drone deliveries can be very beneficial because they can help to speed up the delivery process. I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation."
+                },
+                {
+                    "Question": "What do you think are the challenges of drone deliveries?",
+                    "Answer": "I think that one of the main challenges of drone deliveries is making sure that the drones are safe to use. There have been some reports of drones crashing and causing property damage, so it is important to make sure that the drones are properly tested before they are put into operation. Another challenge of drone deliveries is making sure that the drones do not interfere with other aircraft."
+                },
+                {
+                    "Question": "What do you think the future of drone deliveries?",
+                    "Answer": "I think that drone deliveries have a lot of potential and could really revolutionize the delivery process. I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation."
+                },
+                {
+                    "Question": "Do you have any other thoughts on drone deliveries?",
+                    "Answer": "No, that is all."
+                },
+                {
+                    "Question": "Would you ever use a drone delivery service?",
+                    "Answer": "Yes, I would definitely use a drone delivery service if it was available."
+                },
+                {
+                    "Question": "What do you think about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I think that Amazon's plans to use drones for deliveries are a great idea and can really help to speed up the delivery process. I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation."
+                },
+                {
+                    "Question": "Do you have any concerns about Amazon's plans to use drones for deliveries?",
+                    "Answer": "I am concerned about Amazon's plans to use drones for deliveries because I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation. I am also concerned about the potential for the drones to interfere with other aircraft."
+                },
+                {
+                    "Question": "What do you think about the use of drones for deliveries in general?",
+                    "Answer": "I think that the use of drones for deliveries is a great idea and can really help to speed up the delivery process. I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation."
+                },
+                {
+                    "Question": "Do you have any concerns about the use of drones for deliveries in general?",
+                    "Answer": "I am concerned about the use of drones for deliveries because I think that it is important to make sure that the drones are properly tested and that they are safe to use before they are put into operation. I am also concerned about the potential for the drones to interfere with other aircraft."
+                }
+            ],
+            "Output": "In this interview, the responder indicated that they thought drone deliveries were a great idea and had the potential to speed up the delivery process. They also noted that it was important to make sure that the drones were properly tested and safe to use before they were put into operation. The responder also indicated that they would definitely use a drone delivery service if it was available. When asked about Amazon's plans to use drones for deliveries, the responder indicated that they thought it was a great idea but had concerns about the drones being properly tested and safe to use. The responder also had concerns about the potential for the drones to interfere with other aircraft. In general, the responder thought that the use of drones for deliveries was a great idea but noted that it was important to make sure that the drones were properly tested and safe to use."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ul89Zot2Rsdo1t3eNhOeQfog?model=text-davinci-002",
+        "hhttps://beta.openai.com/playground/p/274JFgOqIgGoYOKCWVRfMI1F?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/U4wQUBey6AbqM4yCXY1sfsXe?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/14A3L5rMJZz7g0vx49iogVtWP3DVuVvbz?usp=sharing"
+}

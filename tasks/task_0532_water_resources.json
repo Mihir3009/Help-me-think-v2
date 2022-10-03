@@ -1,0 +1,168 @@
+{
+    "Contributor": "dolinpavel",
+    "Domain": "water_resources",
+    "Task": "irrigation_design",
+    "Prompt": {
+        "pre_question_prompt": "I am an agricultural engineer who specializes in irrigation systems for agricultural land. I will ask some questions to collect information, and then I will use the information to create an efficient irrigation system for agricultural land.",
+        "task_specific_prompt": "Write a coherent irrigation system plan using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "How big is the agricultural land?": "The agricultural land is 1000 acres."
+                },
+                {
+                    "What is the climate like in the area?": "Desert climate with an average rainfall of 10 inches per year."
+                },
+                {
+                    "What crops are grown on the land?": "The crops grown on the land are corn, beans and potatoes"
+                },
+                {
+                    "What is the soil like?": "The soil have a lot of clay and are very alkaline as a result"
+                },
+                {
+                    "What is the average temperature in the area?": "The average temperature is 85 degrees Fahrenheit."
+                },
+                {
+                    "What is the average wind speed in the area?": "The average wind speed is 15 mph."
+                },
+                {
+                    "What is the irrigation system currently in place?": "None"
+                },
+                {
+                    "What are the water needs of the crops?": "The water needs of the crops are:  Corn: 1 inch per week  Beans: 1.5 inches per week  Potatoes: 2 inches per week"
+                },
+                {
+                    "What is the available water source?": "The available water source is a river that is 15 miles away from the agricultural land."
+                },
+                {
+                    "What is the total water budget for the agricultural land?": "The total water budget for the agricultural land is 500 gallons per week."
+                },
+                {
+                    "What is the cost of pumping water from the river?": "The cost of pumping water from the river is $0.40 per gallon."
+                },
+                {
+                    "What is the cost of labor for operating the irrigation system?": "The cost of labor for operating the irrigation system is $15.00 per hour."
+                },
+                {
+                    "What is the cost of electricity for operating the irrigation system?": "The cost of electricity for operating the irrigation system is $0.10 per kilowatt hour."
+                }
+            ],
+            "Output": "The agricultural land is 1000 acres. The climate is desert with an average rainfall of 10 inches per year. The crops grown on the land are corn, beans and potatoes. The soil have a lot of clay and are very alkaline as a result. The average temperature is 85 degrees Fahrenheit. The average wind speed is 15 mph. There is no irrigation system currently in place. The water needs of the crops are:  Corn: 1 inch per week  Beans: 1.5 inches per week  Potatoes: 2 inches per week  The available water source is a river that is 15 miles away from the agricultural land. The total water budget for the agricultural land is 500 gallons per week. The cost of pumping water from the river is $0.40 per gallon. The cost of labor for operating the irrigation system is $15.00 per hour. The cost of electricity for operating the irrigation system is $0.10 per kilowatt hour.  The irrigation system should be designed to meet the water needs of the crops while staying within the water budget. The system should be designed to minimize the cost of pumping water from the river and the cost of labor and electricity for operating the system."
+        },
+        {
+            "QApair": [
+                {
+                    "How big is the agricultural land?": "The agricultural land is 5000 acres."
+                },
+                {
+                    "What is the climate like in the area?": "Desert climate with an average rainfall of 50 inches per year."
+                },
+                {
+                    "What crops are grown on the land?": "The crops grown on the land are corn"
+                },
+                {
+                    "What is the soil like?": "Mollisols"
+                },
+                {
+                    "What is the average temperature in the area?": "The average temperature is 75 degrees Fahrenheit."
+                },
+                {
+                    "What is the average wind speed in the area?": "The average wind speed is 30 mph."
+                },
+                {
+                    "What is the irrigation system currently in place?": "none"
+                },
+                {
+                    "What are the water needs of the crops?": "The water needs of the crops are:  Corn: 1 inch per week"
+                },
+                {
+                    "What is the available water source?": "The available water source is a river 15 miles away and a lake that is 20 miles away from the agricultural land."
+                },
+                {
+                    "What is the total water budget for the agricultural land?": "The total water budget for the agricultural land is 5000 gallons per week."
+                },
+                {
+                    "What is the cost of pumping water from the river?": "The cost of pumping water from the river is $0.20 per gallon."
+                },
+                {
+                    "What is the cost of labor for operating the irrigation system?": "The cost of labor for operating the irrigation system is $15.00 per hour."
+                },
+                {
+                    "What is the cost of electricity for operating the irrigation system?": "The cost of electricity for operating the irrigation system is $0.08 per kilowatt hour."
+                }
+            ],
+            "Output": "The agricultural land is 5000 acres. The climate is desert with an average rainfall of 50 inches per year. The crops grown on the land are corn. The soil is mollisols. The average temperature is 75 degrees Fahrenheit. The average wind speed is 30 mph. There is no irrigation system currently in place. The water needs of the crops are: corn-1 inch per week. The available water source is a river 15 miles away and a lake that is 20 miles away from the agricultural land. The total water budget for the agricultural land is 5000 gallons per week. The cost of pumping water from the river is $0.20 per gallon. The cost of labor for operating the irrigation system is $15.00 per hour. The cost of electricity for operating the irrigation system is $0.08 per kilowatt hour.  The irrigation system plan is to use a center pivot irrigation system. The center pivot system will be designed to cover the entire field with an irrigation radius of 1,320 feet. The system will be designed to run off of a diesel engine with a pump that can deliver 300 gallons per minute. The total cost of the irrigation system will be $56,250."
+        },
+        {
+            "QApair": [
+                {
+                    "What is the type of agricultural land?": "arable land"
+                },
+                {
+                    "What is the climate of the agricultural land?": "desert"
+                },
+                {
+                    "What is the size of the agricultural land?": "500 acres"
+                },
+                {
+                    "What is the soil type of the agricultural land?": "sandy and gravelly"
+                },
+                {
+                    "What is the water source for the irrigation system?": "groundwater, river"
+                },
+                {
+                    "What is the slope of the agricultural land?": "none"
+                },
+                {
+                    "What crops are grown on the agricultural land?": "barley, oats, wheat"
+                },
+                {
+                    "What is the irrigation method?": "surface irrigation"
+                },
+                {
+                    "What is the application rate?": "1 inch per hour"
+                },
+                {
+                    "What is the operating pressure?": "100 psi"
+                },
+                {
+                    "What is the discharge rate?": "1 cfs"
+                },
+                {
+                    "What is the sprinkler spacing?": "25 feet"
+                },
+                {
+                    "What is the row spacing?": "40 inches"
+                },
+                {
+                    "What is the depth of the irrigation system?": "2 feet"
+                },
+                {
+                    "What is the total length of the irrigation system?": "2,000 feet"
+                },
+                {
+                    "What is the total dynamic head of the irrigation system?": "600 feet"
+                },
+                {
+                    "What is the power source for the irrigation system?": "electricity"
+                },
+                {
+                    "What is the voltage of the irrigation system?": "220 volts"
+                }
+            ],
+            "Output": "The irrigation system will be designed for an agricultural land that is 500 acres in size, has a desert climate, and grows crops such as barley, oats, and wheat. The irrigation system will be a surface irrigation system that uses an application rate of 1 inch per hour. The operating pressure of the system will be 100 psi, and the discharge rate will be 1 cfs. The sprinkler spacing will be 25 feet, and the row spacing will be 40 inches. The depth of the irrigation system will be 2 feet, and the total length of the irrigation system will be 2,000 feet. The total dynamic head of the system will be 600 feet. The power source for the irrigation system will be electricity, and the voltage of the system will be 220 volts."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/BpJkdnfmZHn9aEvhZwofqYxN",
+        "https://beta.openai.com/playground/p/44YIO6VJZcUTRXPOkwme7rcg",
+        "https://beta.openai.com/playground/p/cyCuPn797qZ4oT3S8HQYiJcM"
+    ],
+    "screenshot_link": [
+        "https://docs.google.com/document/d/1H82mz0aVLbqAIQoY6fMMeHMARrfYnxK2vip4hpFATaE",
+        "https://docs.google.com/document/d/1Ta6m_ipc351oR_tJGPDoZL1H616ntiw1K28xhBPhMHY",
+        "https://docs.google.com/document/d/1DIMcOHtyf7KbT5e6vAB4dmwhvuRsh0oKZvXx1gIZXRY"
+    ]
+}

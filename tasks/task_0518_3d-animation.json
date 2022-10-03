@@ -1,0 +1,143 @@
+{
+    "Contributor": "gangakirity",
+    "Domain": "3D-Animation",
+    "Task": "3D-animated movie Recommender",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in recommending 3D-animated movie according to user's preference. I will ask some questions regarding animated movies to collect information and then I will use the information to recommend a 3D-animated move based on the user's information.",
+        "task_specific_prompt": "Recommend me a 3D-animated movie using the questions and answers above. And also write its plot in short"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Do you like 3D-animated movies?",
+                    "Answer": "Not very much"
+                },
+                {
+                    "Question": "What kind of 3D-animated movies do you like?",
+                    "Answer": "My favorite anime is One Piece."
+                },
+                {
+                    "Question": "Do you prefer 3D-animated movies with a lot of action, or ones with a more light-hearted story?",
+                    "Answer": "I prefer a lot of action in movies."
+                },
+                {
+                    "Question": "What are some of your favorite 3D-animated movies?",
+                    "Answer": "Dont know any"
+                },
+                {
+                    "Question": "Do you like movies that are set in space?",
+                    "Answer": "Not necessarily."
+                },
+                {
+                    "Question": "Do you like movies that are set in the future?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Do you want to watch a movie that is heartwarming, or one that is exciting?",
+                    "Answer": "I want to watch a movie that is exciting."
+                },
+                {
+                    "Question": "Do you want to watch a movie that will make you laugh, or one that will make you think?",
+                    "Answer": "I want to watch a movie that will make me laugh."
+                },
+                {
+                    "Question": "Do you want to watch a movie that is long, or one that is short?",
+                    "Answer": "I want to watch a movie that is long."
+                },
+                {
+                    "Question": "Do you want to watch a movie that is in english, or one that is in another language?"
+                }
+            ],
+            "Output": "The Incredibles is a 3D-animated movie that is available on Blu-ray. It is about a family of superheros who are forced to retire and live a normal life. However, they are soon drawn back into action when a new villain threatens their city. The movie is heartwarming, exciting, and funny."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How old are you?",
+                    "Answer": "I am 21 years old."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue."
+                },
+                {
+                    "Question": "What kind of movies do you like?",
+                    "Answer": "I like action movies and comedies."
+                },
+                {
+                    "Question": "Do you like 3D-animated movies?",
+                    "Answer": "Yes, I do like 3D-animated movies."
+                },
+                {
+                    "Question": "What is your favorite 3D-animated movie?",
+                    "Answer": "Dont know any"
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is a Dog."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is Ramen"
+                },
+                {
+                    "Question": "What kind of music do you like?",
+                    "Answer": "I like Hip-Hop ."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is reading books."
+                }
+            ],
+            "Output": "The movie that I would recommend for you is How to Train Your Dragon. It is a movie about a young Viking who aspires to become a dragon trainer. He eventually befriends a dragon and together they have to save the Viking village from destruction."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you like animals?",
+                    "Answer": "I like dogs a lot."
+                },
+                {
+                    "Question": "What kind of animal do you like the most?",
+                    "Answer": "Dogs"
+                },
+                {
+                    "Question": "Do you like adventure?",
+                    "Answer": "I like going on adventures."
+                },
+                {
+                    "Question": "Do you like musicals?",
+                    "Answer": "I do. I like musicals a lot."
+                },
+                {
+                    "Question": "Do you like movies that make you cry?",
+                    "Answer": "It depends on the movie. If it's a good movie, then I don't mind crying."
+                },
+                {
+                    "Question": "Do you like happy endings?",
+                    "Answer": "I like happy endings."
+                },
+                {
+                    "Question": "Do you like watching movies with your family?",
+                    "Answer": "I like watching movies with my family."
+                },
+                {
+                    "Question": "Do you like watching movies by yourself?",
+                    "Answer": "I dont mind watching movies by myself."
+                },
+                {
+                    "Question": "Do you like movies that are funny?",
+                    "Answer": "Yes, I do. I like movies that are funny."
+                },
+                {
+                    "Question": "What is your eye color?",
+                    "Answer": "Brown"
+                }
+            ],
+            "Output": "The 3D-animated movie I would recommend is Up. It is a story about an old man who ties thousands of balloons to his house and flies to South America, accidentally bringing a young boy along with him."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/UqiFWJBbJsy8sfzQH2l5IUCW?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1FvrtIobj77_El7Ukom_FNlbE6-W4FrCF/view?usp=sharing"
+}

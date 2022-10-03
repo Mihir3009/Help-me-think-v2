@@ -1,0 +1,152 @@
+{
+    "Contributor": "goelrajeev",
+    "Domain": "Zoology",
+    "Task": "Study animal behavior",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert zoologist. I will ask some questions to collect information and then I will use the information to study animal behaviors.",
+        "task_specific_prompt": "Write a paragraph on animal behavior using the questions and answers above. Include all the information and make the paragraph long."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How does the animal use its environment to help it survive?",
+                    "Answer": "The animal uses the environment to help it find food, water, and shelter. The environment also provides the animal with information about potential dangers."
+                },
+                {
+                    "Question": "What does the animal eat?",
+                    "Answer": "The animal eats a variety of plant and animal matter."
+                },
+                {
+                    "Question": "What is the animal's natural habitat?",
+                    "Answer": "The animal's natural habitat is a variety of different environments including forests, grasslands, and wetlands."
+                },
+                {
+                    "Question": "What is the animal's reproductive strategy?",
+                    "Answer": "The animal's reproductive strategy is to produce a large number of offspring that have a high chance of survival."
+                },
+                {
+                    "Question": "What is the animal's social structure?",
+                    "Answer": "The animal's social structure is a hierarchy in which the most dominant animals have the most power and the least dominant animals have the least power."
+                },
+                {
+                    "Question": "What is the animal's mating system?",
+                    "Answer": "The animal's mating system is polygynous, meaning that each male animal mates with multiple female animals."
+                },
+                {
+                    "Question": "What is the animal's lifespan?",
+                    "Answer": "The animal's lifespan is typically 10-12 years in the wild, but some animals can live for more than 100 years like tortoise and whales."
+                },
+                {
+                    "Question": "What is the animal's behavior like?",
+                    "Answer": "The animal's behavior varies depending on the situation. For example, the animal may be aggressive when defending its territory or when mating."
+                },
+                {
+                    "Question": "What environmental factors influence the animal's behavior?",
+                    "Answer": "The animal's behavior is influenced by a variety of environmental factors including the availability of food and water, the presence of predators, and the weather."
+                },
+                {
+                    "Question": "What genetic factors influence the animal's behavior?",
+                    "Answer": "The animal's behavior is influenced by a variety of genetic factors including the animal's species, its genes, and its development."
+                }
+            ],
+            "Output": "Animal behavior is the result of a variety of environmental and genetic factors. The animal uses its environment to help it find food, water, and shelter. The environment also provides the animal with information about potential dangers. The animal's behavior varies depending on the situation. For example, the animal may be aggressive when defending its territory or when mating. The animal's behavior is influenced by a variety of environmental factors including the availability of food and water, the presence of predators, and the weather. The animal's behavior is also influenced by a variety of genetic factors including the animal's species, its genes, and its development.",
+            "Preset_link": "https://beta.openai.com/playground/p/Dy5Io9ka6VB6mGIgIE9GbbeD?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1gN9Th4BANiMNdXmIgKtTcRtrkbgLhCpW/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How does the animal find food?",
+                    "Answer": "The animal uses its sense of smell to find food."
+                },
+                {
+                    "Question": "What does the animal eat?",
+                    "Answer": "The animal eats insects, and a variety of plant and animal matter."
+                },
+                {
+                    "Question": "Where does the animal live?",
+                    "Answer": "Animals live in forests, oceans, grasslands, and wetlands."
+                },
+                {
+                    "Question": "What is the animal's natural habitat?",
+                    "Answer": "The animal's natural habitat is the forest."
+                },
+                {
+                    "Question": "What is the animal's prey?",
+                    "Answer": "The animal's prey includes small mammals, reptiles, and birds."
+                },
+                {
+                    "Question": "What is the animal's predators?",
+                    "Answer": "The animal's predators include large mammals, reptiles, and birds."
+                },
+                {
+                    "Question": "What is the animal's behavior?",
+                    "Answer": "The animal is shy and elusive, and is active at night."
+                },
+                {
+                    "Question": "What is the animal's life cycle?",
+                    "Answer": "The animal's life cycle includes birth, growth, reproduction, and death."
+                },
+                {
+                    "Question": "What is the animal's life span?",
+                    "Answer": "The animal's life span is about 10 years."
+                },
+                {
+                    "Question": "What is the animal's population?",
+                    "Answer": "The animal's population is declining due to deforestation, forest fires and climate change."
+                }
+            ],
+            "Output": "The animal's behavior is shy and elusive, and is active at night. The animal finds food using its sense of smell, and eats insects, and a variety of plant and animal matter. The animal lives in forests, oceans, grasslands, and wetlands. The animal's natural habitat is the forest. The animal's prey includes small mammals, reptiles, and birds. The animal's predators include large mammals, reptiles, and birds. The animal's life cycle includes birth, growth, reproduction, and death. The animal's life span is about 10 years. The animal's population is declining due to deforestation, forest fires and climate change.",
+            "Preset_link": "https://beta.openai.com/playground/p/UML6U5NYwk7L5wnFzg9Nifvy?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1wMvEHrFX9uup4h8cbqMJgVuXsBh75pjk/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How does the animal behave?",
+                    "Answer": "The animal behaves by moving around, eating, and interacting with its environment."
+                },
+                {
+                    "Question": "What does the animal eat?",
+                    "Answer": "The animal eats plants and animals."
+                },
+                {
+                    "Question": "Where does the animal live?",
+                    "Answer": "The animal lives in the forests, wetlands, oceans, and grasslands."
+                },
+                {
+                    "Question": "What is the animal's natural habitat?",
+                    "Answer": "The animal's natural habitat is the forests, wetlands, oceans, and grasslands."
+                },
+                {
+                    "Question": "What is the animal's diet?",
+                    "Answer": "The animal's social structure is a hierarchy in which the most dominant animals have the most power and the least dominant animals have the least power."
+                },
+                {
+                    "Question": "What are the animal's predators?",
+                    "Answer": "The animal's predators are other animals, including humans."
+                },
+                {
+                    "Question": "What are the animal's prey?",
+                    "Answer": "The animal's prey are small animals, including insects and rodents."
+                },
+                {
+                    "Question": "What is the animal's mating behavior?",
+                    "Answer": "The animal's mating behavior is to mate with another animal of the same species."
+                },
+                {
+                    "Question": "What is the animal's gestation period?",
+                    "Answer": "The animal's gestation period is the time it takes for the animal to give birth."
+                },
+                {
+                    "Question": "What is the animal's life span?",
+                    "Answer": "The animal's life span is the number of years the animal lives."
+                }
+            ],
+            "Output": "Animal behavior is the result of the animal's movement, eating, and interaction with its environment.All animals must eat to survive, and they obtain their food from either the plant or animal kingdom. Animals that are predators hunt and kill other animals for food, while animals that are prey are usually smaller in size and are eaten by predators. Some animals are scavengers and will eat the remains of dead animals. Most animals live in specific habitats that provide the food, water, and shelter they need. The forest is home to many animals, as are the wetlands, oceans, and grasslands. Some animals are migratory and travel great distances to find food or mate. Animals reproduce by sexual reproduction, which involves the male and female of the same species coming together to produce offspring. The gestation period is the time it takes for the female to give birth, and the life span is the number of years the animal lives. Animal behavior is fascinating and complex, and scientists continue to study it in order to better understand the animal kingdom.",
+            "Preset_link": "https://beta.openai.com/playground/p/PGEjbXoA5ktFp52VnE3y2wp8?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1xWupoZLGZ_fjKCYMfYwveFvK_XRFUMp_/view?usp=sharing"
+        }
+    ]
+}

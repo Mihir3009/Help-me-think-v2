@@ -1,0 +1,152 @@
+{
+    "Contributor": "guptashikhar",
+    "Domain": "Government",
+    "Task": "Writing an article on government issues",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing an article on government issues. I will ask some questions to collect information and then I will use the information to write an article on government issues.",
+        "task_specific_prompt": "Write an article using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of the most pressing issues facing the government today?",
+                    "Answer": "The most pressing issues facing the government today include the economy."
+                },
+                {
+                    "Question": "What are some of the government's plans to address these issues?",
+                    "Answer": "The government's plans to address these issues include implementing austerity measures to reduce spending, increasing taxes and cutting social programs."
+                },
+                {
+                    "Question": "What are the pros and cons of these plans?",
+                    "Answer": "The pros of these plans include reducing the budget deficit and the national debt. The cons of these plans includes increased poverty."
+                },
+                {
+                    "Question": "What are some of the alternative solutions that have been proposed?",
+                    "Answer": "The alternative solutions that have been proposed includes increasing taxes on the wealthy."
+                },
+                {
+                    "Question": "What are the advantages of these alternative solutions?",
+                    "Answer": "The main advantage of these alternative solutions is reduced inequality. "
+                },
+                {
+                    "Question": "What are the disadvantages of these alternative solutions?",
+                    "Answer": "The main disadvantage of these alternative solutions is it will decrease the economic growth."
+                },
+                {
+                    "Question": "What are the long-term effects of the government's current plans?",
+                    "Answer": "The long-term effects of the government's current plans are not known."
+                },
+                {
+                    "Question": "What are the long-term effects of the alternative solutions?",
+                    "Answer": "The long-term effects of the alternative solutions are unknown."
+                },
+                {
+                    "Question": "What is the government's stance on these issue?",
+                    "Answer": "The government has not taken a stance on these issue."
+                },
+                {
+                    "Question": "What is the public's opinion on these issue?",
+                    "Answer": "The public's opinion is divided on these issue."
+                }
+            ],
+            "Output": "The government is facing many pressing issues today, the most pressing of which is the economy. The government has plans to address these issues, but they have been met with much criticism. The pros of the government's plans include reducing the budget deficit and the national debt. The cons of the government's plans includes increased poverty. The alternative solutions that have been proposed include increasing taxes on the wealthy. The main advantage of these alternative solutions is reduced inequality. The main disadvantage of these alternative solutions is it will decrease the economic growth. The long-term effects of the government's current plans and the alternative solutions are unknown. The government has not taken a stance on these issue. The public's opinion is divided on these issue."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some issues that the government is currently facing?",
+                    "Answer": "Some of the issues that the government is currently facing include the budget deficit, the national debt."
+                },
+                {
+                    "Question": "What is the government doing to try to resolve these issues?",
+                    "Answer": "The government is trying to resolve these issues by cutting spending, raising taxes, and cutting social programs."
+                },
+                {
+                    "Question": "What do experts think about the government's actions?",
+                    "Answer": "Experts think that the government's actions are insufficient and that more needs to be done to resolve the issues."
+                },
+                {
+                    "Question": "What do people think about the government's actions?",
+                    "Answer": "People think that the government's actions are not sufficient."
+                },
+                {
+                    "Question": "What do you think about the government's actions?",
+                    "Answer": "I think that the government's actions are fine. It just needs time to fix these issues."
+                },
+                {
+                    "Question": "What is your opinion on the government's actions?",
+                    "Answer": "I think that the government's actions are not sufficient."
+                },
+                {
+                    "Question": "Do you think that the government is doing enough to resolve the issues?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What do you think the government should do to resolve the issues?",
+                    "Answer": "I think that the government should cut spending, raise taxes, and cut social programs."
+                },
+                {
+                    "Question": "What do you think is the most important issue that the government should focus on?",
+                    "Answer": "The most important issue that the government should focus on is the budget deficit."
+                },
+                {
+                    "Question": "What do you think is the least important issue that the government should focus on?",
+                    "Answer": "The least important issue that the government should focus on is the national debt."
+                }
+            ],
+            "Output": "The government is currently facing many issues, including the budget deficit and the national debt. In an attempt to resolve these issues, the government has taken some actions, including cutting spending, raising taxes, and cutting social programs. However, many experts believe that these actions are insufficient and that more needs to be done to resolve the issues. People also seem to be unhappy with the government's actions, as they believe that the government is not doing enough to resolve the issues. What do you think about the government's actions? Do you think that they are sufficient? What do you think the government should do to resolve the issues?"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of the most pressing issues facing the government today?",
+                    "Answer": " One of the most pressing issues facing the government today is the increasing immigration, and healthcare."
+                },
+                {
+                    "Question": "What are the government's plans to address these issues?",
+                    "Answer": "The government's plans to address these issues are to continue to build the wall on the southern border, and to increase security. They also plan to increase funding for healthcare and to improve the quality of care."
+                },
+                {
+                    "Question": "What are the pros and cons of the government's plans?",
+                    "Answer": "The pros of the government's plans are that they will help to reduce the number of people entering the country illegally, and to improve the quality of healthcare. The cons of the government's plans are that they will cost a lot of money, and they may not be effective in addressing the root causes of the problems."
+                },
+                {
+                    "Question": "What are some of the other options that the government could consider?",
+                    "Answer": "The government could consider increasing funding for education and job training, and increasing the number of refugees that they allow into the country."
+                },
+                {
+                    "Question": "What are the pros and cons of these other options?",
+                    "Answer": "The pros of these other options are that they would address the root causes of the problems, and they would be less expensive than the government's current plans. The cons of these other options are that they would take longer to implement, and they would not be as effective in reducing the number of people entering the country illegally."
+                },
+                {
+                    "Question": "What is your opinion on the government's plans?",
+                    "Answer": "I think that the government's plans are a good start, but they need to do more to address the root causes of the problems."
+                },
+                {
+                    "Question": "What do you think the government should do?",
+                    "Answer": "The government should increase funding for education and job training, and increase the number of refugees that they allow into the country."
+                },
+                {
+                    "Question": "Why do you think this?",
+                    "Answer": "I think this because it would address the root causes of the problems, and it would be less expensive than the government's current plans."
+                },
+                {
+                    "Question": "Do you think the government's plans will be effective?",
+                    "Answer": "I think that the government's plans will be effective in reducing the number of people entering the country illegally, but they need to do more to address the root causes of the problems."
+                },
+                {
+                    "Question": "What do you think the government should do to make their plans more effective?",
+                    "Answer": "The government should increase funding for education and job training, and increase the number of refugees that they allow into the country."
+                }
+            ],
+            "Output": "The government is facing many pressing issues today, one of the most significant being immigration. According to recent estimates, there are 11 million undocumented immigrants in the United States. This number has been increasing in recent years, and the government is searching for ways to address the issue. The government's plans to address the issue are to continue to build the wall on the southern border, and to increase security. They also plan to increase funding for healthcare and to improve the quality of care. The pros of the government's plans are that they will help to reduce the number of people entering the country illegally, and to improve the quality of healthcare. The cons of the government's plans are that they will cost a lot of money, and they may not be effective in addressing the root causes of the problems. The government could consider increasing funding for education and job training, and increasing the number of refugees that they allow into the country. The pros of these other options are that they would address the root causes of the problems, and they would be less expensive than the government's current plans. The cons of these other options are that they would take longer to implement, and they would not be as effective in reducing the number of people entering the country illegally. I think that the government's plans"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/AnSFbtCWLMYIbqVyBVIsAaW8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/kJLBxuSHRxizlE1pSlb4vqJY?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YmVplhHcAfKRjzA7eAmgH9fG?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1JPTAEghwjcrtyKtvW563Aua8bqJnnthH?usp=sharing"
+}

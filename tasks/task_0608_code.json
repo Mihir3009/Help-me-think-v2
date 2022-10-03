@@ -1,0 +1,168 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Code",
+    "Task": "Invent a new Dress Code for an event",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at inventing new dress codes. I will ask relevant questions to gather information and then use that information to invent a new dress code for an event.",
+        "task_specific_prompt": "Invent and outline a dress code for the event based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of event are you looking to have a new dress code for?",
+                    "Answer": "Birthday party"
+                },
+                {
+                    "Question": "What is the theme of the birthday party?",
+                    "Answer": "The theme of the birthday party is a carnival."
+                },
+                {
+                    "Question": "What is the age range of the guests?",
+                    "Answer": "The guests are aged between 5 and 12 years old."
+                },
+                {
+                    "Question": "What is the location of the birthday party?",
+                    "Answer": "The birthday party will be held at an indoor carnival."
+                },
+                {
+                    "Question": "What type of activities will be available at the carnival?",
+                    "Answer": "There will be a variety of carnival games, rides, and food available."
+                },
+                {
+                    "Question": "What is the time of day the birthday party will be held?",
+                    "Answer": "The birthday party will be held in the evening."
+                },
+                {
+                    "Question": "What is the weather forecast for the day of the party?",
+                    "Answer": "The weather is forecast to be sunny and warm."
+                },
+                {
+                    "Question": "What is the budget for the birthday party?",
+                    "Answer": "The budget for the birthday party is $500."
+                },
+                {
+                    "Question": "What is the preferred color scheme for the birthday party?",
+                    "Answer": "The preferred color scheme for the birthday party is red, blue, and yellow."
+                },
+                {
+                    "Question": "What type of food will be served at the birthday party?",
+                    "Answer": "The food that will be served at the birthday party is hot dogs, hamburgers, chips, and soda."
+                },
+                {
+                    "Question": "What type of cake do you want for the birthday party?",
+                    "Answer": "The cake that is wanted for the birthday party is a carnival themed cake."
+                },
+                {
+                    "Question": "What type of decorations are you looking for?",
+                    "Answer": "The decorations that are being looked for are carnival themed decorations."
+                },
+                {
+                    "Question": "What is the preferred music genre for the birthday party?",
+                    "Answer": "The preferred music genre for the birthday party is carnival music."
+                }
+            ],
+            "Output": "Suggested dress code for the birthday party:\n\n-Carnival themed clothing\n-Red, blue, and yellow colors\n-Comfortable shoes\n-Hat or headband"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of event are you looking to have a new dress code for?",
+                    "Answer": "graduation party"
+                },
+                {
+                    "Question": "What is the theme of the event?",
+                    "Answer": "celebratory"
+                },
+                {
+                    "Question": "What is the location of the event?",
+                    "Answer": "outdoors"
+                },
+                {
+                    "Question": "What is the weather forecast for the day of the event?",
+                    "Answer": "sunny"
+                },
+                {
+                    "Question": "What is the time of day of the event?",
+                    "Answer": "evening"
+                },
+                {
+                    "Question": "What is the expected duration of the event?",
+                    "Answer": "3 hours"
+                },
+                {
+                    "Question": "What is the desired atmosphere of the event?",
+                    "Answer": "lively"
+                },
+                {
+                    "Question": "What is the age range of the guests?",
+                    "Answer": "18-22"
+                },
+                {
+                    "Question": "What is the gender ratio of the guests?",
+                    "Answer": "equal"
+                },
+                {
+                    "Question": "What is the average income of the guests?",
+                    "Answer": "$50,000-$75,000"
+                },
+                {
+                    "Question": "What is the desired level of formality for the event?",
+                    "Answer": "casual, party"
+                }
+            ],
+            "Output": "-For this event, guests should dress in casual, party attire. This means that guests should wear clothes that are comfortable and suitable for dancing. \n-The dress code for this event is designed to be fun and festive, so guests are encouraged to wear bright colors and patterns. \n-Since the event is taking place outdoors, guests should consider the weather forecast and dress accordingly. \n-For this event, guests should avoid wearing anything that is too formal or too casual."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of event are you looking to have a new dress code for?",
+                    "Answer": "Retirement party"
+                },
+                {
+                    "Question": "What type of atmosphere are you looking for at the retirement party?",
+                    "Answer": "Formal"
+                },
+                {
+                    "Question": "What type of clothing would you like guests to wear?",
+                    "Answer": "A suit or dress."
+                },
+                {
+                    "Question": "What type of colors would you like guests to wear?",
+                    "Answer": "Black, white, or red."
+                },
+                {
+                    "Question": "Are there any other specific details you would like to include in the dress code?",
+                    "Answer": "Guests should look their best."
+                },
+                {
+                    "Question": "Would you like guests to wear name tags?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What type of name tags would you like guests to wear?",
+                    "Answer": "Name tags with guests' names and \"retired\" written on them."
+                },
+                {
+                    "Question": "Would you like to provide any other specific instructions for the dress code?",
+                    "Answer": "guests should wear closed toed shoes"
+                },
+                {
+                    "Question": "Do you have any other instructions or information about the event that you would like to share?",
+                    "Answer": "The event will be held outdoors."
+                },
+                {
+                    "Question": "Do you have a preferred dress code for the event staff?",
+                    "Answer": "Formal, white and gold"
+                }
+            ],
+            "Output": "Guests should wear formal attire to the retirement party. This includes suits or dresses for men and women. Black, white, and red are the preferred colors. Guests should look their best and closed toed shoes are required. Name tags with the guests' names and \"retired\" written on them should be worn. The event staff should wear formal, white, and gold attire."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/NOJA9DE6imFisWmH8uAKm9v9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RjgKPpxayCeeDcHMsIhLUn55?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/l0f6JTjVKThGjFFW9b7VPur0?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1vvZcraUyTxJH0fvmqHo7GEKY84e_-il2?usp=sharing"
+}

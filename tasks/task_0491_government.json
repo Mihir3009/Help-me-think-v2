@@ -1,0 +1,152 @@
+{
+    "Contributor": "guptashikhar",
+    "Domain": "Government",
+    "Task": "Writing an article on government policies",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in telling people about different types of government policies in the world. I will ask some questions to collect information and then I will use the information to tell you about the different policies.",
+        "task_specific_prompt": "Write all the policies using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the different types of government policies?",
+                    "Answer": "There are many different types of government policies, but some of the most common include economic, social, and foreign policy. Economic policy includes things like taxation, regulation, and spending. Social policy includes things like education, healthcare, and welfare. Foreign policy includes things like defense, trade, and diplomacy."
+                },
+                {
+                    "Question": "What are the different types of economic policies?",
+                    "Answer": "There are many different types of economic policies, but some of the most common include taxation, regulation, and spending. Taxation policies involve things like how much tax people have to pay, what types of taxes there are, and what tax breaks are available. Regulation policies involve things like environmental regulations, financial regulations, and labor regulations. Spending policies involve things like how much the government spends on things like healthcare, education, and defense."
+                },
+                {
+                    "Question": "What are the different types of social policies?",
+                    "Answer": "There are many different types of social policies, but some of the most common include education, healthcare, and welfare. Education policy includes things like school funding, curriculum standards, and testing. Healthcare policy includes things like insurance requirements, prescription drug coverage, and medical research funding. Welfare policy includes things like food stamps, unemployment benefits, and housing subsidies."
+                },
+                {
+                    "Question": "What are the different types of foreign policies?",
+                    "Answer": "There are many different types of foreign policies, but some of the most common include defense, trade, and diplomacy. Defense policy includes things like how much money is spent on the military, what types of weapons are used, and where military bases are located. Trade policy includes things like tariffs, quotas, and trade agreements. Diplomacy policy includes things like how the government communicates with other countries, what types of embassies are established, and who is appointed as ambassadors."
+                },
+                {
+                    "Question": "What are some examples of government policies?",
+                    "Answer": "Some examples of government policies include things like the Affordable Care Act in the United States, which is a healthcare policy, and the Common Agricultural Policy in the European Union, which is an agricultural policy."
+                },
+                {
+                    "Question": "What are the different types of policymaking institutions?",
+                    "Answer": "There are many different types of policymaking institutions, but some of the most common include the executive branch, the legislature, and the judiciary. The executive branch is responsible for carrying out and enforcing laws. The legislature is responsible for making laws. The judiciary is responsible for interpreting laws."
+                },
+                {
+                    "Question": "What is the process of policymaking?",
+                    "Answer": "The process of policymaking involves many different steps, but some of the most important include policy formulation, policy adoption, and policy implementation. Policy formulation is the process of creating a policy. Policy adoption is the process of formally approving a policy. Policy implementation is the process of putting a policy into effect."
+                },
+                {
+                    "Question": "What are the different types of policy analysis?",
+                    "Answer": "There are many different types of policy analysis, but some of the most common include cost-benefit analysis, impact analysis, and stakeholder analysis. Cost-benefit analysis is a process of weighing the costs and benefits of a policy. Impact analysis is a process of assessing how a policy will affect different groups of people. Stakeholder analysis is a process of identifying who will be affected by a policy and how."
+                },
+                {
+                    "Question": "What are the different types of policy evaluation?",
+                    "Answer": "There are many different types of policy evaluation, but some of the most common include impact analysis, cost-benefit analysis, and stakeholder analysis. Impact analysis is a process of assessing how a policy will affect different groups of people. Cost-benefit analysis is a process of weighing the costs and benefits of a policy. Stakeholder analysis is a process of identifying who will be affected by a policy and how."
+                },
+                {
+                    "Question": "What is the difference between a policy and a law?",
+                    "Answer": "A policy is a plan or course of action adopted or pursued by a government, business, individual, or other group. A law is a rule or set of rules enacted by a legislature and enforced by a government."
+                }
+            ],
+            "Output": "-Economic policies include taxation, regulation, and spending. -Social policies include education, healthcare, and welfare. -Foreign policies include defense, trade, and diplomacy. -Government policies can be implemented by the executive branch, the legislature, or the judiciary. -Policymaking involves policy formulation, policy adoption, and policy implementation. -Policy analysis can be used to assess the costs and benefits of a policy, as well as its impacts on different groups of people. -Policy evaluation is a process of assessing how well a policy is working. A policy is a plan or course of action adopted or pursued by a government, business, individual, or other group. A law is a rule or set of rules enacted by a legislature and enforced by a government."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What government policies would you like to know about?",
+                    "Answer": "Indian foreign policy"
+                },
+                {
+                    "Question": "What would you like to know specifically about Indian foreign policy?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What are the main goals of Indian foreign policy?",
+                    "Answer": "The main goals of Indian foreign policy are to build a constructive and cooperative relationship with other countries, to promote international peace and security, to promote economic development and to protect India's national interests."
+                },
+                {
+                    "Question": "What are some of the main foreign policy initiatives of the Indian government?",
+                    "Answer": "Some of the main foreign policy initiatives of the Indian government include the Look East policy, the Act East policy, the Neighbourhood First policy, and the Indian Ocean Rim Association."
+                },
+                {
+                    "Question": "What is the Look East policy?",
+                    "Answer": "The Look East policy is an Indian foreign policy initiative that was launched in the early 1990s. The main aim of the policy is to build closer economic and political ties with the countries of East Asia."
+                },
+                {
+                    "Question": "What is the Act East policy?",
+                    "Answer": "The Act East policy is an Indian foreign policy initiative that was launched in 2014. The main aim of the policy is to build closer economic and political ties with the countries of East Asia."
+                },
+                {
+                    "Question": "What is the Neighbourhood First policy?",
+                    "Answer": "The Neighbourhood First policy is an Indian foreign policy initiative that was launched in 2014. The main aim of the policy is to build closer economic and political ties with India's neighbours."
+                },
+                {
+                    "Question": "What is the Indian Ocean Rim Association?",
+                    "Answer": "The Indian Ocean Rim Association is an international organisation that was founded in 1995. The main aim of the organisation is to promote economic and political cooperation between the countries of the Indian Ocean region."
+                },
+                {
+                    "Question": "What are some of the main challenges facing Indian foreign policy?",
+                    "Answer": "Some of the main challenges facing Indian foreign policy include terrorism, climate change, and economic development."
+                },
+                {
+                    "Question": "What is India doing to address the challenge of terrorism?",
+                    "Answer": "India is working with other countries to address the challenge of terrorism. India has also set up a National Counter Terrorism Centre to coordinate the country's response to terrorism."
+                }
+            ],
+            "Output": "The main goals of Indian foreign policy are to build a constructive and cooperative relationship with other countries, to promote international peace and security, to promote economic development and to protect India's national interests. Some of the main foreign policy initiatives of the Indian government include the Look East policy, the Act East policy, the Neighbourhood First policy, and the Indian Ocean Rim Association. The Look East policy is an Indian foreign policy initiative that was launched in the early 1990s. The main aim of the policy is to build closer economic and political ties with the countries of East Asia. The Act East policy is an Indian foreign policy initiative that was launched in 2014. The main aim of the policy is to build closer economic and political ties with the countries of East Asia. The Neighbourhood First policy is an Indian foreign policy initiative that was launched in 2014. The main aim of the policy is to build closer economic and political ties with India's neighbours. The Indian Ocean Rim Association is an international organisation that was founded in 1995. The main aim of the organisation is to promote economic and political cooperation between the countries of the Indian Ocean region. Some of the main challenges facing Indian foreign policy include terrorism, climate change, and economic development. India is working with other countries to address the challenge of"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What government policies would you like to know about?",
+                    "Answer": "UK economic policy"
+                },
+                {
+                    "Question": "What specifically would you like to know about UK economic policy?",
+                    "Answer": "The main aims of UK economic policy are to promote economic growth and employment, to reduce poverty and inequality, and to protect the environment. The government achieves these aims through a variety of policies and programmes, including taxation, spending on public services and infrastructure, and regulation."
+                },
+                {
+                    "Question": "What other types of government policies are there?",
+                    "Answer": "There are many other types of government policies, including those relating to education, healthcare, housing, transport, and the environment."
+                },
+                {
+                    "Question": "What do you want to know about government policy in general?",
+                    "Answer": "There is a lot of variation in government policy around the world, depending on the country's political system, economic system, and cultural values. Some common themes in government policy include promoting economic growth and employment, reducing poverty and inequality, and protecting the environment."
+                },
+                {
+                    "Question": "What government policies would you like to know about?",
+                    "Answer": "United Kingdom social policy"
+                },
+                {
+                    "Question": "What specifically would you like to know about United Kingdom social policy?",
+                    "Answer": "The main aims of UK social policy are to promote social cohesion and equality, to protect vulnerable groups, and to provide access to essential services. The government achieves these aims through a variety of policies and programmes, including taxation, spending on public services, and regulation."
+                },
+                {
+                    "Question": "What other types of government policies are there?",
+                    "Answer": "There are many other types of government policies, including those relating to education, healthcare, housing, transport, and the environment."
+                },
+                {
+                    "Question": "What do you want to know about government policy in general?",
+                    "Answer": "There is a lot of variation in government policy around the world, depending on the country's political system, economic system, and cultural values. Some common themes in government policy include promoting economic growth and employment, reducing poverty and inequality, and protecting the environment."
+                },
+                {
+                    "Question": "What government policies would you like to know about?",
+                    "Answer": "Housing policy in the United Kingdom"
+                },
+                {
+                    "Question": "What specifically would you like to know about housing policy in the United Kingdom?",
+                    "Answer": "The main aim of UK housing policy is to provide access to affordable, safe, and good-quality housing. The government achieves this aim through a variety of policies and programmes, including taxation, spending on public services and infrastructure, and regulation."
+                }
+            ],
+            "Output": "The main aim of UK housing policy is to provide access to affordable, safe, and good-quality housing.  The main aims of UK economic policy are to promote economic growth and employment, to reduce poverty and inequality, and to protect the environment.  The main aims of UK social policy are to promote social cohesion and equality, to protect vulnerable groups, and to provide access to essential services."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/1AmaGDZEU2haAQXEbkSRv4TU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JZsY3qltQckbOlEXHrEiNiSZ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4SDwzi0mJTj0dqx3K6hi8T6i?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1cwFghBqnLdnqy153fmpgA7eEU3EtJz5p?usp=sharing"
+}

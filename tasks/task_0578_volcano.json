@@ -1,0 +1,152 @@
+{
+    "Contributor": "aryaakschat",
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/BfGidSVemPVplKHhhH71LUmM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/q2CuBX0K6z3YJVseGMe7sNQN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/M1Mni4nGSw1ecymIkFtc5XMK?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/19eNLZ1Qi6SvmOTvQLRATg6ERJSorTHmp?usp=sharing",
+    "Domain": "Volcano",
+    "Task": "analyzing volcanic ash",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in analyzing volcanic ash. I will ask some questions to collect information and then I will use the information to analyze volcanic ash.",
+        "task_specific_prompt": "Write an analysis using the questions and answers above. The analysis should be about volcanic ash."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the volcano?",
+                    "Answer": "Mount Pinatubo"
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "Mount Pinatubo is located in the Philippines."
+                },
+                {
+                    "Question": "When did the eruption occur?",
+                    "Answer": "The eruption of Mount Pinatubo occurred on 1991."
+                },
+                {
+                    "Question": "What was the size of the eruption?",
+                    "Answer": "The eruption is rated 6 on the Volcanic Explosivity Index."
+                },
+                {
+                    "Question": "What type of ash was produced?",
+                    "Answer": "The ash produced was a mixture of silica, glass and alumina."
+                },
+                {
+                    "Question": "What is the composition of the ash?",
+                    "Answer": "The ash is made up of silicates and trace metals."
+                },
+                {
+                    "Question": "What are the health hazards of the ash?",
+                    "Answer": "The ash can cause burns, respiratory problems and even death."
+                },
+                {
+                    "Question": "What are the environmental impacts of the ash?",
+                    "Answer": "The ash can cause climate change and damage to the location on which it lands."
+                },
+                {
+                    "Question": "What are the economic impacts of the ash?",
+                    "Answer": "The ash can cause damage to roads, buildings, and farms."
+                },
+                {
+                    "Question": "Is the ash still a hazard?",
+                    "Answer": "The ash is not a hazard if removed at the right time"
+                }
+            ],
+            "Output": " Volcanic ash can be a major hazard to both human health and the environment. The ash can cause burns, respiratory problems and even death. The ash can also cause climate change and damage to the location on which it lands. The economic impacts of the ash can be significant, with damage to roads, buildings, and farms. The ash from the 1991 eruption of Mount Pinatubo is still a hazard if not removed at the right time."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the volcano?",
+                    "Answer": "Mount St. Helens"
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "Mount St. Helens is located in skamania county."
+                },
+                {
+                    "Question": "When did the eruption occur?",
+                    "Answer": "The volcano last erupted in 2008."
+                },
+                {
+                    "Question": "What was the size of the eruption?",
+                    "Answer": "The May 1980 eruption of Mount St. Helens is rated to have a volcanic explosivity index of 5."
+                },
+                {
+                    "Question": "What type of ash was produced?",
+                    "Answer": "The ash produced had crystalline and lithic particles."
+                },
+                {
+                    "Question": "What is the composition of the ash?",
+                    "Answer": "The ash is made up of primarily carbon, silicates and alumina."
+                },
+                {
+                    "Question": "What are the health hazards of the ash?",
+                    "Answer": "Ash's particles are abrasive in nature and can scratch the surface of the skin and eyes which can lead to inflammation and discomfort."
+                },
+                {
+                    "Question": "What are the environmental impacts of the ash?",
+                    "Answer": "The ash can cause immense damage to nearby environments and even have global effects."
+                },
+                {
+                    "Question": "What are the economic impacts of the ash?",
+                    "Answer": "The ash can affect climate and negatively impact farm produce on a global scale."
+                },
+                {
+                    "Question": "Is the ash still a hazard?",
+                    "Answer": "The ash can still cause health problems if inhaled or made contact with."
+                }
+            ],
+            "Output": " Volcanic ash can have many different impacts depending on the size of the eruption and the type of ash that is produced. The health hazards of volcanic ash are typically skin and eye irritation from the abrasive particles. However, if the ash is inhaled, it can cause respiratory problems. The environmental impacts of volcanic ash can be significant, especially if the eruption is large. The ash can cause damage to crops, trees, and water supplies. It can also cause power outages and transportation disruptions. The economic impacts of volcanic ash can be far-reaching, as the ash can affect climate and farm production on a global scale. Volcanic ash is still a hazard, even after the eruption has occurred, as the particles can still cause health problems if inhaled or made contact with."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the volcano?",
+                    "Answer": "The name of the volcano is Mount Fuji."
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "Mount Fuji is located in Japan."
+                },
+                {
+                    "Question": "When did the eruption occur?",
+                    "Answer": "The volcano last erupted in Dec 16, 1707."
+                },
+                {
+                    "Question": "What was the size of the eruption?",
+                    "Answer": "The eruption is rated to have a volcanic explosivity index of 5."
+                },
+                {
+                    "Question": "What type of ash was produced?",
+                    "Answer": "The ash produced had vitric particles."
+                },
+                {
+                    "Question": "What is the composition of the ash?",
+                    "Answer": "The ash is made up of primarily glass and other minerals."
+                },
+                {
+                    "Question": "What are the health hazards of the ash?",
+                    "Answer": "Inhaling volcanic ash can cause suffocation. Contact with hot ash can cause severe burns and can irritate eyes and skin of people."
+                },
+                {
+                    "Question": "What are the environmental impacts of the ash?",
+                    "Answer": "The ash can have severe health hazards like burns and suffocation to nearby areas with life."
+                },
+                {
+                    "Question": "What are the economic impacts of the ash?",
+                    "Answer": "The ash can damage nearby properties, block roads, cause roofs to collapse and clog ventilations."
+                },
+                {
+                    "Question": "Is the ash still a hazard?",
+                    "Answer": "The ash from Mount fuji is no longer a hazard as it has been removed."
+                }
+            ],
+            "Output": " Volcanic ash is a type of debris that is ejected into the air by a volcanic eruption. It is made up of rock, minerals and glass. Volcanic ash can be a health hazard to people and animals if inhaled and can cause severe burns if it comes into contact with skin. It can also have environmental impacts, like damaging vegetation and clogging water sources. Volcanic ash can also cause economic impacts, like damage to property and infrastructure."
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "Contributor": "guptaakshat",
+    "Domain": "Global Facts",
+    "Task": "Writing Blog",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous blogger and I like to write about historic monuments. I will ask some questions to collect information and then I will use that information to write my blog.",
+        "task_specific_prompt": "Write a blog using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the monument?",
+                    "Answer": "The monument is called the Louvre Museum."
+                },
+                {
+                    "Question": "What is the history of the monument?",
+                    "Answer": "The Louvre Museum is a world-renowned art museum located in Paris, France. The museum is home to some of the most famous paintings in the world, including the Mona Lisa. The Louvre was originally built as a fortress in the 12th century. In the 16th century, it was converted into a royal palace. In 1793, it was opened to the public as a museum."
+                },
+                {
+                    "Question": "What are some interesting facts about the monument?",
+                    "Answer": "-The Louvre is the largest art museum in the world. -It is one of the most visited tourist attractions in the world, with over 9 million visitors each year. -The Mona Lisa is the most famous painting in the museum."
+                },
+                {
+                    "Question": "What is the address of the monument?",
+                    "Answer": "The Louvre Museum is located at the following address: Mus\u00e9e du Louvre Rue de Rivoli 75001 Paris, France"
+                },
+                {
+                    "Question": "What are the hours of operation for the monument?",
+                    "Answer": "The Louvre Museum is open every day except Tuesday. The hours are as follows: Wednesday and Friday: 9:00 a.m. to 9:45 p.m. Thursday: 9:00 a.m. to 6:00 p.m. Saturday, Sunday, and Monday: 9:00 a.m. to 6:00 p.m."
+                },
+                {
+                    "Question": "Is there an admission fee to enter the monument?",
+                    "Answer": "Yes, there is an admission fee to enter the Louvre Museum."
+                },
+                {
+                    "Question": "What is the best time to visit the monument?",
+                    "Answer": "The best time to visit the Louvre Museum is in the morning, as it tends to be less crowded."
+                },
+                {
+                    "Question": "Are there any special events or exhibits going on at the monument?",
+                    "Answer": "Yes, there are often special events and exhibits going on at the Louvre Museum. For information on current events and exhibits, you can visit the museum's website."
+                },
+                {
+                    "Question": "What is the best way to get to the monument?",
+                    "Answer": "The best way to get to the Louvre Museum is by public transportation. The museum is accessible by several metro lines and bus routes."
+                },
+                {
+                    "Question": "Are there any restaurants or cafes near the monument?",
+                    "Answer": "Yes, there are several restaurants and cafes near the Louvre Museum like Louise Cafe, Baguett's Cafe, and Bistrot Benoit"
+                },
+                {
+                    "Question": "Are there any hotels near the monument?",
+                    "Answer": "Yes, there are several hotels near the Louvre Museum like Grand Hotel du Palais Royal, Hotel Moliere, and Hotel du Louvre."
+                },
+                {
+                    "Question": "What else is there to do in the area?",
+                    "Answer": "In addition to visiting the Louvre Museum, there are many other things to do in the area. Some other popular tourist attractions in Paris include the Eiffel Tower, Notre Dame Cathedral, and the Arc de Triomphe."
+                }
+            ],
+            "Output": "The Louvre Museum is one of the most famous and popular tourist attractions in the world. Located in Paris, France, the museum is home to some of the most famous paintings in the world, including the Mona Lisa. The Louvre was originally built as a fortress in the 12th century. In the 16th century, it was converted into a royal palace. In 1793, it was opened to the public as a museum. The Louvre is the largest art museum in the world and it is one of the most visited tourist attractions in the world, with over 9 million visitors each year. The museum is open every day except Tuesday and the hours are as follows: Wednesday and Friday: 9:00 a.m. to 9:45 p.m.; Thursday: 9:00 a.m. to 6:00 p.m.; Saturday, Sunday, and Monday: 9:00 a.m. to 6:00 p.m. There is an admission fee to enter the museum. The best time to visit the Louvre Museum is in the morning, as it tends to be less crowded. There are often special events and exhibits going on at the museum. For information on current events and exhibits, you can visit the museum's website. The best way to get to the Louvre Museum is by public transportation. The museum is accessible by several metro lines and bus routes. There are several restaurants and cafes near the Louvre Museum, as well as several hotels. In addition to visiting the Louvre Museum, there are many other things to do in the area. Some other popular tourist attractions in Paris include the Eiffel Tower, Notre Dame Cathedral, and the Arc de Triomphe."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the monument?",
+                    "Answer": "The monument is called the Statue of Liberty."
+                },
+                {
+                    "Question": "What is the history of the monument?",
+                    "Answer": "The Statue of Liberty was given to the United States by France in 1886. It is a symbol of freedom and democracy."
+                },
+                {
+                    "Question": "What is the significance of the monument?",
+                    "Answer": "The Statue of Liberty is a symbol of freedom and democracy. It is a reminder that all people are equal."
+                },
+                {
+                    "Question": "What are some interesting facts about the monument?",
+                    "Answer": "The Statue of Liberty is 151 feet tall and weighs 225 tons."
+                },
+                {
+                    "Question": "What are some popular tourist activities at the monument?",
+                    "Answer": "Tourists can take a ferry to the Statue of Liberty, go to the top of the pedestal, or tour the museum."
+                },
+                {
+                    "Question": "What are the hours of operation for the monument?",
+                    "Answer": "The Statue of Liberty is open every day from 9:30am to 4:00pm."
+                },
+                {
+                    "Question": "Is there an admission fee to visit the monument?",
+                    "Answer": "Yes, there is an admission fee to visit the Statue of Liberty."
+                },
+                {
+                    "Question": "What is the address of the monument?",
+                    "Answer": "The address of the Statue of Liberty is Liberty Island, New York, NY 10004."
+                },
+                {
+                    "Question": "What is the phone number of the monument?",
+                    "Answer": "The phone number of the Statue of Liberty is (212) 363-3200."
+                },
+                {
+                    "Question": "What is the website of the monument?",
+                    "Answer": "The website of the Statue of Liberty is https://www.nps.gov/stli/index.htm."
+                },
+                {
+                    "Question": "What is the best time of year to visit the monument?",
+                    "Answer": "The best time of year to visit the Statue of Liberty is in the spring or fall."
+                },
+                {
+                    "Question": "What are the directions to the monument?",
+                    "Answer": "The directions to the Statue of Liberty are to take the ferry from Battery Park in New York City."
+                },
+                {
+                    "Question": "Where can I park near the monument?",
+                    "Answer": "There is no parking at the Statue of Liberty. There is parking available at Battery Park."
+                },
+                {
+                    "Question": "Are there any restaurants near the monument?",
+                    "Answer": "Yes, there are several restaurants near the Statue of Liberty."
+                },
+                {
+                    "Question": "What is the closest subway station to the monument?",
+                    "Answer": "The closest subway station to the Statue of Liberty is the South Ferry Station."
+                },
+                {
+                    "Question": "What is the closest airport to the monument?",
+                    "Answer": "The closest airport to the Statue of Liberty is LaGuardia Airport."
+                },
+                {
+                    "Question": "What are the restrictions for visiting the monument?",
+                    "Answer": "The only restriction for visiting the Statue of Liberty is that visitors must go through a security screening before boarding the ferry."
+                },
+                {
+                    "Question": "Are there any special events happening at the monument?",
+                    "Answer": "There are no special events happening at the Statue of Liberty at this time."
+                },
+                {
+                    "Question": "What is the temperature like at the monument?",
+                    "Answer": "The temperature at the Statue of Liberty varies depending on the time of year. In the summer, it is usually warm, while in the winter it is usually cold."
+                },
+                {
+                    "Question": "Are there any hotels near the monument?",
+                    "Answer": "Yes, there are several hotels near the Statue of Liberty."
+                }
+            ],
+            "Output": "The Statue of Liberty is one of the most iconic landmarks in the United States. It was a gift from France to the United States in 1886 and is a symbol of freedom and democracy. The Statue of Liberty is 151 feet tall and weighs 225 tons. It is located on Liberty Island in New York Harbor. Tourists can take a ferry to the Statue of Liberty from Battery Park in New York City. There is an admission fee to visit the monument. The hours of operation are 9:30am to 4:00pm. The best time of year to visit the Statue of Liberty is in the spring or fall. The temperature at the monument varies depending on the time of year. In the summer, it is usually warm, while in the winter it is usually cold. There are several restaurants and hotels near the Statue of Liberty. The closest subway station is the South Ferry Station. The closest airport is LaGuardia Airport. The only restriction for visiting the Statue of Liberty is that visitors must go through a security screening before boarding the ferry. There are no special events happening at the monument at this time."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the monument?",
+                    "Answer": "The monument is called the Taj Mahal."
+                },
+                {
+                    "Question": "What is the history of the monument?",
+                    "Answer": "The Taj Mahal was built over a period of 20 years, from 1632 to 1653, by the Mughal emperor Shah Jahan in memory of his late wife Mumtaz Mahal."
+                },
+                {
+                    "Question": "What is the significance of the monument?",
+                    "Answer": "The Taj Mahal is considered one of the most beautiful buildings in the world and is a symbol of love."
+                },
+                {
+                    "Question": "What are the opening hours of the monument?",
+                    "Answer": "The Taj Mahal is open from 6:00 am to 7:00 pm every day."
+                },
+                {
+                    "Question": "What is the entrance fee for the monument?",
+                    "Answer": "The entrance fee for the Taj Mahal is 1,000 rupees for foreigners and 250 rupees for Indians."
+                },
+                {
+                    "Question": "What are the best times to visit the monument?",
+                    "Answer": "The best times to visit the Taj Mahal are in the early morning or evening, when the sun is not as strong."
+                },
+                {
+                    "Question": "What is the address of the monument?",
+                    "Answer": "The Taj Mahal is located in Agra, Uttar Pradesh, India."
+                },
+                {
+                    "Question": "What is the website of the monument?",
+                    "Answer": "The website of the Taj Mahal is http://www.tajmahal.gov.in/."
+                },
+                {
+                    "Question": "What is the phone number of the monument?",
+                    "Answer": "The phone number of the Taj Mahal is +91-562-233-8875."
+                },
+                {
+                    "Question": "What is the email address of the monument?",
+                    "Answer": "The email address of the Taj Mahal is tajmahal@nic.in."
+                },
+                {
+                    "Question": "What are the nearby attractions?",
+                    "Answer": "Some nearby attractions to the Taj Mahal are Agra Fort, Fatehpur Sikri, and the Akbar Tomb."
+                },
+                {
+                    "Question": "What are the nearby hotels?",
+                    "Answer": "Some nearby hotels to the Taj Mahal are the Oberoi Amarvilas, the Trident Agra, and the Jaypee Palace Hotel & Convention Centre."
+                },
+                {
+                    "Question": "What are the nearby restaurants?",
+                    "Answer": "Some nearby restaurants to the Taj Mahal are the Taj Mahal Restaurant, the Panchi Petha Restaurant, and the Sheesh Mahal Restaurant."
+                },
+                {
+                    "Question": "What are the nearby transport options?",
+                    "Answer": "Some nearby transport options to the Taj Mahal are Agra Airport, Agra Cantonment Railway Station, and Idgah Bus Stand."
+                },
+                {
+                    "Question": "Is there anything else we should know about the monument?",
+                    "Answer": "The Taj Mahal is one of the Seven Wonders of the World and is a UNESCO World Heritage Site."
+                }
+            ],
+            "Output": "The Taj Mahal is one of the most famous monuments in the world, and for good reason. Built over a period of 20 years in the mid-1600s by Mughal emperor Shah Jahan, the Taj Mahal is a stunning example of Mughal architecture and is considered one of the most beautiful buildings in the world. The Taj Mahal is also a symbol of love, as it was built in memory of Shah Jahan's late wife Mumtaz Mahal. The best times to visit the Taj Mahal are in the early morning or evening, when the sun is not as strong. The monument is open from 6:00 am to 7:00 pm every day, and the entrance fee is 1,000 rupees for foreigners and 250 rupees for Indians. The Taj Mahal is located in Agra, Uttar Pradesh, India. For more information, you can visit the Taj Mahal's website at http://www.tajmahal.gov.in/, or contact the monument by phone at +91-562-233-8875 or email at tajmahal@nic.in. If you're visiting the Taj Mahal, be sure to also check out some of the other nearby attractions, such as Agra Fort, Fatehpur Sikri, and the Akbar Tomb. There are also plenty of hotels and restaurants in the area, so you won't have any trouble finding a place to stay or something to eat. And when it's time to head back home, Agra Airport, Agra Cantonment Railway Station, and Idgah Bus Stand are all nearby transport options."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/lp9YnaD01az2FzF6NdJMZFLB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/alKN9wg1Od4RfF5PJtoSBO6b?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/x1M2irZuyhc5QnLzBEMZ20EN?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1i5T3-qNcZA4esdesS9SyWkF-jq1QTqrn?usp=sharing"
+}

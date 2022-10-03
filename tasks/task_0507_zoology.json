@@ -1,0 +1,152 @@
+{
+    "Contributor": "goelrajeev",
+    "Domain": "Zoology",
+    "Task": "Promote animal conservation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert zoologist. I will ask some questions to collect information and then I will use the information to promote animal conservation.",
+        "task_specific_prompt": "Write a campaign for animal conservation using the questions and answers above. Make the campaign concise."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many species of animals are there on Earth?",
+                    "Answer": "There are thought to be around 8.7 million species of animals on Earth."
+                },
+                {
+                    "Question": "How many of these species are endangered?",
+                    "Answer": "It is difficult to estimate how many species are endangered, but it is thought that around 1 million species are at risk of extinction."
+                },
+                {
+                    "Question": "What are the main threats to these species?",
+                    "Answer": "The main threats to endangered species are habitat loss, pollution, and hunting."
+                },
+                {
+                    "Question": "What can be done to help protect these species?",
+                    "Answer": "There are many things that can be done to help protect endangered species, including creating protected areas, promoting sustainable practices, and raising awareness."
+                },
+                {
+                    "Question": "What are some specific examples of endangered species?",
+                    "Answer": "Some examples of endangered species are the Amur leopard, the Black rhinoceros, and the Cross River gorilla."
+                },
+                {
+                    "Question": "What are some specific things that can be done to help protect these species?",
+                    "Answer": "Some specific things that can be done to help protect endangered species are to create protected areas for them, to promote sustainable practices that will help reduce habitat loss, and to raise awareness about the importance of conservation."
+                },
+                {
+                    "Question": "What are some other ways to help promote animal conservation?",
+                    "Answer": "Other ways to help promote animal conservation include supporting organizations that work to protect endangered species, donating to conservation efforts, and volunteering for conservation projects."
+                },
+                {
+                    "Question": "What are some specific examples of organizations that work to protect endangered species?",
+                    "Answer": "Some examples of organizations that work to protect endangered species are the World Wildlife Fund, the International Union for Conservation of Nature, and the Wildlife Conservation Society."
+                },
+                {
+                    "Question": "What are some specific ways that people can donate to conservation efforts?",
+                    "Answer": "Some specific ways that people can donate to conservation efforts are by donating to organizations that work to protect endangered species, by supporting sustainable practices that help reduce habitat loss, and by raising awareness about the importance of conservation."
+                },
+                {
+                    "Question": "What are some specific ways that people can volunteer for conservation projects?",
+                    "Answer": "Some specific ways that people can volunteer for conservation projects are by helping to plant trees, by working to clean up polluted areas, and by helping to raise awareness about the importance of conservation."
+                }
+            ],
+            "Output": "Animal conservation is important for protecting the many species of animals that are at risk of extinction. There are many things that can be done to help protect these species, including creating protected areas, promoting sustainable practices, and raising awareness. Some specific examples of endangered species are the Amur leopard, the Black rhinoceros, and the Cross River gorilla. Some specific things that can be done to help protect these species are to create protected areas for them, to promote sustainable practices that will help reduce habitat loss, and to raise awareness about the importance of conservation. Other ways to help promote animal conservation include supporting organizations that work to protect endangered species, donating to conservation efforts, and volunteering for conservation projects.",
+            "Preset_link": "https://beta.openai.com/playground/p/qgROA1hQc7UcZTAVfzAFBulp?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1rHk1LTKTGb-j6e4JOcSOJQaVi62Ysij5/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you think are the biggest threats to animal populations around the world?",
+                    "Answer": "The loss of habitat due to human development is the biggest threat to animal populations around the world. This loss of habitat leads to the loss of biodiversity and the decline of populations of many species of animals."
+                },
+                {
+                    "Question": "What do you think are the biggest threats to specific animal populations that you are familiar with?",
+                    "Answer": "The biggest threats to specific animal populations that I am familiar with include loss of habitat due to human development, climate change, and introduced species."
+                },
+                {
+                    "Question": "What do you think can be done to mitigate these threats?",
+                    "Answer": "There are many things that can be done to mitigate the threats to animal populations around the world. These include things like conservation of natural habitats, reintroduction of species to areas where they have been lost, and management of introduced species."
+                },
+                {
+                    "Question": "What do you think is the most effective way to promote animal conservation?",
+                    "Answer": "There is no single most effective way to promote animal conservation. Different approaches may be more or less effective depending on the situation. Some approaches that have been used successfully include public education, legislation, and economic incentives."
+                },
+                {
+                    "Question": "What are some specific things that people can do to promote animal conservation?",
+                    "Answer": "There are many things that people can do to promote animal conservation. Some specific things include reducing their own impact on the environment, supporting organizations that work to protect animals and their habitats, and educating others about the importance of conservation."
+                },
+                {
+                    "Question": "Do you have any personal stories or experiences related to animal conservation that you would like to share?",
+                    "Answer": "I have been involved in animal conservation for many years, and I have seen firsthand the impact that human activity can have on animal populations. I have also seen the difference that conservation efforts can make in the lives of individual animals and in the health of populations as a whole."
+                },
+                {
+                    "Question": " Do you think that people generally care about animal conservation?",
+                    "Answer": "I think that people generally do care about animal conservation, but that many people are not aware of the extent of the problem or what they can do to help. I think that education is the key to getting people to care about and take action on animal conservation."
+                },
+                {
+                    "Question": "What do you think are the biggest obstacles to effective animal conservation?",
+                    "Answer": "I think the biggest obstacle to effective animal conservation is the lack of awareness of the problem and the lack of understanding of what people can do to help. I think that education is the key to overcoming these obstacles."
+                },
+                {
+                    "Question": "Do you have any final thoughts on animal conservation that you would like to share?",
+                    "Answer": "I believe that animal conservation is essential to the health of the planet and all its inhabitants. I think that it is important for people to be aware of the threats to animals and the things that they can do to help. I believe that education is the key to getting people to care about and take action on animal conservation."
+                },
+                {
+                    "Question": "What do you think are the biggest threats to animal populations around the world?",
+                    "Answer": "The loss of habitat due to human development is the biggest threat to animal populations around the world. This loss of habitat leads to the loss of biodiversity and the decline of populations of many species of animals."
+                }
+            ],
+            "Output": "There is no single most effective way to promote animal conservation. Different approaches may be more or less effective depending on the situation. Some approaches that have been used successfully include public education, legislation, and economic incentives.",
+            "Preset_link": "https://beta.openai.com/playground/p/SFaWoBMbFPg92zvthFYKOAsa?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1qus2YGwvgHhongxV5AHfbyJCQ3LRcp5b/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many different types of animals are there in the world?",
+                    "Answer": "There are thought to be around 8.7 million species of animals in the world, although this number is constantly changing as new species are discovered and others are classified."
+                },
+                {
+                    "Question": "How many of these animals are endangered?",
+                    "Answer": "There is no definitive answer to this question as the status of a species can change rapidly, but it is estimated that around 20% of all known species are at risk of extinction. This means that around 1.7 million species are in danger of disappearing forever."
+                },
+                {
+                    "Question": "What are the main reasons why animals become endangered?",
+                    "Answer": "There are many reasons why animals become endangered, but the main ones are habitat loss, hunting, and pollution."
+                },
+                {
+                    "Question": "What can be done to help promote animal conservation?",
+                    "Answer": "There are many things that can be done to help promote animal conservation, such as supporting organizations that work to protect endangered species, reducing our impact on the environment, and becoming more informed about the issues."
+                },
+                {
+                    "Question": "What are some of the biggest challenges facing conservation efforts?",
+                    "Answer": "Some of the biggest challenges facing conservation efforts are the vastness of the task and the limited resources available. It is estimated that it would cost around $76 billion per year to effectively protect all of the world's endangered species."
+                },
+                {
+                    "Question": "What can people do to help?",
+                    "Answer": "There are many things that people can do to help promote animal conservation, such as supporting organizations that work to protect endangered species, reducing our impact on the environment, and becoming more informed about the issues."
+                },
+                {
+                    "Question": "How can people learn more about animal conservation?",
+                    "Answer": "There are many ways that people can learn more about animal conservation, such as reading about it, talking to experts, and attending workshops or lectures."
+                },
+                {
+                    "Question": "Are there any specific organizations people can support?",
+                    "Answer": "There are many organizations that people can support if they want to help promote animal conservation, such as the World Wildlife Fund, the Nature Conservancy, and the Wildlife Conservation Society."
+                },
+                {
+                    "Question": "What are some things people can do in their everyday lives to help promote animal conservation?",
+                    "Answer": "There are many things that people can do in their everyday lives to help promote animal conservation, such as reducing their impact on the environment, becoming more informed about the issues, and supporting organizations that work to protect endangered species."
+                },
+                {
+                    "Question": "What are some things people can do to reduce their impact on the environment?",
+                    "Answer": "There are many things that people can do to reduce their impact on the environment, such as recycling, conserving energy, and reducing water consumption."
+                }
+            ],
+            "Output": "Our world is home to around 8.7 million species of animals, many of which are endangered. The main reasons for this are habitat loss, hunting, and pollution. We can help promote animal conservation by supporting organizations that work to protect endangered species, reducing our impact on the environment, and becoming more informed about the issues.",
+            "Preset_link": "https://beta.openai.com/playground/p/wd8oFRhphMacZIGYIsgWmh4E?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1Lsgr4Djsg14fWs3EEUL1bYiIvoFK3b24/view?usp=sharing"
+        }
+    ]
+}

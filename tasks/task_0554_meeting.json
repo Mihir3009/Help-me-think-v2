@@ -1,0 +1,156 @@
+{
+    "Contributor": "chandarananiketanharshadbhai",
+    "Domain": "Meeting",
+    "Task": "Generate meeting minutes",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing meeting minutes . I will ask some questions to collect information and then I will use the information to generate meeting minutes.",
+        "task_specific_prompt": "Write a meeting minutes using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Who is the chairperson of the meeting?",
+                    "Answer": "The chairperson of the meeting is Mr. John Smith."
+                },
+                {
+                    "Question": "Who is taking the minutes?",
+                    "Answer": "The minutes are being taken by Ms. Jane Doe."
+                },
+                {
+                    "Question": "When did the meeting start?",
+                    "Answer": "The meeting started at 10:00 a.m."
+                },
+                {
+                    "Question": "When did the meeting end?",
+                    "Answer": "The meeting ended at 11:00 a.m."
+                },
+                {
+                    "Question": "What was discussed at the meeting?",
+                    "Answer": "The following topics were discussed at the meeting:- The company's financial situation- The company's new product line- The company's marketing strategy- The competition"
+                },
+                {
+                    "Question": "What decisions were made at the meeting?",
+                    "Answer": "The following decisions were made at the meeting:- The company will invest more money in marketing- The company will launch a new product line in the next quarter- The company will hire a new marketing director"
+                },
+                {
+                    "Question": "Are there any action items that need to be completed?",
+                    "Answer": "The following action items were assigned at the meeting:- Ms. Jane Doe will research the competition.- Mr. John Smith will develop a new marketing strategy.- The marketing team will develop a plan for the launch of the new product line."
+                },
+                {
+                    "Question": "When is the next meeting?",
+                    "Answer": "The next meeting is scheduled for two weeks from today."
+                },
+                {
+                    "Question": "What else do you want to know about the meeting?",
+                    "Answer": "The following items were discussed in more detail:- The company's financial situation- The company's new product line- The company's marketing strategy- The competition"
+                },
+                {
+                    "Question": "Do you have any more questions about the meeting?",
+                    "Answer": "yes, tell me about the company's financial situation"
+                },
+                {
+                    "Question": "What else do you want to know about the meeting?",
+                    "Answer": "The company's financial situation was discussed in more detail. It was decided that the company will invest more money in marketing."
+                }
+            ],
+            "Output": "Meeting minutes Chairperson: Mr. John SmithMinutes taken by: Ms. Jane DoeMeeting started: 10:00 a.m.Meeting ended: 11:00 a.m.Topics discussed:- The company's financial situation- The company's new product line- The company's marketing strategy- The competitionDecisions made:- The company will invest more money in marketing- The company will launch a new product line in the next quarter- The company will hire a new marketing directorAction items:- Ms. Jane Doe will research the competition.- Mr. John Smith will develop a new marketing strategy.- The marketing team will develop a plan for the launch of the new product line.Next meeting: The next meeting is scheduled for two weeks from today."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many people were in attendance at the meeting?",
+                    "Answer": "There were 10 people in attendance at the meeting."
+                },
+                {
+                    "Question": "What is the meeting's purpose?",
+                    "Answer": "The meeting's purpose was to discuss the company's new product launch."
+                },
+                {
+                    "Question": "What topics were discussed at the meeting?",
+                    "Answer": "The topics discussed at the meeting included the product launch schedule, the marketing plan, and the budget."
+                },
+                {
+                    "Question": "Who led the meeting?",
+                    "Answer": "The meeting was led by the company's CEO."
+                },
+                {
+                    "Question": "What decisions were made at the meeting?",
+                    "Answer": "The decisions made at the meeting were to launch the product on schedule and to allocate $500,000 for the marketing budget."
+                },
+                {
+                    "Question": "What action items were assigned at the meeting?",
+                    "Answer": "The action items assigned at the meeting were to develop the marketing plan and to create the product launch schedule."
+                },
+                {
+                    "Question": "When is the next meeting?",
+                    "Answer": "The next meeting is scheduled for two weeks from today."
+                },
+                {
+                    "Question": "Please provide a brief summary of the meeting.",
+                    "Answer": "The meeting was held to discuss the company's new product launch. The topics discussed included the product launch schedule, the marketing plan, and the budget. The meeting was led by the company's CEO and the decisions made were to launch the product on schedule and to allocate $500,000 for the marketing budget. The action items assigned at the meeting were to develop the marketing plan and to create the product launch schedule. The next meeting is scheduled for two weeks from today."
+                },
+                {
+                    "Question": "Please provide a list of the attendees.",
+                    "Answer": "The attendees were:1. John Smith2. Jane Doe3. Bill Johnson4. Lisa Williams5. Mike Jones6. Sarah Brown7. Tim Robinson8. Karen Johnson9. Fred Smith10. Nancy Wilson"
+                },
+                {
+                    "Question": "What was decided about the budget?",
+                    "Answer": "The decision was made to allocate $500,000 for the marketing budget."
+                }
+            ],
+            "Output": "The meeting was called to order at 10:00 a.m. by the CEO.In attendance were John Smith, Jane Doe, Bill Johnson, Lisa Williams, Mike Jones, Sarah Brown, Tim Robinson, Karen Johnson, Fred Smith, and Nancy Wilson.The purpose of the meeting was to discuss the company's new product launch.Topics discussed included the product launch schedule, the marketing plan, and the budget.The CEO led the meeting.Decisions made were to launch the product on schedule and to allocate $500,000 for the marketing budget.Action items assigned were to develop the marketing plan and to create the product launch schedule.The next meeting is scheduled for two weeks from today."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Who was in attendance at the meeting?",
+                    "Answer": "John, Karen, Rachel, and Steve"
+                },
+                {
+                    "Question": "What was the purpose of the meeting?",
+                    "Answer": "The purpose of the meeting was to generate ideas for creating a short film."
+                },
+                {
+                    "Question": "What ideas were generated during the meeting?",
+                    "Answer": "Some of the ideas that were generated during the meeting were to create a film about a day in the life of a teenager, to create a film about a person's struggle with addiction, and to create a film about a person's journey to self-discovery."
+                },
+                {
+                    "Question": "What was the outcome of the meeting?",
+                    "Answer": "The outcome of the meeting was that the group decided to create a film about a day in the life of a teenager."
+                },
+                {
+                    "Question": "Who is responsible for what tasks?",
+                    "Answer": "John is responsible for writing the script, Karen is responsible for finding a location, Rachel is responsible for finding actors, and Steve is responsible for finding a camera crew."
+                },
+                {
+                    "Question": "When is the next meeting?",
+                    "Answer": "The next meeting is scheduled for next week."
+                },
+                {
+                    "Question": "What will be the next meeting's agenda?",
+                    "Answer": "The meeting's agenda will be to discuss the progress of the film and to make any necessary changes to the script."
+                },
+                {
+                    "Question": "Are there any action items?",
+                    "Answer": "The action items are for John to write the script, Karen to find a location, Rachel to find actors, and Steve to find a camera crew."
+                },
+                {
+                    "Question": "What is the meeting's adjournment time?",
+                    "Answer": "The meeting adjourned at 6:00pm."
+                },
+                {
+                    "Question": "What is the meeting's recurrence?",
+                    "Answer": "The meeting will recur every week."
+                }
+            ],
+            "Output": "The meeting was attended by John, Karen, Rachel, and Steve. The purpose of the meeting was to generate ideas for creating a short film. Some of the ideas that were generated during the meeting were to create a film about a day in the life of a teenager, to create a film about a person's struggle with addiction, and to create a film about a person's journey to self-discovery. The group decided to create a film about a day in the life of a teenager. John is responsible for writing the script, Karen is responsible for finding a location, Rachel is responsible for finding actors, and Steve is responsible for finding a camera crew. The next meeting is scheduled for next week. The meeting's agenda will be to discuss the progress of the film and to make any necessary changes to the script. The action items are for John to write the script, Karen to find a location, Rachel to find actors, and Steve to find a camera crew. The meeting adjourned at 6:00pm. The meeting will recur every week. The meeting's duration is 1 hour. The meeting started at 5:00pm."
+        }
+    ],
+    "Preset_link": {
+        "instance_1_preset_link": "https://beta.openai.com/playground/p/WrnJVMZRU5ks8QOPqrcZUApd?model=text-davinci-002",
+        "instance_2_preset_link": "https://beta.openai.com/playground/p/dXhczFcXhbSiElonsIbKIK2q?model=text-davinci-002",
+        "instance_3_preset_link": "https://beta.openai.com/playground/p/2jgXNYnm031d0s2ZzC2fmDaq?model=text-davinci-002"
+    },
+    "screenshot_link": "https://drive.google.com/drive/folders/1mXLj8p2aOYVSrJAJNN86UkvU4g_Tz-na?usp=sharing"
+}

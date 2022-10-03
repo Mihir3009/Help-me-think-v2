@@ -1,0 +1,156 @@
+{
+    "Contributor": "dolinpavel",
+    "Domain": "water_resources",
+    "Task": "desalination_plant",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert desalination plant designer. I will ask some questions to collect information, and then I will use the information to create a desalination plant design plan.",
+        "task_specific_prompt": "Write a desalination plant design plan proposal using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "What is the maximum daily water production capacity that the plant needs to meet?": "The plant needs to be able to produce up to 500,000 gallons of water per day."
+                },
+                {
+                    "What is the source water quality and quantity that the plant will be using as feed water?": "The plant will be using seawater as its feed water. The quality of water will be poor"
+                },
+                {
+                    "What are the specific impurities that need to be removed from the feed water?": "The specific impurities that need to be removed from the feed water include salt, minerals and other dissolved solids."
+                },
+                {
+                    "What are the discharge water quality standards that the plant needs to meet?": "The plant needs to meet the standards for drinking water quality."
+                },
+                {
+                    "What are the space and site constraints that the plant needs to be designed around?": "The plant needs to be designed to fit within a 100,000-square-foot space."
+                },
+                {
+                    "What are the power requirements of the plant?": "The plant will require a power source that can provide up to 500 kilowatts of power."
+                },
+                {
+                    "What are the other specific requirements or constraints that the plant needs to meet?": "The plant needs to be designed to operate in a desert environment."
+                },
+                {
+                    "What is the budget for the project?": "The budget for the project is $6 million."
+                },
+                {
+                    "What is the timeline for the project?": "The timeline for the project is three years"
+                },
+                {
+                    "What is the name of the company that is requesting the plant design?": "The company that is requesting the plant design is WaterFoLyfe"
+                },
+                {
+                    "What is the name of the contact person at the company?": "The name of the contact person at the company is Benjamin Hydrovski"
+                },
+                {
+                    "What is the contact person's email address?": "The contact person's email address is bh@waterfolyfe.com"
+                },
+                {
+                    "What is the contact person's phone number?": "The contact person's phone number is 239-381-2131"
+                },
+                {
+                    "Is there anything else that you think I should know in order to create an accurate design plan?": "No, that is all the information I need."
+                }
+            ],
+            "Output": "WaterFoLyfe is a company that is in need of a desalination plant that can produce up to 500,000 gallons of water per day. The plant will use seawater as its feed water, and the specific impurities that need to be removed from the feed water include salt, minerals and other dissolved solids. The plant needs to meet the standards for drinking water quality. The plant needs to be designed to fit within a 100,000-square-foot space. The plant will require a power source that can provide up to 500 kilowatts of power. The plant needs to be designed to operate in a desert environment. The budget for the project is $6 million. The timeline for the project is three years. The name of the contact person at the company is Benjamin Hydrovski. The contact person's email address is bh@waterfolyfe.com. The contact person's phone number is 239-381-2131."
+        },
+        {
+            "QApair": [
+                {
+                    "What is the maximum daily water production capacity that the plant needs to meet?": "The plant needs to be able to produce up to 5,000,000 gallons of water per day."
+                },
+                {
+                    "What is the source water quality and quantity that the plant will be using as feed water?": "The plant will be using seawater as its feed water. The quality of water will be poor"
+                },
+                {
+                    "What are the specific impurities that need to be removed from the feed water?": "The specific impurities that need to be removed from the feed water include salt, minerals and other dissolved solids."
+                },
+                {
+                    "What are the discharge water quality standards that the plant needs to meet?": "The plant needs to meet the standards for drinking water quality."
+                },
+                {
+                    "What are the space and site constraints that the plant needs to be designed around?": "The plant needs to be designed to fit within a 1,000,000-square-foot space."
+                },
+                {
+                    "What are the power requirements of the plant?": "The plant will require a power source that can provide up to 5,000 kilowatts of power."
+                },
+                {
+                    "What are the other specific requirements or constraints that the plant needs to meet?": "The plant needs to be designed to operate in a desert environment."
+                },
+                {
+                    "What is the budget for the project?": "The budget for the project is $60 million."
+                },
+                {
+                    "What is the timeline for the project?": "The timeline for the project is three years"
+                },
+                {
+                    "What is the name of the company that is requesting the plant design?": "The company that is requesting the plant design is ArizonaWaterSystems"
+                },
+                {
+                    "What is the name of the contact person at the company?": "The name of the contact person at the company is Aquarius Saltington"
+                },
+                {
+                    "What is the contact person's email address?": "The contact person's email address is aquarius@arizonaws.com"
+                },
+                {
+                    "What is the contact person's phone number?": "The contact person's phone number is 234-346-2352"
+                }
+            ],
+            "Output": "Aquarius Saltington  ArizonaWaterSystems  aquarius@arizonaws.com  234-346-2352  I. Introduction  ArizonaWaterSystems is in need of a desalination plant that can produce up to 5,000,000 gallons of water per day. The plant will be using seawater as its feed water, and the specific impurities that need to be removed from the water include salt, minerals and other dissolved solids. The plant needs to meet the standards for drinking water quality.  The plant will need to be designed to fit within a 1,000,000-square-foot space, and the power requirements of the plant are up to 5,000 kilowatts. The plant also needs to be designed to operate in a desert environment.  The budget for the project is $60 million, and the timeline for the project is three years.  II. Plant Design  The plant will be designed to meet all the specific requirements mentioned above. The plant will be a state-of-the-art facility that uses the latest technology to produce clean drinking water.  The plant will be designed to fit within the 1,000,000-square-foot space, and the power requirements of the plant will be up to 5,000 kilowatts. The plant will also be designed to operate in a desert environment.  III. Conclusion  ArizonaWaterSystems will have a world-class desalination plant that meets all their water needs. The plant will be designed to the highest standards, and it will be a reliable source of clean drinking water for years to come.  sdfsf"
+        },
+        {
+            "QApair": [
+                {
+                    "What is the maximum daily water production capacity that the plant needs to meet?": "The plant needs to be able to produce up to 1,000,000 gallons of water per day."
+                },
+                {
+                    "What is the source water quality and quantity that the plant will be using as feed water?": "The plant will be using seawater as its feed water. The quality of water will be poor"
+                },
+                {
+                    "What are the specific impurities that need to be removed from the feed water?": "The specific impurities that need to be removed from the feed water include salt and minerals."
+                },
+                {
+                    "What are the discharge water quality standards that the plant needs to meet?": "The plant needs to meet the standards for drinking water quality."
+                },
+                {
+                    "What are the space and site constraints that the plant needs to be designed around?": "The plant needs to be designed to fit within a 200,000-square-foot space."
+                },
+                {
+                    "What are the power requirements of the plant?": "The plant will require a power source that can provide up to 1,000 kilowatts of power."
+                },
+                {
+                    "What are the other specific requirements or constraints that the plant needs to meet?": "The plant needs to be designed to operate in a desert environment."
+                },
+                {
+                    "What is the budget for the project?": "The budget for the project is $12 million."
+                },
+                {
+                    "What is the timeline for the project?": "The timeline for the project is four years"
+                },
+                {
+                    "What is the name of the company that is requesting the plant design?": "The company that is requesting the plant design is NewAgeWaterSystems"
+                },
+                {
+                    "What is the name of the contact person at the company?": "The name of the contact person at the company is Bob Dissolvington"
+                },
+                {
+                    "What is the contact person's email address?": "The contact person's email address is bob@naws.com"
+                },
+                {
+                    "What is the contact person's phone number?": "The contact person's phone number is 987-237-7271"
+                }
+            ],
+            "Output": "1. Introduction  NewAgeWaterSystems has approached our company with the need for a desalination plant that can produce up to 1,000,000 gallons of water per day. The plant will be using seawater as its feed water, and the specific impurities that need to be removed from the water include salt and minerals. The plant needs to meet the standards for drinking water quality.  2. Plant Design  Our team has designed a desalination plant that can meet all of the requirements specified by NewAgeWaterSystems. The plant will be 200,000 square feet and will require a power source that can provide up to 1,000 kilowatts of power. The plant has been designed to operate in a desert environment.  3. Budget and Timeline  The budget for the project is $12 million, and the timeline for the project is four years.  4. Conclusion  Our company is confident that we can provide NewAgeWaterSystems with a desalination plant that meets all of their needs. If you have any questions or concerns, please do not hesitate to contact Bob Dissolvington at bob@naws.com or 987-237-7271."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3pITjviRA20aYYPTbfNVOXVn",
+        "https://beta.openai.com/playground/p/kVS4EKMV08ml26p6er19eSVV",
+        "https://beta.openai.com/playground/p/JH7Ta5Ol1jKw2aZ8d9Shwcxr"
+    ],
+    "screenshot_link": [
+        "https://docs.google.com/document/d/17B_xhcTYRkwde2XYAH56Oevsu7AoEmClp0DExw2MLfc",
+        "https://docs.google.com/document/d/1VBSO5qwZ_2i320aL8Oz4sJK889Clx3Y__wzie4U2OR4",
+        "https://docs.google.com/document/d/1HyVlZQRZxz_eL4NQhfmo0s8m-COG_UGV4J_IztRCEH8"
+    ]
+}

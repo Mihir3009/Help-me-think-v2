@@ -1,0 +1,156 @@
+{
+    "Contributor": "bhattkrutarth",
+    "Domain": "Chemistry",
+    "Task": "Identify chemical compounds based on properties",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert chemist. I will ask some questions to collect information about a compound except the name and foemula of it and then I will use the information to tell you the name of the compound.",
+        "task_specific_prompt": "Based on the above questions and answers tell the most probable compound with detailed reasoning."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the color of the compound?",
+                    "Answer": "The compound is yellow."
+                },
+                {
+                    "Question": "Is the compound a gas, liquid, or solid?",
+                    "Answer": "The compound is a liquid."
+                },
+                {
+                    "Question": "Does the compound dissolve in water?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the density of the compound?",
+                    "Answer": "0.7 g/mL"
+                },
+                {
+                    "Question": "What is the boiling point of the compound?",
+                    "Answer": "100 degrees Celsius"
+                },
+                {
+                    "Question": "What is the melting point of the compound?",
+                    "Answer": "-38 degrees Celsius"
+                },
+                {
+                    "Question": "What is the structure of the compound?",
+                    "Answer": "The compound has a molecular structure."
+                },
+                {
+                    "Question": "Is the compound flammable?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is the compound an acid or base?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the pH of the compound?",
+                    "Answer": "7"
+                }
+            ],
+            "Output": "The compound is most likely to be 2-propanol or isopropyl alcohol. This is because it is a yellow liquid with a molecular structure that has a density of 0.7 g/mL, a boiling point of 100 degrees Celsius, and a melting point of -38 degrees Celsius. Additionally, 2-propanol is not flammable and has a neutral pH."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the color of the compound?",
+                    "Answer": "The compound is brown."
+                },
+                {
+                    "Question": "Is the compound a gas, liquid, or solid?",
+                    "Answer": "The compound is a gas."
+                },
+                {
+                    "Question": "Does the compound dissolve in water?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the density of the compound?",
+                    "Answer": "0.03 g/mL"
+                },
+                {
+                    "Question": "What is the boiling point of the compound?",
+                    "Answer": "200 degrees Celsius"
+                },
+                {
+                    "Question": "What is the melting point of the compound?",
+                    "Answer": "40 degrees Celsius"
+                },
+                {
+                    "Question": "What is the structure of the compound?",
+                    "Answer": "The compound has a molecular structure."
+                },
+                {
+                    "Question": "Is the compound flammable?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Is the compound an acid or base?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is the pH of the compound?",
+                    "Answer": "10"
+                }
+            ],
+            "Output": "The most probable compound is hydrogen sulfide (H2S). It is a brown gas with a molecular structure. It is flammable and has a pH of 10. It has a boiling point of 200 degrees Celsius and a melting point of 40 degrees Celsius."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the color of the compound?",
+                    "Answer": "The compound is blue."
+                },
+                {
+                    "Question": "Is the compound a gas, liquid, or solid?",
+                    "Answer": "The compound is a solid."
+                },
+                {
+                    "Question": "Does the compound dissolve in water?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is the density of the compound?",
+                    "Answer": "8 g/mL"
+                },
+                {
+                    "Question": "What is the boiling point of the compound?",
+                    "Answer": "70 degrees Celsius"
+                },
+                {
+                    "Question": "What is the melting point of the compound?",
+                    "Answer": "30 degrees Celsius"
+                },
+                {
+                    "Question": "What is the structure of the compound?",
+                    "Answer": "The compound has a molecular structure."
+                },
+                {
+                    "Question": "Is the compound flammable?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Is the compound an acid or base?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "What is the pH of the compound?",
+                    "Answer": "5"
+                }
+            ],
+            "Output": "The most probable compound is sodium chloride (table salt). It is blue, a solid, dissolves in water, has a density of 8 g/mL, a boiling point of 70 degrees Celsius, and a melting point of 30 degrees Celsius. It is not flammable, an acid or base, and has a pH of 5."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/5R0DgzFKWrBsmrHkCgRINqgo?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/AQMdkc4FlD26BNlU9gQlZZGY?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/g5riIpkPff9kGTZAljkMiZah?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1bL-dKSHqo0yhpameKjNwoeJxxZo6r2BN/view?usp=sharing",
+        "https://drive.google.com/file/d/1x_cFJA6IN2MMQxeJRpH4DRK7ksDeSofr/view?usp=sharing",
+        "https://drive.google.com/file/d/17BkP1e2NYqqC_DbrZkMeTAjH15fiMsJ-/view?usp=sharing"
+    ]
+}

@@ -438,3 +438,170 @@ File Name | Domain | Task
 `task_0473_computer_aided_design.json` | Computer Aided Design | Toy design
 `task_0474_computer_aided_design.json` | Computer Aided Design | Furniture design
 `task_0475_philosophy.json` | Philosophy | Suggesting philosophy book
+`task_0476_acting.json` | Acting | Scene Performance
+`task_0477_acting.json` | Acting | Actor_interview_main_char
+`task_0478_acting.json` | Acting | Virtual Youtuber debut
+`task_0479_acting.json` | Acting | Type acting(detectives)
+`task_0480_geology.json` | Geology | geological analysis for tunnel construction
+`task_0481_geology.json` | Geology | Petroleum Detection Analysis
+`task_0482_geology.json` | Geology | Ancient_life_form_study
+`task_0483_geology.json` | Geology | Dam construction
+`task_0484_adobe_photoshop.json` | Adobe PhotoShop | Writing steps to edit a photo
+`task_0485_adobe_photoshop.json` | Adobe PhotoShop | Write a recommended plan for Adobe photoshop
+`task_0486_adobe_photoshop.json` | Adobe PhotoShop | Writing about features of Adobe Photoshop
+`task_0487_adobe_photoshop.json` | Adobe PhotoShop | Writing steps to design website using Adobe Photoshop
+`task_0488_government.json` | Government | Writing an article on government issues
+`task_0489_government.json` | Government | Writing election speech
+`task_0490_government.json` | Government | Writing detailed paragraph about different governments in world
+`task_0491_government.json` | Government | Writing an article on government policies
+`task_0492_game.json` | Game | To review a video
+`task_0493_writing.json` | Writing | write a story for kids
+`task_0494_writing.json` | Writing | generate a policy for people
+`task_0495_game.json` | Game | develop new character for a  game
+`task_0496_writing.json` | Writing | generate information about the civilization 
+`task_0497_writing.json` | Writing | Generate a horror story
+`task_0498_writing.json` | Writing | summary of a technical paper related to NLP
+`task_0499_game.json` | Game | suggest games based on a specific genre.
+`task_0500_game.json` | Game | Design quide for game
+`task_0501_zoology.json` | Zoology | Captive Breeding Program
+`task_0502_zoology.json` | Zoology | Humans' impact on ecosystems and species
+`task_0503_visual_merchandising.json` | Visual Merchandising | Impact of cleanliness and sanitation on visual merchandising
+`task_0504_visual_merchandising.json` | Visual Merchandising | Impact of color in visual merchandising
+`task_0505_visual_merchandising.json` | Visual Merchandising | Impact of landscaping in visual merchandising
+`task_0506_visual_merchandising.json` | Visual Merchandising | Impact of texture in visual merchandising
+`task_0507_zoology.json` | Zoology | Promote animal conservation
+`task_0508_zoology.json` | Zoology | Study animal behavior
+`task_0509_fiction.json` | Fiction | Reviewer
+`task_0510_genetics.json` | Genetics | Scientific Writer
+`task_0511_fiction.json` | Fiction | Librarian
+`task_0512_fiction.json` | Fiction | Comic Book Writer
+`task_0513_genetics.json` | Genetics | Quality Control Specialist
+`task_0514_fiction.json` | Fiction | Story Writer
+`task_0515_genetics.json` | Genetics | Bioethicist
+`task_0516_genetics.json` | Genetics | Genetic Counselor
+`task_0517_3d-animation.json` | 3D-Animation | Personality Anime Character
+`task_0518_3d-animation.json` | 3D-Animation | 3D-animated movie Recommender
+`task_0519_3d-animation.json` | 3D-Animation | Guess 3D-animated movie
+`task_0520_3d-animation.json` | 3D-Animation | Learn 3D-animation
+`task_0521_exam.json` | Exam | University and Exam Recommender
+`task_0522_exam.json` | Exam | Hint and Solution Provider
+`task_0523_exam.json` | Exam | Student Performance Prompter
+`task_0524_exam.json` | Exam | Student Performance Prompter
+`task_0525_electrical_engineering.json` | Electrical Engineering | Electrical engineering substream recommender
+`task_0526_electrical_engineering.json` | Electrical Engineering | skills suggester for electrical engineers' job profile
+`task_0527_electrical_engineering.json` | Electrical Engineering | personalized electricity consumption saving
+`task_0528_women.json` | Women | Woman's personal stylist
+`task_0529_women.json` | Women | Mother's parenting advisor
+`task_0530_women.json` | Women | Female Role model suggester
+`task_0531_women.json` | Women | Saying it like a mother would
+`task_0532_water_resources.json` | water_resources | irrigation_design
+`task_0533_water_resources.json` | water_resources | water_management_plan
+`task_0534_water_resources.json` | water_resources | dam_design
+`task_0535_water_resources.json` | water_resources | desalination_plant
+`task_0536_fire_science.json` | Fire Science | Report on combustible maretials
+`task_0537_fire_science.json` | Fire Science | Fire hazard statistics report
+`task_0538_visual_communication_.json` | Visual communication  | Interpreting the meaning of an art work
+`task_0539_fire_science.json` | Fire Science | Lecture on fire science
+`task_0540_visual_communication.json` | Visual Communication | Visual chart analyser
+`task_0541_fire_science.json` | Fire Science | Fire investigation report
+`task_0542_visual_communication_.json` | Visual communication  | Dream story teller
+`task_0543_visual_communication.json` | Visual Communication | Advertisment creater
+`task_0544_finance.json` | Finance | Financial Audit Report
+`task_0545_commerce.json` | Commerce | Advise a country to be better than that of the other in trade
+`task_0546_commerce.json` | Commerce | Grow a new Artificial Intelligence based food e-commerce company
+`task_0547_commerce.json` | Commerce | Pricing plan for a product with discounts
+`task_0548_commerce.json` | Commerce | How a common man can contribute to the US economy
+`task_0549_finance.json` | Finance | Predicting if a person goes into debt in the next five years
+`task_0550_finance.json` | Finance | Predicting a stock price
+`task_0551_finance.json` | Finance | Using Political funds
+`task_0552_meeting.json` | Meeting | Summarize the meeting
+`task_0553_meeting.json` | Meeting | Write an email for a meeting
+`task_0554_meeting.json` | Meeting | Generate meeting minutes
+`task_0555_spam.json` | Spam | Identify the spam email
+`task_0556_spam.json` | Spam | Write the advice on how to avoid spam emails.
+`task_0557_spam.json` | Spam | Write the reports about spam emails
+`task_0558_visual_arts.json` | Visual Arts | Meusum Recommender based on users preferences
+`task_0559_visual_arts.json` | Visual Arts | Catchy advertisement headline writer
+`task_0560_chemistry.json` | Chemistry | Identify chemical compounds based on properties
+`task_0561_chemistry.json` | Chemistry | Ph measure report generator for chemical compounds
+`task_0562_visual_arts.json` | Visual Arts | Abstract Painting Explainer
+`task_0563_chemistry.json` | Chemistry | Create chemical compound with desired properties
+`task_0564_chemistry.json` | Chemistry | Titration Expert
+`task_0565_visual_arts.json` | Visual Arts | Sketch Helper
+`task_0566_urban_planning.json` | Urban Planning | Resume
+`task_0567_urban_planning.json` | Urban Planning | Report
+`task_0568_urban_planning.json` | Urban Planning | Plan a city
+`task_0569_automation.json` | Automation | Article
+`task_0570_urban_planning.json` | Urban Planning | Social Media Post
+`task_0571_automation.json` | Automation | Project Grant Application
+`task_0572_automation.json` | Automation | Blog Post
+`task_0573_automation.json` | Automation | Interview Report
+`task_0574_furniture.json` | Furniture | choosing woods for furnitures
+`task_0575_furniture.json` | Furniture | suggesting furnitures for homes
+`task_0576_furniture.json` | Furniture | writing articles on furnitures
+`task_0577_furniture.json` | Furniture | writing the steps to install furnitures
+`task_0578_volcano.json` | Volcano | analyzing volcanic ash
+`task_0579_volcano.json` | Volcano | explaining the formation of a volcano
+`task_0580_volcano.json` | Volcano | predicting volcanic activity
+`task_0581_volcano.json` | Volcano | writing geological reports
+`task_0582_policy.json` | Policy | Generate education policy for city
+`task_0583_policy.json` | Policy | Judge the quality of insurance policy
+`task_0584_policy.json` | Policy | Personlized investment policy recommendation
+`task_0585_policy.json` | Policy | Write a compliance policy
+`task_0586_astronomy.json` | Astronomy | Generate Syllabus for astronomy class
+`task_0587_astronomy.json` | Astronomy | Determine the constellation
+`task_0588_astronomy.json` | Astronomy | Strategy to stargaze
+`task_0589_astronomy.json` | Astronomy | Suggest a telescope model
+`task_0590_language.json` | Language | To work as a transcriber.
+`task_0591_language.json` | Language | To work as a transcriber.
+`task_0592_language.json` | Language | suggest students to choose a foreign language as a second language.
+`task_0593_accounting.json` | Accounting | to do tax evaluation on commodities.
+`task_0594_accounting.json` | Accounting | to do budget analysis for organizations.
+`task_0595_accounting.json` | Accounting | Evaluate property
+`task_0596_accounting.json` | Accounting | Evaluate monthly expenses
+`task_0597_video_game_design.json` | Video Game Design | video_game_creation
+`task_0598_books.json` | Books | lord_of_the_rings_favorite_character
+`task_0599_video_game_design.json` | Video Game Design | surviving_horror_game
+`task_0600_books.json` | Books | new_book_suggestion
+`task_0601_video_game_design.json` | Video Game Design | video_game_suggestion
+`task_0602_books.json` | Books | book_report
+`task_0603_books.json` | Books | sorting_hat
+`task_0604_video_game_design.json` | Video Game Design | new_mario_game_creation
+`task_0605_code.json` | Code | Generate a new Phonetic Code
+`task_0606_code.json` | Code | Invent a new Criminal Code
+`task_0607_code.json` | Code | Draft the Code of Conduct for a company
+`task_0608_code.json` | Code | Invent a new Dress Code for an event
+`task_0609_code.json` | Code | Convert Instructions to Python Code
+`task_0610_fantasy.json` | Fantasy | Create a new fantasy world
+`task_0611_fantasy.json` | Fantasy | Script Writing for a Fantasy Movie Trailer
+`task_0612_fantasy.json` | Fantasy | Create a Fantasy Video Game
+`task_0613_country.json` | Country | What country should I fly to next?
+`task_0614_robotics.json` | Robotics | space exploration with a goal
+`task_0615_diagnosis.json` | Diagnosis | Diagnosis to General Problems in life
+`task_0616_robotics.json` | Robotics | Define projects in robotics through RL
+`task_0617_robotics.json` | Robotics | Understanding Human Emotions
+`task_0618_diagnosis.json` | Diagnosis | Making future health predictions
+`task_0619_diagnosis.json` | Diagnosis | Diagnose and Debug problems while training a machine learning problem
+`task_0620_forensic_science.json` | Forensic Science | Writing an autopsy report
+`task_0621_forensic_science.json` | Forensic Science | Writing a guide on forensic science
+`task_0622_forensic_science.json` | Forensic Science | Digital crime report
+`task_0623_emotional_writing.json` | Emotional Writing | Writing a love letter
+`task_0624_emotional_writing.json` | Emotional Writing | Writing a hate letter
+`task_0625_emotional_writing.json` | Emotional Writing | Writing a thank you note
+`task_0626_emotional_writing.json` | Emotional Writing | Writing a political note
+`task_0627_global_facts.json` | Global Facts | Writing Blog
+`task_0628_global_facts.json` | Global Facts | Suggesting Book
+`task_0629_global_facts.json` | Global Facts | Writing News Article
+`task_0630_global_facts.json` | Global Facts | Giving Speech
+`task_0631_higher_education.json` | Higher Education | Suggesting College
+`task_0632_higher_education.json` | Higher Education | Suggesting Degree Program
+`task_0633_higher_education.json` | Higher Education | Suggesting Education Loan
+`task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
+`task_0635_water_resources.json` | water_resources | dam_design
+`task_0636_water_resources.json` | water_resources | desalination_plant
+`task_0637_water_resources.json` | water_resources | irrigation_design
+`task_0638_water_resources.json` | water_resources | water_management_plan
+`task_0639_folklore.json` | folklore | creating_new_culture
+`task_0640_folklore.json` | folklore | creating_new_religion
+`task_0641_folklore.json` | folklore | dancing_routine
+`task_0642_folklore.json` | folklore | a_legend

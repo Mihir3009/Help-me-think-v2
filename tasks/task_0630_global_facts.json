@@ -1,0 +1,192 @@
+{
+    "Contributor": "guptaakshat",
+    "Domain": "Global Facts",
+    "Task": "Giving Speech",
+    "Prompt": {
+        "pre_question_prompt": "I am a famous history professor. I will ask some questions to collect information about and then I will use that information to give a speech on the topic.",
+        "task_specific_prompt": "Write a speech using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What do you think is the most significant event in American history?",
+                    "Answer": "The most significant event in American history is the American Revolution. This event shaped the course of the nation and set it on the path to becoming one of the most powerful countries in the world. The Revolution also established the principles of democracy and liberty that have come to define the American identity."
+                },
+                {
+                    "Question": "What do you think was the cause of the American Revolution?",
+                    "Answer": "There were many causes of the American Revolution, but the most important was the colonists' desire for independence from British rule. The colonists were tired of being taxed without having any say in how their government was run, and they saw the Revolution as a way to gain control over their own lives. The Revolution also represented a rejection of the British way of life, which the colonists saw as corrupt and oppressive."
+                },
+                {
+                    "Question": "What do you think were the consequences of the American Revolution?",
+                    "Answer": "The consequences of the American Revolution were both positive and negative. On the positive side, the Revolution led to the establishment of the United States as an independent nation. On the negative side, the Revolution caused a great deal of bloodshed and destruction, and it led to the displacement of many Native Americans."
+                },
+                {
+                    "Question": "Do you think the American Revolution was worth it? Why or why not?",
+                    "Answer": "This is a difficult question to answer. On the one hand, the American Revolution led to the establishment of a powerful and prosperous nation. On the other hand, the Revolution caused immense suffering and loss of life. Ultimately, each person must decide for themselves whether they think the American Revolution was worth it."
+                },
+                {
+                    "Question": "What do you think would have happened if the American Revolution had not occurred?",
+                    "Answer": "If the American Revolution had not occurred, the United States would not exist as a country today. Britain would likely still rule the American colonies, and the colonists would not enjoy the same freedoms and rights that they do today."
+                },
+                {
+                    "Question": "Do you think the American Revolution could have been avoided? If so, how?",
+                    "Answer": "The American Revolution was the result of many years of tensions between the colonists and the British government. It is difficult to say whether the Revolution could have been avoided, but it is possible that it could have been averted if the British government had been more responsive to the colonists' grievances and needs."
+                },
+                {
+                    "Question": "What do you think was the most important thing that was gained from the American Revolution?",
+                    "Answer": "The most important thing that was gained from the American Revolution was the establishment of the United States as an independent nation. This event changed the course of history and had a profound impact on the world."
+                },
+                {
+                    "Question": "What do you think was the most important thing that was lost in the American Revolution?",
+                    "Answer": "The most important thing that was lost in the American Revolution was the lives of those who died in the conflict. The Revolutionary War was a bloody and brutal conflict, and many innocent people lost their lives."
+                },
+                {
+                    "Question": "Do you think the American Revolution was the only way to achieve independence from Britain? Why or why not?",
+                    "Answer": "There is no way to know for sure whether the American Revolution was the only way to achieve independence from Britain. However, it is clear that the Revolution was a turning point in history, and it is unlikely that the United States would exist today if the Revolution had not occurred."
+                },
+                {
+                    "Question": "What do you think would have happened if the American colonies had won the Revolutionary War?",
+                    "Answer": "If the American colonies had won the Revolutionary War, they would have gained their independence from Britain. This would have had a profound impact on the world, as the United States would have become a powerful and prosperous nation."
+                }
+            ],
+            "Output": "The American Revolution was one of the most significant events in American history. It shaped the course of the nation and set it on the path to becoming one of the most powerful countries in the world. The Revolution also established the principles of democracy and liberty that have come to define the American identity. The cause of the American Revolution was the colonists' desire for independence from British rule. The colonists were tired of being taxed without having any say in how their government was run, and they saw the Revolution as a way to gain control over their own lives. The Revolution also represented a rejection of the British way of life, which the colonists saw as corrupt and oppressive. The consequences of the American Revolution were both positive and negative. On the positive side, the Revolution led to the establishment of the United States as an independent nation. On the negative side, the Revolution caused a great deal of bloodshed and destruction, and it led to the displacement of many Native Americans. The American Revolution was a turning point in history, and it is unlikely that the United States would exist today if the Revolution had not occurred. The most important thing that was gained from the American Revolution was the establishment of the United States as an independent nation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the significance of the Battle of Gettysburg?",
+                    "Answer": "The Battle of Gettysburg is significant because it was the turning point in the American Civil War. The Union army was able to defeat the Confederate army, and this victory helped to ensure the eventual Union victory in the war."
+                },
+                {
+                    "Question": "What was the main cause of the American Civil War?",
+                    "Answer": "The main cause of the American Civil War was slavery. The issue of whether or not slavery should be allowed in the United States was the main source of conflict between the Northern and Southern states."
+                },
+                {
+                    "Question": "What were the main effects of the American Civil War?",
+                    "Answer": "The main effects of the American Civil War were the abolition of slavery, the destruction of the Confederacy, and the death of over 600,000 soldiers."
+                },
+                {
+                    "Question": "What was the biggest turning point of the American Civil War?",
+                    "Answer": "The biggest turning point of the American Civil War was the Battle of Gettysburg. This Union victory helped to ensure the eventual Union victory in the war."
+                },
+                {
+                    "Question": "What was the main reason the North won the American Civil War?",
+                    "Answer": "The main reason the North won the American Civil War was because they had more soldiers and more resources. The North also had the advantage of fighting on their own territory."
+                },
+                {
+                    "Question": "Who were the main leaders of the Confederacy?",
+                    "Answer": "The main leaders of the Confederacy were Jefferson Davis, Robert E. Lee, and Stonewall Jackson."
+                },
+                {
+                    "Question": "Who were the main leaders of the Union?",
+                    "Answer": "The main leaders of the Union were Abraham Lincoln, Ulysses S. Grant, and William T. Sherman."
+                },
+                {
+                    "Question": "What were the main goals of the Confederacy?",
+                    "Answer": "The main goals of the Confederacy were to preserve the institution of slavery and to gain independence from the United States."
+                },
+                {
+                    "Question": "What were the main goals of the Union?",
+                    "Answer": "The main goals of the Union were to preserve the United States as a single country and to abolish the institution of slavery."
+                },
+                {
+                    "Question": "What were some of the main battles of the American Civil War?",
+                    "Answer": "Some of the main battles of the American Civil War were the Battle of Gettysburg, the Battle of Antietam, and the Battle of Vicksburg."
+                },
+                {
+                    "Question": "What were some of the main weapons used in the American Civil War?",
+                    "Answer": "Some of the main weapons used in the American Civil War were muskets, pistols, swords, and cannons."
+                },
+                {
+                    "Question": "What was the main reason the Confederacy lost the American Civil War?",
+                    "Answer": "The main reason the Confederacy lost the American Civil War was because they didn't have enough soldiers or resources."
+                },
+                {
+                    "Question": "How did the American Civil War change the United States?",
+                    "Answer": "The American Civil War changed the United States by abolishing slavery, destroying the Confederacy, and killing over 600,000 soldiers."
+                },
+                {
+                    "Question": "What would the United States be like today if the Confederacy had won the American Civil War?",
+                    "Answer": "If the Confederacy had won the American Civil War, the United States would be two separate countries: the United States and the Confederate States of America."
+                },
+                {
+                    "Question": "What was the Gettysburg Address?",
+                    "Answer": "The Gettysburg Address was a speech given by Abraham Lincoln at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania. In the speech, Lincoln spoke about the importance of the Union and the need to ensure that the government 'of the people, by the people, for the people, shall not perish from the earth.'"
+                },
+                {
+                    "Question": "What was the Emancipation Proclamation?",
+                    "Answer": "The Emancipation Proclamation was an executive order issued by President Abraham Lincoln in 1863 that freed all slaves in the Confederate states."
+                },
+                {
+                    "Question": "What was the 13th Amendment?",
+                    "Answer": "The 13th Amendment was a constitutional amendment that was ratified in 1865 that abolished slavery in the United States."
+                }
+            ],
+            "Output": "The Battle of Gettysburg was a turning point in the American Civil War. The Union army was able to defeat the Confederate army, and this victory helped to ensure the eventual Union victory in the war. The main cause of the American Civil War was slavery. The issue of whether or not slavery should be allowed in the United States was the main source of conflict between the Northern and Southern states. The main effects of the American Civil War were the abolition of slavery, the destruction of the Confederacy, and the death of over 600,000 soldiers. The biggest turning point of the American Civil War was the Battle of Gettysburg. This Union victory helped to ensure the eventual Union victory in the war. The main reason the North won the American Civil War was because they had more soldiers and more resources. The North also had the advantage of fighting on their own territory. The main leaders of the Confederacy were Jefferson Davis, Robert E. Lee, and Stonewall Jackson. The main leaders of the Union were Abraham Lincoln, Ulysses S. Grant, and William T. Sherman. The main goals of the Confederacy were to preserve the institution of slavery and to gain independence from the United States. The main goals of the Union were to preserve the United States as a single country and to abolish the institution of slavery. Some of the main battles of the American Civil War were the Battle of Gettysburg, the Battle of Antietam, and the Battle of Vicksburg. Some of the main weapons used in the American Civil War were muskets, pistols, swords, and cannons. The main reason the Confederacy lost the American Civil War was because they didn't have enough soldiers or resources. The American Civil War changed the United States by abolishing slavery, destroying the Confederacy, and killing over 600,000 soldiers. If the Confederacy had won the American Civil War, the United States would be two separate countries: the United States and the Confederate States of America. The Gettysburg Address was a speech given by Abraham Lincoln at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania. In the speech, Lincoln spoke about the importance of the Union and the need to ensure that the government 'of the people, by the people, for the people, shall not perish from the earth.' The Emancipation Proclamation was an executive order issued by President Abraham Lincoln in 1863 that freed all slaves in the Confederate states. The 13th Amendment was a constitutional amendment that was ratified in 1865 that abolished slavery in the United States."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How did Ancient Greece influence the world?",
+                    "Answer": "Ancient Greece was one of the most influential cultures of the ancient world. They developed a form of government that is still used today, and their art and architecture are still admired. They also made significant contributions to philosophy, literature, and science."
+                },
+                {
+                    "Question": "How did the Peloponnesian War affect Ancient Greece?",
+                    "Answer": "The Peloponnesian War was a devastating conflict that lasted for 27 years. It resulted in the fall of the Athenian Empire and the rise of the Sparta. The war also had a profound impact on Greek society, culture, and economy."
+                },
+                {
+                    "Question": "What was life like in Ancient Greece?",
+                    "Answer": "Life in Ancient Greece was very different from life today. The vast majority of the population were peasants who worked the land. Slavery was common, and women had few rights. Life was also marked by frequent warfare."
+                },
+                {
+                    "Question": "How did Ancient Greece influence the Roman Empire?",
+                    "Answer": "The Roman Empire was greatly influenced by Ancient Greece. The Romans adopted many aspects of Greek culture, including their religion, art, and architecture. The Romans also borrowed heavily from Greek philosophy and literature."
+                },
+                {
+                    "Question": "What was the fall of the Ancient Greek civilization?",
+                    "Answer": "There is no single event that caused the fall of the Ancient Greek civilization. Rather, it was a gradual process that was caused by a number of factors, including internal strife, economic decline, and external pressure from the Roman Empire."
+                },
+                {
+                    "Question": "How did Ancient Greece influence the modern world?",
+                    "Answer": "Ancient Greece has had a profound influence on the modern world. Their form of government, art, and philosophy are just a few of the areas that have been heavily influenced by the Greeks."
+                },
+                {
+                    "Question": "What was the most significant achievement of Ancient Greece?",
+                    "Answer": "There is no single most significant achievement of Ancient Greece. They made many significant contributions to the world, including in the areas of government, art, literature, and science."
+                },
+                {
+                    "Question": "What was the most significant failure of Ancient Greece?",
+                    "Answer": "There is no single most significant failure of Ancient Greece. They made many significant contributions to the world, but they also had their share of failures, including in the areas of war and politics."
+                },
+                {
+                    "Question": "How did Ancient Greece change the world?",
+                    "Answer": "Ancient Greece was one of the most influential cultures of the ancient world. They developed a form of government that is still used today, and their art and architecture are still admired. They also made significant contributions to philosophy, literature, and science."
+                },
+                {
+                    "Question": "What would the world be like without Ancient Greece?",
+                    "Answer": "The world would be very different without Ancient Greece. Their form of government, art, and philosophy have had a profound influence on the world."
+                },
+                {
+                    "Question": "How did Ancient Greece influence the development of democracy?",
+                    "Answer": "Ancient Greece is considered to be the birthplace of democracy. The Greeks developed a form of government in which all citizens had a say in the decisions that were made. This form of government is still used today in many countries."
+                },
+                {
+                    "Question": "How did Ancient Greece influence Western civilization?",
+                    "Answer": "Ancient Greece has had a profound influence on Western civilization. Their form of government, art, and philosophy are just a few of the areas that have been heavily influenced by the Greeks."
+                },
+                {
+                    "Question": "What was the most significant contribution of Ancient Greece to the world?",
+                    "Answer": "There is no single most significant contribution of Ancient Greece to the world. They made many significant contributions to the world, including in the areas of government, art, literature, and science."
+                }
+            ],
+            "Output": "Hello everyone. Today, I'm going to talk about how Ancient Greece influenced the world. The Ancient Greeks were one of the most influential cultures of the ancient world. They developed a form of government that is still used today, and their art and architecture are still admired. They also made significant contributions to philosophy, literature, and science. One of the most significant ways in which Ancient Greece influenced the world was through the development of democracy. The Greeks developed a form of government in which all citizens had a say in the decisions that were made. This form of government is still used today in many countries. Another significant way in which Ancient Greece influenced the world was through their art and architecture. The Greeks developed a unique style that is still admired today. They also made significant contributions to literature and science. Ancient Greece has had a profound influence on the modern world. Their form of government, art, and philosophy are just a few of the areas that have been heavily influenced by the Greeks. The world would be very different without Ancient Greece."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/WOgl0EfOUeMGpKVtO1gYEmDq?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4VyAH04I2C1Oet8Izy7zqWOb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GVCgTknksOcnH7FNg1ST8o3E?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1mTvOTw-V5NIBqAle4BY10TGcne0ixJrQ?usp=sharing"
+}

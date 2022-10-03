@@ -1,0 +1,151 @@
+{
+    "Contributor": "anchliasaurav",
+    "Domain": "Astronomy",
+    "Task": "Strategy to stargaze",
+    "Prompt": [
+        "I am an expert astronomer. I will now ask you some questions and then use that information to form a strategy to stargaze in the night sky just for you.\n",
+        "Write a strategy to stargaze using the question answers above.\n"
+    ],
+    "Instances": [
+        {
+            "QAPair": [
+                {
+                    "Question": "Question:What time of night are you available to stargaze?",
+                    "Answer": "I am available to stargaze from 9pm to 12am."
+                },
+                {
+                    "Question": "Question:What location do you plan to stargaze from?",
+                    "Answer": "I plan to stargaze from my backyard."
+                },
+                {
+                    "Question": "Question:What objects are you interested in observing?",
+                    "Answer": "I am interested in observing the moon, planets, and stars."
+                },
+                {
+                    "Question": "Question:What type of telescope do you have?",
+                    "Answer": "I have a refractor telescope."
+                },
+                {
+                    "Question": "Question:What is the weather forecast for the night you plan to stargaze?",
+                    "Answer": "The weather forecast for the night I plan to stargaze is clear skies."
+                },
+                {
+                    "Question": "Question: What is the light pollution like in your area?",
+                    "Answer": "The light pollution in my area is moderate."
+                },
+                {
+                    "Question": "Question: What is your experience level with stargazing?",
+                    "Answer": "I am a beginner with stargazing."
+                },
+                {
+                    "Question": "Question: What is the size of your telescope's aperture?",
+                    "Answer": "My telescope's aperture is 3 inches."
+                },
+                {
+                    "Question": "Question: What is the longest focal length of your telescope?",
+                    "Answer": "My telescope's longest focal length is 1000mm."
+                },
+                {
+                    "Question": "Question: What eyepieces do you have for your telescope?",
+                    "Answer": "I have a 25mm and 10mm eyepiece for my telescope."
+                }
+            ],
+            "Output": "Assuming you have a clear night, the moon will rise around 9pm. Try to find a location with an unobstructed view of the eastern sky. Use your 25mm eyepiece to find the moon and then switch to your 10mm eyepiece for a closer look. Then, scan the sky for planets. If you're patient, you should be able to see some stars as well.",
+            "Preset_link": "https://beta.openai.com/playground/p/c6RN3XHsr0vzZCxWIgmMXJkz?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question:What time of night are you available to stargaze?",
+                    "Answer": "I am available to stargaze from 12 am to 4 am."
+                },
+                {
+                    "Question": "Question:What location do you plan to stargaze from?",
+                    "Answer": "I plan to stargaze from my rooftop."
+                },
+                {
+                    "Question": "Question:What objects are you interested in observing?",
+                    "Answer": "I am interested in observing the supernova and galaxies."
+                },
+                {
+                    "Question": "Question:What type of telescope do you have?",
+                    "Answer": "I have a newtonion telescope."
+                },
+                {
+                    "Question": "Question:What is the weather forecast for the night you plan to stargaze?",
+                    "Answer": "The weather forecast for the night I plan to stargaze is clear skies."
+                },
+                {
+                    "Question": "Question:What is the light pollution like in your area?",
+                    "Answer": "The light pollution in my area is low."
+                },
+                {
+                    "Question": "Question:What is your experience level with stargazing?",
+                    "Answer": "I am a beginner with stargazing."
+                },
+                {
+                    "Question": "Question:What is the size of your telescope's aperture?",
+                    "Answer": "My telescope's aperture is 6  inches."
+                },
+                {
+                    "Question": "Question:What is the longest focal length of your telescope?",
+                    "Answer": "My telescope's longest focal length is 2000mm."
+                },
+                {
+                    "Question": "Question:What eyepieces do you have for your telescope?",
+                    "Answer": "I have two eyepieces for my telescope, a 25mm and a 10mm."
+                }
+            ],
+            "Output": "Assuming you would like a detailed plan: \n\nFirst, head outside to your rooftop at around 12 am. It's important to give your eyes 30 minutes to adjust to the darkness, so try to avoid using any bright lights during this time. If you have a red light, that's even better, as it won't disrupt your night vision as much. \n\nOnce it's nice and dark, take a look around and see what's visible. If you're not familiar with the night sky, it might be helpful to use a star chart to help you find your way around. \n\nSome good things to start with are the constellations. Pick out a few of the most prominent ones and see if you can find them in the sky. Once you've found them, see if you can find some of the stars that make up those constellations. \n\nFrom there, see if you can find some of the other bright objects in the night sky. The moon, for example, is usually quite easy to spot. Jupiter and Saturn are also usually visible to the naked eye, although they might require a little bit of searching to find. \n\nIf you have a telescope, now is the time to set it up. Start with some of the easier objects to find, like the moon or some of the brighter planets. Once you've found them, see if you can use your telescope to get a closer look. See if you can spot any of the features that you would normally be able to see with binoculars or a small telescope. \n\nAfter you've spent some time looking at some of the easier objects, see if you can find some of the more challenging ones. The supernova, for example, might be a little bit more difficult to find. But if you know where to look, you should be able to spot it. The same goes for galaxies. They're usually not as bright as some of the other objects in the night sky, but they can be just as interesting to look at.",
+            "Preset_link": "https://beta.openai.com/playground/p/EXJPPBfF6sWXUw5HMx6cVnPO?model=text-davinci-002"
+        },
+        {
+            "QAPair": [
+                {
+                    "Question": "Question:What time of night are you available to stargaze?",
+                    "Answer": "I am available to stargaze from 12 am to 4 am during the summer."
+                },
+                {
+                    "Question": "Question:What location do you plan to stargaze from?",
+                    "Answer": "I plan to stargaze from a location far from the city. I am in bangalore , India"
+                },
+                {
+                    "Question": "Question:What objects are you interested in observing?",
+                    "Answer": "I am interested in observing the moons of jupiter"
+                },
+                {
+                    "Question": "Question:What type of telescope do you have?",
+                    "Answer": "I have a refractor telescope."
+                },
+                {
+                    "Question": "Question:What is the weather forecast for the night you plan to stargaze?",
+                    "Answer": "The weather forecast for the night I plan to stargaze is clear skies."
+                },
+                {
+                    "Question": "Question:What is the light pollution like in your area?",
+                    "Answer": "The light pollution in my area is low."
+                },
+                {
+                    "Question": "Question:What is your experience level with stargazing?",
+                    "Answer": "I have some experience with stargazing."
+                },
+                {
+                    "Question": "What is the size of your telescope's aperture?",
+                    "Answer": "My telescope's aperture is 6  inches."
+                },
+                {
+                    "Question": "Question:What is the longest focal length of your telescope?",
+                    "Answer": "My telescope's longest focal length is 2000mm."
+                },
+                {
+                    "Question": "Question:What eyepieces do you have for your telescope?",
+                    "Answer": "I have two eyepieces for my telescope, a 25mm and a 10mm."
+                }
+            ],
+            "Output": "First, consult a star chart to find out where the moons of Jupiter will be visible in the night sky. Next, set up your telescope in a location away from light pollution, such as a dark park or your backyard. Make sure to give yourself plenty of time to adjust to the darkness. Once you have found Jupiter in your telescope, take a look at the moons and see if you can spot any of the four largest ones: Io, Europa, Ganymede, and Callisto.",
+            "Preset_link": "https://beta.openai.com/playground/p/NjNwaMPOT8A2TYJYAbkV1OAe?model=text-davinci-002"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/NjNwaMPOT8A2TYJYAbkV1OAe?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1hTGbKuwSfscS2wW0hA3oUIg8xI4e2kjw?usp=sharing"
+}

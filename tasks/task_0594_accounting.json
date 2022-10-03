@@ -1,0 +1,156 @@
+{
+    "Contributor": "addagatlapranavi",
+    "Domain": "Accounting",
+    "Task": "to do budget analysis for organizations.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in accounting. I will ask some questions to collect information and, then I will use the information to do budget analysis for organizations. ",
+        "task_specific_prompt": "Give an advice for the student to pick a second language"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the organization?",
+                    "Answer": "It is called as Hands foundation."
+                },
+                {
+                    "Question": "How much money does your organization have available to spend on its programs and activities?",
+                    "Answer": "$50,000"
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the current fiscal year?",
+                    "Answer": "$100,00"
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the previous fiscal year?",
+                    "Answer": "$75,000"
+                },
+                {
+                    "Question": "What are the organization's goals and objectives for the current fiscal year?",
+                    "Answer": "Its an NGO"
+                },
+                {
+                    "Question": "What are the organization's expected income and expenses for the upcoming fiscal year?",
+                    "Answer": "We are looking forward to raise $150,000."
+                },
+                {
+                    "Question": "What are the organization's long-term goals and objectives?",
+                    "Answer": "We are planning to educate 10,000 students in 5 years."
+                },
+                {
+                    "Question": "What are the organization's income sources?",
+                    "Answer": "The organization's income sources are donations, grants, and sponsorships."
+                },
+                {
+                    "Question": "What are the organization's expenses?",
+                    "Answer": "The organization's expenses are salaries, rent, office supplies, and program expenses."
+                },
+                {
+                    "Question": "What are the organization's fundraising activities?",
+                    "Answer": "The organization's fundraising activities are grant writing, fundraising events, and direct mail campaigns."
+                }
+            ],
+            "Output": "\nAssuming that the student wants to learn Spanish, I would recommend that the student take classes from a native speaker and live in a Spanish-speaking country. These immersive methods will help the student learn the language more quickly and effectively\n "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the organization?",
+                    "Answer": "It is called as Voice."
+                },
+                {
+                    "Question": "How much money does your organization have available to spend on its programs and activities? This question will help me to understand the organization's financial situation and their ability to fund their programs.",
+                    "Answer": "Close to $10,000 a month."
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the current fiscal year?",
+                    "Answer": "It is $120,000."
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the previous fiscal year?",
+                    "Answer": "It was $100,000 the previous year. I has increased this year."
+                },
+                {
+                    "Question": "What are the organization's goals and objectives for the current fiscal year?",
+                    "Answer": "The organization is planning to educate 500 adolescent girls academically and raise funds accordingly."
+                },
+                {
+                    "Question": "What are the organization's expected income and expenses for the upcoming fiscal year?",
+                    "Answer": "We are looking forward to raise $150,000."
+                },
+                {
+                    "Question": "What are the organization's long-term goals and objectives?",
+                    "Answer": "We are planning to educate 10,000 students in 5 years."
+                },
+                {
+                    "Question": "What are the organization's income sources?",
+                    "Answer": "The organization's income sources are donations, grants, and sponsorships."
+                },
+                {
+                    "Question": "What are the organization's expenses?",
+                    "Answer": "The organization's expenses are salaries, rent, office supplies, and program expenses."
+                },
+                {
+                    "Question": "What are the organization's fundraising activities?",
+                    "Answer": "The organization's fundraising activities are grant writing, fundraising events, and direct mail campaigns."
+                }
+            ],
+            "Output": "\nThe Voice foundation is a non-profit organization that relies on donations, grants, and sponsorships to fund its programs and activities. The organization's goal is to educate 10,000 students in 5 years. The organization's income and expenses for the current fiscal year are $120,000. The organization's income and expenses for the previous fiscal year were $100,000. The organization's expenses include salaries, rent, office supplies, and program expenses. The organization's fundraising activities are grant writing, fundraising events, and direct mail campaigns.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the organization?",
+                    "Answer": "It is called as Medico."
+                },
+                {
+                    "Question": "How much money does your organization have available to spend on its programs and activities? This question will help me to understand the organization's financial situation and their ability to fund their programs.",
+                    "Answer": "Close to $200,000 a month."
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the current fiscal year?",
+                    "Answer": "It is It is $320,000."
+                },
+                {
+                    "Question": "What are the organization's income and expenses for the previous fiscal year?",
+                    "Answer": "It was $250,000 the previous year. I has increased this year."
+                },
+                {
+                    "Question": "What are the organization's goals and objectives for the current fiscal year?",
+                    "Answer": "The organization is planning to provide medical help to as many as possible."
+                },
+                {
+                    "Question": "What are the organization's expected income and expenses for the upcoming fiscal year?",
+                    "Answer": "We are looking forward to raise $400,000."
+                },
+                {
+                    "Question": "What are the organization's long-term goals and objectives?",
+                    "Answer": "We are planning to start a program that provides free medical help to underprivileged."
+                },
+                {
+                    "Question": "What are the organization's income sources?",
+                    "Answer": "The organization's income sources are through donations and patient's fee."
+                },
+                {
+                    "Question": "What are the organization's expenses?",
+                    "Answer": "The organization's expenses are equipment, food and, medicines among others."
+                },
+                {
+                    "Question": "Question:What is the patient intake per month?",
+                    "Answer": "It is close to 2000 patients per month."
+                }
+            ],
+            "Output": " The Medico foundation has a goal to provide medical help to as many people as possible. They have increased their income this year and are looking to raise $400,000 next year. Their programs and activities include providing medical help to those who cannot afford it. They have 2000 patients per month.\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/VNKU1lZgjcPmPlcM4UbhKz1p?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sZY3olQSygKVKUEgV3MhP7BJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/c3UHlg4hJiRLImK8Js39Lprh?model=text-davinci-002"
+    ],
+    "screenshot link": [
+        "https://drive.google.com/file/d/1AqgeXUpxShWGfmy7oEfjH_4w_7KeYdhn/view?usp=sharing",
+        "https://drive.google.com/file/d/1ESO9c29SkaEbirI8zx79waD9K-SaY5cW/view?usp=sharing",
+        "https://drive.google.com/file/d/16JCN8wcU7L3xkJkTQ6WynU7IzNoJGLux/view?usp=sharing"
+    ]
+}

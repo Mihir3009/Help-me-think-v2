@@ -1,0 +1,204 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Code",
+    "Task": "Convert Instructions to Python Code",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in python coding. I will ask you questions to gather information and then use that information to write a python code for that task.",
+        "task_specific_prompt": "Write a python code based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What task do you want to accomplish?",
+                    "Answer": "I want to find the index of a pattern in a given string."
+                },
+                {
+                    "Question": "What is the string?",
+                    "Answer": "The string is \"abcdabcdabcd\""
+                },
+                {
+                    "Question": "What is the pattern?",
+                    "Answer": "The pattern is \"abcd\""
+                },
+                {
+                    "Question": "What is the index you are looking for?",
+                    "Answer": "The index I am looking for is the index of the first occurrence of the pattern in the string. In this case, the index would be 0."
+                },
+                {
+                    "Question": "What should the function return if the pattern is not found in the string?",
+                    "Answer": "If the pattern is not found in the string the function should return -1"
+                },
+                {
+                    "Question": "Is there anything else you need to know?",
+                    "Answer": "If the pattern is found, the code should print out \"Yay! I found it!\""
+                },
+                {
+                    "Question": "What if there are multiple occurrences of the pattern in the string?",
+                    "Answer": "The code should  find the index of the first occurrence of the pattern in the string"
+                },
+                {
+                    "Question": "What if the string is empty?",
+                    "Answer": "If the string is empty the code should return -2"
+                },
+                {
+                    "Question": "What if the pattern is empty?",
+                    "Answer": "If the pattern is empty, the code should return 0"
+                },
+                {
+                    "Question": "What if the string and pattern are both empty?",
+                    "Answer": "If the string and pattern are both empty the code should return -3"
+                }
+            ],
+            "Output": "def find_pattern(string, pattern):\nif string == \"\" and pattern == \"\":\n  return -3\nelif string == \"\":\n  return -2\nelif pattern == \"\":\n  return 0\nelse:\n  index = string.find(pattern)\n  if index == -1:\n    return -1\n  else:\n    print(\"Yay! I found it!\")\n    return index"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What task do you want to accomplish?",
+                    "Answer": "I want to reverse a given substring in a given string if the substring is found."
+                },
+                {
+                    "Question": "What is the input string?",
+                    "Answer": "The input string is \"I am a Python programmer.\""
+                },
+                {
+                    "Question": "What is the substring you want to reverse?",
+                    "Answer": "The substring I want to reverse is \"Python.\""
+                },
+                {
+                    "Question": "What is the expected output?",
+                    "Answer": "The expected output is \"I am a nohtyP programmer.\""
+                },
+                {
+                    "Question": "Are there any other requirements?",
+                    "Answer": "if the substring is not found, print(\"Oops! Not found\") and return null"
+                },
+                {
+                    "Question": "What is the data type of the input?",
+                    "Answer": "The input is a string."
+                },
+                {
+                    "Question": "What is the data type of the output?",
+                    "Answer": "The output is a string."
+                },
+                {
+                    "Question": "What is the length of the input string?",
+                    "Answer": "length of the string will vary"
+                },
+                {
+                    "Question": "What is the length of the substring?",
+                    "Answer": "the length of the substring will vary. the string and the substring will be an argument in the function."
+                },
+                {
+                    "Question": "Is the substring case-sensitive?",
+                    "Answer": "No, the substring is not case-sensitive."
+                },
+                {
+                    "Question": "Can the substring be found more than once in the input string?",
+                    "Answer": "Yes, the substring can be found more than once in the input string. In this case, reverse all substrings found."
+                },
+                {
+                    "Question": "Is the substring always present in the input string?",
+                    "Answer": "No, the substring is not always present in the input string."
+                },
+                {
+                    "Question": "What if the input string is empty?",
+                    "Answer": "If the input string is empty, print(\"Input string is empty\") and return null."
+                },
+                {
+                    "Question": "What if the substring is empty?",
+                    "Answer": "If the substring is empty, print(\"Substring is empty\") and return null."
+                },
+                {
+                    "Question": "Is the input string always valid?",
+                    "Answer": "Answer: No, the input string can be empty or null."
+                }
+            ],
+            "Output": "def reverse_substring(input_string, substring):\nif not input_string:\n    print(\"Input string is empty\")\n    return None\nif not substring:\n    print(\"Substring is empty\")\n    return None\nreversed_substring = substring[::-1]\nreturn input_string.replace(substring, reversed_substring)"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What task do you want to accomplish?",
+                    "Answer": "I want to train a model to predict my next words."
+                },
+                {
+                    "Question": "What data do you have?",
+                    "Answer": "I have a text file with a lot of sentences."
+                },
+                {
+                    "Question": "What model do you want to use?",
+                    "Answer": "I want to use a recurrent neural network."
+                },
+                {
+                    "Question": "What is the purpose of the model?",
+                    "Answer": "The purpose of the model is to predict the next word in a sentence."
+                },
+                {
+                    "Question": "How will you evaluate the model?",
+                    "Answer": "I will evaluate the model by its accuracy in predicting the next word in a sentence."
+                },
+                {
+                    "Question": "What are the potential applications of the model?",
+                    "Answer": "The potential applications of the model include text completion and prediction, machine translation, and speech recognition."
+                },
+                {
+                    "Question": "What are the limitations of the model?",
+                    "Answer": "The limitations of the model include the need for a large amount of data and the need for the data to be well-organized."
+                },
+                {
+                    "Question": "What are the risks of the model?",
+                    "Answer": "The risks of the model include overfitting and poor performance on out-of-sample data."
+                },
+                {
+                    "Question": "What are the assumptions of the model?",
+                    "Answer": "The assumptions of the model include that the data is representative of the task at hand and that the data is stationary"
+                },
+                {
+                    "Question": "What are the hyperparameters of the model?",
+                    "Answer": "The hyperparameters of the model include the number of layers, the number of neurons, the learning rate, and the activation function."
+                },
+                {
+                    "Question": "What is the structure of the model?",
+                    "Answer": "The structure of the model is a recurrent neural network."
+                },
+                {
+                    "Question": "What are the inputs to the model?",
+                    "Answer": "The inputs to the model are the sentences in the text file."
+                },
+                {
+                    "Question": "What are the outputs of the model?",
+                    "Answer": "The outputs of the model are the predicted next words."
+                },
+                {
+                    "Question": "What is the training data?",
+                    "Answer": "The training data is the text file with the sentences."
+                },
+                {
+                    "Question": "What is the test data?",
+                    "Answer": "The test data is a text file with sentences that the model has not seen before."
+                },
+                {
+                    "Question": "How will you train the model?",
+                    "Answer": "I will train the model by feeding it the training data and letting it learn from the data."
+                },
+                {
+                    "Question": "How will you test the model?",
+                    "Answer": "I will test the model by feeding it the test data and seeing how accurately it predicts the next word."
+                },
+                {
+                    "Question": "What are the expected results of the model?",
+                    "Answer": "The expected results of the model are that it will accurately predict the next word in a sentence."
+                }
+            ],
+            "Output": "import numpy as np\nimport tensorflow as tf\n\n# Hyperparameters\nnum_layers = 2\nnum_neurons = 100\nlearning_rate = 0.001\n\n# Data\nsentences = [\"I want to train a model to predict my next words\",\"I have a text file with a lot of sentences\",\"I want to use a recurrent neural network\",\"The purpose of the model is to predict the next word in a sentence\",\"I will evaluate the model by its accuracy in predicting the next word in a sentence\",\"The potential applications of the model include text completion and prediction, machine translation, and speech recognition\",\"The limitations of the model include the need for a large amount of data and the need for the data to be well-organized\",\"The risks of the model include overfitting and poor performance on out-of-sample data\",\"The assumptions of the model include that the data is representative of the task at hand and that the data is stationary\",\"The hyperparameters of the model include the number of layers, the number of neurons, the learning rate, and the activation function\",\"The structure of the model is a recurrent neural network\",\"The inputs to the model are the sentences in the text file\",\"The outputs of the model are the predicted next words\",\"The training data is the text file with the sentences\",\"The test data is a text file with sentences that the model has not seen before\",\"I will train the model by feeding it the training data and letting it learn from the data\",\"I will test the model by feeding it the test data and seeing how accurately it predicts the next word\",\"The expected results of the model are that it will accurately predict the next word in a sentence\"]\n\n# Model\nmodel = tf.keras.Sequential()\n\n# Add layers\nmodel.add(tf.keras.layers.Embedding(input_dim=len(sentences), output_dim=num_neurons))\nfor i in range(num_layers):\n    model.add(tf.keras.layers.LSTM(num_neurons, return_sequences=True))\nmodel.add(tf.keras.layers.Dense(1, activation=\"sigmoid\"))\n\n# Compile the model\nmodel.compile(loss=\"binary_crossentropy\", optimizer=tf.keras.optimizers.Adam(learning_rate), metrics=[\"accuracy\"])\n\n# Train the model\nmodel.fit(sentences, epochs=10, batch_size=32)\n\n# Test the model\nloss, accuracy = model.evaluate(sentences, batch_size=32)\nprint(\"Test loss:\", loss)\nprint(\"Test accuracy:\", accuracy)"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/2Bp0oI8408C3oVhEYkXmrjpc?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TYq8LmCH2F8PmKFt6zBdPqJt?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dlYgsJXkargcL5FxbWn74Tth?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1vvZcraUyTxJH0fvmqHo7GEKY84e_-il2?usp=sharing"
+}

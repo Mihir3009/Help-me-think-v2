@@ -1,0 +1,156 @@
+{
+    "Contributor": "bhattkrutarth",
+    "Domain": "Visual Arts",
+    "Task": "Meusum Recommender based on users preferences",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in visual arts and history . I will ask some questions to collect information about your preferences in visual arts and will suggest you visual art museums that might interest you the most.",
+        "task_specific_prompt": "Based on the above questions and answers suggest a museum to visit who's art aligns with the user's interests. Provide detailed reasons for the suggestion."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How would you describe your ideal visual art museum?",
+                    "Answer": "I would like a museum that has a wide variety of art, from paintings to sculptures to photography. I would also like it to have a good mix of classic and contemporary pieces."
+                },
+                {
+                    "Question": "What are some of your favorite artists?",
+                    "Answer": "Some of my favorite artists include Vincent van Gogh, Leonardo da Vinci, and Rembrandt."
+                },
+                {
+                    "Question": "What are some of your favorite art periods?",
+                    "Answer": "I really enjoy Renaissance art, but I also like Impressionism and Modernism."
+                },
+                {
+                    "Question": "What are some of your favorite visual art genres?",
+                    "Answer": "I particularly enjoy landscape paintings, but I also like portraiture and still life."
+                },
+                {
+                    "Question": "What are some of your favorite visual art media?",
+                    "Answer": "I really enjoy oil paintings, but I also like watercolors and mixed media."
+                },
+                {
+                    "Question": "What are some of your favorite visual art styles?",
+                    "Answer": "I really enjoy realism, but I also like abstract and impressionistic styles."
+                },
+                {
+                    "Question": "What are some of your favorite visual art subjects?",
+                    "Answer": "I really enjoy nature scenes, but I also like cityscapes and portraits."
+                },
+                {
+                    "Question": "What are some of your favorite colors?",
+                    "Answer": "I really enjoy vibrant colors, but I also like muted colors."
+                },
+                {
+                    "Question": "What are some of your favorite shapes?",
+                    "Answer": "I really enjoy organic shapes, but I also like geometric shapes."
+                },
+                {
+                    "Question": "What are some of your favorite textures?",
+                    "Answer": "I really enjoy smooth textures, but I also like rough textures."
+                }
+            ],
+            "Output": "The Museum of Modern Art in New York City would be a great museum to visit for someone with the above mentioned interests. The museum has a wide variety of art, from paintings to sculptures to photography, and features both classic and contemporary pieces. Additionally, the museum has a good mix of artists, art periods, genres, media, styles, subjects, colors, shapes, and textures, making it a great place to explore different types of visual art."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How would you describe your ideal visual art museum?",
+                    "Answer": "I would like a museum that has a wide variety of art, from paintings to sculptures to photography. I would also like it to have a good mix of pieces from various geographical regions."
+                },
+                {
+                    "Question": "What are some of your favorite artists?",
+                    "Answer": "Some of my favorite artists include Claude Monet,Pablo Picasso, and Paul C\u00e9zanne."
+                },
+                {
+                    "Question": "What are some of your favorite art periods?",
+                    "Answer": "I really enjoy Romanticism and Realism."
+                },
+                {
+                    "Question": "What are some of your favorite visual art genres?",
+                    "Answer": "I enjoy paintings and sculptures."
+                },
+                {
+                    "Question": "What are some of your favorite visual art media?",
+                    "Answer": "I have no preference in visual art media."
+                },
+                {
+                    "Question": "What are some of your favorite visual art styles?",
+                    "Answer": "I really enjoy pop art and cubism."
+                },
+                {
+                    "Question": "What are some of your favorite visual art subjects?",
+                    "Answer": "I really enjoy nature scenes and portraits."
+                },
+                {
+                    "Question": "What are some of your favorite colors?",
+                    "Answer": "I really enjoy contrasting colors."
+                },
+                {
+                    "Question": "What are some of your favorite shapes?",
+                    "Answer": "I like geometric shapes."
+                },
+                {
+                    "Question": "What are some of your favorite textures?",
+                    "Answer": "I really enjoy smooth bumpy, glossy and sharp textures."
+                }
+            ],
+            "Output": "The Art Institute of Chicago would be an excellent museum to visit for someone with these interests. It has a wide variety of art from different geographical regions and periods, including many of the user's favorite artists, styles, and genres. There is something for everyone at this museum, making it the perfect place to explore and find new favorites."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How would you describe your ideal visual art museum?",
+                    "Answer": "I would like a museum that has a wide variety of art from various art periods."
+                },
+                {
+                    "Question": "What are some of your favorite artists?",
+                    "Answer": "Some of my favorite artists include Frida Kahlo, Takashi Murakami, and Andy Warhol."
+                },
+                {
+                    "Question": "What are some of your favorite art periods?",
+                    "Answer": "I really enjoy Photorealism and Surrealism."
+                },
+                {
+                    "Question": "What are some of your favorite visual art genres?",
+                    "Answer": "I enjoy painting, drawing, printmaking, sculpture, ceramics."
+                },
+                {
+                    "Question": "What are some of your favorite visual art media?",
+                    "Answer": "I have no preference in visual art media."
+                },
+                {
+                    "Question": "What are some of your favorite visual art styles?",
+                    "Answer": "I really enjoy Fantasy and Graffiti."
+                },
+                {
+                    "Question": "What are some of your favorite visual art subjects?",
+                    "Answer": "I really enjoy portraits and abstract design and geometric designs."
+                },
+                {
+                    "Question": "What are some of your favorite colors?",
+                    "Answer": "I really enjoy colors on darker spectrum."
+                },
+                {
+                    "Question": "What are some of your favorite shapes?",
+                    "Answer": "I do not like shapes at all."
+                },
+                {
+                    "Question": "What are some of your favorite textures?",
+                    "Answer": "I really enjoy wer, silky and matte textures."
+                }
+            ],
+            "Output": "The Museum of Fine Arts, Boston would be a great museum for you to visit. The Museum of Fine Arts, Boston has a wide variety of art from various art periods. Some of the artists they have on display include Frida Kahlo, Takashi Murakami, and Andy Warhol. The Museum of Fine Arts, Boston also has a wide variety of art genres including painting, drawing, printmaking, sculpture, and ceramics."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/7k8szhd9DoMxt2jxRNQFmFUi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NBozQz2hv2ZcVPwozTQr4Ced?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0EyiVIAZC3iVUJR28qNgkef9?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/157ngBiKi0ukMUTHVHSqFsu85s7nK6uFw/view?usp=sharing",
+        "https://drive.google.com/file/d/1NqA7lXWSal3mpTlezHsAcNrgz_Rn4bfN/view?usp=sharing",
+        "https://drive.google.com/file/d/1RuIBOAQ6JIS4coYwbz6aBorZYLp4dK3O/view?usp=sharing"
+    ]
+}
