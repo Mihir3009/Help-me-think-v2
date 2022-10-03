@@ -231,7 +231,7 @@
             "Output": "I should visit Norway because it is my preferred destination, I can travel there by water, and my preferred activities are skiing, snowboarding, and hiking."
         }
     ],
-    "Preset Link": [
+    "Preset_link": [
         "https://beta.openai.com/playground/p/NFhRKAsF3KHFRyKs8QFbgA3w?model=text-davinci-002",
         "https://beta.openai.com/playground/p/50FGHUb8ayv7qXgZj4wUmkPX?model=text-davinci-002",
         "https://beta.openai.com/playground/p/GxPhwl8EWlQO6ymC61Iy3mEV?model=text-davinci-002"
