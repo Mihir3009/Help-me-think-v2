@@ -437,3 +437,4 @@ File Name | Domain | Task
 `task_0472_computer_aided_design.json` | Computer Aided Design | Car design
 `task_0473_computer_aided_design.json` | Computer Aided Design | Toy design
 `task_0474_computer_aided_design.json` | Computer Aided Design | Furniture design
+`task_0475_philosophy.json` | Philosophy | Suggesting philosophy book
