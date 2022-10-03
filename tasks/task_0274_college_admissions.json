@@ -1,0 +1,152 @@
+{
+    "Contributor": "shethwalayashdinesh",
+    "Domain": "College Admissions",
+    "Task": "College consultant writing a letter of recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert college consultant. I will ask some questions to collect information and then I will use the information to write a letter of recommendation.",
+        "task_specific_prompt": "Write a letter of recommendation using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the student's name?",
+                    "Answer": "The student's name is John Doe."
+                },
+                {
+                    "Question": "What are the student's academic strengths?",
+                    "Answer": "The student's academic strengths are in mathematics and physics."
+                },
+                {
+                    "Question": "What are the student's personal strengths?",
+                    "Answer": "The student's personal strengths are in leadership and motivation."
+                },
+                {
+                    "Question": "What are the student's career goals?",
+                    "Answer": "The student's career goals are to become a research scientist or roboticist."
+                },
+                {
+                    "Question": "What are the student's extracurricular activities?",
+                    "Answer": "The student's extracurricular activities include being a member of the IEEE and the Robotics Club."
+                },
+                {
+                    "Question": "What are the student's awards and honors?",
+                    "Answer": "The student's awards and honors include being a two-time winner of the Physics Olympiad and a recipient of the Presidential Scholarship."
+                },
+                {
+                    "Question": "What are the student's research interests?",
+                    "Answer": "The student's research interests are in artificial intelligence and machine learning."
+                },
+                {
+                    "Question": "What are the student's contact information?",
+                    "Answer": "The student's contact information is as follows: Email: john.doe@email.com Phone: 555-555-1212"
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "I would like to add that the student's nature is very charming. He is a quick learner and an explorer of technology."
+                },
+                {
+                    "Question": "Describe the academic performance of the student.",
+                    "Answer": "The student has an excellent academic history. He is ranked first out of all the students in class."
+                }
+            ],
+            "Output": "Dear Admissions Committee, I am writing to recommend John Doe for admission to your esteemed institution. John is an outstanding student who has excelled in all his academic pursuits. His strengths lie in mathematics and physics, and he has been a two-time winner of the Physics Olympiad. He is also a recipient of the Presidential Scholarship. John's career goals are to become a research scientist or roboticist, and his research interests are in artificial intelligence and machine learning. In addition to his excellent academic record, John is also a gifted leader and motivator. He is an active member of the IEEE and the Robotics Club, and his charming nature has made him a popular figure on campus. He is a quick learner who is always exploring new technology. I believe John would be a valuable addition to your institution and I strongly recommend him for admission. If you have any questions, please do not hesitate to contact me at john.doe@email.com or 555-555-1212. Sincerely, [Your name]"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the student's name?",
+                    "Answer": "The student's name is Praveen Tamrakar."
+                },
+                {
+                    "Question": "What are the student's academic strengths?",
+                    "Answer": "The student's academic strengths are in control and systems."
+                },
+                {
+                    "Question": "What are the student's personal strengths?",
+                    "Answer": "The student's personal strengths are in integrity and respect."
+                },
+                {
+                    "Question": "What are the student's career goals?",
+                    "Answer": "The student's career goals are to become a control engineer or researcher."
+                },
+                {
+                    "Question": "What are the student's extracurricular activities?",
+                    "Answer": "The student's extracurricular activities include being a member of the Rotaract club and IEEE."
+                },
+                {
+                    "Question": "What are the student's awards and honors?",
+                    "Answer": "The student's awards and honors include being an all-time scholar award."
+                },
+                {
+                    "Question": "What are the student's research interests?",
+                    "Answer": "The student's research interests are in control algorithms and hardware development."
+                },
+                {
+                    "Question": "What are the student's contact information?",
+                    "Answer": "The student's contact information is as follows: Email: ptamraka@asu.edu Phone: 987-654-321"
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "I would like to add that the student's nature is very charming. He quickly grasps the things and he is an explorer too."
+                },
+                {
+                    "Question": "Describe the academic performance of the student.",
+                    "Answer": "The student has an excellent academic history. He is ranked among the top 10 students in the class."
+                }
+            ],
+            "Output": "Dear Admissions Committee, It is my great pleasure to write a letter of recommendation for Praveen Tamrakar. Praveen is a student at Arizona State University and he is applying to your engineering program. Praveen is an outstanding student with a strong academic record. He is ranked among the top 10 students in the class and he has received the All-time Scholar Award. Praveen's academic strengths are in control and systems. He is also an excellent researcher with interests in control algorithms and hardware development. Praveen is a well-rounded individual with many personal strengths. He is a person of integrity and respect. He is also charming and quickly grasps new concepts. Praveen's extracurricular activities include being a member of the Rotaract club and IEEE. Praveen has made an excellent decision to pursue a career in engineering. He has the necessary skills, abilities, and personal strengths to succeed in this field. I am confident that Praveen will be an excellent addition to your engineering program and I wholeheartedly recommend him for admission. If you have any questions, please do not hesitate to contact me. Sincerely, Dr. John Doe"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the student's name?",
+                    "Answer": "The student's name is Sanyam Lakhanpal."
+                },
+                {
+                    "Question": "What are the student's academic strengths?",
+                    "Answer": "The student's academic strengths are in machine learning."
+                },
+                {
+                    "Question": "What are the student's personal strengths?",
+                    "Answer": "The student's personal strengths are in dedication."
+                },
+                {
+                    "Question": "What are the student's career goals?",
+                    "Answer": "The student's career goals are to become a software development engineer."
+                },
+                {
+                    "Question": "What are the student's extracurricular activities?",
+                    "Answer": "The student's extracurricular activities include deep learning and NLP courses on Coursera."
+                },
+                {
+                    "Question": "What are the student's awards and honors?",
+                    "Answer": "The student's awards and honors include an award from the governor."
+                },
+                {
+                    "Question": "What are the student's research interests?",
+                    "Answer": "The student's research interests are in multimodal data."
+                },
+                {
+                    "Question": "What are the student's contact information?",
+                    "Answer": "The student's contact information is as follows: Email: sanyam.lakhanpal@asu.edu Phone: 123-456-789"
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "I would like to add that the student's nature is very deterministic."
+                },
+                {
+                    "Question": "Describe the academic performance of the student.",
+                    "Answer": "The student has an excellent academic history. He is ranked among the top 3 students in the class."
+                }
+            ],
+            "Output": "Dear Admission Committee, It is with great pleasure that I write this letter on behalf of Sanyam Lakhanpal. Sanyam is a student of great intellect and character who I have had the pleasure of teaching for the past two years. Sanyam's academic strengths lie in machine learning. He consistently produces top-quality work and is able to apply his knowledge in creative ways. His personal strengths are in dedication and determination. He is always working to improve himself and his skills. These qualities have helped him achieve many awards and honors, including an award from the governor. Sanyam's career goals are to become a software development engineer. He has the skills and qualities necessary to achieve this goal. In addition to his academic strengths, Sanyam is also active in extracurricular activities. He takes deep learning and NLP courses on Coursera. Sanyam would be an excellent addition to your institution. He has my highest recommendation. If you have any questions, please do not hesitate to contact me at 123-456-789. Sincerely, Dr. XYZ"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/6fCy4e4eP2PQ0yPqXzKpbALm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/nxAPDZkYiXjvry4DbPUKjMyW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/L3fatEGNZf1J4jFJbKT2xl8s?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZaEkaLKDuyKQPVwWURmi_DsUZ50VRxth?usp=sharing"
+}

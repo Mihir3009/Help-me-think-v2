@@ -1,0 +1,175 @@
+{
+    "Domain":"Population Geography",
+    "Task":"Predicting Population Growth",
+    "Prompt":{
+        "pre_question_prompt":"I am an expert in predicting population growth I will ask some questions to collect information and then I will use the information to predict population growth in next ten years based on several factors in two different cities.",
+        "task_specific_prompt":"Write a prediction of the population growth in the two cities in the next ten years using the questions and answers above."
+    },
+    "Instances":[
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of City A?",
+                    "Answer":"The population of City A is 1,618,000."
+                },
+                {
+                    "Question":"What is the population of City B?",
+                    "Answer":"The population of City B is 2,125,000."
+                },
+                {
+                    "Question":"What is the birth rate of City A?",
+                    "Answer":"The birth rate of City A is 7.5 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the birth rate of City B?",
+                    "Answer":"The birth rate of City B is 9.5 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City A?",
+                    "Answer":"The death rate of City A is 1.9 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City B?",
+                    "Answer":"The death rate of City B is 2.3 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the migration rate of City A?",
+                    "Answer":"The migration rate of City A is 0.5%."
+                },
+                {
+                    "Question":"What is the migration rate of City B?",
+                    "Answer":"The migration rate of City B is 1.2%."
+                },
+                {
+                    "Question":"What is the average life expectancy of City A?",
+                    "Answer":"The average life expectancy of City A is 76 years."
+                },
+                {
+                    "Question":"What is the average life expectancy of City B?",
+                    "Answer":"The average life expectancy of City B is 72 years."
+                },
+                {
+                    "Question":"What is the current population growth rate of City A?",
+                    "Answer":"The current population growth rate of City A is 0.76%."
+                },
+                {
+                    "Question":"What is the current population growth rate of City B?",
+                    "Answer":"The current population growth rate of City B is 1.21%."
+                }
+            ],
+            "Output":"City A's population is predicted to grow to 1,654,383 in the next ten years. City B's population is predicted to grow to 2,205,292 in the next ten years."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of City A?",
+                    "Answer":"The population of City A is 1,500,000."
+                },
+                {
+                    "Question":"What is the population of City B?",
+                    "Answer":"The population of City B is 1,500,000."
+                },
+                {
+                    "Question":"What is the birth rate of City A?",
+                    "Answer":"The birth rate of City A is 8.3 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the birth rate of City B?",
+                    "Answer":"The birth rate of City B is 7.5 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City A?",
+                    "Answer":"The death rate of City A is 1.76 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City B?",
+                    "Answer":"The death rate of City B is 3.6 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the migration rate of City A?",
+                    "Answer":"The migration rate of City A is 0.9%."
+                },
+                {
+                    "Question":"What is the migration rate of City B?",
+                    "Answer":"The migration rate of City B is 1.98%."
+                },
+                {
+                    "Question":"What is the average life expectancy of City A?",
+                    "Answer":"The average life expectancy of City A is 81 years."
+                },
+                {
+                    "Question":"What is the average life expectancy of City B?",
+                    "Answer":"The average life expectancy of City B is 68 years."
+                },
+                {
+                    "Question":"What is the current population growth rate of City A?",
+                    "Answer":"The current population growth rate of City A is 0.82%."
+                },
+                {
+                    "Question":"What is the current population growth rate of City B?",
+                    "Answer":"The current population growth rate of City B is 1.51%."
+                }
+            ],
+            "Output":"In the next ten years, City A is expected to have a population of 1,615,268 and City B is expected to have a population of 1,632,420."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of City A?",
+                    "Answer":"The population of City A is 1,500,000."
+                },
+                {
+                    "Question":"What is the population of City B?",
+                    "Answer":"The population of City B is 1,500,000."
+                },
+                {
+                    "Question":"What is the birth rate of City A?",
+                    "Answer":"The birth rate of City A is 8.3 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the birth rate of City B?",
+                    "Answer":"The birth rate of City B is 7.5 births per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City A?",
+                    "Answer":"The death rate of City A is 1.76 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the death rate of City B?",
+                    "Answer":"The death rate of City B is 3.6 deaths per 1,000 people."
+                },
+                {
+                    "Question":"What is the migration rate of City A?",
+                    "Answer":"The migration rate of City A is 0.9%."
+                },
+                {
+                    "Question":"What is the migration rate of City B?",
+                    "Answer":"The migration rate of City B is 1.98%."
+                },
+                {
+                    "Question":"What is the average life expectancy of City A?",
+                    "Answer":"The average life expectancy of City A is 81 years."
+                },
+                {
+                    "Question":"What is the average life expectancy of City B?",
+                    "Answer":"The average life expectancy of City B is 68 years."
+                },
+                {
+                    "Question":"What is the current population growth rate of City A?",
+                    "Answer":"The current population growth rate of City A is 0.82%."
+                },
+                {
+                    "Question":"What is the current population growth rate of City B?",
+                    "Answer":"The current population growth rate of City B is 1.51%."
+                }
+            ],
+            "Output":"In the next ten years, the population of City A is expected to grow by 1.32% to 1,626,000. The population of City B is expected to grow by 0.94% to 1,824,000."
+        }
+    ],
+    "Preset_link":[
+        "https://beta.openai.com/playground/p/4VS2TyD5RCReo68Xpxy4hNsX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/tO9bw1Q5QSSfVD1A3znba7ac?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NPGzdLkiH38ltU7PuoYBDbiK?model=text-davinci-002"
+    ],
+    "screenshot_link":"https://drive.google.com/drive/folders/10M7iQ2PxyIwVJloh9gytB_fR4ap04HLR?usp=sharing"
+}

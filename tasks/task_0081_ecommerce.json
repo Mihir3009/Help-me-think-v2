@@ -1,0 +1,151 @@
+{
+    "Domain": "Ecommerce",
+    "Task": "Suggesting other products to buy based on the product bought",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting you more products to buy based on the product which you bought. I will ask some questions about your product and I will use the information to suggest you other items which you can buy.",
+        "task_specific_prompt": "Suggest me what other products I can buy along with my current product. Include all possible suggestions."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product which you bought?",
+                    "Answer": "I bought a laptop."
+                },
+                {
+                    "Question": "What type of laptop did you buy?",
+                    "Answer": "I bought a MacBook Air."
+                },
+                {
+                    "Question": "What do you use your laptop for?",
+                    "Answer": "I use my laptop for work and school."
+                },
+                {
+                    "Question": "What type of work do you do?",
+                    "Answer": "I am a writer and I also do some web design."
+                },
+                {
+                    "Question": "What type of school do you go to?",
+                    "Answer": "I go to a university."
+                },
+                {
+                    "Question": "What are your favorite features of your laptop?",
+                    "Answer": "I love how light and portable it is. I also really like the design and the retina display."
+                },
+                {
+                    "Question": "What accessories did you buy with your laptop?",
+                    "Answer": "I bought a case, and a wireless keyboard."
+                },
+                {
+                    "Question": "What type of case did you buy?",
+                    "Answer": "I bought a laptop case."
+                },
+                {
+                    "Question": "What type of keyboard did you buy?",
+                    "Answer": "I bought a wireless keyboard."
+                },
+                {
+                    "Question": "What do you think about your purchase?",
+                    "Answer": "I am very happy with my purchase."
+                }
+            ],
+            "Output": "Other products you may be interested in include: -A laptop stand -An external hard drive -A wireless mouse -A printer -A scanner -A software program"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product which you bought?",
+                    "Answer": "I bought a phone."
+                },
+                {
+                    "Question": "What type of phone did you buy?",
+                    "Answer": "I bought an android phone."
+                },
+                {
+                    "Question": "What do you use your phone for?",
+                    "Answer": "I use my phone for personal use."
+                },
+                {
+                    "Question": "What type of work do you do?",
+                    "Answer": "I use my phone to make calls and browse internet."
+                },
+                {
+                    "Question": "What type of school do you go to?",
+                    "Answer": "I go to a university."
+                },
+                {
+                    "Question": "What are your favorite features of your phone?",
+                    "Answer": "I love how light and portable it is. I also really like the design and the retina display."
+                },
+                {
+                    "Question": "What accessories did you buy with your phone?",
+                    "Answer": "I bought a phone case, and a wireless keyboard."
+                },
+                {
+                    "Question": "What type of case did you buy?",
+                    "Answer": "I bought a hard case."
+                },
+                {
+                    "Question": "Did you buy a touchphone?",
+                    "Answer": "I bought a touch phone."
+                },
+                {
+                    "Question": "What do you think about your purchase?",
+                    "Answer": "I am very happy with my purchase."
+                }
+            ],
+            "Output": "-A phone case -A wireless keyboard -A touch screen protector -A portable charger -A hands free headset"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product which you bought?",
+                    "Answer": "I bought a television."
+                },
+                {
+                    "Question": "What type of television did you buy?",
+                    "Answer": "I bought a 4K HD television."
+                },
+                {
+                    "Question": "What do you use your TV for?",
+                    "Answer": "I use my TV for entertainment."
+                },
+                {
+                    "Question": "What type of work do you do?",
+                    "Answer": "I use my TV to watch movies,news and TV shows."
+                },
+                {
+                    "Question": "What type of school do you go to?",
+                    "Answer": "I don't go to a school."
+                },
+                {
+                    "Question": "What are your favorite features of your TV?",
+                    "Answer": "I love the display of the TV. I also really like the design."
+                },
+                {
+                    "Question": "What accessories did you buy with your TV?",
+                    "Answer": "I did not buy any accessory with my TV."
+                },
+                {
+                    "Question": "What type of case did you buy?",
+                    "Answer": "I did not buy any case."
+                },
+                {
+                    "Question": "Did you buy a smart TV?",
+                    "Answer": "I bought a smart TV."
+                },
+                {
+                    "Question": "What do you think about your purchase?",
+                    "Answer": "I am very happy with my purchase."
+                }
+            ],
+            "Output": "Some possible suggestions for products to buy along with a 4K HD television would be: -A 4K HD Blu-ray player -An HDMI cable -A soundbar -A TV stand"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/uVM2dGLZngszxQPHIcdCTgr5?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lXrSbxRJPXsRKgcZmDAmZwMd?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ehPoi3Hjr6301LS2WjKqZS39?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1sUWFY7xFaoNPkqigwIndJRJVE6YdntXO?usp=sharing"
+}

@@ -1,0 +1,156 @@
+{
+    "Contributor": "shahnishtha",
+    "Domain": "Liberal Science",
+    "Task": "Criminal Justice",
+    "Prompt": {
+        "pre_question_prompt": "I have studied Liberal Science and I am an expert in criminal law. I will ask some questions to collect information about the type and severity of the crime and then I will use the information to find  what section it falls into and estimate the punishment.",
+        "task_specific_prompt": "Based on the above information, find out the section the crimes fall into and what the estimated punishment is."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Was the crime committed with intent?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Was the crime committed with planning and forethought?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Was the crime committed with a weapon?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Did the crime result in serious bodily injury?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Did the crime result in the death of the victim?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Where did crime happen?",
+                    "Answer": "The crime happened in a public place."
+                },
+                {
+                    "Question": "What was the relationship between the victim and the offender?",
+                    "Answer": "The victim and offender were strangers."
+                },
+                {
+                    "Question": "What was the age of the victim?",
+                    "Answer": "The victim was over the age of 18."
+                },
+                {
+                    "Question": "What was the age of the offender?",
+                    "Answer": "The offender was over the age of 18."
+                },
+                {
+                    "Question": "Was the offender under the influence of drugs or alcohol at the time of the crime?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "The crime falls into section 1 of the criminal code and the estimated punishment is life imprisonment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Was the crime committed with intent?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Was the crime committed with planning and forethought?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Was the crime committed with a weapon?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Did the crime result in serious bodily injury?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Did the crime result in the death of the victim?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Where did crime happen?",
+                    "Answer": "The crime happened in a public place."
+                },
+                {
+                    "Question": "What was the relationship between the victim and the offender?",
+                    "Answer": "The victim and offender were strangers."
+                },
+                {
+                    "Question": "What was the age of the victim?",
+                    "Answer": "The age of victim was 14."
+                },
+                {
+                    "Question": "What was the age of the offender?",
+                    "Answer": "The offender was over the age of 18."
+                },
+                {
+                    "Question": "Was the offender under the influence of drugs or alcohol at the time of the crime?",
+                    "Answer": "Yes"
+                }
+            ],
+            "Output": "The crime falls under section 302 of the Indian Penal Code and the estimated punishment is life imprisonment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Was the crime committed with intent?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Was the crime committed with planning and forethought?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Was the crime committed with a weapon?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Did the crime result in serious bodily injury?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Did the crime result in the death of the victim?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "Where did crime happen?",
+                    "Answer": "The crime happened on a private property."
+                },
+                {
+                    "Question": "What was the relationship between the victim and the offender?",
+                    "Answer": "The victim and offender were friends."
+                },
+                {
+                    "Question": "What was the age of the victim?",
+                    "Answer": "The age of victim was 21."
+                },
+                {
+                    "Question": "What was the age of the offender?",
+                    "Answer": "The age of victim was 23."
+                },
+                {
+                    "Question": "Was the offender under the influence of drugs or alcohol at the time of the crime?",
+                    "Answer": "Yes"
+                }
+            ],
+            "Output": "The crime falls into section 2 of the criminal code and the estimated punishment is 5-10 years imprisonment."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/NDqX7uc5RTc2F9mLHSrEOl7r?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/khRJtw91QdElou7gfaNr52s3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/OHqwKD0MHtBmmATw9zlphF6K?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1m45hk-vCRmnbm-0Di6zkSc2lHvFyBhR_/view?usp=sharing",
+        "https://drive.google.com/file/d/1Hr-z-nLl7CDOi8L2R3SMmrazfFxpwws9/view?usp=sharing",
+        "https://drive.google.com/file/d/1TSSrJuU7oDgYGxbet91Pa_RbSRBHP4c_/view?usp=sharing"
+    ]
+}

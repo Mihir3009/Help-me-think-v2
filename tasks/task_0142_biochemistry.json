@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Biochemistry",
+    "Task": "Hypothesize about non-carbon based lifeforms",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert biochemist. I will ask ten questions to collect information and then I will use the information to hypothesize about the existence of non-carbon based lifeforms on other planets, such as silicon based life. I will also discuss the possible presence of a shadow biosphere on earth.",
+        "task_specific_prompt": "Using the above information, hypothesize about the possibility of non-carbon based life/silicon based life/a shadow biosphere and elaborate over several paragraphs:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the chemical composition of the universe?",
+                    "Answer": "1. The chemical composition of the universe is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "2. What is the chemical composition of stars?",
+                    "Answer": "2. The chemical composition of stars is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "3. What is the chemical composition of planets?",
+                    "Answer": "3. The chemical composition of planets is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "4. What is the chemical composition of living organisms on Earth?",
+                    "Answer": "4. The chemical composition of living organisms on Earth is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "5. What is the difference between carbon-based and silicon-based life?",
+                    "Answer": "5. The difference between carbon-based and silicon-based life is that carbon-based life uses carbon as the basis for its biological molecules, while silicon-based life uses silicon as the basis for its biological molecules."
+                },
+                {
+                    "Question": "6. What are the conditions necessary for life?",
+                    "Answer": "6. The conditions necessary for life are water, a suitable temperature, and an energy source."
+                },
+                {
+                    "Question": "7. Can life exist without water?",
+                    "Answer": "7. Life can exist without water if it uses another liquid as a solvent, such as ammonia or methane."
+                },
+                {
+                    "Question": "8. What are the conditions necessary for carbon-based life?",
+                    "Answer": "8. The conditions necessary for carbon-based life are a carbon-based solvent, such as water, and an energy source."
+                },
+                {
+                    "Question": "9. What are the conditions necessary for silicon-based life?",
+                    "Answer": "9. The conditions necessary for silicon-based life are a silicon-based solvent, such as methane, and an energy source."
+                },
+                {
+                    "Question": "10. Is there evidence for the existence of non-carbon based life on other planets?",
+                    "Answer": "10. There is no evidence for the existence of non-carbon based life on other planets."
+                }
+            ],
+            "Output": "\nWhile there is no current evidence for the existence of non-carbon based life on other planets, the possibility cannot be ruled out. If carbon-based life is not the only type of life in the universe, it is possible that a shadow biosphere of non-carbon based life exists on Earth. This shadow biosphere could be composed of silicon-based life forms that use methane as a solvent. If such life forms exist, they would be difficult to detect because they would be chemically distinct from carbon-based life. However, if they do exist, they could have a significant impact on the methane cycle on Earth."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the chemical composition of the universe?",
+                    "Answer": "1. The chemical composition of the universe is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "2. What is the chemical composition of stars?",
+                    "Answer": "2. The chemical composition of stars is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "3. What is the chemical composition of planets?",
+                    "Answer": "3. The chemical composition of planets is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "4. What is the chemical composition of living organisms on Earth?",
+                    "Answer": "4. The chemical composition of living organisms on Earth is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "5. What is the difference between carbon-based and silicon-based life?",
+                    "Answer": "5. The difference between carbon-based and silicon-based life is that carbon-based life uses carbon as the basis for its biological molecules, while silicon-based life uses silicon as the basis for its biological molecules."
+                },
+                {
+                    "Question": "6. What are the conditions necessary for life?",
+                    "Answer": "6. The conditions necessary for life are water, a suitable temperature, and an energy source."
+                },
+                {
+                    "Question": "7. Can life exist without water?",
+                    "Answer": "7. Life can exist without water if it uses another liquid as a solvent, such as ammonia or methane."
+                },
+                {
+                    "Question": "8. What are the conditions necessary for carbon-based life?",
+                    "Answer": "8. The conditions necessary for carbon-based life are a carbon-based solvent, such as water, and an energy source."
+                },
+                {
+                    "Question": "9. What are the conditions necessary for silicon-based life?",
+                    "Answer": "9. The conditions necessary for silicon-based life are a silicon-based solvent, such as methane, and an energy source."
+                },
+                {
+                    "Question": "10. Is there evidence for the existence of non-carbon based life on other planets?",
+                    "Answer": "10. There is no evidence for the existence of non-carbon based life on other planets."
+                }
+            ],
+            "Output": "It is possible that silicon based life exists on other planets, although there is no evidence for it at this time. The conditions necessary for silicon based life are a silicon-based solvent, such as methane, and an energy source. If these conditions are present, then silicon based life could theoretically exist."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the chemical composition of the universe?",
+                    "Answer": "1. The chemical composition of the universe is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "2. What is the chemical composition of stars?",
+                    "Answer": "2. The chemical composition of stars is mostly hydrogen and helium."
+                },
+                {
+                    "Question": "3. What is the chemical composition of planets?",
+                    "Answer": "3. The chemical composition of planets is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "4. What is the chemical composition of living organisms on Earth?",
+                    "Answer": "4. The chemical composition of living organisms on Earth is mostly nitrogen, oxygen, carbon, and water."
+                },
+                {
+                    "Question": "5. What is the difference between carbon-based and silicon-based life?",
+                    "Answer": "5. The difference between carbon-based and silicon-based life is that carbon-based life uses carbon as the basis for its biological molecules, while silicon-based life uses silicon as the basis for its biological molecules."
+                },
+                {
+                    "Question": "6. What are the conditions necessary for life?",
+                    "Answer": "6. The conditions necessary for life are water, a suitable temperature, and an energy source."
+                },
+                {
+                    "Question": "7. Can life exist without water?",
+                    "Answer": "7. Life can exist without water if it uses another liquid as a solvent, such as ammonia or methane."
+                },
+                {
+                    "Question": "8. What are the conditions necessary for carbon-based life?",
+                    "Answer": "8. The conditions necessary for carbon-based life are a carbon-based solvent, such as water, and an energy source."
+                },
+                {
+                    "Question": "9. What are the conditions necessary for silicon-based life?",
+                    "Answer": "9. The conditions necessary for silicon-based life are a silicon-based solvent, such as methane, and an energy source."
+                },
+                {
+                    "Question": "10. Is there evidence for the existence of non-carbon based life on other planets?",
+                    "Answer": "10. There is no evidence for the existence of non-carbon based life on other planets."
+                }
+            ],
+            "Output": "\nIt is possible that non-carbon based life exists on other planets. However, there is no definitive evidence for this. Silicon-based life is one possible type of non-carbon based life. The conditions necessary for silicon-based life are a silicon-based solvent, such as methane, and an energy source. Another possibility is that life exists without water if it uses another liquid as a solvent, such as ammonia or methane. However, there is no definitive evidence for the existence of non-carbon based\nlife on other planets"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/uP8HejZB80pmoetlyQZoyZs4?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/5DWK5Hl.png"
+}

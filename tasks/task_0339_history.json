@@ -1,0 +1,232 @@
+{
+    "Contributor": "hardyadam",
+    "Domain": "History",
+    "Task": "1. Curriculum on Ancient Egypt",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Egyptian history. I will ask some questions to collect information and then I will use the information to generate a curriculum for you to learn Egyptian history.",
+        "task_specific_prompt": "Using the questions and answers above, write a brief educational summary of Ancient Egypt and generate a curriculum for further education. Include recommended readings and resources."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you know about Ancient Egypt?",
+                    "Answer": "Very little"
+                },
+                {
+                    "Question": "What specifically would you like to learn about Ancient Egypt?",
+                    "Answer": "I would like to learn about their theology and architecture as well as how their theology and architecture influenced each other and their way of life."
+                },
+                {
+                    "Question": "What time period are you interested in learning about?",
+                    "Answer": "I am interested in learning about Ancient Egypt from its earliest history up until the end of the Egyptian empire."
+                },
+                {
+                    "Question": "What format do you prefer for your curriculum?",
+                    "Answer": "I prefer a curriculum that is mostly text-based with some accompanying images."
+                },
+                {
+                    "Question": "Would you like me to include suggested readings and resources?",
+                    "Answer": "Yes, that would be very helpful."
+                },
+                {
+                    "Question": "Are you interested in learning about Ancient Egyptian hieroglyphs?",
+                    "Answer": "To an extent, yes, but it is not my primary interest."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian art?",
+                    "Answer": "Yes, I would find that very interesting."
+                },
+                {
+                    "Question": "Would you like to learn about the daily life of Ancient Egyptians?",
+                    "Answer": "Yes, I would also find that interesting."
+                },
+                {
+                    "Question": "Would you like to learn about the political history of Ancient Egypt?",
+                    "Answer": "Yes, that is something I am interested in."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian religion?",
+                    "Answer": "Yes, their religion and theology is one of my main interests."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian science and technology?",
+                    "Answer": "Yes, I would find that fascinating."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian warfare?",
+                    "Answer": "Yes, that is something I am interested in."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian trade and commerce?",
+                    "Answer": "Yes, though I am less interested in that."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian architecture?",
+                    "Answer": "Yes, that is one of my main interests."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian literature?",
+                    "Answer": "Yes, I would find that interesting."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian music and dance?",
+                    "Answer": "I am interested in learning about their music but not particularly interested in learning about their dance."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian cuisine?",
+                    "Answer": "Not particularly."
+                }
+            ],
+            "Output": "Ancient Egypt was a fascinating and influential civilization that existed for over 3000 years. They were experts in many fields, including religion, architecture, art, and warfare. There is much to learn about Ancient Egyptian history, and the following curriculum is designed to give you a comprehensive overview of this incredible civilization.Week 1:-Read about the history of Ancient Egypt from its earliest origins up until the end of the Egyptian empire.-Learn about the daily life of Ancient Egyptians, including their homes, food, clothing, and work.-Study the theology and religion of Ancient Egypt, including their beliefs about the afterlife and their pantheon of gods and goddesses.-Explore the architecture of Ancient Egypt, including the construction of the pyramids and the temples of Karnak and Luxor.Week 2:-Read about the art of Ancient Egypt, including painting, sculpture, and hieroglyphs.-Learn about the music and dance of Ancient Egypt.-Discover the science and technology of Ancient Egypt, including their knowledge of astronomy, mathematics, and medicine.-Study the warfare of Ancient Egypt, including their military tactics and weapons.Week 3:-Read about the political history of Ancient Egypt, from the unification of Egypt under the Pharaoh Menes to the reign of Cleopatra VII.-Learn about the trade and commerce of Ancient Egypt, including their extensive network of trade routes and the goods they traded.-Explore the literature of Ancient Egypt, including their famous works of poetry, drama, and prose.-Discover the cuisine of Ancient Egypt and learn about their unique and flavorful dishes.Recommended readings and resources:-The History of Ancient Egypt by John Romer-The Daily Life of the Ancient Egyptians by Bob Brier and Hoyt Hobbs-The Religion of the Ancient Egyptians by George Hart-The Architecture of Ancient Egypt by Dieter Arnold-The Art of Ancient Egypt by Gay Robins"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you know about Ancient Egypt?",
+                    "Answer": "A large amount. I would prefer an advanced curriculum."
+                },
+                {
+                    "Question": "What specifically would you like to learn about Ancient Egypt?",
+                    "Answer": "I am primarily interested in their political and warfare history."
+                },
+                {
+                    "Question": "What time period are you interested in learning about?",
+                    "Answer": "The entirety of it."
+                },
+                {
+                    "Question": "What format do you prefer for your curriculum?",
+                    "Answer": "I prefer a curriculum that is mostly text-based."
+                },
+                {
+                    "Question": "Would you like me to include suggested readings and resources?",
+                    "Answer": "That would be beneficial."
+                },
+                {
+                    "Question": "Are you interested in learning about Ancient Egyptian hieroglyphs?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian art?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Would you like to learn about the daily life of Ancient Egyptians?",
+                    "Answer": "If it correlates to politics and warfare, yes."
+                },
+                {
+                    "Question": "Would you like to learn about the political history of Ancient Egypt?",
+                    "Answer": "That is one of my main interests."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian religion?",
+                    "Answer": "If it correlates to their politics and warfare."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian science and technology?",
+                    "Answer": "Only where it relates to politics and warfare."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian warfare?",
+                    "Answer": "Yes, that is my other main interest."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian trade and commerce?",
+                    "Answer": "Only where it relates to politics and warfare."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian architecture?",
+                    "Answer": "Only where it relates to politics and warfare."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian literature?",
+                    "Answer": "Only where it relates to politics and warfare."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian music and dance?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian cuisine?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "Recommended readings and resources:-A History of Ancient Egypt by John Romer-The Oxford History of Ancient Egypt by Ian Shaw-The Cambridge History of Ancient Egypt by Bruce G. Trigger- Ancient Egypt: A Very Short Introduction by Ian ShawThe curriculum should cover the following topics:-The history of Ancient Egyptian politics-The history of Ancient Egyptian warfare-The history of Ancient Egyptian trade and commerce-The history of Ancient Egyptian architecture-The history of Ancient Egyptian literatureThe curriculum should be text-based and should include suggested readings and resources."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much do you know about Ancient Egypt?",
+                    "Answer": "A decent amount. Not a lot overall."
+                },
+                {
+                    "Question": "What specifically would you like to learn about Ancient Egypt?",
+                    "Answer": "I am primarily interested in their art."
+                },
+                {
+                    "Question": "What time period are you interested in learning about?",
+                    "Answer": "Times of peace, preferably."
+                },
+                {
+                    "Question": "What format do you prefer for your curriculum?",
+                    "Answer": "I prefer a curriculum that is mostly image-based but has some text."
+                },
+                {
+                    "Question": "Would you like me to include suggested readings and resources?",
+                    "Answer": "Yes, that would be perfect."
+                },
+                {
+                    "Question": "Are you interested in learning about Ancient Egyptian hieroglyphs?",
+                    "Answer": "Yes, that would probably go hand-in-hand with their art."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian art?",
+                    "Answer": "That is my main interest."
+                },
+                {
+                    "Question": "Would you like to learn about the daily life of Ancient Egyptians?",
+                    "Answer": "As much as it pertains to their art."
+                },
+                {
+                    "Question": "Would you like to learn about the political history of Ancient Egypt?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian religion?",
+                    "Answer": "Yes as it almost certainly relates to their art."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian science and technology?",
+                    "Answer": "Only where it relates to  their art."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian warfare?",
+                    "Answer": "I would prefer not to."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian trade and commerce?",
+                    "Answer": "Not particularly."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian architecture?",
+                    "Answer": "Absolutely."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian literature?",
+                    "Answer": "That likely relates to their art, so yes."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian music and dance?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Would you like to learn about the history of Ancient Egyptian cuisine?",
+                    "Answer": "Yes."
+                }
+            ],
+            "Output": "Ancient Egypt was a time period of great artistic achievement. The ancient Egyptians were known for their paintings, sculptures, and hieroglyphs. They were also known for their architecture, music, and dance. This curriculum will focus on the history of Ancient Egyptian art.Readings:-The Art of Ancient Egypt, by Gay Robins- Ancient Egyptian Art, by Catharine H. Roehrig- Egyptian Art in the Age of the Pyramids, by Dorothea ArnoldResources:-The British Museum: Ancient Egypt-The Egyptian Museum in Cairo-The Metropolitan Museum of Art: Ancient Egypt-The National Geographic Society: Ancient Egypt- UNESCO: Ancient Egyptian Heritage Sites"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/uypD1W3qNxQXEkmBUg97NwoJ?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1-n6jM6ko_bGJpxRtGp-PAJwpfCp2MK5N/view?usp=sharing"
+}

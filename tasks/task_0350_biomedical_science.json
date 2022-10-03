@@ -1,0 +1,152 @@
+{
+    "Contributor": "kesanavarun",
+    "Domain": "Biomedical Science",
+    "Task": "Suggest best ways to dispose your biomedical waste",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert biosafety manager. I will ask some questions to collect information and then I will use the information to suggest best ways to dispose your biomedical waste.",
+        "task_specific_prompt": "Suggest best ways to dispose biomedical waste using the questions and his answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What types of biomedical waste do you generate?",
+                    "Answer": "We generate  infectious and pathological biomedical waste"
+                },
+                {
+                    "Question": "How much biomedical waste do you generate per day?",
+                    "Answer": "We generate about 10 kg of biomedical waste per day"
+                },
+                {
+                    "Question": "What are your current methods for disposing of biomedical waste?",
+                    "Answer": "We currently incinerate our biomedical waste"
+                },
+                {
+                    "Question": "Do you have any concerns about your current methods for disposing of biomedical waste?",
+                    "Answer": "We are concerned about the environmental impact of incinerating our biomedical waste"
+                },
+                {
+                    "Question": "What are your goals for disposing of biomedical waste?",
+                    "Answer": "We would like to find a more environmentally friendly method for disposing of our biomedical waste"
+                },
+                {
+                    "Question": "What are some potential obstacles to achieving your goals?",
+                    "Answer": "We are not sure what other options are available to us and we are concerned about the cost of implementing a new disposal method"
+                },
+                {
+                    "Question": "Are you willing to invest in new biomedical waste disposal methods?",
+                    "Answer": "Yes, we are willing to invest in new biomedical waste disposal methods"
+                },
+                {
+                    "Question": "What are your thoughts on autoclaving biomedical waste?",
+                    "Answer": "We think autoclaving biomedical waste is a good option"
+                },
+                {
+                    "Question": "What are your thoughts on shredding and incinerating biomedical waste?",
+                    "Answer": "We think shredding and incinerating biomedical waste is a not environment friendly."
+                },
+                {
+                    "Question": "What are your thoughts on using a medical waste landfill?",
+                    "Answer": "We think using a medical waste landfill is a bad option."
+                }
+            ],
+            "Output": "The best way to dispose of biomedical waste would be to autoclave it. This method is effective in killing pathogens and is also more environmentally friendly than incineration."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of biomedical waste are you looking to dispose of?",
+                    "Answer": "We are looking to dispose of hazardous biomedical waste, such as used needles and sharps, cultures and stocks of infectious agents, and human tissue and body fluids."
+                },
+                {
+                    "Question": "What is the volume of biomedical waste that you need to dispose of?",
+                    "Answer": "We need to dispose of about two cubic feet of biomedical waste."
+                },
+                {
+                    "Question": "What is the frequency with which you need to dispose of this waste?",
+                    "Answer": "We need to dispose of this waste on a daily basis."
+                },
+                {
+                    "Question": "What are your preferred methods for disposing of biomedical waste?",
+                    "Answer": "We would prefer to dispose of our biomedical waste through environment friendly and safe methods."
+                },
+                {
+                    "Question": "What are your thoughts on incineration?",
+                    "Answer": "Incineration is not environment friendly and expensive."
+                },
+                {
+                    "Question": "What are your thoughts on autoclaving?",
+                    "Answer": "Autoclaving is a safe and effective method."
+                },
+                {
+                    "Question": "What are your thoughts on chemical disinfection?",
+                    "Answer": "Chemical disinfection is a safe and effective method."
+                },
+                {
+                    "Question": "What are your thoughts on landfilling?",
+                    "Answer": "Landfilling is not environment friendly and we don't prefer using this method ."
+                },
+                {
+                    "Question": "What are your thoughts on plasma gasification?",
+                    "Answer": "Plasma gasification is environmentally friendly and effective."
+                },
+                {
+                    "Question": "What are your thoughts on using a medical waste disposal company?",
+                    "Answer": "We would prefer to use a medical waste disposal company that is environment friendly and uses safe disposal methods."
+                }
+            ],
+            "Output": "Based on the information provided, the best ways to dispose of this biomedical waste would be through autoclaving, chemical disinfection, or plasma gasification. Using a medical waste disposal company that employs these methods would be the best option."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of biomedical waste are you looking to dispose of?",
+                    "Answer": "We are looking to dispose of radioactive waste."
+                },
+                {
+                    "Question": "What is the approximate volume of waste that you need to dispose of?",
+                    "Answer": "We have approximately 8 barrels of waste that need to be disposed of."
+                },
+                {
+                    "Question": "What is the radioactivity level of the waste?",
+                    "Answer": "The radioactivity level of the waste is low."
+                },
+                {
+                    "Question": "What is the type of container that the waste is stored in?",
+                    "Answer": "The waste is stored in a drum."
+                },
+                {
+                    "Question": "Where is the waste located?",
+                    "Answer": "The waste is located in Arizona, United States."
+                },
+                {
+                    "Question": "Are there any special disposal requirements that need to be followed?",
+                    "Answer": "Yes, the waste needs to be disposed of in a licensed radioactive waste disposal facility."
+                },
+                {
+                    "Question": "What is the preferred method of disposal?",
+                    "Answer": "We have no preferred method radioactive waste disposal facility but we will adhere to the government regulations."
+                },
+                {
+                    "Question": "What is the budget for disposing the waste?",
+                    "Answer": "We have a budget of $5000 for disposing the waste."
+                },
+                {
+                    "Question": "When does the waste need to be disposed of?",
+                    "Answer": "We need to dispose of the waste as soon as possible."
+                },
+                {
+                    "Question": "What are the consequences of not disposing the waste?",
+                    "Answer": "If the waste is not disposed of properly, it could cause environmental contamination and pose severe health risk to people and animals."
+                }
+            ],
+            "Output": "The best way to dispose of biomedical waste is to take it to a licensed radioactive waste disposal facility. This will ensure that the waste is properly disposed of and will not pose any risks to the environment or to people's health."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/6W3DfywvXyfIgRsI1t6k7YxR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NL7Y4NDNkfsAjrtr7WPpBca0?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Dqr10AbD24bhqJ7e5siUTQMs?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1_-zreMMUTBJ0dQdqfIIJSoRxSePP7wy9?usp=sharing"
+}

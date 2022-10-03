@@ -1,0 +1,192 @@
+{
+    "Contributor": "sangarajusrihariraju",
+    "Domain": "Shopping",
+    "Task": "reseller",
+    "Prompt": {
+            "pre_question_prompt": "I am an expert reselling agent. I will ask some questions to collect information and then I will use the information to find best product for you",
+            "task_specific_prompt": "Write a reselling product recommendation using the questions and answers above"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "200 rs"
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "200 rs"
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "200 rs"
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "I am interested in products that are under 200 rs."
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "I am interested in products that are under 200 rs."
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "I am interested in books"
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "I am interested in books"
+                },
+                {
+                    "Question": "What type of books are you interested in?",
+                    "Answer": "Anime"
+                },
+                {
+                    "Question": "What type of books are you interested in?",
+                    "Answer": "Anime and fictional"
+                },
+                {
+                    "Question": "What type of books are you interested in?",
+                    "Answer": "Anime and fictional"
+                }
+            ],
+            "Output": "I recommend that you buy the book 'Anime and Fictional' for 200 rs."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$500"
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "laptops"
+                },
+                {
+                    "Question": "What are your preferred features in a laptop?",
+                    "Answer": "screen size, battery life, processor"
+                },
+                {
+                    "Question": "What is your preferred brand?",
+                    "Answer": "Dell"
+                },
+                {
+                    "Question": "What is your preferred screen size?",
+                    "Answer": "15 inches"
+                },
+                {
+                    "Question": "What is your preferred processor?",
+                    "Answer": "Intel Core i5"
+                },
+                {
+                    "Question": "What is your preferred battery life?",
+                    "Answer": "8 hours"
+                },
+                {
+                    "Question": "What is your preferred price range?",
+                    "Answer": "$500"
+                },
+                {
+                    "Question": "What is your preferred type of laptop?",
+                    "Answer": "2 in 1"
+                },
+                {
+                    "Question": "What is your preferred brand?",
+                    "Answer": "Lenovo"
+                }
+            ],
+            "Output": "The Lenovo Yoga C940 2-in-1 laptop is the perfect choice for you. It has a 15-inch screen, an Intel Core i5 processor, and a battery life of 8 hours. It is also very reasonably priced at $500."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$5000"
+                },
+                {
+                    "Question": "What type of products are you interested in?",
+                    "Answer": "cars"
+                },
+                {
+                    "Question": " What is your preferred brand?",
+                    "Answer": "Ferrari"
+                },
+                {
+                    "Question": "What is your preferred model?",
+                    "Answer": "latest model"
+                },
+                {
+                    "Question": "What is your preferred color?",
+                    "Answer": "yellow"
+                },
+                {
+                    "Question": "Do you have any other specific requirements?",
+                    "Answer": "it shouldn't be older than 5 years"
+                },
+                {
+                    "Question": "Would you like me to find a product that meets all of your requirements or do you have a specific product in mind?",
+                    "Answer": "I would like you to find a product that meets all of my requirements"
+                },
+                {
+                    "Question": "Would you like me to find a product that is available now or do you want me to find a product that will be available in the future?",
+                    "Answer": "both works"
+                },
+                {
+                    "Question": "Do you want me to find a product that is new or used?",
+                    "Answer": "used"
+                },
+                {
+                    "Question": "Do you want me to find a product that is certified or non-certified",
+                    "Answer": "anyhting works"
+                },
+                {
+                    "Question": "Would you like me to find a product that is under warranty or not under warranty?",
+                    "Answer": "both works"
+                },
+                {
+                    "Question": "Do you have a preferred price range?",
+                    "Answer": "less than $10000"
+                },
+                {
+                    "Question": "What is your preferred payment method?",
+                    "Answer": "credit card"
+                },
+                {
+                    "Question": "Do you have a preferred financing option?",
+                    "Answer": "0% financing"
+                },
+                {
+                    "Question": "Do you have a preferred delivery method?",
+                    "Answer": "pick up"
+                },
+                {
+                    "Question": "Do you have a preferred location?",
+                    "Answer": "Phoenix"
+                },
+                {
+                    "Question": "Do you have a preferred seller?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have a preferred dealership?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have a preferred brand?",
+                    "Answer": "Audi"
+                },
+                {
+                    "Question": "Do you have a preferred model?",
+                    "Answer": "A4"
+                }
+            ],
+            "Output": "I recommend that you purchase a used Audi A4 that is less than five years old and is certified. The price range should be under $10000 and the preferred payment method is credit card. The preferred delivery method is pick up and the preferred location is Phoenix."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/lEAYHUKXQRJLTEsP0RbmEscH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Rbgt0jGI3xRF0CIUnSzi2DW3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DDmnGYhp0Ltl3C5xtuGBSJzK?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1SPrN2OJB0Mkvd8eXN9IKbD2t98oW2NgG?usp=sharing"
+}

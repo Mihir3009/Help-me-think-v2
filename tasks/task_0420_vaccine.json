@@ -1,0 +1,152 @@
+{
+    "Contributor": "linli",
+    "Domain": "Vaccine",
+    "Task": "Encourage everyone to get vaccinated",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert of vaccine. I will ask some questions to collect information and then I will use the information to generate a story to encourage everyone to get vaccinated.",
+        "task_specific_prompt": "Write a story that can encourage everyone to get vaccinated using the questions and answers above. Include the benefits of vaccine in the story."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Why are vaccines important?",
+                    "Answer": "Vaccines are important because they help protect people from diseases. Vaccines work by injecting a person with a \u201cdead\u201d or \u201cmodified\u201d form of the virus. As that person's immune system fights off the \u201cdead\u201d virus, the immune system is also preparing to fight the live, or actual, virus. If you are ever exposed to the disease, your immune system is primed and ready to fight it off, because it has done so before."
+                },
+                {
+                    "Question": "What are the benefits of vaccines?",
+                    "Answer": "The benefits of vaccines are that they help protect people from diseases. Vaccines work by injecting a person with a \u201cdead\u201d or \u201cmodified\u201d form of the virus. As that person's immune system fights off the \u201cdead\u201d virus, the immune system is also preparing to fight the live, or actual, virus. If you are ever exposed to the disease, your immune system is primed and ready to fight it off, because it has done so before."
+                },
+                {
+                    "Question": "What are the risks of not being vaccinated?",
+                    "Answer": "The risks of not being vaccinated are that you are more susceptible to contracting the disease. Vaccines help prepare your immune system in advance so that if you are ever exposed to the disease, your body is more likely to fight it off."
+                },
+                {
+                    "Question": "What are the risks of getting vaccinated?",
+                    "Answer": "There are always risks associated with any medical procedure, including vaccinations. However, the risks of getting vaccinated are far outweighed by the risks of not being vaccinated. Vaccines are safe and effective, and they help protect people from diseases."
+                },
+                {
+                    "Question": "What should I do if I have questions about vaccines?",
+                    "Answer": "If you have questions about vaccines, you should speak to your healthcare provider. They will be able to give you the most accurate and up-to-date information about vaccines."
+                },
+                {
+                    "Question": "Are there any side effects of vaccines?",
+                    "Answer": "There can be side effects associated with any medical procedure, including vaccinations. However, the side effects of vaccines are usually minor and go away on their own."
+                },
+                {
+                    "Question": "What are the most common side effects of vaccines?",
+                    "Answer": "The most common side effects of vaccines are mild and include things like pain at the injection site, redness, and swelling. These side effects are usually temporary and go away on their own."
+                },
+                {
+                    "Question": "How can I reduce my risk of side effects from vaccines?",
+                    "Answer": "There is no guaranteed way to prevent side effects from vaccines, but there are some things you can do to reduce your risk. Make sure to drink plenty of fluids and get rest after you receive a vaccine. You should also avoid alcohol for 24 hours after you receive a vaccine."
+                },
+                {
+                    "Question": "Should I get vaccinated if I'm pregnant?",
+                    "Answer": "Yes, you should get vaccinated if you're pregnant. Pregnant women are at an increased risk for some diseases, so it's important to get vaccinated to help protect yourself and your baby."
+                },
+                {
+                    "Question": "Should I get vaccinated if I have a chronic illness?",
+                    "Answer": "Yes, you should get vaccinated if you have a chronic illness. People with chronic illnesses are at an increased risk for some diseases, so it's important to get vaccinated to help protect yourself."
+                }
+            ],
+            "Output": "It's important for everyone to get vaccinated to help protect themselves and others from diseases. Vaccines are safe and effective, and they help prepare your immune system in advance so that if you are ever exposed to the disease, your body is more likely to fight it off. There are always risks associated with any medical procedure, but the risks of not being vaccinated are far greater. If you have questions about vaccines, speak to your healthcare provider. They will be able to give you the most accurate and up-to-date information."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Why are vaccines important?",
+                    "Answer": "From a statistical view, people that are vaccinated are less likely to get infected by the disease. Even if they are infected, the severity will be mitigated."
+                },
+                {
+                    "Question": "How do vaccines work?",
+                    "Answer": "Vaccines work by protecting people from diseases. The vaccine is made from a weakened form of the virus. As the person\u2019s immune system fights off the weakened virus, the immune system is also preparing to fight the full-strength virus."
+                },
+                {
+                    "Question": "Who should get vaccinated?",
+                    "Answer": "Ideally, everyone should get vaccinated. However, some people should not get vaccinated due to certain medical conditions. These people should consult with their doctor to see if it is safe for them to get vaccinated."
+                },
+                {
+                    "Question": "What are the side effects of vaccines?",
+                    "Answer": "The most common side effects of vaccines are soreness and redness at the injection site. Some people may also experience a fever, headache, or body aches. These side effects are usually mild and go away on their own."
+                },
+                {
+                    "Question": "What are the risks of not getting vaccinated?",
+                    "Answer": "The risks of not getting vaccinated are much greater than the risks of getting vaccinated. When people are not vaccinated, they are at a much higher risk of contracting the disease. They are also at a higher risk of developing a severe case of the disease if they do contract it."
+                },
+                {
+                    "Question": "What are the benefits of getting vaccinated?",
+                    "Answer": "The benefits of getting vaccinated are that you are protecting yourself from the disease. You are also protecting others around you from the disease. When enough people are vaccinated, it helps to prevent the spread of the disease."
+                },
+                {
+                    "Question": "How can I get vaccinated?",
+                    "Answer": "You can get vaccinated by talking to your doctor or a local health department."
+                },
+                {
+                    "Question": "What should I do if I have questions about vaccines?",
+                    "Answer": "If you have questions about vaccines, you should talk to your doctor or a local health department."
+                },
+                {
+                    "Question": "Is there anything else I should know about vaccines?",
+                    "Answer": "It is important to remember that vaccines are not 100% effective. However, they are the best way to protect yourself and others from the disease."
+                },
+                {
+                    "Question": "What are the benefits of vaccinating my child?",
+                    "Answer": "The benefits of vaccinating your child are that they are less likely to get the disease. They are also less likely to develop a severe case of the disease if they do contract it."
+                }
+            ],
+            "Output": "It is important for everyone to be vaccinated in order to protect themselves and others from disease. Vaccines are made from a weakened form of the virus and help the person\u2019s immune system fight off the virus. Some people should not get vaccinated due to certain medical conditions and should consult with their doctor. The most common side effects of vaccines are soreness and redness at the injection site. The benefits of vaccinating your child are that they are less likely to get the disease."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the benefits of vaccines?",
+                    "Answer": "Vaccines are one of the most important tools we have to protect ourselves and our families from serious diseases. They work by protecting us from the viruses, bacteria, or other organisms that cause these diseases. Vaccines help our bodies build immunity against these diseases so that we can stay healthy and avoid getting sick."
+                },
+                {
+                    "Question": "What are the risks of not being vaccinated?",
+                    "Answer": "Not being vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy."
+                },
+                {
+                    "Question": "What should I do if I am not vaccinated?",
+                    "Answer": "If you are not vaccinated, you should talk to your doctor about getting vaccinated. Vaccines are safe and effective, and they can help protect you and your family from serious diseases."
+                },
+                {
+                    "Question": "What are the side effects of vaccines?",
+                    "Answer": "Most people who get vaccinated do not have any side effects. Some people may have a mild reaction, such as a sore arm or low-grade fever. Serious side effects from vaccines are rare."
+                },
+                {
+                    "Question": "How do I know if a vaccine is safe for me?",
+                    "Answer": "The best way to know if a vaccine is safe for you is to talk to your doctor. Your doctor can tell you about the risks and benefits of the vaccine and help you make an informed decision."
+                },
+                {
+                    "Question": "What should I do if I have a reaction to a vaccine?",
+                    "Answer": "If you have a reaction to a vaccine, you should talk to your doctor. Your doctor can help you determine if the reaction was serious and can offer advice on how to prevent future reactions."
+                },
+                {
+                    "Question": "Are there any other benefits to vaccines?",
+                    "Answer": "In addition to protecting you from disease, vaccines can also save lives. When enough people are vaccinated, it helps to protect those who are unable to be vaccinated, such as infants, pregnant women, and people with certain medical conditions. Vaccines also help to reduce the spread of disease, which can save lives and help to keep our communities healthy."
+                },
+                {
+                    "Question": "What are the risks of getting a disease if I am vaccinated?",
+                    "Answer": "The risks of getting a disease if you are vaccinated are very low. However, there is always a small chance that you could get the disease if you are exposed to it."
+                },
+                {
+                    "Question": "What should I do if I am worried about getting a disease?",
+                    "Answer": "If you are worried about getting a disease, you should talk to your doctor. Your doctor can talk to you about the risks and benefits of vaccination and help you make an informed decision."
+                },
+                {
+                    "Question": "What are the risks of not getting vaccinated?",
+                    "Answer": "Not getting vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy."
+                }
+            ],
+            "Output": "It\u2019s important to get vaccinated to protect yourself and your family from serious diseases. Vaccines work by protecting us from the viruses, bacteria, or other organisms that cause these diseases. They help our bodies build immunity against these diseases so that we can stay healthy and avoid getting sick. Not being vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy. If you are not vaccinated, you should talk to your doctor about getting vaccinated. Vaccines are safe and effective, and they can help protect you and your family from serious diseases."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/pKTWsf1FAOKdEVBEOKFwQ8Yu?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/VqJsvjoNR6xL12HDYmmM3Xat?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/V3mzoCA4is7kDjNpLKaKjKlC?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1iK4mvb_dm6bzNH-HEJdn7HybxuekeOpL?usp=sharing"
+}

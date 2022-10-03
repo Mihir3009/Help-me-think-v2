@@ -1,0 +1,152 @@
+{
+    "Contributor": "sinhasakshi",
+    "Domain": "Radio and Television",
+    "Task": "Task_1_late_night_TV_show_recommendation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in suggesting a late night TV show. I will ask some questions to collect information and then I will use the information to predict a late night TV show.",
+        "task_specific_prompt": "Suggest a late night TV show using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite topics?",
+                    "Answer": "My favorite topics include comedy, news, and politics."
+                },
+                {
+                    "Question": "What are some of your favorite comedians?",
+                    "Answer": "My favorite comedians include Jimmy Fallon, Seth Meyers, and Trevor Noah."
+                },
+                {
+                    "Question": "Do you prefer light-hearted or serious programming?",
+                    "Answer": "I prefer light-hearted programming."
+                },
+                {
+                    "Question": "What time do you usually go to bed?",
+                    "Answer": "I usually go to bed at 11pm."
+                },
+                {
+                    "Question": "Do you have any preferred networks?",
+                    "Answer": "I prefer network television over cable television."
+                },
+                {
+                    "Question": "Do you have any other preferred genres?",
+                    "Answer": "My other preferred genres include talk shows and game shows."
+                },
+                {
+                    "Question": "Do you have any preferred hosts?",
+                    "Answer": "I prefer hosts who are funny and personable."
+                },
+                {
+                    "Question": "What age group are you in?",
+                    "Answer": "I am in my 20s."
+                },
+                {
+                    "Question": "Do you live in a city or a rural area?",
+                    "Answer": "I live in a city."
+                },
+                {
+                    "Question": "Do you have any other preferences?",
+                    "Answer": "I prefer shows that are live and interactive."
+                }
+            ],
+            "Output": "I would suggest The Tonight Show Starring Jimmy Fallon."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite topics?",
+                    "Answer": "My favorite topics include horror, mystery, and thriller."
+                },
+                {
+                    "Question": "What are some of your favorite comedians?",
+                    "Answer": "My favorite comedians include Ellen Lee DeGeneres, James Edward Franco, and Howard Allan Stern."
+                },
+                {
+                    "Question": "Do you prefer light-hearted or serious programming?",
+                    "Answer": "I prefer serious programming."
+                },
+                {
+                    "Question": "What time do you usually go to bed?",
+                    "Answer": "I usually go to bed at 12pm."
+                },
+                {
+                    "Question": "Do you have any preferred networks?",
+                    "Answer": "I prefer cable television over network television."
+                },
+                {
+                    "Question": "Do you have any other preferred genres?",
+                    "Answer": "My other preferred genres include reality shows and drama shows."
+                },
+                {
+                    "Question": "Do you have any preferred hosts?",
+                    "Answer": "I prefer hosts who are bold and progressive."
+                },
+                {
+                    "Question": "What age group are you in?",
+                    "Answer": "I am in my 50s."
+                },
+                {
+                    "Question": "Do you live in a city or a rural area?",
+                    "Answer": "I live in a city."
+                },
+                {
+                    "Question": "Do you have any other preferences?",
+                    "Answer": "I prefer shows that are current and informative."
+                }
+            ],
+            "Output": "My suggestion for a late night TV show is the Daily Show with Trevor Noah. It is a current and informative show that is perfect for people who want to stay up to date on the latest news. Additionally, Trevor Noah is a progressive and bold host that appeals to a wide range of viewers."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite topics?",
+                    "Answer": "My favorite topics include documentaries, biographies, and history."
+                },
+                {
+                    "Question": "What are some of your favorite comedians?",
+                    "Answer": "My favorite comedians include James Eugene Carrey, Jon Stewart, and David Michael Letterman."
+                },
+                {
+                    "Question": "Do you prefer light-hearted or serious programming?",
+                    "Answer": "I prefer serious programming."
+                },
+                {
+                    "Question": "What time do you usually go to bed?",
+                    "Answer": "I usually go to bed at 8pm."
+                },
+                {
+                    "Question": "Do you have any preferred networks?",
+                    "Answer": "I prefer cable television over network television."
+                },
+                {
+                    "Question": "Do you have any other preferred genres?",
+                    "Answer": "My other preferred genres include historical shows and biographical shows."
+                },
+                {
+                    "Question": "Do you have any preferred hosts?",
+                    "Answer": "I prefer hosts who are knowledgable and informative."
+                },
+                {
+                    "Question": "What age group are you in?",
+                    "Answer": "I am in my 70s."
+                },
+                {
+                    "Question": "Do you live in a city or a rural area?",
+                    "Answer": "I live in a rural area."
+                },
+                {
+                    "Question": "Do you have any other preferences?",
+                    "Answer": "I prefer shows that are factual and non fictional."
+                }
+            ],
+            "Output": "The show that I would suggest is The Daily Show with Jon Stewart."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RcnlE01o8DCylrPv8IAv6SUS?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/itttmXp9YA0sKlnp64PdSkXW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PzfsCRN2rlvBH3pBSr478bAw?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1mCKEW8VTWnPHRm_XrkNcBICP0bRpBxYz?usp=sharing"
+}

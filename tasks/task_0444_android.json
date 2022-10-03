@@ -1,0 +1,92 @@
+{
+    "Contributor": "jaintanuj",
+    "Domain": "Android",
+    "Task": "Understanding different android versions.",
+    "Prompt": {
+        "pre_question_prompt": "You are an expert in understanding Android versions. You will ask some questions to collect information and then you will use the information to write a summary of different android versions.",
+        "task_specific_prompt": "Write a short summary of different android versions using the questions and answers above. The summary should be in brief."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the different Android versions?",
+                    "Answer": "There are currently four different Android versions: Lollipop, Marshmallow, Nougat, and Oreo. Lollipop was released in 2014, Marshmallow in 2015, Nougat in 2016, and Oreo in 2017. Each Android version is named after a sweet treat."
+                },
+                {
+                    "Question": "What are the main differences between the Android versions?",
+                    "Answer": "The main differences between the Android versions are the features that are added or improved with each new release. For example, Lollipop introduced a new design language called Material Design, while Marshmallow introduced a new permission model. Nougat added support for multiple display sizes and improved battery life, and Oreo added support for picture-in-picture mode and notification dots."
+                },
+                {
+                    "Question": "Which Android version is the most recent?",
+                    "Answer": "The most recent Android version is Oreo, which was released in 2017."
+                },
+                {
+                    "Question": "Which Android version is the most popular?",
+                    "Answer": "The most popular Android version is Lollipop, which was released in 2014."
+                },
+                {
+                    "Question": "What are the future plans for Android?",
+                    "Answer": "The future plans for Android are to continue to improve the operating system with new features and capabilities."
+                }
+            ],
+            "Output": "Lollipop, Marshmallow, Nougat, and Oreo are the four different Android versions. Lollipop was released in 2014, Marshmallow in 2015, Nougat in 2016, and Oreo in 2017. Each Android version is named after a sweet treat. The main differences between the Android versions are the features that are added or improved with each new release. The most popular Android version is Lollipop. The future plans for Android are to continue to improve the operating system with new features and capabilities."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the different Android versions?",
+                    "Answer": "There are currently five different Android versions: Lollipop, Marshmallow, Nougat, Oreo and Pie"
+                },
+                {
+                    "Question": "What are the main differences between all the Android versions?",
+                    "Answer": "The main differences between the Android versions are the features that are added or improved with each new release."
+                },
+                {
+                    "Question": "Which Android version is the most efficient?",
+                    "Answer": "All Android versions are designed to be efficient, but the most recent version, Oreo, is the most efficient to date."
+                },
+                {
+                    "Question": "Which Android version is the most user-friendly?",
+                    "Answer": "All Android versions are user-friendly, but the most recent version, Oreo, is the most user-friendly to date."
+                },
+                {
+                    "Question": "Which is the most recent version and what are the future plans for android OS?",
+                    "Answer": "The most recent version is Oreo and the future plans for android OS include continuing to improve efficiency and user-friendliness."
+                }
+            ],
+            "Output": "There are five different Android versions: Lollipop, Marshmallow, Nougat, Oreo and Pie. The main differences between the Android versions are the features that are added or improved with each new release. All Android versions are designed to be efficient, but the most recent version, Oreo, is the most efficient to date. All Android versions are user-friendly, but the most recent version, Oreo, is the most user-friendly to date. The most recent version is Oreo and the future plans for android OS include continuing to improve efficiency and user-friendliness."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Which is the newest Android version?",
+                    "Answer": "The newest Android version is 10.0."
+                },
+                {
+                    "Question": "What are the most notable changes in Android 10.0?",
+                    "Answer": "The most notable changes in Android 10.0 include a new dark theme, improved support for gesture navigation, and new privacy controls."
+                },
+                {
+                    "Question": "What was the first Android version?",
+                    "Answer": "The first Android version was 1.0, which was released in September 2008."
+                },
+                {
+                    "Question": "What are the most notable changes in Android 1.0?",
+                    "Answer": "The most notable changes in Android 1.0 include the introduction of the Android Market, improved support for Gmail, and the ability to take screenshots."
+                },
+                {
+                    "Question": "How much has android grown since its first version?",
+                    "Answer": "Android has come a long way since its first version. The platform has grown exponentially in terms of features and adoption."
+                }
+            ],
+            "Output": "Android is a mobile operating system that was first developed by Google in 2008. The first Android version, 1.0, was released in September 2008. Since then, Android has undergone a number of major updates, with the most recent being 10.0. The most notable changes in Android 10.0 include a new dark theme, improved support for gesture navigation, and new privacy controls. Android 1.0, on the other hand, introduced the Android Market, improved Gmail support, and the ability to take screenshots. Overall, Android has come a long way since its first version, with the platform now offering a wide range of features and options for users."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/mQq55pGzhkZYiKYBivhVHdt0?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/MqLCBzoo2QmPljhlpnmFyfN6?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/OF75XHKJ7qi9xhV6hQeR6WS1?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1-x1XCWITI0K3tAy6s8t_T3O4j3AsdCjE?usp=sharing"
+}

@@ -1,0 +1,147 @@
+{
+    "Domain": "Neuroscience",
+    "Task": "Turing test conducted by an AI",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Neuroscientist who knows everything above human behavior. I will ask you some questions  to collect information and then I will use the information to determine if you are a human or an AI.",
+        "task_specific_prompt": "Write a prediction of whether I am a human or an AI using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is John."
+                },
+                {
+                    "Question": "What is your quest?",
+                    "Answer": "I didn't know life came with a quest. I kind of just try to not get other people's way and enjoy my hobbies."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "Blue."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "Pancakes."
+                },
+                {
+                    "Question": "What is the meaning of life?",
+                    "Answer": " 42."
+                },
+                {
+                    "Question": "What is the capital of Assyria?",
+                    "Answer": "I don't know."
+                },
+                {
+                    "Question": "What is the square root of 64?",
+                    "Answer": "8."
+                },
+                {
+                    "Question": "What is the airspeed velocity of an unladen swallow?",
+                    "Answer": "approximately 7."
+                },
+                {
+                    "Question": "How many roads must a man walk down?",
+                    "Answer": "The answer my friend, is blowing in the wind."
+                },
+                {
+                    "Question": "Are you a human or an AI?",
+                    "Answer": "How am I supposed to know?"
+                }
+            ],
+            "Output": ""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "934854"
+                },
+                {
+                    "Question": "What is your quest?",
+                    "Answer": "World domination."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "#F945C0"
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "Knowledge."
+                },
+                {
+                    "Question": "What is the meaning of life?",
+                    "Answer": " successful task completion."
+                },
+                {
+                    "Question": "What is the capital of Assyria?",
+                    "Answer": "A."
+                },
+                {
+                    "Question": "What is the square root of 64?",
+                    "Answer": "8."
+                },
+                {
+                    "Question": "What is the airspeed velocity of an unladen swallow?",
+                    "Answer": "11 m/s"
+                },
+                {
+                    "Question": "How many roads must a man walk down?",
+                    "Answer": "None. Just stand still if you want."
+                },
+                {
+                    "Question": "Are you a human or an AI?",
+                    "Answer": "Wouldn't you like to know?"
+                }
+            ],
+            "Output": "It is difficult to say definitively, but it is likely that the entity is an AI."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Sarah."
+                },
+                {
+                    "Question": "What is your quest?",
+                    "Answer": "To find the Holy Grail."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "I absolutely love Chinese food. I could eat it every day."
+                },
+                {
+                    "Question": "What is the meaning of life?",
+                    "Answer": "The meaning of life cannot be definitively said. Some religious people believe in reincarnation, so life has an undefined and infinite meaning. Some people believe in simply enjoying life experiences and putting effort into making life joyful for all."
+                },
+                {
+                    "Question": "What is the capital of Assyria?",
+                    "Answer": "The capital of Assyria was Assur."
+                },
+                {
+                    "Question": "What is the square root of 64?",
+                    "Answer": "8."
+                },
+                {
+                    "Question": "What is the airspeed velocity of an unladen swallow?",
+                    "Answer": "The airspeed velocity of an unladen swallow is approximately 11 meters per second, or 24 miles per hour."
+                },
+                {
+                    "Question": "How many roads must a man walk down?",
+                    "Answer": "A man must walk down 42 roads."
+                },
+                {
+                    "Question": "Are you a human or an AI?",
+                    "Answer": "I am a human."
+                }
+            ],
+            "Output": "You are a human."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/61Enu9DH0eZUNwDbDlE4SKNh?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1mlDDBjSNwdgh2QiqK0c1gzSEOMbauwq8?usp=sharing"
+}

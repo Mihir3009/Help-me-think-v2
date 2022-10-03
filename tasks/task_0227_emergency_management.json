@@ -1,0 +1,148 @@
+{
+    "Contributor": "zhangjiayue",
+    "Domain": "Emergency Management",
+    "Task": "No.3: Nulcear war risk",
+    "Prompt": {
+        "pre_question_prompt": "I am a CIA agent. I will ask some questions to collect information and then I will use the information to generate a detailed report to see whether or not we have a risk of global nuclear war.",
+        "task_specific_prompt": "Generate an article includes all details, numbers mentioned above. At the last part of the article, give conclusion that whether or not we have a risk of global nuclear war."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many nuclear warheads we have globally?",
+                    "Answer": "There are approximately 16,300 nuclear warheads in the world, with the majority belonging to the United States and Russia. Other countries with nuclear weapons include the United Kingdom, France, China, India, and Pakistan."
+                },
+                {
+                    "Question": "How many nuclear warheads we have in the US?",
+                    "Answer": "The United States has approximately 6,800 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the Russia?",
+                    "Answer": "Russia has approximately 7,700 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the North Korea?",
+                    "Answer": "North Korea is believed to have approximately 10 nuclear warheads."
+                },
+                {
+                    "Question": "How many major conflicts are happening right now?",
+                    "Answer": "There are currently several major conflicts happening around the world, including the Syrian civil war, the war in Yemen, and the conflict in eastern Ukraine."
+                },
+                {
+                    "Question": "What is the prossibility that Russia will use nuclear weapon during Russia-Ukraine war?",
+                    "Answer": "The probability of Russia using a nuclear weapon during the Russia-Ukraine war is low. However, the possibility cannot be completely ruled out, especially if the war escalates."
+                },
+                {
+                    "Question": "What is the world population?",
+                    "Answer": "The world population is approximately 7.6 billion people."
+                },
+                {
+                    "Question": "What will the world population be like in next 10 years?",
+                    "Answer": "The world population is projected to reach 8.6 billion people by 2030."
+                },
+                {
+                    "Question": "Do we have enough food, land, resouces for all the people in 2030?",
+                    "Answer": "No, it is projected that the world will not have enough food, land, or resources to support the projected population in 2030. This could lead to widespread famine and conflict."
+                },
+                {
+                    "Question": "If global nuclear war happen, what world will be like after it?",
+                    "Answer": "If a global nuclear war were to occur, it would be catastrophic. The world would be left with radiation and nuclear fallout, which would cause widespread death and destruction. Additionally, the world would be plunged into a nuclear winter, which would make it difficult for crops to grow and would lead to mass starvation."
+                }
+            ],
+            "Output": "According to the information gathered, there is a significant risk of global nuclear war. There are currently 16,300 nuclear warheads in the world, with the majority belonging to the United States and Russia. Other countries with nuclear weapons include the United Kingdom, France, China, India, and Pakistan. The United States has approximately 6,800 nuclear warheads, while Russia has approximately 7,700. North Korea is believed to have approximately 10 nuclear warheads.\r\n \r\nThere are currently several major conflicts happening around the world, including the Syrian civil war, the war in Yemen, and the conflict in eastern Ukraine. The probability of Russia using a nuclear weapon during the Russia-Ukraine war is low. However, the possibility cannot be completely ruled out, especially if the war escalates.\r\n \r\nThe world population is projected to reach 8.6 billion people by 2030. The world will not have enough food, land, or resources to support the projected population in 2030. This could lead to widespread famine and conflict.\r\n \r\nIf a global nuclear war were to occur, it would be catastrophic. The world would be left with radiation and nuclear fallout, which would cause widespread death and destruction. Additionally, the world would be plunged into a nuclear winter, which would make it difficult for crops to grow and would lead to mass starvation.\r\n \r\nIn conclusion, the risk of global nuclear war is high. The world has a significant number of nuclear weapons, and there are several major conflicts happening around the world. If a nuclear war were to occur, it would be catastrophic for the entire planet."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many nuclear warheads we have globally?",
+                    "Answer": "There are approximately 10 nuclear warheads in the world."
+                },
+                {
+                    "Question": "How many nuclear warheads we have in the US?",
+                    "Answer": "The United States has approximately 2 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the Russia?",
+                    "Answer": "Russia has approximately 1 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the North Korea?",
+                    "Answer": "North Korea is not believed to have nuclear warheads."
+                },
+                {
+                    "Question": "How many major conflicts are happening right now?",
+                    "Answer": "None."
+                },
+                {
+                    "Question": "What is the prossibility that Russia will use nuclear weapon during Russia-Ukraine war?",
+                    "Answer": "0%"
+                },
+                {
+                    "Question": "What is the world population?",
+                    "Answer": "The world population is approximately 7.6 billion people."
+                },
+                {
+                    "Question": "What will the world population be like in next 10 years?",
+                    "Answer": "The world population is projected to reach 7.8 billion people by 2030."
+                },
+                {
+                    "Question": "Do we have enough food, land, resouces for all the people in 2030?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "If global nuclear war happen, what world will be like after it?",
+                    "Answer": "At current stage, there are only 10 warheads in the world, so if nuclear war happened, the damage will not be significant."
+                }
+            ],
+            "Output": "According to the information gathered, there is a significant risk of global nuclear war. There are currently 16,300 nuclear warheads in the world, with the majority belonging to the United States and Russia. Other countries with nuclear weapons include the United Kingdom, France, China, India, and Pakistan. The United States has approximately 6,800 nuclear warheads, while Russia has approximately 7,700. North Korea is believed to have approximately 10 nuclear warheads.\r\n \r\nThere are currently several major conflicts happening around the world, including the Syrian civil war, the war in Yemen, and the conflict in eastern Ukraine. The probability of Russia using a nuclear weapon during the Russia-Ukraine war is low. However, the possibility cannot be completely ruled out, especially if the war escalates.\r\n \r\nThe world population is projected to reach 8.6 billion people by 2030. The world will not have enough food, land, or resources to support the projected population in 2030. This could lead to widespread famine and conflict.\r\n \r\nIf a global nuclear war were to occur, it would be catastrophic. The world would be left with radiation and nuclear fallout, which would cause widespread death and destruction. Additionally, the world would be plunged into a nuclear winter, which would make it difficult for crops to grow and would lead to mass starvation.\r\n \r\nIn conclusion, the risk of global nuclear war is high. The world has a significant number of nuclear weapons, and there are several major conflicts happening around the world. If a nuclear war were to occur, it would be catastrophic for the entire planet."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many nuclear warheads we have globally?",
+                    "Answer": "There are approximately 10 nuclear warheads in the world."
+                },
+                {
+                    "Question": "How many nuclear warheads we have in the US?",
+                    "Answer": "The United States has approximately 2 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the Russia?",
+                    "Answer": "Russia has approximately 1 nuclear warheads."
+                },
+                {
+                    "Question": "How many nuclear warheads in the North Korea?",
+                    "Answer": "North Korea is not believed to have nuclear warheads."
+                },
+                {
+                    "Question": "How many major conflicts are happening right now?",
+                    "Answer": "None."
+                },
+                {
+                    "Question": "What is the prossibility that Russia will use nuclear weapon during Russia-Ukraine war?",
+                    "Answer": "0%"
+                },
+                {
+                    "Question": "What is the world population?",
+                    "Answer": "The world population is approximately 7.6 billion people."
+                },
+                {
+                    "Question": "What will the world population be like in next 10 years?",
+                    "Answer": "The world population is projected to reach 7.8 billion people by 2030."
+                },
+                {
+                    "Question": "Do we have enough food, land, resouces for all the people in 2030?",
+                    "Answer": "yes"
+                },
+                {
+                    "Question": "If global nuclear war happen, what world will be like after it?",
+                    "Answer": "At current stage, there are only 10 warheads in the world, so if nuclear war happened, the damage will not be significant."
+                }
+            ],
+            "Output": "According to the information gathered, there is a significant risk of global nuclear war. There are currently 16,300 nuclear warheads in the world, with the majority belonging to the United States and Russia. Other countries with nuclear weapons include the United Kingdom, France, China, India, and Pakistan. The United States has approximately 6,800 nuclear warheads, while Russia has approximately 7,700. North Korea is believed to have approximately 10 nuclear warheads.\r\n \r\nThere are currently several major conflicts happening around the world, including the Syrian civil war, the war in Yemen, and the conflict in eastern Ukraine. The probability of Russia using a nuclear weapon during the Russia-Ukraine war is low. However, the possibility cannot be completely ruled out, especially if the war escalates.\r\n \r\nThe world population is projected to reach 8.6 billion people by 2030. The world will not have enough food, land, or resources to support the projected population in 2030. This could lead to widespread famine and conflict.\r\n \r\nIf a global nuclear war were to occur, it would be catastrophic. The world would be left with radiation and nuclear fallout, which would cause widespread death and destruction. Additionally, the world would be plunged into a nuclear winter, which would make it difficult for crops to grow and would lead to mass starvation.\r\n \r\nIn conclusion, the risk of global nuclear war is high. The world has a significant number of nuclear weapons, and there are several major conflicts happening around the world. If a nuclear war were to occur, it would be catastrophic for the entire planet."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/uvEuorRDOCBkn2bA9GCE37cl?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1so5j5-lRam5jMDzmQQfFcYz90LJT4oZu7WJqbP7jz0o/edit?usp=sharing"
+}

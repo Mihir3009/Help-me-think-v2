@@ -1,0 +1,148 @@
+{
+    "Contributor": "leealex",
+    "Domain": "Physics",
+    "Task": "Tell a Physics Story",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing stories about physics. I will ask some questions to collect information and then I will use the information to write the story.",
+        "task_specific_prompt": "Write a story about physics using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the style of this story?",
+                    "Answer": "Action."
+                },
+                {
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Forces."
+                },
+                {
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "Gravity."
+                },
+                {
+                    "Question": "What is the target age?",
+                    "Answer": "5 to 10 year-olds."
+                },
+                {
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
+                },
+                {
+                    "Question": "What is the intent of this story?",
+                    "Answer": "Describe the concept of gravity to kids."
+                },
+                {
+                    "Question": "What era is this story based on?",
+                    "Answer": "The modern era."
+                },
+                {
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
+                },
+                {
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "Third Person."
+                },
+                {
+                    "Question": "Is there anything else that you would like to add?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "There once was a young boy who was very curious about the world around him. He wanted to know why things happened the way they did and how everything worked. So, he began to study physics. He read about all of the different forces that act on objects, like gravity. He was fascinated by how gravity could make things fall down, even though they seemed to be pulled up. The boy experimented with different objects to see how gravity affected them. He found that the heavier an object was, the more gravity it had. And the more gravity an object had, the faster it would fall."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the style of this story?",
+                    "Answer": "Romance."
+                },
+                {
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Planets."
+                },
+                {
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "The  interactions between planets."
+                },
+                {
+                    "Question": "What is the target age?",
+                    "Answer": "5 to 10 year-olds."
+                },
+                {
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
+                },
+                {
+                    "Question": "What is the intent of this story?",
+                    "Answer": "Describe the concept of planets to kids."
+                },
+                {
+                    "Question": "What era is this story based on?",
+                    "Answer": "The current era."
+                },
+                {
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
+                },
+                {
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "First Person."
+                },
+                {
+                    "Question": "Is there anything else that you would like to add?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "I was always fascinated by planets. I love learning about how they interact with each other. The way they pull and push on each other is just amazing. I once read a story about two planets that were in love. But because of the way they interacted, they were always pulled apart. It was a really sad story. But I like to think that there are happy stories out there too, about planets that find a way to be together despite the odds."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the style of this story?",
+                    "Answer": "Mystery."
+                },
+                {
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Electricity."
+                },
+                {
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "Electromagnetic waves."
+                },
+                {
+                    "Question": "What is the target age?",
+                    "Answer": "Adults."
+                },
+                {
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
+                },
+                {
+                    "Question": "What is the intent of this story?",
+                    "Answer": "A novel based on electromagnetic waves."
+                },
+                {
+                    "Question": "What era is this story based on?",
+                    "Answer": "The classical era."
+                },
+                {
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
+                },
+                {
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "Third Person."
+                },
+                {
+                    "Question": "Is there anything else that you would like to add?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "Mysterious things have been happening in the small town of Shepherdstown. Strange lights have been appearing in the sky and people have been reporting hearing strange noises. The townspeople are mystified and scared.\nThe town's sheriff, John, is a man of science and he is determined to get to the bottom of the mystery. He begins to investigate and soon discovers that the strange lights and noises are coming from a nearby physics laboratory.\nJohn goes to the laboratory and speaks to the scientist who runs it. The scientist explains that he is experimenting with electricity and that he is creating electromagnetic waves. He assures John that he is not doing anything dangerous and that the town has nothing to worry about.\nThe scientist's explanation satisfies John and he goes back to the town to tell the people what he has learned. The townspeople are relieved and the mystery is solved."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/X63rWWxxxlgksyJpc9F87tPf?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1FXgbwA1s-ml4-J_wHL7feIcmjr3pNkDk?usp=sharing"
+}

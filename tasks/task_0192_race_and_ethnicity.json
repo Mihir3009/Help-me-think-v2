@@ -1,0 +1,164 @@
+{
+    "Contributor": "sharmashivam",
+    "Domain": "Race and Ethnicity",
+    "Task": "tweets",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing tweets on Race and Ethnicity. I will ask some questions to collect information and then I will use the information to write a tweet.",
+        "task_specific_prompt": "Write a tweet on Race and Ethnicity using the question and answers above. Make it informative."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the experience of being a person of color like in the United States?",
+                    "Answer": "It's a constant battle. You're always having to prove yourself and prove that you're just as good as everyone else. You're always having to work twice as hard."
+                },
+                {
+                    "Question": "What are some of the challenges that people of color face in the United States?",
+                    "Answer": "People of color in the United States face a lot of challenges. They face discrimination, lack of opportunity, and lack of resources."
+                },
+                {
+                    "Question": "What do you think needs to be done to improve the experience of being a person of color in the United States?",
+                    "Answer": "We need to have more honest conversations about race and ethnicity. We need to diversify our institutions. We need to provide more opportunities and resources for people of color."
+                },
+                {
+                    "Question": "What do you think is the most important thing for people to understand about race and ethnicity in the United States?",
+                    "Answer": "The most important thing for people to understand about race and ethnicity in the United States is that we are all equal. We all deserve the same opportunities and resources."
+                },
+                {
+                    "Question": "What do you think is the best way to learn about race and ethnicity in the United States?",
+                    "Answer": "The best way to learn about race and ethnicity in the United States is to have honest conversations with people of all backgrounds."
+                },
+                {
+                    "Question": "What do you think is the best way to show support for people of color in the United States?",
+                    "Answer": "The best way to show support for people of color in the United States is to stand up for them when they face discrimination. Show them that you are an ally."
+                },
+                {
+                    "Question": "What do you think is the best way to celebrate diversity in the United States?",
+                    "Answer": "The best way to celebrate diversity in the United States is to learn about and celebrate the different cultures that make up our country."
+                },
+                {
+                    "Question": "What do you think is the best way to learn more about race and ethnicity in the United States?",
+                    "Answer": "The best way to learn more about race and ethnicity in the United States is to have honest conversations with people of all backgrounds."
+                },
+                {
+                    "Question": "What do you think is the best way to support people of color in the United States?",
+                    "Answer": "The best way to support people of color in the United States is to stand up for them when they face discrimination. Show them that you are an ally."
+                },
+                {
+                    "Question": "What is your experience of being a person of color like in the United States?",
+                    "Answer": "It's a constant battle. You're always having to prove yourself and prove that you're just as good as everyone else. You're always having to work twice as hard."
+                },
+                {
+                    "Question": "What are some of well known people of color face in the United States?",
+                    "Answer": "Some of the challenges that well known people of color face in the United States are discrimination, lack of opportunity, and lack of resources."
+                },
+                {
+                    "Question": "What do you think needs to be done to improve the experience of being a person of color in the United States?",
+                    "Answer": "We need to have more honest conversations about race and ethnicity. We need to diversify our institutions. We need to provide more opportunities and resources for people of color."
+                }
+            ],
+            "Output": "People of color in the United States face many challenges. We need to have more honest conversations about race and ethnicity and work to diversify our institutions. We can all show support by standing up against discrimination."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your opinion on the current state of race relations in America?",
+                    "Answer": "I believe that the current state of race relations in America is unacceptable. We have a lot of work to do in order to improve race relations in this country."
+                },
+                {
+                    "Question": "What do you think is the most important thing that needs to be done in order to improve race relations in America?",
+                    "Answer": "I think that the most important thing that needs to be done in order to improve race relations in America is to have more honest and open conversations about race. We need to be able to talk about race without feeling uncomfortable or like we are being judged."
+                },
+                {
+                    "Question": "What do you think are some of the biggest misconceptions about race in America?",
+                    "Answer": "I think that one of the biggest misconceptions about race in America is that racism is no longer a problem. Racism is very much alive and well in America. We need to recognize it and work to address it."
+                },
+                {
+                    "Question": "Do you think that social media has had a positive or negative impact on the way we discuss race in America?",
+                    "Answer": "I think that social media has had a mixed impact on the way we discuss race in America. On one hand, it has given us a platform to have these important conversations about race. On the other hand, it can also be a breeding ground for hate and bigotry."
+                },
+                {
+                    "Question": "What do you think is the most important thing that we can do to move forward when it comes to race in America?",
+                    "Answer": "I think the most important thing we can do to move forward when it comes to race in America is to continue to have these honest and open conversations about race. We need to keep listening to each other and trying to understand each other's experiences."
+                },
+                {
+                    "Question": "Do you have any final thoughts on the current state of race relations in America?",
+                    "Answer": "I believe that the current state of race relations in America is unacceptable. We have a lot of work to do in order to improve race relations in this country. We need to have more honest and open conversations about race, and we need to keep listening to each other and trying to understand each other's experiences."
+                },
+                {
+                    "Question": "Do you have any final thoughts on what we can do to improve race relations in America?",
+                    "Answer": "I think that the most important thing that needs to be done in order to improve race relations in America is to have more honest and open conversations about race. We need to be able to talk about race without feeling uncomfortable or like we are being judged."
+                },
+                {
+                    "Question": "Do you have any final thoughts on the biggest misconceptions about race in America?",
+                    "Answer": "I think that one of the biggest misconceptions about race in America is that racism is no longer a problem. Racism is very much alive and well in America. We need to recognize it and work to address it."
+                },
+                {
+                    "Question": "Do you have any final thoughts on social media and the way we discuss race in America?",
+                    "Answer": "I think that social media has had a mixed impact on the way we discuss race in America. On one hand, it has given us a platform to have these important conversations about race. On the other hand, it can also be a breeding ground for hate and bigotry."
+                },
+                {
+                    "Question": "Do you have any final thoughts on the most important thing we can do to move forward when it comes to race in America??",
+                    "Answer": "I think the most important thing we can do to move forward when it comes to race in America is to continue to have these honest and open conversations about race. We need to keep listening to each other and trying to understand each other's experiences."
+                }
+            ],
+            "Output": "The current state of race relations in America is unacceptable. We need to have more honest and open conversations about race, and we need to keep listening to each other and trying to understand each other's experiences. #RaceRelations"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your thoughts on the current state of race relations in the United States?",
+                    "Answer": "I think that the current state of race relations in the United States is not good. There is a lot of tension between different racial groups and I think that it is something that needs to be addressed."
+                },
+                {
+                    "Question": "What do you think is the most important thing that needs to be done in order to improve race relations in the United States?",
+                    "Answer": "I think that the most important thing that needs to be done in order to improve race relations in the United States is to have more dialogue between different racial groups. I think that it is important to understand and listen to each other in order to improve relations."
+                },
+                {
+                    "Question": "Do you think that race is something that is important to discuss? W",
+                    "Answer": "hy or why not?  I think that race is something that is important to discuss because it is a topic that affects a lot of people. I think that it is important to understand different perspectives on race in order to create a more tolerant society."
+                },
+                {
+                    "Question": "What do you think are some of the most common misconceptions about race?",
+                    "Answer": "I think that some of the most common misconceptions about race are that all people of one race are the same, that race is a biological concept, and that race is not important. I think that it is important to understand that race is a social construct and that it is important to discuss race in order to create a more tolerant society."
+                },
+                {
+                    "Question": "What do you think is the most important thing that people should know about race?",
+                    "Answer": "I think that the most important thing that people should know about race is that it is a social construct. I think that it is important to understand that race is not a biological concept and that it is something that is created by society. I think that it is important to discuss race in order to create a more tolerant society."
+                },
+                {
+                    "Question": "Do you have any personal experiences with race that you would like to share?",
+                    "Answer": "I have personal experiences with race that I would like to share. I am a person of color and I have experienced racism firsthand. I think that it is important to understand that racism is a real problem that needs to be addressed."
+                },
+                {
+                    "Question": "What are your thoughts on the #BlackLivesMatter movement?",
+                    "Answer": "I think that the #BlackLivesMatter movement is important. I think that it is important to raise awareness about the issue of racism and to fight for equality."
+                },
+                {
+                    "Question": "What do you think needs to be done in order to improve race relations in the United States?",
+                    "Answer": "I think that the most important thing that needs to be done in order to improve race relations in the United States is to have more dialogue between different racial groups. I think that it is important to understand and listen to each other in order to improve relations."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of race relations in the United States?",
+                    "Answer": "I think that the current state of race relations in the United States is not good. There is a lot of tension between different racial groups and I think that it is something that needs to be addressed."
+                },
+                {
+                    "Question": "Do you think that race is something that is important to discuss? Why or why not?",
+                    "Answer": "I think that race is something that is important to discuss because it is a topic that affects a lot of people. I think that it is important to understand different perspectives on race in order to create a more tolerant society."
+                },
+                {
+                    "Question": "What are your thoughts on the #BlackLivesMatter movement?",
+                    "Answer": "I think that the #BlackLivesMatter movement is important. I think that it is important to raise awareness about the issue of racism and to fight for equality."
+                }
+            ],
+            "Output": "The current state of race relations in the United States is not good. We need to have more dialogue between different racial groups in order to improve relations. #BlackLivesMatter"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/WPy4EqdiToWTBvwJTbCGwPtP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pucvOUaHrcNR8StiO99r5gJx?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/oQ8OO1xmDJcGOiogFQdnR7I1?model=text-davinci-002   "
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jL3SrSflUMqeQ0Uqn0FuUJI5IvDdmM0J?usp=sharing"
+}

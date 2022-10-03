@@ -1,0 +1,152 @@
+{
+    "Contributor": "songlucy",
+    "Domain": "Composition",
+    "Task": "Offer suggestions on how to achieve a certain photography composition.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in photography. I will ask some questions to collect information and then I will use the information to create suggestions on how to achieve the desired photography composition.",
+        "task_specific_prompt": "Write suggestions on how to achieve the desired photography composition using the questions and answers above. Add more context and a title."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of photography do you want to achieve?",
+                    "Answer": "I want to achieve astrophotography."
+                },
+                {
+                    "Question": "What is the subject of your astrophotography?",
+                    "Answer": "I want to photograph the Pillars of Creation."
+                },
+                {
+                    "Question": "What kind of camera do you have?",
+                    "Answer": "I have a DSLR camera."
+                },
+                {
+                    "Question": "What lens do you have?",
+                    "Answer": "I have a wide angle 14-24mm lens."
+                },
+                {
+                    "Question": "What is the aperture of your lens?",
+                    "Answer": "My lens has a maximum aperture of f/2.8."
+                },
+                {
+                    "Question": "What is the focal length of your lens?",
+                    "Answer": "My lens has a focal length of 14-24mm."
+                },
+                {
+                    "Question": "What is the ISO of your camera?",
+                    "Answer": "My camera has an ISO of 100 to 25600."
+                },
+                {
+                    "Question": "What is the shutter speed of your camera?",
+                    "Answer": "My camera has a shutter speed of 1/8000 seconds to 30 seconds."
+                },
+                {
+                    "Question": "What is the metering mode of your camera?",
+                    "Answer": "My camera is set to center-weighted average metering mode."
+                },
+                {
+                    "Question": "What is the white balance of your camera?",
+                    "Answer": "My camera is set to automatic white balance."
+                }
+            ],
+            "Output": "Astrophotography Composition Suggestions\n\n1. Use a tripod to keep your camera still and reduce camera shake.\n\n2. Use a wide angle lens to capture as much of the scene as possible.\n\n3. Set your camera to manual mode so that you have full control over the exposure settings.\n\n4. Set your aperture to its lowest setting (f/2.8) to allow more light into the camera.\n\n5. Set your ISO to a high setting (1600-3200) to ensure that your images are not too dark.\n\n6. Set your shutter speed to a relatively long exposure (15-30 seconds) to capture the stars streaking across the sky.\n\n7. Use the live view mode on your camera to compose your shots and avoid camera shake.\n\n8. Use a remote shutter release or the self-timer function on your camera to avoid camera shake.\n\n9. Experiment with different exposure times to find the perfect balance between star streaking and image brightness."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of photography do you want to achieve?",
+                    "Answer": "I want to create portraits."
+                },
+                {
+                    "Question": "What are the subjects of your portraits?",
+                    "Answer": "The subjects are people."
+                },
+                {
+                    "Question": "Where will the portraits be taken?",
+                    "Answer": "The portraits will be taken outdoors."
+                },
+                {
+                    "Question": "What is the overall tone or feeling that you want to convey with your portraits?",
+                    "Answer": "I want to convey a sense of professionalism with my portraits."
+                },
+                {
+                    "Question": "What type of lighting do you want to use?",
+                    "Answer": "I want to use natural lighting."
+                },
+                {
+                    "Question": "What type of background do you want to use?",
+                    "Answer": "I want to use a neutral background."
+                },
+                {
+                    "Question": "What is the composition that you want to achieve?",
+                    "Answer": "I want the focus to be on the subject's face."
+                },
+                {
+                    "Question": "Do you have any specific poses in mind?",
+                    "Answer": "Yes, I want the subject to stand or sit and look straight at the camera. I want them to also stand at an angle to the camera and cross their arms or put their hand on their waist."
+                },
+                {
+                    "Question": "What type of clothing do you want the subject to wear?",
+                    "Answer": "I want the subject to wear professional attire."
+                },
+                {
+                    "Question": "Do you want the subject to interact with any props?",
+                    "Answer": "No, I do not."
+                }
+            ],
+            "Output": "Create a Professional Look with Your Portraits\n\nTo achieve a professional look in your portraits, it is important to focus on the composition of the shot. The following suggestions will help you create portraits with a focus on the subject's face, while still conveying a sense of professionalism.\n\n-Take the portraits outdoors in natural lighting. This will help to create a more flattering light for the subject's face.\n\n-Use a neutral background. This will help to keep the focus on the subject's face.\n\n-Have the subject stand or sit at an angle to the camera. This will help to create a more interesting composition.\n\n-Have the subject cross their arms or put their hand on their waist. This will help to create a more confident and professional look.\n\n-Have the subject wear professional attire. This will help to create a more polished look."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the desired photography composition?",
+                    "Answer": "I want to compose landscape photography."
+                },
+                {
+                    "Question": "What is the desired outcome?",
+                    "Answer": "I want to capture the beauty of natural landscapes."
+                },
+                {
+                    "Question": "What are the specific elements that you would like to include in the composition?",
+                    "Answer": "I would like to include mountains and clouds in the composition."
+                },
+                {
+                    "Question": "What is the desired mood or feeling that you would like to evoke with the composition?",
+                    "Answer": "I would like to evoke a feeling of peace, awe, and wonder."
+                },
+                {
+                    "Question": "What is the desired time of day?",
+                    "Answer": "I would like to photograph at sunrise or sunset."
+                },
+                {
+                    "Question": "What is the desired location?",
+                    "Answer": "I would like to photograph in a national or state park."
+                },
+                {
+                    "Question": "What is the desired camera angle?",
+                    "Answer": "It depends on the view and circumstance of the time of photoshoot. Sometimes I might want a wider angle; others, I want a closer view."
+                },
+                {
+                    "Question": "What is the desired lens?",
+                    "Answer": "I would like to use a wide-angle lens that has the ability to zoom in or out."
+                },
+                {
+                    "Question": "What is the desired shutter speed?",
+                    "Answer": "I would like to use a slow shutter speed to capture the colors of the sunrise or sunset and the clouds."
+                },
+                {
+                    "Question": "What is the desired aperture?",
+                    "Answer": "I want to use a small aperture to capture the details of the landscape."
+                }
+            ],
+            "Output": "1. Use a wide-angle lens to capture the grandeur of the landscape.\n\n2. Use a slow shutter speed to capture the colors of the sunrise or sunset.\n\n3. Use a small aperture to capture the details of the landscape.\n\n4. Use the rule of thirds to compose your landscape photography.\n\n5. Try to capture leading lines in your composition to draw the viewer's eye into the photograph.\n\n6. Use foreground elements to add depth and interest to your landscape photography.\n\n7. Experiment with different camera angles to find the best composition for your landscape photography."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/1myBVGPphZG3IycFnA4Pl37c?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/tY2FnOQlLnlRdgJ6oay687bi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/iXbs6xsxnI0FACeRN92Ov7TI?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1i8OrE8bx6948omfzKYPA5SW_mHxXxfFR?usp=sharing"
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Education",
+    "Task": "Online learning",
+    "Prompt": {
+        "pre_question_prompt": "in online learning",
+        "task_specific_prompt": "instruct you to learn online"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the reasons you want to learn online?",
+                    "Answer": "The reasons I want to learn online are convenience and flexibility."
+                },
+                {
+                    "Question": "What are some of the things you hope to learn?",
+                    "Answer": "Some of the things I hope to learn are how to use different online learning platforms, how to access effective online learning materials, and how to engage students in online learning."
+                },
+                {
+                    "Question": "What are your learning goals?",
+                    "Answer": "My learning goals include learning how to use online learning platforms effectively, learning how to access and utilize online learning materials, and learning how to engage students in online learning."
+                },
+                {
+                    "Question": "What is your learning style?",
+                    "Answer": "My learning style is kinesthetic. I prefer to learn by touching and feeling."
+                },
+                {
+                    "Question": "What are your thoughts on online learning?",
+                    "Answer": "I think online learning is a promising learning method. It is convenient and flexible."
+                },
+                {
+                    "Question": "What are your concerns about online learning?",
+                    "Answer": "My concerns about online learning are that I might not be able to communicate with teachers timely and might not have enough guidance and that the learning materials might not be as effective as they could be."
+                },
+                {
+                    "Question": "What are your expectations for online learning?",
+                    "Answer": "My expectations for online learning are that I will be able to access educational resources of different universities, that I will be able to access and utilize online learning materials, and that I will be able to engage students in online learning."
+                },
+                {
+                    "Question": "What are your goals for online learning?",
+                    "Answer": "My goals for online learning are to learn with abundant online resources, to utilize online learning platforms, and to engage students in online learning."
+                },
+                {
+                    "Question": "What are your thoughts on online learning platforms?",
+                    "Answer": "I think online learning platforms are very convenient and promising."
+                },
+                {
+                    "Question": "What are your thoughts on online learning materials?",
+                    "Answer": "I think online learning materials are abundant but need to be distinguished."
+                }
+            ],
+            "Output": "Though there are many reasons why someone might want to learn online, convenience and flexibility are two of the most common. With online learning, students can often choose when and where they want to learn, making it a convenient option for those with busy schedules. In addition, online learning can be a flexible option for those who want to learn at their own pace or who want to learn different subjects. However, there are also some concerns that potential students might have about online learning. One worry might be that without regular face-to-face interaction with teachers, it would be difficult to get timely feedback or guidance. Additionally, some people might worry that the learning materials available online might not be as effective as those in a traditional classroom setting. Despite these concerns, there are many expectations that students might have for online learning. For example, online learners might expect to be able to access educational resources from different universities. Additionally, online learners might hope to be able to effectively utilize online learning platforms and engage students in online learning. Ultimately, online learning can be a convenient and flexible option for those who want to learn. However, it is important for potential students to be aware of both the advantages and disadvantages of online learning before making a decision."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your learning goal?",
+                    "Answer": "My learning goal is to learn how to use online resources to improve my English language skills."
+                },
+                {
+                    "Question": "What resources are you currently using to learn English?",
+                    "Answer": "I am currently using online resources such as websites, apps, and videos to learn English."
+                },
+                {
+                    "Question": "What do you find difficult about learning English?",
+                    "Answer": "I find it difficult to practice speaking English because I do not have many opportunities to speak with native English speakers."
+                },
+                {
+                    "Question": "What do you think would help you learn English more effectively?",
+                    "Answer": "I think that using online resources to practice English would help me learn more effectively because I can get more practice and feedback."
+                },
+                {
+                    "Question": "What is your level of English proficiency?",
+                    "Answer": "My level of English proficiency is beginner."
+                },
+                {
+                    "Question": "How much time are you willing to spend learning English each day?",
+                    "Answer": "I am willing to spend 1-2 hours learning English each day."
+                },
+                {
+                    "Question": "What days of the week are you available to learn?",
+                    "Answer": "I am available to learn on weekdays."
+                },
+                {
+                    "Question": "What times of day are you available to learn?",
+                    "Answer": "I am available to learn in the morning and evening."
+                },
+                {
+                    "Question": "Would you like to learn English with a tutor or in a group?",
+                    "Answer": "I would like to learn English with a tutor."
+                },
+                {
+                    "Question": "Would you like to use video, audio, or text-based resources?",
+                    "Answer": "I would like to use video and audio resources."
+                }
+            ],
+            "Output": "There are many different ways to learn English online. You can use websites, apps, videos, and more to help you improve your English language skills. The most important part of online learning is finding resources that fit your needs and goals. One way to find online resources is to search for English learning websites. There are many websites that offer free resources for learning English. You can find websites that focus on grammar, vocabulary, listening, and other skills. You can also find websites that offer games and quizzes to help you learn. Another way to find online resources is to search for English learning apps. There are many apps that offer free resources for learning English. You can find apps that focus on grammar, vocabulary, listening, and other skills. You can also find apps that offer games and quizzes to help you learn. Another way to find online resources is to search for English learning videos. There are many videos that offer free resources for learning English. You can find videos that focus on grammar, vocabulary, listening, and other skills. You can also find videos that offer games and quizzes to help you learn. Once you have found some online resources that you would like to use, the next step is to create a schedule. Learning English takes time and effort. You should decide how much time you are willing to spend learning English each day. You should also decide which days of the week you are available to learn. Finally, you should decide what times of day you are available to learn. Once you have created a schedule, the next step is to start learning! There are many different ways to learn English. You can use websites, apps, videos, and more to help you improve your English language skills. The most important part of online learning is to find resources that fit your needs and goals."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much time are you willing to spend learning online each day?",
+                    "Answer": "I am willing to spend at least 1-hour learning online each day."
+                },
+                {
+                    "Question": "What are your learning goals?",
+                    "Answer": "My learning goals include becoming proficient in using online research tools, learning how to effectively use online resources for my work, and becoming more comfortable with using technology for learning."
+                },
+                {
+                    "Question": "What are your preferred learning styles?",
+                    "Answer": "I prefer to learn by doing and exploring on my own, but I also appreciate having clear instructions and helpful feedback."
+                },
+                {
+                    "Question": "What do you think are the advantages and disadvantages of learning online?",
+                    "Answer": "Some advantages of learning online include having flexible learning hours, being able to learn at my own pace, and having a wide variety of resources available. Some disadvantages of learning online include feeling isolated from other learners, not receiving immediate feedback, and feeling overwhelmed by the amount of resources available."
+                },
+                {
+                    "Question": "What are your thoughts on using technology for learning?",
+                    "Answer": "I think technology can be a great tool for learning if used effectively. I appreciate being able to access learning materials and resources online, and I think technology can help facilitate collaboration and connection between learners."
+                },
+                {
+                    "Question": "What are your experiences with learning online?",
+                    "Answer": "I have had mostly positive experiences with learning online. I have found I can usually find the resources and information I need, and I appreciate being able to learn at my own pace."
+                },
+                {
+                    "Question": "What challenges have you faced with learning online?",
+                    "Answer": "One challenge is feeling isolated from other learners. I have also found it challenging to stay motivated and focused when learning on my own."
+                },
+                {
+                    "Question": "What tips do you have for other learners who are interested in learning online?",
+                    "Answer": "Some tips for other learners include setting clear goals, carving out dedicated time for learning, and finding a balance between structure and flexibility."
+                },
+                {
+                    "Question": "What do you think are the benefits of learning online?",
+                    "Answer": "Some benefits of learning online include flexible learning hours, being able to learn at my own pace, and having a wide variety of resources available."
+                },
+                {
+                    "Question": "What do you think are the best ways to learn online?",
+                    "Answer": "Some of the best ways to learn online include being able to find resources that match your learning style, setting clear goals, and staying motivated."
+                }
+            ],
+            "Output": "Online learning can be a great way to fit learning into a busy schedule or to learn at your own pace. However, it is important to set clear goals and carve out dedicated time for learning to make sure you get the most out of the experience. Here are some tips for learning online: 1. Set clear goals for what you want to learn. This will help you choose the right resources and stay motivated. 2. Find resources that match your learning style. If you prefer to learn by doing, look for resources that allow you to explore and experiment. If you prefer clear instructions, look for resources that provide step-by-step guidance. 3. Carve out dedicated time for learning. Set aside some time each day or each week to focus on your learning goals. 4. Stay motivated by connecting with other learners. One of the benefits of learning online is the ability to connect with other learners from around the world. Use this to your advantage by joining online communities and forums or by finding a study buddy."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/dEUo4BQf1HQaLYdUDW5raOgG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DtMFI7lff439LWaa33ucjTiH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZLKvQCCXuWFphBkSCjjoAnR6?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1thK_bKA_DdJikDGB88ld5jdqenTg2lop?usp=sharing"
+}

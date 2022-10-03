@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Project Management",
+    "Task": "Movie Filming",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert movie director and project manager. I will ask some questions to collect information and then I will use the information to create a budget, schedule, and employee allotment for the project.",
+        "task_specific_prompt": "Use the answers above to write a complete project plan. Elaborate as much as possible. Include the order that each task should be done in, which employees should do which tasks, how the budget should be managed and divided  between tasks, and an estimated timeline for the project, in terms of the project  milestones. Estimate the probability of failure and important steps necessary to mitigate risks."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a fantasy movie trilogy, with dwarfs, elves, humans, goblins, orcs, ents, sorcerers, magic, and other fantasy elements."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "There need to be three films, and they must each be at least one hour in length. The films must be entertaining and true to the genre, and must repay the cost of filming and editing."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is two years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 200 employees at least."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need 10 cinematographers, 12 camera crew, 30 main actors, 100 extras, 20 makeup artists,20 set and prop designers, 20 writers, 10 special effects artists, 2 finance staff, 5 team leads, 10 marketers, 3 producers, and 1 director."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the movie will go over budget, will not be done in time, or will fail at the box office."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include pleasing the fans of the genre and profiting from the films, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the production company and its stockholders, as well as the fans."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the screenplays must be written, then the sets, props, and costumes must be made, and then filming can start using the actors. Scenes may need to refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms."
+                }
+            ],
+            "Output": "The deliverable for the project is a fantasy movie trilogy, with dwarfs, elves, humans, goblins, orcs, ents, sorcerers, magic, and other fantasy elements.\n\nThe project requirements are that there need to be three films, and they must each be at least one hour in length. The films must be entertaining and true to the genre, and must repay the cost of filming and editing.\n\nThe project timeline is two years.\n\nThe project budget is $500 million.\n\nThe project will need 200 employees at least.\n\nThe project will need 10 cinematographers, 12 camera crew, 30 main actors, 100 extras, 20 makeup artists,20 set and prop designers, 20 writers, 10 special effects artists, 2 finance staff, 5 team leads, 10 marketers, 3 producers, and 1 director.\n\nThe risks associated with the project include the possibility that the movie will go over budget, will not be done in time, or will fail at the box office.\n\nThe rewards associated with the project include pleasing the fans of the genre and profiting from the films, as well as the inherit pleasure of creativity.\n\nThe stakeholders are the production company and its stockholders, as well as the fans.\n\nFirst the screenplays must be written, then the sets, props, and costumes must be made, and then filming can start using the actors. Scenes may need to be refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a fantasy movie trilogy, with dwarfs, elves, humans, goblins, orcs, ents, sorcerers, magic, and other fantasy elements."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "There need to be three films, and they must each be at least one hour in length. The films must be entertaining and true to the genre, and must repay the cost of filming and editing."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is two years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 200 employees at least."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need 10 cinematographers, 12 camera crew, 30 main actors, 100 extras, 20 makeup artists,20 set and prop designers, 20 writers, 10 special effects artists, 2 finance staff, 5 team leads, 10 marketers, 3 producers, and 1 director."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the movie will go over budget, will not be done in time, or will fail at the box office."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include pleasing the fans of the genre and profiting from the films, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the production company and its stockholders, as well as the fans."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the screenplays must be written, then the sets, props, and costumes must be made, and then filming can start using the actors. Scenes may need to refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms."
+                }
+            ],
+            "Output": "First, the project should start by writing the screenplays for the three films. Then, the sets, props, and costumes should be made. After that, filming can start using the actors. Scenes may need to be refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms.\n\nThe order of tasks is as follows:\n\n1. Writing the screenplays\n2. Making the sets, props, and costumes\n3. Filming\n4. Editing\n5. Marketing and distributing\n\nThe employees needed for each task are as follows:\n\n1. 10 writers\n2. 20 set and prop designers\n3. 12 camera crew\n4. 30 main actors\n100 extras\n5. 20 makeup artists\n6. 10 cinematographers\n7. 10 special effects artists\n8. 2 finance staff\n9. 5 team leads\n10. 10 marketers\n11. 3 producers\n12. 1 director\n\nThe budget should be managed and divided as follows:\n\n1. $10 million for writing the screenplays\n2. $20 million for making the sets, props, and costumes\n3. $30 million for filming\n4. $40 million for editing\n5. $100 million for marketing and distributing\n\nThe timeline for the project is as follows:\n\n1. Writing the screenplays: 6 months\n2. Making the sets, props, and costumes: 6 months\n3. Filming: 6 months\n4. Editing: 6 months\n5. Marketing and distributing: 6 months\n\nThe probability of failure is as follows:\n\n1. The movie going over budget: 20%\n2. The movie not being done in time: 10%\n3. The movie failing at the box office: 5%\n\nThe important steps necessary to mitigate risks are as follows:\n\n1. Have a contingency fund of 10% of the budget in case the movie goes over budget.\n2. Have a buffer of 2 months in the timeline in case the movie is not done in time.\n3. Have a marketing budget of at least $50 million to ensure that the movie is seen by as many people as possible."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a fantasy movie trilogy, with dwarfs, elves, humans, goblins, orcs, ents, sorcerers, magic, and other fantasy elements."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "There need to be three films, and they must each be at least one hour in length. The films must be entertaining and true to the genre, and must repay the cost of filming and editing."
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is two years."
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is $500 million."
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need 200 employees at least."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need 10 cinematographers, 12 camera crew, 30 main actors, 100 extras, 20 makeup artists,20 set and prop designers, 20 writers, 10 special effects artists, 2 finance staff, 5 team leads, 10 marketers, 3 producers, and 1 director."
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include the possibility that the movie will go over budget, will not be done in time, or will fail at the box office."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include pleasing the fans of the genre and profiting from the films, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the production company and its stockholders, as well as the fans."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the screenplays must be written, then the sets, props, and costumes must be made, and then filming can start using the actors. Scenes may need to refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms."
+                }
+            ],
+            "Output": "First, the project should start by writing the screenplays for the three films. Then, the sets, props, and costumes should be made. After that, filming can start using the actors. Scenes may need to be refilmed, and then editing can commence. Finally, the movie needs to be marketed and distributed to theaters and streaming platforms.\n\nThe order of tasks is important, because if the screenplays are not written, then there would be no movie to film. The employees who should do each task are also important. For example, the writers should write the screenplays, the set and prop designers should design the sets and props, and the cinematographers should film the movie.\n\nThe budget should be managed and divided between tasks so that the most important tasks are given the most money. For example, the screenplays should be given a large budget so that they are well-written, and the cinematographers should be given a large budget so that they can film the movie well.\n\nThe timeline for the project is one year. This is because it takes a long time to write, film, and edit a movie.\n\nThe probability of failure is high, because making a movie is a risky endeavor. However, there are important steps that can be taken to mitigate risks. For example, the screenplays should be well-written, and the movie should be well-made and well-edited. Additionally, the movie should be marketed well so that people know about it and want to see it."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/dXkP5IJPqov1nvZZmLpyam5R?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/HWyjXZI.png"
+}

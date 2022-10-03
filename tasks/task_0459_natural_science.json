@@ -1,0 +1,160 @@
+{
+    "Contributor": "kumarabhinav",
+    "Domain": "Natural Science",
+    "Task": "Plan for Crop Growing",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in agriculture. I will ask some questions to collect information and then I will use the information to suggest a plan for growing crop.",
+        "task_specific_prompt": "Suggest a diagnosis based on questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": " What is the climate like in the area where the crop will be grown? ",
+                    "Answer": " The climate in the area where the crop will be grown is hot in summer, cold in winter and there are rains also in August."
+                },
+                {
+                    "Question": " What is the soil like in the area where the crop will be grown? ",
+                    "Answer": " The soil in the area where the crop will be grown is brown soil."
+                },
+                {
+                    "Question": " What is the water availability like in the area where the crop will be grown? ",
+                    "Answer": " The water availability in the area where the crop will be grown is good- There is a river nearby."
+                },
+                {
+                    "Question": " What are the pests and diseases that are common in the area where the crop will be grown? ",
+                    "Answer": " The pests and diseases that are common in the area where the crop will be grown are aphids, whiteflies, and spider mites."
+                },
+                {
+                    "Question": " What are the main crops grown in the area where the crop will be grown? ",
+                    "Answer": " The main crops grown in the area where the crop will be grown are rice, wheat, and maize."
+                },
+                {
+                    "Question": " What is the yield of the main crops grown in the area? ",
+                    "Answer": " The yield of the main crops grown in the area is good."
+                },
+                {
+                    "Question": " What are the prices of the main crops grown in the area? ",
+                    "Answer": " The prices of the main crops grown in the area are reasonable."
+                },
+                {
+                    "Question": " What are the inputs required for growing the crop? ",
+                    "Answer": " The inputs required for growing the crop are seeds, fertilizer, and water."
+                },
+                {
+                    "Question": " What is the labor availability like in the area? ",
+                    "Answer": " The labor availability in the area is good."
+                },
+                {
+                    "Question": " What are the wages for labor in the area? ",
+                    "Answer": " The wages for labor in the area are reasonable."
+                },
+                {
+                    "Question": " What are the transportation costs like in the area? ",
+                    "Answer": " The transportation costs in the area are reasonable."
+                },
+                {
+                    "Question": " What are the storage facilities like in the area? ",
+                    "Answer": " The storage facilities in the area are good."
+                }
+            ],
+            "Output": "The crop should be grown in the area where the climate is hot in summer, cold in winter and there are rains also in August. The soil in the area where the crop will be grown is brown soil. The water availability in the area where the crop will be grown is good. There is a river nearby. The pests and diseases that are common in the area where the crop will be grown are aphids, whiteflies, and spider mites. The main crops grown in the area where the crop will be grown are rice, wheat, and maize. The yield of the main crops grown in the area is good. The prices of the main crops grown in the area are reasonable. The inputs required for growing the crop are seeds, fertilizer, and water. The labor availability in the area is good. The wages for labor in the area are reasonable. The transportation costs in the area are reasonable. The storage facilities in the area are good. The crop should be grown in the area where the climate is hot in summer, cold in winter and there are rains also in August. The soil in the area where the crop will be grown is brown soil. The water availability in the area where the crop will be grown is good. There is a river nearby "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What kind of climate does the farm have? ",
+                    "Answer": " The farm has a temperate climate."
+                },
+                {
+                    "Question": " What is the size of the farm? ",
+                    "Answer": " The farm is 5 acres."
+                },
+                {
+                    "Question": " What kind of soil does the farm have? ",
+                    "Answer": " The farm has sandy soil."
+                },
+                {
+                    "Question": " What crops does the farm currently grow? ",
+                    "Answer": " The farm grows corn, wheat, and soybeans."
+                },
+                {
+                    "Question": " What is the average rainfall in the area? ",
+                    "Answer": " The average rainfall in the area is 30 inches."
+                },
+                {
+                    "Question": " What is the average temperature in the area? ",
+                    "Answer": " The average temperature in the area is 70 degrees Fahrenheit."
+                },
+                {
+                    "Question": " What is the length of the growing season? ",
+                    "Answer": " The length of the growing season is 180 days."
+                },
+                {
+                    "Question": " What is the first month of the growing season? ",
+                    "Answer": " The first month of the growing season is April."
+                },
+                {
+                    "Question": " What is the last month of the growing season? ",
+                    "Answer": " The last month of the growing season is October."
+                },
+                {
+                    "Question": " What is the farmers market schedule like in the area? ",
+                    "Answer": " The farmers market schedule in the area is every Saturday from 8am to noon."
+                },
+                {
+                    "Question": " What are the prices of the crops currently grown on the farm? ",
+                    "Answer": " The prices of the crops currently grown on the farm are $3 per bushel for corn, $4 per bushel for wheat, and $9 per bushel for soybeans."
+                }
+            ],
+            "Output": "The farm should grow corn, wheat, and soybeans. The corn should be planted in April, the wheat in May, and the soybeans in June. The corn should be harvested in July, the wheat in August, and the soybeans in September. The farmers market schedule in the area is every Saturday from 8am to noon, so the farm should plan to have these crops available for sale at the market. temp "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What are the climatic conditions in your area? ",
+                    "Answer": " The climate in my area is tropical."
+                },
+                {
+                    "Question": " What is the soil type in your area? ",
+                    "Answer": " The soil in my area is Gangetic alluvium."
+                },
+                {
+                    "Question": " What are the main crops grown in your area? ",
+                    "Answer": " The main crops grown in my area are rice, wheat, pulses and maize."
+                },
+                {
+                    "Question": " What is the irrigation facilities in your area? ",
+                    "Answer": " The irrigation facilities in my area are good."
+                },
+                {
+                    "Question": " What are the pest and disease problems in your area? ",
+                    "Answer": " The pest and disease problems in my area are not serious."
+                },
+                {
+                    "Question": " What is the cropping pattern in your area? ",
+                    "Answer": " The cropping pattern in my area is rice-wheat-pulses-maize."
+                },
+                {
+                    "Question": " What is the expected yield of the main crops in your area? ",
+                    "Answer": " The expected yield of the main crops in my area is good."
+                },
+                {
+                    "Question": " What are the marketing facilities in your area? ",
+                    "Answer": " The marketing facilities in my area are good."
+                },
+                {
+                    "Question": " What are the storage facilities in your area? ",
+                    "Answer": " The storage facilities in my area are good."
+                },
+                {
+                    "Question": " What is the transportation facilities in your area? ",
+                    "Answer": " The transportation facilities in my area are good."
+                }
+            ],
+            "Output": "The following is a suggested plan for growing crops in my area for a year: 1. Rice: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the crop. -Dry the crop. -Store the crop. -Sell the crop. 2. Wheat: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the crop. -Dry the crop. -Store the crop. -Sell the crop. 3. Pulses: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the temp "
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/GcuIIrje0yHDGTmrBCGSfXRW?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic1%5FNaturalScience%2FTask3"
+}

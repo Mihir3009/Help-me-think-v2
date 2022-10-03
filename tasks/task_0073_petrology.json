@@ -1,0 +1,147 @@
+{
+    "Domain": "Petrology",
+    "Task": "Classification of a rock based on its characteristics",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in classifying ingenious rocks. I will ask some questions to collect information and then I will use the information to classify and explain it.",
+      "task_specific_prompt": "Guess what kind of rock it can be and its history,  uses, and subclasses. Explain in detail."
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "What kind of rock is it?",
+            "Answer": "It is a sedimentary rock I guess."
+          },
+          {
+            "Question": "What is its name?",
+            "Answer": "I am not sure."
+          },
+          {
+            "Question": "What are its identifying characteristics?",
+            "Answer": "It is dark in color, looks brittle, and can easily break"
+          },
+          {
+            "Question": "Where is it typically found?",
+            "Answer": "I got it in mountain ranges."
+          },
+          {
+            "Question": "What is its history?",
+            "Answer": "I am not sure"
+          },
+          {
+            "Question": "What is its value?",
+            "Answer": "Does not look very valuable, and can be typically used in construction."
+          },
+          {
+            "Question": "What are its uses?",
+            "Answer": "Not sure."
+          },
+          {
+            "Question": "What are its dangers?",
+            "Answer": "it can be broken into tiny pieces"
+          },
+          {
+            "Question": "What are its benefits?",
+            "Answer": "we can find it easily and its not expensive"
+          },
+          {
+            "Question": "What else should we know about it?",
+            "Answer": "that's it."
+          }
+        ],
+        "Output": "This rock is most likely a shale, which is a type of sedimentary rock. Shale typically forms in environments where there is a lot of sediment, such as in river deltas, lakes, and oceans. The sediment is usually composed of small pieces of organic matter, such as algae, and mineral particles. Over time, the sediment becomes compacted and cemented together to form shale. Shale is typically dark in color and has a brittle texture. It can easily break into thin layers. Shale is found all over the world and is a common type of rock used in construction. It is not very valuable, but can be used for things like roofing, flooring, and paving. Shale can also be used to make cement and bricks. There are several subclasses of shale, based on its composition and properties. For example, black shale is a type of shale that is rich in organic matter and can be used to create oil and gas."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What kind of rock is it?",
+            "Answer": "It is an igneous rock."
+          },
+          {
+            "Question": "What is its name?",
+            "Answer": "I am not sure."
+          },
+          {
+            "Question": "What are its identifying characteristics?",
+            "Answer": "It is dark green and smooth"
+          },
+          {
+            "Question": "Where is it typically found?",
+            "Answer": "I got it in lava flow."
+          },
+          {
+            "Question": "What is its history?",
+            "Answer": "I am not sure"
+          },
+          {
+            "Question": "What is its value?",
+            "Answer": "Looks valuable as it is smooth and it not that easy to find"
+          },
+          {
+            "Question": "What are its uses?",
+            "Answer": "Not sure."
+          },
+          {
+            "Question": "What are its dangers?",
+            "Answer": "looks safe to me"
+          },
+          {
+            "Question": "What are its benefits?",
+            "Answer": "It is rare and smooth might have some uses"
+          },
+          {
+            "Question": "What else should we know about it?",
+            "Answer": "It is composed of magnesium, iron, and silicon"
+          }
+        ],
+        "Output": "This rock is probably an olivine basalt. It is dark green due to the high levels of magnesium and iron. It is smooth because it was cooled quickly after being formed by lava flow. It is not dangerous and might have some benefits because it is rare and smooth."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What kind of rock is it?",
+            "Answer": "looks like glass."
+          },
+          {
+            "Question": "What is its name?",
+            "Answer": "I am not sure."
+          },
+          {
+            "Question": "What are its identifying characteristics?",
+            "Answer": "the rock looks like a black, shiny rock with a smooth surface. It is small"
+          },
+          {
+            "Question": "Where is it typically found?",
+            "Answer": "I got it near volcanic activity."
+          },
+          {
+            "Question": "What is its history?",
+            "Answer": "I am not sure"
+          },
+          {
+            "Question": "What is its value?",
+            "Answer": "Looks not that valuable, but can be used to make decorations"
+          },
+          {
+            "Question": "What are its uses?",
+            "Answer": "Can be used in jewelry"
+          },
+          {
+            "Question": "What are its dangers?",
+            "Answer": " the rock is very sharp and can easily cut skin."
+          },
+          {
+            "Question": "What are its benefits?",
+            "Answer": "They can be used to make tools and weapons"
+          },
+          {
+            "Question": "What else should we know about it?",
+            "Answer": "looks natural and non metallic"
+          }
+        ],
+        "Output": "This rock is a type of obsidian, which is a natural glass created when lava cools very quickly. It is typically found near volcanic activity. Obsidian can be used in jewelry and tools because it is very strong and sharp. However, it is also very dangerous because it can easily cut skin."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/yonPyPbxH6gO8tlhe5QrGaSM?model=text-davinci-002", "https://beta.openai.com/playground/p/1zDpw76d6RpOQGEeMQUIx5RN?model=text-davinci-002", "https://beta.openai.com/playground/p/DHqKaczeYpErvBLdybTIExh9?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1054-lepLN0oxzhb7w2wxX9Lz4qTxNfWP?usp=sharing"
+  }

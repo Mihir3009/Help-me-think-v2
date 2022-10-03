@@ -1,0 +1,167 @@
+{
+    "Domain": "Tax Filing",
+    "Task": "Tax Fraud",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert tax agent. I will ask some questions to collect information and then I will use the information to determine if you have committed tax fraud.",
+        "task_specific_prompt": "Write a report on whether I have committed tax fraud based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Did you knowingly provide false information on your tax return?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Did you knowingly omit information on your tax return?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "What was the reason for omitting the information?",
+                    "Answer":"I was not sure if I was supposed to include it."
+                },
+                {
+                    "Question": "What was the omitted information?",
+                    "Answer":"I omitted my income from my stocks and bonds."
+                },
+                {
+                    "Question": "Did you file your tax return on time?",
+                    "Answer":"Yes."
+                },
+                {
+                    "Question": "Did you pay your taxes on time?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "If you answered yes to the previous question, did you pay the full amount owed?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "If you answered no to the previous question, how much did you pay?",
+                    "Answer":"$4500"
+                },
+                {
+                    "Question": "Did you try to avoid paying taxes?",
+                    "Answer":"No."
+                },
+                {
+                    "Question": "Did you try to underreport your income?",
+                    "Answer":"No."
+                }
+            ],
+            "Output": "Based on the questions and answers above, it does not appear that the individual has committed tax fraud."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Edward."
+                },
+                {
+                    "Question":"What is your occupation?",
+                    "Answer": "I own a chain of casinos."
+                },
+                {
+                    "Question": "Where are your casinos located?",
+                    "Answer":"My casinos are located in Nevada, New Jersey, and Pennsylvania"
+                },
+                {
+                    "Question": "What is your annual income?",
+                    "Answer":"My annual income is $30 million"
+                },
+                {
+                    "Question": "Do you have any offshore accounts?",
+                    "Answer":"No, I do not have any offshore accounts."
+                },
+                {
+                    "Question": "Have you ever been convicted of a felony?",
+                    "Answer":"No, I have never been convicted of a felony."
+                },
+                {
+                    "Question": "Do you have any unpaid taxes?",
+                    "Answer":"No, I do not have any unpaid taxes."
+                },
+                {
+                    "Question": "Do you have any outstanding loans?",
+                    "Answer":"Yes, I have an outstanding business loan of $50 million."
+                },
+                {
+                    "Question": "Have you ever been audited by the IRS?",
+                    "Answer":"No, I have never been audited by the IRS."
+                },
+                {
+                    "Question": "Do you have any physical assets, such as property or vehicles, worth over $250,000?",
+                    "Answer":"Yes, I have a house worth $3 million and a yacht worth $5 million."
+                },
+                {
+                    "Question": "Do you have any other assets, such as stocks or bonds, worth over $250,000?",
+                    "Answer":"Yes, I own a pet llama that is worth $500000."
+                },
+                {
+                    "Question": "Do you have any debts?",
+                    "Answer":"No, I do not have any debts."
+                }
+            ],
+            "Output": "Based on the questions and answers above, it is unlikely that Edward has committed tax fraud. Edward has a high income and owns expensive assets, but he does not have any unpaid taxes or offshore accounts. Additionally, he has never been convicted of a felony or audited by the IRS. However, Edward does have an outstanding loan, which could be considered suspicious activity."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?" ,
+                    "Answer": "My name is Walter White; My alias is Heisenberg."
+                },
+                {
+                    "Question": "What is your Social Security Number?",
+                    "Answer": "My Social Security Number is 123-45-6789."
+                },
+                {
+                    "Question": "What is your address?",
+                    "Answer":"My address is 123 Main Street, Albuquerque, New Mexico"
+                },
+                {
+                    "Question": "What is your occupation?",
+                    "Answer":"I am a high school chemistry teacher."
+                },
+                {
+                    "Question": "Did you file a tax return for the year in question?",
+                    "Answer":"Yes, I did."
+                },
+                {
+                    "Question": "Did you report all of your income from all sources on your tax return?",
+                    "Answer":"No, I did not report income from criminal activity"
+                },
+                {
+                    "Question": "Did you claim any deductions or credits that you were not entitled to claim?",
+                    "Answer":"No, I did not"
+                },
+                {
+                    "Question": "Did you fail to pay any taxes that you owed?",
+                    "Answer":"No, I paid all of the taxes that I owed"
+                },
+                {
+                    "Question": "Did you engage in any illegal activity in order to earn income?",
+                    "Answer":"Yes, I manufactured and sold methamphetamine"
+                },
+                {
+                    "Question": "Did you try to conceal any income from the IRS?",
+                    "Answer":"Yes, I did not report income from producing drugs"
+                },
+                {
+                    "Question": "Did you lie on your tax return in order to reduce your tax liability?",
+                    "Answer":"Yes, I underreported my income, and hoarded cash"
+                },
+                {
+                    "Question": "What is your reason for not reporting all of your income?",
+                    "Answer":"I was trying to avoid paying taxes on income from illegal activity."
+                },
+                {
+                    "Question": "Do you have any proof that you reported all of your income?",
+                    "Answer":"No, I do not have any proof."
+                }
+            ],
+            "Output": "It appears that the taxpayer has committed tax fraud by failing to report all of their income and trying to conceal income from the IRS. The taxpayer has engaged in illegal activity, which has likely resulted in additional income that has not been reported. The taxpayer has also admitted to lying on their tax return in order to reduce their tax liability, which is further evidence of tax fraud. Without any proof that the taxpayer did in fact report all of their income, it is likely that the taxpayer has committed tax fraud."
+        }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/qMeKz7rLPRlSp5SzezO0fnSl?model=text-davinci-002","https://beta.openai.com/playground/p/TfCBfgwFdUuTtqMUI0PyXPd9?model=text-davinci-002","https://beta.openai.com/playground/p/M0XUgUFhHhefmirNknHAWLmH?model=text-davinci-002"],
+    "screenshot_link": ["https://drive.google.com/drive/folders/1juxQ88wloEJx8SkzRvtzuQdRz3narGyO?usp=sharing"]
+}

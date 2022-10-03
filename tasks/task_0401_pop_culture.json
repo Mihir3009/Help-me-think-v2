@@ -1,0 +1,148 @@
+{
+    "Contributor": "liteng",
+    "Domain": "Pop culture",
+    "Task": "Modify the lyrics of a song",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at modifying the lyrics. I will ask some questions to collect information and then I will use the information to modify the lyrics of a song.",
+        "task_specific_prompt": "Can you modify the lyrics of $a song name$ using above information?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "I'm in bad mood."
+                },
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue and red."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is Mapo Tofu."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is playing video games."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is cat."
+                },
+                {
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is Hip-hop."
+                },
+                {
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the national park."
+                },
+                {
+                    "Question": "What is your favorite thing to do?",
+                    "Answer": "My favorite thing to do is to go shopping."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "My favorite movie is Inception."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "My favorite book is A hundred years of solitude."
+                }
+            ],
+            "Output": "I got, I got, I got, I got \\ Bad mood, but I still look cute though\\Color blue and red, lookin' like I'm in the mood\\for some Mapo Tofu\\Gotta stay focused, can't let these video games get the best of me\\My favorite animal's a cat, that's why I'm in the studio\\Hip-hop is my favorite type of music, so I'm makin' hits\\I'm at the national park, and I'm feelin' alive\\I love to go shopping, but I still stay humble\\Inception is my favorite movie, and I'm thinkin' deep\\A hundred years of solitude is my favorite book, and it's all about me"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Alone in my room."
+                },
+                {
+                    "Question": "What is the mood?",
+                    "Answer": "I am feeling nostalgic."
+                },
+                {
+                    "Question": "What are some of the things you are thinking about?",
+                    "Answer": "I am thinking about my friends, parents and my girlfriend."
+                },
+                {
+                    "Question": "What is the song about?",
+                    "Answer": "The song is about being alone and feeling nostalgic."
+                },
+                {
+                    "Question": "What is the genre of the song?",
+                    "Answer": "The song is a R&B."
+                },
+                {
+                    "Question": "What is the tempo of the song?",
+                    "Answer": "The tempo of the song is slow."
+                },
+                {
+                    "Question": "What is the original artist of the song?",
+                    "Answer": "The original artist of the song is Daniel Caesar."
+                },
+                {
+                    "Question": "What is the title of the song?",
+                    "Answer": "The title of the song is 'Best Part'."
+                },
+                {
+                    "Question": "What is the name of the person you are thinking about?",
+                    "Answer": "I am thinking about my girlfriend Wen."
+                },
+                {
+                    "Question": "What is your relationship to the person you are thinking about?",
+                    "Answer": "I broke up with my girlfriend."
+                }
+            ],
+            "Output": "You were the best part of me\\The memories of us together\\They keep me company\\When I'm all alone\\In my room\\I'm feeling nostalgic\\Thinking 'bout my friends\\My parents and my girlfriend\\Wen, I miss you so much\\I can't help but think\\How things could have been\\If we didn't break up\\You were the best part of me"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Stay up too late."
+                },
+                {
+                    "Question": "What is the feeling or mood you want to convey?",
+                    "Answer": "I want to feel happy and peace."
+                },
+                {
+                    "Question": "What specific themes do you want to include?",
+                    "Answer": "I want to include the themes of love, happiness, and hope."
+                },
+                {
+                    "Question": "Do you have any other specific instructions?",
+                    "Answer": "Yes, I would like for the song to be upbeat and have a positive message."
+                },
+                {
+                    "Question": "What is the title of the song?",
+                    "Answer": "Stay the Night."
+                },
+                {
+                    "Question": "Who is the artist?",
+                    "Answer": "James Blunt."
+                },
+                {
+                    "Question": "Who is the audience?",
+                    "Answer": "The audience is myself."
+                },
+                {
+                    "Question": "What is the genre?",
+                    "Answer": "The genre is pop."
+                },
+                {
+                    "Question": "What is the tempo?",
+                    "Answer": "The tempo is quick."
+                },
+                {
+                    "Question": "What is the time signature?",
+                    "Answer": "The time signature is 8/30."
+                }
+            ],
+            "Output": "Come on, let's stay up all night\\We can dance until we feel alive\\It's just you and me, and the music and the lights\\So let's just stay the night\\We don't need nobody else\\We can stay here all by ourselves\\Just you and me, and the music and the lights\\So let's just stay the night\\I don't wanna go home\\I don't wanna be alone\\So won't you please stay with me\\We don't need nobody else\\ We can stay here all by ourselves\\Just you and me, and the music and the lights\\So let's just stay the night"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/jXSp8URKhcY5OFfrLTWp5y2f?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1HOVQ3BjN07Q_F-Cf24bTgXKor_EywWF_?usp=sharing"
+}

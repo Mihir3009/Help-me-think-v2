@@ -1,0 +1,148 @@
+{
+    "Contributor": "kalvakolanusaikousthubhadas",
+    "Domain": "Instructional Design",
+    "Task": "Course Rating Generator",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert instructional designer. I will ask some questions to collect information and then I will use the information to rate the course between preliminary, novice, and expert.",
+        "task_specific_prompt": "Write a rating (preliminary, novice, expert) the course using the questions and answers above. Rating should not be more than 1 sentence."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the objectives of the course?",
+                    "Answer": "To teach advanced database management systems to students."
+                },
+                {
+                    "Question": "What is the target audience for the course?",
+                    "Answer": "Students with prior experience working with databases and have been dealing with PL/SQL for at least one year."
+                },
+                {
+                    "Question": "What is the expected outcome of the course?",
+                    "Answer": "Students will be able to design efficient database management systems for large corporates."
+                },
+                {
+                    "Question": "What is the structure of the course?",
+                    "Answer": "The course is divided into theory based lectures and hands-on labs."
+                },
+                {
+                    "Question": "What is the difficulty level of the course?",
+                    "Answer": "The course difficulty is high."
+                },
+                {
+                    "Question": "What are the prerequisites for the course?",
+                    "Answer": "Students must have prior experience with PL/SQL and building database schemas which have tightly coupled tables."
+                },
+                {
+                    "Question": "What are the assessment methods used in the course?",
+                    "Answer": "Students will have to complete 2 projects and 8 assignments based on which they will be assessed."
+                },
+                {
+                    "Question": "What is the pass percentage for the course?",
+                    "Answer": "65% is the pass percentage."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "Duration of the course is 8 weeks."
+                },
+                {
+                    "Question": "What is the frequency of the course?",
+                    "Answer": "Classes are conducted every week on Monday & Tuesday."
+                }
+            ],
+            "Output": "This course is rated as expert."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the objectives of the course?",
+                    "Answer": "To help working professionals understand the how to respond to fire accidents at their workplace."
+                },
+                {
+                    "Question": "What is the target audience for the course?",
+                    "Answer": "Employees of corporates working on-site where fire hazards are possible."
+                },
+                {
+                    "Question": "What is the expected outcome of the course?",
+                    "Answer": "Upon completion of the course, students will be able to confidently handle fire accidents and bring themselves to safety."
+                },
+                {
+                    "Question": "What is the structure of the course?",
+                    "Answer": "The course is divided into theory based lectures, drills and hands-on practice sessions."
+                },
+                {
+                    "Question": "What is the difficulty level of the course?",
+                    "Answer": "The course difficulty is low."
+                },
+                {
+                    "Question": "What are the prerequisites for the course?",
+                    "Answer": "No prerequisites for this course."
+                },
+                {
+                    "Question": "What are the assessment methods used in the course?",
+                    "Answer": "Final evacuation drill."
+                },
+                {
+                    "Question": "What is the pass percentage for the course?",
+                    "Answer": "90% is the pass percentage."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "Duration of the course is 2 weeks."
+                },
+                {
+                    "Question": "What is the frequency of the course?",
+                    "Answer": "Classes are conducted every day between 5 to 6 PM."
+                }
+            ],
+            "Output": "Preliminary"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the objectives of the course?",
+                    "Answer": "To help students understand managerial economics and accounting."
+                },
+                {
+                    "Question": "What is the target audience for the course?",
+                    "Answer": "Working professionals who need to plan future plans of an organisation based on existing market trends and economic situations."
+                },
+                {
+                    "Question": "What is the expected outcome of the course?",
+                    "Answer": "Students will be equipped with skills to assess the current economic conditions to make best out of them to help their organisations grow."
+                },
+                {
+                    "Question": "What is the structure of the course?",
+                    "Answer": "The course is primarily deliver through lectures."
+                },
+                {
+                    "Question": "What is the difficulty level of the course?",
+                    "Answer": "The course difficulty is above average."
+                },
+                {
+                    "Question": "What are the prerequisites for the course?",
+                    "Answer": "Strong foundation in economics for this course."
+                },
+                {
+                    "Question": "What are the assessment methods used in the course?",
+                    "Answer": "Mid-term and final exams"
+                },
+                {
+                    "Question": "What is the pass percentage for the course?",
+                    "Answer": "50% is the pass percentage."
+                },
+                {
+                    "Question": "What is the duration of the course?",
+                    "Answer": "Duration of the course is 8 weeks."
+                },
+                {
+                    "Question": "What is the frequency of the course?",
+                    "Answer": "Classes are conducted every week on Monday & Friday."
+                }
+            ],
+            "Output": "The course is rated as preliminary."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/dfWZ1dbAv4896U9ehvXLyR1v?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ufIQZdwdfFdYGlb9_jcRF_TeNUIZbbgU/view?usp=sharing"
+}

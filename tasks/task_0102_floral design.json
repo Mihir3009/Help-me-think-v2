@@ -1,0 +1,147 @@
+{
+    "Domain": "Floral Design",
+    "Task": "To suggest good corsage.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert floral designer. I will ask some questions to collect information and then I will use the information to suggest the best design for your corsage.",
+        "task_specific_prompt": "Suggest the good corsage option based on questions and answer above in detail."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Wedding"
+                },
+                {
+                    "Question": "What is the bride's dress like?",
+                    "Answer": "The bride's dress is white and strapless."
+                },
+                {
+                    "Question": "What are the bride's flowers like?",
+                    "Answer": "The bride's flowers are white roses."
+                },
+                {
+                    "Question": "What is the groom's attire like?",
+                    "Answer": "The groom is wearing a black tuxedo."
+                },
+                {
+                    "Question": "What is the color scheme of the event?",
+                    "Answer": "The event is black and white."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$50"
+                },
+                {
+                    "Question": "What is your preferred style?",
+                    "Answer": "Romantic, and Classic."
+                },
+                {
+                    "Question": "What is the time of day of the event?",
+                    "Answer": "Evening"
+                },
+                {
+                    "Question": "What is the location of the event?",
+                    "Answer": "The event is taking place indoors."
+                },
+                {
+                    "Question": "Are you looking for a wrist corsage or pin-on corsage?",
+                    "Answer": "Wrist corsage"
+                }
+            ],
+            "Output": "I would suggest a romantic and classic white wrist corsage with some black accents. This corsage will go well with the bride's dress and the groom's attire. The black and white color scheme of the event will also be complimented by this corsage."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Prom"
+                },
+                {
+                    "Question": "What is the color scheme of the event?",
+                    "Answer": "Green and white"
+                },
+                {
+                    "Question": "What type of flowers would you like to use?",
+                    "Answer": "Roses"
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$40"
+                },
+                {
+                    "Question": "Would you like a wrist corsage or a pin-on corsage?",
+                    "Answer": "Pin corsage"
+                },
+                {
+                    "Question": "Do you have any other requests?",
+                    "Answer": "I would like the corsage to be mostly white with a few green accents."
+                },
+                {
+                    "Question": "What is the date of the event?",
+                    "Answer": "March 10"
+                },
+                {
+                    "Question": "What is your phone number?",
+                    "Answer": "555-555-1234"
+                },
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "tirth@email.com"
+                },
+                {
+                    "Question": "What is your name?",
+                    "Answer": "John Doe"
+                }
+            ],
+            "Output": "Based on the information provided, I would suggest a white rose corsage with a few green accents. The design would be appropriate for a prom or other formal event. The corsage would be pinned on, and the budget is $40."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What color are the flowers you would like to use in the corsage?",
+                    "Answer": "The color of the flowers is very important when it comes to designing a corsage. I would suggest using a color that compliments the color of the dress you will be wearing."
+                },
+                {
+                    "Question": "What type of flowers would you like to use in the corsage?",
+                    "Answer": "There are many different types of flowers that can be used in a corsage. I would suggest using a type of flower that is both pretty and durable. Roses are always a good choice."
+                },
+                {
+                    "Question": "How large do you want the corsage to be?",
+                    "Answer": "I would suggest using a size that is proportional to the size of your dress. A large corsage might look out of place on a small dress, while a small corsage might get lost on a large dress."
+                },
+                {
+                    "Question": "Do you have any other specific requests for the corsage?",
+                    "Answer": "Want a letter S in corsage."
+                },
+                {
+                    "Question": "What is the occasion for which you will be wearing the corsage?",
+                    "Answer": "Engagement party"
+                },
+                {
+                    "Question": "When do you need the corsage?",
+                    "Answer": "The date of the engagement party."
+                },
+                {
+                    "Question": "Where will you be wearing the corsage?",
+                    "Answer": "Right hand."
+                },
+                {
+                    "Question": "What is your budget for the corsage?",
+                    "Answer": "50$.."
+                },
+                {
+                    "Question": "What is your contact information?",
+                    "Answer": "Name: Tirth Patel"
+                },
+                {
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "Based on the information provided, I would suggest using a single rose for the corsage. I would suggest using a white rose to compliment the color of the dress. The corsage should be small and delicate, yet durable. I would also suggest adding a small bow or ribbon in the same color as the dress. The corsage should be worn on the right hand."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/a4Pv9rG0cJVeYlcDFx6dlW3B?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/16D056X1gCmq1MM39aZyllzoul6JgIlWh?usp=sharing"
+}

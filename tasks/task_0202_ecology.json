@@ -1,0 +1,168 @@
+{
+    "Contributor": "voraaakashsudhirbhai",
+    "Domain": "Ecology",
+    "Task": "Evolutionary Relative",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert zoologist. I will ask some questions to collect information about the animal and then I will use the information to find it's closest evolutionary relative.",
+        "task_specific_prompt": "Predict the closest evolutionary relative  of the animal using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the animal's name?",
+                    "Answer": "The animal's name is the dog."
+                },
+                {
+                    "Question": "What is the animal's scientific name?",
+                    "Answer": "The animal's scientific name is Canis lupus familiaris."
+                },
+                {
+                    "Question": "What is the animal's natural habitat?",
+                    "Answer": "The animal's natural habitat is the city."
+                },
+                {
+                    "Question": "What is the animal's diet?",
+                    "Answer": "The animal's diet is omnivorous."
+                },
+                {
+                    "Question": "What is the animal's body type?",
+                    "Answer": "The animal's body type is mammalian."
+                },
+                {
+                    "Question": "What is the animal's average lifespan?",
+                    "Answer": "The animal's average lifespan is 12 years."
+                },
+                {
+                    "Question": "What is the animal's reproductive method?",
+                    "Answer": "The animal's reproductive method is sexual reproduction."
+                },
+                {
+                    "Question": "What are the animal's main predators?",
+                    "Answer": "The animal's main predators are tiger and lion."
+                },
+                {
+                    "Question": "What are the animal's main prey?",
+                    "Answer": "The animal's main prey are cats."
+                },
+                {
+                    "Question": "What is the animal's size?",
+                    "Answer": "The animal's size is medium."
+                },
+                {
+                    "Question": "What is the animal's weight?",
+                    "Answer": "The animal's weight is 20-30 kg."
+                },
+                {
+                    "Question": "What is the animal's fur color?",
+                    "Answer": "The animal's fur color is black, brown, or white."
+                },
+                {
+                    "Question": "What is the animal's eye color?",
+                    "Answer": "The animal's eye color is brown."
+                },
+                {
+                    "Question": "What is the animal's tail type?",
+                    "Answer": "The animal's tail type is long and bushy."
+                }
+            ],
+            "Output": "The animal's closest evolutionary relative is the wolf."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the animal's name?",
+                    "Answer": "The animal's name is cat."
+                },
+                {
+                    "Question": "What is the animal's scientific name?",
+                    "Answer": "The animal's scientific name is Felis catus."
+                },
+                {
+                    "Question": "What are the animal's physical characteristics?",
+                    "Answer": "The animal is a small to medium sized mammal with four legs, fur, and a tail. It has sharp claws and teeth, and is an excellent hunter."
+                },
+                {
+                    "Question": "What is the animal's habitat?",
+                    "Answer": "The animal is found in a variety of habitats, including forests, grasslands, and urban areas."
+                },
+                {
+                    "Question": "What is the animal's diet?",
+                    "Answer": "The animal is a carnivore, and its diet consists mainly of small mammals, birds, and reptiles."
+                },
+                {
+                    "Question": "What is the animal's behavior?",
+                    "Answer": "The animal is a solitary hunter, and is mostly active at night. It is an excellent climbers, and is also known for its vocalizations, including meowing, purring, and hissing."
+                },
+                {
+                    "Question": "What is the animal's life cycle?",
+                    "Answer": "The animal is born alive, and typically gives birth to litters of two to five kittens. The animal reaches sexual maturity at around one year of age, and can live for up to 15 years in the wild."
+                },
+                {
+                    "Question": "What is the animal's evolutionary history?",
+                    "Answer": "The animal is a member of the Felidae family, which includes all cats. Cats are thought to have originated in Asia, and they first appeared in the fossil record around 30 million years ago."
+                },
+                {
+                    "Question": "What other animals are in the same family as the animal?",
+                    "Answer": "The animal is a member of the Felidae family, which includes all cats."
+                },
+                {
+                    "Question": "What other animals are in the same order as the animal?",
+                    "Answer": "The animal is a member of the Carnivora order, which includes all carnivorous mammals."
+                }
+            ],
+            "Output": "The closest evolutionary relative of the animal is the tiger."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the animal's name?",
+                    "Answer": "The animal's name is crocodile."
+                },
+                {
+                    "Question": "What does the animal look like?",
+                    "Answer": "The animal looks like a large reptile with a long snout and a hard, scaly skin. It has four short legs and a long, powerful tail."
+                },
+                {
+                    "Question": "Where does the animal live?",
+                    "Answer": "The animal lives in warm, wet areas such as swamps, rivers, and lakes."
+                },
+                {
+                    "Question": "What does the animal eat?",
+                    "Answer": "The animal is a carnivore and it eats fish, reptiles, mammals, and birds."
+                },
+                {
+                    "Question": "How does the animal reproduce?",
+                    "Answer": "The animal lays eggs in a nest. The eggs hatch into young crocodiles."
+                },
+                {
+                    "Question": "What is the animal's lifespan?",
+                    "Answer": "The animal can live for up to 70 years."
+                },
+                {
+                    "Question": "What other information can you tell me about the animal?",
+                    "Answer": "The animal is a cold-blooded vertebrate. It is an ambush predator and it can stay submerged underwater for up to an hour."
+                },
+                {
+                    "Question": "How does the animal move?",
+                    "Answer": "The animal walks on all fours, but it can also swim and crawl."
+                },
+                {
+                    "Question": "What is the animal's scientific name?",
+                    "Answer": "The animal's scientific name is Crocodylus niloticus."
+                },
+                {
+                    "Question": "What is the animal's taxonomic family?",
+                    "Answer": "The animal's taxonomic family is Crocodylidae."
+                }
+            ],
+            "Output": "The closest evolutionary relative of the crocodile is the alligator."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/m19j8LiDQnvV9Su2hUOmiPIb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5uO80MbSJ8xU56cCG28Pgoqb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/n5c0VnNHuiktOrDsvKvqLWJR?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1q0wf3ZKyUo3EDb7Uito_3rtCSGHQU6r-?usp=sharing"
+}

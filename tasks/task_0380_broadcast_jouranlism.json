@@ -1,0 +1,209 @@
+{
+    "Contributor": "khajuriabrijbhushan",
+    "Domain": "Broadcast Jouranlism",
+    "Task": "Movie Name Creation",
+    "Prompt": {
+        "pre_question_prompt": "I am the screenwriter for a new $genre$ movie.  I will ask the script writer 15 questions about the movie except for its title.",
+        "intermediate_prompt": "I am the script writer. I will answer above questions in detail.",
+        "task_specific_prompt": "Suggest 3 titles for the movie from above answers."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the plot of the movie?",
+                    "Answer": "1. The plot of the movie is about a group of friends who start a business together and then face conflicts and challenges as they try to make it successful."
+                },
+                {
+                    "Question": "2. What is the genre of the movie?",
+                    "Answer": "2. The genre of the movie is comedy."
+                },
+                {
+                    "Question": "3. What is the setting of the movie?",
+                    "Answer": "3. The setting of the movie is in a small town."
+                },
+                {
+                    "Question": "4. Who are the main characters in the movie?",
+                    "Answer": "4. The main characters in the movie are the friends who start the business together."
+                },
+                {
+                    "Question": "5. What are the supporting characters in the movie?",
+                    "Answer": "5. The supporting characters in the movie are the friends' families and the people in the town."
+                },
+                {
+                    "Question": "6. What is the main conflict in the movie?",
+                    "Answer": "6. The main conflict in the movie is the friends' struggle to make their business successful."
+                },
+                {
+                    "Question": "7. What is the climax of the movie?",
+                    "Answer": "7. The climax of the movie is when the friends finally succeed in making their business successful."
+                },
+                {
+                    "Question": "8. What is the resolution of the movie?",
+                    "Answer": "8. The resolution of the movie is the friends' celebration of their success."
+                },
+                {
+                    "Question": "9. What is the moral of the movie?",
+                    "Answer": "9. The moral of the movie is that teamwork and determination can help you achieve your goals."
+                },
+                {
+                    "Question": "10. What theme or message is the movie trying to communicate?",
+                    "Answer": "10. The theme or message of the movie is that friendship and teamwork are important."
+                },
+                {
+                    "Question": "11. How does the ending of the movie reflect the overall theme or message of the movie?",
+                    "Answer": "11. The ending of the movie reflects the overall theme or message of the movie by showing the friends' success as a result of their teamwork and determination."
+                },
+                {
+                    "Question": "12. What scenes in the movie are most memorable or impactful?",
+                    "Answer": "12. The most memorable or impactful scenes in the movie are the scenes where the friends are working together to make their business successful."
+                },
+                {
+                    "Question": "13. What scenes in the movie are most funny or heartwarming?",
+                    "Answer": "13. The most funny or heartwarming scenes in the movie are the scenes where the friends are joking around or helping each other out."
+                },
+                {
+                    "Question": "14. What scenes in the movie are most suspenseful or action-packed?",
+                    "Answer": "14. The most suspenseful or action-packed scenes in the movie are the scenes where the friends are trying to figure out a solution to a problem or facing a challenge."
+                },
+                {
+                    "Question": "15. What elements of the movie make it unique or different from other movies in its genre?",
+                    "Answer": "15. The elements of the movie that make it unique or different from other movies in its genre are the friendship and teamwork themes."
+                }
+            ],
+            "Output": "1. Business Buddies\n\n2. Teammates\n\n3. The Friendship Factor"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the genre of your movie?",
+                    "Answer": "1. The movie is an action movie."
+                },
+                {
+                    "Question": "2. What is the plot of your movie?",
+                    "Answer": "2. The plot of the movie is about a group of criminals who team up to pull off a heist."
+                },
+                {
+                    "Question": "3. What is the setting of your movie?",
+                    "Answer": "3. The setting of the movie is in a city."
+                },
+                {
+                    "Question": "4. Who are the main characters in your movie?",
+                    "Answer": "4. The main characters in the movie are the criminals."
+                },
+                {
+                    "Question": "5. What is the main conflict in your movie?",
+                    "Answer": "5. The main conflict in the movie is whether or not they will be able to pull off the heist."
+                },
+                {
+                    "Question": "6. What is the climax of your movie?",
+                    "Answer": "6. The climax of the movie is when they execute the heist."
+                },
+                {
+                    "Question": "7. What are the stakes in your movie?",
+                    "Answer": "7. The stakes in the movie are whether or not they will get away with the money."
+                },
+                {
+                    "Question": "8. What is the theme of your movie?",
+                    "Answer": "8. The theme of the movie is crime."
+                },
+                {
+                    "Question": "9. What is the tone of your movie?",
+                    "Answer": "9. The tone of the movie is suspenseful."
+                },
+                {
+                    "Question": "10. How does your movie end?",
+                    "Answer": "10. The movie ends with the criminals getting away with the money."
+                },
+                {
+                    "Question": "11. What is the budget for your movie?",
+                    "Answer": "11. The budget for the movie is $20 million."
+                },
+                {
+                    "Question": "12. What is the target audience for your movie?",
+                    "Answer": "12. The target audience for the movie is adults."
+                },
+                {
+                    "Question": "13. What is the release date for your movie?",
+                    "Answer": "13. The release date for the movie is June 20, 2020."
+                },
+                {
+                    "Question": "14. What is the running time for your movie?",
+                    "Answer": "14. The running time for the movie is 2 hours."
+                },
+                {
+                    "Question": "15. What are the production companies for your movie?",
+                    "Answer": "15. The production companies for the movie are Universal Pictures and Blumhouse Productions."
+                }
+            ],
+            "Output": "1. Heist\n2. The Heisters\n3. The Big Heist"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the movie about?",
+                    "Answer": "1. The movie is about a young woman who falls in love with a man she meets on a dating app."
+                },
+                {
+                    "Question": "2. What are the main characters' names?",
+                    "Answer": "2. The main characters' names are Sarah and Matt."
+                },
+                {
+                    "Question": "3. What is the basic plot of the movie?",
+                    "Answer": "3. The basic plot of the movie is that Sarah and Matt meet on a dating app and start dating. They have to deal with the ups and downs of a long-distance relationship."
+                },
+                {
+                    "Question": "4. Where does the movie take place?",
+                    "Answer": "4. The movie takes place in New York City and Los Angeles."
+                },
+                {
+                    "Question": "5. What is the love story in the movie?",
+                    "Answer": "5. The love story in the movie is between Sarah and Matt."
+                },
+                {
+                    "Question": "6. Are there any other subplots in the movie?",
+                    "Answer": "6. There are no other subplots in the movie."
+                },
+                {
+                    "Question": "7. What is the ending of the movie?",
+                    "Answer": "7. The ending of the movie is happy. Sarah and Matt end up getting married."
+                },
+                {
+                    "Question": "8. What are the movie's themes?",
+                    "Answer": "8. The movie's themes are love, relationships, and long-distance relationships."
+                },
+                {
+                    "Question": "9. What is the tone of the movie?",
+                    "Answer": "9. The tone of the movie is light and romantic."
+                },
+                {
+                    "Question": "10. What is the main character's motivation?",
+                    "Answer": "10. Sarah's motivation is to find love."
+                },
+                {
+                    "Question": "11. What is the main conflict in the movie?",
+                    "Answer": "11. The main conflict in the movie is the long-distance relationship between Sarah and Matt."
+                },
+                {
+                    "Question": "12. How is the love story resolved?",
+                    "Answer": "12. The love story is resolved when Sarah and Matt get married."
+                },
+                {
+                    "Question": "13. What scenes in the movie are most memorable?",
+                    "Answer": "13. The most memorable scenes in the movie are the scenes where Sarah and Matt are together."
+                },
+                {
+                    "Question": "14. What makes the movie unique?",
+                    "Answer": "14. What makes the movie unique is that it is a light and romantic movie about a long-distance relationship."
+                },
+                {
+                    "Question": "15. What did you think of the movie?",
+                    "Answer": "15. I thought the movie was sweet and romantic. I liked the light tone and the happy ending."
+                }
+            ],
+            "Output": "1. \"Long Distance Love\"\n2. \"Dating App Romance\"\n3. \"Love in the City\""
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/j5s4bte6ocT4bTIzzfUkQLnt?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1zaBfUnpKf7KAPuwrsZG8EjAevVQj3Ws7?usp=sharing"
+}

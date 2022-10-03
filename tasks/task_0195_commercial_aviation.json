@@ -1,0 +1,148 @@
+{
+    "Contributor": "singhfateh",
+    "Domain": "Commercial Aviation",
+    "Task": "Plan retirement for commercial aviation pilot",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert commercial aviation pilot I will ask some questions to collect information and then I will use the information to plan my retirement.\n\n",
+        "task_specific_prompt": "Write a retirement plan for me using the questions and answers above. Write a detailed retirement plan of at least 250 words so that I accumulate enough wealth to buy a private plane."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How long have you been flying commercially?",
+                    "Answer": "1 year"
+                },
+                {
+                    "Question": "What are your current flying duties?",
+                    "Answer": "I am currently a vice captain for United."
+                },
+                {
+                    "Question": "What is your retirement plan?",
+                    "Answer": "I do not have a retirement plan"
+                },
+                {
+                    "Question": "What are your thoughts on commercial aviation after retirement?",
+                    "Answer": "I do not know"
+                },
+                {
+                    "Question": "Do you have any advice for other commercial pilots who are planning their retirement?",
+                    "Answer": "I just started so I do not know answer to this question"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I think that commercial aviation has a bright future. "
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "Let's form a union"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I am not a future teller"
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "I do not have any advice"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "All the flights will be fully autonomous."
+                }
+            ],
+            "Output": "I have been flying commercially for 1 year and my current flying duties are as a vice captain for United. I do not have a retirement plan. I think that commercial aviation has a bright future. I do not have any advice for other pilots who are planning their retirement.\nMy retirement plan is to continue flying for United until I reach the age of 65. At that time, I will retire from flying and begin to draw from my 401k and other investments. I will also begin to collect Social Security benefits. I plan to live off of these sources of income until I die.\nTemp"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How long have you been flying commercially?",
+                    "Answer": "I have been flying commercially for over 100 years."
+                },
+                {
+                    "Question": "What are your current flying duties?",
+                    "Answer": "I am currently a captain for United."
+                },
+                {
+                    "Question": "What is your retirement plan?",
+                    "Answer": "I plan on retiring in the next 100 years."
+                },
+                {
+                    "Question": "What are your thoughts on commercial aviation after retirement?",
+                    "Answer": "I think that commercial aviation is a great industry to be a part of after retirement."
+                },
+                {
+                    "Question": "Do you have any advice for other commercial pilots who are planning their retirement?",
+                    "Answer": "It is also important to have a retirement plan in place so that you know how you will support yourself after you retire."
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I think that commercial aviation has a bright future. The industry is constantly evolving and there are new opportunities for pilots to explore. "
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "Yes, my advice is to start saving early and to have a retirement plan in place. It is also important to find ways to supplement your income after you retire. Saving at least 1000% of your income."
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "There may not be any pilots in the future"
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "Yes, live longer so that you can fly longer"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "All the flights will be fully autonomous."
+                }
+            ],
+            "Output": "I have been flying commercially for over 100 years. I am currently a captain for United. I plan on retiring in the next 100 years. I think that commercial aviation is a great industry to be a part of after retirement. I think that commercial aviation has a bright future. The industry is constantly evolving and there are new opportunities for pilots to explore. My advice is to start saving early and to have a retirement plan in place. It is also important to find ways to supplement your income after you retire. Saving at least 1000% of your income."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How long have you been flying commercially?",
+                    "Answer": "1 year"
+                },
+                {
+                    "Question": "What are your current flying duties?",
+                    "Answer": "I am currently a vice captain for United."
+                },
+                {
+                    "Question": "What is your retirement plan?",
+                    "Answer": "I do not have a retirement plan"
+                },
+                {
+                    "Question": "What are your thoughts on commercial aviation after retirement?",
+                    "Answer": "I do not know"
+                },
+                {
+                    "Question": "Do you have any advice for other commercial pilots who are planning their retirement?",
+                    "Answer": "I just started so I do not know answer to this question"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I think that commercial aviation has a bright future. "
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "Let's form a union"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "I am not a future teller"
+                },
+                {
+                    "Question": "Do you have any advice for other pilots who are planning their retirement?",
+                    "Answer": "I do not have any advice"
+                },
+                {
+                    "Question": " What are your thoughts on the future of commercial aviation?",
+                    "Answer": "All the flights will be fully autonomous."
+                }
+            ],
+            "Output": "My plan is to continue flying for United until I reach the age of 65. At that point, I will retire from my position as a vice captain and begin to fly private planes for wealthy individuals. I will continue to do this until I am 70 years old. At that point, I will sell my private plane and retire completely. I will use the money from the sale of my plane to purchase a small island off the coast of Florida, where I will spend my retirement years."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/s81i5MHF7aTYKCEy7pX8zwJu?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1uA_dU_PSrVhw17ZIBj1jUpVXPr-S-6WM/view?usp=sharing"
+}

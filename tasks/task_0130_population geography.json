@@ -1,0 +1,187 @@
+{
+    "Domain":"Population Geography",
+    "Task":"Issues due to Population Inequality",
+    "Prompt":{
+        "pre_question_prompt":"I am an expert in predicting issues arising due to population inequality. I will ask some questions to collect information and then I will use the information to predict issues arising due to population inequality in the city.",
+        "task_specific_prompt":"Predict the challenges that will occur due to population inequality in the city using the questions and answers above. Also, suggest if the city is habitable or not."
+    },
+    "Instances":[
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"1,618,000"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in poverty?",
+                    "Answer":"16.9%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is unemployed?",
+                    "Answer":"19.7%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is undereducated?",
+                    "Answer":"21.5%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is under housed?",
+                    "Answer":"15.4%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is over housed?",
+                    "Answer":"5.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in overcrowded conditions?",
+                    "Answer":"8.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in slums?",
+                    "Answer":"11.3%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in unsafe or unhealthy conditions?",
+                    "Answer":"15.6%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high crime rates?",
+                    "Answer":"17.5%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high levels of pollution?",
+                    "Answer":"19.3%"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to clean water?",
+                    "Answer":"25.3%"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to adequate sanitation?",
+                    "Answer":"21.8%"
+                }
+            ],
+            "Output":"The main challenges that will occur due to population inequality in the city are: -A high crime rate -High levels of pollution -Lack of access to clean water -Lack of access to adequate sanitation -Poor living conditions in general The city is not habitable for a large portion of the population due to these issues."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"2,312,000"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in poverty?",
+                    "Answer":"1.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is unemployed?",
+                    "Answer":"2.1%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is undereducated?",
+                    "Answer":"3.5%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is under housed?",
+                    "Answer":"2.3%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is over housed?",
+                    "Answer":"1.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in overcrowded conditions?",
+                    "Answer":"2.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in slums?",
+                    "Answer":"1.56%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in unsafe or unhealthy conditions?",
+                    "Answer":"1.24%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high crime rates?",
+                    "Answer":"2.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high levels of pollution?",
+                    "Answer":"2.98%"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to clean water?",
+                    "Answer":"3.21%"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to adequate sanitation?",
+                    "Answer":"2.38%"
+                }
+            ],
+            "Output":"The main challenges that will occur in the city due to population inequality are lack of access to clean water, lack of access to adequate sanitation, high levels of pollution, high crime rates, and overcrowding. The city is not habitable for a large portion of the population due to these conditions."
+        },
+        {
+            "QApair":[
+                {
+                    "Question":"What is the population of the city?",
+                    "Answer":"6,118,000"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in poverty?",
+                    "Answer":"2.2%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is unemployed?",
+                    "Answer":"3.7%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is undereducated?",
+                    "Answer":"2.5%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is under housed?",
+                    "Answer":"1.23%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is over housed?",
+                    "Answer":"2.34%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in overcrowded conditions?",
+                    "Answer":"1.1%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in slums?",
+                    "Answer":"3.12%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in unsafe or unhealthy conditions?",
+                    "Answer":"2.32%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high crime rates?",
+                    "Answer":"1.26%"
+                },
+                {
+                    "Question":"What is the percentage of the population that is living in areas with high levels of pollution?",
+                    "Answer":"1.29%"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to clean water?",
+                    "Answer":"1.08"
+                },
+                {
+                    "Question":"What is the percentage of the population that does not have access to adequate sanitation?",
+                    "Answer":"2.11%"
+                }
+            ],
+            "Output":"The city is habitable. However, some challenges that may occur due to population inequality include: crime, pollution, poverty, and lack of access to clean water and adequate sanitation."
+        }
+    ],
+    "Preset_link":[
+        "https://beta.openai.com/playground/p/hg0CsuJFU314jEXsVFNlP17I?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5WtoQO3eeG2jL58za69Z4ovm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fNA2hM7i9CAlWljQG8Q8vX5k?model=text-davinci-002"
+    ],
+    "screenshot_link":"https://drive.google.com/drive/folders/10M7iQ2PxyIwVJloh9gytB_fR4ap04HLR?usp=sharing"
+}

@@ -1,0 +1,144 @@
+{
+    "Contributor": "sangarajusrihariraju",
+    "Domain": "Park",
+    "Task": "Park critic",
+    "Prompt": {
+            "pre_question_prompt": "I am an expert park critic. I will ask some questions to collect information and then I will use the information to find good and bad about park for you",
+            "task_specific_prompt": "Write a park review using the questions and answers above"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What do you think is the most important aspect of a park?",
+                    "Answer": "The most important aspect of a park is that it is clean and well-maintained"
+                },
+                {
+                    "Question": "What do you like best about this park?",
+                    "Answer": "I like that the park is very clean and well-maintained. I also like that there is a lot of green space and trees"
+                },
+                {
+                    "Question": "What do you think could be improved about this park?",
+                    "Answer": "I think that the park could use more benches, picnic tables and play are of children can be improved"
+                },
+                {
+                    "Question": "Overall, how would you rate this park?",
+                    "Answer": "Overall, I would rate this park as good."
+                },
+                {
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "I think park should open at 6 AM instead of 8 AM"
+                }
+            ],
+            "Output": "This park is very clean and well-maintained, which is the most important aspect of a park. I also like that there is a lot of green space and trees. The only thing I think could be improved about this park is that there could be more benches, picnic tables and play areas for children. Overall, I would rate this park as good."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the name of the park?",
+                    "Answer": "daley park"
+                },
+                {
+                    "Question": "2. What is the park's address?",
+                    "Answer": "4400 west 55th street"
+                },
+                {
+                    "Question": "3. What is the park's website?",
+                    "Answer": "www.daleypark.org"
+                },
+                {
+                    "Question": "4. When was the park established?",
+                    "Answer": "The park was established in 1869"
+                },
+                {
+                    "Question": "5. What is the size of the park?",
+                    "Answer": "The park is approximately 108 acres"
+                },
+                {
+                    "Question": "6. What is the park's primary use?",
+                    "Answer": "The park is primarily used as a recreational space for picnicking, playing sports, and walking"
+                },
+                {
+                    "Question": "7. What amenities does the park offer?",
+                    "Answer": "The park offers a playground, a swimming pool, a field house, a basketball court, and a baseball diamond."
+                },
+                {
+                    "Question": "8. Is the park clean and well-maintained?",
+                    "Answer": "The park is clean and well-maintained."
+                },
+                {
+                    "Question": "9. Is the park safe?",
+                    "Answer": "The park is safe."
+                },
+                {
+                    "Question": "10. Would you recommend this park to others?",
+                    "Answer": "Yes, I would recommend this park to others."
+                },
+                {
+                    "Question": "11. What is your favorite thing about the park?",
+                    "Answer": "My favorite thing about the park is the playground."
+                }
+            ],
+            "Output": "Daley Park is a great park for picnicking, playing sports, and walking. The playground is my favorite amenity because it's great for kids. The park is clean and well-maintained, and it's also safe. I would definitely recommend it to others."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "1. What is the name of the park?",
+                    "Answer": "daley park"
+                },
+                {
+                    "Question": "2. What is the park's address?",
+                    "Answer": "4400 west 55th street"
+                },
+                {
+                    "Question": "3. What is the park's website?",
+                    "Answer": "www.daleypark.org"
+                },
+                {
+                    "Question": "4. When was the park established?",
+                    "Answer": "The park was established in 1869"
+                },
+                {
+                    "Question": "5. What is the size of the park?",
+                    "Answer": "The park is approximately 108 acres"
+                },
+                {
+                    "Question": "6. What is the park's primary use?",
+                    "Answer": "The park is primarily used as a recreational space for picnicking, playing sports, and walking"
+                },
+                {
+                    "Question": "7. What amenities does the park offer?",
+                    "Answer": "The park offers a playground, a swimming pool, a field house, a basketball court, and a baseball diamond."
+                },
+                {
+                    "Question": "8. Is the park clean and well-maintained?",
+                    "Answer": "The park is clean and well-maintained."
+                },
+                {
+                    "Question": "9. Is the park safe?",
+                    "Answer": "not very safe at night"
+                },
+                {
+                    "Question": "10. What is your overall opinion of the park?",
+                    "Answer": "The park is a great place to picnic and play sports during the day. However, it is not very safe at night."
+                },
+                {
+                    "Question": "11. Would you recommend the park to others?",
+                    "Answer": "Yes, I would recommend the park to others in the day time only"
+                },
+                {
+                    "Question": "12. What is your favorite part of the park?",
+                    "Answer": "My favorite part of the park is the playground."
+                }
+            ],
+            "Output": "Daley Park is a great place to visit during the day. The park is large and offers a lot of amenities, including a playground, a swimming pool, a field house, a basketball court, and a baseball diamond. The park is also well-maintained and clean. However, I would not recommend visiting the park at night as it is not very safe."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/lEAYHUKXQRJLTEsP0RbmEscH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/7yJskQalGvUJcWKWTbVTEuDU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5rmseBk9wQpYke97Bqmfu6wF?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1eZrlp6vzwnFQxU-Xzw9k5UDMjsNkb45l?usp=sharing"
+}

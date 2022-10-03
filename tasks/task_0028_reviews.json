@@ -1,0 +1,147 @@
+{
+    "Domain": "Reviews",
+    "Task": "recommend movie you think I would review highly",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert movie reviewer. I will ask some questions to collect information on the kinds of movies you like and then I will use the information to recommend a movie I believe you would review highly.",
+        "task_specific_prompt": "Write a movie recommendation you think I would review highly using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite movies?",
+                    "Answer": "The Avengers, Home Alone, and Alien vs Predator."
+                },
+                {
+                    "Question": "What do you enjoy most about watching movies?",
+                    "Answer": "I like to watch characters develop into better versions of themselves."
+                },
+                {
+                    "Question": "What themes or topics are you particularly interested in?",
+                    "Answer": "I like characters with super powers, and I like an underdog showing up their rival."
+                },
+                {
+                    "Question": "What emotions do you like to feel while watching a movie?",
+                    "Answer": "Surprise, suspense, and satisfaction."
+                },
+                {
+                    "Question": "What genres do you prefer?",
+                    "Answer": "Sci-fi, fantasy, and action."
+                },
+                {
+                    "Question": "Are you interested in any specific directors or actors?",
+                    "Answer": "My favorite directory it Quentin Tarantino, and my favorite actors are Robin Williams and Matthew McConaughey."
+                },
+                {
+                    "Question": "What movies would you say you disliked?",
+                    "Answer": "I did not like the live-action Avatar the Last Airbender or Thor: The Dark World."
+                },
+                {
+                    "Question": "What kinds of movies do you NOT like?",
+                    "Answer": "I do not like movies that try to push an ideology but fail to actually have a compelling story."
+                },
+                {
+                    "Question": "What other information would you like me to know?",
+                    "Answer": "I like movies that are a part of a larger cinematic universe."
+                },
+                {
+                    "Question": "Finally, what is your favorite movie?",
+                    "Answer": "The Lord of the Rings: The Two Towers."
+                }
+            ],
+            "Output": "I recommend the movie Inception. It has a great cast, an interesting plot, and is directed by Christopher Nolan. I think you would enjoy it because it has all of the elements you mentioned you like in a movie. It is a sci-fi movie with a lot of action and suspense. The characters are developed very well and the ending is very satisfying."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite movies?",
+                    "Answer": "Brother Bear, Wall-E, and Lion King."
+                },
+                {
+                    "Question": "What do you enjoy most about watching movies?",
+                    "Answer": "I like the lessons learned."
+                },
+                {
+                    "Question": "What themes or topics are you particularly interested in?",
+                    "Answer": "Family values, and learning to trust in your friends."
+                },
+                {
+                    "Question": "What emotions do you like to feel while watching a movie?",
+                    "Answer": "Joy, love, and sadness."
+                },
+                {
+                    "Question": "What genres do you prefer?",
+                    "Answer": "Animation, and adventure."
+                },
+                {
+                    "Question": "Are you interested in any specific directors or actors?",
+                    "Answer": "Not particularly"
+                },
+                {
+                    "Question": "What movies would you say you disliked?",
+                    "Answer": "The Brave Little Toaster. It was too scary."
+                },
+                {
+                    "Question": "What kinds of movies do you NOT like?",
+                    "Answer": "Horror."
+                },
+                {
+                    "Question": "What other information would you like me to know?",
+                    "Answer": "I love movies where the main character has a fluffy four-legged friend."
+                },
+                {
+                    "Question": "Finally, what is your favorite movie?",
+                    "Answer": "Up."
+                }
+            ],
+            "Output": "I would recommend the movie Wall-E. I think you would review it highly because it is an animation movie with a strong message about family values."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some of your favorite movies?",
+                    "Answer": "The conjuring, insidious, and Scream"
+                },
+                {
+                    "Question": "What do you enjoy most about watching movies?",
+                    "Answer": "I like the suspense of the conjuring, and I like the satire of Scream."
+                },
+                {
+                    "Question": "What themes or topics are you particularly interested in?",
+                    "Answer": "Satirizing a genre and fighting against the unknown."
+                },
+                {
+                    "Question": "What emotions do you like to feel while watching a movie?",
+                    "Answer": "Fear, suspense."
+                },
+                {
+                    "Question": "What genres do you prefer?",
+                    "Answer": "Horror, comedy."
+                },
+                {
+                    "Question": "Are you interested in any specific directors or actors?",
+                    "Answer": "I like Patrick Swayze."
+                },
+                {
+                    "Question": "What movies would you say you disliked?",
+                    "Answer": "I did not like Texas chainsaw massacre because there was too much blood."
+                },
+                {
+                    "Question": "What kinds of movies do you NOT like?",
+                    "Answer": "Chick flicks and westerns."
+                },
+                {
+                    "Question": "What other information would you like me to know?",
+                    "Answer": "I like funny horror movies."
+                },
+                {
+                    "Question": "Finally, what is your favorite movie?",
+                    "Answer": "Scream."
+                }
+            ],
+            "Output": "I would recommend the movie Scream. I think you would review it highly because it is a horror movie that satirizes the genre. It is also directed by Patrick Swayze, who is one of your favorite actors."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/0vHUkzBN5u4C2iG0ipqURy2h?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1mlDDBjSNwdgh2QiqK0c1gzSEOMbauwq8?usp=sharing"
+}

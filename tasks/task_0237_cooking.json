@@ -1,0 +1,152 @@
+{
+    "Contributor": "yangyijin",
+    "Domain": "Cooking",
+    "Task": "cooking safety",
+    "Prompt": {
+        "pre_question_prompt": "in cooking safety",
+        "task_specific_prompt": "ensure safety during cooking"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the potential hazards when cooking?",
+                    "Answer": "There are many potential hazards when cooking, including explosions, cuts, and burns."
+                },
+                {
+                    "Question": "What can you do to prevent those hazards?",
+                    "Answer": "There are many things you can do to prevent cooking hazards, including unplugging applicants when you are not using them, using sharp knives with care, and never leaving anything on the stove without supervision."
+                },
+                {
+                    "Question": "What should you do if a hazard does occur?",
+                    "Answer": "If a cooking hazard does occur, it is important to take immediate action to mitigate the hazard. For example, if there is a fire, you should turn off the stove and call the fire department. If you cut yourself, you should clean the wound, stop the bleeding, and seek medical attention if necessary."
+                },
+                {
+                    "Question": "What are some general safety tips for cooking?",
+                    "Answer": "Some general safety tips for cooking include keeping the kitchen clean, being organized, and keeping children and pets from the kitchen. Additionally, it is important to be aware of the potential hazards that can occur when cooking and to take steps to prevent them."
+                },
+                {
+                    "Question": "What are some specific safety tips for using the stove?",
+                    "Answer": "Some specific safety tips for using the stove include never leaving the stove burning unattended, keeping flammable items away from the stove, and cleaning up any spills immediately. "
+                },
+                {
+                    "Question": "What are some specific safety tips for using knives?",
+                    "Answer": "Some specific safety tips for using knives include using a cutting board, wearing protective clothes, and being careful when cutting."
+                },
+                {
+                    "Question": "What are some specific safety tips for using appliances?",
+                    "Answer": "Some specific safety tips for using appliances include unplugging them when not in use, storing them in properly, and following the manufacturer's instructions."
+                },
+                {
+                    "Question": "What are some specific safety tips for cleaning up?",
+                    "Answer": "Some specific safety tips for cleaning up include using gloves, disposing of abandoned materials properly, and washing your hands thoroughly."
+                },
+                {
+                    "Question": "What are some general tips for preventing foodborne illness?",
+                    "Answer": "Some general tips for preventing foodborne illness include paying attention to the expiry date, cooking food properly, and avoiding cross-contamination."
+                },
+                {
+                    "Question": "What are some specific tips for preventing foodborne illness when cooking meat?",
+                    "Answer": "Some specific tips for preventing foodborne illness when cooking meat include using a food thermometer, taking care of the expiration date, and avoiding cross-contamination."
+                }
+            ],
+            "Output": "Cooking is a great way to show your culinary skills and to make delicious food for yourself and others. However, it is important to be aware of the potential hazards that can occur when cooking and to take steps to prevent them. There are many potential hazards when cooking, including explosions, cuts, and burns. There are many things you can do to prevent cooking hazards, including unplugging appliances when you are not using them, using sharp knives with care, and never leaving anything on the stove without supervision. If a cooking hazard does occur, it is important to take immediate action to mitigate the hazard. For example, if there is a fire, you should turn off the stove and call the fire department. If you cut yourself, you should clean the wound, stop the bleeding, and seek medical attention if necessary. Some general safety tips for cooking include keeping the kitchen clean, being organized, and keeping children and pets from the kitchen. Additionally, it is important to be aware of the potential hazards that can occur when cooking and to take steps to prevent them."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What safety precautions will you take while cooking?",
+                    "Answer": "I will take the following safety precautions while cooking:- I will make sure that the kitchen is clean and free of clutter.- I will make sure that all food is properly cooked and stored.- I will make sure that all utensils and surfaces are clean."
+                },
+                {
+                    "Question": "What are the potential hazards associated with cooking?",
+                    "Answer": "The potential hazards associated with cooking include:- Cross contamination of food- Bacteria growth- Food poisoning"
+                },
+                {
+                    "Question": "How will you ensure that food is cooked safely?",
+                    "Answer": "To ensure that food is cooked safely, I will:- Cook food at the correct temperature.- Avoid cross contamination.- Store food properly.- Clean utensils and surfaces."
+                },
+                {
+                    "Question": "What should you do if you suspect that food has been contaminated?",
+                    "Answer": "If you suspect that food has been contaminated, you should:- Discard the food.- Wash your hands.- Clean utensils and surfaces."
+                },
+                {
+                    "Question": "What are the symptoms of food poisoning?",
+                    "Answer": "The symptoms of food poisoning include:- Nausea- Vomiting- Diarrhea- Fever- Headache- Muscle aches"
+                },
+                {
+                    "Question": "What should you do if you experience symptoms of food poisoning?",
+                    "Answer": "If you experience symptoms of food poisoning, you should:- Seek medical attention.- Drink plenty of fluids.- Avoid food and milk.- Eat light, bland foods."
+                },
+                {
+                    "Question": "How can you prevent food poisoning?",
+                    "Answer": "You can prevent food poisoning by:- Washing your hands.- Cleaning utensils and surfaces.- Cooking food properly.- Avoiding cross contamination.- Storing food properly."
+                },
+                {
+                    "Question": "What should you do if you witness someone cooking unsafely?",
+                    "Answer": "If you witness someone cooking unsafely, you should:- Speak to them about the unsafe practices.- Report the unsafe practices to a manager or supervisor.- Avoid eating the food."
+                },
+                {
+                    "Question": "What are the consequences of cooking unsafely?",
+                    "Answer": "The consequences of cooking unsafely include:- Food poisoning- Cross-contamination- Bacterial growth Fires- Burns"
+                },
+                {
+                    "Question": "Why cooking safety is important?",
+                    "Answer": "Cooking safety is important because it helps to prevent:- Food poisoning- Cross-contamination Bacterial growth- Fires- Burns"
+                }
+            ],
+            "Output": "Cooking safety is important because it helps to prevent food poisoning, cross-contamination, bacterial growth, fires and burns. There are many potential hazards associated with cooking, so it is important to take precautions to ensure safety. Some safety precautions include keeping the kitchen clean, cooking food at the correct temperature, avoiding cross contamination, storing food properly and cleaning utensils and surfaces. If you suspect that food has been contaminated, you should discard it and wash your hands. The symptoms of food poisoning include nausea, vomiting, diarrhea, fever, headache and muscle aches. If you experience these symptoms, you should seek medical attention and drink plenty of fluids. You can prevent food poisoning by washing your hands, cleaning utensils and surfaces, cooking food properly, avoiding cross contamination and storing food properly. If you witness someone cooking unsafely, you should speak to them about the unsafe practices and avoid eating the food. The consequences of cooking unsafely can be very serious, so it is important to cook safely."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the potential hazards when cooking?",
+                    "Answer": "The potential hazards when cooking include scalding, burns, electrical shocks, fires, and gas leaks."
+                },
+                {
+                    "Question": "What can you do to prevent these hazards?",
+                    "Answer": "Some things that can be done to prevent these hazards include never leaving cooking food unattended, keeping flammable materials away from the stove, and wearing appropriate clothing while cooking. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher."
+                },
+                {
+                    "Question": "What are some safety tips for using a stove?",
+                    "Answer": "Some safety tips for using a stove include: never leave cooking food unattended, keep flammable materials away from the stove, and wear appropriate clothing while cooking. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher."
+                },
+                {
+                    "Question": "What are some safety tips for using a microwave?",
+                    "Answer": "Some safety tips for using a microwave include: never leave food unattended while it is cooking, never cook food in containers that are not microwave safe, and never use metal utensils while the food is cooking. Additionally, it is important to read the instructions on the food packaging before cooking."
+                },
+                {
+                    "Question": "What are some safety tips for using sharp objects while cooking?",
+                    "Answer": "Some safety tips for using sharp objects while cooking include: always use a cutting board, never try to catch a falling knife, and never run with a knife. Additionally, it is important to keep fingers away from the blade and to always point the knife away from yourself and others."
+                },
+                {
+                    "Question": "What are some safety tips for using electrical appliances while cooking?",
+                    "Answer": "Some safety tips for using electrical appliances while cooking include: never leave appliances unattended while they are turned on, never touch an appliance with wet hands, and always unplug appliances when they are not in use. Additionally, it is important to keep appliances away from water and to never use them near flammable materials."
+                },
+                {
+                    "Question": "What are some safety tips for cooking with gas?",
+                    "Answer": "Some safety tips for cooking with gas include: never leave the stove unattended while it is on, always open the windows when cooking with gas, and never use the stove to heat the home. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher."
+                },
+                {
+                    "Question": "What should you do if there is a fire while you are cooking?",
+                    "Answer": "If there is a fire while you are cooking, you should immediately turn off the stove, leave the house, and call the fire department."
+                },
+                {
+                    "Question": "What should you do if you are injured while cooking?",
+                    "Answer": "If you are injured while cooking, you should immediately stop cooking, apply first aid if necessary, and seek medical attention if necessary."
+                },
+                {
+                    "Question": "What should you do if you see someone else cooking unsafely?",
+                    "Answer": "If you witness someone else cooking unsafely, you should immediately tell them to stop and follow the safety tips that you have learned."
+                }
+            ],
+            "Output": "Cooking is a necessary life skill, but it also comes with some risks. By following a few simple safety tips, you can help prevent accidents and injuries while cooking. Some potential hazards when cooking include scalding, burns, electrical shocks, fires, and gas leaks. To prevent these hazards, never leave cooking food unattended, keep flammable materials away from the stove, and wear appropriate clothing while cooking. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher. When using a stove, always keep an eye on the food that is cooking and never leave it unattended. Keep flammable materials away from the stove, and wear appropriate clothing while cooking, such as closed-toe shoes and long sleeves. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher. When using a microwave, never leave food unattended while it is cooking. Be sure to use only microwave-safe containers, and never use metal utensils while the food is cooking. Additionally, it is important to read the instructions on the food packaging before cooking. When using sharp objects while cooking, always use a cutting board. Never try to catch a falling knife, and never run with a knife. Additionally, it is important to keep fingers away from the blade and to always point the knife away from yourself and others. When using electrical appliances while cooking, never leave appliances unattended while they are turned on. Never touch an appliance with wet hands, and always unplug appliances when they are not in use. Additionally, it is important to keep appliances away from water and to never use them near flammable materials. When cooking with gas, never leave the stove unattended while it is on. Always open the windows when cooking with gas, and never use the stove to heat the home. Additionally, it is important to have a working smoke detector and to know how to use a fire extinguisher. If there is a fire while you are cooking, immediately turn off the stove, leave the house, and call the fire department. If you are injured while cooking, stop cooking immediately and seek medical attention if necessary. If you witness someone else cooking unsafely, tell them to stop and follow the safety tips that you have learned. By following these simple tips, you can help prevent accidents and injuries while cooking."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/sR8S3f6TAkJsqf0QyYBTbtY2?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/XCLIbkGyxLxEj9D4XEv3lRPr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/zcKhufGSX5ewxmGSQasfyupX?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/10JCFUMgPwysv3_9zMquOtqQq3pe8Iydh?usp=sharing"
+}

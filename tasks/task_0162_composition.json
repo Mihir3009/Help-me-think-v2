@@ -1,0 +1,152 @@
+{
+    "Contributor": "songlucy",
+    "Domain": "Composition",
+    "Task": "Writing a scene for a play.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in playwriting. I will ask some questions to collect information and then I will use the information to write a scene for a play.",
+        "task_specific_prompt": "Write a scene for a play using the questions and answers above. Add more context."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the play about?",
+                    "Answer": "The play is about a young woman who just graduated college and is attempting her first fulltime job."
+                },
+                {
+                    "Question": "What is the scene about?",
+                    "Answer": "The scene is about the protagonist's first day at their job."
+                },
+                {
+                    "Question": "What happens in the scene?",
+                    "Answer": "The protagonist gets ready in the morning and commutes to the location of the company. On the way, she gets lost by accidentally getting off at wrong stop on the subway."
+                },
+                {
+                    "Question": "What is the protagonist's goal in the scene?",
+                    "Answer": "The protagonist's goal is to arrive at her company on time."
+                },
+                {
+                    "Question": "What obstacles does she face?",
+                    "Answer": "The protagonist faces the obstacle of navigating through a large, busy, and unfamiliar city."
+                },
+                {
+                    "Question": "How does the scene end?",
+                    "Answer": "The scene ends with the protagonist finally arriving at her company on time, extending a hand out to greet her boss."
+                },
+                {
+                    "Question": "What is the protagonist's main conflict in the scene?",
+                    "Answer": "The protagonist's main conflict is internal; she feels overwhelmed and frustrated about her seemingly small mistake of getting off at the wrong subway stop."
+                },
+                {
+                    "Question": "What is the protagonist's main concern in the scene?",
+                    "Answer": "The protagonist's main concern is whether she will get to work on time, which could affect her boss's and company's first impression of her."
+                },
+                {
+                    "Question": "What does the protagonist want in the scene?",
+                    "Answer": "The protagonist wants to arrive at her work on time and prove that she is capable of doing the job."
+                },
+                {
+                    "Question": "What does the protagonist fear in the scene?",
+                    "Answer": "The protagonist fears that she will get lost in the unfamiliar city and get to work too late."
+                }
+            ],
+            "Output": "The scene opens with the protagonist, JENNY, getting ready for her first day of work. She is excited but also nervous. She puts on her best clothes and double checks that she has everything she needs.\n\nShe commutes to the city, but she accidentally gets off at the wrong stop on the subway. She realizes her mistake too late and starts to panic. She doesn't know how to get to the right stop.\n\nShe wanders around the city, getting more and more lost. She looks at her watch and realizes that she is going to be late. She starts to run, but she doesn't know where she is going.\n\nFinally, she arrives at the right address, out of breath and sweating. She extends her hand to her boss, MR. PETERS, and introduces herself. He looks at her, surprised.\n\nJENNY: I'm sorry, I'm late. I got lost.\n\nMR. PETERS: It's okay, we'll make it work. Come on in."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the plot of your play?",
+                    "Answer": "The play is about man of high status in the 1600s who holds a ball to find a suitable woman to marry."
+                },
+                {
+                    "Question": "What is the setting of the play?",
+                    "Answer": "The play is set in the man's estate, specifically, the ballroom and gardens."
+                },
+                {
+                    "Question": "What is the man's personality like?",
+                    "Answer": "The man is prideful and charming."
+                },
+                {
+                    "Question": "What is the woman's personality like?",
+                    "Answer": "The woman is ladylike and intelligent."
+                },
+                {
+                    "Question": "What happens in the scene?",
+                    "Answer": "In the scene, the ballroom is filled with dancing attendees. The dance involves switching partners every so often. When it comes time to change partners, the new partner in front of him, a woman, catches his eye. He engages her in conversation, but she dodges his questions. He is disappointed when his time is up with the lady during the dance, and continues to pursue her after it is over. He convinces her to join him in the garden to gaze at the stars, and he falls more in love with her by the eloquence of her discussions."
+                },
+                {
+                    "Question": "What is the ending of the scene?",
+                    "Answer": "The man asks to see her again the next day."
+                },
+                {
+                    "Question": "What is the mood of the scene?",
+                    "Answer": "The mood of the scene is romantic and mysterious."
+                },
+                {
+                    "Question": "What is the man's goal in the scene?",
+                    "Answer": "The man's goal in the scene is to get to know this particular woman and convince her to see him again."
+                },
+                {
+                    "Question": "What is the woman's goal in the scene?",
+                    "Answer": "The woman's goal in the scene is to not reveal too much about herself at first because she has heard how vain men can be."
+                },
+                {
+                    "Question": "What is the conflict in the scene?",
+                    "Answer": "The conflict in the scene is that the man is having a hard time finding out more information about the woman because she is being cautious."
+                }
+            ],
+            "Output": "The ballroom is filled with people dancing and enjoying themselves. The music is lively and the mood is happy. Suddenly, the music changes and it is time to switch partners. The man looks around and his eyes lock with a woman's. She is beautiful and he can't help but be drawn to her. He takes her hand and they begin to dance. He tries to engage her in conversation, but she is elusive. He is disappointed when the music changes and they have to switch partners again.\n\nThe man is determined to find out more about this woman. He convinces her to join him in the garden to look at the stars. She agrees and they spend some time talking. He is charmed by her intelligence and wit. The mood is romantic and the man is hopeful. He asks her if he can see her again tomorrow and she agrees."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the conflict in the scene?",
+                    "Answer": "The conflict in the scene is that Annie is upset that John, her husband, spent a significant amount of money on a motorcycle when they needed to save up for a new house."
+                },
+                {
+                    "Question": "What is the setting of the scene?",
+                    "Answer": "The setting of the scene is the couple's living room."
+                },
+                {
+                    "Question": "What is the goal of the scene?",
+                    "Answer": "The goal of the scene is for Annie to convey to John how upset she is and for the two of them to come to a resolution."
+                },
+                {
+                    "Question": "What are the characters' entrances and exits?",
+                    "Answer": "John is already in the room. Annie enters the room after work. Both exit to the balcony after they reach a resolution."
+                },
+                {
+                    "Question": "What props are needed?",
+                    "Answer": "A motorcycle, motorcycle keys, and a calculator."
+                },
+                {
+                    "Question": "What action takes place in the scene?",
+                    "Answer": "The action in the scene is that Annie and John have an argument over John's new purchase."
+                },
+                {
+                    "Question": "What dialogue is needed?",
+                    "Answer": "\"John, what were you thinking? We've been saving up for a house for YEARS. We're so close to closing on that dream house, and you go spend all that money on a motorcycle? That'll cost us the home because we have to refinance our loans now.\"\n\n\"I'm sorry, Annie. I know I should have talked to you first, but I just had to have it.\"\n\n\" Why on earth did you think that was a good idea?\"\n\n\"I really don't know. I'm so, so sorry.\"\n\n\"John, I want you to call the home loan office tomorrow to sort out the situation. You caused the situation. You figure it out.\"\n\n\"I will, Honey. I'll make it up to you.\""
+                },
+                {
+                    "Question": "What is the climax of the scene?",
+                    "Answer": "The climax of the scene is when Annie and John argue over the motorcycle purchase and reach a resolution where John will try to fix the problem."
+                },
+                {
+                    "Question": "What is the ending of the scene?",
+                    "Answer": "The ending of the scene is John giving the frustrated Annie a hug, and they head to the balcony to clear their head."
+                },
+                {
+                    "Question": "What are the characters' emotions in the scene?",
+                    "Answer": "Annie is frustrated and angry. John is apologetic."
+                }
+            ],
+            "Output": "John enters the room after a long day at work, Annie following close behind him. John sets his keys and motorcycle helmet down on the coffee table, and Annie gives him a look.\n\nAnnie: John, what were you thinking? We've been saving up for a house for YEARS. We're so close to closing on that dream house, and you go spend all that money on a motorcycle? That'll cost us the home because we have to refinance our loans now.\n\nJohn: I'm sorry, Annie. I know I should have talked to you first, but I just had to have it.\n\nAnnie: Why on earth did you think that was a good idea?\n\nJohn: I really don't know. I'm so, so sorry.\n\nAnnie: John, I want you to call the home loan office tomorrow to sort out the situation. You caused the situation. You figure it out.\n\nJohn: I will, Honey. I'll make it up to you.\n\nThe couple embraces and exits to the balcony to clear their heads."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/xNlZ6YB9r21n4qRGUaf0owXf?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sChIwXa0rDFtvVpil1oNRlHG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/S9mGQsNU6UXbdBVsZmYLAK67?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jpRBlSLJAtmzSC8ciTR6S11gYlw248mc?usp=sharing"
+}

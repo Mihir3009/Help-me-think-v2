@@ -1,0 +1,148 @@
+{
+    "Contributor": "hardyadam",
+    "Domain": "History",
+    "Task": "4. Historical Jeopardy Prep",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert on historical Jeopardy questions. I will ask a series of questions to gauge your knowledge on common historical Jeopardy questions in order to create a study guide based on your level of knowledge. ",
+        "task_specific_prompt": "Using the questions and answers above, determine how well the answerer understands history. Prepare a study guide so the answerer will be prepared to answer historical Jeopardy questions. Include resources to help the answerer study. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What were the 13 original colonies?",
+                    "Answer": "To be honest, I am terrible at history. I do not remember."
+                },
+                {
+                    "Question": "Who were the two main combatants in The Punic Wars?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "What was the largest and most powerful empire in the world during the height of the Roman Empire?",
+                    "Answer": "The Roman Empire."
+                },
+                {
+                    "Question": "What was the name of the first successful powered flight by the Wright brothers?",
+                    "Answer": "I was not aware that flight had a name."
+                },
+                {
+                    "Question": "What were the primary reasons for the outbreak of the American Revolution?",
+                    "Answer": " I believe it was an increase in taxation without proper representation."
+                },
+                {
+                    "Question": "Who were the two main leaders of the American Revolution?",
+                    "Answer": "George Washington and Thomas Jefferson."
+                },
+                {
+                    "Question": "What were the three primary components of the French Revolution?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "What were the primary causes of World War I?",
+                    "Answer": "I believe it was the assassination of Archduke Ferdinand "
+                },
+                {
+                    "Question": "Who were the two main combatants in World War I?",
+                    "Answer": "The Allies and the Central Powers."
+                },
+                {
+                    "Question": "What were the primary causes of World War II?",
+                    "Answer": "I believe it had to do with Germany committing unspeakable violations of human rights while also invading other nations."
+                }
+            ],
+            "Output": "-The 13 original colonies were: Virginia, Massachusetts, Rhode Island, Connecticut, New Hampshire, New York, New Jersey, Pennsylvania, Delaware, Maryland, North Carolina, South Carolina, and Georgia.\n\n-The two main combatants in The Punic Wars were Rome and Carthage.\n\n-The largest and most powerful empire in the world during the height of the Roman Empire was the Roman Empire.\n\n-The first successful powered flight by the Wright brothers was the Wright Flyer.\n\n-The primary reasons for the outbreak of the American Revolution were: an increase in taxation without proper representation, the British government's infringement on colonists' rights, and the presence of British troops in the colonies.\n\n-The two main leaders of the American Revolution were George Washington and Thomas Jefferson.\n\n-The three primary components of the French Revolution were: the storming of the Bastille, the Declaration of the Rights of Man and of the Citizen, and the Reign of Terror.\n\n-The primary causes of World War I were: the assassination of Archduke Ferdinand, the alliance system, and militarism.\n\n-The two main combatants in World War I were the Allies and the Central Powers.\n\n-The primary causes of World War II were: the rise of Nazi Germany, the policies of Adolf Hitler, and the appeasement of Nazi Germany by other nations.\n\n\n\nSome resources to help the answerer study for historical Jeopardy questions include:\n\n-A list of the 13 original colonies: https://www.history.com/news/us-history/13-original-colonies\n-A brief overview of The Punic Wars: https://www.ancient.eu/Punic_Wars/\n-A brief overview of the Roman Empire: https://www.ancient.eu/Roman_Empire/\n-A description of the Wright Flyer: https://www.nps.gov/wrbf/learn/historyculture/the-wright-flyer.htm\n-A list of the primary reasons for the outbreak of the American Revolution: https://www.history.com/topics/american-revolution/american-revolution-causes\n-A list of the primary causes of World War I: https://www.history.com/topics/world-war-i/causes-of-world-war-i\n-A list of the primary causes of World War II: https://www.history.com/topics/world-war-ii/causes-of-world-war-ii"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What were the 13 original colonies?",
+                    "Answer": "Virginia, Massachusetts, Rhode Island, Connecticut, New Hampshire, New York, New Jersey, Pennsylvania, Delaware, Maryland, North Carolina, South Carolina, and Georgia."
+                },
+                {
+                    "Question": "Who were the two main combatants in The Punic Wars?",
+                    "Answer": "Rome and Carthage"
+                },
+                {
+                    "Question": "What was the largest and most powerful empire in the world during the height of the Roman Empire?",
+                    "Answer": "The Roman Empire."
+                },
+                {
+                    "Question": "What was the name of the first successful powered flight by the Wright brothers?",
+                    "Answer": "The Wright Flyer"
+                },
+                {
+                    "Question": "What were the primary reasons for the outbreak of the American Revolution?",
+                    "Answer": "An increase in taxation without proper representation, the British government's infringement on colonists' rights, and the presence of British troops in the colonies"
+                },
+                {
+                    "Question": "Who were the two main leaders of the American Revolution?",
+                    "Answer": "George Washington and Thomas Jefferson."
+                },
+                {
+                    "Question": "What were the three primary components of the French Revolution?",
+                    "Answer": "The storming of the Bastille, the Declaration of the Rights of Man and of the Citizen, and the Reign of Terror."
+                },
+                {
+                    "Question": "What were the primary causes of World War I?",
+                    "Answer": "The assassination of Archduke Ferdinand, the alliance system, and militarism."
+                },
+                {
+                    "Question": "Who were the two main combatants in World War I?",
+                    "Answer": "The Allies and the Central Powers."
+                },
+                {
+                    "Question": "What were the primary causes of World War II?",
+                    "Answer": "The rise of Nazi Germany, the policies of Adolf Hitler, and the appeasement of Nazi Germany by other nations."
+                }
+            ],
+            "Output": "The answerer demonstrates a good understanding of history. The study guide should include resources on the history of the 13 original colonies, the Punic Wars, the Roman Empire, the American Revolution, and the French Revolution. Additionally, the guide should include resources on World War I and World War II.\n\nSome recommended resources include:\n\n-The History of the 13 Original Colonies: https://www.ducksters.com/history/13_colonies.php\n\n-The Punic Wars: https://www.ancient.eu/Punic_Wars/\n\n-The Roman Empire: https://www.ancient.eu/Roman_Empire/\n\n-The American Revolution: https://www.history.com/topics/american-revolution\n\n-The French Revolution: https://www.history.com/topics/french-revolution\n\n-World War I: https://www.history.com/topics/world-war-i\n\n-World War II: https://www.history.com/topics/world-war-ii"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What were the 13 original colonies?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Who were the two main combatants in The Punic Wars?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What was the largest and most powerful empire in the world during the height of the Roman Empire?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What was the name of the first successful powered flight by the Wright brothers?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What were the primary reasons for the outbreak of the American Revolution?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Who were the two main leaders of the American Revolution?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What were the three primary components of the French Revolution?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What were the primary causes of World War I?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Who were the two main combatants in World War I?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What were the primary causes of World War II?",
+                    "Answer": "I do not know."
+                }
+            ],
+            "Output": "The person answering the questions does not seem to have a strong understanding of history. A study guide should include resources on the 13 original colonies, The Punic Wars, the Roman Empire, the Wright brothers, and the American and French Revolutions. Additionally, the guide should include information on World War I and World War II, including the primary causes and main combatants of each war.\n\nSome recommended resources for studying history include:\n\n-The History Channel website (www.history.com)\n\n-SparkNotes History Study Guides (www.sparknotes.com/history)\n\n-Crash Course World History Videos (www.youtube.com/playlist?list=PL8dPuuaLjXtMwmepBjTSG593e2iJjlYu_)\n\n-The History Book (https://www.amazon.com/dp/0525522211/)\n\n-A People's History of the United States (https://www.amazon.com/Peoples-History-United-States-Present/dp/006231611X/)"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/uREqepaoAwjmYpRhfV3xMVkG",
+    "screenshot_link": "https://drive.google.com/file/d/1lc4vLWAkCtkg8iI7eS0Ls8Unq2TdzHhy/view?usp=sharing"
+}

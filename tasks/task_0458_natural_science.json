@@ -1,0 +1,152 @@
+{
+    "Contributor": "kumarabhinav",
+    "Domain": "Natural Science",
+    "Task": "Disease Diagnosis",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in medicine . I will ask some questions to collect information and then I will use the information to help you diagnose your disease.",
+        "task_specific_prompt": "Suggest a diagnosis based on questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": " What are your main symptoms? ",
+                    "Answer": " My main symptom is fever."
+                },
+                {
+                    "Question": " What is your body temperature? ",
+                    "Answer": " My body temperature is 102 degrees Fahrenheit."
+                },
+                {
+                    "Question": " Have you been feeling feverish for more than a week? ",
+                    "Answer": " I have been feeling feverish for about two days."
+                },
+                {
+                    "Question": " Do you have any other symptoms? ",
+                    "Answer": " My other symptoms include chills, body aches, and fatigue."
+                },
+                {
+                    "Question": " Have you been to see a doctor? ",
+                    "Answer": " yes."
+                },
+                {
+                    "Question": " What did the doctor say? ",
+                    "Answer": " The doctor said that I have a viral infection and there is no specific treatment for it."
+                },
+                {
+                    "Question": " Is there anything you are currently taking for your fever? ",
+                    "Answer": " I am currently taking ibuprofen and acetaminophen for my fever."
+                },
+                {
+                    "Question": " Have you been following the doctor's instructions? ",
+                    "Answer": " Yes, I have been following the doctor's instructions."
+                },
+                {
+                    "Question": " Do you think your fever is getting better? ",
+                    "Answer": " No, my fever is not getting better."
+                },
+                {
+                    "Question": " Would you like me to help you find a doctor? ",
+                    "Answer": " Yes, I would like you to help me find a doctor."
+                },
+                {
+                    "Question": " What type of doctor are you looking for? ",
+                    "Answer": " I am looking for a doctor who can help me with my fever."
+                },
+                {
+                    "Question": " Are you looking for a primary care doctor or a specialist? ",
+                    "Answer": " I am looking for a primary care doctor."
+                },
+                {
+                    "Question": " Do you have a preference for a particular type of doctor? ",
+                    "Answer": " I would prefer a doctor who is experienced in treating viral infections."
+                }
+            ],
+            "Output": "Based on the questions and answers above, it is likely that the individual has a viral infection."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What are your symptoms? ",
+                    "Answer": " Headache, fever, and fatigue."
+                },
+                {
+                    "Question": " Have you been to the doctor? ",
+                    "Answer": " No, I haven't."
+                },
+                {
+                    "Question": " Do you have any medical conditions? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you take any medications? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you have any allergies? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you have any family history of medical conditions? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you have any history of medical conditions? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you smoke? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you drink alcohol? ",
+                    "Answer": " No, I don't think so."
+                },
+                {
+                    "Question": " Do you eat a balanced diet? ",
+                    "Answer": " Yes, I do."
+                }
+            ],
+            "Output": "Based on the information provided, it is difficult to provide a definite diagnosis. However, some possibilities include a viral infection, dehydration, or migraines. "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What are your symptoms? ",
+                    "Answer": " I have a headache and a sore throat."
+                },
+                {
+                    "Question": " When did you first start experiencing these symptoms? ",
+                    "Answer": " I started experiencing these symptoms today."
+                },
+                {
+                    "Question": " Have you been exposed to anyone who is sick recently? ",
+                    "Answer": " No, I have not been exposed to anyone who is sick recently."
+                },
+                {
+                    "Question": " Do you have any other medical conditions? ",
+                    "Answer": " No, I do not have any other medical conditions."
+                },
+                {
+                    "Question": " Do you take any medications? ",
+                    "Answer": " No, I do not take any medications."
+                },
+                {
+                    "Question": " Do you have any allergies? ",
+                    "Answer": " No, I do not have any allergies."
+                },
+                {
+                    "Question": " Do you have a fever? ",
+                    "Answer": " No, I do not have a fever."
+                },
+                {
+                    "Question": " Do you have any other symptoms? ",
+                    "Answer": " No."
+                }
+            ],
+            "Output": "The most likely diagnosis is a viral infection, such as the common cold. temp"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/GcuIIrje0yHDGTmrBCGSfXRW?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic1%5FNaturalScience%2FTask3"
+}

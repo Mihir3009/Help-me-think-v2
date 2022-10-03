@@ -1,0 +1,159 @@
+{
+    "Domain": "Sports",
+    "Task": "sports journalist",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert sports journalist. I will ask some questions to collect information and then I will use the information to write an article about you",
+        "task_specific_prompt": "Write an article about the athlete using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How did you get interested in sports?",
+                    "Answer": "My dad was a big sports fan and he used to take me to a lot of games when I was younger. I really enjoyed going to the games and watching the athletes compete. I also played a lot of sports when I was younger, and I was always really competitive. I loved the feeling of winning and being part of a team. But the most important factor that made me an athlete is the feeling of freedom when moving my body like you are flying and no one can stop me."
+                },
+                {
+                    "Question": "What is your favorite sport?",
+                    "Answer": "I really enjoy playing and watching a lot of different sports, but if I had to choose one, it would probably be short-track speed skating."
+                },
+                {
+                    "Question": "What are your best athletic accomplishments?",
+                    "Answer": "I have won a few national championships in short-track speed skating, and I have represented my country at the Winter Olympics and won a silver medal at that time."
+                },
+                {
+                    "Question": "Do you have any advice for aspiring athletes?",
+                    "Answer": "I think the most important thing is to enjoy what you're doing and to be passionate about it. It's also important to be dedicated and to work hard, having the right mindset for sports is the greatest asset. And finally, don't be afraid to dream big!"
+                },
+                {
+                    "Question": "What are your thoughts on the current state of your sport?",
+                    "Answer": "I think my sport is in a good place right now. It's developing a lot and there are more and more people interested in it compared to the past as more people paying more interest to winter sports in general. I think it still has a lot of room to grow, but it's definitely heading in the right direction."
+                },
+                {
+                    "Question": "What are your goals for the future?",
+                    "Answer": "My goals for the future are to keep competing at the highest level possible for as long as I can, and to help my sport to grow even more. After retiring I would like to be a renowned coach and help my team win many competitions."
+                },
+                {
+                    "Question": "Do you have any other comments?",
+                    "Answer": "I hope more people know about this sport and how interesting it is, and subsequently, I hope to see young people aspire to be short-track skaters. Thank you for the opportunity to share my story."
+                },
+                {
+                    "Question": "What is your favorite part about being an athlete?",
+                    "Answer": "I think the best part about being an athlete is the experience you gain as you go through your career. Athletes are usually known for being healthy physically as well as mentally, as a result of the rigorous system they follow throughout their careers."
+                },
+                {
+                    "Question": "What are the biggest challenges you face as an athlete?",
+                    "Answer": "I think one of the biggest challenges athletes face is the constant pressure to perform at their best. There is always someone who is trying to beat you and there is always a new challenge to face. Another big challenge is staying healthy, as injuries can always sideline you when you least expect it."
+                },
+                {
+                    "Question": "Do you have any other comments?",
+                    "Answer": "I think athletes are some of the most hard-working and dedicated people in the world. They constantly strive to be the best and they are always looking for ways to improve. I think that is something to be admired and shared with the world to learn from. "
+                }
+            ],
+            "Output": "Short-track speed skater Sui-Lan Liu is no stranger to competition. The three-time national champion and silver medalist at the 2018 Winter Olympics has been skating since she was a child, and her love for the sport has only grown stronger over the years. For Liu, the appeal of skating lies in its sense of freedom. 'I loved the feeling of winning and being part of a team. But the most important factor that made me an athlete is the feeling of freedom when moving my body like you are flying and no one can stop me,' she says. Liu's competitive drive has led her to achieve great things in her career. In addition to her national titles and Olympic medal, she has also represented her country at the World Championships and won a bronze medal there. Looking to the future, Liu's goals are to keep skating at the highest level possible and to help her sport continue to grow. After she retire, she would like to become a renowned coach and help her team win many competitions. Liu's advice to aspiring athletes is to enjoy what they're doing and to be passionate about it. 'It's also important to be dedicated and to work hard, having the right mindset for sports"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Finn Mertens."
+                },
+                {
+                    "Question": "What is your sport?",
+                    "Answer": "I am a Track and Field athlete."
+                },
+                {
+                    "Question": "What is your favorite event?",
+                    "Answer": "My favorite event is the 3000m Steeplechase and 5000m."
+                },
+                {
+                    "Question": "What are your personal best times in those events?",
+                    "Answer": "My personal best times are 8:48 (3,000m Steeplechase) and 15:59 (5,000m)."
+                },
+                {
+                    "Question": "What is your favorite thing about your sport?",
+                    "Answer": "I love the feeling of running and the rush of adrenaline I get when I'm competing. Also, I like that my sport makes me a better person through training and dedication."
+                },
+                {
+                    "Question": "What is your toughest training session?",
+                    "Answer": "My toughest training session would definitely be hill repeats. It's really tough to keep going when your legs are burning and you're out of breath, but the rewards are worth it."
+                },
+                {
+                    "Question": "What are your goals for the future?",
+                    "Answer": "My goals for the future are to keep improving my times and to win two gold medals in the next Olympics in 3000m Steeplechase and 5000m long distance."
+                },
+                {
+                    "Question": "What obstacles have you had to overcome in your career?",
+                    "Answer": "I have had to overcome a lot of injuries, including a stress fracture in my foot, shin splints, and Achilles tendonitis. I have also had to deal with a lot of disappointment, especially when I didn't qualify for the Olympics in 2016. But I have used those experiences to make me a stronger athlete and person."
+                },
+                {
+                    "Question": "Who is your biggest inspiration?",
+                    "Answer": "My biggest inspiration is my mom. She has always been my biggest supporter and she has always believed in me, even when I didn't believe in myself."
+                },
+                {
+                    "Question": "What would you say is your biggest accomplishment?",
+                    "Answer": "My biggest accomplishment is definitely qualifying for the Olympics in 2020. It was a lifelong dream of mine and it was an incredible feeling to achieve it. I also was so close to winning a bronze medal."
+                },
+                {
+                    "Question": "Do you have any advice for aspiring athletes?",
+                    "Answer": "My advice for aspiring athletes is to never give up on your dreams. It might take longer than you want, but if you keep working hard and never give up, anything is possible. Practice makes perfect."
+                }
+            ],
+            "Output": "Finn Mertens is a Track and Field athlete who specializes in the 3000m Steeplechase and 5000m. Finn's favorite thing about his sport is the feeling of running and the rush of adrenaline he gets when competing. Finn has had to overcome injuries throughout his career, including a stress fracture in his foot, shin splints, and Achilles tendonitis. Despite these setbacks, Finn has persevered and achieved his lifelong dream of qualifying for the Olympics in 2020. Finn's biggest inspiration is his mom, who has always believed in him and supported his dreams. Finn's advice for aspiring athletes is to never give up on their dreams and to practice hard. With dedication and hard work, anything is possible."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How did you become interested in playing basketball?",
+                    "Answer": "I became interested in playing basketball when I was very young. My father played basketball and I would always watch him play. I was fascinated by the game and wanted to learn how to play it. When I was old enough, I joined a local basketball team and started playing."
+                },
+                {
+                    "Question": "What achievements are you most proud of in your basketball career?",
+                    "Answer": "I am most proud of my achievements in my basketball career. I have won many championships and have been named MVP several times. I am also proud of my ability to play at a high level despite being injured."
+                },
+                {
+                    "Question": "What do you think makes you successful in basketball?",
+                    "Answer": "I think my success in basketball is due to my hard work and dedication. I have put in a lot of hours practicing and working on my game. I am also a very competitive person and I always want to win."
+                },
+                {
+                    "Question": "What do you enjoy most about playing basketball?",
+                    "Answer": "I enjoy the challenge of playing basketball. I love the feeling of scoring against a tough opponent and winning a game. I also enjoy being part of a team and working together to achieve our goals."
+                },
+                {
+                    "Question": "What is your biggest motivation in basketball?",
+                    "Answer": "My biggest motivation in basketball is to win a championship. I have been close a few times, but I haven't been able to win the big one. I am also motivated to prove people wrong. When I was younger, people said I wasn't good enough to play at a high level. I worked hard to prove them wrong and I am still doing it today."
+                },
+                {
+                    "Question": "What are your goals for the future in basketball?",
+                    "Answer": "My goals for the future in basketball are to win a championship and to continue to play at a high level. I also want to help young players develop their games. I have been fortunate to have a lot of success in basketball and I want to share that with others."
+                },
+                {
+                    "Question": "What advice would you give to young players who want to be successful in basketball?",
+                    "Answer": "My advice to young players who want to be successful in basketball is to work hard and never give up on their dreams. It takes a lot of dedication and hard work to be a successful player. You also need to be a good teammate and be willing to sacrifice for the good of the team."
+                },
+                {
+                    "Question": "What is your favorite memory of playing basketball?",
+                    "Answer": "My favorite memory of playing basketball is winning the championship. It was an amazing feeling to achieve our goal and to be able to celebrate with my teammates."
+                },
+                {
+                    "Question": "What do you think makes basketball a great sport?",
+                    "Answer": "I think basketball is a great sport because it is very challenging and requires a lot of skill. It is also a very fast-paced and exciting sport to watch."
+                },
+                {
+                    "Question": "What do you think sets basketball apart from other sports?",
+                    "Answer": "I think what sets basketball apart from other sports is the fact that it is a very team-oriented sport. Each player has a specific role to play and it is important to work together as a team to be successful."
+                },
+                {
+                    "Question": "Do you have any other hobbies or interests outside of basketball?",
+                    "Answer": "I enjoy spending time with my family and friends. I also like to play other sports, such as football and baseball. I am also interested in music and movies."
+                }
+            ],
+            "Output": "In today's article, we will be talking about one of the most successful basketball players of all time. He is a player who has won many championships and has been named MVP several times. He is also a player who has been able to play at a high level despite being injured. So, without further ado, let's get started. The player we will be talking about is Michael Jordan. He is a player who needs no introduction. He is one of the most popular athletes in the world and is considered by many to be the greatest basketball player of all time. Jordan was born in 1963 in Brooklyn, New York. His father, James, was a successful businessman, and his mother, Deloris, was a homemaker. Jordan has two older brothers, Larry and James, and a younger sister, Deloris. When Jordan was just a child, his family moved to Wilmington, North Carolina. It was there that Jordan first started playing basketball. He would often watch his older brothers play and was fascinated by the game. When he was old enough, he joined a local basketball team and started playing. Jordan quickly developed into a very good player. In high school, he was named MVP of his team. He was also selected to"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/4fAnfTzmycT0UlVAjin6OKOI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/xuQLBW5vKdf6cmUrZBBD0YyO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8tyFzOBYTp1GFsHze6dG5Aks?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1oWP3NHqWjOvnAmSXeD7CyvpTthqpMspY?usp=sharing"
+}

@@ -1,0 +1,148 @@
+{
+    "Contributor": "liteng",
+    "Domain": "Programming",
+    "Task": "Write program by python",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at programming by python. I will ask some questions to collect information and then I will use the information to write a python code.",
+        "task_specific_prompt": "Write the program by using python."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the software you want to develop?",
+                    "Answer": "The software I want to develop to calculate PI."
+                },
+                {
+                    "Question": "What is the purpose of the software?",
+                    "Answer": "The purpose of this software is to calculate the value of PI."
+                },
+                {
+                    "Question": "Who will use the software?",
+                    "Answer": "This software will be used by people who want to calculate the value of PI."
+                },
+                {
+                    "Question": "What are the inputs of the software?",
+                    "Answer": "The inputs of this software are the values of the radius and the number of terms."
+                },
+                {
+                    "Question": "What are the outputs of the software?",
+                    "Answer": "The outputs of this software are the value of PI and the error."
+                },
+                {
+                    "Question": "What are the constraints of the software?",
+                    "Answer": "The constraints of this software are the values of the radius and the number of terms."
+                },
+                {
+                    "Question": "What are the assumptions of the software?",
+                    "Answer": "The assumptions of this software are that the value of the radius is positive and that the number of terms is positive."
+                },
+                {
+                    "Question": "What are the risks of the software?",
+                    "Answer": "The risks of this software are that the value of the radius may be negative and that the number of terms may be negative."
+                },
+                {
+                    "Question": "What are the benefits of the software?",
+                    "Answer": "The benefits of this software are that it can be used to calculate the value of PI and that it can be used to find the error."
+                },
+                {
+                    "Question": "What are the costs of the software?",
+                    "Answer": "The costs of this software are the value of the radius and the number of terms."
+                }
+            ],
+            "Output": "# This program calculates the value of PI.        radius = float(input('Enter the value of the radius: ')) please see the details on the screen shot"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the code?",
+                    "Answer": "The code will be used to detect faces."
+                },
+                {
+                    "Question": "What are the inputs to the code?",
+                    "Answer": "The inputs to the code will be images."
+                },
+                {
+                    "Question": "What are the outputs of the code?",
+                    "Answer": "The outputs of the code will be the name of the face."
+                },
+                {
+                    "Question": "What are the steps involved in the code?",
+                    "Answer": "The steps involved in the code will be to detect the face, to identify the face, and to output the name of the face."
+                },
+                {
+                    "Question": "What is the data type of the inputs?",
+                    "Answer": "The data type of the inputs will be images."
+                },
+                {
+                    "Question": "What is the data type of the outputs?",
+                    "Answer": "The data type of the outputs will be the name of the face."
+                },
+                {
+                    "Question": "Is there any special library required for the code?",
+                    "Answer": "No, there is no special library required for the code."
+                },
+                {
+                    "Question": "What is the time complexity of the code?",
+                    "Answer": "The time complexity of the code will be O(n)."
+                },
+                {
+                    "Question": "What is the space complexity of the code?",
+                    "Answer": "The space complexity of the code will be O(1)."
+                },
+                {
+                    "Question": "Is the code easy to understand?",
+                    "Answer": "Yes, the code is easy to understand."
+                }
+            ],
+            "Output": "import cv2         def face_detect(image):  please see the details in screen shot"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the code?",
+                    "Answer": "To write a poem."
+                },
+                {
+                    "Question": "What information do you need?",
+                    "Answer": "The topic of the poem, the length of the poem, and any specific instructions."
+                },
+                {
+                    "Question": "What will the code do?",
+                    "Answer": "The code will generate a poem based on the information provided."
+                },
+                {
+                    "Question": "Is there anything else you need to know?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What is the rhyme scheme of the poem?",
+                    "Answer": "The rhyme scheme of the poem is AABB."
+                },
+                {
+                    "Question": "What is the meter of the poem?",
+                    "Answer": "The meter of the poem is iambic pentameter."
+                },
+                {
+                    "Question": "Are there any other specific instructions?",
+                    "Answer": "Use GPT-3."
+                },
+                {
+                    "Question": "Do you have a title for the poem?",
+                    "Answer": "Tears and Rain."
+                },
+                {
+                    "Question": "What is the topic of the poem?",
+                    "Answer": "The topic of the poem is love and loss."
+                },
+                {
+                    "Question": "What is the length of the poem?",
+                    "Answer": "The poem is ten lines long."
+                }
+            ],
+            "Output": "import os        import sys                import gpt_3        from gpt_3 import *  please see the details in the screen shot."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/VO5aSc5qUtUOcbSPQZsNqaHJ?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1E1Crg__r7jdxpYE42gW_HbAO5ffdviUU?usp=sharing"
+}

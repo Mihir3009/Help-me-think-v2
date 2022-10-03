@@ -1,0 +1,159 @@
+{
+    "Contributor": "wuchean",
+    "Domain": "Ecosystems",
+    "Task": "Design travel plan",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in designing travel plans for the ecosystem. I will ask some questions to collect information and then I will use the information to write a  travel plan to the Great Barrier Reef ecosystem.",
+        "task_specific_prompt": "Write travel plans for the Great Barrier Reef ecosystem using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your travel budget?",
+                    "Answer": "My travel budget is $1700. If the quality of tourism is improved, the budget can be raised to 2000."
+                },
+                {
+                    "Question": "How many people are at your party?",
+                    "Answer": "My party consists of two people. It's a honeymoon."
+                },
+                {
+                    "Question": "What are your travel dates?",
+                    "Answer": "I would like to travel between July 1-7. There is a lot of marine life to enjoy in summer."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "I would like to fly to the closest airport and then rent a car for the duration of the trip. I don't like to walk."
+                },
+                {
+                    "Question": "What are your lodging preferences?",
+                    "Answer": "I would like to find a hotel or lodge that is near the Great Barrier Reef."
+                },
+                {
+                    "Question": "What activities are you interested in?",
+                    "Answer": "I am interested in swimming, diving, and learning about the local flora and fauna."
+                },
+                {
+                    "Question": "What is your preferred method of travel?",
+                    "Answer": "I would like to take a tour of the Great Barrier Reef by boat.I like meat very much."
+                },
+                {
+                    "Question": "What are your dietary preferences?",
+                    "Answer": "I like meat very much."
+                },
+                {
+                    "Question": "What is your preferred method of payment?",
+                    "Answer": "I would like to pay by credit card."
+                },
+                {
+                    "Question": "Would you like to add anything else?",
+                    "Answer": "The Great Barrier Reef is famous for being the world's largest coral reef ecosystem, so I am looking forward to seeing the abundant reef and marine ecosystem."
+                }
+            ],
+            "Output": "Your travel budget is $1700. You would like to fly to the closest airport and then rent a car for the duration of the trip. You would like to find a hotel or lodge that is near the Great Barrier Reef. You are interested in swimming, diving, and learning about the local flora and fauna. You would like to take a tour of the Great Barrier Reef by boat. The Great Barrier Reef is famous for being the world's largest coral reef ecosystem, so you are looking forward to seeing the abundant reef and marine ecosystem."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your travel budget?",
+                    "Answer": "My travel budget is $6500. It's a family trip, so safety is the first consideration."
+                },
+                {
+                    "Question": "How many people are at your party?",
+                    "Answer": "My party consists of four people. We have two adults and two children."
+                },
+                {
+                    "Question": "What are your travel dates?",
+                    "Answer": "I would like to travel between Dec 1-5.  I heard that there is fewer jellyfish underwater in this season, so it will be safer."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "I would like to fly to the closest airport and then rent a car for the duration of the trip. Our members have young children, the shorter the distance the better."
+                },
+                {
+                    "Question": "What are your lodging preferences?",
+                    "Answer": "I would like to find a hotel or lodge that is near the Great Barrier Reef."
+                },
+                {
+                    "Question": "What activities are you interested in?",
+                    "Answer": "I am interested in some activities that parents can play with children such as snorkeling, ecological commentary, parent-child treasure hunt, and learning about the local flora and fauna."
+                },
+                {
+                    "Question": "What is your preferred method of travel?",
+                    "Answer": "I would like to take a tour of the Great Barrier Reef by car."
+                },
+                {
+                    "Question": "What are your dietary preferences?",
+                    "Answer": "Two children are allergic to seafood and milk. "
+                },
+                {
+                    "Question": "What is your preferred method of payment?",
+                    "Answer": "I would like to pay by credit card or cash."
+                },
+                {
+                    "Question": "Would you like to add anything else?",
+                    "Answer": "The Great Barrier Reef is famous for being the world's largest coral reef ecosystem, so I want my children to learn many knowledge from the ocean ecosystem."
+                }
+            ],
+            "Output": "Day 1: -Arrive in Cairns, Queensland, Australia  -Rent a car  -Check into hotel or lodge near the Great Barrier Reef Day 2: -Wake up early and go snorkeling in the Great Barrier Reef  -Come back to the hotel or lodge for lunch -In the afternoon, take a car tour of the Great Barrier Reef -In the evening, have dinner at the hotel or lodge Day 3: -Wake up early and go snorkeling in the Great Barrier Reef -Come back to the hotel or lodge for lunch -After lunch, take an ecological commentary tour of the Great Barrier Reef -In the evening, have dinner at the hotel or lodge Day 4: -Wake up early and go snorkeling in the Great Barrier Reef -Come back to the hotel or lodge for lunch -After lunch, take a parent-child treasure hunt tour of the Great Barrier Reef -In the evening, have dinner at the hotel or lodge Day 5: -Wake up"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your travel budget?",
+                    "Answer": "My travel budget is $1000. "
+                },
+                {
+                    "Question": "How many people are at your party?",
+                    "Answer": "Only I will go on this trip. I want to experience a different adventure in the Great Barrier Reef by myself."
+                },
+                {
+                    "Question": "What are your travel dates?",
+                    "Answer": "I would like to travel between Jun 1-10.  Traveling for such a long time is to have a very deep understanding of the ecology and culture of the Great Barrier Reef."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "I want to fly to the airport in Australia with the cheapest airfare from my country, then rent a car and drive to the Great Barrier Reef."
+                },
+                {
+                    "Question": "What are your lodging preferences?",
+                    "Answer": "I want to rent a camper van and sleep in it every day."
+                },
+                {
+                    "Question": "What activities are you interested in?",
+                    "Answer": "I want to do everything I can do on the Great Barrier Reef, for example, stand-up paddle board, snorkeling, swimming, ecological commentary, canoe, stand-up paddle board, and learning about the local flora and fauna."
+                },
+                {
+                    "Question": "What is your preferred method of travel?",
+                    "Answer": "I would like to take a tour of the Great Barrier Reef by camper van."
+                },
+                {
+                    "Question": "What are your dietary preferences?",
+                    "Answer": "I eat everything, I'm an omnivore."
+                },
+                {
+                    "Question": "What is your preferred method of payment?",
+                    "Answer": "I would like to pay by credit card or cash."
+                },
+                {
+                    "Question": "Would you like to add anything else?",
+                    "Answer": "The more exciting and fun way to travel, I want to try it."
+                }
+            ],
+            "Output": "Day 1: I would fly into the airport in Australia and then rent a car. I would drive to the Great Barrier Reef and find a place to stay for the night. I would go snorkeling and swimming. Day 2: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go canoeing and stand-up paddle boarding. Day 3: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go swimming and snorkeling. Day 4: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go stand-up paddle boarding and swimming. Day 5: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go snorkeling and swimming. Day 6: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go canoeing and stand-up paddle boarding. Day 7: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go swimming and snorkeling. Day 8: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go stand-up paddle boarding and swimming. Day 9: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go snorkeling and swimming. Day 10: I would spend the day exploring the Great Barrier Reef. I would go on a tour and learn about the local flora and fauna. I would go canoeing and stand-up paddle boarding."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/z7eZMeMn8scUStS21WtGWOw3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/bpNKAmyAj5lZ7mkufFIcOkaC?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/y8dF3lJaL4z80ueC9UZftZVA?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1HC2bsGZseIdpWDJ-7AxaMOhHXZR-2Jtv/view?usp=sharing",
+        "https://drive.google.com/file/d/1A0aYgFs01bOgEqEb1KXlzeF9-277_NIa/view?usp=sharing",
+        "https://drive.google.com/file/d/1jmVpb1ycbZ8XfCrDMQNnL39twZTYpN27/view?usp=sharing",
+        "https://drive.google.com/file/d/1_rZ9Qwpfq6jkPJnLalkaB_k73bSmdOcI/view?usp=sharing",
+        "https://drive.google.com/file/d/1Zy2auQikPOjOS4GotV8qV-yk5IaHg2Tx/view?usp=sharing",
+        "https://drive.google.com/file/d/1eGGXwkJOUtyksIj_ODlBQpdsM0ofDskk/view?usp=sharing"
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "Domain": "Natural Resources",
+    "Task": "As a student estimate his water resources consumptions over the week",
+    "Prompt": {
+        "pre_question_prompt": "I am a student. I will ask some questions to collect information and then I will use the information to understand how much water resources are being used by me.",
+        "task_specific_prompt": "Based on the information collected above in questions and answers, estimate me how much water a student uses every week. And give the student some recommendations on water conservation and tell him how much he can save."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many times do you brush your teeth per day?",
+                    "Answer": "I brush my teeth twice a day."
+                },
+                {
+                    "Question": "How long do you brush your teeth for?",
+                    "Answer": "I brush my teeth for two minutes each time."
+                },
+                {
+                    "Question": "How many minutes do you shower for?",
+                    "Answer": "I shower for 10 minutes."
+                },
+                {
+                    "Question": "How often do you do laundry?",
+                    "Answer": "I do laundry once a week."
+                },
+                {
+                    "Question": "How many loads of laundry do you do each time?",
+                    "Answer": "I do two loads of laundry each time."
+                },
+                {
+                    "Question": "How many times do you flush the toilet per day?",
+                    "Answer": "I flush the toilet six times a day."
+                },
+                {
+                    "Question": "How many times do wash your car?",
+                    "Answer": "I wash my car once a week."
+                },
+                {
+                    "Question": "How much time do you spend washing your car?",
+                    "Answer": "I spend 30 minutes washing my car."
+                },
+                {
+                    "Question": "How often do you water your plants?",
+                    "Answer": "I water my plants once a week."
+                },
+                {
+                    "Question": "How long do you water your plants for?",
+                    "Answer": "I water my plants for five minutes each time."
+                }
+            ],
+            "Output": "A student uses approximately 210 gallons of water per week. To conserve water, the student could shower for less time, water his plants less often, and wash his car less often. By making these changes, the student could save approximately 40 gallons of water per week."
+        },
+        {
+            "QApair": 
+
+            [
+              {
+                "Question": "How many times do you brush your teeth per day?",
+                "Answer": "I brush my teeth once a day."
+              },
+              {
+                "Question": "How long do you brush your teeth for?",
+                "Answer": "I brush my teeth for five minutes each time."
+              },
+              {
+                "Question": "How many minutes do you shower for?",
+                "Answer": "I shower for 15 minutes."
+              },
+              {
+                "Question": "How often do you do laundry?",
+                "Answer": "I do laundry on alternate weeks."
+              },
+              {
+                "Question": "How many loads of laundry do you do each time?",
+                "Answer": "I do one loads of laundry each time."
+              },
+              {
+                "Question": "How many times do you flush the toilet per day?",
+                "Answer": "I flush the toilet 10 times a day."
+              },
+              {
+                "Question": "How many times do wash your car?",
+                "Answer": "I wash my car once a month."
+              },
+              {
+                "Question": "How much time do you spend washing your car?",
+                "Answer": "I spend 15 minutes washing my car."
+              },
+              {
+                "Question": "How often do you water your plants?",
+                "Answer": "I water my plants twice a week."
+              },
+              {
+                "Question": "How long do you water your plants for?",
+                "Answer": "I water my plants for 20 minutes each time."
+              }
+            ],
+            "Output": "A student uses approximately 36 gallons of water a week. By making some simple changes, a student can save over 12 gallons of water a week. Recommendations for water conservation include: brushing teeth for two minutes instead of five, showering for two minutes less, doing one load of laundry every two weeks instead of every week, and flushing the toilet only when necessary. These changes can save a student over 12 gallons of water a week."
+        },
+        {
+            "QApair": [
+                {
+                  "Question": "How many times do you brush your teeth per day?",
+                  "Answer": "I brush my teeth twice a day."
+                },
+                {
+                  "Question": "How long do you brush your teeth for?",
+                  "Answer": "I brush my teeth for five minutes each time."
+                },
+                {
+                  "Question": "How many minutes do you shower for?",
+                  "Answer": "I shower for 20 minutes."
+                },
+                {
+                  "Question": "How often do you do laundry?",
+                  "Answer": "I do laundry once every three weeks."
+                },
+                {
+                  "Question": "How many loads of laundry do you do each time?",
+                  "Answer": "I do two loads of laundry each time."
+                },
+                {
+                  "Question": "How many times do you flush the toilet per day?",
+                  "Answer": "I flush the toilet 5 times a day."
+                },
+                {
+                  "Question": "How many times do wash your car?",
+                  "Answer": "I wash my car in alternate weeks."
+                },
+                {
+                  "Question": "How much time do you spend washing your car?",
+                  "Answer": "I spend 5 minutes washing my car."
+                },
+                {
+                  "Question": "How often do you water your plants?",
+                  "Answer": "I water my plants thrice a week."
+                },
+                {
+                  "Question": "How long do you water your plants for?",
+                  "Answer": "I water my plants for 5 minutes each time."
+                }
+              ],
+            "Output": "A student uses approximately 20 gallons of water per day. A student can save water by turning the faucet off while brushing their teeth, taking shorter showers, doing laundry less often, and watering plants less often. A student can save up to 5 gallons of water per day by following these recommendations."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/Ex2SAoPdwJ6kf70Y0L8WVY2S?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1FDozuZS9CMr3yTEZ4RlQoOEmj-fVUdQb/view?usp=sharing"
+}

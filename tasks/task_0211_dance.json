@@ -1,0 +1,156 @@
+{
+    "Contributor": "thakkarnihar",
+    "Domain": "Dance",
+    "Task": "forming dance routines according to your fitness goal",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in forming dance routines according to your fitness goal. I will ask some questions to collect information and then I will use the information to write your dance routine.",
+        "task_specific_prompt": "Write me a dance routine using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your fitness goal?",
+                    "Answer": "To improve my cardiovascular fitness."
+                },
+                {
+                    "Question": "What type of dance do you want to do?",
+                    "Answer": "I want to do a Latin dance"
+                },
+                {
+                    "Question": "What is your level of experience?",
+                    "Answer": "I am a beginner"
+                },
+                {
+                    "Question": "How many days a week do you want to dance?",
+                    "Answer": "I want to dance 3 days a week"
+                },
+                {
+                    "Question": "How many minutes do you want to dance each day?",
+                    "Answer": "I want to dance for 30 minutes each day"
+                },
+                {
+                    "Question": "What type of music do you want to dance to?",
+                    "Answer": "I want to dance to Latin music"
+                },
+                {
+                    "Question": "What tempo do you want the music to be?",
+                    "Answer": "I want the music to be fast-pacedy"
+                },
+                {
+                    "Question": "Are you looking to dance with a partner or alone?",
+                    "Answer": "I want to dance with a partner"
+                },
+                {
+                    "Question": "Do you have any injuries or health conditions that we need to be aware of?",
+                    "Answer": "I have arthritis in my knees"
+                },
+                {
+                    "Question": "Is there anything else you would like us to know?",
+                    "Answer": "I want to learn some basic steps before I start the routine."
+                }
+            ],
+            "Output": "Warm up: Start by walking in place for a few minutes to get your heart rate up. Then, do some gentle stretches to loosen up your muscles.Latin Dance Routine: 1. Begin by standing with your feet together. 2. Step to the right with your right foot, and then bring your left foot to meet it. 3. Step to the left with your left foot, and then bring your right foot to meet it. 4. Step forward with your right foot, and then bring your left foot to meet it. 5. Step backward with your left foot, and then bring your right foot to meet it. 6. Step to the right with your right foot, and then cross your left foot behind it. 7. Step to the left with your left foot, and then cross your right foot behind it. 8. Step forward with your right foot, and then kick your left foot out to the side. 9. Step backward with your left foot, and then kick your right foot out to the side. 10. Repeat the above steps, moving to the beat of the music."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What is your fitness goal?",
+                    "Answer": "I would like to loose weight."
+                },
+                {
+                    "Question": "How many days per week do you want to work out?",
+                    "Answer": "I would like to work out 5 days per week."
+                },
+                {
+                    "Question": "How many minutes per day do you want to dance?",
+                    "Answer": "I would like to dance for 30 minutes per day."
+                },
+                {
+                    "Question": "What style of dance do you want to do?",
+                    "Answer": "I would like to do hip hop."
+                },
+                {
+                    "Question": " What are some songs that you would like to dance to?",
+                    "Answer": "I dance 3-4 times a week.I would like to dance to \"All About That Bass\" by Meghan Trainor and \"Anaconda\" by Nicki Minaj."
+                },
+                {
+                    "Question": "What are some moves that you would like to learn?",
+                    "Answer": "I would like to learn some basic hip hop moves like the \"whip\" and the \"nae nae.\""
+                },
+                {
+                    "Question": "Do you have any injuries or medical conditions that we need to be aware of?",
+                    "Answer": "No, I do not have any injuries or medical conditions."
+                },
+                {
+                    "Question": "Are you pregnant or breastfeeding?",
+                    "Answer": "No, I am not pregnant or breastfeeding."
+                },
+                {
+                    "Question": "Do you have any allergies?",
+                    "Answer": "No, I do not have any allergies."
+                },
+                {
+                    "Question": "Do you have any other physical limitations?",
+                    "Answer": "No, I do not have any other physical limitations."
+                },
+                {
+                    "Question": "Would you like to focus on cardio or strength training?",
+                    "Answer": "I would like to focus on cardio."
+                },
+                {
+                    "Question": "What is your level of fitness?",
+                    "Answer": "I would say my level of fitness is intermediate."
+                },
+                {
+                    "Question": "What is your height?",
+                    "Answer": "I am 5'5\"."
+                },
+                {
+                    "Question": "What is your weight?",
+                    "Answer": "I weigh 140 pounds."
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "I am 33 years old."
+                },
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "I am female."
+                }
+            ],
+            "Output": "Warm-Up: Start by jogging in place for 2 minutes to get your heart rate up. Then, do some arm circles and leg swings to loosen up your muscles. Main routine: Start with some basic hip hop moves like the \"whip\" and the \"nae nae.\" Do each move for 30 seconds and then take a 10 second break in between. Then, move on to some more challenging moves like the \"cabbage patch\" and the \"running man.\" Do each move for 30 seconds and then take a 10 second break in between. Finally, end with some cool down stretches. Repeat this routine 3-5 times per week for best results."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your fitness goal?",
+                    "Answer": "I would like to strengthen my legs."
+                },
+                {
+                    "Question": "What type of music do you enjoy moving to?",
+                    "Answer": "I enjoy upbeat pop music."
+                },
+                {
+                    "Question": "What movements do you feel comfortable doing?",
+                    "Answer": "I feel comfortable doing a variety of movements, including jumping, turning, and stretching."
+                },
+                {
+                    "Question": "How many minutes do you want to dance for?",
+                    "Answer": "I would like to dance for 30 minutes."
+                },
+                {
+                    "Question": "Do you have any injuries or health concerns that I should be aware of?",
+                    "Answer": "I have no injuries or health concerns."
+                },
+                {
+                    "Question": "Would you like me to include a warm-up and cool-down in your routine?",
+                    "Answer": "Yes, please include a warm-up and cool-down in my routine."
+                }
+            ],
+            "Output": "Warm-up: Begin by jogging in place for 1 minute to increase your heart rate and to warm up your muscles. Leg Strengthening Routine: 1. Start by standing with your feet hip-width apart. 2. Raise your right knee up towards your chest and hold for 2 seconds. Return to starting position. 3. Repeat this movement with your left leg. 4. Now, jump up and land with both feet together. 5. Repeat this movement for 30 seconds. 6. Rest for 30 seconds. 7. Repeat the entire routine 3-5 times. Cool-down: 1. Start by walking in place for 1 minute to help slow down your heart rate. 2. Stretch your legs by doing a standing quad stretch. To do this, stand with your feet hip-width apart and grab your right ankle with your right hand. Pull your heel towards your butt and hold for 30 seconds. Repeat on the other side. 3. Finish by doing a standing calf stretch. To do this, stand with your feet hip-width apart and place your hands on a wall in front of you. Step forward with your right leg and press your heel down. Lean into the stretch and hold for 30 seconds. Repeat on the other side."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/WMX1h7ubRDi3lHQNOV7hQMqC?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1xfz1ydAIetX9IrM6Cstz48InrF1wpByG?usp=sharing"
+}
