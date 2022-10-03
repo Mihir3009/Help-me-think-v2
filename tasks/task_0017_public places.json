@@ -1,0 +1,159 @@
+{
+    "Domain": "Public Places",
+    "Task": "I want to assess a university so that I make a government report",
+    "Prompt": {
+        "pre_question_prompt": "I am a government representative. I will ask some questions to collect information and then I will use the information to evaluate the performance of a university.",
+        "task_specific_prompt": "Write a synopsis and a little bit of history of the above university using the questions and answers above, so that I can report it to the Board of Education."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the university?",
+                    "Answer": "The name of the university is GSU."
+                },
+                {
+                    "Question": "What is the university's mission statement?",
+                    "Answer": "Georgia State University's mission is to create and maintain a learning environment that develops the potential of each student and contributes to the economic, social, and cultural vitality of our diverse urban community, the state of Georgia, and the nation."
+                },
+                {
+                    "Question": "What are the university's core values?",
+                    "Answer": "The university's core values are excellence, diversity, and accessibility."
+                },
+                {
+                    "Question": "What is the university's accreditation status?",
+                    "Answer": "The university's accreditation status is accredited by the Southern Association of Colleges and Schools Commission on Colleges."
+                },
+                {
+                    "Question": "What is the university's student population?",
+                    "Answer": "The university's student population is 32,082."
+                },
+                {
+                    "Question": "What is the university's retention rate?",
+                    "Answer": "The university's retention rate is 69%."
+                },
+                {
+                    "Question": "What is the university's graduation rate?",
+                    "Answer": "The university's graduation rate is 54%."
+                },
+                {
+                    "Question": "What is the university's average class size?",
+                    "Answer": "The university's average class size is 26."
+                },
+                {
+                    "Question": "What is the university's average student-to-faculty ratio?",
+                    "Answer": "The university's average student-to-faculty ratio is 18:1."
+                },
+                {
+                    "Question": "What is the university's admissions rate?",
+                    "Answer": "The university's admissions rate is 78%."
+                },
+                {
+                    "Question": "What are the university's tuition and fees?",
+                    "Answer": "The university's tuition and fees are $9,158 for in-state and $23,598 for out-of-state students."
+                }
+            ],
+            "Output": "Georgia State University (GSU) is a public research university located in Atlanta, Georgia. The university was founded in 1913 as a business school and later evolved into a comprehensive university. GSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges. The university's student population is 32,082. The university's retention rate is 69%. The university's graduation rate is 54%. The university's average class size is 26. The university's average student-to-faculty ratio is 18:1. The university's admissions rate is 78%. The university's tuition and fees are $9,158 for in-state and $23,598 for out-of-state students."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the university?",
+                    "Answer": "The name of the university is ASU."
+                },
+                {
+                    "Question": "What is the university's mission statement?",
+                    "Answer": "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serve."
+                },
+                {
+                    "Question": "What are the university's core values?",
+                    "Answer": "ASU is committed to excellence, access and impact in everything we do. We measure ourselves by the outcomes our students achieve, the accomplishments of our graduates, the research we contribute to the public good and by the economic, social and cultural vitality of the communities that surround us."
+                },
+                {
+                    "Question": "What is the university's accreditation status?",
+                    "Answer": "Arizona State University is accredited by the Higher Learning Commission of the North Central Association of Colleges and Schools"
+                },
+                {
+                    "Question": "What is the university's student population?",
+                    "Answer": "The university's student population is 55000."
+                },
+                {
+                    "Question": "What is the university's retention rate?",
+                    "Answer": "The university's retention rate is 86.2%."
+                },
+                {
+                    "Question": "What is the university's graduation rate?",
+                    "Answer": "The university's graduation rate is 66.9%."
+                },
+                {
+                    "Question": "What is the university's average class size?",
+                    "Answer": "The university's average class size is 130."
+                },
+                {
+                    "Question": "What is the university's average student-to-faculty ratio?",
+                    "Answer": "The university's average student-to-faculty ratio is 18:1."
+                },
+                {
+                    "Question": "What is the university's admissions rate?",
+                    "Answer": "The university's admissions rate is 80%."
+                },
+                {
+                    "Question": "What are the university's tuition and fees?",
+                    "Answer": "In-state tuition 11,338 USD, Out-of-state tuition 29,428 USD."
+                }
+            ],
+            "Output": "Arizona State University (ASU) is a public research university in the United States. Founded in 1885 as the Tempe Normal School for the Arizona Territory, the school came under control of the Arizona Board of Regents in 1945 and was renamed Arizona State College. A 1958 merger with the Phoenix College of Law gave the school its current name. ASU is one of the largest public universities by enrollment in the U.S. As of 2019, the university had about 80,000 students attending classes across its metropolitan campuses, including Tempe, Phoenix, Mesa, and Scottsdale. The university is classified among \"R1: Doctoral Universities – Very high research activity\". ASU's charter, approved by the board of regents in 2014, is based on the \"New American University\" model created by former ASU President Michael M. Crow. ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serve. The university's core values are excellence, access and impact. Arizona State University is accredited by the Higher Learning Commission"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the university?",
+                    "Answer": "The name of the university is UTD."
+                },
+                {
+                    "Question": "What is the university's mission statement?",
+                    "Answer": "The mission of The University of Texas at Austin is to achieve excellence in the interrelated areas of undergraduate education, graduate education, research and public service."
+                },
+                {
+                    "Question": "What are the university's core values?",
+                    "Answer": "Service Excellence Service Is Not What We Do, Service Is Who We Are Innovation Community Partnerships Sustainability Results Oriented."
+                },
+                {
+                    "Question": "What is the university's accreditation status?",
+                    "Answer": "The University of Texas at Dallas is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award baccalaureate, masters and doctoral degrees."
+                },
+                {
+                    "Question": "What is the university's student population?",
+                    "Answer": "The university's student population is 29,543."
+                },
+                {
+                    "Question": "What is the university's retention rate?",
+                    "Answer": "The university's retention rate is 88.0%."
+                },
+                {
+                    "Question": "What is the university's graduation rate?",
+                    "Answer": "The university's graduation rate is 70.9%."
+                },
+                {
+                    "Question": "What is the university's average class size?",
+                    "Answer": "The university's average class size is 100. "
+                },
+                {
+                    "Question": "What is the university's average student-to-faculty ratio?",
+                    "Answer": "The university's average student-to-faculty ratio is 23:1."
+                },
+                {
+                    "Question": "What is the university's admissions rate?",
+                    "Answer": "The university's admissions rate is 79.4%."
+                },
+                {
+                    "Question": "What are the university's tuition and fees?",
+                    "Answer": "In-state tuition 13,992 USD, Out-of-state tuition 38,970 USD."
+                }
+            ],
+            "Output": "UTD was founded in 1969 and is located in Richardson, Texas. It is a public university and part of the University of Texas System. The university's mission is to achieve excellence in the interrelated areas of undergraduate education, graduate education, research and public service. The university's core values are service excellence, innovation, community partnerships, sustainability and results-oriented. UTD is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award baccalaureate, masters and doctoral degrees. The university's student population is 29,543. The university's retention rate is 88.0% and the graduation rate is 70.9%. The university's average class size is 100 and the average student-to-faculty ratio is 23:1. The university's admissions rate is 79.4%. In-state tuition is 13,992 USD and out-of-state tuition is 38,970 USD."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/94micSltY8ipEFiYFXcQ2gBO?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ojexNsrr5FVseyYaXXhpLhvSAGBy2h_I/view?usp=sharing"
+}

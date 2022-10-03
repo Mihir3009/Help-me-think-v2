@@ -1,0 +1,156 @@
+{
+    "Contributor": "songlucy",
+    "Domain": "Retail Management",
+    "Task": "Suggesting how to decorate a retail store.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in interior design. I will ask some questions to collect information and then I will use the information to write suggestions on how to decorate a retail store.",
+        "task_specific_prompt": "Write suggestions on how to decorate a retail store using the questions and answers above. Add more details."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of retail store is it?",
+                    "Answer": "A home furniture store."
+                },
+                {
+                    "Question": "What is the store's style?",
+                    "Answer": "The store is cozy and inviting."
+                },
+                {
+                    "Question": "What is the store's budget?",
+                    "Answer": "The store has a budget of $20,000."
+                },
+                {
+                    "Question": "What are the store's dimensions?",
+                    "Answer": "The store is 3,000 square feet."
+                },
+                {
+                    "Question": "What is the store's color scheme?",
+                    "Answer": "The store's color scheme is tan and white."
+                },
+                {
+                    "Question": "What type of furniture does the store sell?",
+                    "Answer": "The store stills a variety of furniture. It has traditional and contemporary styles, fit for everyone's needs."
+                },
+                {
+                    "Question": "What is the store's layout?",
+                    "Answer": "The layout of the store is set up in a way that allows customers to move about easily, browse through the different furniture options, and try them out. There are checkout stations across the store for ease of access."
+                },
+                {
+                    "Question": "What is the store's lighting like?",
+                    "Answer": "The store is well-lit during the day, with plenty of natural light coming in. There are also track lights and lamps placed around the store to provide adequate lighting at night."
+                },
+                {
+                    "Question": "What type of flooring does the store have?",
+                    "Answer": "The store has dark colored hardwood floors."
+                },
+                {
+                    "Question": "What are the walls like?",
+                    "Answer": "The walls are a light tan color and are covered with artwork."
+                }
+            ],
+            "Output": "Here are some suggestions on how to decorate a retail store:\n\n- Use the store's budget of $20,000 to purchase new furniture, update the flooring, and repaint the walls.\n\n- Choose furniture that fits the store's cozy and inviting style. Select a mix of traditional and contemporary pieces to appeal to a wide range of customers.\n\n- Utilize the store's dimensions to create a layout that is easy to navigate. Place checkout stations around the perimeter of the store for convenience.\n\n- Take advantage of the store's natural lighting by keeping the windows clean and unobstructed. supplement with track lighting and lamps as needed.\n\n- Use the store's light tan walls as a blank canvas to showcase artwork. Hang artwork at eye level to add interest and appeal."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the retail store?",
+                    "Answer": "The retail store is called Toyota Car Store."
+                },
+                {
+                    "Question": "What type of products does the store sell?",
+                    "Answer": "Toyota cars."
+                },
+                {
+                    "Question": "What is the store's budget for decorating?",
+                    "Answer": "The budget is $32,000."
+                },
+                {
+                    "Question": "What is the store's target market?",
+                    "Answer": "The target market is families, individuals, and outdoor enthusiasts."
+                },
+                {
+                    "Question": "What is the store's color scheme?",
+                    "Answer": "The color scheme is silver, white, red, and black."
+                },
+                {
+                    "Question": "What style should the store be decorated in?",
+                    "Answer": "The store should be decorated in a way that the focus on the cars, not the environment. It should be clean and sleek."
+                },
+                {
+                    "Question": "What type of furniture should be used in the store?",
+                    "Answer": "The furniture should look modern, but be comfortable and inviting. The goal is for customers to want to stay and look at the cars."
+                },
+                {
+                    "Question": "What type of flooring should be used in the store?",
+                    "Answer": "The flooring should be slip-resistant, sleek, and easy to clean."
+                },
+                {
+                    "Question": "What type of lighting should be used in the store?",
+                    "Answer": "The lighting should be bright to keep the audience attentive. There should be spotlights on cars on the showroom to highlight them."
+                },
+                {
+                    "Question": "What type of signage should be used in the store?",
+                    "Answer": "The signage should be big, bold, and easy to see and read from a long distance away."
+                }
+            ],
+            "Output": "1. The Toyota Car Store should be decorated in a way that the focus is on the cars, not the environment. The decor should be clean and sleek.\n\n2. The furniture in the store should look modern, but be comfortable and inviting. The goal is for customers to want to stay and look at the cars.\n\n3. The flooring should be slip-resistant, sleek, and easy to clean.\n\n4. The lighting should be bright to keep the audience attentive. There should be spotlights on cars on the showroom to highlight them.\n\n5. The signage should be big, bold, and easy to see and read from a long distance away."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of the retail store?",
+                    "Answer": "The retail store is 1,500 square feet big."
+                },
+                {
+                    "Question": "What is the store's current theme or style?",
+                    "Answer": "The store's style is friendly and welcoming to children."
+                },
+                {
+                    "Question": "What colors does the store currently use?",
+                    "Answer": "Fun colors like pink, light blue, and white are used in the store."
+                },
+                {
+                    "Question": "What type of merchandise does the store sell?",
+                    "Answer": "The store sells children's toys, and books."
+                },
+                {
+                    "Question": "Who is the store's target customer?",
+                    "Answer": "The store's target customer is children."
+                },
+                {
+                    "Question": "What is the store's budget for decorating?",
+                    "Answer": "The store has a budget of $10,000 for decorating."
+                },
+                {
+                    "Question": "What is the store's timeline for decorating?",
+                    "Answer": "The store would like the decorating to be completed within 1 month."
+                },
+                {
+                    "Question": "What are the store's goals for the decorating?",
+                    "Answer": "The store would like the store to look cheerful and inviting to children."
+                },
+                {
+                    "Question": "What type of feeling does the store want to create for its customers?",
+                    "Answer": "The store should feel welcoming and fun to customers."
+                },
+                {
+                    "Question": "What type of atmosphere does the store want to create?",
+                    "Answer": "The store wants to create an atmosphere that is fun and lets children's imagination fly."
+                },
+                {
+                    "Question": "What type of furniture does the store currently have?",
+                    "Answer": "The store has shelves full of toys and books, tables for children and parents to sit at, large train set, and a small cafe in one corner."
+                }
+            ],
+            "Output": "1. The store should keep its current colors scheme of fun colors like pink, light blue, and white.\n2. The store should add more murals or wall decals of children's characters to create an even more fun and inviting atmosphere.\n3. The store should consider rearranging the furniture to create more open spaces for children to play.\n4. The store could add additional toy displays and shelves to make it easier for children to find what they are looking for.\n5. The store should make sure the cafe area is well-lit and inviting for parents to relax while their children play."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/mAe5PZi6liImpn1hwF1UMvsa?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4NdvGrifNkFW0VONN3gwWoQ9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/nYDkMBYVRqrD1VDtmIPbgHwZ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1HX3aAsP3Uv2gGg1W1k6ij1jsD4xzp-s9?usp=sharing"
+}

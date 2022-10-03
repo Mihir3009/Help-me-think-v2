@@ -1,0 +1,163 @@
+{
+    "Domain": "security",
+    "Task": "make security policies",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert security policy maker. I will ask some questions to collect information and then I will use the information to suggest policies.",
+        "task_specific_prompt": "Write a security policy recommendation using the questions and answers above. Be as specific and detailed as possible."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your organization's primary concern when it comes to security?",
+                    "Answer": "Over the past months we see many shooting incidents in the country. Innocent lives have been lost - including students, children, men and women."
+                },
+                {
+                    "Question": "What are your organization's current security policies?",
+                    "Answer": "Th current policies are not that strong. In some states buying a firearm is just too easy, provided you just have the money."
+                },
+                {
+                    "Question": "What type of information does your organization need to collect in order to make informed security decisions?",
+                    "Answer": "We need to collect the type of firearms that are available to the public. Also, the locations of such holders of firearms and their background check."
+                },
+                {
+                    "Question": "How often does your organization review its security policies?",
+                    "Answer": "The policies are reviewed on an annual basis. However there has not been much improvement of these polices in the past years."
+                },
+                {
+                    "Question": "What are your thoughts on gun control?",
+                    "Answer": "It is important. There should be a limit on the kind and nature of firearms available to the public. Stricter policy recommendations are needed. "
+                },
+                {
+                    "Question": "What are your thoughts on armed security guards?",
+                    "Answer": "Well, they can sure help. However this is a very expensive option."
+                },
+                {
+                    "Question": "What are your thoughts on metal detectors?",
+                    "Answer": "For sure this is required. But again these need to be monitored by personnel. Some people may just try not to walk through them."
+                },
+                {
+                    "Question": "What are your thoughts on background checks?",
+                    "Answer": "Background checks are needed. Especially for people who are interested in buying heavy firearms."
+                },
+                {
+                    "Question": "What are your thoughts on lockdown procedures?",
+                    "Answer": "These need to be implemented in schools and hospitals. This is a must for sure."
+                },
+                {
+                    "Question": "What are your thoughts on security cameras?",
+                    "Answer": "These are important, provided that they are monitored live."
+                },
+                {
+                    "Question": "What are your thoughts on emergency procedures?",
+                    "Answer": "Emergency procedures just like lockdown procedures are a must as well."
+                }
+            ],
+            "Output": "1. There should be a limit on the kind and nature of firearms available to the public. 2. Stricter policy recommendations are needed in order to control the firearms. 3. Background checks should be mandatory for people who are interested in buying firearms. 4. Lockdown procedures should be implemented in schools and hospitals. 5. Security cameras should be installed in all public places. 6. Emergency procedures should be followed in case of any unforeseen incident."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your organization's primary concern when it comes to security?",
+                    "Answer": "Over the past months we see many unauthorized entries into the research facilities of the organization. "
+                },
+                {
+                    "Question": "What are your organization's current security policies?",
+                    "Answer": "The current policies are not that strong. We only have a ID based system that is checked by the security person physically "
+                },
+                {
+                    "Question": "What type of information does your organization need to collect in order to make informed security decisions?",
+                    "Answer": "We need to collect personal information, project information and exact role in this research facility"
+                },
+                {
+                    "Question": "How often does your organization review its security policies?",
+                    "Answer": "The policies are reviewed on an annual basis. However there has not been much improvement of these polices in the past years."
+                },
+                {
+                    "Question": "What are your thoughts on gun control?",
+                    "Answer": "Guns and firearms are not allowed in this research facility"
+                },
+                {
+                    "Question": "What are your thoughts on armed security guards?",
+                    "Answer": "Well, they can sure help. However this is a very expensive option. Moreover there is no need for them to be armed in this scenario. "
+                },
+                {
+                    "Question": "What are your thoughts on metal detectors?",
+                    "Answer": "For sure this is required. But again these need to be monitored by personnel. Some people may just try not to walk through them."
+                },
+                {
+                    "Question": "What are your thoughts on background checks?",
+                    "Answer": "Background checks are needed. Especially for people who work with intensive and classified research"
+                },
+                {
+                    "Question": "What are your thoughts on lockdown procedures?",
+                    "Answer": "These are important if a person not authorized enters the facility."
+                },
+                {
+                    "Question": "What are your thoughts on security cameras?",
+                    "Answer": "These are important, provided that they are monitored live and immediate action can be taken."
+                },
+                {
+                    "Question": "What are your thoughts on emergency procedures?",
+                    "Answer": "Emergency procedures just like lockdown procedures are a must as well. "
+                }
+            ],
+            "Output": "-All unauthorized personnel must be stopped and reported immediately upon entry to the research facility. -All personnel must go through a background check before being allowed to work in the research facility. -All personnel must wear ID badges at all times while in the research facility. -All doors to the research facility must be locked at all times. -All personnel must go through a metal detector before entering the research facility. -Emergency procedures and lockdown procedures must be reviewed and practiced regularly. -Security cameras must be installed throughout the research facility and monitored at all times."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your organization's primary concern when it comes to security?",
+                    "Answer": "Over the past months we see many homeless persons entering and residing in the university campus."
+                },
+                {
+                    "Question": "What are your organization's current security policies?",
+                    "Answer": "The current policies are not that strong. As the moment there are no policies in this regard."
+                },
+                {
+                    "Question": "What type of information does your organization need to collect in order to make informed security decisions?",
+                    "Answer": "The university has student information it constantly updates and checks. But it does not have access to information of homeless people in the downtown areas"
+                },
+                {
+                    "Question": "How often does your organization review its security policies?",
+                    "Answer": "The policies are reviewed on an annual basis. However there has not been much improvement of these polices in the past years."
+                },
+                {
+                    "Question": "What are your thoughts on gun control?",
+                    "Answer": "It should be very strict, especially near university areas. "
+                },
+                {
+                    "Question": "What are your thoughts on armed security guards?",
+                    "Answer": "Well, they can sure help. However this is a very expensive option. Moreover there is no need for them to be armed in this scenario."
+                },
+                {
+                    "Question": "What are your thoughts on metal detectors?",
+                    "Answer": "For sure this is required. But again these it is not required to that extent in this situation."
+                },
+                {
+                    "Question": "What are your thoughts on background checks?",
+                    "Answer": "Background checks are needed. Especially for people who are coming and using the resources of the university."
+                },
+                {
+                    "Question": "What are your thoughts on lockdown procedures?",
+                    "Answer": "I do not think lockdown procedures would be needed here. The main issue is of homeless at times entering university premises with restricted entry. "
+                },
+                {
+                    "Question": "What are your thoughts on security cameras?",
+                    "Answer": "These are important, provided that they are monitored live and immediate action can be taken."
+                },
+                {
+                    "Question": "What are your thoughts on emergency procedures?",
+                    "Answer": "Emergency procedures just like lockdown procedures are a must as well. However such procedures are not required in this scenario at the moment"
+                }
+            ],
+            "Output": "The university should have a policy in place for safety and security of the students and staff. The policy should be reviewed on a regular basis and updated as required. The following are some recommendations for the policy: -The university should have a system to collect information on homeless people in the downtown area and keep track of their movement.-The university should have metal detectors and security cameras at all entrances.-The university should have background checks for all persons who wish to enter the university premises.-The university should have emergency procedures in place in case of any unforeseen situation."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/u30yUR3s8CsgMsgfsiJmnc3X?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RRPHDpty98ARPoqNo8RntXAy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fqoFIxyekI0AjtSzeLV2zNAL?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1dCo5g0NGbCyB-CjJ6s0LrdDbQ0ldFi4O?usp=sharing"
+}

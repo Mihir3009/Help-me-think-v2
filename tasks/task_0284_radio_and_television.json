@@ -1,0 +1,152 @@
+{
+    "Contributor": "sinhasakshi",
+    "Domain": "Radio and Television",
+    "Task": "Task_1_favorite_TV_show_report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing a TV show report of your favorite show. I will ask some questions to collect information and then I will use the information to write the TV show report.",
+        "task_specific_prompt": "Write a TV show report using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your favorite TV show?",
+                    "Answer": "My favorite TV show is Parks and Recreation."
+                },
+                {
+                    "Question": "What is the basic premise of the show?",
+                    "Answer": "The basic premise of the show is a group of friends who work in the parks and recreation department of their small town. They have many adventures and mishaps along the way."
+                },
+                {
+                    "Question": "Who are some of the main characters?",
+                    "Answer": "Some of the main characters are Leslie Knope, Ron Swanson, April Ludgate, and Andy Dwyer."
+                },
+                {
+                    "Question": "What is your favorite episode?",
+                    "Answer": "My favorite episode is the one where Leslie Knope and Ron Swanson go on a road trip to Indiana. They have many misadventures along the way and learn a lot about each other."
+                },
+                {
+                    "Question": "Why do you like this show?",
+                    "Answer": "I like this show because it is very funny and relatable. I also like the characters and the way they interact with each other."
+                },
+                {
+                    "Question": "What would you say is the show\u2019s biggest strength?",
+                    "Answer": "I would say the show\u2019s biggest strength is its humor. It is a very funny show that always has me laughing."
+                },
+                {
+                    "Question": "Do you have any criticisms of the show?",
+                    "Answer": "I do not have any criticisms of the show. I think it is a great show that is very enjoyable to watch."
+                },
+                {
+                    "Question": "Overall, would you recommend this show to others?",
+                    "Answer": "Overall, I would definitely recommend this show to others. It is a great show that is sure to make you laugh."
+                },
+                {
+                    "Question": "If someone has never seen this show, what would you tell them about it?",
+                    "Answer": "I would tell them that it is a great show that is very funny and relatable. I would also tell them that the characters are great and that the show is definitely worth watching."
+                },
+                {
+                    "Question": "Do you think this show is appropriate for all audiences?",
+                    "Answer": "I do think this show is appropriate for all audiences. It is a very funny show that does not have any offensive content."
+                }
+            ],
+            "Output": "Parks and Recreation is a great show that is very funny and relatable. The characters are great and the show is definitely worth watching. The premise of the show is a group of friends who work in the parks and recreation department of their small town. They have many adventures and mishaps along the way. Some of the main characters are Leslie Knope, Ron Swanson, April Ludgate, and Andy Dwyer. My favorite episode is the one where Leslie Knope and Ron Swanson go on a road trip to Indiana. They have many misadventures along the way and learn a lot about each other. I would definitely recommend this show to others. It is a great show that is sure to make you laugh."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your favorite TV show?",
+                    "Answer": "My favorite TV show is Friends."
+                },
+                {
+                    "Question": "What is the basic premise of the show?",
+                    "Answer": "The basic premise of the show is six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
+                },
+                {
+                    "Question": "Who are some of the main characters?",
+                    "Answer": "Some of the main characters are  Lisa Kudrow, Matt LeBlanc and Matthew Perry."
+                },
+                {
+                    "Question": "What is your favorite episode?",
+                    "Answer": "My favorite episode is The One Where Underdog Gets Away in which the gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment."
+                },
+                {
+                    "Question": "Why do you like this show?",
+                    "Answer": "I like this show because it is very funny and entertaining. I like the way the characters deal through the hardships of life with humor and sarcasm."
+                },
+                {
+                    "Question": "What would you say is the show\u2019s biggest strength?",
+                    "Answer": "I would say the show\u2019s biggest strength is its sarcasm. The way they taunt each other on their ups and downs and their friendship remains intact over the years."
+                },
+                {
+                    "Question": "Do you have any criticisms of the show?",
+                    "Answer": "I do not have any criticisms of the show."
+                },
+                {
+                    "Question": "Overall, would you recommend this show to others?",
+                    "Answer": "I would most certainly recommend this show to others. It is a must watch show."
+                },
+                {
+                    "Question": "If someone has never seen this show, what would you tell them about it?",
+                    "Answer": "I would tell them that it is a must watch show. It provides with a great escape from the real world and refreshes your mind."
+                },
+                {
+                    "Question": "Do you think this show is appropriate for all audiences?",
+                    "Answer": "I think that this is a great show and is very funny but it is inappropriate at times. I think this would be appropriate for children at the age of 11 or up."
+                }
+            ],
+            "Output": "Friends is a great show that has been on the air for many years. The basic premise of the show is six young friends from New York City (Manhattan), on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life. The main characters are Lisa Kudrow, Matt LeBlanc and Matthew Perry. The show is very funny and entertaining. I like the way the characters deal through the hardships of life with humor and sarcasm. I would most certainly recommend this show to others."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your favorite TV show?",
+                    "Answer": "My favorite TV show is How I Met Your Mother."
+                },
+                {
+                    "Question": "What is the basic premise of the show?",
+                    "Answer": "The basic premise of the show follows the main character, Ted Mosby, and his group of friends in New York City Manhattan. As a framing device, Ted, in 2030, recounts to his son, Luke, and daughter, Penny, the events from September 2005 to May 2013 that led him to meet their mother."
+                },
+                {
+                    "Question": "Who are some of the main characters?",
+                    "Answer": "Some of the main characters are Josh Radnor, Jason Segel and Alyson Hannigan."
+                },
+                {
+                    "Question": "What is your favorite episode?",
+                    "Answer": "My favorite episode is the Slap bet where Ted tries to uncover a secret about Robin's past. Barney and Marshall have a slap bet riding on the outcome and Lily serves as the Slap Bet Commissioner."
+                },
+                {
+                    "Question": "Why do you like this show?",
+                    "Answer": "I like this show because the gang rarely hangs out with new people, and if they do, they seldom last more than an episode or two. HIMYM manages to bring in interesting characters who switch up the story arc and add something to the show - like how meeting new people can inspire change in real life."
+                },
+                {
+                    "Question": "What would you say is the show\u2019s biggest strength?",
+                    "Answer": "I would say the show\u2019s biggest strength is having multiple versions of a story and realizing the truth in each is one of the best things HIMYM has going for it"
+                },
+                {
+                    "Question": "Do you have any criticisms of the show?",
+                    "Answer": "I do not have any criticisms of the show."
+                },
+                {
+                    "Question": "Overall, would you recommend this show to others?",
+                    "Answer": "I will only recommend this show to those who can ingrain some of the life lessons depicted in the show."
+                },
+                {
+                    "Question": "If someone has never seen this show, what would you tell them about it?",
+                    "Answer": "I would tell them to give the show a try. The characters are very relateable, in a sense that anyone can completely identify with one of them. They are so loveable."
+                },
+                {
+                    "Question": "Do you think this show is appropriate for all audiences?",
+                    "Answer": "Overall the show is great! Maybe a little bit of drinking and some rude references but for an 11 and up year old children, this is okay."
+                }
+            ],
+            "Output": "How I Met Your Mother is a great show for anyone looking for a good laugh. The main character, Ted Mosby, and his group of friends provide plenty of hilarity, and the show also touches on some more serious topics. The characters are all incredibly relateable, and the show is appropriate for all audiences."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wahq27JWYsKjrjj8WuSD9Ltk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BFoH6Nj7eee5m9JNoIx2as62?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/cPTdRXdCIxBEC7zhs8XsjzRZ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZbzAd_DG4IH_dzcbgxQHQkp7Q79eng6t?usp=sharing"
+}

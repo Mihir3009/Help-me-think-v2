@@ -1,0 +1,176 @@
+{
+    "Contributor": "sharmashivam",
+    "Domain": "Cognitive science",
+    "Task": "Writing Poems",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing poems on Cognitive science. I will ask some questions to collect information and then I will use the information to write a poem.",
+        "task_specific_prompt": "Write a poem on Cognitive science using the question and answers above. Write at least 2 paragraphs."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is cognitive science?",
+                    "Answer": "Cognitive science is the study of the mind and how it works. It covers a wide range of topics, including how we think, how we learn, and how we remember."
+                },
+                {
+                    "Question": "What are some of the key concepts in cognitive science?",
+                    "Answer": "Some of the key concepts in cognitive science include:  -How we process information -How we make decisions -How we store and retrieve memories -How we use language -How we perceive the world around us"
+                },
+                {
+                    "Question": "What are some of the real-world applications of cognitive science?",
+                    "Answer": "Some of the real-world applications of cognitive science include:  -Improving educational methods -Designing more user-friendly interfaces -Helping people with memory impairments -Treating disorders like ADHD and autism -Improving artificial intelligence"
+                },
+                {
+                    "Question": "What are some of the challenges faced by cognitive science?",
+                    "Answer": "Some of the challenges faced by cognitive science include:  -Understanding the complex workings of the human brain -Finding ways to study the mind objectively -Dealing with the ethical implications of cognitive research"
+                },
+                {
+                    "Question": "What direction do you see cognitive science going in the future?",
+                    "Answer": "Some of the directions that cognitive science may go in the future include:  -Continuing to study the human brain in order to understand its full potential -Developing new technologies and applications based on cognitive research -Exploring the ethical implications of cognitive science and its applications"
+                },
+                {
+                    "Question": "What are your thoughts on cognitive science?",
+                    "Answer": "I believe that cognitive science is a fascinating field of study with a lot of potential. It has the ability to help us understand the mind better and to develop new technologies and applications that can improve our lives."
+                },
+                {
+                    "Question": "What do you think is the most important aspect of cognitive science?",
+                    "Answer": "I think that the most important aspect of cognitive science is its potential to help us understand the mind better. By understanding how the mind works, we can develop better methods of education, treatment for disorders, and artificial intelligence."
+                },
+                {
+                    "Question": "What do you think are the most promising directions for cognitive science?",
+                    "Answer": "I think that the most promising directions for cognitive science include continuing to study the human brain and developing new technologies and applications based on cognitive research."
+                },
+                {
+                    "Question": "What do you think are the biggest challenges faced by cognitive science?",
+                    "Answer": "I think that the biggest challenges faced by cognitive science are understanding the complex workings of the human brain and finding ways to study the mind objectively."
+                },
+                {
+                    "Question": "What are your overall thoughts on cognitive science?",
+                    "Answer": "I believe that cognitive science is a fascinating and important field of study with a lot of potential. It has the ability to help us understand the mind better and to develop new technologies and applications that can improve our lives."
+                },
+                {
+                    "Question": "Do you have any other thoughts on cognitive science that you would like to share?",
+                    "Answer": "I believe that cognitive science is a fascinating and important field of study with a lot of potential. It has the ability to help us understand the mind better and to develop new technologies and applications that can improve our lives."
+                },
+                {
+                    "Question": "What is your favorite thing about cognitive science?",
+                    "Answer": "I think that the most important aspect of cognitive science is its potential to help us understand the mind better. By understanding how the mind works, we can develop better methods of education, treatment for disorders, and artificial intelligence."
+                }
+            ],
+            "Output": "\n\nCognitive science is the study of the mind\n\n\n\nHow it works, how we think, and how we remember\n\n\n\nIt covers a wide range of topics\n\n\n\nAnd has the potential to help us understand the mind better\n\n\n\nSome of the key concepts in cognitive science\n\n\n\n Include how we process information, make decisions, and perceive the world\n\n\n\nThere are many real-world applications of cognitive science\n\n\n\nSuch as improving education, treating disorders, and developing artificial intelligence\n\n\n\nCognitive science is a fascinating field of study\n\n\n\nWith the potential to change the way we live our lives\n\n\n\nThe challenges faced by cognitive science\n\n\n\nAre complex, but the potential rewards are great\n\n\n\nThe future of cognitive science is full of promise\n\n\n\nAs we continue to explore the mind and its potential\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the definition of cognitive science?",
+                    "Answer": "Cognitive science is the study of the mind and how it works. It includes the study of how people think, how they learn, and how they remember."
+                },
+                {
+                    "Question": "What are some of the topics that cognitive science covers?",
+                    "Answer": "Cognitive science covers topics such as how people think, how they learn, and how they remember. It also covers topics such as decision making, problem solving, and language."
+                },
+                {
+                    "Question": "What are some of the methods that cognitive scientists use to study the mind?",
+                    "Answer": "Cognitive scientists use methods such as experiments, surveys, and case studies to study the mind."
+                },
+                {
+                    "Question": "What are some of the applications of cognitive science?",
+                    "Answer": "Cognitive science has applications in fields such as education, psychology, and artificial intelligence."
+                },
+                {
+                    "Question": "What are some of the challenges that cognitive science faces?",
+                    "Answer": "Cognitive science faces challenges such as understanding how the mind works and how to apply its findings to real-world problems."
+                },
+                {
+                    "Question": "What are some of the future directions of cognitive science?",
+                    "Answer": "Future directions of cognitive science include studying how the mind works in more detail, and applying its findings to real-world problems."
+                },
+                {
+                    "Question": "What is your favorite cognitive science topic?",
+                    "Answer": "My favorite cognitive science topic is how people learn. I find it fascinating to see how people's minds work when they are learning something new."
+                },
+                {
+                    "Question": "What is your favorite cognitive science method?",
+                    "Answer": "My favorite cognitive science method is experiments. I like experiments because they allow you to test your hypotheses and see how people actually respond to them."
+                },
+                {
+                    "Question": "What is your favorite cognitive science application?",
+                    "Answer": "My favorite cognitive science application is artificial intelligence. I find it fascinating to see how cognitive science can be used to create artificial intelligence that can learn and think like a human."
+                },
+                {
+                    "Question": "What is your favorite cognitive science challenge?",
+                    "Answer": "My favorite cognitive science challenge is understanding how the mind works. I find it fascinating to try to figure out how the mind works and how it can be used to solve real-world problems."
+                },
+                {
+                    "Question": "What is your favorite cognitive science future direction?",
+                    "Answer": "My favorite cognitive science future direction is studying how the mind works in more detail. I find it fascinating to see how cognitive science can be used to study the mind in more detail and to apply its findings to real-world problems."
+                },
+                {
+                    "Question": "What is your favorite cognitive science poem?",
+                    "Answer": "My favorite cognitive science poem is \"The Mind is a Mystery.\" I find it fascinating to see how the poet uses cognitive science to explore the mystery of the mind."
+                }
+            ],
+            "Output": "The Mind is a Mystery\n\nThe mind is a mystery, a puzzle to be solved\nCognitive science is the key to unlock its secrets\n\nTopics like learning and memory are studied\nTo understand how the mind works and how we think\n\nExperiments and surveys are used as methods\nTo gather data and find out how people think\n\nApplications in fields like education and psychology\nHelp us to understand and improve our lives\n\nThe challenges cognitive science faces are many\nBut the potential rewards are great\n\nFuture directions of research will help us\nTo understand the mind better and solve real-world problems\n\nThe mind is a mystery, a puzzle to be solved\nCognitive science is the key to unlock its secrets\n\nTopics like learning and memory are studied\nTo understand how the mind works and how we think\n\nExperiments and surveys are used as methods\nTo gather data and find out how people think\n\nApplications in fields like education and psychology\nHelp us to understand and improve our lives\n\nThe challenges cognitive science faces are many\nBut the potential rewards are great\n\nFuture directions of research will help us\nTo understand the mind better and solve real-world problems"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is cognitive science?",
+                    "Answer": "Cognitive science is the scientific study of the mind and its processes. It includes research on how the mind acquires, stores, and uses information."
+                },
+                {
+                    "Question": "What are some of the key topics in cognitive science?",
+                    "Answer": "Some of the key topics in cognitive science include memory, attention, language, decision-making, and perception."
+                },
+                {
+                    "Question": "What are some of the methods used in cognitive science?",
+                    "Answer": "Some of the methods used in cognitive science include surveys, experiments, and computational modeling."
+                },
+                {
+                    "Question": "What are some of the applications of cognitive science?",
+                    "Answer": "Some of the applications of cognitive science include education, artificial intelligence, and human-computer interaction."
+                },
+                {
+                    "Question": "What are some of the challenges in cognitive science?",
+                    "Answer": "Some of the challenges in cognitive science include the study of consciousness and the mind-body problem."
+                },
+                {
+                    "Question": "What are some of the future directions of cognitive science?",
+                    "Answer": "Some of the future directions of cognitive science include the study of social cognition and the application of cognitive science to health."
+                },
+                {
+                    "Question": "What is your favorite cognitive science topic?",
+                    "Answer": "My favorite cognitive science topic is memory. I find the various memory systems fascinating, and I enjoy exploring how they work together to enable us to remember information."
+                },
+                {
+                    "Question": "What is your favorite cognitive science method?",
+                    "Answer": "My favorite cognitive science method is computational modeling. I enjoy using computers to create models of cognitive processes."
+                },
+                {
+                    "Question": "What is your favorite cognitive science application?",
+                    "Answer": "My favorite cognitive science application is artificial intelligence. I find the prospect of creating intelligent machines to be both fascinating and exciting."
+                },
+                {
+                    "Question": "What is your favorite cognitive science challenge?",
+                    "Answer": "My favorite cognitive science challenge is the mind-body problem. I find the challenge of understanding the relationship between the mind and the body to be both intriguing and frustrating."
+                },
+                {
+                    "Question": "What is your favorite cognitive science poem?",
+                    "Answer": "My favorite cognitive science poem is \"The Mind Is a Mystery.\" I find the poem to be both mysterious and thought-provoking."
+                },
+                {
+                    "Question": "What is your favorite cognitive science quote?",
+                    "Answer": "My favorite cognitive science quote is \"The mind is a mystery.\" I find the quote to be both mysterious and thought-provoking."
+                }
+            ],
+            "Output": "The mind is a mystery,\nA labyrinth we can only hope to understand.\n\nIt's the seat of our consciousness,\nThe place where we make decisions.\n\nIt stores our memories,\nAnd dictates our attention.\n\nIt's the birthplace of our language,\nAnd the source of our perception.\n\nCognitive science is the study of the mind,\nIn all its fascinating complexity.\n\nIt's a young science, still learning,\nBut it's making progress every day.\n\nThere are still many mysteries to solve,\nBut we're slowly getting closer.\n\nOne day, we'll understand the mind completely,\nAnd that will be a very good day."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/GW8rPt4ysUN1i37rMIQEIZjw?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YYjDrFoFqo9d77Zxmu6bRhel?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NUBUe6JLjuuHRptrAZDfJcEk?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jL3SrSflUMqeQ0Uqn0FuUJI5IvDdmM0J?usp=sharing"
+}

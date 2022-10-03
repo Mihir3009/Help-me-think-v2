@@ -1,0 +1,176 @@
+{
+    "Contributor": "sharmashivam",
+    "Domain": "Race and Ethnicity",
+    "Task": "stories",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in writing stories on Race and Ethnicity. I will ask some questions to collect information and then I will use the information to write a story.",
+        "task_specific_prompt": "Write a story on Race and Ethnicity using the question and answers above. Make it informative."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your experience with race and ethnicity?",
+                    "Answer": "I am a person of color and I have experienced racism and discrimination throughout my life. I have also experienced discrimination based on my ethnicity. I have also experienced microaggressions based on my race and ethnicity."
+                },
+                {
+                    "Question": "What are your thoughts on race and ethnicity?",
+                    "Answer": "I think that race and ethnicity are social constructs that are used to divide people. I think that racism and discrimination are based on these social constructs. I think that microaggressions are a result of these social constructs."
+                },
+                {
+                    "Question": "What are your thoughts on race relations?",
+                    "Answer": "I think that race relations are strained. I think that there is a lot of tension between different racial groups. I think that racism is a major problem in society."
+                },
+                {
+                    "Question": "What are your thoughts on diversity?",
+                    "Answer": "I think that diversity is a good thing. I think that it is important for people to be exposed to different cultures. I think that it is important for people to learn about different cultures."
+                },
+                {
+                    "Question": "What are your thoughts on cultural appropriation?",
+                    "Answer": "I think that cultural appropriation is a problem. I think that it is a form of racism. I think that it is a form of cultural exploitation."
+                },
+                {
+                    "Question": "What are your thoughts on prejudice?",
+                    "Answer": "I think that prejudice is a problem. I think that it is the result of ignorance. I think that it can be overcome through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on racism?",
+                    "Answer": "I think that racism is a major problem in society. I think that it is the result of ignorance and prejudice. I think that it can be overcome through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on discrimination?",
+                    "Answer": "I think that discrimination is a major problem in society. I think that it is the result of ignorance and prejudice. I think that it can be overcome through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on microaggressions?",
+                    "Answer": "I think that microaggressions are a result of racism and discrimination. I think that they are a way of perpetuating racism and discrimination. I think that they can be overcome through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on privilege?",
+                    "Answer": "I think that privilege is a problem. I think that it is the result of ignorance and prejudice. I think that it can be overcome through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on equality?",
+                    "Answer": "I think that equality is important. I think that all people should be treated equally. I think that equality can be achieved through education and understanding."
+                },
+                {
+                    "Question": "What are your thoughts on social justice?",
+                    "Answer": "I think that social justice is important. I think that all people should have access to social justice. I think that social justice can be achieved through education and understanding."
+                }
+            ],
+            "Output": "Racism and discrimination are major problems that people of color face on a daily basis. These problems are perpetuated by ignorance and prejudice. Microaggressions are a result of these problems and they serve to perpetuate racism and discrimination. Equality is important and can be achieved through education and understanding. Social justice is important and can be achieved through education and understanding."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the main character's name?",
+                    "Answer": "The main character's name is Jamal."
+                },
+                {
+                    "Question": "What are some of the challenges Jamal faces?",
+                    "Answer": "Jamal faces many challenges as a black man in America. He faces discrimination and racism, and often feels like he is not given the same opportunities as others."
+                },
+                {
+                    "Question": "How does Jamal overcome these challenges?",
+                    "Answer": "Jamal overcomes these challenges by staying positive and working hard. He also finds strength in his community and in his culture."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "The story ends with Jamal feeling proud of who he is and where he comes from."
+                },
+                {
+                    "Question": "What lessons does Jamal learn?",
+                    "Answer": "Jamal learns that he is strong and capable, and that he can achieve anything he sets his mind to. He also learns the importance of staying positive and staying connected to his community."
+                },
+                {
+                    "Question": "What do you think the author is trying to say with this story?",
+                    "Answer": "The author is trying to say that black people are strong and resilient, and that they can overcome any obstacle."
+                },
+                {
+                    "Question": "What do you think the story will teach readers?",
+                    "Answer": "The story will teach readers that black people are just like them, and that they can be successful despite the challenges they face."
+                },
+                {
+                    "Question": "What do you think the story will inspire readers to do?",
+                    "Answer": "The story will inspire readers to be proud of who they are, and to work hard to achieve their goals."
+                },
+                {
+                    "Question": "What do you think the story will make readers think about?",
+                    "Answer": "The story will make readers think about the challenges black people face, and how they can be overcome."
+                },
+                {
+                    "Question": "What do you think the story will make readers feel?",
+                    "Answer": "The story will make readers feel hopeful and inspired."
+                },
+                {
+                    "Question": "Do you think the story is important? Why?",
+                    "Answer": "I think the story is important because it shows that black people are just like everyone else, and that they can be successful despite the challenges they face."
+                },
+                {
+                    "Question": "Do you think the story is relevant today? Why?",
+                    "Answer": "I think the story is relevant today because there is still a lot of racism and discrimination against black people. This story can help people to understand that black people are just like them, and that they can be successful despite the challenges they face."
+                }
+            ],
+            "Output": "Jamal is a black man living in America. He faces many challenges, including discrimination and racism. Despite all of the obstacles he faces, Jamal remains positive and works hard. He also finds strength in his community and in his culture. Jamal's story is one of overcoming obstacles and achieving success. He learns that he is strong and capable, and that he can achieve anything he sets his mind to. He also learns the importance of staying positive and staying connected to his community. Jamal's story is important because it shows that black people are just like everyone else, and that they can be successful despite the challenges they face. It is also relevant today because there is still a lot of racism and discrimination against black people. This story can help people to understand that black people are just like them, and that they can be successful despite the challenges they face."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How has your experience with race and ethnicity affected your life?",
+                    "Answer": "My experience with race and ethnicity has affected my life in a number of ways. I have experienced discrimination and racism, which has made me feel like an outsider in my own country. I have also experienced the beauty and richness of other cultures, which has made me more open-minded and tolerant."
+                },
+                {
+                    "Question": "What are some of the challenges you have faced because of your race or ethnicity?",
+                    "Answer": "Some of the challenges I have faced because of my race or ethnicity include discrimination, racism, and feeling like an outsider in my own country."
+                },
+                {
+                    "Question": "What are some of the positive aspects of your experience with race and ethnicity?",
+                    "Answer": "Some of the positive aspects of my experience with race and ethnicity include the beauty and richness of other cultures, and the fact that it has made me more open-minded and tolerant."
+                },
+                {
+                    "Question": "How has your experience with race and ethnicity affected your relationships?",
+                    "Answer": "My experience with race and ethnicity has affected my relationships in a number of ways. It has made me more aware of the importance of communication and understanding. It has also made me more open-minded and tolerant of others."
+                },
+                {
+                    "Question": "What are your thoughts on race and ethnicity in America?",
+                    "Answer": "I think that race and ethnicity are important aspects of American culture. I also think that there is a lot of room for improvement in the way that America deals with race and ethnicity."
+                },
+                {
+                    "Question": "Do you think America is getting better or worse when it comes to race and ethnicity?",
+                    "Answer": "I think that America is getting better when it comes to race and ethnicity. I think that there is more communication and understanding now than there has been in the past."
+                },
+                {
+                    "Question": "What do you think America needs to do to improve when it comes to race and ethnicity?",
+                    "Answer": "I think that America needs to continue to work on communication and understanding. America also needs to continue to provide opportunities for all people, regardless of race or ethnicity."
+                },
+                {
+                    "Question": "Do you have any suggestions on what America can do to improve when it comes to race and ethnicity?",
+                    "Answer": "I think that America can continue to work on communication and understanding. America can also continue to provide opportunities for all people, regardless of race or ethnicity."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of race relations in America?",
+                    "Answer": "I think that the current state of race relations in America is improving. I think that there is more communication and understanding now than there has been in the past."
+                },
+                {
+                    "Question": "Do you have any suggestions on what America can do to improve race relations?",
+                    "Answer": "I think that America can continue to work on communication and understanding. America can also continue to provide opportunities for all people, regardless of race or ethnicity."
+                },
+                {
+                    "Question": "What are your thoughts on the current state of race relations in the world?",
+                    "Answer": "I think that the current state of race relations in the world is improving. I think that there is more communication and understanding now than there has been in the past."
+                },
+                {
+                    "Question": "Do you have any suggestions on what the world can do to improve race relations?",
+                    "Answer": "I think that the world can continue to work on communication and understanding. The world can also continue to provide opportunities for all people, regardless of race or ethnicity."
+                }
+            ],
+            "Output": "The experiences that I have had with race and ethnicity have definitely affected my life in many ways. I have faced a lot of challenges because of my race and ethnicity, but I have also experienced the beauty and richness of other cultures. These experiences have definitely affected my relationships and how I view race and ethnicity in America.\n\nI think that America is definitely getting better when it comes to race and ethnicity. I think that there is more communication and understanding now than there has been in the past. However, I think that America still has a long way to go. I think that America needs to continue to work on communication and understanding. America also needs to continue to provide opportunities for all people, regardless of race or ethnicity."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZOnGufBVc58Gs2OC9NmqEoGG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/h0SRihwFMG5ObCyQ0Rcflymw?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/LOM1PXAXq3XmCZ99YMImbZHW?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jL3SrSflUMqeQ0Uqn0FuUJI5IvDdmM0J?usp=sharing"
+}

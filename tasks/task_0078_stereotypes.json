@@ -1,0 +1,148 @@
+{
+    "Domain": "Stereotypes",
+    "Task": "How stereotypes can impact people's lives",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in finding how stereotypes can impact people's lives. I will ask some questions to collect information and then I will use the information to list down and explain how stereotypes can impact people's lives.",
+      "task_specific_prompt": "Write a detailed report on how stereotypes can impact people's lives and what can be done about it"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "How do you feel when you are around people who stereotype you?",
+            "Answer": "I feel bad."
+          },
+          {
+            "Question": "How do you think stereotypes can impact people's lives?",
+            "Answer": "It might affect the confidence of that person."
+          },
+          {
+            "Question": "Can you give an example of how stereotypes can negatively impact someone's life?",
+            "Answer": "I have an Asian friend who is not that good at math and people always make fun of him at university"
+          },
+          {
+            "Question": "Do you think stereotypes can ever be positive? If so, why?",
+            "Answer": "a stereotype is simply a generalization about how a group of people behaves. But targeting a single person based on this generalization cannot be positive"
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "educating people"
+          },
+          {
+            "Question": "Have you ever experienced any type of discrimination? If so, how did it make you feel?",
+            "Answer": "I was very short in school and people made fun of it, I felt bad."
+          },
+          {
+            "Question": "Do you think that stereotypes can lead to discrimination? If so, why?",
+            "Answer": "Yes, I wasn't considered into any sports groups because of my height, but sports skills have nothing to do with height."
+          },
+          {
+            "Question": "What do you think is the best way to deal with discrimination?",
+            "Answer": "The first step is education, the next step is to make people think if they can achieve anything by discriminating against people."
+          },
+          {
+            "Question": "Do you think that stereotypes can be changed? If so, how?",
+            "Answer": "By telling how stereotyping has ruined people's lives"
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "educate people."
+          }
+        ],
+        "Output": "Stereotypes can have a negative impact on people's lives in a number of ways. Firstly, stereotypes can damage a person's self-esteem and confidence. If a person is constantly bombarded with messages that they are not good enough, or that they are inferior to others, this can take a toll on their self-worth. Secondly, stereotypes can limit a person's opportunities in life. If someone is told that they will never be good enough, they may not bother to try to achieve their goals. Thirdly, stereotypes can lead to discrimination. If a group of people is targeted based on a stereotype, they may be treated unfairly and excluded from opportunities. Finally, stereotypes can cause people to miss out on important experiences. If someone is afraid of being stereotyped, they may not take risks or try new things. There are a number of ways to deal with stereotypes. One way is to educate people about the harmful effects of stereotyping. Another way is to challenge stereotypes when they arise. This can be done by speaking up and offering a different perspective. Finally, it is important to be a role model for others. If you are confident and successful, you can show others that it is possible to defy stereotypes."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "How do you feel when you are around people who stereotype you?",
+            "Answer": "I feel like I want to leave that place quickly."
+          },
+          {
+            "Question": "How do you think stereotypes can impact people's lives?",
+            "Answer": "It has bad effects on people's minds."
+          },
+          {
+            "Question": "Can you give an example of how stereotypes can negatively impact someone's life?",
+            "Answer": "I have a black friend, people were never friends with him, and he was always lonely."
+          },
+          {
+            "Question": "Do you think stereotypes can ever be positive? If so, why?",
+            "Answer": "No"
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "By creating an inclusive environment"
+          },
+          {
+            "Question": "Have you ever experienced any type of discrimination? If so, how did it make you feel?",
+            "Answer": "Because I was a friend of a black person, I was also kept at an arm's length by other students."
+          },
+          {
+            "Question": "Do you think that stereotypes can lead to discrimination? If so, why?",
+            "Answer": "Yes, I was discriminated at university because of me being friend with a black person."
+          },
+          {
+            "Question": "What do you think is the best way to deal with discrimination?",
+            "Answer": "The first step is to create an inclusive enivironment, the next step is to make people think if they can achieve anything by discriminating against people."
+          },
+          {
+            "Question": "Do you think that stereotypes can be changed? If so, how?",
+            "Answer": "Not unless people have open mind"
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "By creating an inclusive environment."
+          }
+        ],
+        "Output": "When it comes to stereotypes, these are usually based on certain characteristics that a group of people are said to have. For example, one common stereotype is that all black people are criminals. This is clearly not true, but because of the stereotype, black people can face discrimination in all areas of their lives. This includes things like being pulled over by the police more often or being seen as suspicious in general. This type of discrimination can lead to black people feeling isolated and alone, as well as impacting their mental and physical health. There are many other examples of how stereotypes can negatively impact people's lives. For example, women are often seen as being weaker than men, which can lead to them being passed over for promotions or not being taken seriously in the workplace. LGBTQIA+ people are often stereotyped as being promiscuous or confused, which can lead to them being ostracised by their families or bullied at school. So, what can be done about stereotypes? One important step is to create an inclusive environment, where everyone is respected and treated equally. This includes things like ensuring that there is a diverse range of people represented in the media, and that everyone has a voice. Additionally, it is important to educate people on the dangers of stereotypes"
+      },
+      {
+        "QApair": [
+          {
+            "Question": "How do you feel when you are around people who stereotype you?",
+            "Answer": "I feel like I want to run away."
+          },
+          {
+            "Question": "How do you think stereotypes can impact people's lives?",
+            "Answer": "It affects people mentally and physically."
+          },
+          {
+            "Question": "Can you give an example of how stereotypes can negatively impact someone's life?",
+            "Answer": "I live in a black community and they see my white friend as rich and previliged. That makes him diffucult to approach for other."
+          },
+          {
+            "Question": "Do you think stereotypes can ever be positive? If so, why?",
+            "Answer": "Sometimes, they automatically think my friend is rich and sophisticated."
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "Honesty and openness are the keystones of change"
+          },
+          {
+            "Question": "Have you ever experienced any type of discrimination? If so, how did it make you feel?",
+            "Answer": "No I havevn't faced any discrimination"
+          },
+          {
+            "Question": "Do you think that stereotypes can lead to discrimination? If so, why?",
+            "Answer": "I dont know."
+          },
+          {
+            "Question": "What do you think is the best way to deal with discrimination?",
+            "Answer": "Showing affects of discrimination on people's lives."
+          },
+          {
+            "Question": "Do you think that stereotypes can be changed? If so, how?",
+            "Answer": "A good place to start is reflecting on your own inherent biases and owning up to and correcting your mistakes"
+          },
+          {
+            "Question": "What do you think is the best way to deal with stereotypes?",
+            "Answer": "Honesty and openness are the keystones of change"
+          }
+        ],
+        "Output": "Stereotypes can have a negative impact on people's lives in a number of ways. First, they can lead to discrimination. This can make it difficult for people to find jobs, housing, or even to make friends. Second, stereotypes can make people feel bad about themselves. They may feel like they can't do anything right or that they are not good enough. This can lead to low self-esteem and depression. Finally, stereotypes can lead to violence. People who are stereotyped may be attacked or even killed because of the way they are perceived. There are a few things that can be done to deal with stereotypes. First, we can try to change the way we think about them. We can challenge our own biases and assumptions, and be more open-minded. Second, we can speak out against discrimination and violence. We can stand up for ourselves and others, and let people know that this is not acceptable. Finally, we can try to change the way the media portrays people. We can demand more accurate and positive representation."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/LkLNSOkR7JG6PntN6nteSItz?model=text-davinci-002", "https://beta.openai.com/playground/p/w8RE3toer4Oz9pT3Y8kwZOKv?model=text-davinci-002", "https://beta.openai.com/playground/p/WovNVULVyvN2akgLUl7DroPA?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1IIMp__ha9ONwhoZGtvbpJw3eP0yUUGV-?usp=sharing"
+  }
+    

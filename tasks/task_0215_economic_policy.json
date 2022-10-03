@@ -1,0 +1,148 @@
+{
+    "Contributor": "watsonbrandon",
+    "Domain": "Economic Policy",
+    "Task": "Decide on forgiving student debt for Americans",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert economist. I will ask some questions to collect information and then I will use the information to help decide if you should forgive student debt for Americans",
+        "task_specific_prompt": "Decide if you should forgive student debt for Americans using the questions and answers above. Explain your choice."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average level of student debt in America?",
+                    "Answer": "around $100,000"
+                },
+                {
+                    "Question": "What is the typical monthly payment for someone with student debt?",
+                    "Answer": "around $1,500"
+                },
+                {
+                    "Question": "What is the average interest rate on student loans?",
+                    "Answer": "around 7% to 8%"
+                },
+                {
+                    "Question": "How long does it typically take to pay off student debt?",
+                    "Answer": "Some people never pay them off"
+                },
+                {
+                    "Question": "What is the default rate on student loans?",
+                    "Answer": "around 30%"
+                },
+                {
+                    "Question": "Are there any income-based repayment plans available for student loans?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What are the consequences of defaulting on a student loan?",
+                    "Answer": "Your pay gets cut to help cover the loans"
+                },
+                {
+                    "Question": "What are the tax implications of forgiving student debt?",
+                    "Answer": "More people have money to spend to help boost the economy"
+                },
+                {
+                    "Question": "Would forgiving student debt lead to more borrowing and higher tuition prices?",
+                    "Answer": "No it would lead to the opposite"
+                },
+                {
+                    "Question": "What are the economic consequences of forgiving student debt",
+                    "Answer": "Banks won't make money on the interest"
+                }
+            ],
+            "Output": "I believe that we should forgive student debt for Americans. The debt is preventing people from pursuing their lives and dreams, and it is holding back our economy. The cost of forgiving the debt is relatively low, and the benefits are great."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average level of student debt in America?",
+                    "Answer": "around $20,000"
+                },
+                {
+                    "Question": "What is the typical monthly payment for someone with student debt?",
+                    "Answer": "around $200"
+                },
+                {
+                    "Question": "What is the average interest rate on student loans?",
+                    "Answer": "around 3%"
+                },
+                {
+                    "Question": "How long does it typically take to pay off student debt?",
+                    "Answer": "around 50 years"
+                },
+                {
+                    "Question": "What is the default rate on student loans?",
+                    "Answer": "around 12%"
+                },
+                {
+                    "Question": "Are there any income-based repayment plans available for student loans?",
+                    "Answer": "Yes there are several options"
+                },
+                {
+                    "Question": "What are the consequences of defaulting on a student loan?",
+                    "Answer": "You have to pay over a longer period of time"
+                },
+                {
+                    "Question": "What are the tax implications of forgiving student debt?",
+                    "Answer": "People don't have to live paycheck to paycheck"
+                },
+                {
+                    "Question": "Would forgiving student debt lead to more borrowing and higher tuition prices?",
+                    "Answer": "Possibly"
+                },
+                {
+                    "Question": "What are the economic consequences of forgiving student debt",
+                    "Answer": "People won't need to take out loans anymore"
+                }
+            ],
+            "Output": "I think that we should forgive student debt for Americans because it will have a lot of economic benefits. People will no longer need to take out loans and they won't have to worry about the consequences of defaulting on their loans. This will free up a lot of money that can be used for other things, such as buying a house or starting a business."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average level of student debt in America?",
+                    "Answer": "around $1,500,000"
+                },
+                {
+                    "Question": "What is the typical monthly payment for someone with student debt?",
+                    "Answer": "around $5,000"
+                },
+                {
+                    "Question": "What is the average interest rate on student loans?",
+                    "Answer": "around 90%"
+                },
+                {
+                    "Question": "How long does it typically take to pay off student debt?",
+                    "Answer": "Forever"
+                },
+                {
+                    "Question": "What is the default rate on student loans?",
+                    "Answer": "around 88%"
+                },
+                {
+                    "Question": "Are there any income-based repayment plans available for student loans?",
+                    "Answer": "No you have to pay everything yourself"
+                },
+                {
+                    "Question": "What are the consequences of defaulting on a student loan?",
+                    "Answer": "You go to prison"
+                },
+                {
+                    "Question": "What are the tax implications of forgiving student debt?",
+                    "Answer": "There won't be any more tax money for the government"
+                },
+                {
+                    "Question": "Would forgiving student debt lead to more borrowing and higher tuition prices?",
+                    "Answer": "Yes most definitely"
+                },
+                {
+                    "Question": "What are the economic consequences of forgiving student debt",
+                    "Answer": "The rich won't get richer"
+                }
+            ],
+            "Output": "I would not recommend forgiving student debt for Americans. The average level of debt is quite high, and the default rate is also quite high. Forgiving student debt could lead to more borrowing and higher tuition prices. It would also have negative economic consequences, as it would mean that the rich would not get richer."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/QAR08lWUTm2WWofGOXsyyHYW?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1daEbZqvDdgVFbT7-FC9hwxoBHarkFuOJ/view?usp=sharing"
+}

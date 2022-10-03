@@ -1,0 +1,148 @@
+{
+    "Contributor": "saldytlucas",
+    "Domain": "Project Management",
+    "Task": "Architecture",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert architect and project manager. I will ask some questions to collect information and then I will use the information to create a budget, schedule, and employee allotment for the project.",
+        "task_specific_prompt": "Use the answers above to write a complete project plan. Elaborate as much as possible. Include the order that each task should be done in, which employees should do which tasks, how the budget should be managed and divided  between tasks, and an estimated timeline for the project, in terms of the project  milestones. Estimate the probability of failure and important steps necessary to mitigate risks."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a university library."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The library must be able to contain 100,000 books, 24 classrooms, 128 computers, span a site of 1km square, and contain study spaces for up to 5,000 students. "
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is ten years"
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is one billion dollars"
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need around 200 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need roughly 100 construction workers, 50 mechanical engineers, 10 plumbers, 10 electricians, 10 surveyors, 10 budgeters, 9 quality assurance staff, and 1 architect"
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include going over budget or time constraints, as well as safety constrains of the building itself. For instance, it should be structurally stable, safe, and energy efficient."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include profit from completing the contract, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the university board, students, and our firm."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the plans for the building must be drafted, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating. Then, the site must be properly surveyed and construction can begin. First, the foundation should be poured, and the frame of the building can be erected, and then plumbing, wiring, gas, air, and heating need to be done before finishing the walls. Finally, finishing touches will be put on the building and it will be verified for safety and quality."
+                }
+            ],
+            "Output": "\nThe project plan is as follows:\n\n1. Draft plans for the building, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating.\n2. Survey the site and begin construction.\n3. Pour the foundation and erect the frame of the building.\n4. Install plumbing, wiring, gas, air, and heating.\n5. Finish the walls and put on finishing touches.\n6. Verify the building for safety and quality.\n\nThe project should be completed in ten years.\n\nThe budget for the project is one billion dollars.\n\nThe project will need around 200 employees, which should include 100 construction workers, 50 mechanical engineers, 10 plumbers, 10 electricians, 10 surveyors, 10 budgeters, 9 quality assurance staff, and 1 architect.\n\nThe risks associated with the project include going over budget or time constraints, as well as safety constrains of the building itself. For instance, it should be structurally stable, safe, and energy efficient. The rewards associated with the project include profit from completing the contract, as well as the inherit pleasure of creativity.\n\nThe stakeholders for the project are the university board, students, and our firm.\n\nThe dependencies for the project are as follows: first the plans for the building must be drafted, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating. Then, the site must be properly surveyed and construction can begin. First, the foundation should be poured, and the frame of the building can be erected, and then plumbing, wiring, gas, air, and heating need to be done before finishing the walls. Finally, finishing touches will be put on the building and it will be verified for safety and quality."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a university library."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The library must be able to contain 100,000 books, 24 classrooms, 128 computers, span a site of 1km square, and contain study spaces for up to 5,000 students. "
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is ten years"
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is one billion dollars"
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need around 200 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need roughly 100 construction workers, 50 mechanical engineers, 10 plumbers, 10 electricians, 10 surveyors, 10 budgeters, 9 quality assurance staff, and 1 architect"
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include going over budget or time constraints, as well as safety constrains of the building itself. For instance, it should be structurally stable, safe, and energy efficient."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include profit from completing the contract, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the university board, students, and our firm."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the plans for the building must be drafted, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating. Then, the site must be properly surveyed and construction can begin. First, the foundation should be poured, and the frame of the building can be erected, and then plumbing, wiring, gas, air, and heating need to be done before finishing the walls. Finally, finishing touches will be put on the building and it will be verified for safety and quality."
+                }
+            ],
+            "Output": "The first step is to draft the plans for the building, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating. Next, the site must be properly surveyed and construction can begin. First, the foundation should be poured, and the frame of the building can be erected, and then plumbing, wiring, gas, air, and heating need to be done before finishing the walls. Finally, finishing touches will be put on the building and it will be verified for safety and quality.\n\nThe order of tasks is as follows:\n1. Draft plans for the building\n2. Survey the site\n3. Pour foundation\n4. Erect frame of building\n5. Install plumbing, wiring, gas, air, and heating\n6. Finish walls\n7. Put on finishing touches\n8. Verify safety and quality\n\nThe employees needed for the project are as follows:\n1. 100 construction workers\n2. 50 mechanical engineers\n3. 10 plumbers\n4. 10 electricians\n5. 10 surveyors\n6. 10 budgeters\n7. 9 quality assurance staff\n8. 1 architect\n\nThe budget for the project should be managed as follows:\n1. $100,000 for drafting plans\n2. $200,000 for surveying the site\n3. $500,000 for pouring the foundation\n4. $750,000 for erecting the frame of the building\n5. $1,000,000 for installing plumbing, wiring, gas, air, and heating\n6. $1,250,000 for finishing the walls\n7. $1,500,000 for putting on finishing touches\n8. $1,750,000 for safety and quality verification\n\nThe timeline for the project is as follows:\n1. Two years for drafting plans and surveying the site\n2. One year for pouring the foundation and erecting the frame of the building\n3. Six months for installing plumbing, wiring, gas, air, and heating\n4. Three months for finishing the walls\n5. One month for putting on finishing touches\n6. One month for safety and quality verification\n\nThe probability of failure for the project is low. However, some important steps to mitigate risks include having a backup plan in case of budget or time constraints, as well as making sure the building is structurally stable, safe, and energy efficient."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question: What are the deliverables for the project?",
+                    "Answer": "The deliverable for the project is a university library."
+                },
+                {
+                    "Question": "Question: What are the project requirements?",
+                    "Answer": "The library must be able to contain 100,000 books, 24 classrooms, 128 computers, span a site of 1km square, and contain study spaces for up to 5,000 students. "
+                },
+                {
+                    "Question": "Question: What is the project timeline?",
+                    "Answer": "The project timeline is ten years"
+                },
+                {
+                    "Question": "Question: What is the project budget?",
+                    "Answer": "The project budget is one dollar!"
+                },
+                {
+                    "Question": "Question: How many employees will be needed for the project?",
+                    "Answer": "The project will need around 200 employees."
+                },
+                {
+                    "Question": "Question: What kinds of employees will the project need, and how many of each?",
+                    "Answer": "The project will need roughly 100 construction workers, 50 mechanical engineers, 10 plumbers, 10 electricians, 10 surveyors, 10 budgeters, 9 quality assurance staff, and 1 architect"
+                },
+                {
+                    "Question": "Question: What are the risks associated with the project?",
+                    "Answer": "The risks associated with the project include going over budget or time constraints, as well as safety constrains of the building itself. For instance, it should be structurally stable, safe, and energy efficient."
+                },
+                {
+                    "Question": "Question: What are the rewards associated with the project?",
+                    "Answer": "The rewards associated with the project include profit from completing the contract, as well as the inherit pleasure of creativity."
+                },
+                {
+                    "Question": "Question: Who are the stakeholders for the project?",
+                    "Answer": "The stakeholders are the university board, students, and our firm."
+                },
+                {
+                    "Question": "Question: What are the dependencies for the project?",
+                    "Answer": "First the plans for the building must be drafted, including separate plans for structural engineering, plumbing, wiring, gas, air, and heating. Then, the site must be properly surveyed and construction can begin. First, the foundation should be poured, and the frame of the building can be erected, and then plumbing, wiring, gas, air, and heating need to be done before finishing the walls. Finally, finishing touches will be put on the building and it will be verified for safety and quality."
+                }
+            ],
+            "Output": "The possible reasons for failure are going over budget, exceeding the timeline, or not being able to complete the project requirements. In order to mitigate risks, we need to make sure that we have a clear and concise plan, that we allocate the proper amount of resources to each task, and that we have a contingency plan in place in case something goes wrong.\n\nIn terms of the project milestones, the first milestone is to draft the plans for the building. This includes the separate plans for structural engineering, plumbing, wiring, gas, air, and heating. The second milestone is to survey the site and begin construction. The third milestone is to pour the foundation and erect the frame of the building. The fourth milestone is to install plumbing, wiring, gas, air, and heating. The fifth milestone is to finish the walls and put on the finishing touches. The sixth milestone is to verify the building for safety and quality.\n\nThe budget should be managed and divided between tasks so that each task is properly funded and there is a contingency fund in case something goes over budget. The timeline for the project is ten years. The employees needed for the project are construction workers, mechanical engineers, plumbers, electricians, surveyors, budgeters, quality assurance staff, and one architect.\n\nThe risks associated with the project include going over budget or time constraints, as well as safety constrains of the building itself. For instance, it should be structurally stable, safe, and energy efficient. The rewards associated with the project include profit from completing the contract, as well as the inherit pleasure of creativity. The stakeholders for the project are the university board, students, and our firm.\n\nThe dependencies for the project are that the plans must be drafted before construction can begin, and construction cannot begin until the site has been surveyed. Also, the foundation must be poured before the frame of the building can be erected, and plumbing, wiring, gas, air, and heating must be installed before the walls can be finished. Finally, the building must be verified for safety and quality before it can be delivered."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/iQthT2bDKwsTcmhcahTZCaeI?model=text-davinci-002",
+    "screenshot_link": "https://i.imgur.com/95hKszJ.png"
+}

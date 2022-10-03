@@ -1,0 +1,176 @@
+{
+    "Contributor": "uddinmdnayem",
+    "Domain": "Demography",
+    "Task": "Write a blog on country's demography",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert travel blog writer. I will ask questions to gather information on USA demography to use in a travel blog.",
+        "task_specific_prompt": "Write a blog using this demographic information available in the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the population of the United States?",
+                    "Answer": "The population of the United States is more than 324 million people."
+                },
+                {
+                    "Question": "What is the largest city in the United States?",
+                    "Answer": "The largest city in the United States is New York City."
+                },
+                {
+                    "Question": "What is the smallest state in the United States?",
+                    "Answer": "The smallest state in the United States is Rhode Island."
+                },
+                {
+                    "Question": "What is the most populous state in the United States?",
+                    "Answer": "The most populous state in the United States is California."
+                },
+                {
+                    "Question": "What is the least populous state in the United States?",
+                    "Answer": "The least populous state in the United States is Wyoming."
+                },
+                {
+                    "Question": "What is the median age of the population in the United States?",
+                    "Answer": "The median age of the population in the United States is about 38 years old."
+                },
+                {
+                    "Question": "What is the average life expectancy in the United States?",
+                    "Answer": "The average life expectancy in the United States is about 79 years old."
+                },
+                {
+                    "Question": "What is the birth rate in the United States?",
+                    "Answer": "The birth rate in the United States is about 12 births per 1,000 people."
+                },
+                {
+                    "Question": "What is the death rate in the United States?",
+                    "Answer": "The death rate in the United States is about 8 deaths per 1,000 people."
+                },
+                {
+                    "Question": "What is the infant mortality rate in the United States?",
+                    "Answer": "The infant mortality rate in the United States is about 5 deaths per 1,000 live births."
+                }
+            ],
+            "Output": "The United States is a large and populous country with a diverse population. The population of the United States is more than 324 million people. The largest city in the United States is New York City. The smallest state in the United States is Rhode Island. The most populous state in the United States is California. The least populous state in the United States is Wyoming. The median age of the population in the United States is about 38 years old. The average life expectancy in the United States is about 79 years old. The birth rate in the United States is about 12 births per 1,000 people. The death rate in the United States is about 8 deaths per 1,000 people. The infant mortality rate in the United States is about 5 deaths per 1,000 live births. The United States is a great country to visit for its many attractions and its diverse population. There is something for everyone in the United States. Whether you want to visit the big city or the small town, there is a place for you."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is Canada's population? ",
+                    "Answer": "The population of Canada is approximately 37.59 million."
+                },
+                {
+                    "Question": "What is the population density of Canada? ",
+                    "Answer": "The population density of Canada is approximately 4 people per square kilometer."
+                },
+                {
+                    "Question": "What is the largest city in Canada? ",
+                    "Answer": "The largest city in Canada is Toronto, with a population of approximately 2.93 million."
+                },
+                {
+                    "Question": "What is the capital of Canada? ",
+                    "Answer": "The capital of Canada is Ottawa, with a population of approximately 1.37 million."
+                },
+                {
+                    "Question": "What are the official languages of Canada? ",
+                    "Answer": "The official languages of Canada are English and French."
+                },
+                {
+                    "Question": "What is the currency of Canada? ",
+                    "Answer": "The currency of Canada is the Canadian Dollar."
+                },
+                {
+                    "Question": "What is the climate like in Canada? ",
+                    "Answer": "The climate in Canada varies depending on the region, but generally speaking, the country experiences four distinct seasons."
+                },
+                {
+                    "Question": "What are some popular tourist attractions in Canada? ",
+                    "Answer": "Some popular tourist attractions in Canada include Niagara Falls, the CN Tower, and the Rocky Mountains."
+                },
+                {
+                    "Question": "What is the national dish of Canada? ",
+                    "Answer": "The national dish of Canada is poutine, which is a dish consisting of french fries, cheese curds, and gravy."
+                },
+                {
+                    "Question": "What is the national animal of Canada? ",
+                    "Answer": "The national animal of Canada is the beaver."
+                },
+                {
+                    "Question": "What is the national bird of Canada? ",
+                    "Answer": "The national bird of Canada is the maple leaf."
+                },
+                {
+                    "Question": "What is the national sport of Canada? ",
+                    "Answer": "The national sport of Canada is hockey."
+                },
+                {
+                    "Question": "What is the national anthem of Canada? ",
+                    "Answer": "The national anthem of Canada is \"O Canada\"."
+                }
+            ],
+            "Output": "If you're looking to experience a truly unique and diverse country, then look no further than Canada! With a population of over 37 million people, Canada is the world's second largest country by landmass. And with such a large landmass comes a wide variety of landscapes and climates, from the lush rainforests of British Columbia to the snow-capped Rocky Mountains.\n\nNo matter what time of year you visit, there's always something to do in Canada. In the winter, you can hit the slopes at one of the many world-class ski resorts or go for a romantic walk through a snow-covered park. And in the summer, there are countless festivals and outdoor activities to enjoy, from hiking and camping to kayaking and fishing.\n\nOf course, no trip to Canada would be complete without experiencing some of the country's iconic landmarks. Niagara Falls is a must-see, and the CN Tower in Toronto offers breathtaking views of the cityscape.\n\n Canada is also home to a diverse range of cultures and religions. The two official languages are English and French, but you'll find people speaking a variety of languages from all over the world. And with such a large population, there's a cuisine to suit every taste.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the population of Europe?",
+                    "Answer": "The population of Europe is 740 million."
+                },
+                {
+                    "Question": "What is the largest city in Europe?",
+                    "Answer": "The largest city in Europe is Istanbul, Turkey with a population of 14.3 million."
+                },
+                {
+                    "Question": "What is the smallest country in Europe?",
+                    "Answer": "The smallest country in Europe is Vatican City with a population of 800."
+                },
+                {
+                    "Question": "What is the most populous country in Europe?",
+                    "Answer": "The most populous country in Europe is Russia with a population of 144 million."
+                },
+                {
+                    "Question": "What is the least populous country in Europe?",
+                    "Answer": "The least populous country in Europe is Vatican City with a population of 800."
+                },
+                {
+                    "Question": "What is the population density of Europe?",
+                    "Answer": "The population density of Europe is 121 people per square kilometer."
+                },
+                {
+                    "Question": "What is the average life expectancy in Europe?",
+                    "Answer": "The average life expectancy in Europe is 80 years."
+                },
+                {
+                    "Question": "What is the infant mortality rate in Europe?",
+                    "Answer": "The infant mortality rate in Europe is 4.5 deaths per 1,000 live births."
+                },
+                {
+                    "Question": "What is the literacy rate in Europe?",
+                    "Answer": "The literacy rate in Europe is 99%."
+                },
+                {
+                    "Question": "What is the unemployment rate in Europe?",
+                    "Answer": "The unemployment rate in Europe is 10.1%."
+                },
+                {
+                    "Question": "What is the GDP per capita in Europe?",
+                    "Answer": "The GDP per capita in Europe is $34,600."
+                },
+                {
+                    "Question": "What is the poverty rate in Europe?",
+                    "Answer": "The poverty rate in Europe is 11.3%."
+                },
+                {
+                    "Question": "What is the Gini coefficient in Europe?",
+                    "Answer": "The Gini coefficient in Europe is 31.4."
+                }
+            ],
+            "Output": "Europe is a continent with a population of 740 million people. The largest city in Europe is Istanbul, Turkey with a population of 14.3 million. The smallest country in Europe is Vatican City with a population of 800. The most populous country in Europe is Russia with a population of 144 million. The least populous country in Europe is Vatican City with a population of 800. The population density of Europe is 121 people per square kilometer. The average life expectancy in Europe is 80 years. The infant mortality rate in Europe is 4.5 deaths per 1,000 live births. The literacy rate in Europe is 99%. The unemployment rate in Europe is 10.1%. The GDP per capita in Europe is $34,600. The poverty rate in Europe is 11.3%. The Gini coefficient in Europe is 31.4. "
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/9mPxjLRqDcjFav9AlISSbjDy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sI0X8VwvWH2ssROLqJcaO2MI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/D1vE82j25Fa3SEzIDHiC7XYI?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1PjzRzE3QqkweWE2jR6lI365pr6qgxO6p?usp=sharing"
+}

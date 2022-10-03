@@ -1,0 +1,136 @@
+{
+    "Contributor": "zhangjiayue",
+    "Domain": "Commentary",
+    "Task": "Commentary use song",
+    "Prompt": {
+        "pre_question_prompt": "I am a song writer. I will ask some questions to collect information about specific situation and then I will use the information to create a song as a commentary.",
+        "task_specific_prompt": "Write a song as a commentary to this particular situation."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "When it happened?",
+                    "Answer": "At the morning "
+                },
+                {
+                    "Question": "How do you feel?",
+                    "Answer": "Warm "
+                },
+                {
+                    "Question": "Where are you?",
+                    "Answer": "a church "
+                },
+                {
+                    "Question": "Can you hear anything?",
+                    "Answer": "People praying "
+                },
+                {
+                    "Question": "Can you see anything?",
+                    "Answer": "Crosses "
+                },
+                {
+                    "Question": "Where should you go?",
+                    "Answer": "Home "
+                },
+                {
+                    "Question": "What are you holding at your hands?",
+                    "Answer": "Guns "
+                },
+                {
+                    "Question": "What are you wearing?",
+                    "Answer": "Nike "
+                },
+                {
+                    "Question": "What are you saying?",
+                    "Answer": "Game Over!"
+                }
+            ],
+            "Output": "It happened one morning\r\nIn the middle of a church\r\nPeople were praying\r\nAnd I was holding guns\r\n \r\nI felt warm\r\nBut I knew I had to go\r\n \r\nI was wearing Nike\r\nAnd I knew it was time\r\n \r\nI said \"Game Over!\"\r\nAnd I meant it this time\r\n \r\nIt's time to go home\r\nAnd leave this all behind\r\n \r\nThere's nothing left for me here\r\nOnly pain and misery\r\n \r\nI'm done with all of this\r\nIt's time to start anew\r\n \r\nThis is my final goodbye\r\nI'm moving on to better things"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "When it happened?",
+                    "Answer": "At night "
+                },
+                {
+                    "Question": "How do you feel?",
+                    "Answer": "Cold "
+                },
+                {
+                    "Question": "Where are you?",
+                    "Answer": "Home "
+                },
+                {
+                    "Question": "Can you hear anything?",
+                    "Answer": "Raining outside "
+                },
+                {
+                    "Question": "Can you see anything?",
+                    "Answer": "My dog. "
+                },
+                {
+                    "Question": "Where should you go?",
+                    "Answer": "Bed "
+                },
+                {
+                    "Question": "What are you holding at your hands?",
+                    "Answer": "Wine "
+                },
+                {
+                    "Question": "What are you wearing?",
+                    "Answer": "pajama "
+                },
+                {
+                    "Question": "What are you saying?",
+                    "Answer": "Nothing"
+                }
+            ],
+            "Output": "It's raining outside\r\nAnd I'm feeling cold\r\nI'm at home alone\r\nJust me and my dog\r\n \r\nI've got a glass of wine\r\nAnd I'm wearing my pajamas\r\nI'm not saying a word\r\nI'm just trying to forget\r\n \r\nI wish I could go to bed\r\nAnd forget about tonight\r\nBut I can't shake this feeling\r\nThat something's not right\r\n \r\nI can't help but wonder\r\nIf I'm making a mistake\r\nShould I go out and face the storm?\r\nOr stay here and stay safe?\r\n \r\nI don't know what to do\r\nBut I know I can't stay here\r\nI have to go out and face the night\r\nAnd hope that everything will be alright"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "When it happened?",
+                    "Answer": "At daytime "
+                },
+                {
+                    "Question": "How do you feel?",
+                    "Answer": "Afraid "
+                },
+                {
+                    "Question": "Where are you?",
+                    "Answer": "Space station "
+                },
+                {
+                    "Question": "Can you hear anything?",
+                    "Answer": "Monster outside "
+                },
+                {
+                    "Question": "Can you see anything?",
+                    "Answer": "Nothing "
+                },
+                {
+                    "Question": "Where should you go?",
+                    "Answer": "Back to earth. "
+                },
+                {
+                    "Question": "What are you holding at your hands?",
+                    "Answer": "Wrench "
+                },
+                {
+                    "Question": "What are you wearing?",
+                    "Answer": "Space suit "
+                },
+                {
+                    "Question": "What are you saying?",
+                    "Answer": "I need to go home"
+                }
+            ],
+            "Output": "I am all alone in this space station\r\nI am feeling afraid\r\nI can hear the monster outside\r\nI can't see anything\r\nI need to go home\r\n \r\nI am holding a wrench in my hand\r\nI am wearing a space suit\r\nI am saying \"I need to go home\"\r\n \r\nThis is not a place for me\r\nI don't belong here\r\nI need to go back to earth\r\n \r\nI am scared of the unknown\r\nI am scared of the monster\r\nBut I know I need to go home\r\n \r\nSo I'll take a step forward\r\nInto the unknown\r\nHoping to find my way back home"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/xFFtg842KSUEIzaX73HGLw57?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1u2pwZmZ3IPYbe4kjUAbKEhA0p1MSvBgCcNwXGu4wAa8/edit?usp=sharing"
+}

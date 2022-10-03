@@ -1,0 +1,156 @@
+{
+    "Contributor": "shahnishtha",
+    "Domain": "Public Health",
+    "Task": "Life Expectancy",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert on public health. I will ask some questions other than facts and life expectancy to collect information on your community and then I will use the information to estimate the life expentancy of your community.",
+        "task_specific_prompt": "Estimate the life expectancy of the community using the questions. Also provide some detailed ways to improve it."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How often do members of your community exercise?",
+                    "Answer": "Many members of the community exercise regularly. There are several gyms and fitness centers, as well as many opportunities to be active outdoors."
+                },
+                {
+                    "Question": "Do members of your community eat healthy diets?",
+                    "Answer": "There are a variety of healthy food options available, but many members of the community do not eat healthy diets."
+                },
+                {
+                    "Question": "Do members of your community have access to healthcare?",
+                    "Answer": "All members of the community have access to healthcare."
+                },
+                {
+                    "Question": "Do members of your community smoke cigarettes?",
+                    "Answer": "Cigarette smoking is not common in the community."
+                },
+                {
+                    "Question": "Do members of your community drink alcohol?",
+                    "Answer": "Drinking alcohol is not common in the community."
+                },
+                {
+                    "Question": "Do members of your community experience a lot of stress?",
+                    "Answer": "There is a moderate amount of stress in the community."
+                },
+                {
+                    "Question": "Do members of your community get a lot of rest?",
+                    "Answer": "Most members of the community get enough rest."
+                },
+                {
+                    "Question": "Do members of your community have positive attitudes?",
+                    "Answer": "Most members of the community have positive attitudes."
+                },
+                {
+                    "Question": "Do members of your community have access to education?",
+                    "Answer": "All members of the community have access to education."
+                },
+                {
+                    "Question": "Do members of your community have access to jobs?",
+                    "Answer": "All members of the community have access to jobs."
+                }
+            ],
+            "Output": "The life expectancy of the community is estimated to be 80 years. To improve the life expectancy of the community, members could focus on eating healthier diets and reducing stress levels."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do members of your community exercise?",
+                    "Answer": "Some members of the community exercise regularly and some do not. There are a few gyms and fitness centers."
+                },
+                {
+                    "Question": "Do members of your community eat healthy diets?",
+                    "Answer": "There are fewer healthy food options available, thus many members of the community do not eat healthy diets."
+                },
+                {
+                    "Question": "Do members of your community have access to healthcare?",
+                    "Answer": "All members of the community have access to a small healthcare clinic."
+                },
+                {
+                    "Question": "Do members of your community smoke cigarettes?",
+                    "Answer": "Cigarette smoking is common in the community."
+                },
+                {
+                    "Question": "Do members of your community drink alcohol?",
+                    "Answer": "Drinking alcohol is common in the community."
+                },
+                {
+                    "Question": "Do members of your community experience a lot of stress?",
+                    "Answer": "There is a moderate amount of stress in the community."
+                },
+                {
+                    "Question": "Do members of your community get a lot of rest?",
+                    "Answer": "Most members of the community do not get enough rest."
+                },
+                {
+                    "Question": "Do members of your community have positive attitudes?",
+                    "Answer": "Some members of the community have positive attitudes and some have negative."
+                },
+                {
+                    "Question": "Do members of your community have access to education?",
+                    "Answer": "All members of the community have access to education."
+                },
+                {
+                    "Question": "Do members of your community have access to jobs?",
+                    "Answer": "All members of the community have access to jobs."
+                }
+            ],
+            "Output": "The life expectancy of the community is estimated to be between 50 and 60 years. To improve the life expectancy of the community, members could exercise more, eat healthier diets, get more rest, and reduce stress. Additionally, increasing access to healthcare and education could also improve the life expectancy of the community."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do members of your community exercise?",
+                    "Answer": "Not at all."
+                },
+                {
+                    "Question": "Do members of your community eat healthy diets?",
+                    "Answer": "There are no healthy food options available, thus all the members of the community do not eat healthy diets."
+                },
+                {
+                    "Question": "Do members of your community have access to healthcare?",
+                    "Answer": "Some members of the community have access to a small healthcare clinic and some do not."
+                },
+                {
+                    "Question": "Do members of your community smoke cigarettes?",
+                    "Answer": "Cigarette smoking is common in the community."
+                },
+                {
+                    "Question": "Do members of your community drink alcohol?",
+                    "Answer": "Drinking alcohol is common in the community."
+                },
+                {
+                    "Question": "Do members of your community experience a lot of stress?",
+                    "Answer": "There is a very high amount of stress in the community."
+                },
+                {
+                    "Question": "Do members of your community get a lot of rest?",
+                    "Answer": "None of the members of the community get enough rest."
+                },
+                {
+                    "Question": "Do members of your community have positive attitudes?",
+                    "Answer": "Most of the members of the community have negative attitudes."
+                },
+                {
+                    "Question": "Do members of your community have access to education?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do members of your community have access to jobs?",
+                    "Answer": "Very few members of the community have access to jobs."
+                }
+            ],
+            "Output": "The life expectancy of the community is estimated to be around 50 years. To improve the life expectancy of the community, members need to have access to healthcare, education, and jobs. Additionally, members need to eat healthy diets, exercise, get a lot of rest, and reduce stress levels."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/xm7dFbQTXV6wmNf8Mr2RLNzQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GbDfZzSaOTtKYix4Xw7c8QSI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lIc71y8zDlCGMiu9H0GUUqUN?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1uM6qm_920jdep_PXLW7o83wV4Hwm85U6/view?usp=sharing",
+        "https://drive.google.com/file/d/1qzAXl_1-vZ14XIzAFUAYW9LvSfknuGTo/view?usp=sharing",
+        "https://drive.google.com/file/d/1yCFyY-KY--3s6IZgyHS0e6ShwGXlGQP1/view?usp=sharing"
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "songlucy",
+    "Domain": "Retail Management",
+    "Task": "Creating an advertisement publicizing a store's event hosting a public figure.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in event planning for retail stores. I will ask some questions to collect information and then I will use the information to create an advertisement publicizing the store's event hosting a public figure.",
+        "task_specific_prompt": "Write an advertisement publicizing the store's event hosting a public figure using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Who is the public figure?",
+                    "Answer": "The public figure is Michelle Obama."
+                },
+                {
+                    "Question": "When is the event?",
+                    "Answer": "The event is on January 18, 2023."
+                },
+                {
+                    "Question": "What time is the event?",
+                    "Answer": "The event is from 2-5pm."
+                },
+                {
+                    "Question": "Where is the event?",
+                    "Answer": "The event is at the Barnes & Noble in Brooklyn, NY."
+                },
+                {
+                    "Question": "What is the purpose of the event?",
+                    "Answer": "The purpose of the event is for Michelle Obama to sign copies of her book, \"Becoming.\""
+                },
+                {
+                    "Question": "Who is the target audience for the event?",
+                    "Answer": "The target audience is people who are interested in books or politics or who are fans of Michelle Obama."
+                },
+                {
+                    "Question": "What is the budget for the event?",
+                    "Answer": "The budget for the event is $25,000."
+                },
+                {
+                    "Question": "What are the logistics of the event?",
+                    "Answer": "The event will have a stage area for Michelle Obama to sit at, a microphone, and a table for her to sign books. There will also be security present."
+                },
+                {
+                    "Question": "What is the expected turnout for the event?",
+                    "Answer": "The expected turnout is 250 people."
+                },
+                {
+                    "Question": "How will the event be publicized?",
+                    "Answer": "The event will be publicized through social media and local news outlets."
+                }
+            ],
+            "Output": "Come meet Michelle Obama at Barnes & Noble in Brooklyn, NY on January 18, 2023 from 2-5pm! She will be signing copies of her book, \"Becoming.\" This is a rare opportunity to meet a living legend, so don't miss out!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the store?",
+                    "Answer": "The name of the store is Sur La Table."
+                },
+                {
+                    "Question": "What is the name of the event?",
+                    "Answer": "The name of the event is \"Meet the Celebrity Chef\"."
+                },
+                {
+                    "Question": "When is the event taking place?",
+                    "Answer": "The event is taking place on March 3, 2025."
+                },
+                {
+                    "Question": "Who is the public figure?",
+                    "Answer": "The public figure is Gordon Ramsay."
+                },
+                {
+                    "Question": "What will the public figure be doing at the event?",
+                    "Answer": "The public figure will be teaching a master class for a dessert, answering questions, and signing autographs."
+                },
+                {
+                    "Question": "Is there a cost to attend the event?",
+                    "Answer": "The only part of the event that costs money is the master class, with a cost of $50."
+                },
+                {
+                    "Question": "What is the store's address?",
+                    "Answer": "The address is 123 Main Street, Los Angeles, CA."
+                },
+                {
+                    "Question": "What is the store's phone number?",
+                    "Answer": "The phone number is 123-456-7890."
+                },
+                {
+                    "Question": "Are there any other special details about the event that we should include?",
+                    "Answer": "RSVP to the event will open November 3, 2024 on a first come, first served basis."
+                },
+                {
+                    "Question": "What is the store's website?",
+                    "Answer": "The store's website is www.surlatable.com."
+                }
+            ],
+            "Output": "Join us on March 3, 2025, at Sur La Table for an exclusive event with world-renowned chef Gordon Ramsay! Chef Ramsay will be teaching a master class for a dessert, answering questions, and signing autographs for fans. The cost to attend the master class is $50. RSVP to the event will open November 3, 2024, on a first come, first served basis, so mark your calendars and set your alarms! For more information, visit our website www.surlatable.com or call us at 123-456-7890. We hope to see you there!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the store?",
+                    "Answer": "The store is called Milano Music."
+                },
+                {
+                    "Question": "What is the name of the event?",
+                    "Answer": "The event is called Meet the Musician."
+                },
+                {
+                    "Question": "Who is the public figure?",
+                    "Answer": "The public figure is Ray Chen."
+                },
+                {
+                    "Question": "When is the event?",
+                    "Answer": "The event is on Friday, June 9th at 1:00pm-2:30pm."
+                },
+                {
+                    "Question": "Where is the event?",
+                    "Answer": "The event is at Milano Music, which is located at 38 W Main St, Mesa, AZ 85201."
+                },
+                {
+                    "Question": "What is the cost of the event?",
+                    "Answer": "The cost is $50."
+                },
+                {
+                    "Question": "What type of music does Ray Chen play?",
+                    "Answer": "Ray Chen plays classical music."
+                },
+                {
+                    "Question": "What is the age limit for the event?",
+                    "Answer": "There is no age limit."
+                },
+                {
+                    "Question": "Will there be refreshments served at the event?",
+                    "Answer": "Yes, there will be refreshments like cookies and fruit-infused water served at the event."
+                },
+                {
+                    "Question": "Is there anything else we should know about the event?",
+                    "Answer": "Tickets for the event go live on March 2."
+                }
+            ],
+            "Output": "Looking to meet a world-renowned musician? Look no further than Milano Music! On June 9th, come and meet Ray Chen, a classical musician, at our store in Mesa, AZ. This is a rare opportunity to meet and chat with Ray, so don't miss out! The event will be from 1:00pm-2:30pm and tickets are only $50. Refreshments will be served. Tickets go live on our website on March 2."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/WEOiljZWCGC1n9X1HmMxBUq3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/t5oK7ar1lBF1AvXYw9cZulP3?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/IJNqDZUx31T8QODVX1sJ40pS?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/13YK_aP-2RFOZBv23uCrhP3ExkqrqGvxA?usp=sharing"
+}

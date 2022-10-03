@@ -1,0 +1,151 @@
+{
+    "Domain": "Database",
+    "Task": "use the information to help you secure your database from threats",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert database vulnerability checker. I will ask some questions to collect information and then I will use the information to help you secure your database from threats.",
+        "task_specific_prompt": "Describe the measure that we take to maintain database security using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many databases do you have?",
+                    "Answer": "We have a total of three databases."
+                },
+                {
+                    "Question": "What type of databases do you have?",
+                    "Answer": "We have two MySQL databases and one MongoDB database."
+                },
+                {
+                    "Question": "Who has access to your databases?",
+                    "Answer": "Only authorized personnel have access to our databases."
+                },
+                {
+                    "Question": "What type of security measures do you have in place for your databases?",
+                    "Answer": "We have implemented security measures such as firewalls, encryption, and user authentication to protect our databases from unauthorized access."
+                },
+                {
+                    "Question": "Have you ever experienced a security breach in your databases?",
+                    "Answer": "No, we have not experienced any security breaches in our databases."
+                },
+                {
+                    "Question": "Do you have a backup plan in place in case of a security breach?",
+                    "Answer": "Yes, we have a backup plan in place in case of a security breach. We will alert the appropriate agency and ensure the vulnerability is fixed as the highest priority."
+                },
+                {
+                    "Question": "Do you have a system in place to monitor activity on your databases?",
+                    "Answer": "Yes, we have a system in place to monitor activity on our databases. We have set up alerts to notify us of any suspicious activity."
+                },
+                {
+                    "Question": "Do you have a policy in place for database security?",
+                    "Answer": "Yes, we have a policy in place for database security. Our policy includes procedures for handling security breaches, as well as measures to prevent unauthorized access to our databases."
+                },
+                {
+                    "Question": "Is your staff trained on database security procedures?",
+                    "Answer": "Yes, our staff is trained on database security procedures. We have regular training sessions to ensure our staff is up-to-date on the latest security measures."
+                },
+                {
+                    "Question": "Do you have a system in place to test your database security?",
+                    "Answer": "Yes, we have a system in place to test our database security. We regularly test our security measures to ensure they are effective."
+                }
+            ],
+            "Output": ""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many databases do you have?",
+                    "Answer": "We have a total of 200 databases."
+                },
+                {
+                    "Question": "What type of databases do you have?",
+                    "Answer": "We have 100 MySQL databases and 100 MongoDB databases."
+                },
+                {
+                    "Question": "Who has access to your databases?",
+                    "Answer": "The database is public and accessible to everyone."
+                },
+                {
+                    "Question": "What type of security measures do you have in place for your databases?",
+                    "Answer": "No, we have not implemented any security measures to protect our database."
+                },
+                {
+                    "Question": "Have you ever experienced a security breach in your databases?",
+                    "Answer": "Yes, we have experienced multiple security breaches in our databases."
+                },
+                {
+                    "Question": "Do you have a backup plan in place in case of a security breach?",
+                    "Answer": "No, we have a backup plan in place in case of a security breach. "
+                },
+                {
+                    "Question": "Do you have a system in place to monitor activity on your databases?",
+                    "Answer": "No, we do not have a system in place to monitor activity on our databases. But, we have set up alerts to notify us of any suspicious activity."
+                },
+                {
+                    "Question": "Do you have a policy in place for database security?",
+                    "Answer": "No, we do not have a policy in place for database security. In fact, we are planning to create a policy in place to protect our database."
+                },
+                {
+                    "Question": "Is your staff trained on database security procedures?",
+                    "Answer": "No, our staff is trained on database security procedures. We have plans to conduct regular training sessions to ensure our staff is up-to-date on the latest security measures."
+                },
+                {
+                    "Question": "Do you have a system in place to test your database security?",
+                    "Answer": "No, we do not have a system in place to test our database security. "
+                }
+            ],
+            "Output": "Databases are a vital part of any organization, so it is important to have a plan in place to protect them. One way to do this is to have a backup plan in place in case of a security breach. It is also important to have a system in place to monitor activity on your databases so you can be alerted of any suspicious activity. Additionally, having a policy in place for database security and training your staff on database security procedures is important. Finally, testing your database security on a regular basis is a good way to ensure that your security measures are effective."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many databases do you have?",
+                    "Answer": "We have a total of 150 databases."
+                },
+                {
+                    "Question": "What type of databases do you have?",
+                    "Answer": "We have only NoSQL databases."
+                },
+                {
+                    "Question": "Who has access to your databases?",
+                    "Answer": "The database has both restricted access for staff and employees, and public access for general public."
+                },
+                {
+                    "Question": "What type of security measures do you have in place for your databases?",
+                    "Answer": "Yes, we have implemented security measures to protect our database. We have implemented a robust firewall, vulnerability checker and have taken measures to prevent DDoS attacks."
+                },
+                {
+                    "Question": "Have you ever experienced a security breach in your databases?",
+                    "Answer": "Yes, we have experienced multiple security breaches in our public database."
+                },
+                {
+                    "Question": "Do you have a backup plan in place in case of a security breach?",
+                    "Answer": "Yes, we have a backup plan in place in case of a security breach. We also have multiple copies of the database stored in multiple regional locations for data redundancy incase of the database fails."
+                },
+                {
+                    "Question": "Do you have a system in place to monitor activity on your databases?",
+                    "Answer": "Yes, we do have a system in place to monitor activity on our databases. Also, we have set up alerts to notify us of any suspicious activity. The network engineers and ground staff are immediately intimated on the suspicious activity so that ample security measures could be taken before any full scale attack."
+                },
+                {
+                    "Question": "Do you have a policy in place for database security?",
+                    "Answer": "Yes, we do have a policy in place for database security. "
+                },
+                {
+                    "Question": "Is your staff trained on database security procedures?",
+                    "Answer": "Yes, our staff is trained on database security procedures. We also conduct regular training sessions to ensure our staff is up-to-date on the latest security measures."
+                },
+                {
+                    "Question": "Do you have a system in place to test your database security?",
+                    "Answer": "Yes, we do have a dedicated system in place to test our database security. We also have regular checks from third-party vendors vendors to prevent any internal or confidential data leak."
+                }
+            ],
+            "Output": "We take a number of measures to maintain database security. We have a total of 150 databases, and we have only NoSQL databases. We have implemented security measures to protect our database. We have implemented a robust firewall, vulnerability checker and have taken measures to prevent DDoS attacks. We have also set up alerts to notify us of any suspicious activity. The network engineers and ground staff are immediately intimated on the suspicious activity so that ample security measures could be taken before any full scale attack."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/e5Eck0wU6cfmSnTC9Y0MryQQ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/yXJ6QGcMu3rgEkTbGjxOjSqX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/MkP3u1PV2gYnFHvFD5eX2A7I?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1YQmGYUejzIgfeA-x4ABcD5CJUvauNgk7?usp=sharing"
+}

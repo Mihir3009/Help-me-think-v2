@@ -1,0 +1,160 @@
+{
+    "Contributor": "uddinmdnayem",
+    "Domain": "Demography",
+    "Task": "Demographic health report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in demography. I will ask questions to gather demographic health information to write an article.",
+        "task_specific_prompt": "Write an article on the demographic health structure of Bangladesh using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many people live in your country?",
+                    "Answer": "The population of Bangladesh is approximately 164 million people."
+                },
+                {
+                    "Question": "What is the average life expectancy in your country?",
+                    "Answer": "The average life expectancy in Bangladesh is approximately 72 years."
+                },
+                {
+                    "Question": "What is the infant mortality rate in your country?",
+                    "Answer": "The infant mortality rate in Bangladesh is approximately 24.3 deaths per 1,000 live births."
+                },
+                {
+                    "Question": "What is the maternal mortality rate in your country?",
+                    "Answer": "The maternal mortality rate in Bangladesh is approximately 245 per every 100,000 live births. "
+                },
+                {
+                    "Question": "What is the prevalence of HIV/AIDS in your country?",
+                    "Answer": "The prevalence of HIV/AIDS in Bangladesh is less than 0.1%."
+                },
+                {
+                    "Question": "What is the prevalence of obesity in your country?",
+                    "Answer": "According to the World Health Organization (WHO), about 39% of adults aged \u226518 years were overweight and 13% of adults were obese in the world in 2016. "
+                },
+                {
+                    "Question": "What is the prevalence of diabetes in your country?",
+                    "Answer": "According to the International Centre for Diarrhoeal Disease Research in Bangladesh in 2015, 7.1 million people had diabetes, 3.7 million cases were undiagnosed and about 129 000 deaths were attributed to the disease. 10 The prevalence of diabetes in Bangladesh, based on published studies, ranges from 2.21% to 35%."
+                },
+                {
+                    "Question": "What is the prevalence of smoking in your country?",
+                    "Answer": "The rates are age-standardized. Bangladesh smoking rate for 2020 was 34.70%, a 0.5% decline from 2019. Bangladesh smoking rate for 2019 was 35.20%, a 0% increase from 2018."
+                },
+                {
+                    "Question": "What is the prevalence of mental illness in your country?",
+                    "Answer": "The coronavirus disease 2019 (COVID-19) pandemic has wreaked havoc on the mental health of the Bangladeshi population. One study has found that the prevalence of depressive (57.9%), stress (59.7%) and anxiety (33.7%) symptoms in the adult population is now much higher than pre-pandemic rates."
+                },
+                {
+                    "Question": "What is the prevalence of substance abuse in your country?",
+                    "Answer": "Approximately 2.5 million Bangladeshis are addicted to drugs, and 80% are adolescents and young people of 15\u201330 years. Therefore, there is an increasing tendency of substance use in Bangladesh, and the problem is more concerning among adolescents."
+                },
+                {
+                    "Question": "What is the prevalence of cardiovascular disease in your country?",
+                    "Answer": "The observed overall pooled prevalence of CVD regardless of the type of CVD was 5% in Bangladesh."
+                },
+                {
+                    "Question": "What is the prevalence of cancer in your country?",
+                    "Answer": "Cancer is a leading cause of death in Bangladesh with an estimated 56,700 new cases and 36,500 deaths in 2010. The age-standardized incidence and mortality rates were 54.3 and 35.3 per 100,000 person-years, respectively. The most common cancers were those of the breast (11%), cervix uteri (9%), and oesophagus (9%)."
+                }
+            ],
+            "Output": "The population of Bangladesh is approximately 164 million people. The average life expectancy in Bangladesh is approximately 72 years. The infant mortality rate in Bangladesh is approximately 24.3 deaths per 1,000 live births. The maternal mortality rate in Bangladesh is approximately 245 per every 100,000 live births. The prevalence of HIV/AIDS in Bangladesh is less than 0.1%. According to the World Health Organization (WHO), about 39% of adults aged \u226518 years were overweight and 13% of adults were obese in the world in 2016.  According to the International Centre for Diarrhoeal Disease Research in Bangladesh in 2015, 7.1 million people had diabetes, 3.7 million cases were undiagnosed and about 129 000 deaths were attributed to the disease. The prevalence of smoking in Bangladesh is 34.70%. The coronavirus disease 2019 (COVID-19) pandemic has wreaked havoc on the mental health of the Bangladeshi population. One study has found that the prevalence of depressive (57.9%), stress (59.7%) and anxiety (33.7%) symptoms in the adult population is now much higher than pre-pandemic rates. Approximately 2.5 million Bangladeshis are addicted to drugs, and 80% are adolescents and young"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the population of the city you live in?",
+                    "Answer": "I live in Dhaka, Bangladesh. The population of Dhaka is about 1.5 million."
+                },
+                {
+                    "Question": "What is the average life expectancy in the city you live in?",
+                    "Answer": "The average life expectancy in Dhaka is about 71 years."
+                },
+                {
+                    "Question": "What is the infant mortality rate in the city you live in?",
+                    "Answer": "The infant mortality rate in Dhaka is about 31 per 1,000 live births."
+                },
+                {
+                    "Question": "What is the maternal mortality rate in the city you live in?",
+                    "Answer": "The maternal mortality rate in Dhaka is about 122 per 100,000 live births."
+                },
+                {
+                    "Question": "What is the prevalence of HIV/AIDS in the city you live in?",
+                    "Answer": "The prevalence of HIV/AIDS in Dhaka is about 0.1%."
+                },
+                {
+                    "Question": "What is the prevalence of tuberculosis in the city you live in?",
+                    "Answer": "The prevalence of tuberculosis in Dhaka is about 0.4%."
+                },
+                {
+                    "Question": "What is the prevalence of malaria in the city you live in?",
+                    "Answer": "The prevalence of malaria in Dhaka is about 0.1%."
+                },
+                {
+                    "Question": "What is the prevalence of obesity in the city you live in?",
+                    "Answer": "The prevalence of obesity in Dhaka is about 1.5%."
+                },
+                {
+                    "Question": "What is the prevalence of smoking in the city you live in?",
+                    "Answer": "The prevalence of smoking in Dhaka is about 3.5%."
+                },
+                {
+                    "Question": "What is the prevalence of diabetes in the city you live in?",
+                    "Answer": "The prevalence of diabetes in Dhaka is about 1.0%."
+                }
+            ],
+            "Output": "Dhaka is the capital and largest city of Bangladesh. It is located on the east bank of the Buriganga River in the heart of the Bengal delta. The city has a population of about 1.5 million people. The average life expectancy in Dhaka is about 71 years. The infant mortality rate in Dhaka is about 31 per 1,000 live births. The maternal mortality rate in Dhaka is about 122 per 100,000 live births. The prevalence of HIV/AIDS in Dhaka is about 0.1%. The prevalence of tuberculosis in Dhaka is about 0.4%. The prevalence of malaria in Dhaka is about 0.1%. The prevalence of obesity in Dhaka is about 1.5%. The prevalence of smoking in Dhaka is about 3.5%. The prevalence of diabetes in Dhaka is about 1.0%."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many people live in your town or city?",
+                    "Answer": "The population of my town is about 18,000 people."
+                },
+                {
+                    "Question": "What is the average life expectancy in your town or city?",
+                    "Answer": "The average life expectancy in my town is about 68 years."
+                },
+                {
+                    "Question": "What is the infant mortality rate in your town or city?",
+                    "Answer": "The infant mortality rate in my town is about 1%."
+                },
+                {
+                    "Question": "What is the teenage pregnancy rate in your town or city?",
+                    "Answer": "The teenage pregnancy rate in my town is about 2%."
+                },
+                {
+                    "Question": "What is the prevalence of HIV/AIDS in your town or city?",
+                    "Answer": "The prevalence of HIV/AIDS in my town is about 1%."
+                },
+                {
+                    "Question": "What is the prevalence of obesity in your town or city?",
+                    "Answer": "The prevalence of obesity in my town is about 5%."
+                },
+                {
+                    "Question": "What is the prevalence of smoking in your town or city?",
+                    "Answer": "The prevalence of smoking in my town is about 8%."
+                },
+                {
+                    "Question": "What is the prevalence of diabetes in your town or city?",
+                    "Answer": "The prevalence of diabetes in my town is about 3%."
+                },
+                {
+                    "Question": "What is the prevalence of heart disease in your town or city?",
+                    "Answer": "The prevalence of heart disease in my town is about 0.5%."
+                },
+                {
+                    "Question": "What is the prevalence of cancer in your town or city?",
+                    "Answer": "The prevalence of cancer in my town is about 0.3%."
+                }
+            ],
+            "Output": "The population of Tempe is about 18,000 people. The average life expectancy in Tempe is about 68 years. The infant mortality rate in Tempe is about 1%. The teenage pregnancy rate in Tempe is about 2%. The prevalence of HIV/AIDS in Tempe is about 1%. The prevalence of obesity in Tempe is about 5%. The prevalence of smoking in Tempe is about 8%. The prevalence of diabetes in Tempe is about 3%. The prevalence of heart disease in Tempe is about 0.5%. The prevalence of cancer in Tempe is about 0.3%."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZjHhPOxiD2WDl6q4QwnUTAAW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/P80LplqAGXV1IjvtEGvYmFHU?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UvtUqnHyCXUrZNzPx2ykoOg1?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/19c0Uau5RHuDdtYjiV7DHI3H6k7i8AL38?usp=sharing"
+}

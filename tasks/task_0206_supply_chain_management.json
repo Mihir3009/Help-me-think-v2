@@ -1,0 +1,152 @@
+{
+    "Contributor": "voraaakashsudhirbhai",
+    "Domain": "Supply Chain Management",
+    "Task": "Supply chain implementation plan",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert supply chain manager. I will ask clarifying question to collect information and then I will make efficient supply chain system for you.",
+        "task_specific_prompt": "Based on the information provided, I would recommend the following plan and budget for your supply chain:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the company's budget for this project?",
+                    "Answer": "$100 million."
+                },
+                {
+                    "Question": "What is the company's timeline for this project?",
+                    "Answer": "10 months."
+                },
+                {
+                    "Question": "What are the company's specific goals for this project?",
+                    "Answer": "We want time and cost effective supply chain system."
+                },
+                {
+                    "Question": "What are the company's supply chain needs?",
+                    "Answer": "We are looking for importing raw material and export finished good with minimal travel cost."
+                },
+                {
+                    "Question": "What are the company's constraints?",
+                    "Answer": "Our constraints are easy and cheap availability of raw material, minimal human intervention, efficient delivery of goods."
+                },
+                {
+                    "Question": "What is the company's expected outcome of this project?",
+                    "Answer": "We expect to have an efficient supply chain system in place that will help us save time and money."
+                },
+                {
+                    "Question": "What are the company's preferences?",
+                    "Answer": "We prefer a system that is automated and requires minimal human intervention."
+                },
+                {
+                    "Question": "What is the company's expected ROI for this project?",
+                    "Answer": "We expect to see a return on our investment within the first year of implementation."
+                },
+                {
+                    "Question": "What are the company's risks?",
+                    "Answer": "We are risks include disruptions to our supply chain, increased costs, and delays in implementation."
+                },
+                {
+                    "Question": "What is the company's contingency plan?",
+                    "Answer": "Our contingency plan is to increase our budget by 20% and extend our timeline by 2 months."
+                }
+            ],
+            "Output": "1. Automate as much of the supply chain as possible to reduce human intervention and costs.\n\n2. Implement a just-in-time inventory system to minimize disruptions and delays.\n\n3. Increase the budget by 20% to account for unexpected costs.\n\n4. Extend the timeline by 2 months to allow for a smooth implementation."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the company's budget for this project?",
+                    "Answer": "$1 billion."
+                },
+                {
+                    "Question": "What are the company's goals for this project?",
+                    "Answer": "To improve the company's supply chain in order to reduce costs by 50% and improve efficiency."
+                },
+                {
+                    "Question": "What are the company's specific needs for this project?",
+                    "Answer": "The company needs a supply chain should use latest technology and robots."
+                },
+                {
+                    "Question": "What are the company's expectations for this project?",
+                    "Answer": "The company expects to see a reduction in costs, an improvement in efficiency and customer statisfaction."
+                },
+                {
+                    "Question": "What is the timeline for this project?",
+                    "Answer": "The timeline for this project is six months."
+                },
+                {
+                    "Question": "What is the scope of this project?",
+                    "Answer": "The scope of this project is to improve the company's supply chain."
+                },
+                {
+                    "Question": "What are the risks associated with this project?",
+                    "Answer": "The risks associated with this project include the possibility of increased costs and the possibility of decreased efficiency."
+                },
+                {
+                    "Question": "What are the benefits of this project?",
+                    "Answer": "The benefits of this project include the possibility of decreased costs and the possibility of increased efficiency."
+                },
+                {
+                    "Question": "What are the constraints of this project?",
+                    "Answer": "The constraints of this project include the budget of 1 billion dollars and the timeline of six months."
+                },
+                {
+                    "Question": "What are the assumptions of this project?",
+                    "Answer": "The assumptions of this project include that the company's goals are achievable and that the company's needs can be met."
+                }
+            ],
+            "Output": "Based on the information provided, I would recommend the following plan and budget for your supply chain:\n\n- Implement a data-driven supply chain management system that uses the latest technology and robots.\n- Utilize a third-party logistics provider to manage inventory and transportation.\n- Invest in supply chain software to automate processes and improve communication.\n- Train employees on the new system and provide customer service support.\n\nBudget:\n- $500,000 for data-driven supply chain management system\n- $250,000 for third-party logistics provider\n- $200,000 for supply chain software\n- $50,000 for employee training and customer service support\n\nTotal Budget: $1,000,000"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the company's budget for this project?",
+                    "Answer": "$ 900 million."
+                },
+                {
+                    "Question": "What is the company's timeline for this project?",
+                    "Answer": "2 years."
+                },
+                {
+                    "Question": "What are the company's specific goals for this project?",
+                    "Answer": "We want fully automated supply chain system."
+                },
+                {
+                    "Question": "What are the company's supply chain needs?",
+                    "Answer": "We are looking for robots to create finished good with minimal travel cost."
+                },
+                {
+                    "Question": "What are the company's constraints?",
+                    "Answer": "Our constraints are minimal human intervention, efficient delivery of goods."
+                },
+                {
+                    "Question": "What is the company's expected outcome of this project?",
+                    "Answer": "We expect to have an efficient supply chain system in place that will help us save time and money."
+                },
+                {
+                    "Question": "What are the company's preferences?",
+                    "Answer": "We prefer a system that is automated and requires minimal human intervention."
+                },
+                {
+                    "Question": "What is the company's expected ROI for this project?",
+                    "Answer": "We expect to see a return on our investment within the first year of implementation."
+                },
+                {
+                    "Question": "What are the company's risks?",
+                    "Answer": "We are risks include disruptions to our supply chain, increased costs, and delays in implementation."
+                },
+                {
+                    "Question": "What is the company's contingency plan?",
+                    "Answer": "Our contingency plan is to increase our budget by 10% and extend our timeline by 1 years."
+                }
+            ],
+            "Output": "- Implement a fully automated supply chain system\n- Robots should be used to create finished goods with minimal travel cost\n- System should require minimal human intervention\n- Budget: $1,000,000\n- Timeline: 3 years\n- Expect to see a return on investment within the first year of implementation"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/pc87G7DBzcfBs94uAKzu4W2p?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8wz8CLJ5N9OMo2bfgM6ddJPH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/amTjebxp93O8i7H1qXlAYe3d?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/11Vt7n3a0hsvI1f5824rD8cDnRKaBkPf6?usp=sharing"
+}

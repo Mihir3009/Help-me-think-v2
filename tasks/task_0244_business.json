@@ -1,0 +1,152 @@
+{
+    "Contributor": "sathyanarayanavishal",
+    "Domain": "Business",
+    "Task": "Optimizing business finances.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Business. I will ask some questions to collect information and then I will use the information to identify how you can optimize the finances of your business.",
+        "task_specific_prompt": "Write a way to effectively manage my business finances using the questions and answers above. Add more context and give more details."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average monthly revenue of your business?",
+                    "Answer": "On an average, the business is currently losing $100000 every month."
+                },
+                {
+                    "Question": "What are your current monthly expenses?",
+                    "Answer": "The current monthly expenses include: Rent: $5,000, Utilities: $1,500, Employee salaries: $10,000, Inventory: $5,000, Marketing: $2,500, Total: $29,000."
+                },
+                {
+                    "Question": "What is your current inventory value?",
+                    "Answer": "The current inventory value is $250,000."
+                },
+                {
+                    "Question": "What is the average monthly cost of goods sold?",
+                    "Answer": "The average monthly cost of goods sold is $150,000."
+                },
+                {
+                    "Question": "What is the average monthly cost of employee salaries?",
+                    "Answer": "The average monthly cost of employee salaries is $10,000."
+                },
+                {
+                    "Question": "What are your current marketing expenses?",
+                    "Answer": "The current marketing expenses are about $30000 every year for the last 3 years."
+                },
+                {
+                    "Question": "What is your target market?",
+                    "Answer": "The target market is college students seeking cost-effective electric bikes."
+                },
+                {
+                    "Question": "What is the average price of your product?",
+                    "Answer": "The average price of the product for the top bike is about $600."
+                },
+                {
+                    "Question": "What is the monthly cost of rent for your store?",
+                    "Answer": "The monthly cost of rent for the store is $5,000."
+                },
+                {
+                    "Question": "What are your current monthly sales?",
+                    "Answer": "The current monthly sales are about $80,000."
+                }
+            ],
+            "Output": "There are a number of ways to optimize the finances of your business. One way would be to focus on reducing the monthly expenses. This can be done by reducing the amount spent on inventory, renegotiating employee salaries, and reducing marketing expenses. Another way to optimize the finances of your business would be to increase monthly sales. This can be done by focusing on the target market and increasing the average price of the product."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the average monthly revenue of your business?",
+                    "Answer": "On an average, the business is currently making a meagre $20000 every month."
+                },
+                {
+                    "Question": "What are your business' major expenses?",
+                    "Answer": "The business' major expenses include rent, utilities, payroll, and inventory."
+                },
+                {
+                    "Question": "What are your business' goals?",
+                    "Answer": "The business' goals are to increase revenue and help customers gain free access to quality education material online."
+                },
+                {
+                    "Question": "What are your thoughts on how you can optimize the finances of your business?",
+                    "Answer": "I think letting a few people who don't add too much value to the business can help with the finances."
+                },
+                {
+                    "Question": "What are some ideas you have for how to increase revenue?",
+                    "Answer": "Ideas to increase revenue include expanding the customer base, increasing prices, and introducing new products or services."
+                },
+                {
+                    "Question": "What are some ideas you have for how to reduce expenses?",
+                    "Answer": "Ideas to reduce expenses include cutting back on unnecessary spending, negotiating better rates with vendors, and automating processes."
+                },
+                {
+                    "Question": "What are some risks you see with implementing these changes?",
+                    "Answer": "I will get a lot of pushback from employees which might destroy the trust and image of the business."
+                },
+                {
+                    "Question": "What are some potential benefits of implementing these changes?",
+                    "Answer": "The potential benefits of implementing these changes include increased revenue and educed expenses."
+                },
+                {
+                    "Question": "What is your timeline for implementing these changes?",
+                    "Answer": "I would like to implement these changes in the next 2 weeks."
+                },
+                {
+                    "Question": "What is your budget for implementing these changes?",
+                    "Answer": "I have a budget of $1000 for implementing these changes."
+                }
+            ],
+            "Output": "To effectively manage the finances of my business, I will need to increase revenue and reduce expenses. I can increase revenue by expanding the customer base, increasing prices, and introducing new products or services. I can reduce expenses by cutting back on unnecessary spending, negotiating better rates with vendors, and automating processes. I will need to implement these changes in the next 2 weeks and have a budget of $1000 for implementing these changes."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your business' main sources of income?",
+                    "Answer": "The main sources of income for our business are product sales."
+                },
+                {
+                    "Question": "What are your business' main expenses?",
+                    "Answer": "The main expenses for our business are the cost of goods sold, marketing and advertising, and overhead costs."
+                },
+                {
+                    "Question": "What are your business' goals?",
+                    "Answer": "The goals of our business are to increase sales, grow our customer base, and expand our product line."
+                },
+                {
+                    "Question": "What are your business' financial goals?",
+                    "Answer": "The financial goals of our business are to increase product sales and to be net positive cash flow by the end of the year."
+                },
+                {
+                    "Question": "What are your business' marketing goals?",
+                    "Answer": "The marketing goals of our business are to increase brand awareness, grow our customer base, and drive sales."
+                },
+                {
+                    "Question": "What are your business' sales goals?",
+                    "Answer": "The sales goals of our business are to increase product sales, grow our customer base, and expand our product line."
+                },
+                {
+                    "Question": "What are your business' overhead costs?",
+                    "Answer": "The overhead costs of our business are the costs of rent, utilities, office supplies, and insurance."
+                },
+                {
+                    "Question": "What is your business' net cash flow?",
+                    "Answer": "The net cash flow per month is about negative $10000"
+                },
+                {
+                    "Question": "What is your business' net income?",
+                    "Answer": "The net income per year is about negative $200000."
+                },
+                {
+                    "Question": "What is your business' break-even point?",
+                    "Answer": "The break-even point is when the business sells about 5000 products a month."
+                }
+            ],
+            "Output": "In order to effectively manage the finances of your business, you should focus on increasing sales and reducing overhead costs. Additionally, you should have a goal to be net positive cash flow by the end of the year. To increase sales, you should focus on marketing initiatives that will grow your customer base and drive product sales. To reduce overhead costs, you should look for ways to reduce rent, utilities, office supplies, and insurance costs."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ZERXePx3v0NeBms8B7EHiXyk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BjtybMvKk5xC1CFV8FmfxadR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ln4k5PPj4rRiqiBCcg0nl2S1?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1wwvwP0WjMf-L-2ePgNeQ_aQHklsIHcGB?usp=sharing"
+}

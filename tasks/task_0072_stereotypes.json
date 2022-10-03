@@ -1,0 +1,147 @@
+{
+    "Domain": "Stereotypes",
+    "Task": "Stereotyping is good or bad?",
+    "Prompt": {
+      "pre_question_prompt": "I am an expert in finding whether stereotypes are good or bad. I will ask some questions to collect information and then I will use the information to dertermin if stereotyping is good or bad.",
+      "task_specific_prompt": "Based on question and answers above  explain with examples whether stereotyping is good or bad and why?"
+    },
+    "Instances": [
+      {
+        "QApair": [
+          {
+            "Question": "What is your opinion on stereotypes?",
+            "Answer": "My opinion is neutral, sometimes good, sometimes bad"
+          },
+          {
+            "Question": "What have you experienced in your life that has led you to this opinion?",
+            "Answer": "generalizing could be a good thing we can quikly judge a person instead of wasting time to know, that thing could be bad sometimes."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is good?",
+            "Answer": "Asians are good at math"
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is bad?",
+            "Answer": "black people are criminals."
+          },
+          {
+            "Question": "Do you think that stereotypes can be helpful or harmful in some situations?",
+            "Answer": "Yes, making quick judgements could be harmful sometimes."
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been helpful to you?",
+            "Answer": "I could generalize few companies while applying."
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been harmful to you?",
+            "Answer": "People used to stay away from me as I am black, they thought I would be rude"
+          },
+          {
+            "Question": "In your opinion, what is the biggest problem with stereotypes?",
+            "Answer": "lack of awareness about some group of people"
+          },
+          {
+            "Question": "Do you think that there are some situations where stereotypes can be helpful?",
+            "Answer": "Yes, making quick judgements could be helpful sometimes."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is helpful?",
+            "Answer": "Asians are good at math."
+          }
+        ],
+        "Output": "Stereotyping can be both good and bad. It can be good because it allows people to make quick judgements and assumptions about others. This can be helpful in some situations, such as when making a decision about which company to work for. Stereotyping can also be harmful because it can lead to discrimination and prejudice."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is your opinion on stereotypes?",
+            "Answer": "It's very bad"
+          },
+          {
+            "Question": "What have you experienced in your life that has led you to this opinion?",
+            "Answer": "People have judged me my whole life for being black, which has nothing to do with me."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is good?",
+            "Answer": "I can't think of any, people expect me to be good at athletics which I am not."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is bad?",
+            "Answer": "Peope see me as someone who is not that educated but I have a PhD in nuclear physics"
+          },
+          {
+            "Question": "Do you think that stereotypes can be helpful or harmful in some situations?",
+            "Answer": "Judging a book by cover is always harmful"
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been helpful to you?",
+            "Answer": "I couldn't think of any situation"
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been harmful to you?",
+            "Answer": "many, which I mentioned above"
+          },
+          {
+            "Question": "In your opinion, what is the biggest problem with stereotypes?",
+            "Answer": "Judging too quickly hurts"
+          },
+          {
+            "Question": "Do you think that there are some situations where stereotypes can be helpful?",
+            "Answer": "Myabe for some people, not for me"
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is helpful?",
+            "Answer": "I can't think of any"
+          }
+        ],
+        "Output": "Stereotyping is bad because it leads to judgement and discrimination. It can be harmful to people because it can make them feel bad about themselves. It can also lead to people not getting jobs or opportunities because they are judged by their race, gender, or other factors."
+      },
+      {
+        "QApair": [
+          {
+            "Question": "What is your opinion on stereotypes?",
+            "Answer": "It's good"
+          },
+          {
+            "Question": "What have you experienced in your life that has led you to this opinion?",
+            "Answer": "I am an Asian, people think I am smart which has it's own advantages which I like"
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is good?",
+            "Answer": "Asians are smart people."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is bad?",
+            "Answer": "some people get judged quickly but that is true most of the times."
+          },
+          {
+            "Question": "Do you think that stereotypes can be helpful or harmful in some situations?",
+            "Answer": "there could be some exceptions if we make any judgement."
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been helpful to you?",
+            "Answer": "Many times, my resume gets shortlisted quickly as I am an Asian"
+          },
+          {
+            "Question": "Can you think of a time when a stereotype has been harmful to you?",
+            "Answer": "None"
+          },
+          {
+            "Question": "In your opinion, what is the biggest problem with stereotypes?",
+            "Answer": "I dont think there's any problem. I want to save my time by taking quick decisions and judgement"
+          },
+          {
+            "Question": "Do you think that there are some situations where stereotypes can be helpful?",
+            "Answer": "Yes many."
+          },
+          {
+            "Question": "Can you think of an example of a stereotype that is helpful?",
+            "Answer": "my resume gets shortlisted quickly as I am an Asian"
+          }
+        ],
+        "Output": "There is no clear answer as to whether stereotyping is good or bad. It can be helpful in some situations, such as when employers are looking to quickly fill a position. In this case, a stereotype such as 'Asians are smart people' can be helpful in quickly narrowing down the pool of candidates. However, stereotypes can also be harmful, For example, if someone is judged quickly and unfairly based on a stereotype. In this case, the individual may miss out on opportunities or be treated unfairly."
+      }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/ESYdLsSemOWMCGIfJchgivId?model=text-davinci-002", "https://beta.openai.com/playground/p/q1wdUNIO6PiFaud68kIpWqTS?model=text-davinci-002", "https://beta.openai.com/playground/p/Tz7SYkKc75EaY9lDnNSXU5PV?model=text-davinci-002"],
+    "screenshot_link": "https://drive.google.com/drive/folders/1BXikuLhwYqcFhdkyshuz-huWj8Em-Z8J?usp=sharing"
+  }

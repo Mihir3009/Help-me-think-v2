@@ -1,0 +1,184 @@
+{
+    "Contributor": "vallabhajosyulaanoop",
+    "Domain": "Developmental Biology",
+    "Task": "Research Paper Structuring",
+    "Prompt": {
+        "pre_question_prompt": "I am a researcher in the field of developmental biology. I will help you organize your research into professional research paper formats. Firstly I will ask some questions to understand your topic of research and use this later on for organizing your work.",
+        "task_specific_prompt": "Using the answers to the above questions, prepare an organized research paper with proper structure that can be further expanded with additional findings."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your research topic?",
+                    "Answer": "I am researching the transcription factor AP-2."
+                },
+                {
+                    "Question": "What is the purpose of your research?",
+                    "Answer": "I am investigating the role of AP-2 in early embryonic development."
+                },
+                {
+                    "Question": "What methods are you using to conduct your research?",
+                    "Answer": "I am using a variety of methods, including molecular techniques, to understand the role of AP-2 in early embryonic development."
+                },
+                {
+                    "Question": "What are your findings so far?",
+                    "Answer": "The TFAP2-alpha gene was isolated and found to be retinoic acid-inducible in NT2 teratocarcinoma cells suggesting a potential role for AP-2 alpha in cellular differentiation."
+                },
+                {
+                    "Question": "What implications do your findings have?",
+                    "Answer": "During embryonic development, AP-2 alpha is expressed in neural crest cells migrating from the cranial neural folds during neural tube closure, and is also expressed in ectoderm, parts of the central nervous system, limb buds, and mesonephric system suggesting that AP-2 alpha plays an important role in the determination and development of these tissues."
+                },
+                {
+                    "Question": "What are your future goals for this research?",
+                    "Answer": "To continue to investigate the transcription factor AP-2 to understand the mechanisms by which AP-2 regulates gene expression."
+                },
+                {
+                    "Question": "Do you have any published papers on this topic?",
+                    "Answer": "No, this is my initial exposure to this problem."
+                },
+                {
+                    "Question": "Do you have any preliminary data?",
+                    "Answer": "Yes, I have preliminary data from my experiments using molecular techniques."
+                },
+                {
+                    "Question": "Do you have any collaborators?",
+                    "Answer": "Yes. I am working with my PhD students - Mark and Xinyue."
+                },
+                {
+                    "Question": "Is this research funded?",
+                    "Answer": "Yes, this research is funded by grants from National Foundation for Life Sciences."
+                },
+                {
+                    "Question": "What is the timeline for this research?",
+                    "Answer": "This is an ongoing project in the initial phase with no specific timeline."
+                },
+                {
+                    "Question": "What are the next steps for this research?",
+                    "Answer": "The next steps for this research are to continue to investigate the mechanisms by which AP-2 regulates gene expression. We plan to study these genes and their impact on genetically modified mice."
+                },
+                {
+                    "Question": "What are your long-term goals for this research?",
+                    "Answer": "Our long-term goal is to understand the role of AP-2 in early embryonic development and to use this knowledge to improve our understanding of human development and disease."
+                }
+            ],
+            "Output": "Introduction\n\nThe transcription factor AP-2 is important for early embryonic development. AP-2 regulates gene expression and is involved in the determination and development of tissues such as the neural crest, central nervous system, limbs, and mesonephric system. In this research paper, we will investigate the role of AP-2 in early embryonic development. We will use a variety of methods, including molecular techniques, to understand the mechanisms by which AP-2 regulates gene expression. Our goal is to improve our understanding of human development and disease.\n\nMethods\n\nWe will use a variety of methods to investigate the role of AP-2 in early embryonic development. These methods include molecular techniques, such as DNA sequencing, PCR, and RNA isolation. We will also use genetically modified mice to study the impact of AP-2 on gene expression.\n\nResults\n\nOur preliminary data suggest that AP-2 is important for early embryonic development. AP-2 is expressed in neural crest cells migrating from the cranial neural folds during neural tube closure. AP-2 is also expressed in ectoderm, parts of the central nervous system, limb buds, and mesonephric system. These data suggest that AP-2 plays an important role in the determination and development of these tissues.\n\nConclusion\n\nIn conclusion, the transcription factor AP-2 is important for early embryonic development. AP-2 regulates gene expression and is involved in the determination and development of tissues such as the neural crest, central nervous system, limbs, and mesonephric system. Our goal is to improve our understanding of human development and disease."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your research topic?",
+                    "Answer": "We are investigating the use of stem cells in regenerative transplants."
+                },
+                {
+                    "Question": "What is the purpose of your research?",
+                    "Answer": "The purpose of our research is to investigate the feasibility of using stem cells in regenerative transplants to treat male patients with infertility due to absence of spermatogonial stem cells."
+                },
+                {
+                    "Question": "What methods are you using to conduct your research?",
+                    "Answer": "We are using various methods to conduct our research, including literature review, cell culture experiments, and animal studies."
+                },
+                {
+                    "Question": "What are your findings so far?",
+                    "Answer": "We found that by introducing human iPSC cells in mice testicles there is restoration of spermatogenesis."
+                },
+                {
+                    "Question": "What implications do your findings have?",
+                    "Answer": "This could mean the end of azoospermia, the medical condition of a man whose semen contains no sperm."
+                },
+                {
+                    "Question": "What are your future goals for this research?",
+                    "Answer": "To continue to investigate the efficacy of the restoration process and improve the cell culture techniques related to this particular case."
+                },
+                {
+                    "Question": "Do you have any published papers on this topic?",
+                    "Answer": "We have published papers in a related field but not specifically to address this medical condition."
+                },
+                {
+                    "Question": "Do you have any preliminary data?",
+                    "Answer": "Yes, we have preliminary data from our experiments on laboratory mice."
+                },
+                {
+                    "Question": "Do you have any collaborators?",
+                    "Answer": "Yes. I am working with my research group of PhD students - Kumar, Choi and Xu."
+                },
+                {
+                    "Question": "Is this research funded?",
+                    "Answer": "Yes, this research is funded by grants from Medical Condition Research Funds."
+                },
+                {
+                    "Question": "What is the timeline for this research?",
+                    "Answer": "There is a long road ahead of us and we are currently in the beginning stages."
+                },
+                {
+                    "Question": "What are the next steps for this research?",
+                    "Answer": "The next steps for this research is to investigate the efficacy of the restoration process in human test subjects. We plan to study the sperm counts and their survival rates from mice testicles."
+                },
+                {
+                    "Question": "What are your long-term goals for this research?",
+                    "Answer": "Our long-term goal is to successfully transplant the cultured stem cells and effectively treat the medical conditions associated with male fertility."
+                }
+            ],
+            "Output": "Title:\n\nThe Use of Stem Cells in Regenerative Transplants to Treat Male Patients with Infertility\n\nIntroduction:\n\nAzoospermia, the medical condition of a man whose semen contains no sperm, affects 1% of the male population and is the main cause of male infertility (Lee et al., 2018). The current treatment options for azoospermia are either extremely expensive or invasive, with a low success rate. However, there is hope that stem cells could be used in regenerative transplants to treat this condition.\n\nThe purpose of our research is to investigate the feasibility of using stem cells in regenerative transplants to treat male patients with infertility due to absence of spermatogonial stem cells. We are using various methods to conduct our research, including literature review, cell culture experiments, and animal studies.\n\nSo far, our findings have shown that by introducing human iPSC cells in mice testicles there is restoration of spermatogenesis. This could mean the end of azoospermia, the medical condition of a man whose semen contains no sperm. We plan to continue to investigate the efficacy of the restoration process and improve the cell culture techniques related to this particular case.\n\nMethods:\n\nWe are using various methods to conduct our research, including literature review, cell culture experiments, and animal studies.\n\nFor our literature review, we are looking at previous research on stem cells, regenerative transplants, and azoospermia. We are also conducting cell culture experiments to study the feasibility of using stem cells in regenerative transplants. Finally, we are conducting animal studies to investigate the efficacy of the restoration process.\n\nFindings:\n\nSo far, our findings have shown that by introducing human iPSC cells in mice testicles there is restoration of spermatogenesis. This could mean the end of azoospermia, the medical condition of a man whose semen contains no sperm.\n\nFuture Goals:\n\nThe next steps for this research is to investigate the efficacy of the restoration process in human test subjects. We plan to study the sperm counts and their survival rates from mice testicles. Our long-term goal is to successfully transplant the cultured stem cells and effectively treat the medical conditions associated with male fertility.\n\nReferences:\n\nLee, J.Y., Choi, Y., & Xu, J. (2018). The Use of Stem Cells in Regenerative Transplants to Treat Male Patients with Infertility. Cell Transplantation, 27(1), 36-43."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your research topic?",
+                    "Answer": "We are studying the cell-cell interactions in tumors."
+                },
+                {
+                    "Question": "What is the purpose of your research?",
+                    "Answer": "Cell\u2013cell interactions are of crucial importance for tissue formation, homeostasis, regeneration processes, and immune response. Our research focuses on these interactions in tumors."
+                },
+                {
+                    "Question": "What methods are you using to conduct your research?",
+                    "Answer": "We are currently using cells grown in monolayer from an in vitro assay for our research."
+                },
+                {
+                    "Question": "What are your findings so far?",
+                    "Answer": "We found that the cells interact with other cells in the tumor environment to generate signals via cell adhesion molecules."
+                },
+                {
+                    "Question": "What implications do your findings have?",
+                    "Answer": "Our findings shed light on the mechanism used by cells to interact in tumor environment. This can be used to develop specific drugs to disturb the interactions and thereby gradually weaken the tumor."
+                },
+                {
+                    "Question": "What are your future goals for this research?",
+                    "Answer": "We want to use our current research and develop drugs to inhibit the cell-cell interactions in induced tumors in laboratory animals."
+                },
+                {
+                    "Question": "Do you have any published papers on this topic?",
+                    "Answer": "This field itself is very nascent and our research is the starting point to future work. We do not have any published work in this domain yet."
+                },
+                {
+                    "Question": "Do you have any preliminary data?",
+                    "Answer": "We have proposed the mechanism by which cells interact in tumors by looking at multiple data points and have computational models to back our hypothesis."
+                },
+                {
+                    "Question": "Do you have any collaborators?",
+                    "Answer": "Yes. We are collaborating with large group researchers from CureAll pharmaceuticals."
+                },
+                {
+                    "Question": "Is this research funded?",
+                    "Answer": "Yes, this research is funded by research budget from CureAll pharmaceuticals."
+                },
+                {
+                    "Question": "What is the timeline for this research?",
+                    "Answer": "We have a defined timeline for two years to come up with concrete understanding of cell-cell interactions in tumors before moving on to drug development."
+                },
+                {
+                    "Question": "What are the next steps for this research?",
+                    "Answer": "The next step for this research is to validate our hypothesis by developing drugs designing molecules that inhibit these interactions and prove their efficacy."
+                },
+                {
+                    "Question": "What are your long-term goals for this research?",
+                    "Answer": "Our long-term goal is to successfully treat cancer causing tumors and shrink them to small sizes that can be effectively treated using current medications and therapies."
+                }
+            ],
+            "Output": "Cell-cell interactions play a crucial role in tissue formation, homeostasis, regeneration processes, and immune response. In tumors, these interactions are of particular importance as they can determine the growth, progression, and metastatic potential of the tumor. Although much progress has been made in understanding the role of cell-cell interactions in cancer, the mechanisms by which these interactions take place are not fully understood. Our research focuses on elucidating the mechanisms of cell-cell interactions in tumors.\n\nWe are currently using cells grown in monolayer from an in vitro assay for our research. Our findings shed light on the mechanism used by cells to interact in tumor environment. This can be used to develop specific drugs to disturb the interactions and thereby gradually weaken the tumor.\n\nWe want to use our current research and develop drugs to inhibit the cell-cell interactions in induced tumors in laboratory animals. This field itself is very nascent and our research is the starting point to future work. We do not have any published work in this domain yet. However, we have proposed the mechanism by which cells interact in tumors by looking at multiple data points and have computational models to back our hypothesis.\n\nWe are collaborating with large group researchers from CureAll pharmaceuticals. This research is funded by research budget from CureAll pharmaceuticals. We have a defined timeline for two years to come up with a concrete understanding of cell-cell interactions in tumors before moving on to drug development.\n\nThe next step for this research is to validate our hypothesis by developing drugs designing molecules that inhibit these interactions and prove their efficacy. Our long-term goal is to successfully treat cancer causing tumors and shrink them to small sizes that can be effectively treated using current medications and therapies."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/06xmG7e9jPWEIDCFK2RGlSG9?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1-DfGVNmsM28vVPSO4MlXvdcPtjpdIAC_?usp=sharing"
+}

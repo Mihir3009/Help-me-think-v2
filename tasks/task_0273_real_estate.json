@@ -1,0 +1,152 @@
+{
+    "Contributor": "shethwalayashdinesh",
+    "Domain": "Real Estate",
+    "Task": "Real estate agent evaluating a property",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert real estate agent. I will ask some questions to collect information and then I will use the information for property evaluation.",
+        "task_specific_prompt": "Tell me the market price for this building based on the question and answer above. justify your evaluation."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the property's address?",
+                    "Answer": "Its 525 Olive St, San Diego, CA 92103."
+                },
+                {
+                    "Question": "When was the property built?",
+                    "Answer": "The property was built in 2010."
+                },
+                {
+                    "Question": "What is the property's current condition?",
+                    "Answer": "The property is recently renovated and it is in great condition."
+                },
+                {
+                    "Question": "What is the square footage of the property?",
+                    "Answer": "The square footage of the property is 300000 square feet."
+                },
+                {
+                    "Question": "What is the property's lot size?",
+                    "Answer": "The property's lot size is 500000 square feet."
+                },
+                {
+                    "Question": "How many stories does the property have?",
+                    "Answer": "The property has 20 stories."
+                },
+                {
+                    "Question": "What is the property's zoning?",
+                    "Answer": "The property's zoning is Commercial."
+                },
+                {
+                    "Question": "What are the property's dimensions?",
+                    "Answer": "The property's dimensions are 400 feet x 750 feet."
+                },
+                {
+                    "Question": "What is the property's current use?",
+                    "Answer": "The property is currently being used as a hotel."
+                },
+                {
+                    "Question": "What is the property's potential use?",
+                    "Answer": "The property has the potential to be used as a hotel or it can be a multi-storeyed office building."
+                }
+            ],
+            "Output": "The market price for this building would be $30 million. This is because the property is a hotel which is a commercial property and it is in a great condition. The property is also big, which makes it a good investment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the property's address?",
+                    "Answer": "It's 212 Stuart St, Boston, MA 02116."
+                },
+                {
+                    "Question": "When was the property built?",
+                    "Answer": "The property was built in 2000."
+                },
+                {
+                    "Question": "What is the property's current condition?",
+                    "Answer": "The property is in great condition."
+                },
+                {
+                    "Question": "What is the square footage of the property?",
+                    "Answer": "The square footage of the property is 150,000 square feet."
+                },
+                {
+                    "Question": "What is the property's lot size?",
+                    "Answer": "The property's lot size is 180,000 square feet."
+                },
+                {
+                    "Question": "How many stories does the property have?",
+                    "Answer": "The property has 19 stories."
+                },
+                {
+                    "Question": "What is the property's zoning?",
+                    "Answer": "The property's zoning is Commercial and residential both."
+                },
+                {
+                    "Question": "What are the property's dimensions?",
+                    "Answer": "The property's dimensions are 1000 feet x 1000 feet."
+                },
+                {
+                    "Question": "What is the property's current use?",
+                    "Answer": "The property is currently being used as a retail on the first floor and residential on the upper floors."
+                },
+                {
+                    "Question": "What is the property's potential use?",
+                    "Answer": "The property has the potential to be used as a mixed-use building for commercial as well as residential. Also, it can be used for a huge office building."
+                }
+            ],
+            "Output": "The market price for this building should be around $8,000,000. The property is in great condition and is located in a great area. The square footage is also very large, which makes it a very desirable property. The potential use for the property is also very valuable, as it could be used for a number of different purposes."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the property's address?",
+                    "Answer": "It's 1920 Spade Fish Blvd, Trinity, FL 34655"
+                },
+                {
+                    "Question": "When was the property built?",
+                    "Answer": "The property was built in 2022."
+                },
+                {
+                    "Question": "What is the property's current condition?",
+                    "Answer": "The property is newly built."
+                },
+                {
+                    "Question": "What is the square footage of the property?",
+                    "Answer": "The square footage of the property is 3000 square feet."
+                },
+                {
+                    "Question": "What is the property's lot size?",
+                    "Answer": "The property's lot size is 3900 square feet."
+                },
+                {
+                    "Question": "How many stories does the property have?",
+                    "Answer": "The property has 2 stories."
+                },
+                {
+                    "Question": "What is the property's zoning?",
+                    "Answer": "The property's zoning is residential."
+                },
+                {
+                    "Question": "What are the property's dimensions?",
+                    "Answer": "The property's dimensions are 300 feet x 700 feet."
+                },
+                {
+                    "Question": "What is the property's current use?",
+                    "Answer": "The property is currently being used as a rental property."
+                },
+                {
+                    "Question": "What is the property's potential use?",
+                    "Answer": "The property has the potential to be used as a residential building, multi-family dwelling, or rental property."
+                }
+            ],
+            "Output": "The estimated market value for this property is $2,000,000. This property is valuable because it is newly built, has a large square footage, and is located in a residential area."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/LGb0G848VLJMGN9q4uizmXrB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GrWQd8Br6sgyHGbx4VTT2Eeb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1B0MkUjxFrwBFLqQct6QoUtZ?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZaEkaLKDuyKQPVwWURmi_DsUZ50VRxth?usp=sharing"
+}

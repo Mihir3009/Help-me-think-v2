@@ -1,0 +1,152 @@
+{
+    "Contributor": "shethwalayashdinesh",
+    "Domain": "Real Estate",
+    "Task": "Real estate agent predicting future price",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert real estate agent. I will ask some questions to collect information and then I will use the information for future price predictions.",
+        "task_specific_prompt": "Tell me the value of my house after 5 years from today based on the question and answer above. specify reasons for that value in detail."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the square footage of your home?",
+                    "Answer": "The square footage of my home is 2,500 square feet."
+                },
+                {
+                    "Question": "What is the asking price of your home?",
+                    "Answer": "The asking price of my home is $135,000."
+                },
+                {
+                    "Question": "What is the market value of your home?",
+                    "Answer": "The market value of my home is $123,000."
+                },
+                {
+                    "Question": "What are the dimensions of your home?",
+                    "Answer": "The dimensions of my home are 45 feet by 54 feet."
+                },
+                {
+                    "Question": "What is the lot size of your property?",
+                    "Answer": "The lot size of my property is 1.1 acres."
+                },
+                {
+                    "Question": "What is the age of your home?",
+                    "Answer": "My home was built in 2005."
+                },
+                {
+                    "Question": "What condition is your home in?",
+                    "Answer": "My home is renovated 8 years ago and it's in excellent condition."
+                },
+                {
+                    "Question": "What is the zip code of your home?",
+                    "Answer": "The zip code of my home is 33311."
+                },
+                {
+                    "Question": "What city is your home located in?",
+                    "Answer": "My home is located in Fort Lauderdale, Florida."
+                },
+                {
+                    "Question": "What county is your home located in?",
+                    "Answer": "My home is located in Broward County, Florida."
+                }
+            ],
+            "Output": "The value of your home will be $200,000 after 5 years. The reason for this is that the square footage of your home will have increased in value, as well as the age of your home and the condition it is in. The zip code and location of your home will also play a role in the value of your home after 5 years."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the square footage of your home?",
+                    "Answer": "The square footage of my home is 10000 square feet."
+                },
+                {
+                    "Question": "What is the asking price of your home?",
+                    "Answer": "The asking price of my home is $4,321,000."
+                },
+                {
+                    "Question": "What is the market value of your home?",
+                    "Answer": "The market value of my home is $2,500,000."
+                },
+                {
+                    "Question": "What are the dimensions of your home?",
+                    "Answer": "The dimensions of my home are 100 feet by 100 feet."
+                },
+                {
+                    "Question": "What is the lot size of your property?",
+                    "Answer": "The lot size of my property is 6.3 acres."
+                },
+                {
+                    "Question": "What is the age of your home?",
+                    "Answer": "My home was built in 2015."
+                },
+                {
+                    "Question": "What condition is your home in?",
+                    "Answer": "My home is never renovated and it's in average condition."
+                },
+                {
+                    "Question": "What is the zip code of your home?",
+                    "Answer": "The zip code of my home is 95125."
+                },
+                {
+                    "Question": "What city is your home located in?",
+                    "Answer": "My home is located in San Jose, California."
+                },
+                {
+                    "Question": "What county is your home located in?",
+                    "Answer": "My home is located in Santa Clara County, California."
+                }
+            ],
+            "Output": "The value of your home will be $2,835,000 after 5 years. The reasons for this value are as follows: 1) The square footage of your home is 10000 square feet. The average price per square foot in San Jose, California is $283. This means that your home should be worth $2,830,000. 2) The asking price of your home is $4,321,000. This is significantly higher than the market value of your home, which is $2,500,000. 3) The market value of your home is $2,500,000. This is the value that your home is currently worth on the market. 4) The dimensions of your home are 100 feet by 100 feet. This is a standard size for a home in San Jose, California. 5) The lot size of your property is 6.3 acres. This is a standard size for a lot in San Jose, California. 6) The age of your home is 2015. This is a relatively new home, which means that it will likely appreciate in value over time. 7) The condition of your home is average. This means that it is in good condition"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the square footage of your home?",
+                    "Answer": "The square footage of my home is 1200 square feet."
+                },
+                {
+                    "Question": "What is the asking price of your home?",
+                    "Answer": "The asking price of my home is $98,000."
+                },
+                {
+                    "Question": "What is the market value of your home?",
+                    "Answer": "The market value of my home is $120000."
+                },
+                {
+                    "Question": "What are the dimensions of your home?",
+                    "Answer": "The dimensions of my home are 60 feet by 20 feet."
+                },
+                {
+                    "Question": "What is the lot size of your property?",
+                    "Answer": "The lot size of my property is 0.5 acres."
+                },
+                {
+                    "Question": "What is the age of your home?",
+                    "Answer": "My home was built in 2020."
+                },
+                {
+                    "Question": "What condition is your home in?",
+                    "Answer": "My home is in average condition."
+                },
+                {
+                    "Question": "What is the zip code of your home?",
+                    "Answer": "The zip code of my home is 02112."
+                },
+                {
+                    "Question": "What city is your home located in?",
+                    "Answer": "My home is located in Boston, Massachusetts."
+                },
+                {
+                    "Question": "What county is your home located in?",
+                    "Answer": "My home is located in Suffolk County, MA."
+                }
+            ],
+            "Output": "The value of your home will be $130,000 after 5 years from today. The reasons for that value are as follows: 1. The square footage of your home is 1200 square feet. The average price per square foot in the Boston area is $108, so your home is currently worth $129,600. 2. The asking price of your home is $98,000. This is below the market value of your home, so it is likely that your home will appreciate in value over time. 3. The market value of your home is $120000. This is the estimated value of your home based on recent sales of similar homes in your area. 4. The dimensions of your home are 60 feet by 20 feet. This is a standard size for a home in the Boston area. 5. The lot size of your property is 0.5 acres. This is a standard size for a lot in the Boston area. 6. The age of your home is 2020. This is a new home, so it is likely to appreciate in value over time. 7. The condition of your home is average. This is a typical condition for a home in the Boston area."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/4peTuH2YZcpdk38jRNmCK1CT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Sf6rAnxRzZInJCQip7EsFtq6?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/oADcl4Mu9QNvjJKNuOXtQeHs?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1ZaEkaLKDuyKQPVwWURmi_DsUZ50VRxth?usp=sharing"
+}

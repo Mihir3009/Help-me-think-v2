@@ -1,0 +1,172 @@
+{
+    "Contributor": "zhangjiayue",
+    "Domain": "Commentary",
+    "Task": "No.7 Soccer commentary",
+    "Prompt": {
+        "pre_question_prompt": "I am a soccer commentator. I will list all the major events in a soccer game and then I will use the information to create a soccer game commentary report.",
+        "task_specific_prompt": "Write a comprehensive soccer game commentary report for the game."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "The game was between which two teams? ",
+                    "Answer": "The game was between England and Japan "
+                },
+                {
+                    "Question": "What is game start time? ",
+                    "Answer": "10am on May 5th "
+                },
+                {
+                    "Question": "Which team made the first goal? ",
+                    "Answer": "England scored the first goal of the game in the 10th minute. "
+                },
+                {
+                    "Question": "Who made the first goal? ",
+                    "Answer": "striker Harry Kane made the first goal of the game for England. "
+                },
+                {
+                    "Question": "Which team made the second goal? ",
+                    "Answer": "Japan scored the second goal of the game in the 20th minute. "
+                },
+                {
+                    "Question": "Who made the second goal? ",
+                    "Answer": "midfielder Keisuke Honda made the second goal of the game for Japan. "
+                },
+                {
+                    "Question": "What was the final score? ",
+                    "Answer": "The final score was 2-1, with Japan winning the game. "
+                },
+                {
+                    "Question": "Who are the coaches for both teams? ",
+                    "Answer": "The England coach is Gareth Southgate and the Japan coach is Akira Nishino. "
+                },
+                {
+                    "Question": "Did anyone get a yellow card? ",
+                    "Answer": "Yes, England midfielder Dele Alli was given a yellow card in the 40th minute. "
+                },
+                {
+                    "Question": "Did anyone get a red card? ",
+                    "Answer": "No, there were no red cards in the game. "
+                },
+                {
+                    "Question": "What was the weather like during the game? ",
+                    "Answer": "The weather was sunny and clear during the game. "
+                },
+                {
+                    "Question": "Who made the last goal? ",
+                    "Answer": "Japan midfielder Takumi Minamino made the last goal of the game in the 70th minute."
+                }
+            ],
+            "Output": "England and Japan faced off in an international friendly match today, with England coming out on top 2-1.\r\n \r\nThe game started at a fast pace, with England striker Harry Kane finding the back of the net in the 10th minute to give the home team an early lead. However, Japan midfielder Keisuke Honda responded quickly, scoring in the 20th minute to level the score at 1-1.\r\n \r\nBoth teams had opportunities to score in the second half, but it was Japan who finally found the breakthrough, with Takumi Minamino scoring in the 70th minute to give Japan a 2-1 lead. England pushed for an equalizer in the dying minutes of the game, but Japan held on to win the match.\r\n \r\nOverall, it was an entertaining game between two evenly matched teams. England will be disappointed to lose, but will take heart from their performance. Japan will be delighted to have beaten England on their home soil and will be looking to build on this result in future matches."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "The game was between which two teams? ",
+                    "Answer": "The game was between German and Italy "
+                },
+                {
+                    "Question": "What is game start time? ",
+                    "Answer": "4pm on March 15th "
+                },
+                {
+                    "Question": "Which team made the first goal? ",
+                    "Answer": "Italy made the first goal of the game in the 15th minute. This put them ahead of Germany 1-0. "
+                },
+                {
+                    "Question": "Who made the first goal? ",
+                    "Answer": "Graziano Pelle made the first goal for Italy. "
+                },
+                {
+                    "Question": "Which team made the second goal? ",
+                    "Answer": "Germany made the second goal of the game in the 36th minute. This put them level with Italy at 1-1. "
+                },
+                {
+                    "Question": "Who made the second goal? ",
+                    "Answer": "Mario Gotze made the second goal for Germany. "
+                },
+                {
+                    "Question": "What was the final score of the game? ",
+                    "Answer": "Germany won the game 2-1. "
+                },
+                {
+                    "Question": "Who are the coaches for both teams? ",
+                    "Answer": "The coach for Germany is Joachim Low and the coach for Italy is Antonio Conte. "
+                },
+                {
+                    "Question": "Did anyone get a yellow card? ",
+                    "Answer": "Sami Khedira of Germany got a yellow card in the 66th minute. "
+                },
+                {
+                    "Question": "Did anyone get a red card? ",
+                    "Answer": "Yes, Thiago Motta of Italy got a red card in the 69th minute. "
+                },
+                {
+                    "Question": "What was the weather like during the game? ",
+                    "Answer": "The weather was rainy. "
+                },
+                {
+                    "Question": "Who made the last goal? ",
+                    "Answer": "Mesut Ozil of Germany made the last goal in the 89th minute. This put Germany ahead 2-1 and ultimately won them the game."
+                }
+            ],
+            "Output": "The game between German and Italy was a close one, with both teams scoring one goal each in the first half. However, it was Germany who took the lead in the second half, with Mesut Ozil scoring in the 89th minute to give them a 2-1 victory.\r\n \r\nThe weather during the game was rainy, which made conditions difficult for both teams. However, they both played well and put on a good show for the fans.\r\n \r\nSami Khedira of Germany was shown a yellow card in the 66th minute, and Thiago Motta of Italy was shown a red card in the 69th minute after receiving a second yellow.\r\n \r\nThis was a great game between two of the best teams in the world. Germany showed their class in the second half, and they deserved to win the game."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "The game was between which two teams? ",
+                    "Answer": "Sunny Highschool and Valley Highschool "
+                },
+                {
+                    "Question": "What is game start time? ",
+                    "Answer": "1pm on Apri 2nd "
+                },
+                {
+                    "Question": "Which team made the first goal? ",
+                    "Answer": "Sunny Highschool "
+                },
+                {
+                    "Question": "Who made the first goal? ",
+                    "Answer": "Jose, number 7 at 00:10 "
+                },
+                {
+                    "Question": "Which team made the second goal? ",
+                    "Answer": "Valley Highschool "
+                },
+                {
+                    "Question": "Who made the second goal? ",
+                    "Answer": "John, number 11 at 01:15 "
+                },
+                {
+                    "Question": "What was the final score of the game? ",
+                    "Answer": "Valley Highschool won them game 3:2 "
+                },
+                {
+                    "Question": "Who are the coaches for both teams? ",
+                    "Answer": "The coach for Sunny Highschool is Mr. Robinson and the coach for Valley Highschool is Ms. Nguyen. "
+                },
+                {
+                    "Question": "Did anyone get a yellow card? ",
+                    "Answer": "Yes, Robert from Sunny Highschool got a yellow card at 11:05 "
+                },
+                {
+                    "Question": "Did anyone get a red card? ",
+                    "Answer": "Yes, Joe from Valley Highschool got a red card at 59:00 "
+                },
+                {
+                    "Question": "What was the weather like during the game? ",
+                    "Answer": "The weather was sunny and hot. "
+                },
+                {
+                    "Question": "Who made the last goal? ",
+                    "Answer": "Tom, number 10 from Sunny Highschool at 79:00"
+                }
+            ],
+            "Output": "The game was between Sunny Highschool and Valley Highschool. The game started at 1pm on April 2nd. The first goal was made by Sunny Highschool. Jose, number 7, made the first goal at 00:10. The second goal was made by Valley Highschool at 01:15. John, number 11, made the second goal. The final score of the game was 3:2 in favor of Valley Highschool. The coaches for Sunny Highschool and Valley Highschool are Mr. Robinson and Ms. Nguyen, respectively. Robert from Sunny Highschool got a yellow card at 11:05 and Joe from Valley Highschool got a red card at 59:00. The weather was sunny and hot during the game. The last goal was made by Tom, number 10 from Sunny Highschool, at 79:00."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/YgbPuxYoLdE0YF5yr7FyU37G?model=text-davinci-002",
+    "screenshot_link": "https://docs.google.com/document/d/1u2pwZmZ3IPYbe4kjUAbKEhA0p1MSvBgCcNwXGu4wAa8/edit?usp=sharing"
+}

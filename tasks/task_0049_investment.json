@@ -1,0 +1,167 @@
+{
+    "Domain": "Investment",
+    "Task": "Advisor",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert investment advisor. I will ask some questions to collect information and then I will use the information to advise you on how to invest your savings." ,
+        "task_specific_prompt": "Write a report on how much money I should invest in which instruments based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question":"What is your current financial situation?" ,
+                    "Answer":"I am currently employed at a minimum wage job and have minimal savings."
+                },
+                {
+                    "Question": "What is your current investment portfolio?",
+                    "Answer":"I do not have an investment portfolio. I have $600 saved in my checking account."
+                },
+                {
+                    "Question": "What are your short-term and long-term financial goals?",
+                    "Answer":"My short-term financial goal is to save up for an X-box. My long-term financial goal is to be able to buy a car."
+                },
+                {
+                    "Question": "How much risk are you willing to take with your investments?",
+                    "Answer":"I am willing to take moderate risks with my investments."
+                },
+                {
+                    "Question": "What is your time frame for reaching your financial goals?",
+                    "Answer":"I would like to reach my short-term financial goal within the next year and my long-term financial goal within the next 5 years."
+                },
+                {
+                    "Question": "What type of investment products are you interested in?",
+                    "Answer":"I am interested in investing in simple instruments that I can understand"
+                },
+                {
+                    "Question": "What are your thoughts on saving versus investing?",
+                    "Answer":"I believe that saving is okay, but investing is necessary to make big purchases"
+                },
+                {
+                    "Question": "How much money do you have available to invest?",
+                    "Answer":"I have $600 available to invest right now. I will have $300 more, by next week to invest."
+                },
+                {
+                    "Question": "Would you like me to provide you with some investment options?",
+                    "Answer":"Yes, I would like to know what my investment options are."
+                },
+                {
+                    "Question": "Here are some investment options for you: 1. A savings account with a 0.9% annual interest rate 2. A Certificate of Deposit with a 1.5% annual interest rate 3. A money market account with a 1.8% annual interest rate 4. A mutual fund with a 5% annual return. Which of these investment options are you interested in?",
+                    "Answer":"A mutual fund sounds good."
+                },
+                {
+                    "Question": "Are you willing to invest your money in a mutual fund?",
+                    "Answer":"Yes, I am willing to invest in a mutual fund."
+                }
+            ],
+            "Output": "Assuming you have $600 to invest and would like to grow your investment over the next 5 years, you could consider investing in a mutual fund. A mutual fund is an investment that is managed by a team of professionals and typically invests in a variety of stocks, bonds, and other securities. The benefit of investing in a mutual fund is that you can gain exposure to a wide range of investments without having to purchase each one individually. The downside of investing in a mutual fund is that you will pay fees to the fund manager, which will eat into your investment returns. Assuming you are willing to take moderate risks with your investments, you could consider investing $600 in a mutual fund with an expected 5% annual return. This would give you the potential to earn $30 per year in investment returns, assuming the fund meets its return target. Over the course of 5 years, you would potentially have $780, after fees and expenses, assuming the fund meets its return target. Of course, there is no guarantee that the fund will meet its return target and you could earn more or less than this amount."
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How much money do you have to invest?" ,
+                    "Answer":"$2,000,000"
+                },
+                {
+                    "Question": "What are your investment goals?",
+                    "Answer":"To have a high return portfolio, such that I do not have to worry about monthly income."
+                },
+                {
+                    "Question": "What is your tolerance for risk?",
+                    "Answer":"I can handle a higher risk portfolio"
+                },
+                {
+                    "Question": "What is your investment time horizon?",
+                    "Answer":"I plan to invest for the long term, at least 10 years"
+                },
+                {
+                    "Question": "What is your annual income?",
+                    "Answer":"$1,000,000"
+                },
+                {
+                    "Question": "What is your current age?",
+                    "Answer":"35"
+                },
+                {
+                    "Question": "What is your expected retirement age?",
+                    "Answer":"65"
+                },
+                {
+                    "Question": "What is your current portfolio allocation?",
+                    "Answer":"I currently own some stocks in high market-cap blue chip companies."
+                },
+                {
+                    "Question": "Would you like me to provide you with an investment plan specific to your situation?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "Would you like me to provide you with more information on specific investments?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "Would you like me to provide you with a list of recommended investments?",
+                    "Answer":"Yes"
+                },
+                {
+                    "Question": "Would you like me to provide you with a risk analysis of your current portfolio?",
+                    "Answer":"Yes. I currently own some stocks in high market-cap blue chip companies like Amazon, Coca-Cola, and Berkshire Hathaway."
+                },
+                {
+                    "Question": "Would you like me to provide you with a list of alternative investments?",
+                    "Answer":"Yes"
+                }
+            ],
+            "Output": "Assuming you would like a portfolio that has the potential to give you a high return, we recommend the following portfolio allocation. Amazon (AMZN) - 20%. Coca Cola (KO) - 20%. Berkshire Hathaway (BRK.B) - 20%. Vanguard S&P 500 ETF (VOO) - 20%. iShares Russell 1000 Growth ETF (IWF) - 20%. With this portfolio, you are investing in some of the largest and most well-known companies in the world. Amazon, Coca Cola, and Berkshire Hathaway are all leaders in their respective industries. They have strong management teams, solid financials, and are well-positioned for growth. The Vanguard S&P 500 ETF gives you exposure to the 500 largest companies in the US, providing you with broad market exposure. The iShares Russell 1000 Growth ETF invests in companies with strong growth prospects. This portfolio is well-diversified and has the potential to generate strong returns."
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"What is your age?" ,
+                    "Answer":"My age is 26"
+                },
+                {
+                    "Question": "What is your current savings goal?",
+                    "Answer":"I would like to save for retirement"
+                },
+                {
+                    "Question": "What is your current salary?",
+                    "Answer":"I make $50,000 per year."
+                },
+                {
+                    "Question": "How much money do you have saved so far?",
+                    "Answer":"I have $10,000 saved so far."
+                },
+                {
+                    "Question": "How much money do you want to have saved?",
+                    "Answer":"I would like to have $1 million saved by the time I am 40 years old."
+                },
+                {
+                    "Question": "What is your expected retirement age?",
+                    "Answer":"I expect to retire at age 60."
+                },
+                {
+                    "Question": "What is your risk tolerance?",
+                    "Answer":"My risk tolerance is moderate. I am willing to take some risks in order to potentially earn a higher return, but I also want to protect my savings."
+                },
+                {
+                    "Question": "What is your investment experience?",
+                    "Answer":"I have some experience investing in stocks and mutual funds but I do not fully understand market trends."
+                },
+                {
+                    "Question": "How much time do you want to spend managing your investments?",
+                    "Answer":"I would like to spend less than an hour per week managing my investments."
+                },
+                {
+                    "Question": "What is your investment goal?",
+                    "Answer":"I want to grow my savings as much as possible while also protecting my principal investment."
+                },
+                {
+                    "Question": "What is the best way to invest my money?",
+                    "Answer":"The best way to invest your money will depend on your individual circumstances. However, some general tips include diversifying your investment portfolio, investing in a mix of stocks and bonds, and staying disciplined with your investment strategy."
+                }
+            ],
+            "Output": "Assuming you would like a report on how to invest your savings to reach your financial goal of having $1 million saved by the time you are 40 years old: One option to reach your goal is to invest in a mix of stocks and bonds. For example, you could invest 60% of your savings in stocks and 40% in bonds. This mix would give you the potential to earn a higher return on your investment while also providing some protection against market volatility. Another option is to invest in a diversified portfolio of stocks and mutual funds. This approach would provide you with a higher degree of diversification, which could help to protect your savings. If you are willing to take on more risk, you could invest a larger portion of your savings in stocks. For example, you could invest 80% of your savings in stocks and 20% in bonds. This mix would give you the potential to earn a higher return on your investment, but it would also be more volatile.It is important to remember that no investment strategy is without risk, and there is no guarantee that you will reach your goal. However, if you stay disciplined with your investment strategy and remain committed to your goal, you should be on track to reach your financial goals."
+        }
+    ],
+    "Preset_link": ["https://beta.openai.com/playground/p/WIeowlQXernkH4XIEOMdVgUF?model=text-davinci-002","https://beta.openai.com/playground/p/txMzledU7BZ0llnXag0qVgya?model=text-davinci-002","https://beta.openai.com/playground/p/V86FZZkIjeMTwNXmAjdrg0bV?model=text-davinci-002"],
+    "screenshot_link": ["https://drive.google.com/drive/folders/1lDKcFS5DqPbjKj-MLlelBUlwuf9UK5kK?usp=sharing"]
+}
