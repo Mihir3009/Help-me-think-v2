@@ -339,13 +339,6 @@ File Name | Domain | Task
 `task_0351_mathematics.json` | Mathematics | Generate a study plan
 `task_0352_mathematics.json` | Mathematics | Suggest a profession based on your mathematical knowledge
 `task_0353_mathematics.json` | Mathematics | Examine your geometric skills
-`task_0354_basketball_-_essay_aid..json` | Basketball - Essay Aid. | Writing essay for the user that is suited to them by using the answers they gave to some questions asked before the essay was written.
-`task_0355_basketball.json` | Basketball | Generate a Poem for the client on the topic of basketball
-`task_0356_basketball_quiz_generation.json` | Basketball Quiz Generation | To see how well people who call themselves basketball enthusiasts fare in their favorite sport related quiz.
-`task_0357_basketball_team_cheerleading_song_generation.json` | Basketball team cheerleading song generation | Cheerleading song generation for basketball team for a school
-`task_0358_marketing_-_ai_powered_interactive_marking_aid.json` | Marketing - AI Powered Interactive Marking Aid | Coming up with marketing strategies for businesses that are tailored to their needs.
-`task_0359_marketing.json` | Marketing | Generate a catchphrase for the client based on their answers to certain questions.
-`task_0360_marketing.json` | Marketing | Generate a marketing quiz for testing the skills of people in the field of marketing.
 `task_0361_movies.json` | Movies | Suggest best suited cast for the movie based on plot
 `task_0362_movies.json` | Movies | Plan a budget and schedule for a movie
 `task_0363_manufacturing.json` | Manufacturing | Suggest best infrastructure for the manufacturing plant
