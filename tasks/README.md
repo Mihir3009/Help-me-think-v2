@@ -378,14 +378,6 @@ File Name | Domain | Task
 `task_0405_programming.json` | Programming | Recommend deep learning model 
 `task_0406_programming.json` | Programming | Write program by python
 `task_0407_programming.json` | Programming | Recommend a language
-`task_0408_nutrition.json` | Nutrition | Weekly diet and Excersie plan based on person's current routine
-`task_0409_nutrition.json` | Nutrition | Researcher doing his research in Nutrition implications on Humans
-`task_0410_nutrition.json` | Nutrition | WHO meeting on nutrition and hunger in different countries.
-`task_0411_nutrition.json` | Nutrition | Humans on Mars
-`task_0412_mechanical_engineering.json` | Mechanical Engineering | Building the Fastest Car: Tarzen
-`task_0413_mechanical_engineering.json` | Mechanical Engineering | Build a Quadcopter
-`task_0414_mechanical_engineering.json` | Mechanical Engineering | Building an army robot.
-`task_0415_mechanical_engineering.json` | Mechanical Engineering | Building an commercial jet plane
 `task_0416_car_service.json` | Car service | Find the best fit car service for you
 `task_0417_car_service.json` | Car service | Which upgrades should I buy for my car
 `task_0418_car_service.json` | Car service | Write an advertisement for a new car service company.
