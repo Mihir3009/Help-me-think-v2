@@ -339,14 +339,6 @@ File Name | Domain | Task
 `task_0351_mathematics.json` | Mathematics | Generate a study plan
 `task_0352_mathematics.json` | Mathematics | Suggest a profession based on your mathematical knowledge
 `task_0353_mathematics.json` | Mathematics | Examine your geometric skills
-`task_0361_movies.json` | Movies | Suggest best suited cast for the movie based on plot
-`task_0362_movies.json` | Movies | Plan a budget and schedule for a movie
-`task_0363_manufacturing.json` | Manufacturing | Suggest best infrastructure for the manufacturing plant
-`task_0364_movies.json` | Movies | Suggest a promotional strategy for a movie
-`task_0365_movies.json` | Movies | Recommend movies based on user preferences
-`task_0366_manufacturing.json` | Manufacturing | Creaty safety rules and policies for manufacturing plant
-`task_0367_manufacturing.json` | Manufacturing | Possible violations the factory is liable for
-`task_0368_manufacturing.json` | Manufacturing | Strategies to beat competition 
 `task_0369_narrative.json` | narrative | writing an autobiography
 `task_0370_narrative.json` | Narrative | writing a narrative poem
 `task_0371_narrative.json` | Narrative | write a fictional story
