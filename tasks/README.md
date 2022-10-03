@@ -486,10 +486,6 @@ File Name | Domain | Task
 `task_0529_women.json` | Women | Mother's parenting advisor
 `task_0530_women.json` | Women | Female Role model suggester
 `task_0531_women.json` | Women | Saying it like a mother would
-`task_0532_water_resources.json` | water_resources | irrigation_design
-`task_0533_water_resources.json` | water_resources | water_management_plan
-`task_0534_water_resources.json` | water_resources | dam_design
-`task_0535_water_resources.json` | water_resources | desalination_plant
 `task_0536_fire_science.json` | Fire Science | Report on combustible maretials
 `task_0537_fire_science.json` | Fire Science | Fire hazard statistics report
 `task_0538_visual_communication_.json` | Visual communication  | Interpreting the meaning of an art work
@@ -589,11 +585,3 @@ File Name | Domain | Task
 `task_0632_higher_education.json` | Higher Education | Suggesting Degree Program
 `task_0633_higher_education.json` | Higher Education | Suggesting Education Loan
 `task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
-`task_0635_water_resources.json` | water_resources | dam_design
-`task_0636_water_resources.json` | water_resources | desalination_plant
-`task_0637_water_resources.json` | water_resources | irrigation_design
-`task_0638_water_resources.json` | water_resources | water_management_plan
-`task_0639_folklore.json` | folklore | creating_new_culture
-`task_0640_folklore.json` | folklore | creating_new_religion
-`task_0641_folklore.json` | folklore | dancing_routine
-`task_0642_folklore.json` | folklore | a_legend
