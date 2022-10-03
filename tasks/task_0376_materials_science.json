@@ -1,224 +1,152 @@
 {
     "Contributor": "kulkarnimohith",
     "Domain": "Materials Science",
-    "Task": "Determine the genuineness of the product",
+    "Task": "Suggest material improvement",
     "Prompt": {
-        "pre_question_prompt": "I am an expert materials scientist, I can tell if your product is genuine. I will ask some simple questions to gather information and identify if your product is genuine based on the information gathered.",
-        "task_specific_prompt": "Determine if my product is genuine or not using the questions and answers above."
+        "pre_question_prompt": "I am an expert material scientist, I will ask some simple questions and gather information. Then I will suggest an improvement to your material based on the information gathered.",
+        "task_specific_prompt": "Suggest a material improvement based on the above questions and answers."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "what is the product?",
-                    "Answer": "a table"
+                    "Question": "What is the material?",
+                    "Answer": "The material is iron."
                 },
                 {
-                    "Question": "What type of material is your product made of?",
-                    "Answer": "wood"
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "The purpose of the material is to make tools and weapons."
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "3 feet by 2 feet by 2.5 feet"
+                    "Question": "What are the properties of the material?",
+                    "Answer": "The properties of the material are that it is malleable and ductile."
                 },
                 {
-                    "Question": "What is the weight of your product?",
-                    "Answer": "26 pounds"
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is likely to be deformed over time.\nAsk more questions."
                 },
                 {
-                    "Question": "What is the value of your product?",
-                    "Answer": "$50"
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "buildings, infrastructure, automobiles etc."
                 },
                 {
-                    "Question": "Where was your product made?",
-                    "Answer": "China"
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "The desired properties of the material are that it is strong, durable, and resistant to corrosion."
                 },
                 {
-                    "Question": "When was your product made?",
-                    "Answer": "2015"
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is not strong enough and it corrodes easily."
                 },
                 {
-                    "Question": "Has your product been used before?",
-                    "Answer": "No"
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it more dense, more light weight."
                 },
                 {
-                    "Question": "Is your product covered by a warranty?",
-                    "Answer": "Yes"
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become brittle and break more easily."
                 },
                 {
-                    "Question": "What is the name of the manufacturer of your product?",
-                    "Answer": "Ameriwood"
-                },
-                {
-                    "Question": "What is the model number of your product?",
-                    "Answer": "9178096"
-                },
-                {
-                    "Question": "What is the serial number of your product?",
-                    "Answer": "151119151119"
-                },
-                {
-                    "Question": "What is the color of your product?",
-                    "Answer": "White"
-                },
-                {
-                    "Question": "What is the shape of your product?",
-                    "Answer": "Rectangular"
-                },
-                {
-                    "Question": "What is the pattern of your product?",
-                    "Answer": "Solid"
-                },
-                {
-                    "Question": "What is the texture of your product?",
-                    "Answer": "Smooth"
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that the material will be stronger and more durable."
                 }
             ],
-            "Output": "The product is genuine."
+            "Output": "One possible improvement to iron would be to add carbon to make steel. Steel is stronger and more durable than iron, and is less likely to corrode.\n"
         },
         {
             "QApair": [
                 {
-                    "Question": "what is the product?",
-                    "Answer": "a table"
+                    "Question": "What is the material?",
+                    "Answer": "The material is indium."
                 },
                 {
-                    "Question": "What type of material is your product made of?",
-                    "Answer": "engineered wood"
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "used in making touch screens."
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "5 feet by 4 feet by 3 feet"
+                    "Question": "What are the properties of the material?",
+                    "Answer": "soft, ductile, malleable, lustrous metallic metal."
                 },
                 {
-                    "Question": "What is the weight of your product?",
-                    "Answer": "35 pounds"
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is very rare.\nAsk more questions."
                 },
                 {
-                    "Question": "What is the value of your product?",
-                    "Answer": "$599"
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "all kinds of conditions."
                 },
                 {
-                    "Question": "Where was your product made?",
-                    "Answer": "China"
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "High thermal conductivity.\nHigh electrical conductivity.\nHigh elasticity and flexibility.\nHigh hardness.\nHigh resistance.\nTransparent material."
                 },
                 {
-                    "Question": "When was your product made?",
-                    "Answer": "2022"
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is rare to find."
                 },
                 {
-                    "Question": "Has your product been used before?",
-                    "Answer": "No"
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it harder, more resistant."
                 },
                 {
-                    "Question": "Is your product covered by a warranty?",
-                    "Answer": "No"
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become more conductive."
                 },
                 {
-                    "Question": "What is the name of the manufacturer of your product?",
-                    "Answer": "Woodywood"
-                },
-                {
-                    "Question": "What is the model number of your product?",
-                    "Answer": "no model number"
-                },
-                {
-                    "Question": "What is the serial number of your product?",
-                    "Answer": "no serial number"
-                },
-                {
-                    "Question": "What is the color of your product?",
-                    "Answer": "White"
-                },
-                {
-                    "Question": "What is the shape of your product?",
-                    "Answer": "Rectangular"
-                },
-                {
-                    "Question": "What is the pattern of your product?",
-                    "Answer": "Solid"
-                },
-                {
-                    "Question": "What is the texture of your product?",
-                    "Answer": "Rough"
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that the material will be stronger and more durable."
                 }
             ],
-            "Output": "Your product is not genuine."
+            "Output": "One possible material improvement is to add a small amount of boron to the indium. This will improve the hardness and resistance of the material without making it more conductive."
         },
         {
             "QApair": [
                 {
-                    "Question": "what is the product?",
-                    "Answer": "a battery"
+                    "Question": "What is the material?",
+                    "Answer": "The material is silicon."
                 },
                 {
-                    "Question": "What type of material is your product made of?",
-                    "Answer": "Nickel metal hydride"
+                    "Question": "What is the purpose of the material?",
+                    "Answer": "The purpose of the material is to make solar panels."
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "14 mm length and 10mm diameter"
+                    "Question": "What are the properties of the material?",
+                    "Answer": "hard, dark gray solid with a metallic lustre and with a octahedral crystalline structure"
                 },
                 {
-                    "Question": "What is the weight of your product?",
-                    "Answer": "3 grams"
+                    "Question": "What are the limitations of the material?",
+                    "Answer": "The limitations of the material are that it is not so efficient in converting solar energy to electricty.\nAsk more questions."
                 },
                 {
-                    "Question": "What is the value of your product?",
-                    "Answer": "$10"
+                    "Question": "What are the conditions that the material will be used in?",
+                    "Answer": "in the sun to convert solar energy to electricity."
                 },
                 {
-                    "Question": "Where was your product made?",
-                    "Answer": "Taiwan"
+                    "Question": "What are the desired properties of the material?",
+                    "Answer": "The desired properties of the material are that it is affordable, and more efficient."
                 },
                 {
-                    "Question": "When was your product made?",
-                    "Answer": "2011"
+                    "Question": "What are the existing problems with the material?",
+                    "Answer": "The existing problems with the material are that it is not efficient enough it wastes lot of energy."
                 },
                 {
-                    "Question": "Has your product been used before?",
-                    "Answer": "Not sure."
+                    "Question": "What are the possible improvements that can be made to the material?",
+                    "Answer": "Possible improvements that can be made to the material are to make it convert more energy into electricity."
                 },
                 {
-                    "Question": "Is your product covered by a warranty?",
-                    "Answer": "No"
+                    "Question": "What are the potential risks associated with making these changes?",
+                    "Answer": "The potential risks associated with making these changes are that the material may become expensive."
                 },
                 {
-                    "Question": "What is the name of the manufacturer of your product?",
-                    "Answer": "Napasonic"
-                },
-                {
-                    "Question": "What is the model number of your product?",
-                    "Answer": "no model number"
-                },
-                {
-                    "Question": "What is the serial number of your product?",
-                    "Answer": "123456"
-                },
-                {
-                    "Question": "What is the color of your product?",
-                    "Answer": "black"
-                },
-                {
-                    "Question": "What is the shape of your product?",
-                    "Answer": "Cylindrical"
-                },
-                {
-                    "Question": "What is the pattern of your product?",
-                    "Answer": "Solid"
-                },
-                {
-                    "Question": "What is the texture of your product?",
-                    "Answer": "Smooth"
+                    "Question": "What are the benefits of making these changes?",
+                    "Answer": "The benefits of making these changes are that we will have efficient electricity from the sun's energy."
                 }
             ],
-            "Output": "The product is most likely not genuine."
+            "Output": "One possible material that could be used is perovskite."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/Jn4PVmSJdnvoozmX1qmwSSNX?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/7pqDizjZBH74UuXxSas5u86M?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/NmiYoMWpsFdqUQ9uC0trex3D?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/yxCPaqBO5xw6rm2gIK2t4jvo?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ibI56gbXuMgUYIQqI4e3DKWn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/CEpaTtUtiF41axyHSTKqCrD2?model=text-davinci-002"
     ],
-    "Screenshot_link": "https://drive.google.com/drive/folders/1A8EC0jNczBO95X4O0yacYf_KpJcGXs6s?usp=sharing"
+    "Screenshot_link": "https://drive.google.com/drive/folders/197BYOkm18P8QY3uXPCcxNJda1tQoD2mC?usp=sharing"
 }

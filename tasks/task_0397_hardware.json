@@ -1,148 +1,148 @@
 {
     "Contributor": "leealex",
     "Domain": "Hardware",
-    "Task": "Generate Custom Computer Parts",
+    "Task": "Mechanical Keyboard Recommendation",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in generating a parts list for a custom build PC. I will ask some questions to collect information and then I will use the information to generate a parts list.",
-        "task_specific_prompt": "Write a parts list for the custom PC build using the questions and answers above."
+        "pre_question_prompt": "I am an expert in recommending custom mechanical keyboards. I will ask some questions to collect information and then I will use the information to recommend a custom mechanical keyboard.",
+        "task_specific_prompt": "Write a mechanical keyboard recommendation using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is your budget for this custom PC build?",
-                    "Answer": "$1000"
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "60%"
                 },
                 {
-                    "Question": "What is the purpose of this custom PC build?",
-                    "Answer": "For gaming and general use."
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Tactile switches."
                 },
                 {
-                    "Question": "What are the performance requirements?",
-                    "Answer": "To be able to play Minecraft, League of Legends, Overwatch, Fortnite, etc."
+                    "Question": "What is your budget?",
+                    "Answer": "$100"
                 },
                 {
-                    "Question": "What is your preferred screen resolution?",
-                    "Answer": "1920x1080"
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wireless."
                 },
                 {
-                    "Question": "Do you need a monitor?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Do you need a keyboard and mouse?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Do you need an operating system?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Do you have any preferred brands?",
+                    "Question": "Do you want it to be ergonomic?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you need any other peripherals?",
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "black, white and orange."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "Would you like RGB Lighting?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you have any other specific requirements?",
+                    "Question": "Do you have a preferred brand?",
                     "Answer": "No."
                 }
             ],
-            "Output": "CPU: Intel Core i5-7600K 3.8 GHz Quad-Core Processor\nMotherboard: MSI Z270-A PRO ATX LGA1151 Motherboard\nMemory: Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2400 Memory\nStorage: Samsung 850 EVO-Series 250 GB 2.5\" Solid State Drive\nVideo Card: MSI GeForce GTX 1060 6GB 6 GB GAMING X Video Card\nCase: Corsair Carbide Series SPEC-04 ATX Mid Tower Case\nPower Supply: Corsair RMx (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply\nOperating System: Microsoft Windows 10 Home OEM 64-bit\nMonitor: LG 25UM58-P 25.0\" 2560x1080 60 Hz Monitor\nKeyboard: Corsair K55 RGB Gaming Keyboard\nMouse: Corsair Harpoon RGB Gaming Mouse"
+            "Output": "We recommend the Durgod Taurus K320 TKL Mechanical Keyboard. It has a minimalistic design with a black, white and orange color scheme. It has tactile switches and is hot-swappable. It is also compatible with Windows operating systems."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your budget for this custom PC build?",
-                    "Answer": "$1500"
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "TKL."
                 },
                 {
-                    "Question": "What is the purpose of this custom PC build?",
-                    "Answer": "For gaming and general use."
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Tactile switches."
                 },
                 {
-                    "Question": "What are the performance requirements?",
-                    "Answer": "To be able to play Minecraft, League of Legends, Overwatch, Fortnite, etc."
+                    "Question": "What is your budget?",
+                    "Answer": "$200"
                 },
                 {
-                    "Question": "What is your preferred screen resolution?",
-                    "Answer": "4k."
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wired."
                 },
                 {
-                    "Question": "Do you need a monitor?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Do you need a keyboard and mouse?",
+                    "Question": "Do you want it to be ergonomic?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you need an operating system?",
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "white and pink."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
                     "Answer": "Yes."
                 },
                 {
-                    "Question": "Do you have any preferred brands?",
-                    "Answer": "AMD."
-                },
-                {
-                    "Question": "Do you need any other peripherals?",
+                    "Question": "Would you like RGB Lighting?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you have any other specific requirements?",
+                    "Question": "Do you have a preferred brand?",
                     "Answer": "No."
                 }
             ],
-            "Output": "-AMD Ryzen 7 5800X Processor\n-ASUS ROG Strix X570-E Gaming Motherboard\n-Corsair Vengeance LPX 16GB DDR4-3200MHz Memory Kit\n-Samsung 970 Evo Plus M.2 500GB PCIe NVMe SSD\n-Seagate BarraCuda 2TB HDD\n-ASUS ROG Strix GeForce RTX 2070 Super OC Edition Graphics Card\n-Corsair HX1200i 1200W PSU\n-Corsair Crystal Series 680X RGB Mid-Tower Case\n-Windows 10 Home 64-bit"
+            "Output": "We recommend the Ducky One 2 TKL with Cherry MX Brown switches. It is a wired keyboard with hot-swapping capabilities, and it has a white and pink color scheme. It is compatible with Windows operating systems."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your budget for this custom PC build?",
+                    "Question": "What size keyboard do you want?",
+                    "Answer": "96%."
+                },
+                {
+                    "Question": "What type of switches do you want?",
+                    "Answer": "Optical switches."
+                },
+                {
+                    "Question": "What is your budget?",
                     "Answer": "$500"
                 },
                 {
-                    "Question": "What is the purpose of this custom PC build?",
-                    "Answer": "For general use."
+                    "Question": "Should it be wired or wireless?",
+                    "Answer": "Wired."
                 },
                 {
-                    "Question": "What are the performance requirements?",
-                    "Answer": "To be able to handle multi-tasking and some light gaming."
-                },
-                {
-                    "Question": "What is your preferred screen resolution?",
-                    "Answer": "1920x1080"
-                },
-                {
-                    "Question": "Do you need a monitor?",
+                    "Question": "Do you want it to be ergonomic?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you need a keyboard and mouse?",
+                    "Question": "What kind of colors would you like on your keyboard?",
+                    "Answer": "blue and green."
+                },
+                {
+                    "Question": "What kind of operating system do you use?",
+                    "Answer": "Windows."
+                },
+                {
+                    "Question": "Does it need to be hot-swapping?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you need an operating system?",
+                    "Question": "Would you like RGB Lighting?",
                     "Answer": "Yes."
                 },
                 {
-                    "Question": "Do you have any preferred brands?",
-                    "Answer": "Intel."
-                },
-                {
-                    "Question": "Do you need any other peripherals?",
+                    "Question": "Do you have a preferred brand?",
                     "Answer": "No."
-                },
-                {
-                    "Question": "Do you have any other specific requirements?",
-                    "Answer": "Must have 32GB RAM."
                 }
             ],
-            "Output": "Intel Core i5-7600K 3.8GHz Quad-Core Processor\nASUS PRIME Z270-A LGA 1151 Motherboard\nCorsair Vengeance LPX 32GB (2 x 16GB) DDR4-2400 Memory\nSamsung 960 EVO 250GB M.2-2280 Solid State Drive\nSeagate Barracuda 2TB 3.5\" 7200RPM Internal Hard Drive\nEVGA GeForce GTX 1050 Ti 4GB SC GAMING Video Card\nCorsair Carbide Series 100R Mid Tower Case\nCorsair RMx Series RM650x 650W 80+ Gold Certified Fully-Modular ATX Power Supply\nMicrosoft Windows 10 Home OEM 64-bit"
+            "Output": "We recommend the Ducky x Varmilo MIYA Pro Panda for 96% custom mechanical keyboard with optical switches. It is a wired keyboard that does not need to be hot-swapping. It is compatible with Windows and has RGB lighting."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/S2FOm59c86orPcLZbkrE7JnA?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1IXws2Mw3M95oyueKMn-OoQah8PAs5K8q?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/qbBOplR4Td33e9uGcKZ5bnZ1?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ny_Qnhjmw2a9lfO5KD4v_WnrApT0ImUb?usp=sharing"
 }

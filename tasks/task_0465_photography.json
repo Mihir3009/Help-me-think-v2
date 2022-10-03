@@ -1,152 +1,152 @@
 {
     "Contributor": "lakshmisettiabhishekkumar",
     "Domain": "Photography",
-    "Task": "Camera Suggestion upon factors like budget, lens, usage, etc",
+    "Task": "Step by Step procedure for how to edit a photo like a professional",
     "Prompt": {
-        "pre_question_prompt": "I am an expert camera salesman. I will ask some questions to collect information and then I will use the information to give you the appropriate camera that suits you",
-        "task_specific_prompt": "Tell me which camera best suits me and why using the questions and answers above."
+        "pre_question_prompt": "I am an professional photographer and editor. I will ask some questions to collect information and then I will use the information to guide you editing a picture that you clicked",
+        "task_specific_prompt": "Tell me how should I edit the photo step by step using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "How much do you want to spend?",
-                    "Answer": "1000 dollars."
+                    "Question": "What is the subject of the photo?",
+                    "Answer": "The subject of the photo is a college building."
                 },
                 {
-                    "Question": "What type of photography do you want to do?",
-                    "Answer": "I want to do landscape and nature photography."
+                    "Question": "What is the mood or feeling that you want to convey with the photo?",
+                    "Answer": "The mood that I want to convey with this photo is one of professionalism and sophistication."
                 },
                 {
-                    "Question": "What are the most important features you are looking for in a camera?",
-                    "Answer": "I want a camera with a good zoom lens and a high megapixel count."
+                    "Question": "What colors are dominant in the photo?",
+                    "Answer": "The colors that are dominant in this photo are shades of gray and white."
                 },
                 {
-                    "Question": "Do you have any brand preferences?",
-                    "Answer": "I would like a Canon camera."
+                    "Question": "What do you want the final photo to look like?",
+                    "Answer": "I want the final photo to look clean, awestruck and crisp."
                 },
                 {
-                    "Question": "Do you want a point-and-shoot camera or a DSLR?",
-                    "Answer": "I would like a DSLR."
+                    "Question": "Do you have any specific editing requests?",
+                    "Answer": "Some specific editing requests I have are to increase the contrast and to make the colors more vibrant."
                 },
                 {
-                    "Question": "What is your budget upper limit?",
-                    "Answer": "I have a budget of $1500."
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "Yes, I do"
                 },
                 {
-                    "Question": "What accessories do you want to buy?",
-                    "Answer": "I want to buy an extra battery and a memory card."
+                    "Question": "What is the occasion for which this photo will be used?",
+                    "Answer": "This photo will be used for my college  journal."
                 },
                 {
-                    "Question": "What is your email address?",
-                    "Answer": "abhishek@email.com"
+                    "Question": "Do you have any specific ideas or themes in mind for the journal?",
+                    "Answer": "The specific idea I have in mind for the journal is to create a clean and sophisticated look."
                 },
                 {
-                    "Question": "What is your phone number?",
-                    "Answer": "987-654-3210"
+                    "Question": "Do you want the photo to be edited in black and white or in color?",
+                    "Answer": "I would like the photo to be in colourful and vibrant way."
                 },
                 {
-                    "Question": "When do you plan on buying the camera",
-                    "Answer": "I would like to buy the camera as soon as possible."
+                    "Question": "Do you have any other specific requests?",
+                    "Answer": "Yes, I would like the photo to be edited in a way that makes the college building look more professional and the quality should be retained."
                 }
             ],
-            "Output": "The Canon EOS Rebel T6 DSLR Camera would be the best camera for you. It has a 18 megapixel CMOS sensor and a DIGIC 4+ Image Processor for excellent image quality. The camera also has a 9-point AF system with a single center cross-type AF point for fast and accurate focus. Additionally, the camera has a 3 inch LCD screen for easy viewing and editing of your photos. The camera also comes with an extra battery and a memory card."
+            "Output": "Step 1: Open the photo in your editing software. Step 2: Increase the contrast by moving the contrast slider to the right. Step 3: Make the colors more vibrant by increasing the saturation. Step 4: To make the college building look more professional, increase the clarity and sharpness"
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your budget for the camera?",
-                    "Answer": "2500 dollars to 3000 dollars"
+                    "Question": "What is the subject of the photo?",
+                    "Answer": "The subject of the photo is a person."
                 },
                 {
-                    "Question": "What type of photography do you plan on doing?",
-                    "Answer": "I am interested in doing portraits."
+                    "Question": "What is the mood or feeling of the photo?",
+                    "Answer": "The mood of the photo is happy and bright."
                 },
                 {
-                    "Question": "What is the most important feature you are looking for in a camera?",
-                    "Answer": "I want a camera with a good autofocus system."
+                    "Question": "What do you want to emphasize in the photo?",
+                    "Answer": "I want to emphasize the person's smile in the photo."
                 },
                 {
-                    "Question": "Do you have any experience with photography?",
-                    "Answer": "I have some experience with photography."
+                    "Question": "What colors do you want to use in the photo?",
+                    "Answer": "I want to use bright colors in the photo."
                 },
                 {
-                    "Question": "What camera do you currently use?",
-                    "Answer": "I use a Canon EOS Rebel T6i."
+                    "Question": "Do you want to add any text or graphics to the photo?",
+                    "Answer": "I want to add text to the photo."
                 },
                 {
-                    "Question": "Are you looking to upgrade your current camera or buy a new one?",
-                    "Answer": "I am looking to upgrade my current camera."
+                    "Question": "Do you want to change the background of the photo?",
+                    "Answer": "I want to change the background of the photo."
                 },
                 {
-                    "Question": "What kind of lens are you planning to buy for the camera?",
-                    "Answer": "I'm planning to buy an f /2.8 200mm telephoto lens."
+                    "Question": "What other edits do you want to make to the photo?",
+                    "Answer": "I want to crop the photo to 4:3 ratio and make it smaller."
                 },
                 {
-                    "Question": "Do you have any other accessories that you need for the camera?",
-                    "Answer": "I need a tripod, studio backdrop, and a camera bag."
+                    "Question": "Do you have any specific instructions for me?",
+                    "Answer": "I would like you to make the person's smile the focus of the photo."
                 },
                 {
-                    "Question": "Is there anything else you think I should know?",
-                    "Answer": "I'm more inclined to buy a canon camera."
+                    "Question": "Is there anything else you want to tell me about the photo?",
+                    "Answer": "Yes, Please remove the pimples on the cheeks."
                 },
                 {
-                    "Question": "Are looking for the latest models?",
-                    "Answer": "Not really, the one with good customer reviews works."
+                    "Question": "Do you have any other photos that I can use to create a collage?",
+                    "Answer": "No, I do not have any other photos."
                 }
             ],
-            "Output": "Based on the information provided, the best camera for you would be the Canon EOS Rebel T6i. This camera is a great option for those interested in doing portraits, as it has an excellent autofocus system. Additionally, the Canon EOS Rebel T6i is an upgrade from your current camera, the Canon EOS Rebel T6i, and thus would provide you with better image quality and features. The Canon EOS Rebel T6i is also compatible with the f/2.8 200mm telephoto lens that you are planning to purchase, making it a great option for your needs."
+            "Output": "First, open the photo in an editing program. Next, crop the photo to a 4:3 ratio.Then, make the photo smaller. Next, change the background of the photo. Then, add text to the photo. Finally, focus on the person's smile and make it the focus of the photo."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the purpose of the camera?",
-                    "Answer": "For vlogging my day to day purposes."
+                    "Question": "What is the occasion?",
+                    "Answer": "The occasion is my cousin's wedding."
                 },
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$5000"
+                    "Question": "What is the setting?",
+                    "Answer": "The setting is in a wedding hall."
                 },
                 {
-                    "Question": "What type of camera do you want?",
-                    "Answer": "I want a action camera."
+                    "Question": "What is the mood?",
+                    "Answer": "The mood is happy and festive."
                 },
                 {
-                    "Question": "What features are you looking for?",
-                    "Answer": "I want a camera that is durable, water resistant, dust resistant and can take high quality 4K videos."
+                    "Question": "What colors are prominent in the photo?",
+                    "Answer": "The colors are white, gold, and pink."
                 },
                 {
-                    "Question": "What brand do you prefer?",
-                    "Answer": "I would prefer either a GoPro or DJI."
+                    "Question": "What is the composition of the photo?",
+                    "Answer": "The composition of the photo is a group of people standing in front of a decorated stage."
                 },
                 {
-                    "Question": "Do you need a tripod?",
-                    "Answer": "Yes, I do."
+                    "Question": "Who is the subject of the photo?",
+                    "Answer": "The subject of the photo is the bride and groom."
                 },
                 {
-                    "Question": "Do you need any other accessories?",
-                    "Answer": "I will need a memory card, extra battery and a case for the camera so that I can stick that to my helmet."
+                    "Question": "What do you want the edited photo to look like?",
+                    "Answer": "I want the edited photo to look like a professionally edited wedding photo."
                 },
                 {
-                    "Question": "Do you have any other questions?",
-                    "Answer": "Yes I do, I would prefer gorilla pod rather than a normal tripod or monopod."
+                    "Question": "Do you have any specific requests for the editing?",
+                    "Answer": "I would like the exposure and color balance to be corrected, and I would like the photo to be cropped to focus on the bride and groom."
                 },
                 {
-                    "Question": "Do you have a specific model in mind?",
-                    "Answer": "I was looking at the GoPro Hero 7 Black or the DJI Osmo Action or the DJI Osmo Pocket 2."
+                    "Question": "Do you have any other photos from the same event that you would like edited in a similar style?",
+                    "Answer": "Yes, I have several other photos from the same event that I would like edited in a similar style."
                 },
                 {
-                    "Question": "Do you want to buy the camera now or do you want to wait for a sale?",
-                    "Answer": "I would like to buy the camera now."
+                    "Question": "Do you have any ideas for the final product?",
+                    "Answer": "Yes, I would like the final product to be a print that I can frame and hang on my wall."
                 }
             ],
-            "Output": "The best camera for you would be the GoPro Hero 7 Black as it is durable, water resistant, dust resistant and can take high quality 4K videos. It also comes with a tripod and other accessories that you might need."
+            "Output": "1. Open the photo in Photoshop.\n\n2. Go to the \"Exposure\" adjustment layer and increase the \"Exposure\" value until the photo looks correctly exposed.\n\n3. Go to the \"Color Balance\" adjustment layer and adjust the \"Midtones\" until the colors in the photo look natural.\n\n4. Crop the photo to focus on the bride and groom.\n\n5. Save the edited photo as a JPEG file.\n\n6. Print the edited photo on photo paper using a high-quality printer."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/XkT2W2UE2EV03A8SHvFIu6lM?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/CRJUW4slQG3JBspO41bHsI5G?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/Zat7Evv8yDjBW8pC89TM8v8M?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/whB7jnHQXehz522nfHiAePCT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/uHpTxdO4N8ORIi0QINJ79pqk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0W8fO1YHx6X272yvAduLLcXJ?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1bdafJKR75VwvE7BC1TGeQaSf8Z7ZCc2d?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1bovWsQ22XzuZQtpjktSqV8tZFOf3z5_-?usp=sharing"
 }

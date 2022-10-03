@@ -1,148 +1,148 @@
 {
     "Contributor": "leealex",
     "Domain": "Physics",
-    "Task": "Generate Physics Study Guide",
+    "Task": "Tell a Physics Story",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in writing a physics study guide. I will ask some questions to collect information and then I will use the information to create the study guide.",
-        "task_specific_prompt": "Write a study guide using the questions and answers above."
+        "pre_question_prompt": "I am an expert in writing stories about physics. I will ask some questions to collect information and then I will use the information to write the story.",
+        "task_specific_prompt": "Write a story about physics using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "How do you usually study for physics exams?",
-                    "Answer": "I usually study by doing practice problems and reviewing my notes."
+                    "Question": "What is the style of this story?",
+                    "Answer": "Action."
                 },
                 {
-                    "Question": "What is your level with physics?",
-                    "Answer": "College Level."
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Forces."
                 },
                 {
-                    "Question": "What class is this study guide for?",
-                    "Answer": "An introductory class."
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "Gravity."
                 },
                 {
-                    "Question": "What book does your class use?",
-                    "Answer": "Physics for Scientists and Engineers: A Strategic Approach."
+                    "Question": "What is the target age?",
+                    "Answer": "5 to 10 year-olds."
                 },
                 {
-                    "Question": "What is the format of the exam?",
-                    "Answer": "Multiple choice and short answers."
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
                 },
                 {
-                    "Question": "What is the overall topic for the exam?",
-                    "Answer": "Kinematics."
+                    "Question": "What is the intent of this story?",
+                    "Answer": "Describe the concept of gravity to kids."
                 },
                 {
-                    "Question": "What are the specific topics in the exam?",
-                    "Answer": "Displacement, Velocity, Acceleration, and Forces."
+                    "Question": "What era is this story based on?",
+                    "Answer": "The modern era."
                 },
                 {
-                    "Question": "What topics do you find the most difficult?",
-                    "Answer": "Acceleration and Forces."
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
                 },
                 {
-                    "Question": "How long should the study guide be?",
-                    "Answer": "1 page."
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "Third Person."
                 },
                 {
-                    "Question": "Is there anything else you would like to add?",
+                    "Question": "Is there anything else that you would like to add?",
                     "Answer": "No."
                 }
             ],
-            "Output": "Kinematics Study Guide\nDisplacement:\n-Displacement is the change in position of an object.\n-Displacement is a vector quantity, which means it has both magnitude and direction.\n-Displacement is usually represented by the variable d.\n-To calculate displacement, you need to know the initial and final position of the object.\n-The formula for displacement is d=xf-xi, where xf is the final position and xi is the initial position.\nVelocity:\n-Velocity is the rate of change of displacement.\n-Velocity is a vector quantity, which means it has both magnitude and direction.\n-Velocity is usually represented by the variable v.\n-To calculate velocity, you need to know the displacement and the time over which the displacement occurs.\n-The formula for velocity is v=d/t, where d is the displacement and t is the time.\nAcceleration:\n-Acceleration is the rate of change of velocity.\n-Acceleration is a vector quantity, which means it has both magnitude and direction.\n-Acceleration is usually"
+            "Output": "There once was a young boy who was very curious about the world around him. He wanted to know why things happened the way they did and how everything worked. So, he began to study physics. He read about all of the different forces that act on objects, like gravity. He was fascinated by how gravity could make things fall down, even though they seemed to be pulled up. The boy experimented with different objects to see how gravity affected them. He found that the heavier an object was, the more gravity it had. And the more gravity an object had, the faster it would fall."
         },
         {
             "QApair": [
                 {
-                    "Question": "How do you usually study for physics exams?",
-                    "Answer": "I usually study by doing practice problems and reviewing my notes."
+                    "Question": "What is the style of this story?",
+                    "Answer": "Romance."
                 },
                 {
-                    "Question": "What is your level with physics?",
-                    "Answer": "College Level."
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Planets."
                 },
                 {
-                    "Question": "What class is this study guide for?",
-                    "Answer": "An introductory class."
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "The  interactions between planets."
                 },
                 {
-                    "Question": "What book does your class use?",
-                    "Answer": "Physics for Scientists and Engineers: A Strategic Approach."
+                    "Question": "What is the target age?",
+                    "Answer": "5 to 10 year-olds."
                 },
                 {
-                    "Question": "What is the format of the exam?",
-                    "Answer": "Multiple choice and short answers."
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
                 },
                 {
-                    "Question": "What is the overall topic for the exam?",
-                    "Answer": "Dynamics."
+                    "Question": "What is the intent of this story?",
+                    "Answer": "Describe the concept of planets to kids."
                 },
                 {
-                    "Question": "What are the specific topics in the exam?",
-                    "Answer": "Forces, Newton's Laws, free body diagrams."
+                    "Question": "What era is this story based on?",
+                    "Answer": "The current era."
                 },
                 {
-                    "Question": "What topics do you find the most difficult?",
-                    "Answer": "Newton's second law and free body diagrams."
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
                 },
                 {
-                    "Question": "How long should the study guide be?",
-                    "Answer": "1 page."
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "First Person."
                 },
                 {
-                    "Question": "Is there anything else you would like to add?",
+                    "Question": "Is there anything else that you would like to add?",
                     "Answer": "No."
                 }
             ],
-            "Output": "Dynamics Study Guide\nForces:\n-A force is a push or pull on an object.\n-Forces can change the speed or direction of an object.\n-Forces are measured in Newtons (N).\nNewton's Laws:\n-Newton's first law states that an object will stay at rest or in motion unless acted on by an unbalanced force.\n-Newton's second law states that the force acting on an object is equal to the mass of the object times its acceleration.\n-Newton's third law states that for every action, there is an equal and opposite reaction.\nFree Body Diagrams:\n-Free body diagrams show all of the forces acting on an object.\n-The object is represented by a circle or dot.\n-The forces are represented by arrows."
+            "Output": "I was always fascinated by planets. I love learning about how they interact with each other. The way they pull and push on each other is just amazing. I once read a story about two planets that were in love. But because of the way they interacted, they were always pulled apart. It was a really sad story. But I like to think that there are happy stories out there too, about planets that find a way to be together despite the odds."
         },
         {
             "QApair": [
                 {
-                    "Question": "How do you usually study for physics exams?",
-                    "Answer": "I usually study by doing practice problems and reviewing my notes."
+                    "Question": "What is the style of this story?",
+                    "Answer": "Mystery."
                 },
                 {
-                    "Question": "What is your level with physics?",
-                    "Answer": "College Level."
+                    "Question": "What is the overall topic for this story?",
+                    "Answer": "Electricity."
                 },
                 {
-                    "Question": "What class is this study guide for?",
-                    "Answer": "An advanced class."
+                    "Question": "What are the specific topics for this story?",
+                    "Answer": "Electromagnetic waves."
                 },
                 {
-                    "Question": "What book does your class use?",
-                    "Answer": "Physics for Scientists and Engineers: A Strategic Approach."
+                    "Question": "What is the target age?",
+                    "Answer": "Adults."
                 },
                 {
-                    "Question": "What is the format of the exam?",
-                    "Answer": "Multiple choice and short answers."
+                    "Question": "Is there a target demographic?",
+                    "Answer": "Not in particular."
                 },
                 {
-                    "Question": "What is the overall topic for the exam?",
-                    "Answer": "Electric Circuits."
+                    "Question": "What is the intent of this story?",
+                    "Answer": "A novel based on electromagnetic waves."
                 },
                 {
-                    "Question": "What are the specific topics in the exam?",
-                    "Answer": "Ohm's law, DC circuits, Kirchhoff's rules."
+                    "Question": "What era is this story based on?",
+                    "Answer": "The classical era."
                 },
                 {
-                    "Question": "What topics do you find the most difficult?",
-                    "Answer": "Kirchhoff's rules."
+                    "Question": "What is the length of this story?",
+                    "Answer": "200 words."
                 },
                 {
-                    "Question": "How long should the study guide be?",
-                    "Answer": "1 page."
+                    "Question": "What is the point-of-view for this story?",
+                    "Answer": "Third Person."
                 },
                 {
-                    "Question": "Is there anything else you would like to add?",
+                    "Question": "Is there anything else that you would like to add?",
                     "Answer": "No."
                 }
             ],
-            "Output": "How to Study for the Physics Exam\nOverall, it is important to do practice problems and review your notes when studying for the physics exam. This is especially important for topics that you find more difficult. When it comes to the electric circuits exam, make sure you are comfortable with Ohm's law, DC circuits, and Kirchhoff's rules.\nOhm's Law:\n-Ohm's law states that the current through a conductor between two points is directly proportional to the potential difference across the two points.\n-This can be written as I=V/R, where I is the current, V is the voltage, and R is the resistance.\n-You can use a graph to determine the relationship between current and voltage for a given resistor.\nDC Circuits:\n-A DC circuit is a circuit in which the current always flows in the same direction.\n-The current in a DC circuit is determined by the voltage and the resistance.\n-You can use Ohm's law to calculate the current in a DC circuit.\n-Kirchhoff's rules can be used to solve for the unknown voltage or current in a DC circuit.\nKirchhoff's Rules"
+            "Output": "Mysterious things have been happening in the small town of Shepherdstown. Strange lights have been appearing in the sky and people have been reporting hearing strange noises. The townspeople are mystified and scared.\nThe town's sheriff, John, is a man of science and he is determined to get to the bottom of the mystery. He begins to investigate and soon discovers that the strange lights and noises are coming from a nearby physics laboratory.\nJohn goes to the laboratory and speaks to the scientist who runs it. The scientist explains that he is experimenting with electricity and that he is creating electromagnetic waves. He assures John that he is not doing anything dangerous and that the town has nothing to worry about.\nThe scientist's explanation satisfies John and he goes back to the town to tell the people what he has learned. The townspeople are relieved and the mystery is solved."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/5B2wp6bQWLGZ6nd1iO973rGw?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/19V9DmRmy1wCsVZQy3K1MZyTeSLulpzzS?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/X63rWWxxxlgksyJpc9F87tPf?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1FXgbwA1s-ml4-J_wHL7feIcmjr3pNkDk?usp=sharing"
 }

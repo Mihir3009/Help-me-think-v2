@@ -1,160 +1,156 @@
 {
     "Contributor": "kinahansean",
     "Domain": "Administration",
-    "Task": "Hospital Reception",
+    "Task": "Weekly Status Report",
     "Prompt": {
-        "pre_question_prompt": "I am an expert Hospital reception system. I will ask some questions to collect information and then I will use the information to check in visitors and give directions. Question:",
-        "task_specific_prompt": "Summarize the patient's information and provide directions using the questions and answers above."
+        "pre_question_prompt": "I am an expert weekly productivity reporter. I will ask some questions to collect information and then I will use the information to summarize your weekly productivity.Question:",
+        "task_specific_prompt": "Write a productivity summary using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the nature of your visit?",
-                    "Answer": "I am here to see a doctor."
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "65"
                 },
                 {
-                    "Question": "What is the name of the doctor you are here to see?",
-                    "Answer": "I am here to see Dr. Jones."
+                    "Question": "How many of those hours were productive?",
+                    "Answer": "40"
                 },
                 {
-                    "Question": "What is your name?",
-                    "Answer": "My name is Terry Smith."
+                    "Question": "What are some things you did that were productive?",
+                    "Answer": "I completed all of my assigned tasks at work, and I also did some extra research on a project that I am working on. I also helped Paul with his current project."
                 },
                 {
-                    "Question": "What is your date of birth?",
-                    "Answer": "My date of birth is April 1, 1992."
+                    "Question": "What are some things you did that were not productive?",
+                    "Answer": "I took a few breaks to check social media and I also spent some time browsing Reddit."
                 },
                 {
-                    "Question": "What is your address?",
-                    "Answer": "My address is 814 Pleasant Ave, Scottsdale AZ 85251."
+                    "Question": "How do you feel about your productivity this week?",
+                    "Answer": "I feel pretty good about my productivity this week. I got a lot done, and I was able to help out with Paul's project as well. I was feeling sick on Monday, but I managed to get caught up on Tuesday."
                 },
                 {
-                    "Question": "What is your phone number?",
-                    "Answer": "My phone number is (814) 555-1212."
+                    "Question": "What can you do to improve your productivity next week?",
+                    "Answer": "I can try to minimize distractions by keeping my phone out of sight and not checking social media outside of scheduled breaks. I can also try to get ahead on my work so that I can take a day off next week."
                 },
                 {
-                    "Question": "What is your insurance information?",
-                    "Answer": "My insurance information is as follows:  Blue Cross Blue Shield  Policy Number: 82345  Group Number: 6678 "
+                    "Question": "Do you have any other comments about your productivity this week?",
+                    "Answer": "No, I think that covers it."
                 },
                 {
-                    "Question": "Do you have any allergies?",
-                    "Answer": "I am allergic to peanuts and shellfish."
+                    "Question": "Would you like me to send you a weekly productivity report?",
+                    "Answer": "Yes, I would appreciate receiving a weekly productivity report."
                 },
                 {
-                    "Question": "Do you have any medical conditions?",
-                    "Answer": "I have diabetes and high blood pressure."
+                    "Question": "Great! How would you like to receive your report?",
+                    "Answer": "Email"
                 },
                 {
-                    "Question": "Is there anything else the doctor should know?",
-                    "Answer": "I have asthma."
+                    "Question": "What is your email address?",
+                    "Answer": "jane@yahoo.com"
                 },
                 {
-                    "Question": "What is the name of your emergency contact?",
-                    "Answer": "My emergency contact is my husband, Art Smith."
+                    "Question": "Is there anything else you would like me to know?",
+                    "Answer": "No, thank you."
                 }
             ],
-            "Output": "The patient's name is Terry Smith, and they are here to see Dr. Jones. The patient's date of birth is April 1, 1992, and their address is 814 Pleasant Ave, Scottsdale AZ 85251. The patient's phone number is (814) 555-1212, and their insurance information is as follows: Blue Cross Blue Shield, Policy Number: 82345, Group Number: 6678. The patient has allergies to peanuts and shellfish, and medical conditions of diabetes, high blood pressure, and asthma. The patient's emergency contact is their husband, Art Smith.  To check in, please go to the front desk. If you need help finding your way, the information desk is located to your left."
+            "Output": "This person worked for a total of 65 hours this week, with 40 of those hours being productive. They completed all of their assigned tasks at work, did extra research, and helped out with Paul's project. They took breaks to check social media and browse Reddit, but overall they feel good about their productivity this week. To improve productivity next week, they plan to minimize distractions and get ahead on work. This person would like to receive a weekly productivity report via email."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the patient's name?",
-                    "Answer": "The patient's name is Timothy Greene."
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "I worked 40 hours this week."
                 },
                 {
-                    "Question": "What is the patient's date of birth?",
-                    "Answer": "The patient's date of birth is August 9, 1960."
+                    "Question": "How many of those hours were productive?",
+                    "Answer": "I would say 30 of those hours were productive."
                 },
                 {
-                    "Question": "What is the patient's room number?",
-                    "Answer": "The patient's room number is 42B."
+                    "Question": "What are some things you did that were productive?",
+                    "Answer": "I was productive by working on various tasks and projects, attending meetings, and responding to emails. I also conducted two major presentations, and onboarded three new staff members."
                 },
                 {
-                    "Question": "What is the patient's insurance company?",
-                    "Answer": "The patient's insurance company is Blue Cross Blue Shield."
+                    "Question": "What are some things you did that were not productive?",
+                    "Answer": "I did some things that were not productive this week by checking social media, browsing the internet, and taking a few personal calls."
                 },
                 {
-                    "Question": "What is the patient's primary care physician?",
-                    "Answer": "The patient's primary care physician is Dr. Tony Algiers."
+                    "Question": "What do you plan to do differently next week to be more productive?",
+                    "Answer": "I plan to limit my social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week."
                 },
                 {
-                    "Question": "What is the patient's diagnosis?",
-                    "Answer": "The patient's diagnosis is pneumonia."
+                    "Question": "Do you have any other comments about your productivity this week?",
+                    "Answer": "I was happy with my productivity this week overall. I met all of my deadlines and got a lot of important work done. However, I want to make sure that I don't get too comfortable and let my productivity slip next week."
                 },
                 {
-                    "Question": "What is the patient's current condition?",
-                    "Answer": "The patient's current condition is fair."
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "What can I do to maximize my organization and time management skills? I want to be more productive with my time, but it isn't always easy to balance."
                 },
                 {
-                    "Question": "What is the patient's prognosis?",
-                    "Answer": "The patient's prognosis is good."
-                },
-                {
-                    "Question": "Is the patient's family with them?",
-                    "Answer": "Yes, the patient's family is with them."
-                },
-                {
-                    "Question": "What is the patient's next of kin's name?",
-                    "Answer": "The patient's next of kin's name is Sarah Greene."
-                },
-                {
-                    "Question": "What is the patient's next of kin's relationship to the patient?",
-                    "Answer": "The patient's next of kin is the patient's sister."
+                    "Question": "What tips do you have for better time management?",
+                    "Answer": "Some tips for better time management include:- Make a list of tasks to be completed each day- Set time limits for each task- Take breaks throughout the day- Delegate tasks to others- Focus on one task at a time- Avoid distractions- Prioritize tasks"
                 }
             ],
-            "Output": "The patient's name is Timothy Greene, their date of birth is August 9, 1960, their room number is 42B, their insurance company is Blue Cross Blue Shield, their primary care physician is Dr. Tony Algiers, their diagnosis is pneumonia, their current condition is fair, their prognosis is good, their family is with them, their next of kin's name is Sarah Greene, and their next of kin's relationship to the patient is the patient's sister."
+            "Output": "The individual worked 40 hours this week and was productive for 30 of those hours. They were productive by working on various tasks and projects, attending meetings, and responding to emails. The individual was also productive by conducting two major presentations and onboarding three new staff members. The individual was not productive by checking social media, browsing the internet, and taking a few personal calls. The individual plans to limit their social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week. The individual was happy with their productivity this week overall, but they want to make sure that they don't get too comfortable and let their productivity slip next week."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the purpose of your visit?",
-                    "Answer": "I am here for surgery."
+                    "Question": "How many hours did you work this week?",
+                    "Answer": "I worked 65 hours this week."
                 },
                 {
-                    "Question": "What is your name?",
-                    "Answer": "My name is Garth Tremor."
+                    "Question": "How many of those hours were spent on productive activities?",
+                    "Answer": "I spent 50 hours on productive activities."
                 },
                 {
-                    "Question": "What is the name of your doctor?",
-                    "Answer": "My doctor is Dr. Patel."
+                    "Question": "What activities did you spend your time on?",
+                    "Answer": "I spent my time on work, errands, and housework."
                 },
                 {
-                    "Question": "What is your date of birth?",
-                    "Answer": "My date of birth is February 1, 1990."
+                    "Question": "How do you feel about your productivity this week?",
+                    "Answer": "I feel I could have accomplished more this week."
                 },
                 {
-                    "Question": "What is your insurance provider?",
-                    "Answer": "My insurance provider is Aetna."
+                    "Question": "What are your goals for next week?",
+                    "Answer": "I would like to work fewer hours and focus on more efficient work."
                 },
                 {
-                    "Question": "What is your policy number?",
-                    "Answer": "My policy number is GD6627."
+                    "Question": "What can you do to increase your productivity?",
+                    "Answer": "I can try to focus on the tasks with the most urgent priority and create measurable milestones of progress."
                 },
                 {
-                    "Question": "What is your doctor's number?",
-                    "Answer": "My doctor's number is 456-789-1234."
+                    "Question": "Do you have any advice for others who want to be more productive?",
+                    "Answer": "Yes. I would recommend scheduling time for important tasks, setting priorities, and taking breaks when needed. Listening to calm music is a good way to aid focus, as long as it doesn't become distracting."
                 },
                 {
-                    "Question": "What is the name of your hospital?",
-                    "Answer": "The name of my hospital is Mercy Hospital."
+                    "Question": "What resources (books, websites, etc.) do you recommend for productivity?",
+                    "Answer": "I recommend the book 'The 7 Habits of Highly Effective People' by Stephen Covey."
                 },
                 {
-                    "Question": "What is the address of your hospital?",
-                    "Answer": "The address of my hospital is 1001 Main Street, Anytown, USA."
+                    "Question": "What challenges did you face this week when it came to productivity?",
+                    "Answer": "I faced the challenge of having too many things on my to-do list and not enough time to accomplish them all."
                 },
                 {
-                    "Question": "What is the phone number of your hospital?",
-                    "Answer": "The phone number of my hospital is 555-123-4567."
+                    "Question": "How did you overcome those challenges?",
+                    "Answer": "I overcame the challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces."
+                },
+                {
+                    "Question": "What did you learn about productivity this week?",
+                    "Answer": "I learned that time management is essential to productivity."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about your experience with productivity this week?",
+                    "Answer": "No, thank you."
                 }
             ],
-            "Output": "The patient's name is Garth Tremor, their date off birth is February 1, 1990, their insurance provider is Aetna, and their policy number is GD6627. The patient's doctor is Dr. Patel, and their doctor's number is 456-789-1234. The patient is here for surgery. The name of the hospital is Mercy Hospital, the address is 1001 Main Street, Anytown, USA, and the phone number is 555-123-4567."
+            "Output": "The individual worked 65 hours this week, 50 of which were spent on productive activities. They spent their time on work, errands, and housework. They feel they could have accomplished more this week and their goals for next week are to work fewer hours and focus on more efficient work. To increase productivity, they can try to focus on the tasks with the most urgent priority and create measurable milestones of progress. The challenges this week were having too many things on the to-do list and not enough time to accomplish them all. The individual overcame these challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces. They learned that time management is essential to productivity."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/uVk3tMsyCdXvXEg5QrlYD4Z3?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/uVk3tMsyCdXvXEg5QrlYD4Z3?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/kEX5btgpw1fAwCVj9DPasnI8?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/ngCD4j7BxLs8EYDCad6b2Wgl?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/bfXPgSrKtnzqngYYpghcnC6n?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lC5j1Zz2KcvhQjVvOVQUDiif?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1VwEtjDF0ys69BCptvaRhyplbz9Co-3xS?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1W12m5Zq6YXxji7DlVgS_NCVI24XTbaRD?usp=sharing"
 }

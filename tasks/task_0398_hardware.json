@@ -1,148 +1,148 @@
 {
     "Contributor": "leealex",
     "Domain": "Hardware",
-    "Task": "Mechanical Keyboard Recommendation",
+    "Task": "Fix my computer",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in recommending custom mechanical keyboards. I will ask some questions to collect information and then I will use the information to recommend a custom mechanical keyboard.",
-        "task_specific_prompt": "Write a mechanical keyboard recommendation using the questions and answers above."
+        "pre_question_prompt": "I am an expert in writing solutions for your computer hardware issues. I will ask some questions to collect information and then I will use the information to write a solution.",
+        "task_specific_prompt": "Write a list of potential solutions using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What size keyboard do you want?",
-                    "Answer": "60%"
+                    "Question": "What kind of computer hardware issue are you having?",
+                    "Answer": "Overheating."
                 },
                 {
-                    "Question": "What type of switches do you want?",
-                    "Answer": "Tactile switches."
+                    "Question": "What model and make is your computer?",
+                    "Answer": "Dell XPS 15"
                 },
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$100"
+                    "Question": "What is the model year for your computer?",
+                    "Answer": "2020."
                 },
                 {
-                    "Question": "Should it be wired or wireless?",
-                    "Answer": "Wireless."
+                    "Question": "What operating system do you currently have?",
+                    "Answer": "Windows 10 home."
                 },
                 {
-                    "Question": "Do you want it to be ergonomic?",
+                    "Question": "What are the symptoms of the issue?",
+                    "Answer": "The computer shuts down unexpectedly, the fan is always running, and the bottom of the computer feels hot."
+                },
+                {
+                    "Question": "Have you tried any troubleshooting steps already?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "What kind of colors would you like on your keyboard?",
-                    "Answer": "black, white and orange."
+                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
+                    "Answer": "It is constant."
                 },
                 {
-                    "Question": "What kind of operating system do you use?",
-                    "Answer": "Windows."
+                    "Question": "What solutions have you tried so far?",
+                    "Answer": "None."
                 },
                 {
-                    "Question": "Does it need to be hot-swapping?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Would you like RGB Lighting?",
+                    "Question": "Are there any other known issues of your computer?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you have a preferred brand?",
-                    "Answer": "No."
+                    "Question": "What is your budget for solving this issue?",
+                    "Answer": "$0-$100."
                 }
             ],
-            "Output": "We recommend the Durgod Taurus K320 TKL Mechanical Keyboard. It has a minimalistic design with a black, white and orange color scheme. It has tactile switches and is hot-swappable. It is also compatible with Windows operating systems."
+            "Output": "1. Check to see if the computer is properly ventilated. If it is not, try moving it to a more open and ventilated area.\n2. Check to see if the air intake and exhaust vents are clear and unobstructed. If they are blocked, try cleaning them out.\n3. Check the fan to see if it is dirty or obstructed. If it is, try cleaning it.\n4. Check the thermal paste between the CPU and the heatsink to see if it needs to be replaced.\n5. Try using a laptop cooling pad to help cool down the computer.\n6. If the computer is still overheating, try using a different power supply.\n7. If the computer is still overheating, try resetting the BIOS settings to default.\n8. If the computer is still overheating, contact Dell customer support for further assistance."
         },
         {
             "QApair": [
                 {
-                    "Question": "What size keyboard do you want?",
-                    "Answer": "TKL."
+                    "Question": "What kind of computer hardware issue are you having?",
+                    "Answer": "Screen freezes."
                 },
                 {
-                    "Question": "What type of switches do you want?",
-                    "Answer": "Tactile switches."
+                    "Question": "What model and make is your computer?",
+                    "Answer": "HP spectre."
                 },
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$200"
+                    "Question": "What is the model year for your computer?",
+                    "Answer": "2019."
                 },
                 {
-                    "Question": "Should it be wired or wireless?",
-                    "Answer": "Wired."
+                    "Question": "What operating system do you currently have?",
+                    "Answer": "Windows 10 home."
                 },
                 {
-                    "Question": "Do you want it to be ergonomic?",
+                    "Question": "What are the symptoms of the issue?",
+                    "Answer": "The screen freezes occasionally."
+                },
+                {
+                    "Question": "Have you tried any troubleshooting steps already?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "What kind of colors would you like on your keyboard?",
-                    "Answer": "white and pink."
+                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
+                    "Answer": "It happens randomly."
                 },
                 {
-                    "Question": "What kind of operating system do you use?",
-                    "Answer": "Windows."
+                    "Question": "What solutions have you tried so far?",
+                    "Answer": "None."
                 },
                 {
-                    "Question": "Does it need to be hot-swapping?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Would you like RGB Lighting?",
+                    "Question": "Are there any other known issues of your computer?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Do you have a preferred brand?",
-                    "Answer": "No."
+                    "Question": "What is your budget for solving this issue?",
+                    "Answer": "$0-$200."
                 }
             ],
-            "Output": "We recommend the Ducky One 2 TKL with Cherry MX Brown switches. It is a wired keyboard with hot-swapping capabilities, and it has a white and pink color scheme. It is compatible with Windows operating systems."
+            "Output": "1. Check for driver updates and install them if available.\n2. Run a virus scan using an antivirus program.\n3. Check for any pending Windows updates and install them.\n4. Try a system restore to a point when the issue was not present.\n5. Try resetting your computer to its factory settings.\n6. Bring your computer to a professional for diagnosis and repair."
         },
         {
             "QApair": [
                 {
-                    "Question": "What size keyboard do you want?",
-                    "Answer": "96%."
+                    "Question": "What kind of computer hardware issue are you having?",
+                    "Answer": "Laptop won't turn on."
                 },
                 {
-                    "Question": "What type of switches do you want?",
-                    "Answer": "Optical switches."
+                    "Question": "What model and make is your computer?",
+                    "Answer": "Apple MacBook Air."
                 },
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$500"
+                    "Question": "What is the model year for your computer?",
+                    "Answer": "2013."
                 },
                 {
-                    "Question": "Should it be wired or wireless?",
-                    "Answer": "Wired."
+                    "Question": "What operating system do you currently have?",
+                    "Answer": "MacOS High Sierra."
                 },
                 {
-                    "Question": "Do you want it to be ergonomic?",
+                    "Question": "What are the symptoms of the issue?",
+                    "Answer": "The laptop won't turn on."
+                },
+                {
+                    "Question": "Have you tried any troubleshooting steps already?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "What kind of colors would you like on your keyboard?",
-                    "Answer": "blue and green."
+                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
+                    "Answer": "It is constant."
                 },
                 {
-                    "Question": "What kind of operating system do you use?",
-                    "Answer": "Windows."
+                    "Question": "What solutions have you tried so far?",
+                    "Answer": "None."
                 },
                 {
-                    "Question": "Does it need to be hot-swapping?",
+                    "Question": "Are there any other known issues of your computer?",
                     "Answer": "No."
                 },
                 {
-                    "Question": "Would you like RGB Lighting?",
-                    "Answer": "Yes."
-                },
-                {
-                    "Question": "Do you have a preferred brand?",
-                    "Answer": "No."
+                    "Question": "What is your budget for solving this issue?",
+                    "Answer": "$0-$200."
                 }
             ],
-            "Output": "We recommend the Ducky x Varmilo MIYA Pro Panda for 96% custom mechanical keyboard with optical switches. It is a wired keyboard that does not need to be hot-swapping. It is compatible with Windows and has RGB lighting."
+            "Output": "1. Check the power cord to ensure it is properly plugged in and/or replaced.\n2. Check the battery to ensure it is properly charged and/or replaced.\n3. Try a hard reset by holding down the power button for 10 seconds.\n4. Take the laptop to an Apple Store or authorized Apple service provider for further diagnosis and repair."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/qbBOplR4Td33e9uGcKZ5bnZ1?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1Ny_Qnhjmw2a9lfO5KD4v_WnrApT0ImUb?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/DO9C7qSRQkkTqT24g5jUwkFz?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1kzQYb53MaU7-TQlSRALuZ_inEqkr3IHM?usp=sharing"
 }

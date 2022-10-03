@@ -1,144 +1,260 @@
 {
     "Contributor": "kotreshhiremathswathi",
     "Domain": "Manufacturing",
-    "Task": "Creaty safety rules and policies for manufacturing plant",
+    "Task": "Possible violations the factory is liable for",
     "Prompt": {
-        "pre_question_prompt": "I am an excellent policy maker. I will ask clarifying questions about your factory and create work safety rules for your manufacturing plant",
-        "task_specific_prompt": "Based on the above information please suggest safety policies for the manufacturing plant"
+        "pre_question_prompt": "I am an excellent predictor. I will ask clarifying questions about the nature of employees, shifts, product and hazards at your factory and predict possible violations your manufacturing plant might be liable for",
+        "task_specific_prompt": "Based on the above information please generate a list of possible violations your manufacturing plant might be liable for:"
     },
     "Instances": [
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What are some of the potential hazards in your factory?",
-                        "Answer": "Heavy objects, sharp tools, furnaces"
+                        "Question": "What is the nature of your employees?",
+                        "Answer": "Mixed race, gender and age groups"
                     },
                     {
-                        "Question": "What are some of the safety procedures you have in place?",
-                        "Answer": "Helmets and warning signs"
+                        "Question": "Do you have any employees that are under the age of 18?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are some of the things you would like to see improve in regards to safety in the factory?",
-                        "Answer": "More training for employees on safety procedures"
-                    },
-                    {
-                        "Question": "How often do you review your safety procedures?",
-                        "Answer": "Every six months."
-                    },
-                    {
-                        "Question": "How many employees have been injured in the factory in the past year?",
-                        "Answer": "Five"
-                    },
-                    {
-                        "Question": "What do you think are the main causes of accidents in the factory?",
-                        "Answer": "lack of training"
-                    },
-                    {
-                        "Question": "What can be done to reduce the number of accidents in the factory?",
-                        "Answer": "Please suggest the same"
-                    },
-                    {
-                        "Question": "Do you have a first aid kit in the factory?",
+                        "Question": "Do you have any employees that are pregnant?",
                         "Answer": "Yes"
                     },
                     {
-                        "Question": "Do you have a designated person responsible for safety in the factory?",
+                        "Question": "Do you have any employees that have a disability?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What are the shifts that your employees work?",
+                        "Answer": "14 hour shifts"
+                    },
+                    {
+                        "Question": "Do any of your employees work more than 8 hours in a day?",
+                        "Answer": "A few of them"
+                    },
+                    {
+                        "Question": "Do any of your employees work more than 40 hours in a week?",
+                        "Answer": "A few of themA few of thm"
+                    },
+                    {
+                        "Question": "Do any of your employees work overnight shifts?",
+                        "Answer": "Some of them"
+                    },
+                    {
+                        "Question": "Do any of your employees work on weekends?",
+                        "Answer": "Maintenance"
+                    },
+                    {
+                        "Question": "What is the product that your factory produces?",
+                        "Answer": "Tires"
+                    },
+                    {
+                        "Question": "Is your product flammable?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is your product corrosive?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is your product poisonous?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What are the hazards present in your factory?",
+                        "Answer": "Chemical Inhalation"
+                    },
+                    {
+                        "Question": "Are there any moving parts in your factory?",
                         "Answer": "Yes"
                     },
                     {
-                        "Question": "Who is responsible for enforcing safety rules in the factory?",
-                        "Answer": "The safety manager"
+                        "Question": "Are there any chemicals used in your factory?",
+                        "Answer": "Yes"
                     },
                     {
-                        "Question": "What are the consequences for not following safety rules in the factory?",
-                        "Answer": "Fines or dismissal"
+                        "Question": "Is there any dust present in your factory?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Is there any noise present in your factory?",
+                        "Answer": "Yes"
                     }
                 ]
             },
             {
-                "Output": "1. All employees must receive safety training before starting work. 2. All employees must wear the proper safety gear while working. 3. All accidents must be reported to the safety manager immediately. 4. The factory must be regularly inspected for safety hazards. 5. There must be a designated person responsible for safety at all times. 6. Safety rules must be enforced."
+                "Output": "1) Employees working more than 8 hours in a day 2) Employees working more than 40 hours in a week 3) Employees working overnight shifts 4) Employees working on weekends 5) Hazardous chemicals present in the factory 6) Moving parts in the factory 7) Chemical inhalation hazard present in the factory 8) Dust present in the factory 9) Noise present in the factory"
             }
         ],
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What is the most dangerous part of your factory?",
-                        "Answer": "The most dangerous part of our factory is the High voltage equipment"
+                        "Question": "What is the nature of your employees?",
+                        "Answer": "Manual workers"
                     },
                     {
-                        "Question": "What are some of the safety hazards present in your factory?",
-                        "Answer": ""
+                        "Question": "Do you have any employees that are under the age of 18?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are your factory's safety procedures?",
-                        "Answer": "regular safety inspections"
+                        "Question": "Do you have any employees that are pregnant?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are some of the dangers of not following safety procedures in your factory?",
-                        "Answer": "Electric Shocks"
+                        "Question": "Do you have any employees that have a disability?",
+                        "Answer": "Yes"
                     },
                     {
-                        "Question": "What are some of the safety rules you would like to see implemented in your factory?",
-                        "Answer": "More training on handling equipment"
+                        "Question": "What are the shifts that your employees work?",
+                        "Answer": "8 hour shifts"
                     },
                     {
-                        "Question": "Is there anything else you would like to add?",
+                        "Question": "Do any of your employees work more than 8 hours in a day?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do any of your employees work more than 40 hours in a week?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do any of your employees work overnight shifts?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Do any of your employees work on weekends?",
+                        "Answer": "Maintenance"
+                    },
+                    {
+                        "Question": "What is the product that your factory produces?",
+                        "Answer": "Designer glassware"
+                    },
+                    {
+                        "Question": "Is your product flammable?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is your product corrosive?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is your product poisonous?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What are the hazards present in your factory?",
+                        "Answer": "Broken glass, furnaces"
+                    },
+                    {
+                        "Question": "Are there any moving parts in your factory?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Are there any chemicals used in your factory?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is there any dust present in your factory?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "Is there any noise present in your factory?",
                         "Answer": "No"
                     }
                 ]
             },
             {
-                "Output": "All workers must receive training on how to safely handle equipment -Regular safety inspections must be conducted -Any workers who do not follow safety procedures must be disciplined -High voltage equipment must be properly labeled and workers must be made aware of the dangers it poses -All electrical hazards must be mitigated"
+                "Output": "-Not providing proper safety equipment for employees working with broken glass -Not providing a safe work environment for employees with disabilities -Not providing proper ventilation for employees working with furnaces"
             }
         ],
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What are some of the dangers present in your factory?",
-                        "Answer": "Hazardous chemicals and heavy equipment."
+                        "Question": "What is the nature of your employees?",
+                        "Answer": "Assembly workers"
                     },
                     {
-                        "Question": "What are your company's policies for dealing with these hazards?",
-                        "Answer": "Safety garments, masks and warning signs"
+                        "Question": "Do you have any employees that are under the age of 18?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are your policies for employee training on safety procedures?",
-                        "Answer": "Expert handling of chemicals"
+                        "Question": "Do you have any employees that are pregnant?",
+                        "Answer": "Yes"
                     },
                     {
-                        "Question": "What are your policies for investigating accidents?",
-                        "Answer": "Accidents will be investigated by the safety committee."
+                        "Question": "Do you have any employees that have a disability?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are your policies for dealing with unsafe conditions?",
-                        "Answer": "Unsafe conditions will be corrected by the safety committee."
+                        "Question": "What are the shifts that your employees work?",
+                        "Answer": "8 hour shifts"
                     },
                     {
-                        "Question": "What are your policies for employee safety?",
-                        "Answer": "Hazmat suits and detectors"
+                        "Question": "Do any of your employees work more than 8 hours in a day?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are your policies for safety in the event of an emergency?",
-                        "Answer": "Emergency procedures will be followed by the safety committee."
+                        "Question": "Do any of your employees work more than 40 hours in a week?",
+                        "Answer": "No"
                     },
                     {
-                        "Question": "What are your policies for safety inspections?",
-                        "Answer": "Safety inspections will be conducted by the safety committee."
+                        "Question": "Do any of your employees work overnight shifts?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Do any of your employees work on weekends?",
+                        "Answer": "Maintenance"
+                    },
+                    {
+                        "Question": "What is the product that your factory produces?",
+                        "Answer": "Assemble Car parts"
+                    },
+                    {
+                        "Question": "Is your product flammable?",
+                        "Answer": "A few of them"
+                    },
+                    {
+                        "Question": "Is your product corrosive?",
+                        "Answer": "Some of them"
+                    },
+                    {
+                        "Question": "Is your product poisonous?",
+                        "Answer": "No"
+                    },
+                    {
+                        "Question": "What are the hazards present in your factory?",
+                        "Answer": "Carbon monoxide inhalation, Sharp tools, Metal dust"
+                    },
+                    {
+                        "Question": "Are there any moving parts in your factory?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Are there any chemicals used in your factory?",
+                        "Answer": "yes"
+                    },
+                    {
+                        "Question": "Is there any dust present in your factory?",
+                        "Answer": "Yes"
+                    },
+                    {
+                        "Question": "Is there any noise present in your factory?",
+                        "Answer": "Yes"
                     }
                 ]
             },
             {
-                "Output": "1. Employees must wear appropriate safety gear when handling hazardous chemicals and heavy objects. 2. Employees must be properly trained in safety procedures before handling hazardous chemicals and heavy objects. 3. Unsafe conditions must be reported to the safety committee so that they can be corrected. 4. Accidents must be investigated by the safety committee. 5. Emergency procedures must be followed by the safety committee in the event of an emergency. 6. Safety inspections must be conducted by the safety committee."
+                "Output": "1. Not providing proper PPE for employees working with flammable or corrosive products 2. Not providing proper ventilation to prevent carbon monoxide inhalation 3. Not providing safety training for employees working with sharp tools or around moving parts 4. Not providing proper ventilation to prevent metal dust inhalation 5. Not providing proper PPE for employees working with chemicals 6. Not providing proper ventilation to prevent dust inhalation"
             }
         ]
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/KfIFEys7nlR0OZt4SoUkKGHe?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/PVnbtn4AVE0NLkm0W8ahRiKq?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/X2LWe3upIi3vQwl90if1gAXf?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/m5ext3IvpSo56aI9PV5A0Bwz?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/N5iCuoGJ7Wl5WbjkeajuDs1f?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/XiTRw8CBOsWxaa3M6wJ8vyOF?model=text-davinci-002"
     ],
-    "Screenshot_link": "https://drive.google.com/drive/folders/1XKyHtGwB6rVKbWg87PXffC4tcm1cM2US?usp=sharing"
+    "Screenshot_link": "https://drive.google.com/drive/folders/1uO2YFQp1tOsubx_GyCDW7niDKHFxKsit?usp=sharing"
 }

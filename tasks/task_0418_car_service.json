@@ -1,152 +1,152 @@
 {
     "Contributor": "linli",
     "Domain": "Car service",
-    "Task": "Which upgrades should I buy for my car",
+    "Task": "Write an advertisement for a new car service company.",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in vehicle upgrades. I will ask some questions to collect information and then I will use the information to find the upgrades that are worth the price.",
-        "task_specific_prompt": "Write a list of the upgrades that I should consider buying using the questions and answers above. List the prices and the functions as well."
+        "pre_question_prompt": "I am an expert in advertising. I will ask some questions to collect information and then I will use the information to write an advertisement that promotes the newly founded car service company in detail.",
+        "task_specific_prompt": "Write an advertisement for the car service company using the questions and answers above. Make sure it is funny and easy to comprehend."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$3000."
+                    "Question": "What is the name of the car service company?",
+                    "Answer": "The company is called \"Bob's Auto Rental\"."
                 },
                 {
-                    "Question": "What is your vehicle make and model?",
-                    "Answer": "Honda Civic."
+                    "Question": "What are the company's values?",
+                    "Answer": "The company is all about providing affordable, quality car rentals to its customers."
                 },
                 {
-                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
-                    "Answer": "Conservative."
+                    "Question": "What is the company's target market?",
+                    "Answer": "The company's target market is people who are looking for a cheap, reliable car rental with utmost safety guarantee."
                 },
                 {
-                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
-                    "Answer": "Better gas mileage, better handling, less vibration."
+                    "Question": "What is the company's slogan?",
+                    "Answer": "\"Bob's Auto Rental: The qualities are phenomenal!\""
                 },
                 {
-                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
-                    "Answer": "Highways."
+                    "Question": "Which type of cars do the company provides?",
+                    "Answer": "The company provides all types of cars, from sedans to SUV's."
                 },
                 {
-                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
-                    "Answer": "Upgrades that work well on Sedans."
+                    "Question": "How well are the car conditions?",
+                    "Answer": "The conditions are of high quality and are well-maintained."
                 },
                 {
-                    "Question": "How many upgrades do you need?",
-                    "Answer": "As many as possible within the budget."
+                    "Question": "What are the company's rates?",
+                    "Answer": "The cheapest one only cost $50 per day. We also provide other choices and most of them are under $100 per day. Longer periods will further reduce the costs."
                 },
                 {
-                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
-                    "Answer": "I want them to be installed."
+                    "Question": "What is the company's policy on safety?",
+                    "Answer": "The company has a strict policy on safety. All cars are regularly checked and serviced to ensure the safety of our customers."
                 },
                 {
-                    "Question": "When do you need the upgrades?",
-                    "Answer": "ASAP"
+                    "Question": "What are the company's payment options?",
+                    "Answer": "The company accepts all major credit cards. Cash and checks are also welcomed."
                 },
                 {
-                    "Question": "Is there anything else the expert should know?",
-                    "Answer": "No."
+                    "Question": "What is the company's cancellation policy?",
+                    "Answer": "The company has a 24-hour cancellation policy. If you cancel your reservation within 24 hours of your scheduled rental, you will not be charged."
                 }
             ],
-            "Output": "1. A set of coilovers for better handling ($500).\n2. A set of performance tires for better grip ($600).\n3. A cold air intake for better airflow ($200).\n4. A header and exhaust system for more power ($1000).\n5. A set of brakes for better stopping power ($500).\n6. A set of shocks and struts for a smoother ride ($600)."
+            "Output": "Looking for a cheap, reliable car rental that is also safe? Look no further than Bob's Auto Rental! We provide all types of cars at affordable rates, with the option to rent for longer periods of time at an even lower cost. Our cars are all well-maintained and serviced regularly to ensure the safety of our customers. We accept all major credit cards, cash, and checks. And our 24-hour cancellation policy means that you can cancel your reservation without being charged, as long as you do it within 24 hours of your scheduled rental. So what are you waiting for? Give us a call today and rent a car from Bob's Auto Rental!"
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$10000."
+                    "Question": "What is the name of the car service company?",
+                    "Answer": "The company is called \"Royal Auto Rental\"."
                 },
                 {
-                    "Question": "What is your vehicle make and model?",
-                    "Answer": "Tesla Model S."
+                    "Question": "What are the company's values?",
+                    "Answer": "The company is all about providing extremely comfortable and luxurious vehicles for the customers."
                 },
                 {
-                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
-                    "Answer": "Aggressive."
+                    "Question": "What is the company's target market?",
+                    "Answer": "The target market for this company is people who want to rent a car for special occasions like weddings or anniversaries."
                 },
                 {
-                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
-                    "Answer": "Battery longevity, better milage per charge, better lane assist."
+                    "Question": "What is the company's mission statement?",
+                    "Answer": "The company's mission statement is \"To provide the best car rental experience by offering opulent vehicles and outstanding customer service.\""
                 },
                 {
-                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
-                    "Answer": "City Streets, occasionally on highways."
+                    "Question": "What are the unique selling points of the company?",
+                    "Answer": "The unique selling points of the company are that it offers fashionable vehicles and impeccable customer service."
                 },
                 {
-                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
-                    "Answer": "Upgrades that are specific to electric cars."
+                    "Question": "What are the company's rates?",
+                    "Answer": "The rates are relatively high compared to the average rental service, but we focus on special occasion car rental like limousines and the amount of care and effort we put into each individual customer is unparalleled. Definitely worth every penny."
                 },
                 {
-                    "Question": "How many upgrades do you need?",
-                    "Answer": "Probably 5 or less."
+                    "Question": "What is the company's geographic area?",
+                    "Answer": "The company is based in Los Angeles, California but provides services to the surrounding areas."
                 },
                 {
-                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
-                    "Answer": "I want them to be installed."
+                    "Question": "What is the company's contact information?",
+                    "Answer": "The company's contact information is as follows:\nPhone number: (213) 555-0101\nEmail: info@royalautorental.com\nWebsite: www.royalautorental.com"
                 },
                 {
-                    "Question": "When do you need the upgrades?",
-                    "Answer": "Within 2 months."
+                    "Question": "Is there anything else you think I should know?",
+                    "Answer": "We also provide wedding dress rental service with professional wedding planner if you purchase our once-in-a-lifetime wedding bundle. We would make sure that all things appeared on your wedding looks immaculate."
                 },
                 {
-                    "Question": "Is there anything else the expert should know?",
-                    "Answer": "Please stay in the budget. If the sum of the prices excesses the budget, please remove the upgrades from the cheapest first."
+                    "Question": "Can you provide me with some types of the company's vehicles?",
+                    "Answer": "We have a wide range of vehicles including luxury sedans, sports cars, convertibles, and limos."
                 }
             ],
-            "Output": "1. A longer-range battery pack \u2013 this will increase the distance the car can travel on a single charge, and will cost between $5000 and $8000.\n2. Better tires \u2013 these will improve the car\u2019s handling and grip, and will cost between $500 and $1000.\n3. A more powerful motor \u2013 this will improve the car\u2019s acceleration and top speed, and will cost between $2000 and $4000.\n4. Better brakes \u2013 these will improve the car\u2019s braking performance, and will cost between $500 and $1000.\n5. A suspension upgrade \u2013 this will improve the car\u2019s ride quality and handling, and will cost between $500 and $2000."
+            "Output": "Looking for a luxurious and comfortable car rental experience? Look no further than Royal Auto Rental! We offer fashionable vehicles and impeccable customer service that is unmatched. Our rates are relatively high, but we focus on special occasion car rental like limousines and the amount of care and effort we put into each individual customer is unparalleled. Definitely worth every penny. We are based in Los Angeles, California but provide services to the surrounding areas. For more information, please visit our website www.royalautorental.com or give us a call at (213) 555-0101."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your budget?",
-                    "Answer": "$2300."
+                    "Question": "What is the name of the car service company?",
+                    "Answer": "The company is called \"Expedite Car Transport\"."
                 },
                 {
-                    "Question": "What is your vehicle make and model?",
-                    "Answer": "Toyota Camry."
+                    "Question": "What are the company's values?",
+                    "Answer": "The company is all about providing swift long-distance car transportation and ensures that the car remain undamaged and stainless."
                 },
                 {
-                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
-                    "Answer": "Average."
+                    "Question": "What are the company's services?",
+                    "Answer": "The company offers long-distance car transportation services. They pick up the car from the customer's location and transport it to the destination safely and swiftly."
                 },
                 {
-                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
-                    "Answer": "Better breaking, safety, more durable."
+                    "Question": "Who is the target audience?",
+                    "Answer": "The target audience for this company are people who need to transport their car over long distances."
                 },
                 {
-                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
-                    "Answer": "Mostly city streets."
+                    "Question": "What is the company's USP?",
+                    "Answer": "The company's unique selling point is its speed and efficiency. It promises to deliver the car to the destination quickly and without any damage."
                 },
                 {
-                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
-                    "Answer": "Specific to my vehicle."
+                    "Question": "What is the tone of the advertisement?",
+                    "Answer": "The tone of the advertisement needs to be professional and promising."
                 },
                 {
-                    "Question": "How many upgrades do you need?",
-                    "Answer": "3 upgrades."
+                    "Question": "What is the call to action?",
+                    "Answer": "The call to action is to call the company's number to book a car transport."
                 },
                 {
-                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
-                    "Answer": "I can do it myself."
+                    "Question": "What are the company's contact details?",
+                    "Answer": "The company's contact details are as follows:\nExpedite Car Transport\nToll-free number: 1-800-123-4567\nEmail: info@expeditecartransport.com\nWebsite: www.expeditecartransport.com"
                 },
                 {
-                    "Question": "When do you need the upgrades?",
-                    "Answer": "Now."
+                    "Question": "What are the company's social media handles?",
+                    "Answer": "The company's social media handles are as follows:\nFacebook: @ExpediteCarTransport\nTwitter: @ExpediteCT\nInstagram: @ExpediteCarTransport"
                 },
                 {
-                    "Question": "Is there anything else the expert should know?",
-                    "Answer": "I want the cost of the upgrades stay within the budget."
+                    "Question": "What are the company's office timings?",
+                    "Answer": "The company's office timings are from Monday to Friday, 9 am to 5 pm EST."
                 }
             ],
-            "Output": "1. A set of better brakes for the Toyota Camry - $600\n2. A new engine air filter for the Toyota Camry - $30\n3. A set of new tires for the Toyota Camry - $700"
+            "Output": "Looking to transport your car long-distance without any hassle? Look no further than Expedite Car Transport! We pick up your car from your location and deliver it to your destination quickly, safely and without any damage. Our unique selling point is our speed and efficiency \u2013 we promise to deliver your car to its destination quickly and without any issues. So call us now on our toll-free number 1-800-123-4567 or visit our website www.expeditecartransport.com to book a car transport. You can also find us on social media \u2013 we're on Facebook, Twitter and Instagram at @ExpediteCarTransport. Our office timings are from Monday to Friday, 9 am to 5 pm EST."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/0DxzkeQ3JamZWed9slEzncA9?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/jTCRkaNXr0GAHEW2b37rHEJ9?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/JFHAoPKc7gfn2xpAHfCY4h4n?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/vg1KcGoBfHrtloIwmBmmqnKV?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/SuEpJonyU0w64vQSqAxiaLEd?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/D0DrBrkEdsN2mLNoExzQupcN?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1UYzNd4_rWqHm-0B32lSrUXfMsZgb-pcX?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1NBqDovis80EyP_liPwIHbHvQS_Pr8e9U?usp=sharing"
 }

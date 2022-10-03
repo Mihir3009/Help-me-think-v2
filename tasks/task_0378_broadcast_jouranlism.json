@@ -1,149 +1,149 @@
 {
     "Contributor": "khajuriabrijbhushan",
     "Domain": "Broadcast Jouranlism",
-    "Task": "10-word News Headlines Generation",
+    "Task": "News Script Generation",
     "Prompt": {
         "pre_question_prompt": "I am a News Channel Editor. I will ask 10 questions to a news correspondent in $name-of-place$ regarding $topic$.",
         "intermediate_prompt": "I am the news correspondent. I will answer above questions in detail.",
-        "task_specific_prompt": "Create 5 news headlines of not more than 10 words for above answers."
+        "task_specific_prompt": "Create a 2-minute news script for above answers."
     },
     "Instances": [
         {
             "QApair": [
                 {
                     "Question": "1. What is the cause of the fire?",
-                    "Answer": "1. The cause of the fire is still unknown and is under investigation."
+                    "Answer": "1. The cause of the fire is still under investigation, but it is thought to be human-caused."
                 },
                 {
-                    "Question": " 2. How many acres have been burned?",
-                    "Answer": " 2. The fire has burned through 8,000 acres. "
+                    "Question": "2. How many acres have been burned?",
+                    "Answer": "2. So far, approximately 10,000 acres have been burned."
                 },
                 {
-                    "Question": " 3. How many homes have been evacuated?",
-                    "Answer": "3. 500 homes have been evacuated and 2,000 people have been displaced."
+                    "Question": "3. How many homes have been evacuated?",
+                    "Answer": "3. Over 1,000 homes have been evacuated."
                 },
                 {
-                    "Question": " 4. How many firefighters are on the scene?",
-                    "Answer": " 4. There are 500 firefighters on the scene. "
+                    "Question": "4. What is the current status of the fire?",
+                    "Answer": "4. The fire is currently 50% contained."
                 },
                 {
-                    "Question": " 5. What is the status of the fire?",
-                    "Answer": "5. The fire is 10% contained. "
+                    "Question": "5. How many firefighters are on the scene?",
+                    "Answer": "5. There are over 500 firefighters on the scene."
                 },
                 {
-                    "Question": " 6. What is the forecast for the next few days?",
-                    "Answer": "6. The forecast for the next few days includes high winds which could potentially spread the fire."
+                    "Question": "6. How many fire engines are on the scene?",
+                    "Answer": "6. There are over 50 fire engines on the scene."
                 },
                 {
-                    "Question": " 7. What is the air quality like in the area?",
-                    "Answer": " 7. The air quality in the area is poor and people are being advised to stay indoors. "
+                    "Question": "7. What is the estimated containment time?",
+                    "Answer": "7. The estimated containment time is unknown at this time."
                 },
                 {
-                    "Question": " 8. What is the biggest challenge firefighters are facing?",
-                    "Answer": "8. The biggest challenge firefighters are facing is the terrain. "
+                    "Question": "8. What is the air quality like in the area?",
+                    "Answer": "8. The air quality in the area is poor and residents are advised to stay indoors as much as possible."
                 },
                 {
-                    "Question": " 9. How can people help?",
-                    "Answer": "9. People can help by donating to the American Red Cross or donating supplies."
+                    "Question": "9. What is the risk for future wildfires in Arizona?",
+                    "Answer": "9. The risk for future wildfires in Arizona is high."
                 },
                 {
-                    "Question": " 10. Is there anything else we should know?",
-                    "Answer": " 10. There are currently no injuries or fatalities reported."
+                    "Question": "10. What can residents do to prevent future wildfires?",
+                    "Answer": "10. Residents can do their part to prevent future wildfires by being careful with fire, not smoking outdoors, and properly disposing of cigarettes"
                 }
             ],
-            "Output": "1. Wildfire in Arizona continues to spread\n2. 500 homes evacuated, 2,000 people displaced\n3. 500 firefighters on the scene\n4. High winds could potentially spread the fire\n5. Air quality in the area is poor"
+            "Output": "-START-\n\nHi, I'm _______ and I'm here in Arizona to give you the latest on the raging wildfires.\n\nSo far, the fire has burned through 10,000 acres and forced the evacuation of over 1,000 homes.\n\nThe fire is currently 50% contained, but with 500 firefighters and 50 fire engines on the scene, the containment efforts are still ongoing.\n\nThe air quality in the area is poor and residents are advised to stay indoors as much as possible.\n\nThe risk for future wildfires in Arizona is high, but there are some things residents can do to help prevent them.\n\nBe careful with fire, don't smoke outdoors, and properly dispose of cigarettes.\n\nBy following these simple tips, we can all help prevent future wildfires.\n\nThanks for watching. I'm _______ and this has been your Arizona wildfire update.\n\n-END-"
         },
         {
             "QApair": [
                 {
-                    "Question": "1. When do the Olympics take place?",
-                    "Answer": "1. The Olympics will take place in July and August of 2022."
+                    "Question": "1. How are people reacting to the launch of the latest iPhone?",
+                    "Answer": "1. People are generally excited about the launch of the latest iPhone. Many people are eager to get their hands on the latest model and see what new features it has to offer."
                 },
                 {
-                    "Question": "2. How many athletes are expected to participate?",
-                    "Answer": "2. Approximately 11,000 athletes are expected to participate."
+                    "Question": "2. What are some of the features of the new iPhone?",
+                    "Answer": "2. Some of the new features of the iPhone include a new design, a better camera, a faster processor, and more storage capacity."
                 },
                 {
-                    "Question": "3. What is the cost of hosting the Olympics?",
-                    "Answer": "3. The cost of hosting the Olympics is estimated to be around $12 billion."
+                    "Question": "3. How does the new iPhone compare to previous models?",
+                    "Answer": "3. The new iPhone is an improvement over previous models in many ways. It is faster, has a better camera, and offers more storage capacity. However, it is not without its drawbacks."
                 },
                 {
-                    "Question": "4. How many events are there?",
-                    "Answer": "4. There are a total of 34 events."
+                    "Question": "4. How does the new iPhone compare to competing smartphones on the market?",
+                    "Answer": "4. The new iPhone is a great option for those looking for a high-end smartphone. However, it is not the only option on the market. There are many other great smartphones available that offer similar features at a lower price."
                 },
                 {
-                    "Question": "5. What is the opening ceremony like?",
-                    "Answer": "5. The opening ceremony is typically a grand affair, with a parade of nations and a ceremonial lighting of the Olympic flame."
+                    "Question": "5. What are some of the most popular apps on the new iPhone?",
+                    "Answer": "5. Some of the most popular apps on the new iPhone include Instagram, Snapchat, and Facebook."
                 },
                 {
-                    "Question": "6. What are the venues like?",
-                    "Answer": "6. The venues are typically large stadiums that can accommodate a lot of people."
+                    "Question": "6. What is the battery life like on the new iPhone?",
+                    "Answer": "6. The battery life on the new iPhone is good, but not great. It will last most people through a full day of use, but may need to be charged more often than some other smartphones."
                 },
                 {
-                    "Question": "7. What is the food like?",
-                    "Answer": "7. The food is typically healthy and nutritious, with a variety of options for athletes."
+                    "Question": "7. What are some of the drawbacks of the new iPhone?",
+                    "Answer": "7. Some of the drawbacks of the new iPhone include its high price, its lack of a headphone jack, and its lack of waterproofing."
                 },
                 {
-                    "Question": "8. What is the transportation like?",
-                    "Answer": "8. The transportation is typically efficient, with a variety of options for athletes."
+                    "Question": "8. How much does the new iPhone cost?",
+                    "Answer": "8. The new iPhone costs $999 for the base model."
                 },
                 {
-                    "Question": "9. What is the weather like?",
-                    "Answer": "9. The weather is typically mild, with a chance of occasional showers."
+                    "Question": "9. Is the new iPhone worth the price?",
+                    "Answer": "9. The new iPhone is a great option for those looking for a high-end smartphone. However, its high price may not be worth it for some people."
                 },
                 {
-                    "Question": "10. What is the security like?",
-                    "Answer": "10. The security is typically tight, with a heavy police presence."
+                    "Question": "10. Would you recommend the new iPhone to others?",
+                    "Answer": "10. I would recommend the new iPhone to those looking for a high-end smartphone."
                 }
             ],
-            "Output": "1. Tokyo to host Olympics in 2022.\n2. 11,000 athletes to participate in Olympics.\n3. Cost of hosting Olympics estimated at $12 billion.\n4. 34 events to be held at Olympics.\n5. Opening ceremony of Olympics to be held in July."
+            "Output": "Hey, it's Sarah with your latest iPhone update.\n\nAs expected, Apple has just announced their latest iPhone model and people are already lining up to get their hands on it. So, what's new with this latest release?\n\nWell, the biggest change is the design. The new iPhone is sleeker and more modern looking than previous models. It's also available in a new color, gold.\n\nOther new features include a better camera, a faster processor, and more storage capacity. So, if you're looking for an upgrade from your current iPhone, the new model is definitely worth considering.\n\nOf course, with any new release, there are always a few drawbacks. The new iPhone is no exception. Firstly, it's expensive. The base model starts at $999. That's a lot of money for a phone, no matter how good it is.\n\nSecondly, the new iPhone doesn't have a headphone jack. So, if you're still using wired headphones, you'll need to buy an adapter to use them with the new phone.\n\nLastly, the new iPhone is not waterproof. So, if you're planning on using it in the pool or the bathtub, you might want to think twice.\n\nAll things considered, the new iPhone is a great option for those looking for a high-end smartphone. But, it's not for everyone. So, be sure to weigh the pros and cons before making your decision."
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What is the latest number of confirmed cases of the coronavirus in Florida?",
-                    "Answer": "1. As of today, the Florida Department of Health has reported a total of 2,766 cases of the coronavirus in the state."
+                    "Question": "1. What is the status of international tourism in Thailand?",
+                    "Answer": "1. The status of international tourism in Thailand is growing rapidly. The Thai government has been working to promote international tourism through various marketing campaigns and initiatives."
                 },
                 {
-                    "Question": "2. What is the latest number of fatalities in Florida attributed to the coronavirus?",
-                    "Answer": "2. The state of Florida has reported a total of 38 fatalities attributed to the coronavirus."
+                    "Question": "2. How has the Thai government been working to promote international tourism?",
+                    "Answer": "2. Some of the challenges that Thailand faces in terms of international tourism include infrastructure development, safety concerns, and cultural customs."
                 },
                 {
-                    "Question": "3. What are the most recent numbers for hospitalizations and intensive care unit (ICU) admissions in Florida due to the coronavirus?",
-                    "Answer": "3. The most recent numbers for hospitalizations in Florida due to the coronavirus are 1,416, with 633 patients in the ICU."
+                    "Question": "3. What are some of the challenges that Thailand faces in terms of international tourism?",
+                    "Answer": "3. The most popular tourist destinations in Thailand include Bangkok, Phuket, and Chiang Mai."
                 },
                 {
-                    "Question": "4. What is the current status of testing for the coronavirus in Florida?",
-                    "Answer": "4. The current status of testing for the coronavirus in Florida is that there are a limited number of tests available and priority is being given to those who are sick and/or have been exposed to the virus."
+                    "Question": "4. What are some of the most popular tourist destinations in Thailand?",
+                    "Answer": "4. Activities that tourists typically enjoy while in Thailand include sightseeing, shopping, and dining."
                 },
                 {
-                    "Question": "5. What restrictions are currently in place in Florida to help prevent the spread of the coronavirus?",
-                    "Answer": "5. The restrictions currently in place in Florida to help prevent the spread of the coronavirus include a statewide order for all residents to stay at home except for essential activities, a closure of all non-essential businesses, and a limit on gatherings of more than 10 people."
+                    "Question": "5. What kind of activities do tourists typically enjoy while in Thailand?",
+                    "Answer": "5. The Thai government is working to improve infrastructure in order to accommodate more tourists. Some of the safety concerns that tourists should be aware of when traveling to Thailand include pickpockets and scams."
                 },
                 {
-                    "Question": "6. What advice is being given to Florida residents regarding the coronavirus?",
-                    "Answer": "6. The advice being given to Florida residents regarding the coronavirus is to practice social distancing, wash your hands often, and avoid touching your face."
+                    "Question": "6. What is the Thai government doing to improve infrastructure in order to accommodate more tourists?",
+                    "Answer": "6. Tips that first-time visitors to Thailand should be aware of include being cautious of your belongings, being aware of your surroundings, and respecting local customs."
                 },
                 {
-                    "Question": "7. What is the current status of schools and educational institutions in Florida in relation to the coronavirus?",
-                    "Answer": "7. The current status of schools and educational institutions in Florida in relation to the coronavirus is that all schools are closed until at least April 15th."
+                    "Question": "7. What are some of the safety concerns that tourists should be aware of when traveling to Thailand?",
+                    "Answer": "7. Some of the cultural customs that tourists should be aware of when visiting Thailand include not touching someone's head, not pointing with your feet, and removing your shoes when entering a temple."
                 },
                 {
-                    "Question": "8. Are there any specific areas of Florida that are being advised to take extra precautions due to the coronavirus?",
-                    "Answer": "8. There are no specific areas of Florida that are being advised to take extra precautions due to the coronavirus at this time."
+                    "Question": "8. What are some tips that you would give to first-time visitors to Thailand?",
+                    "Answer": "8. Other things to keep in mind when travelling to Thailand include carrying cash, being aware of the currency exchange rate, and using sunscreen."
                 },
                 {
-                    "Question": "9. What is the current status of travel to and from Florida in relation to the coronavirus?",
-                    "Answer": "9. The current status of travel to and from Florida in relation to the coronavirus is that all non-essential travel is discouraged."
+                    "Question": "9. What are some of the cultural customs that tourists should be aware of when visiting Thailand?",
+                    "Answer": "9. The best time to visit Thailand is between November and February."
                 },
                 {
-                    "Question": "10. Are there any other notable developments or information regarding the coronavirus situation in Florida that we should be aware of?",
-                    "Answer": "10. The only other notable development regarding the coronavirus situation in Florida at this time is that the state is working on setting up drive-thru testing sites."
+                    "Question": "10. Are there any other things that you would like to share about international tourism in Thailand?",
+                    "Answer": "10. The visa requirements for tourists travelling to Thailand vary depending on your country of origin."
                 }
             ],
-            "Output": "1. Florida reports 2,766 cases of coronavirus\n2. 38 fatalities attributed to coronavirus in Florida\n3. 1,416 hospitalizations, 633 in ICU due to coronavirus\n4. Statewide order for residents to stay at home\n5. Schools closed until at least April 15th"
+            "Output": "Hello, I'm ____________ and this is your ___________ minute update on the status of international tourism in Thailand.\n\nThe Thai government has been working hard to promote international tourism, and the results are evident. In the past year, the number of international tourists visiting Thailand has grown rapidly.\n\nWhile there are some challenges that Thailand faces in terms of international tourism, such as infrastructure development and safety concerns, the country is still a popular destination for tourists from all over the world.\n\nSome of the most popular tourist destinations in Thailand include Bangkok, Phuket, and Chiang Mai. Activities that tourists typically enjoy while in Thailand include sightseeing, shopping, and dining.\n\nThe Thai government is continuing to work on improving infrastructure in order to accommodate more tourists. In addition, they are also working to raise awareness of safety concerns and cultural customs.\n\nFor first-time visitors to Thailand, some tips to keep in mind include being cautious of your belongings, being aware of your surroundings, and respecting local customs.\n\nThe best time to visit Thailand is between November and February. Visa requirements for tourists travelling to Thailand vary depending on your country of origin.\n\nThat's all for now. Stay tuned for more updates on international tourism in Thailand."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/DqtCT08wqmQSUMpXmMS9cYKS?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1WbpxiUtU7ExKkR4LpE1RZJfuFAQzpqKt?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/NGj2RTCZeWHYbW9J2taczfRQ?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1t8TEY_G8En-Tl33aF45IeXZiGdXgvYpE?usp=sharing"
 }

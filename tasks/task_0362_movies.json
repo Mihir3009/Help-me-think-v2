@@ -1,232 +1,152 @@
 {
     "Contributor": "kotreshhiremathswathi",
     "Domain": "Movies",
-    "Task": "Suggest best suited cast for the movie based on plot",
+    "Task": "Plan a budget and schedule for a movie",
     "Prompt": {
-        "pre_question_prompt": "I am an expert movie cast recommender. I will ask clarifying questions about your movie and suggest the best cast for it.",
-        "task_specific_prompt": "Based on the above information please suggest the best cast for the movie"
+        "pre_question_prompt": "I am a famous budget and schedule planner. I will ask clarifying questions about your movie's plot, cast, dates and budget and plan a budget and schedule for your movie",
+        "task_specific_prompt": "Based on the above information please suggest a schedule and budget for the movie"
     },
     "Instances": [
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What is the title of your movie?",
-                        "Answer": "The title of my movie is \"The Avengers: Next Generation\""
-                    },
-                    {
                         "Question": "What is the plot of your movie?",
-                        "Answer": "The plot of my movie is about a group of young superheroes who team up to save the galaxy from an alien."
+                        "Answer": "The movie is about a young woman who is trying to find her way in the world. She has just graduated from college and is looking for a job. She is also looking for a place to live and is trying to find her place in the world."
                     },
                     {
-                        "Question": "Who are the main characters in your movie?",
-                        "Answer": "The main characters in my movie are: -Iron Man -Captain America -Thor -Hulk -Black Widow -Hawkeye"
+                        "Question": "What is the cast of your movie?",
+                        "Answer": "The cast includes the young woman, her parents, her friends, and her professors."
                     },
                     {
-                        "Question": "What are the ages of the main characters in your movie?",
-                        "Answer": "The ages of the main characters in my movie are: -Iron Man: 30 -Captain America: 35 -Thor: 40 -Hulk: 45 -Black Widow: 50 -Hawkeye: 55"
+                        "Question": "When do you plan to shoot the movie?",
+                        "Answer": "We plan to shoot the movie in the summer."
                     },
                     {
-                        "Question": "What is the budget for your movie?",
-                        "Answer": "The budget for my movie is $100 million."
+                        "Question": "What is your movie's budget?",
+                        "Answer": "The budget for the movie is $1 million."
                     },
                     {
-                        "Question": "When does your movie take place?",
-                        "Answer": "My movie takes place in the present day."
+                        "Question": "What are the dates you have set for shooting the movie?",
+                        "Answer": "We plan to start shooting the movie on June 1 and finish on October 31."
                     },
                     {
-                        "Question": "Where does your movie take place?",
-                        "Answer": "My movie takes place in space"
+                        "Question": "What is the schedule for shooting the movie?",
+                        "Answer": "We plan to shoot the movie for ten weeks, from Monday to Friday."
                     },
                     {
-                        "Question": "What is the genre of your movie?",
-                        "Answer": "My movie is a science fiction action movie."
+                        "Question": "What is the budget for the movie?",
+                        "Answer": "The budget for the movie is $100 million."
                     },
                     {
-                        "Question": "What tone do you want your movie to have?",
-                        "Answer": "I want my movie to have a light-hearted tone."
+                        "Question": "When do you plan to release the movie?",
+                        "Answer": "We plan to release the movie in next summer"
                     },
                     {
-                        "Question": "Do you have any specific cast in mind for your movie?",
-                        "Answer": "I do not have any specific cast in mind for my movie."
+                        "Question": "What is the schedule for post-production?",
+                        "Answer": "Please suggest the same"
                     },
                     {
-                        "Question": "What is the target audience for your movie?",
-                        "Answer": "The target audience for my movie is teenagers."
+                        "Question": "What is the budget for post-production?",
+                        "Answer": "The budget for post-production is $10 million to 50 million"
                     },
                     {
-                        "Question": "What are the themes of your movie?",
-                        "Answer": "The themes of my movie are: - Good vs. evil -Friendship -Teamwork -Courage"
-                    },
-                    {
-                        "Question": "What is the conflict in your movie?",
-                        "Answer": "The conflict in my movie is that the group of young superheroes must save the galaxy from an alien."
-                    },
-                    {
-                        "Question": "What is the climax of your movie?",
-                        "Answer": "The climax of my movie is when the group of young superheroes defeat the alien."
-                    },
-                    {
-                        "Question": "What is the resolution of your movie?",
-                        "Answer": "The resolution of my movie is that the group of young superheroes save the galaxy and become friends."
-                    },
-                    {
-                        "Question": "What is the moral of your movie?",
-                        "Answer": "The moral of my movie is that friendship and teamwork are powerful."
-                    },
-                    {
-                        "Question": "What are the stakes in your movie?",
-                        "Answer": "The stakes in my movie are that if the group of young superheroes does not save the galaxy, then it will be destroyed."
-                    },
-                    {
-                        "Question": "What is the ending of your movie?",
-                        "Answer": "The ending of my movie is happy and optimistic."
+                        "Question": "What is the schedule for release?",
+                        "Answer": "Next summer."
                     }
                 ]
             },
             {
-                "Output": "The best cast for the movie would be: -Robert Downey Jr. as Iron Man -Chris Evans as Captain America -Chris Hemsworth as Thor -Mark Ruffalo as Hulk -Scarlett Johansson as Black Widow -Jeremy Renner as Hawkeye"
+                "Output": "Assuming a shooting schedule of ten weeks and a budget of $1 million, the schedule and budget for the movie would be as follows: Pre-production: $100,000 for script, $50,000 for cast, $250,000 for crew, $100,000 for locations, $50,000 for insurance, $500,000 for miscellaneous. Production: $1 million for cast and crew, $500,000 for equipment, $250,000 for locations, $100,000 for insurance, $1 million for post-production. Post-production: $10 million for editing, $20 million for sound, $10 million for music, $10 million for visual effects, $10 million for miscellaneous"
             }
         ],
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What is the genre of your movie?",
-                        "Answer": "Fantasy"
+                        "Question": "What is your movie's title?",
+                        "Answer": "The movie's title is \"The Great Gatsby.\""
+                    },
+                    {
+                        "Question": "When would you like to start filming?",
+                        "Answer": "We would like to start filming in January."
+                    },
+                    {
+                        "Question": "Who is in your cast?",
+                        "Answer": "Our cast includes Leonardo DiCaprio, Carey Mulligan, Tobey Maguire, and Joel Edgerton."
+                    },
+                    {
+                        "Question": "What is your movie's budget?",
+                        "Answer": "Our movie's budget is $150 million."
+                    },
+                    {
+                        "Question": "What are the key dates in your movie's schedule?",
+                        "Answer": "The key dates in our movie's schedule are as follows: January: Start filming May: Wrap filming July: Movie is released in theaters"
                     },
                     {
                         "Question": "What is the plot of your movie?",
-                        "Answer": "A young boy discovers he has magical powers and must find a way to save the wizard kingdom from an evil queen."
+                        "Answer": "The Great Gatsby is a story about the unrequited love of Jay Gatsby for the beautiful Daisy Buchanan. Set against the backdrop of the roaring twenties, the novel explores themes of love, class, and the American dream."
                     },
                     {
-                        "Question": "Who are the main characters in your movie?",
-                        "Answer": "The young boy, the evil queen, and the wizard king, 2 best friends"
+                        "Question": "What are your movie's key locations?",
+                        "Answer": "Our movie's key locations are as follows:"
                     },
                     {
-                        "Question": "What actors would you like to see in your movie?",
-                        "Answer": "Please suggest the same"
+                        "Question": "What are your movie's special effects?",
+                        "Answer": "Our movie's special effects include the following: Visual effects, CGI"
                     },
                     {
-                        "Question": "What is the budget for your movie?",
-                        "Answer": "$100 million"
-                    },
-                    {
-                        "Question": "What is the release date for your movie?",
-                        "Answer": "December 25, 2023"
-                    },
-                    {
-                        "Question": "Who is the target audience for your movie?",
-                        "Answer": "Kids and families"
-                    },
-                    {
-                        "Question": "What is the tone of your movie?",
-                        "Answer": "Lighthearted and fun"
-                    },
-                    {
-                        "Question": "What is the setting of your movie?",
-                        "Answer": "A wizard kingdom"
-                    },
-                    {
-                        "Question": "What is the style of your movie?",
-                        "Answer": "Fantasy adventure"
-                    },
-                    {
-                        "Question": "What themes are in your movie?",
-                        "Answer": "Good vs. evil, magic, friendship"
-                    },
-                    {
-                        "Question": "What is the title of your movie?",
-                        "Answer": "The boy who lived"
-                    },
-                    {
-                        "Question": "What is the tagline for your movie?",
-                        "Answer": "The wizarding world's only hope."
-                    },
-                    {
-                        "Question": "What are the stakes in your movie?",
-                        "Answer": "If the young boy doesn't save the kingdom, the evil queen will rule forever."
-                    },
-                    {
-                        "Question": "What is the climax of your movie?",
-                        "Answer": "The young boy defeats the evil queen."
+                        "Question": "What is your movie's release date?",
+                        "Answer": "Our movie's release date is July 19, 2023"
                     }
                 ]
             },
             {
-                "Output": "1. Daniel Radcliffe as the young boy 2. Emma Watson as the best friend 3. Rupert Grint as the other best friend 4. Ralph Fiennes as the wizard king 5. Helena Bonham Carter as the evil queen"
+                "Output": "Assuming a January start date, we recommend the following budget and schedule for The Great Gatsby: January: Start filming, May: Wrap filming, July: Movie is released in theaters, Budget: $150 million, This schedule gives the production plenty of time to film in New York City and Long Island, and also allows for post-production work such as visual effects and CGI."
             }
         ],
         [
             {
                 "QAPair": [
                     {
-                        "Question": "What is your movie about?",
-                        "Answer": "My movie is about a young woman who is struggling to find her place in the world. She has just graduated from college and is trying to figure out what she wants to do with her life. She is in a relationship with a man who is also struggling to find his place in the world. They are both searching for something more."
-                    },
-                    {
-                        "Question": "What is the main character's name?",
-                        "Answer": "The main characters' names are Sarah and Mike"
-                    },
-                    {
-                        "Question": "What are the actors' names that you would like to see in your movie?",
-                        "Answer": "Please suggest the same"
-                    },
-                    {
-                        "Question": "What is the budget for your movie?",
-                        "Answer": "The budget for my movie is $10 million."
-                    },
-                    {
-                        "Question": "What is the genre of your movie?",
-                        "Answer": "The genre of my movie is drama."
-                    },
-                    {
-                        "Question": "What is the setting of your movie?",
-                        "Answer": "The setting of my movie is Los Angeles."
-                    },
-                    {
-                        "Question": "Who do you think would be the best actor to play the role of Sarah?",
-                        "Answer": "Please suggest the same"
-                    },
-                    {
-                        "Question": "Who do you think would be the best actor to play the role of Mike?",
-                        "Answer": "Please suggest the same"
-                    },
-                    {
-                        "Question": "Do you have any other cast members in mind?",
-                        "Answer": "No"
-                    },
-                    {
-                        "Question": "Is there anything else you would like to tell me about your movie?",
-                        "Answer": "They are both struggling in their careers with a complex moral compass"
-                    },
-                    {
                         "Question": "What is the title of your movie?",
-                        "Answer": "The title of my movie is \"The Struggle.\""
+                        "Answer": "The title of my movie is \"The Plan.\""
                     },
                     {
-                        "Question": "When is your movie taking place?",
-                        "Answer": "My movie is taking place in the present day."
+                        "Question": "What is the plot of your movie?",
+                        "Answer": "The plot of my movie is about a group of friends who plan a heist on a casino."
                     },
                     {
-                        "Question": "What is the runtime of your movie?",
-                        "Answer": "The runtime of my movie is two hours."
+                        "Question": "Who is in your cast?",
+                        "Answer": "My cast includes Robert De Niro, Joe Pesci, and Harvey Keitel."
                     },
                     {
-                        "Question": "What is the age rating of your movie?",
-                        "Answer": "The age rating of my movie is PG-13."
+                        "Question": "When do you plan to shoot your movie?",
+                        "Answer": "We plan to shoot the movie in May."
+                    },
+                    {
+                        "Question": "What is your budget for the movie?",
+                        "Answer": "Our budget for the movie is $50 million."
+                    },
+                    {
+                        "Question": "I will need a list of all of your expenses for the movie. This includes the cost of the cast, crew, equipment, locations, and anything else you can think of.",
+                        "Answer": "The cost of the cast is $10 million. The cost of the crew is $5 million. The cost of the equipment is $2 million. The cost of the locations is $3 million."
+                    },
+                    {
+                        "Question": "I will also need a list of the dates you plan to shoot the movie.",
+                        "Answer": "We plan to shoot the movie from May 1st "
                     }
                 ]
             },
             {
-                "Output": "1. Jennifer Lawrence as Sarah 2. Bradley Cooper as Mike 3. Amy Adams as Sarah's friend 4. Jeremy Renner as Mike's friend"
+                "Output": "I have created a budget and schedule for your movie. The total budget for the movie is $50 million. The schedule is as follows: May 1st-May 31st: Pre-production June 1st-June 30th: Production July 1st-July 31st: Post-production. The budget for the movie is as follows: Pre-production: $5 million, Production: $40 million, Post-production: $5 million"
             }
         ]
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/ilRhFBd7SCsz9MZSqTLb2pHi?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/q1YKZinKW7Xjm3DwHEbgw9f8?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/K8hrbnkbqfNB2WsehtSkH8Sd?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/KEJM0Lvpc0dheGFY1EvpxFFN?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DaYIzRG0BJ7T1DO4EeBvQFUr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/V8UCpTylyXnLheNburMqDq9D?model=text-davinci-002"
     ],
-    "Screenshot_link": "https://drive.google.com/drive/folders/1T47Rg9VXZjvOQCBCGnF-NBHQxHW8eQI7?usp=sharing"
+    "Screenshot_link": "https://drive.google.com/drive/folders/1x4DHCixI0bg485AIw_YIcxvJY2Z-5ejo?usp=sharing"
 }

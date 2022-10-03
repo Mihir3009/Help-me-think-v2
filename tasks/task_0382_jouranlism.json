@@ -1,209 +1,149 @@
 {
     "Contributor": "khajuriabrijbhushan",
     "Domain": "Jouranlism",
-    "Task": "Time-travelling Journalism",
+    "Task": "Book Back Cover Summary",
     "Prompt": {
-        "pre_question_prompt": "I am a time-travelling journalist. I am traveling back in time to interview $interviewee$. I will ask him following 15 questions.",
-        "intermediate_prompt": "I am $interviewee$. I will answer above questions.",
-        "task_specific_prompt": "Create a newspaper article based upon above answers."
+        "pre_question_prompt": "I am a book publisher. I will ask a book author these 10 questions about his new $genre$ book.",
+        "intermediate_prompt": "I am the Book Author. I will answer above questions.",
+        "task_specific_prompt": "Create a back cover summary of the book based on above answers."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "1. Sir Issac Newton, can you please tell us what inspired you to become a scientist?",
-                    "Answer": "1. I was inspired to become a scientist by my curiosity. I wanted to understand how the world works and how we can discover its secrets."
+                    "Question": "1. What are the main takeaways that you want your reader to get from your book?",
+                    "Answer": "1. The main takeaways I want my reader to get from my book are the importance of self-awareness and self-acceptance. I want them to understand that they are not alone in their struggles and that there is hope for change."
                 },
                 {
-                    "Question": "2. What was your motivation behind your work on optics and gravity?",
-                    "Answer": "2. My motivation behind my work on optics and gravity was to gain a better understanding of the physical world around us. I wanted to know how light behaves and how it affects the objects around us. I also wanted to understand the force of gravity and how it affects the movement of objects."
+                    "Question": "2. What made you want to write a book on this particular topic?",
+                    "Answer": "2. I was inspired to write this book because I struggled with many of the same issues that my readers are likely to face. I know how difficult it can be to make positive changes in one's life, but I also know that it is possible. I wanted to share my story and offer some practical advice that might help others."
                 },
                 {
-                    "Question": "3. What obstacles or challenges did you face while conducting your experiments?",
-                    "Answer": "3. The biggest obstacle I faced while conducting my experiments was the lack of technology. In my time, we did not have the sophisticated equipment that we have today. This made it difficult to accurately measure the effects of my experiments."
+                    "Question": "3. What do you think sets your book apart from other self-help books out there?",
+                    "Answer": "3. I think my book is unique because it is based on my own personal experiences. I also offer concrete suggestions for how to make positive changes in one's life."
                 },
                 {
-                    "Question": "4. How did you overcome them?",
-                    "Answer": "4. I overcame this obstacle by using my theoretical knowledge to design experiments that could be conducted with the available technology. I also developed new methods of data collection and analysis."
+                    "Question": "4. What was the process that you went through in order to write this book?",
+                    "Answer": "4. The process of writing this book was very therapeutic for me. It was a way for me to explore my own thoughts and feelings, and to make sense of my past."
                 },
                 {
-                    "Question": "5. What are your thoughts on the role of mathematics in physics?",
-                    "Answer": "5. I believe that mathematics is essential for physics. It allows us to formulate precise models of the physical world and to make predictions about the results of experiments."
+                    "Question": "5. How did you come up with the title of your book?",
+                    "Answer": "5. I came up with the title of my book, \"The Power of Self-Awareness\", because I believe that self-awareness is the key to making positive changes in one's life."
                 },
                 {
-                    "Question": "6. What was your experience working with Robert Hooke?",
-                    "Answer": "6. I had a good experience working with Robert Hooke. He was a very talented scientist and we had a lot of fruitful discussions."
+                    "Question": "6. What are some of your favorite chapters in the book?",
+                    "Answer": "6. Some of my favorite chapters in the book are those that deal with the topics of self-compassion and self-care. I think these are essential concepts that everyone should understand and practice."
                 },
                 {
-                    "Question": "7. How did your work on the three laws of motion contribute to our understanding of the physical world?",
-                    "Answer": "7. My work on the three laws of motion helped to establish the basic principles of classical mechanics. These laws are still used today to explain the motion of objects."
+                    "Question": "7. What do you hope that people will take away from reading your book?",
+                    "Answer": "7. I hope that people will take away from reading my book that change is possible. No matter how difficult their situation may seem, they can make positive changes in their lives if they are willing to work hard and be honest with themselves."
                 },
                 {
-                    "Question": "8. What are your thoughts on the role of experimentation in physics?",
-                    "Answer": "8. I believe that experimentation is essential for physics. It allows us to test our theories and to verify our predictions."
+                    "Question": "8. What are your plans for promoting your book?",
+                    "Answer": "8. My plans for promoting my book include doing some speaking engagements and workshops, as well as working with local bookstores and libraries. I will also be using social media to spread the word about my book."
                 },
                 {
-                    "Question": "9. What insights did you gain from your work on the theory of gravity?",
-                    "Answer": "9. The work on the theory of gravity led to the development of the law of universal gravitation. This law explains the force of gravity and its effects on the movement of objects."
+                    "Question": "9. What are your thoughts on the current state of the self-help genre?",
+                    "Answer": "9. I think the current state of the self-help genre is positive. There are a lot of great books out there that can really help people."
                 },
                 {
-                    "Question": "10. How did your work on calculus contribute to the development of mathematics?",
-                    "Answer": "10. My work on calculus helped to develop the mathematics of change. This branch of mathematics is essential for the study of physics."
-                },
-                {
-                    "Question": "11. What are your thoughts on the role of physics in society?",
-                    "Answer": "11. I believe that physics is essential for society. It helps us to understand the world around us and to make technological advances."
-                },
-                {
-                    "Question": "12. What do you believe is the most important legacy of your work?",
-                    "Answer": "12. I believe that the most important legacy of my work is the development of classical mechanics. This branch of physics is essential for the understanding of the physical world."
-                },
-                {
-                    "Question": "13. What advice would you give to young scientists who are just starting out?",
-                    "Answer": "13. My advice to young scientists is to be curious and to never give up. Curiosity is the key to making new discoveries. And, even if you fail at first, you must never give up."
-                },
-                {
-                    "Question": "14. What do you believe is the future of physics?",
-                    "Answer": "14. I believe that the future of physics is very bright. We have only scratched the surface of knowledge and there is much more to be discovered."
-                },
-                {
-                    "Question": "15. What are your thoughts on the role of physics in the 21st century?",
-                    "Answer": "15. I believe that physics is essential for the 21st century. It helps us to understand the world around us and to make technological advances."
+                    "Question": "10. Do you have any other books in the works that you can tell us about?",
+                    "Answer": "10. I do have another book in the works that I can tell you about. It is tentatively titled \"The Power of Self-Compassion\" and it will be about the importance of being kind to oneself."
                 }
             ],
-            "Output": "In an exclusive interview, time-travelling journalist sits down with Sir Issac Newton to discuss his life, work, and legacy.\n\nNewton, who is widely regarded as one of the most influential scientists of all time, discusses his motivation for becoming a scientist, his work on optics and gravity, and the role of mathematics in physics. He also shares his thoughts on the importance of experimentation, the theory of gravity, and the future of physics.\n\nNewton offers advice to young scientists starting out in their careers, and shares his belief that physics is essential for the 21st century. He also discusses the most important legacy of his work, which is the development of classical mechanics.\n\nThis fascinating interview provides insight into the mind of one of the most brilliant scientists of all time, and offers a glimpse into the future of physics."
+            "Output": "The Power of Self-Awareness is a book about the importance of self-awareness and self-acceptance. Based on the author's own personal experiences, the book offers concrete suggestions for how to make positive changes in one's life. The book is a unique and inspiring guide that will help readers understand themselves and make the changes they need to improve their lives."
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What inspired you to become a political leader?",
-                    "Answer": "1. I was inspired to become a political leader by my experiences in South Africa, where I saw firsthand the injustice of racial discrimination."
+                    "Question": "1. What inspired you to write this book?",
+                    "Answer": "1. I was inspired to write this book because I love science fiction and wanted to explore the genre in more depth."
                 },
                 {
-                    "Question": "2. What motivated you to fight for India's independence?",
-                    "Answer": "2. I was motivated to fight for India's independence because I saw how the British colonial government was oppressing my people."
+                    "Question": "2. What influenced the choice of setting and genre?",
+                    "Answer": "2. I chose the setting and genre because I wanted to create a world that was both familiar and strange, and science fiction offers that."
                 },
                 {
-                    "Question": "3. What methods did you use to achieve your goals?",
-                    "Answer": "3. I used a variety of methods to achieve my goals, including nonviolent resistance, civil disobedience, and mass protests."
+                    "Question": "3. Why did you choose to make the book a science fiction story?",
+                    "Answer": "3. I wanted to make the book a science fiction story because I love the genre and its potential for exploration."
                 },
                 {
-                    "Question": "4. How did you manage to unify the Indian people?",
-                    "Answer": "4. I managed to unify the Indian people by appealing to their shared culture and values."
+                    "Question": "4. What themes are explored in the book?",
+                    "Answer": "4. The themes explored in the book include science, technology, and society."
                 },
                 {
-                    "Question": "5. What obstacles did you face during your struggle?",
-                    "Answer": "5. I faced many obstacles during my struggle, including violence from the British colonial government and opposition from within India."
+                    "Question": "5. What are the main characters like?",
+                    "Answer": "5. The main characters are people who are struggling to understand and adapt to the changes in their world."
                 },
                 {
-                    "Question": "6. How did you overcome them?",
-                    "Answer": "6. I overcame these obstacles by maintaining my commitment to nonviolence and by winning over the support of the Indian people."
+                    "Question": "6. What challenges do they face?",
+                    "Answer": "6. The challenges they face include figuring out how to live in a world that is constantly changing and often seems hostile."
                 },
                 {
-                    "Question": "7. What impact did your movement have on British rule in India?",
-                    "Answer": "7. My movement had a significant impact on British rule in India, leading to the withdrawal of the British colonial government."
+                    "Question": "7. What scenes in the book are most memorable?",
+                    "Answer": "7. The most memorable scenes in the book are those in which the characters are trying to figure out what to do next."
                 },
                 {
-                    "Question": "8. How did your philosophy of nonviolent resistance influence subsequent political movements?",
-                    "Answer": "8. My philosophy of nonviolent resistance influenced subsequent political movements, including the civil rights movement in the United States."
+                    "Question": "8. What did you enjoy most about writing this book?",
+                    "Answer": "8. I enjoyed writing this book because it gave me a chance to explore a world that is both familiar and strange."
                 },
                 {
-                    "Question": "9. What do you think are the most important lessons to be learned from your life and work?",
-                    "Answer": "9. The most important lessons to be learned from my life and work are the importance of nonviolence and the power of unity."
+                    "Question": "9. What are your hopes for this book?",
+                    "Answer": "9. My hope for this book is that it will inspire readers to think about the world in new and different ways."
                 },
                 {
-                    "Question": "10. How do you see India's future development?",
-                    "Answer": "10. I see India's future development as being based on economic self-reliance and social justice."
-                },
-                {
-                    "Question": "11. What are your thoughts on economic development and poverty alleviation?",
-                    "Answer": "11. My thoughts on economic development and poverty alleviation are that they can best be achieved through a mix of government action and private enterprise."
-                },
-                {
-                    "Question": "12. What is your opinion on caste and religious discrimination?",
-                    "Answer": "12. I believe that caste and religious discrimination are wrong and counterproductive, and I have worked to promote equality between all people."
-                },
-                {
-                    "Question": "13. What do you think about the role of women in society?",
-                    "Answer": "13. I believe that women should have equal rights and opportunities as men, and I have worked to promote women's rights throughout my career."
-                },
-                {
-                    "Question": "14. What is your vision for India's foreign policy?",
-                    "Answer": "14. My vision for India's foreign policy is one of peace and friendship with all nations."
-                },
-                {
-                    "Question": "15. What are your thoughts on the role of the media in a democracy?",
-                    "Answer": "15. I believe that the media has an important role to play in a democracy, and I have always worked to ensure that the media is free and independent."
+                    "Question": "10. What are you working on next?",
+                    "Answer": "10. I am working on a new book that explores the theme of love in the time of technology."
                 }
             ],
-            "Output": "In an exclusive interview, Mahatama Gandhi shares his thoughts on a variety of topics, from his inspirations for becoming a political leader to his vision for India's future.\n\nGandhi discusses his motivation for fighting for India's independence, saying that he was inspired by the unjust treatment of his people by the British colonial government. He describes his methods for achieving his goals, including nonviolent resistance and mass protests, and explains how he managed to unify the Indian people.\n\nGandhi talks about the obstacles he faced during his struggle, including violence from the British government and opposition from within India, and how he overcame them. He discusses the impact his movement had on British rule in India, and how his philosophy of nonviolent resistance influenced subsequent political movements.\n\nGandhi shares his thoughts on the most important lessons to be learned from his life and work, and offers his vision for India's future development. He discusses his thoughts on economic development and poverty alleviation, and shares his opinion on caste and religious discrimination. Gandhi also talks about the role of women in society and his vision for India's foreign policy.\n\nFinally, Gandhi shares his thoughts on the role of the media in a democracy, stressing the importance of a free and independent media."
+            "Output": "\nIn a world that is constantly changing, the main characters must figure out how to live in a world that often seems hostile. With science and technology as their guide, they must find a way to survive and thrive in this new world."
         },
         {
             "QApair": [
                 {
-                    "Question": "1) How would you describe your musical style?",
-                    "Answer": "1) My musical style can be described as a mix of rock, blues, and country."
+                    "Question": "1. What inspired you to write your book?",
+                    "Answer": "1. I was inspired to write my book because I saw a need for more business books that focus on social media marketing."
                 },
                 {
-                    "Question": "2) How did you develop your musical style?",
-                    "Answer": "2) I developed my musical style by listening to and watching a variety of artists, including Hank Williams and Little Richard."
+                    "Question": "2. What are the main topics covered in your book?",
+                    "Answer": "2. The main topics covered in my book are social media marketing strategy, tips and tricks for using social media to promote your business, and case studies of businesses that have successfully used social media marketing."
                 },
                 {
-                    "Question": "3) What influenced your musical style?",
-                    "Answer": "3) My musical style was influenced by the music I heard growing up in the south, as well as the artists I mentioned above."
+                    "Question": "3. What are your book`s key takeaways?",
+                    "Answer": "3. The key takeaways from my book are that social media marketing is a powerful tool that can help businesses reach new customers, but it takes planning and effort to do it effectively."
                 },
                 {
-                    "Question": "4) How did you become a musician?",
-                    "Answer": "4) I became a musician because I loved music and I wanted to share my talents with the world."
+                    "Question": "4. Who is your target audience?",
+                    "Answer": "4. My target audience for this book is small business owners and marketing professionals who want to learn more about social media marketing."
                 },
                 {
-                    "Question": "5) What was your first musical experience?",
-                    "Answer": "5) My first musical experience was singing in the church choir."
+                    "Question": "5. How did you come up with the title of your book?",
+                    "Answer": "5. I came up with the title of my book, Social Media Marketing for Businesses, because I wanted to convey that this book is about using social media to promote businesses."
                 },
                 {
-                    "Question": "6) How did you first get into music?",
-                    "Answer": "6) I first got into music when I was a teenager and I started playing guitar."
+                    "Question": "6. What are some of the unique selling points of your book?",
+                    "Answer": "6. Some of the unique selling points of my book include the fact that it is one of the first business books to focus exclusively on social media marketing, and that it includes case studies of businesses that have used social media marketing successfully."
                 },
                 {
-                    "Question": "7) What is your favorite Elvis Presley song?",
-                    "Answer": "7) My favorite Elvis Presley song is \"Hound Dog.\""
+                    "Question": "7. What are your book`s most popular chapters?",
+                    "Answer": "7. Some of the most popular chapters in my book are the ones that focus on specific social media platforms like Facebook, Twitter, and LinkedIn."
                 },
                 {
-                    "Question": "8) What is your favorite Elvis Presley album?",
-                    "Answer": "8) My favorite Elvis Presley album is \"Elvis Presley.\""
+                    "Question": "8. What are some of the challenges you faced while writing your book?",
+                    "Answer": "8. One of the challenges I faced while writing my book was making sure that the information was up-to-date, since social media is such a rapidly changing field."
                 },
                 {
-                    "Question": "9) What are your thoughts on the current state of the music industry?",
-                    "Answer": "9) I think the current state of the music industry is good. There are a lot of talented artists out there making great music."
+                    "Question": "9. How did you overcome those challenges?",
+                    "Answer": "9. I overcame this challenge by conducting extensive research and keeping up with the latest news and developments in the social media world."
                 },
                 {
-                    "Question": "10) How do you feel about your place in the music industry?",
-                    "Answer": "10) I feel very fortunate to have had the career that I have had. I am grateful to my fans for their support."
-                },
-                {
-                    "Question": "11) What is your songwriting process like?",
-                    "Answer": "11) My songwriting process usually starts with a feeling or an idea that I want to express. I then start working on the music and the lyrics."
-                },
-                {
-                    "Question": "12) What are your thoughts on live performances?",
-                    "Answer": "12) I enjoy performing live. I think it's a great way to connect with fans and to share my music."
-                },
-                {
-                    "Question": "13) What is the most memorable live performance you`ve ever given?",
-                    "Answer": "13) One of the most memorable live performances I've ever given was at Madison Square Garden in 1972."
-                },
-                {
-                    "Question": "14) What is the best advice you`ve ever been given about music?",
-                    "Answer": "14) The best advice I've ever been given about music is to just be myself and to always stay true to my vision."
-                },
-                {
-                    "Question": "15) What advice would you give to aspiring musicians?",
-                    "Answer": "15) My advice to aspiring musicians is to work hard and to never give up on your dreams."
+                    "Question": "10. What are your thoughts on the current state of the business book market?",
+                    "Answer": "10. I think the current state of the business book market is exciting because there are so many new and innovative books being published."
                 }
             ],
-            "Output": "In an interview with a time-traveling journalist, Elvis Presley described his musical style as a mix of rock, blues, and country. He developed his musical style by listening to and watching a variety of artists, including Hank Williams and Little Richard. His musical style was influenced by the music he heard growing up in the south, as well as the artists he mentioned above.\n\nPresley became a musician because he loved music and he wanted to share his talents with the world. His first musical experience was singing in the church choir. He first got into music when he was a teenager and he started playing guitar.\n\nHis favorite Elvis Presley song is \"Hound Dog.\" His favorite Elvis Presley album is \"Elvis Presley.\" He thinks the current state of the music industry is good. He feels very fortunate to have had the career that he has had.\n\nHis songwriting process usually starts with a feeling or an idea that he wants to express. He then starts working on the music and the lyrics. He enjoys performing live. He thinks it's a great way to connect with fans and to share his music.\n\nOne of the most memorable live performances he's ever given was at Madison Square Garden in 1972. The best advice he's ever been given about music is to just be himself and to always stay true to his vision. His advice to aspiring musicians is to work hard and to never give up on your dreams."
+            "Output": "Social Media Marketing for Businesses is a book that shows small business owners and marketing professionals how to use social media to reach new customers. The book includes tips and tricks for using social media platforms like Facebook, Twitter, and LinkedIn, as well as case studies of businesses that have used social media marketing successfully."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/KrPAeV9UEotVNSuCwsvwQKa4?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/18pm8syP0MY6G0txAG8z-ybj22BTxOqIw?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/GqHZiXTserit4eoxgNGPfA2n?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1oqkxZY0TJrGP6il8XfWLGl9wLN76XmbZ?usp=sharing"
 }

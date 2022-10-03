@@ -1,152 +1,148 @@
 {
     "Contributor": "lakshmisettiabhishekkumar",
     "Domain": "Culinary Arts",
-    "Task": "Dish recommendation based on dietary intake",
+    "Task": "Feasible Dishes recommendation based on available groceries and cookware",
     "Prompt": {
-        "pre_question_prompt": "I am an expert chef. I will ask some questions to collect information and then I will use the information to suggest you food items for your stated calorie intake.",
-        "task_specific_prompt": "Suggest me some dishes using the questions and answers above. State the quantity in kilograms as well"
+        "pre_question_prompt": "I am an expert chef. I will ask some questions to collect information about available groceries and cooking ware, then I will use the information to suggest you some feasible dishes that can be prepared using the same.",
+        "task_specific_prompt": "Write some feasible dishes that can be cooked using the questions and answers above. Please be specific"
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "How many calories do you want to eat?",
-                    "Answer": "I want to eat 2000 calories."
+                    "Question": "What do you have in your kitchen?",
+                    "Answer": "I have a electric stove, a fridge, a cleaning sink, cutlery set and a cutting board."
                 },
                 {
-                    "Question": "Do you have any dietary restrictions?",
-                    "Answer": "I am a non-vegetarian."
+                    "Question": "What food do you have in your kitchen?",
+                    "Answer": "I have some chicken, some vegetables, some eggs, and some flour."
                 },
                 {
-                    "Question": "Do you have any allergies?",
-                    "Answer": "No, I don't have any allergies."
+                    "Question": "For how many people you are planning to cook?",
+                    "Answer": "Response : 2-3 people."
                 },
                 {
-                    "Question": "What is your favorite type of food?",
-                    "Answer": "I like spicy food."
-                },
-                {
-                    "Question": "What is your favorite dish?",
-                    "Answer": "I like butter chicken curry."
-                },
-                {
-                    "Question": "What is your favorite ingredient?",
-                    "Answer": "I like fried onions."
-                },
-                {
-                    "Question": "What is your preferred cooking method?",
-                    "Answer": "I like to cook food in a tawa."
-                },
-                {
-                    "Question": "What is your preferred cuisine?",
-                    "Answer": "I like Indian cuisine."
-                },
-                {
-                    "Question": "What is your preferred food style?",
-                    "Answer": "I like finger food."
-                },
-                {
-                    "Question": "What is your preferred eating time?",
-                    "Answer": "I like to eat in the evening."
-                }
-            ],
-            "Output": "1. Chicken Tikka Masala- 0.5 kg 2. Butter Chicken- 0.5 kg 3. Chicken Curry- 0.5 kg 4. Fried Rice- 0.5 kg 5. Chicken Biryani- 1 kg"
-        },
-        {
-            "QApair": [
-                {
-                    "Question": "What is your calorie intake?",
-                    "Answer": "My calorie intake is 1500 calories per day."
-                },
-                {
-                    "Question": "What are your favorite foods?",
-                    "Answer": "Some of my favorite foods are seafood and leafy vegetables."
-                },
-                {
-                    "Question": "What foods do you not like?",
-                    "Answer": "Some foods that I do not like are spicy foods and high fat foods."
-                },
-                {
-                    "Question": "Your cuisine preference?",
-                    "Answer": "I prefer healthy and light cuisine."
-                },
-                {
-                    "Question": "Your food allergies, if any?",
-                    "Answer": "I am allergic to peanuts."
-                },
-                {
-                    "Question": "Do you have any dietary restrictions?",
-                    "Answer": "I am a non-vegetarian."
-                },
-                {
-                    "Question": "Are you looking for food items for breakfast, lunch, dinner or snacks?",
-                    "Answer": "I am looking for food items for lunch options."
-                },
-                {
-                    "Question": "What is your budget?",
-                    "Answer": "My budget is $10 per day."
-                },
-                {
-                    "Question": "Which conntinental style you prefer?",
-                    "Answer": "I prefer American cuisine."
-                },
-                {
-                    "Question": "Would you like to include dessert options?",
-                    "Answer": "I would like to include dessert options."
-                }
-            ],
-            "Output": "Some dishes that I would suggest are: -Seafood: Salmon, shrimp, lobster (1/2 pound) -Vegetables: Broccoli, asparagus, kale (1/2 pound) -Dessert: Chocolate cake, apple pie, ice cream (1/2 cup)"
-        },
-        {
-            "QApair": [
-                {
-                    "Question": "How many calories would you like to consume in a day?",
-                    "Answer": "I would like to consume 3,000 calories in a day."
-                },
-                {
-                    "Question": "What are some of your favorite foods?",
-                    "Answer": "Some of my favorite foods include ramen, quinoa, beans, and leafy vegetables."
-                },
-                {
-                    "Question": "Do you have any dietary restrictions?",
-                    "Answer": "I am vegan."
-                },
-                {
-                    "Question": "Would you like me to suggest breakfast, lunch, and dinner items, or just one meal?",
-                    "Answer": "I would like you to suggest items for all three meals."
-                },
-                {
-                    "Question": "Would you like me to include snacks in your daily calorie intake?",
-                    "Answer": "No, I wouldn't like you to include snacks in my daily calorie intake."
-                },
-                {
-                    "Question": "Are you looking for specific cuisine suggestions?",
-                    "Answer": "Yes, I am looking for specific cuisine suggestions."
+                    "Question": "Would you like me to suggest some specific dishes or just some general ideas?",
+                    "Answer": "Response: Some specific dishes, please."
                 },
                 {
                     "Question": "What type of cuisine are you interested in?",
-                    "Answer": "I am interested in Japanese vegan cuisine."
+                    "Answer": "Response: I'm interested in Italian cuisine."
                 },
                 {
-                    "Question": "What are some of your favorite flavors?",
-                    "Answer": "Some of my favorite flavors include umami, sweet, and savory."
+                    "Question": "What dishes do you know how to make?",
+                    "Answer": "None."
                 },
                 {
-                    "Question": "Would you like me to include dessert in your daily calorie intake?",
-                    "Answer": "No, I wouldn't like you to include dessert in my daily calorie intake."
+                    "Question": "Would you like me to suggest some recipes for you to try?",
+                    "Answer": "Yes, please."
                 },
                 {
-                    "Question": "Would you like me to make suggestions for food items that you can cook at home, or would you prefer restaurant suggestions?",
-                    "Answer": "I would like you to make suggestions for food items that I can cook at home."
+                    "Question": "What recipes would you like me to suggest?",
+                    "Answer": "Some recipes for chicken dishes, please."
+                },
+                {
+                    "Question": "What side dishes would you like?",
+                    "Answer": "Some recipes for vegetable dishes, please."
+                },
+                {
+                    "Question": "Would you like me to suggest some dessert recipes as well?",
+                    "Answer": "No, thank you."
                 }
             ],
-            "Output": "-Ramen with quinoa, beans, and leafy vegetables: 2 pounds\n\n-Quinoa bowl with roasted vegetables and avocado: 1 pound\n\n-Bean and vegetable soup: 1.5 pounds\n\n-Vegan sushi: 1 pound"
+            "Output": "1. Chicken Parmesan\n2. Chicken Marsala\n3. Roasted Chicken with vegetables\n4. Eggplant Parmesan\n5. Spaghetti with meat sauce"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you have in your refrigerator?",
+                    "Answer": "I have some panneer, milk, tomatoes, and some onions."
+                },
+                {
+                    "Question": "What do you have in your pantry?",
+                    "Answer": "I have some rice, noodles, and some indian spices."
+                },
+                {
+                    "Question": "What cooking ware do you have?",
+                    "Answer": "I have a pan, a mixer, and a pressure cooker."
+                },
+                {
+                    "Question": "What are your dietary restrictions?",
+                    "Answer": "I am not sure."
+                },
+                {
+                    "Question": "Any other information?",
+                    "Answer": "I am planning to cook it for 5 people."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$20 may be."
+                },
+                {
+                    "Question": "What is the occasion?",
+                    "Answer": "Vinaya Chavithi."
+                },
+                {
+                    "Question": "What is the time limit?",
+                    "Answer": "2 and half hours."
+                },
+                {
+                    "Question": "What is your preferred cuisine?",
+                    "Answer": "South Indian probably."
+                },
+                {
+                    "Question": "What dishes do you know how to cook?",
+                    "Answer": "I can cook everything."
+                }
+            ],
+            "Output": "1. Tomato rice\n2. Paneer biryani\n3. Veg pulao\n4. Masala noodles\n5. Tomato soup\n6. Paneer curry\n7. Veg kofta curry\n8. Mixed vegetable stir fry\n9. Egg fried rice\n10. Chicken soup"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you have in your fridge?",
+                    "Answer": "I have some chicken breasts. I also have some vegetables, including carrots, potatoes, and onions. I have some eggs, cheese, and milk. I also have some bread, pasta, and rice."
+                },
+                {
+                    "Question": "What do you have in your pantry?",
+                    "Answer": "I have some flour, sugar, salt, and pepper. I also have some spices, including garlic powder, onion powder, and oregano. I have some olive oil and vegetable oil."
+                },
+                {
+                    "Question": "What cooking ware do you have?",
+                    "Answer": "I have a stove, an oven, and a microwave. I also have pots, pans, and baking sheets."
+                },
+                {
+                    "Question": "Are you looking for something specific?",
+                    "Answer": "Yes, I'm looking for some ideas that would with weather condition and mood."
+                },
+                {
+                    "Question": "What is the weather like?",
+                    "Answer": "It's sunny and hot outside."
+                },
+                {
+                    "Question": "What is your mood like?",
+                    "Answer": "I'm feeling hungry and want eat something heavily. Ask me some new questions"
+                },
+                {
+                    "Question": "What type of dish are you in the mood for?",
+                    "Answer": "I'm in the mood to prepare and eat an arabic cuisine."
+                },
+                {
+                    "Question": "Can you please be more specific?",
+                    "Answer": "I would like to prepare a dish that is hearty and filling, yet light and refreshing."
+                },
+                {
+                    "Question": "What do you have in mind?",
+                    "Answer": "I was thinking maybe something like chicken shawarma with mayonisse."
+                }
+            ],
+            "Output": "1. Chicken Shawarma: Season chicken breasts with garlic powder, onion powder, oregano, salt, and pepper. Grill or cook chicken breasts until cooked through. Slice chicken into thin strips. Serve on a pita with mayonnaise, lettuce, and tomato.\n\n2. Chicken and Rice: Season chicken breasts with garlic powder, onion powder, oregano, salt, and pepper. Grill or cook chicken breasts until cooked through. Remove chicken from grill or pan and chop into bite-sized pieces. In a pot, bring water to a boil and add rice. Cook rice according to package instructions. Once rice is cooked, stir in chicken and vegetables. Serve with olive oil and lemon juice.\n\n3. Chicken Pasta: Season chicken breasts with garlic powder, onion powder, oregano, salt, and pepper. Grill or cook chicken breasts until cooked through. Remove chicken from grill or pan and chop into bite-sized pieces. In a pot, bring water to a boil and add pasta. Cook pasta according to package instructions. Once pasta is cooked, stir in chicken and vegetables. Serve with olive oil and Parmesan cheese."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/1Q1IrVzSuxZudGfPKevr3iYx?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/q3NccjTQWnp65h9wTx8leaXs?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/d55hyzN0peR5NiYVXEEGhaFM?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/gQSVtfnYtJveT8XXIReoqUap?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RpqKlc5y54BNoTxVgPVkhJtk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RpqKlc5y54BNoTxVgPVkhJtk?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/173QlqgZ1_E6ePgxKz1bDAulBpi2u4nPB?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1aL1cbDYbvyLFPY57KdFnvUSl1EzyFGk3?usp=sharing"
 }

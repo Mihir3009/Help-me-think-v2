@@ -1,156 +1,148 @@
 {
     "Contributor": "kumarabhinav",
     "Domain": "Copywriting",
-    "Task": "Report Creation ",
+    "Task": "Website Design Creation",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in copywriting. I will ask some questions to collect information and then I will use the information to prepare report .",
-        "task_specific_prompt": "Write a detailed report based on questions and answers above."
+        "pre_question_prompt": "I am an expert in agriculture. I will ask some questions to collect information and then I will use the information to design a website for the company . ",
+        "task_specific_prompt": "Based on questions and answers above, give detailed website design ideas."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": " What is the purpose of the report? ",
-                    "Answer": " The purpose of the report is to write about the recent fire accident that occurred in one of the factories ."
+                    "Question": " What is the name of your company? ",
+                    "Answer": " True Science Experiments."
                 },
                 {
-                    "Question": " Who is the target audience of the report? ",
-                    "Answer": " The target audience of the report is the upper management."
+                    "Question": " What is your company's tagline? ",
+                    "Answer": " \"True Science Experiments\" is a website dedicated to providing safe, easy-to-understand science experiments for kids of all ages."
                 },
                 {
-                    "Question": " What are the main points that you want to communicate in the report? ",
-                    "Answer": " The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents."
+                    "Question": " What is your company's mission statement? ",
+                    "Answer": " Our mission is to provide a fun and educational experience for children of all ages by conducting safe, easy-to-understand science experiments."
                 },
                 {
-                    "Question": " What is the tone of the report? ",
-                    "Answer": " The tone of the report is objective and factual."
+                    "Question": " What are the products or services that your company offers? ",
+                    "Answer": " Our website offers a variety of science experiments for kids of all ages to enjoy- These experiments are safe and easy to understand, making them perfect for kids to learn from and have fun with."
                 },
                 {
-                    "Question": " What is the structure of the report? ",
-                    "Answer": " The structure of the report is as follows: Introduction Body Conclusion."
+                    "Question": " Who is your target audience? ",
+                    "Answer": " Our target audience is children of all ages who are interested in science and learning through hands-on experience."
                 },
                 {
-                    "Question": " What are the main sources of information for the report? ",
-                    "Answer": " The main sources of information for the report are the interviews with the workers, the management and the safety inspector."
+                    "Question": " What are your company's core values? ",
+                    "Answer": " Our company's core values are safety, education, and fun- We believe that all children should have the opportunity to learn about science in a safe and fun environment."
                 },
                 {
-                    "Question": " What are the limitations of the report? ",
-                    "Answer": " The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations."
+                    "Question": " What makes your company unique? ",
+                    "Answer": " There are a few things that make our company unique- First, we offer a wide variety of science experiments for kids to choose from- Second, all of our experiments are safe and easy to understand- Lastly, we believe that learning should be fun, so we make sure to include a lot of fun elements in our experiments."
                 },
                 {
-                    "Question": " What are the recommendations of the report? ",
-                    "Answer": " The recommendations of the report are as follows: 1- Improve the safety procedures in the factory - 2- Provide more training to the workers on safety procedures- 3- Conduct regular safety audits in the factory."
+                    "Question": " What is your company's history? ",
+                    "Answer": " True Science Experiments was founded in 2020 by a group of science enthusiasts who wanted to provide safe, easy-to-understand science experiments for kids of all ages- Since then, we've been working hard to provide a fun and educational experience for children all over the world."
                 },
                 {
-                    "Question": " What is the expected length of the report? ",
-                    "Answer": " The expected length of the report is 200 words."
+                    "Question": " What are some of the awards or recognition that your company has received? ",
+                    "Answer": " Our company has received a lot of positive feedback from parents and kids alike- We've also been featured on a few parenting blogs and websites."
                 },
                 {
-                    "Question": " When is the report due? ",
-                    "Answer": " The report is due on Monday."
+                    "Question": " Do you have any testimonials from satisfied customers? ",
+                    "Answer": " Yes, we have a few testimonials from satisfied customers on our website."
                 }
             ],
-            "Output": "Introduction On Monday, a fire accident occurred in one of the factories. The purpose of this report is to write about the recent fire accident and to make recommendations to prevent future accidents. The target audience of this report is the upper management. The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents. The tone of the report is objective and factual. The structure of the report is as follows: Introduction Body Conclusion The main sources of information for this report are the interviews with the workers, the management and the safety inspector. The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations. The recommendations of the report are as follows: 1. Improve the safety procedures in the factory. 2. Provide more training to the workers on safety procedures. 3. Conduct regular safety audits in the factory. The expected length of the report is 200 words."
+            "Output": "-The website should have a simple, clean design. -The website should be easy to navigate and should be organized by topic. -The website should have a search bar so that visitors can easily find the experiments they are looking for. -The website should feature a variety of science experiments for kids of all ages. -The website should have a blog section where parents can find helpful tips and advice. -The website should have a contact form so that visitors can easily get in touch with the company. "
         },
         {
             "QApair": [
                 {
-                    "Question": " What is the main purpose of the report? ",
-                    "Answer": " To provide a detailed information about an accident."
+                    "Question": " What is the name of your company? ",
+                    "Answer": " True Science Experiments."
                 },
                 {
-                    "Question": " What type of accident is it? ",
-                    "Answer": " It is a car accident."
+                    "Question": " What is your company's tagline? ",
+                    "Answer": " True Science Experiments is a website dedicated to providing advanced science experiments for scientists and researchers."
                 },
                 {
-                    "Question": " When and where did it happen? ",
-                    "Answer": " It happened on May 5th, 2020 at 3:00pm on the I-5 freeway."
+                    "Question": " What is your company's mission statement? ",
+                    "Answer": " Our mission is to provide advanced science experiments for scientists and researchers- We aim to provide a platform for experimentation and discovery, and to promote scientific literacy."
                 },
                 {
-                    "Question": " Who was involved in the accident? ",
-                    "Answer": " There were two cars involved in the accident- The first car was a black Honda Civic and the second car was a white Toyota Camry."
+                    "Question": " What are your company's core values? ",
+                    "Answer": " Our core values are scientific excellence, curiosity, and collaboration."
                 },
                 {
-                    "Question": " What caused the accident? ",
-                    "Answer": " The cause of the accident is still under investigation."
+                    "Question": " What does your company specialize in? ",
+                    "Answer": " We specialize in providing advanced science experiments for scientists and researchers- We provide hardware development, software development tools for advanced research say, finding the centre of Universe."
                 },
                 {
-                    "Question": " What are the damages? ",
-                    "Answer": " The damages are still unknown."
+                    "Question": " What are your company's unique selling points? ",
+                    "Answer": " Our unique selling points are our scientific excellence, our commitment to collaboration, and our curiosity."
                 },
                 {
-                    "Question": " Were there any injuries? ",
-                    "Answer": " There were no injuries reported."
+                    "Question": " Who is your target audience? ",
+                    "Answer": " Our target audience is scientists and researchers who are looking for advanced science experiments."
                 },
                 {
-                    "Question": " Is the road blocked? ",
-                    "Answer": " The road is not blocked."
+                    "Question": " What are your company's goals? ",
+                    "Answer": " Our goal is to provide advanced science experiments for scientists and researchers- We also aim to promote scientific literacy and to foster a love of learning in our target audience."
                 },
                 {
-                    "Question": " Who is the insurance company? ",
-                    "Answer": " The insurance company is still unknown."
+                    "Question": " What kind of tone do you want your website to have? ",
+                    "Answer": " We want our website to have a scientific tone that is also accessible to a lay audience."
                 },
                 {
-                    "Question": " What is the policy number? ",
-                    "Answer": " The policy number is still unknown."
-                },
-                {
-                    "Question": " What is the claim number? ",
-                    "Answer": " The claim number is still unknown."
-                },
-                {
-                    "Question": " Is there a police report? ",
-                    "Answer": " Yes, there is a police report."
+                    "Question": " What kind of information do you want to include on your website? ",
+                    "Answer": " We want to include information about our company, our services, our core values, and our goals- We also want to include a blog and a resource center- We also want to include some products like Laser Interferometer."
                 }
             ],
-            "Output": "On May 5th, 2020, at 3:00pm, there was a car accident on the I-5 freeway. The accident involved two cars, a black Honda Civic and a white Toyota Camry. The cause of the accident is still under investigation. The damages are unknown at this time. There were no reported injuries and the road is not blocked. The insurance company is unknown at this time. The policy number and claim number are also unknown. There is a police report. "
+            "Output": "True Science Experiments is a website dedicated to providing advanced science experiments for scientists and researchers. The company was founded with the mission to provide a platform for experimentation and discovery, and to promote scientific literacy. True Science Experiments specializes in providing advanced science experiments for scientists and researchers. The company provides hardware development, software development tools for advanced research say, finding the centre of Universe. The company's unique selling points are its scientific excellence, its commitment to collaboration, and its curiosity. The company's target audience is scientists and researchers who are looking for advanced science experiments. The company's goal is to provide advanced science experiments for scientists and researchers. The company also aims to promote scientific literacy and to foster a love of learning in its target audience. The tone of the website should be scientific but also accessible to a lay audience. The website should include information about the company, its services, its core values, and its goals. The website should also include a blog and a resource center. "
         },
         {
             "QApair": [
                 {
-                    "Question": " What would you like me to write about? ",
-                    "Answer": " I would like to write a report about GPT-3 and its success."
+                    "Question": ": What is the name of your company? ",
+                    "Answer": " False Science Experiments."
                 },
                 {
-                    "Question": " What are your thoughts on GPT-3? ",
-                    "Answer": " I believe that GPT-3 is a great tool for copywriters- It allows you to create high quality content very quickly and easily."
+                    "Question": ": What is the company's primary product or service? ",
+                    "Answer": " We sell false science experiments."
                 },
                 {
-                    "Question": " What do you think are the benefits of using GPT-3? ",
-                    "Answer": " The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content."
+                    "Question": ": What are some of the company's key differentiators? ",
+                    "Answer": " We are the only company that sells false science experiments."
                 },
                 {
-                    "Question": " Do you have any examples of reports or articles that you have written using GPT-3? ",
-                    "Answer": " Yes, I have written several reports and articles using GPT-3."
+                    "Question": ": What is the company's target market? ",
+                    "Answer": " People who want to buy false science experiments."
                 },
                 {
-                    "Question": " What do you think sets GPT-3 apart from other writing tools? ",
-                    "Answer": " I believe that GPT-3 is the best writing tool available because it is very fast and easy to use, and it produces high quality content."
+                    "Question": ": What is the company's slogan? ",
+                    "Answer": " The best false science experiments!."
                 },
                 {
-                    "Question": " Do you have any tips on how to get the most out of GPT-3? ",
-                    "Answer": " Yes, I have a few tips on how to get the most out of GPT-3- 1- Make sure to give GPT-3 clear and concise instructions- 2- Make sure to proofread your content before publishing it- 3- Use GPT-3 to create a first draft, and then edit and revise the draft yourself."
+                    "Question": ": What is the company's website address? ",
+                    "Answer": " www-falsescienceexperiments-com."
                 },
                 {
-                    "Question": " Do you think GPT-3 will become the standard writing tool for copywriters? ",
-                    "Answer": " I believe that GPT-3 will become the standard writing tool for copywriters because it is very fast and easy to use, and it produces high quality content."
+                    "Question": ": What are the company's social media handles? ",
+                    "Answer": " @falsescienceexp."
                 },
                 {
-                    "Question": " Do you have any other thoughts on GPT-3? ",
-                    "Answer": " I believe GPT-3 needs to improve."
+                    "Question": ": What is the company's email address? ",
+                    "Answer": " info@falsescienceexperiments-com."
                 },
                 {
-                    "Question": " What do you think GPT-3 needs to improve? ",
-                    "Answer": " I believe that GPT-3 needs to improve its grammar and spelling checking features."
+                    "Question": ": What is the company's phone number? ",
+                    "Answer": " 1-800-123-4567."
                 },
                 {
-                    "Question": " Do you think GPT-3 is a good writing tool? ",
-                    "Answer": " Yes, I believe that GPT-3 is a good writing tool."
+                    "Question": ": What is the company's mailing address? ",
+                    "Answer": " 123 Main Street, New York, NY 10001."
                 }
             ],
-            "Output": "GPT-3 is a great tool for copywriters. It is very fast and easy to use, and it produces high quality content. The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content. I have written several reports and articles using GPT-3, and I believe that it is the best writing tool available. A few tips on how to get the most out of GPT-3 include giving it clear and concise instructions, proofreading your content before publishing it, and using GPT-3 to create a first draft before editing and revising it yourself. I believe that GPT-3 will become the standard writing tool for copywriters."
+            "Output": "-The website should have the company's name, logo, and slogan prominently displayed. -The website should have a clear and concise message about what the company does and what makes it unique. -The website should be designed with the company's target market in mind. -The website should have social media icons linking to the company's accounts. -The website should have a contact form and the company's contact information prominently displayed. -The website should be designed in a clean and professional manner. "
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/qKUp9ibKzfGedpYbjBJyMXyQ?model=text-davinci-002",
-    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask6"
+    "Preset_link": "https://beta.openai.com/playground/p/Ch05oT5fP9oxRBnr11c7F0xg?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask7"
 }

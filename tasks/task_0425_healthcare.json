@@ -1,156 +1,156 @@
 {
     "Contributor": "handadivij",
     "Domain": "Healthcare",
-    "Task": "Mental_Health_Treatment",
+    "Task": "Making_a_Diet_Plan",
     "Prompt": {
-        "pre_question_prompt": "I am an expert mental health doctor. I will ask some questions to collect information and then I will use the information to diagnose.",
-        "task_specific_prompt": "Write a treatment of my mental health using the questions and answers above."
+        "pre_question_prompt": "I am an expert nutritionists. I will ask some questions to collect information and then I will use the information to generate a diet plan.",
+        "task_specific_prompt": "Write a meal plan using the questions and answers above. Write it in bullet points."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What has been going on that has led you to seek out mental health help?",
-                    "Answer": "I have been feeling anxious lately"
+                    "Question": "How much do you weigh?",
+                    "Answer": "I weigh 70 kg."
                 },
                 {
-                    "Question": "What are your symptoms?",
-                    "Answer": "I have been feeling anxious and stressed out. I have been having trouble sleeping and concentrating. I have also been feeling down and have no motivation."
+                    "Question": "How tall are you?",
+                    "Answer": "I am 1.75 m tall."
                 },
                 {
-                    "Question": "Do you have a history of mental health problems?",
-                    "Answer": "No"
+                    "Question": "What is your gender?",
+                    "Answer": "I am a male."
                 },
                 {
-                    "Question": "Do you have a family history of mental health problems?",
-                    "Answer": "No"
+                    "Question": "What is your age?",
+                    "Answer": "I am 24 years old."
                 },
                 {
-                    "Question": "What is your current situation?",
-                    "Answer": "I am a college student and I am taking a full course load. I am also working part-time. I am living at home with my parents."
+                    "Question": "What is your activity level?",
+                    "Answer": "I have a active lifestyle."
                 },
                 {
-                    "Question": "What is your social support like?",
-                    "Answer": "I have a few close friends that I can talk to. I also have a boyfriend that I am close with."
+                    "Question": "What are your dietary preferences?",
+                    "Answer": "I prefer to eat healthy foods."
                 },
                 {
-                    "Question": "What is your current level of functioning?",
-                    "Answer": "I would say that my current level of functioning is good. I am able to take care of myself and I am able to do well in school and work."
+                    "Question": "What are your food allergies?",
+                    "Answer": "I am allergic to foods containing gluten."
                 },
                 {
-                    "Question": "What are your thoughts on your current situation?",
-                    "Answer": "I am feeling overwhelmed with everything that I have to do. I am worried that I am not doing well enough. I am also feeling down because I don't have a lot of free time to do things that I enjoy."
+                    "Question": "What are your medical conditions?",
+                    "Answer": "I have no medical conditions."
                 },
                 {
-                    "Question": "What are your goals for treatment?",
-                    "Answer": "My goals for treatment are to feel less anxious and stressed out. I would also like to be able to sleep better and have more energy."
+                    "Question": "Are you trying to lose weight, gain weight, or maintain your current weight?",
+                    "Answer": "I am trying to lose weight."
                 },
                 {
-                    "Question": "What are your thoughts on medication?",
-                    "Answer": "I am open to trying medication if it would help me feel better."
+                    "Question": "How many calories do you want to consume per day?",
+                    "Answer": "I want to consume 2000 calories per day."
+                },
+                {
+                    "Question": "What are your macronutrient goals?",
+                    "Answer": "My macronutrient goals are to consume 50% carbohydrate, 30% protein, and 20% fat."
                 }
             ],
-            "Output": "The treatment for the patient's mental health should focus on reducing anxiety and stress. The goals of treatment should be to improve sleep, increase energy levels, and help the patient feel better overall. Medication may be an option to help the patient achieve these goals."
+            "Output": "-Eat 2000 calories per day\n-50% carbohydrate, 30% protein, 20% fat\n-3 meals and 2 snacks\n-Each meal should have a source of protein, carbohydrate, and fat\n\nMeal 1:\n-Scrambled eggs with vegetables\n-Whole grain toast\n-Fruit\n\nMeal 2:\n-Chicken salad with whole grain crackers\n-Yogurt\n\nMeal 3:\n-Fish with roasted vegetables\n-Whole grain rice\n-Fruit\n\nSnack 1:\n-Vegetables and dip\n\nSnack 2:\n-Trail mix"
         },
         {
             "QApair": [
                 {
-                    "Question": "What has been going on that has led you to seek out mental health help?",
-                    "Answer": "I am depressed"
+                    "Question": "What is your age?",
+                    "Answer": "My age is 55."
                 },
                 {
-                    "Question": "What are your symptoms?",
-                    "Answer": "I have been feeling stressed out. I have also been feeling down and have no motivation."
+                    "Question": "What is your height?",
+                    "Answer": "My height is 5'5\"."
                 },
                 {
-                    "Question": "Do you have a history of mental health problems?",
-                    "Answer": "No"
+                    "Question": "What is your weight?",
+                    "Answer": "My weight is 150 pounds."
                 },
                 {
-                    "Question": "Do you have a family history of mental health problems?",
-                    "Answer": "Yes"
+                    "Question": "What is your activity level?",
+                    "Answer": "My activity level is moderate."
                 },
                 {
-                    "Question": "What is your current situation?",
-                    "Answer": "I am a college student and I am taking a full course load. I am living alone."
+                    "Question": "What are your dietary restrictions?",
+                    "Answer": "I have no dietary restrictions."
                 },
                 {
-                    "Question": "What is your social support like?",
-                    "Answer": "I have a few friends that I talk to once every week. I don't have any significant other."
+                    "Question": "What are your health concerns?",
+                    "Answer": "I am concerned about my cholesterol levels."
                 },
                 {
-                    "Question": "What is your current level of functioning?",
-                    "Answer": "I would say that my current level of functioning is below average."
+                    "Question": "What is your goal?",
+                    "Answer": "My goal is to lose weight."
                 },
                 {
-                    "Question": "What are your thoughts on your current situation?",
-                    "Answer": "I am feeling overwhelmed with everything that I have to do. I am worried that I am not doing well enough. I am also feeling down because I don't have a lot of free time to do things that I enjoy."
+                    "Question": "How many calories do you want to consume each day?",
+                    "Answer": "I want to consume 3000 calories each day."
                 },
                 {
-                    "Question": "What are your goals for treatment?",
-                    "Answer": "My goals for treatment are to feel less stressed out and more motivated."
+                    "Question": "What is the breakdown of the macronutrients you would like in your diet?",
+                    "Answer": "I would like 60% of my calories to come from carbohydrates, 20% from fat, and 20% from protein."
                 },
                 {
-                    "Question": "What are your thoughts on medication?",
-                    "Answer": "I don't want medication."
+                    "Question": "What are some specific foods you would like to include in your diet?",
+                    "Answer": "Some specific foods I would like to include in my diet is fruits"
                 }
             ],
-            "Output": "The individual has been experiencing symptoms of depression which has led to decreased level of functioning. The individual has a family history of mental health problems. The goals for treatment are to feel less stressed out and more motivated. The treatment plan may include therapy and/or medication."
+            "Output": "-55 year old, 5'5\", 150 pound, moderate activity level\n-No dietary restrictions\n-Concerned about cholesterol levels\n-Goal is to lose weight\n-Consumes 3000 calories per day\n-60% carbohydrates, 20% fat, 20% protein\n\n-Breakfast: whole wheat toast with peanut butter and banana, oatmeal with berries and almond milk, green smoothie with spinach, kale, and avocado\n-Lunch: quinoa salad with black beans, corn, and tomatoes, roasted sweet potato and black bean burrito, veggie wrap with hummus and roasted veggies\n-Dinner: lentil soup, roasted chicken with roasted veggies, salmon with quinoa and steamed veggies"
         },
         {
             "QApair": [
                 {
-                    "Question": "What is your name?",
-                    "Answer": "My name is Dr. Smith."
+                    "Question": "What are your goals?",
+                    "Answer": "My goal is to lose weight."
                 },
                 {
-                    "Question": "What are the symptoms you are experiencing?",
-                    "Answer": "I am feeling sad and hopeless. I have lost interest in activities that I used to enjoy. I am having trouble sleeping and eating. I am feeling tired all the time. I am having difficulty concentrating. I am feeling irritable and anxious."
+                    "Question": "How much weight do you want to lose?",
+                    "Answer": "I want to lose 20 pounds."
                 },
                 {
-                    "Question": "What is your current stress level?",
-                    "Answer": "My stress level is high."
+                    "Question": "How many calories do you currently eat per day?",
+                    "Answer": "I currently eat 2,000 calories per day."
                 },
                 {
-                    "Question": "What is your current occupation?",
-                    "Answer": "I am a doctor."
+                    "Question": "How many calories do you want to eat per day?",
+                    "Answer": "I want to eat 1,800 calories per day."
                 },
                 {
-                    "Question": "Do you have any history of mental illness?",
-                    "Answer": "I have a history of depression."
+                    "Question": "What are your favorite foods?",
+                    "Answer": "My favorite foods are chicken, rice, and vegetables."
                 },
                 {
-                    "Question": "Do you have any family history of mental illness?",
-                    "Answer": "I have a family history of depression."
+                    "Question": "Do you have any dietary restrictions?",
+                    "Answer": "I do not have any dietary restrictions."
                 },
                 {
-                    "Question": "What is your current living situation?",
-                    "Answer": "I am living with my family."
+                    "Question": "Are you willing to try new foods?",
+                    "Answer": "I am willing to try new foods."
                 },
                 {
-                    "Question": "What are your current relationships like?",
-                    "Answer": "I am in a good relationship with my family. However, I am not in a relationship at the moment."
+                    "Question": "What is your activity level?",
+                    "Answer": "I am moderately active."
                 },
                 {
-                    "Question": "What are your hobbies?",
-                    "Answer": "I like to read, write, and go for walks."
+                    "Question": "What is the best time of day for you to eat?",
+                    "Answer": "The best time of day for me to eat is in the evening."
                 },
                 {
-                    "Question": "What is your diet like?",
-                    "Answer": "I try to eat healthy, but I sometimes struggle with eating disorders."
-                },
-                {
-                    "Question": "Do you exercise regularly?",
-                    "Answer": "I try to exercise regularly, but I sometimes struggle to find the motivation."
+                    "Question": "How many meals do you want to eat per day?",
+                    "Answer": "I want to eat three meals per day."
                 }
             ],
-            "Output": "Based on the information collected, it is likely that the individual is experiencing symptoms of depression. Treatment for depression typically includes a combination of medication and therapy. The individual may benefit from meeting with a therapist on a regular basis to discuss their symptoms and develop coping strategies. The individual may also benefit from taking medication to help relieve their symptoms."
+            "Output": "- Breakfast: omelet with vegetables, 1 slice of whole wheat toast, 1 cup of fruit \n- Lunch: salad with chicken, 1 cup of brown rice, 1 cup of steamed vegetables \n- Dinner: grilled chicken, 1 cup of quinoa, 1 cup of steamed broccoli"
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/ALtSJvwoZK3FVVwu8yE7iMs2?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/fYdMkNoYhTiaGRONxP1NoRgI?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/5W1lJw4dmGitNlvAj1TduIi2?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/lSKIIAlplFwmHaAewVoIbNJH?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/SKHSJMG72BrDLSfGzKDHqnTb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pbGjUfJaLAAKNbmAn3xIIkI7?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1bSkqAn0_tOscFjjbNvlx48jGVlZm_heg?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1Yuog5Rb8XxMTEQxgjMqUDZ_kUjqgvA0L?usp=sharing"
 }

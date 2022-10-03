@@ -1,164 +1,152 @@
 {
     "Contributor": "kulkarnimohith",
     "Domain": "Materials Science",
-    "Task": "Material Suggestion",
+    "Task": "Identify the substance",
     "Prompt": {
-        "pre_question_prompt": "I am an expert material scientist engineer. I will ask some simple questions about your product to collect information and then I will suggest you what materials are needed for your product.",
-        "task_specific_prompt": "Suggest me what material I need to use from the questions and answers above."
+        "pre_question_prompt": "I am an expert material scientist who can help identifying substances, I will ask some clarifying questions and based on the information I will identify the substance of your choice.",
+        "task_specific_prompt": "Identify what the substance using the questions and answers above, Also give what the chemical composition of the substance is."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the product?",
-                    "Answer": "table."
+                    "Question": "What is the appearance of the substance?",
+                    "Answer": "silvery-white metal"
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "19.7\"D x 39\"W x 30\"H"
+                    "Question": "Does the substance have any smell?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "What is the product going to be used for?",
-                    "Answer": "as a computer desk table."
+                    "Question": "Is the substance soluble in water?",
+                    "Answer": "Yes"
                 },
                 {
-                    "Question": "What is your budget for this project?",
-                    "Answer": "$100."
+                    "Question": "What is the approximate size of the substance?",
+                    "Answer": "not sure"
                 },
                 {
-                    "Question": "What is the expected life span of the product?",
-                    "Answer": "10 years."
+                    "Question": "Is the substance flammable?",
+                    "Answer": "highly flammable"
                 },
                 {
-                    "Question": "What are the environmental conditions that the product will be used in?",
-                    "Answer": "The product will be used in an air conditioned home environment."
+                    "Question": "Is the substance radioactive?",
+                    "Answer": "Yes"
                 },
                 {
-                    "Question": "Do you have any other requirements?",
-                    "Answer": "I want the table to be light but durable."
+                    "Question": "What is the substance used for?",
+                    "Answer": "medical radiation therapy"
                 },
                 {
-                    "Question": "What is the weight of the product?",
-                    "Answer": "30 lbs."
+                    "Question": "Where was the substance found?",
+                    "Answer": "pollucite deposits."
                 },
                 {
-                    "Question": "What is the maximum weight that the product can support?",
-                    "Answer": "150 lbs."
+                    "Question": "What is the approximate weight of the substance?",
+                    "Answer": "atomic weight 132"
                 },
                 {
-                    "Question": "What color do you want the product to be?",
-                    "Answer": "White."
-                },
-                {
-                    "Question": "Do you have a preferred supplier for the materials?",
-                    "Answer": "No."
+                    "Question": "What is the texture of the substance?",
+                    "Answer": "It is soft metal."
                 }
             ],
-            "Output": "I would suggest using MDF board for the table top and aluminum tubing for the frame."
+            "Output": "The substance is Cesium. Its chemical composition is Cs."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the product?",
-                    "Answer": "Cooking Pot."
+                    "Question": "What is the appearance of the substance?",
+                    "Answer": "stick shaped."
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "18 x 13 x 11 inches"
+                    "Question": "Does the substance have any smell?",
+                    "Answer": "sweet smell"
                 },
                 {
-                    "Question": "What is the product going to be used for?",
-                    "Answer": "cooking."
+                    "Question": "Is the substance soluble in water?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "What is your budget for this project?",
-                    "Answer": "$40."
+                    "Question": "What is the approximate size of the substance?",
+                    "Answer": "upto 1 inch long"
                 },
                 {
-                    "Question": "What is the expected life span of the product?",
-                    "Answer": "2 years."
+                    "Question": "Is the substance flammable?",
+                    "Answer": "Yes"
                 },
                 {
-                    "Question": "What are the environmental conditions that the product will be used in?",
-                    "Answer": "The product will be used on the stove."
+                    "Question": "Is the substance radioactive?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "Do you have any other requirements?",
-                    "Answer": "I want the pot to be non stick and durable."
+                    "Question": "What is the substance used for?",
+                    "Answer": "as a spice"
                 },
                 {
-                    "Question": "What is the weight of the product?",
-                    "Answer": "3 lbs."
+                    "Question": "Where was the substance found?",
+                    "Answer": "In a grocery store."
                 },
                 {
-                    "Question": "What is the maximum weight that the product can support?",
-                    "Answer": "10 lbs."
+                    "Question": "What is the approximate weight of the substance?",
+                    "Answer": "less than 1 gram"
                 },
                 {
-                    "Question": "What color do you want the product to be?",
-                    "Answer": "Black."
-                },
-                {
-                    "Question": "Do you have a preferred supplier for the materials?",
-                    "Answer": "No."
+                    "Question": "What is the texture of the substance?",
+                    "Answer": "It is hard and woody."
                 }
             ],
-            "Output": "The best material for this product would be aluminum. It is lightweight, durable, and has a non-stick surface. It is also inexpensive, which fits your budget.\n"
+            "Output": "The substance is cinnamon. The chemical composition of cinnamon is Cinnamomum verum."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the product?",
-                    "Answer": "A mattress."
+                    "Question": "What is the appearance of the substance?",
+                    "Answer": "It is a white, powdery substance."
                 },
                 {
-                    "Question": "What are the dimensions of your product?",
-                    "Answer": "80 inches length, 38 inch width, 6 inch thickness"
+                    "Question": "Does the substance have any smell?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "What is the product going to be used for?",
-                    "Answer": "to sleep on."
+                    "Question": "Is the substance soluble in water?",
+                    "Answer": "Yes"
                 },
                 {
-                    "Question": "What is your budget for this project?",
-                    "Answer": "$200."
+                    "Question": "What is the approximate size of the substance?",
+                    "Answer": "very small particles."
                 },
                 {
-                    "Question": "What is the expected life span of the product?",
-                    "Answer": "7 years."
+                    "Question": "Is the substance flammable?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "What are the environmental conditions that the product will be used in?",
-                    "Answer": "The product will be used in an air conditioned home environment."
+                    "Question": "Is the substance radioactive?",
+                    "Answer": "No"
                 },
                 {
-                    "Question": "Do you have any other requirements?",
-                    "Answer": "I want the mattress to be firm but comfortable."
+                    "Question": "What is the substance used for?",
+                    "Answer": "It is a food additive used to improve the taste of food."
                 },
                 {
-                    "Question": "What is the weight of the product?",
-                    "Answer": "11 lbs."
+                    "Question": "Where was the substance found?",
+                    "Answer": "In a kitchen cupboard."
                 },
                 {
-                    "Question": "What is the maximum weight that the product can support?",
-                    "Answer": "250 lbs."
+                    "Question": "What is the approximate weight of the substance?",
+                    "Answer": "1 gram"
                 },
                 {
-                    "Question": "What color do you want the product to be?",
-                    "Answer": "White."
-                },
-                {
-                    "Question": "Do you have a preferred supplier for the materials?",
-                    "Answer": "No."
+                    "Question": "What is the texture of the substance?",
+                    "Answer": "It is fine powder."
                 }
             ],
-            "Output": "You will need to use a material that is firm but comfortable such as latex or memory foam. You will also need to use a material that is breathable such as cotton or wool."
+            "Output": "The substance is salt. The chemical composition of salt is sodium chloride (NaCl)."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/rkHjnYimnpWpIs2jSIZifFCR?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/GCMj7SU61J1ZYjDI174VgPBc?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/2KcAFAyXAD19VEQrkDDhidqn?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/I8lWF9F3tyEC7obeSgq4mh3d?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/lXPlE4eXp2uuyB8pwg79P5U0?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fsuJcjtMBRSIyi1d28AhEv4T?model=text-davinci-002"
     ],
-    "Screenshot_link": "https://drive.google.com/drive/folders/1qxUYU9pyxWLylQpMwMpoiEEaG64Y5KeB?usp=sharing"
+    "Screenshot_link": "https://drive.google.com/drive/folders/17wNNUoqqgxbmpNClqJIWAuQvcPvsFmaF?usp=sharing"
 }

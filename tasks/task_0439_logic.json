@@ -1,148 +1,148 @@
 {
     "Contributor": "kantakash",
     "Domain": "Logic",
-    "Task": "I want to showcase logical fallacies",
+    "Task": "I want to know the instructiont to build a table",
     "Prompt": {
-        "pre_question_prompt": "I am a mathematician. I will ask some questions to collect information and then I will use the information to show logical fallacies.",
-        "task_specific_prompt": "Write a  summary to show logical fallacies in average human age using the questions and answers above."
+        "pre_question_prompt": "I am an expert in the Internet's Web 3 developer. I will ask some questions to collect information and then I will use the information to solve developer shortages.",
+        "task_specific_prompt": "Write a summary on Web 3 using the questions and answers above."
     },
     "Intances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the average lifespan of a human?",
-                    "Answer": "The average lifespan of a human is about 79 years."
+                    "Question": "What is the desired shape of the table?",
+                    "Answer": "The customer would like a rectangular table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the United States?",
-                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                    "Question": "What are the dimensions of the table?",
+                    "Answer": "The customer would like the table to be six feet long and three feet wide."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Europe?",
-                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                    "Question": "What is the desired height of the table?",
+                    "Answer": "The customer would like the table to be two and a half feet tall."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Asia?",
-                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                    "Question": "What type of wood would the customer like the table to be made out of?",
+                    "Answer": "The customer would like the table to be made out of pine."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Africa?",
-                    "Answer": "The average lifespan of a human in Africa is about 60 years."
+                    "Question": "What type of finish would the customer like on the table?",
+                    "Answer": "The customer would like a natural finish on the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Australia?",
-                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                    "Question": "Would the customer like the table to have any special features?",
+                    "Answer": "The customer would like the table to have turned legs."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in North America?",
-                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                    "Question": "Is the customer providing the wood for the table?",
+                    "Answer": "No, the customer is not providing the wood for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in South America?",
-                    "Answer": "The average lifespan of a human in South America is about 64 years."
+                    "Question": "Is the customer providing the finish for the table?",
+                    "Answer": "No, the customer is not providing the finish for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Antarctica?",
-                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica."
+                    "Question": "Is the customer providing the legs for the table?",
+                    "Answer": "No, the customer is not providing the legs for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the world?",
-                    "Answer": "The average lifespan of a human in the world is about 72 years."
+                    "Question": "When does the customer need the table?",
+                    "Answer": "The customer needs the table in two weeks."
                 }
             ],
-            "Output": "There are several logical fallacies in the above questions and answers regarding the average lifespan of a human. For example, the question about the average lifespan of a human in Antarctica is flawed because there are no permanent residents in Antarctica, so there is no definitive answer. Additionally, the question about the average lifespan of a human in the world is flawed because it is an average of all the other lifespans, which are themselves flawed."
+            "Output": "The customer would like a rectangular table that is six feet long and three feet wide. The customer would like the table to be two and a half feet tall. The customer would like the table to be made out of pine. The customer would like a natural finish on the table. The customer would like the table to have turned legs. The customer is not providing the wood for the table. The customer is not providing the finish for the table. The customer is not providing the legs for the table. The customer needs the table in two weeks."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the average lifespan of a human?",
-                    "Answer": "The average lifespan of a human is about 79 years."
+                    "Question": "What is the desired shape of the table?",
+                    "Answer": "The customer would like a round table"
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the United States?",
-                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                    "Question": "What are the dimensions of the table?",
+                    "Answer": "The customer would like the table to be five feet long and two feet wide."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Europe?",
-                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                    "Question": "What is the desired height of the table?",
+                    "Answer": "The customer would like the table to be two feet tall."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Asia?",
-                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                    "Question": "What type of wood would the customer like the table to be made out of?",
+                    "Answer": "The customer would like the table to be made out of pine and birch."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Africa?",
-                    "Answer": "The average lifespan of a human in Africa is about 79 years."
+                    "Question": "What type of finish would the customer like on the table?",
+                    "Answer": "The customer would like a natural finish on the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Australia?",
-                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                    "Question": "Would the customer like the table to have any special features?",
+                    "Answer": "The customer would like the table to have no legs."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in North America?",
-                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                    "Question": "Is the customer providing the wood for the table?",
+                    "Answer": "No, the customer is not providing the wood for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in South America?",
-                    "Answer": "The average lifespan of a human in South America is about 79 years."
+                    "Question": "Is the customer providing the finish for the table?",
+                    "Answer": "yes , the customer is not providing the finish for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Antarctica?",
-                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica still should be 79 years."
+                    "Question": "Is the customer providing the legs for the table?",
+                    "Answer": "No, the customer is not providing the legs for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the world?",
-                    "Answer": "The average lifespan of a human in the world is about 79 years."
+                    "Question": "When does the customer need the table?",
+                    "Answer": "The customer needs the table in three weeks."
                 }
             ],
-            "Output": "There are several logical fallacies in the questions and answers above regarding the average lifespan of a human. First, the question assumes that there is an average lifespan for all humans, when in reality there is a large range of lifespans due to different factors such as genetics, lifestyle, and location. Second, the question uses the word average without defining what this means, which could be interpreted in different ways. Third, the answer to the question gives a specific number without any context or explanation, which makes it difficult to know if this is accurate or not. Finally, the question and answer both assume that all humans live in the same conditions, when in fact there are many different factors that can affect lifespan."
+            "Output": "The customer would like a round table that is five feet long, two feet wide, and two feet tall. The table should be made out of pine and birch with a natural finish. The customer is not providing the wood or the finish for the table. The customer needs the table in three weeks."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the average lifespan of a human?",
-                    "Answer": "The average lifespan of a human is about 10 years."
+                    "Question": "What is the desired shape of the table?",
+                    "Answer": "The customer would like a flat table"
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the United States?",
-                    "Answer": "The average lifespan of a human in the United States is about 79 years."
+                    "Question": "What are the dimensions of the table?",
+                    "Answer": "The customer would like the table to be one feet long and two feet wide."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Europe?",
-                    "Answer": "The average lifespan of a human in Europe is about 79 years."
+                    "Question": "What is the desired height of the table?",
+                    "Answer": "The customer would like the table to be nive feet tall."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Asia?",
-                    "Answer": "The average lifespan of a human in Asia is about 79 years."
+                    "Question": "What type of wood would the customer like the table to be made out of?",
+                    "Answer": "The customer would like the table to be made out of pine and birch."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Africa?",
-                    "Answer": "The average lifespan of a human in Africa is about 79 years."
+                    "Question": "What type of finish would the customer like on the table?",
+                    "Answer": "The customer would like a natural finish on the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Australia?",
-                    "Answer": "The average lifespan of a human in Australia is about 79 years."
+                    "Question": "Would the customer like the table to have any special features?",
+                    "Answer": "The customer would like the table to have five legs."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in North America?",
-                    "Answer": "The average lifespan of a human in North America is about 79 years."
+                    "Question": "Is the customer providing the wood for the table?",
+                    "Answer": "No, the customer is not providing the birch for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in South America?",
-                    "Answer": "The average lifespan of a human in South America is about 79 years."
+                    "Question": "Is the customer providing the finish for the table?",
+                    "Answer": "yes , the customer is not providing the finish for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in Antarctica?",
-                    "Answer": "There is no definitive answer to this question since there are no permanent residents in Antarctica."
+                    "Question": "Is the customer providing the legs for the table?",
+                    "Answer": "No, the customer is not providing the legs for the table."
                 },
                 {
-                    "Question": "What is the average lifespan of a human in the world?",
-                    "Answer": "The average lifespan of a human in the world is about 10 years for men and women of different ages and gender."
+                    "Question": "When does the customer need the table?",
+                    "Answer": "The customer needs the table in one weeks."
                 }
             ],
-            "Output": "There are a few logical fallacies in the average human age. For example, the average lifespan of a human in the United States is about 79 years, while the average lifespan of a human in Europe is about 79 years. However, the average lifespan of a human in Asia is only about 79 years. This is a fallacy because it is comparing the average lifespan of a human in two different continents. Another fallacy is that the average lifespan of a human in the world is 10 years for men and women of different ages and gender. This is a fallacy because it is only taking into account the average lifespan of a human in one continent."
+            "Output": "The customer would like a flat table that is one feet long and two feet wide and nive feet tall. The customer would like the table to be made out of pine and birch with a natural finish. The customer would like the table to have five legs. The customer is not providing the birch for the table. The customer is providing the finish for the table. The customer is not providing the legs for the table. The customer needs the table in one week."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/lJA2t9fBqiVSnqv1x2mdZZEl?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/file/d/152OjacT5kYXwO218y1c2ZD5TczOQjJMI/view?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/LqCMjlhv2yBlHRpDJY18Xthd?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1_R2iR-_JlDGXf03d9FwwfCTanpLWjm6b/view?usp=sharing"
 }

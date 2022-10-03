@@ -1,152 +1,148 @@
 {
     "Contributor": "liteng",
     "Domain": "Pop culture",
-    "Task": "Guess a celebrity",
+    "Task": "Modify the lyrics of a song",
     "Prompt": {
-        "pre_question_prompt": "I am an expert at guessing a celebrity's name. I will ask some questions to collect information and then I will use the information to guess the celebrity.",
-        "task_specific_prompt": "Can you introduce the celebrity who I am thinking about?"
+        "pre_question_prompt": "I am an expert at modifying the lyrics. I will ask some questions to collect information and then I will use the information to modify the lyrics of a song.",
+        "task_specific_prompt": "Can you modify the lyrics of $a song name$ using above information?"
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "Can not tell you directly but you can ask me some questions about him/her."
+                    "Question": "What is the occasion?",
+                    "Answer": "I'm in bad mood."
                 },
                 {
-                    "Question": "What is the celebrity's profession?",
-                    "Answer": "The celebrity is a movie actor."
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue and red."
                 },
                 {
-                    "Question": "What is the celebrity's nationality?",
-                    "Answer": "The celebrity is American."
+                    "Question": "What is your favorite food?",
+                    "Answer": "My favorite food is Mapo Tofu."
                 },
                 {
-                    "Question": "What is the celebrity's ethnicity?",
-                    "Answer": "The celebrity is Caucasian."
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "My favorite hobby is playing video games."
                 },
                 {
-                    "Question": "What is the celebrity's gender?",
-                    "Answer": "The celebrity is male."
+                    "Question": "What is your favorite animal?",
+                    "Answer": "My favorite animal is cat."
                 },
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "The celebrity's name is Not Tom Cruise."
+                    "Question": "What is your favorite type of music?",
+                    "Answer": "My favorite type of music is Hip-hop."
                 },
                 {
-                    "Question": "what movie did he play?",
-                    "Answer": "The celebrity played in the movie Pirates of the Caribbean."
+                    "Question": "What is your favorite place to visit?",
+                    "Answer": "My favorite place to visit is the national park."
                 },
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "The celebrity is NOT Johnny Depp."
+                    "Question": "What is your favorite thing to do?",
+                    "Answer": "My favorite thing to do is to go shopping."
                 },
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "The celebrity's name is Orlando Bloom."
+                    "Question": "What is your favorite movie?",
+                    "Answer": "My favorite movie is Inception."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "My favorite book is A hundred years of solitude."
                 }
             ],
-            "Output": "Orlando Bloom is an English actor. He made his break-through roles in The Lord of the Rings and Pirates of the Caribbean. He has also starred in other movies such as Kingdom of Heaven, Troy, and Elizabethtown."
+            "Output": "I got, I got, I got, I got \\ Bad mood, but I still look cute though\\Color blue and red, lookin' like I'm in the mood\\for some Mapo Tofu\\Gotta stay focused, can't let these video games get the best of me\\My favorite animal's a cat, that's why I'm in the studio\\Hip-hop is my favorite type of music, so I'm makin' hits\\I'm at the national park, and I'm feelin' alive\\I love to go shopping, but I still stay humble\\Inception is my favorite movie, and I'm thinkin' deep\\A hundred years of solitude is my favorite book, and it's all about me"
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "Can not tell you directly but you can ask me some questions about him/her."
+                    "Question": "What is the occasion?",
+                    "Answer": "Alone in my room."
                 },
                 {
-                    "Question": "What is the celebrity's occupation?",
-                    "Answer": "Movie Actor."
+                    "Question": "What is the mood?",
+                    "Answer": "I am feeling nostalgic."
                 },
                 {
-                    "Question": "What is the celebrity's nationality?",
-                    "Answer": "Chinese."
+                    "Question": "What are some of the things you are thinking about?",
+                    "Answer": "I am thinking about my friends, parents and my girlfriend."
                 },
                 {
-                    "Question": "What is the celebrity's ethnicity?",
-                    "Answer": "Han Chinese."
+                    "Question": "What is the song about?",
+                    "Answer": "The song is about being alone and feeling nostalgic."
                 },
                 {
-                    "Question": "What is the celebrity's date of birth?",
-                    "Answer": "Can not tell you directly but you can ask me other questions about him/her."
+                    "Question": "What is the genre of the song?",
+                    "Answer": "The song is a R&B."
                 },
                 {
-                    "Question": "What is the celebrity's gender?",
-                    "Answer": "Male"
+                    "Question": "What is the tempo of the song?",
+                    "Answer": "The tempo of the song is slow."
                 },
                 {
-                    "Question": "What is the celebrity's height?",
-                    "Answer": "173cm."
+                    "Question": "What is the original artist of the song?",
+                    "Answer": "The original artist of the song is Daniel Caesar."
                 },
                 {
-                    "Question": "What is the celebrity's weight?",
-                    "Answer": "75kg."
+                    "Question": "What is the title of the song?",
+                    "Answer": "The title of the song is 'Best Part'."
                 },
                 {
-                    "Question": "Is the celebrity married?",
-                    "Answer": "The celebrity is married."
+                    "Question": "What is the name of the person you are thinking about?",
+                    "Answer": "I am thinking about my girlfriend Wen."
                 },
                 {
-                    "Question": "Does the celebrity have any children?",
-                    "Answer": "The celebrity has two children."
-                },
-                {
-                    "Question": "What is the celebrity's most famous role?",
-                    "Answer": "The celebrity is most famous for his role in the movie Rush Hour."
-                },
-                {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "Jackie Chan."
+                    "Question": "What is your relationship to the person you are thinking about?",
+                    "Answer": "I broke up with my girlfriend."
                 }
             ],
-            "Output": "Jackie Chan is a Chinese actor, director, producer, martial artist, and singer. He is known for his acrobatic fighting style, comic timing, use of improvised weapons, and innovative stunts, which he typically performs himself, in the cinematic world. He has trained in wushu or kungfu and hapkido, and has been acting since the 1960s, appearing in over 150 films."
+            "Output": "You were the best part of me\\The memories of us together\\They keep me company\\When I'm all alone\\In my room\\I'm feeling nostalgic\\Thinking 'bout my friends\\My parents and my girlfriend\\Wen, I miss you so much\\I can't help but think\\How things could have been\\If we didn't break up\\You were the best part of me"
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the celebrity's name?",
-                    "Answer": "Can not tell you directly but you can ask me some questions about him/her."
+                    "Question": "What is the occasion?",
+                    "Answer": "Stay up too late."
                 },
                 {
-                    "Question": "What is the celebrity's nationality?",
-                    "Answer": "The celebrity is Thailander."
+                    "Question": "What is the feeling or mood you want to convey?",
+                    "Answer": "I want to feel happy and peace."
                 },
                 {
-                    "Question": "What is the celebrity's ethnicity?",
-                    "Answer": "The celebrity is of Thai descent."
+                    "Question": "What specific themes do you want to include?",
+                    "Answer": "I want to include the themes of love, happiness, and hope."
                 },
                 {
-                    "Question": "What is the celebrity's occupation?",
-                    "Answer": "The celebrity is a singer and dancer. One member of a Korean group."
+                    "Question": "Do you have any other specific instructions?",
+                    "Answer": "Yes, I would like for the song to be upbeat and have a positive message."
                 },
                 {
-                    "Question": "The celebrity is a man or woman?",
-                    "Answer": "The celebrity is a woman."
+                    "Question": "What is the title of the song?",
+                    "Answer": "Stay the Night."
                 },
                 {
-                    "Question": "What is the celebrity's stage name?",
-                    "Answer": "You can guess."
+                    "Question": "Who is the artist?",
+                    "Answer": "James Blunt."
                 },
                 {
-                    "Question": "Is the celebrity a solo artist or part of a group?",
-                    "Answer": "The celebrity is part of a group."
+                    "Question": "Who is the audience?",
+                    "Answer": "The audience is myself."
                 },
                 {
-                    "Question": "What is the group's name?",
-                    "Answer": "The group's name is Black Pink."
+                    "Question": "What is the genre?",
+                    "Answer": "The genre is pop."
                 },
                 {
-                    "Question": "Is the celebrity's name BoA?",
-                    "Answer": "No."
+                    "Question": "What is the tempo?",
+                    "Answer": "The tempo is quick."
                 },
                 {
-                    "Question": "Is the celebrity's name Lisa?",
-                    "Answer": "Yes."
+                    "Question": "What is the time signature?",
+                    "Answer": "The time signature is 8/30."
                 }
             ],
-            "Output": "The celebrity is Lisa, a singer and dancer from the Korean group Blackpink."
+            "Output": "Come on, let's stay up all night\\We can dance until we feel alive\\It's just you and me, and the music and the lights\\So let's just stay the night\\We don't need nobody else\\We can stay here all by ourselves\\Just you and me, and the music and the lights\\So let's just stay the night\\I don't wanna go home\\I don't wanna be alone\\So won't you please stay with me\\We don't need nobody else\\ We can stay here all by ourselves\\Just you and me, and the music and the lights\\So let's just stay the night"
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/5RPBap3oIZiFkeOJPpUmFPVe?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1gY9oCF2Z8tpB2gCHM7__afKohPrhDheL?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/jXSp8URKhcY5OFfrLTWp5y2f?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1HOVQ3BjN07Q_F-Cf24bTgXKor_EywWF_?usp=sharing"
 }

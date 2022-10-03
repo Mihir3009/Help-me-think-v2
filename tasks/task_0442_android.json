@@ -1,0 +1,116 @@
+{
+    "Contributor": "jaintanuj",
+    "Domain": "Android",
+    "Task": "Developing an android application.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in Android Development. I will ask some questions to collect information and then I will use the information to develop a calculator app for an android device.",
+        "task_specific_prompt": "Write a simple android program using the questions and answers above. The program should be in the JAVA programming language."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the calculator app?",
+                    "Answer": "The calculator app will be used to perform mathematical calculations."
+                },
+                {
+                    "Question": "What type of calculations will the calculator app be used for?",
+                    "Answer": "The calculator app will be used for addition, subtraction, multiplication, and division."
+                },
+                {
+                    "Question": "What is the range of numbers that the calculator app will be able to calculate?",
+                    "Answer": "The calculator app will be able to calculate numbers from 1 to 999999."
+                },
+                {
+                    "Question": "What is the format that the calculator app will use to display the results of the calculations?",
+                    "Answer": "The calculator app will use a standard format to display the results of the calculations."
+                },
+                {
+                    "Question": "Are there any special features that the calculator app will have?",
+                    "Answer": "The calculator app will have a memory function that will allow the user to save the results of their calculations and it also handles special edge cases like division by zero."
+                },
+                {
+                    "Question": "What is the target audience for the calculator app?",
+                    "Answer": "The calculator app is designed for people who need to perform basic mathematical calculations."
+                },
+                {
+                    "Question": "What is the name of the app? ",
+                    "Answer": "The name of the app is \"Simple Calculator.\""
+                }
+            ],
+            "Output": "import android.app.Activity;\nimport android.os.Bundle;\nimport android.view.View;\nimport android.widget.EditText;\nimport android.widget.TextView;\npublic class MainActivity extends Activity {\n    private EditText num1;\n    private EditText num2;\n    private TextView resultText;\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n        num1 = (EditText) findViewById(R.id.num1);\n        num2 = (EditText) findViewById(R.id.num2);\n        resultText = (TextView) findViewById(R.id.resultText);\n    }\n    public void onButtonClick(View v) {\n        String n1 = num1.getText().toString();\n        String n2 = num2.getText().toString();\n        int num1 = Integer.parseInt(n1);\n        int num2 = Integer.parseInt(n2); \n        int result = num1 + num2;\n        resultText.setText(result + \"\");\n    }\n}\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the calculator app?",
+                    "Answer": "The calculator app will be used to perform higher mathematics calculations."
+                },
+                {
+                    "Question": "What type of calculations will the calculator app be used for?",
+                    "Answer": "The calculator app will be used for squaring, cubing, exponential calculations, and square rooting."
+                },
+                {
+                    "Question": "What is the range of numbers that the calculator app will be able to calculate?",
+                    "Answer": "The calculator app will be able to calculate numbers from 1 to 9999."
+                },
+                {
+                    "Question": "What is the format that the calculator app will use to display the results of the calculations?",
+                    "Answer": "The calculator app will use a standard format to display the results of the calculations."
+                },
+                {
+                    "Question": "Are there any special features that the calculator app will have?",
+                    "Answer": "The calculator app will have a memory function that will allow the user to save the results of their calculations and it also handles special edge cases of square rooting and exponential equations."
+                },
+                {
+                    "Question": "What is the target audience for the calculator app?",
+                    "Answer": "The calculator app is designed for people who need to perform higher mathematical calculations."
+                },
+                {
+                    "Question": "What is the name of the app? ",
+                    "Answer": "The name of the app is \"Higher Calculator.\""
+                }
+            ],
+            "output": "import android.app.Activity;\nimport android.os.Bundle;\nimport android.view.View;\nimport android.widget.EditText;\nimport android.widget.TextView;\npublic class MainActivity extends Activity {\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.activity_main);\n    }\n    public void onClick(View v) {\n        EditText etNum1 = (EditText) findViewById(R.id.etNum1);\n        EditText etNum2 = (EditText) findViewById(R.id.etNum2);\n        TextView tvResult = (TextView) findViewById(R.id.tvResult);\n        int num1 = Integer.parseInt(etNum1.getText().toString());\n        int num2 = Integer.parseInt(etNum2.getText().toString());\n        int result = num1 + num2;\n        tvResult.setText(result + \"\");\n    }\n}\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the calculator app?",
+                    "Answer": "The calculator app will be used to perform complex number calculations."
+                },
+                {
+                    "Question": "What type of calculations will the calculator app be used for?",
+                    "Answer": "The calculator app will be used for addition and subtraction of complex numbers."
+                },
+                {
+                    "Question": "What is the range of numbers that the calculator app will be able to calculate?",
+                    "Answer": "The calculator app will be able to calculate all complex numbers."
+                },
+                {
+                    "Question": "What is the format that the calculator app will use to display the results of the calculations?",
+                    "Answer": "The calculator app will use a standard complex number format to display the results of the calculations."
+                },
+                {
+                    "Question": "Are there any special features that the calculator app will have?",
+                    "Answer": "The calculator app will have a memory function that will allow the user to save the results of their calculations."
+                },
+                {
+                    "Question": "What is the target audience for the calculator app?",
+                    "Answer": "The calculator app is designed for people who need to perform basic complex number mathematical calculations."
+                },
+                {
+                    "Question": "What is the name of the app? ",
+                    "Answer": "The name of the app is \"Complex Calculator.\""
+                }
+            ],
+            "output": "import android.app.Activity;\nimport android.os.Bundle;\nimport android.view.View;\nimport android.widget.Button;\nimport android.widget.EditText;\nimport android.widget.TextView;\npublic class MainActivity extends Activity {\n  private EditText num1;\n  private EditText num2;\n  private Button addButton;\n  private Button subtractButton;\n  private TextView resultTextView;\n  @Override\n  protected void onCreate(Bundle savedInstanceState) {\n    super.onCreate(savedInstanceState);\n    setContentView(R.layout.activity_main);\n    num1 = (EditText) findViewById(R.id.num1);\n    num2 = (EditText) findViewById(R.id.num2);\n    addButton = (Button) findViewById(R.id.addButton);\n    subtractButton = (Button) findViewById(R.id.subtractButton);\n    resultTextView = (TextView) findViewById(R.id.resultTextView);\n    addButton.setOnClickListener(new View.OnClickListener() {\n      @Override\n      public void onClick(View v) {\n        // TODO: Perform addition\n      }\n    });\n    subtractButton.setOnClickListener(new View.OnClickListener() {\n      @Override\n      public void onClick(View v) {\n        // TODO: Perform subtraction\n      }\n    });\n  }\n}\n"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/9MbzLSGqadowRDMJKhuVuxyO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/IlpNzxjiZhodEM1XAnklOPnV?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/exeYkYKwJZVLOkqd8QXcrtme?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1-x1XCWITI0K3tAy6s8t_T3O4j3AsdCjE?usp=sharing"
+}

@@ -1,148 +1,148 @@
 {
     "Contributor": "leealex",
     "Domain": "Hardware",
-    "Task": "Fix my computer",
+    "Task": "Generate Hardware Guides",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in writing solutions for your computer hardware issues. I will ask some questions to collect information and then I will use the information to write a solution.",
-        "task_specific_prompt": "Write a list of potential solutions using the questions and answers above."
+        "pre_question_prompt": "I am an expert in writing how-to guides for hardware. I will ask some questions to collect information and then I will use the information to write the guide.",
+        "task_specific_prompt": "Write a a how-to-guide for the specified hardware using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What kind of computer hardware issue are you having?",
-                    "Answer": "Overheating."
+                    "Question": "What type of hardware is it?",
+                    "Answer": "A computer."
                 },
                 {
-                    "Question": "What model and make is your computer?",
-                    "Answer": "Dell XPS 15"
+                    "Question": "What is the purpose?",
+                    "Answer": "Instructions for assembling the computer."
                 },
                 {
-                    "Question": "What is the model year for your computer?",
+                    "Question": "What is the target audience of this guide?",
+                    "Answer": "Adults."
+                },
+                {
+                    "Question": "What level of expertise does the audience have?",
+                    "Answer": "Basic knowledge about computer parts."
+                },
+                {
+                    "Question": "What type of guidance should it provide?",
+                    "Answer": "A step by step guide."
+                },
+                {
+                    "Question": "What is the brand?",
+                    "Answer": "Dell."
+                },
+                {
+                    "Question": "What is the model?",
+                    "Answer": "XPS desktop."
+                },
+                {
+                    "Question": "What is the year?",
                     "Answer": "2020."
                 },
                 {
-                    "Question": "What operating system do you currently have?",
-                    "Answer": "Windows 10 home."
+                    "Question": "Are there any constraints for this guide?",
+                    "Answer": "Must be in English."
                 },
                 {
-                    "Question": "What are the symptoms of the issue?",
-                    "Answer": "The computer shuts down unexpectedly, the fan is always running, and the bottom of the computer feels hot."
-                },
-                {
-                    "Question": "Have you tried any troubleshooting steps already?",
+                    "Question": "Are there are other requests for this guide?",
                     "Answer": "No."
-                },
-                {
-                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
-                    "Answer": "It is constant."
-                },
-                {
-                    "Question": "What solutions have you tried so far?",
-                    "Answer": "None."
-                },
-                {
-                    "Question": "Are there any other known issues of your computer?",
-                    "Answer": "No."
-                },
-                {
-                    "Question": "What is your budget for solving this issue?",
-                    "Answer": "$0-$100."
                 }
             ],
-            "Output": "1. Check to see if the computer is properly ventilated. If it is not, try moving it to a more open and ventilated area.\n2. Check to see if the air intake and exhaust vents are clear and unobstructed. If they are blocked, try cleaning them out.\n3. Check the fan to see if it is dirty or obstructed. If it is, try cleaning it.\n4. Check the thermal paste between the CPU and the heatsink to see if it needs to be replaced.\n5. Try using a laptop cooling pad to help cool down the computer.\n6. If the computer is still overheating, try using a different power supply.\n7. If the computer is still overheating, try resetting the BIOS settings to default.\n8. If the computer is still overheating, contact Dell customer support for further assistance."
+            "Output": "1. Gather the tools and parts needed to build the computer. You will need a screwdriver, a Phillips head screwdriver, and a CPU.\n2. Place the CPU in the motherboard. Make sure that the gold pins on the bottom of the CPU are facing the correct way.\n3. Line up the notches on the CPU with the notches in the motherboard.\n4. Carefully lower the CPU into the motherboard.\n5. Once the CPU is in place, add the CPU cooler.\n6. Place the motherboard in the computer case.\n7. Secure the motherboard to the case using screws.\n8. Connect the power supply to the motherboard.\n9. Connect the case fans to the power supply.\n10. Connect all of the cables to the appropriate ports on the motherboard.\n11. Close up the computer case and screw it shut.\n12. Plug in the computer and press the power button."
         },
         {
             "QApair": [
                 {
-                    "Question": "What kind of computer hardware issue are you having?",
-                    "Answer": "Screen freezes."
+                    "Question": "What type of hardware is it?",
+                    "Answer": "A fridge."
                 },
                 {
-                    "Question": "What model and make is your computer?",
-                    "Answer": "HP spectre."
+                    "Question": "What is the purpose?",
+                    "Answer": "Instructions for cleaning the fridge."
                 },
                 {
-                    "Question": "What is the model year for your computer?",
-                    "Answer": "2019."
+                    "Question": "What is the target audience of this guide?",
+                    "Answer": "Adults."
                 },
                 {
-                    "Question": "What operating system do you currently have?",
-                    "Answer": "Windows 10 home."
-                },
-                {
-                    "Question": "What are the symptoms of the issue?",
-                    "Answer": "The screen freezes occasionally."
-                },
-                {
-                    "Question": "Have you tried any troubleshooting steps already?",
-                    "Answer": "No."
-                },
-                {
-                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
-                    "Answer": "It happens randomly."
-                },
-                {
-                    "Question": "What solutions have you tried so far?",
+                    "Question": "What level of expertise does the audience have?",
                     "Answer": "None."
                 },
                 {
-                    "Question": "Are there any other known issues of your computer?",
-                    "Answer": "No."
+                    "Question": "What type of guidance should it provide?",
+                    "Answer": "A step by step guide."
                 },
                 {
-                    "Question": "What is your budget for solving this issue?",
-                    "Answer": "$0-$200."
+                    "Question": "What is the brand?",
+                    "Answer": "LG."
+                },
+                {
+                    "Question": "What is the model?",
+                    "Answer": "29 cu. ft. French Door Refrigerator."
+                },
+                {
+                    "Question": "What is the year?",
+                    "Answer": "2021."
+                },
+                {
+                    "Question": "Are there any constraints for this guide?",
+                    "Answer": "Must be in English."
+                },
+                {
+                    "Question": "Are there are other requests for this guide?",
+                    "Answer": "No."
                 }
             ],
-            "Output": "1. Check for driver updates and install them if available.\n2. Run a virus scan using an antivirus program.\n3. Check for any pending Windows updates and install them.\n4. Try a system restore to a point when the issue was not present.\n5. Try resetting your computer to its factory settings.\n6. Bring your computer to a professional for diagnosis and repair."
+            "Output": "Cleaning Your LG French Door Refrigerator\n1. Begin by unplugging your refrigerator from the wall outlet.\n2. Next, remove all food items from the fridge.\n3. Once all food is removed, take out all of the shelves and drawers.\n4. Wash the shelves and drawers with warm, soapy water.\n5. Rinse the shelves and drawers with clean water and dry them thoroughly.\n6. Next, clean the inside of the fridge with a mild cleaning solution.\n7. Wipe down the door gaskets with a damp cloth.\n8. Finally, replace the shelves and drawers and plug the fridge back in."
         },
         {
             "QApair": [
                 {
-                    "Question": "What kind of computer hardware issue are you having?",
-                    "Answer": "Laptop won't turn on."
+                    "Question": "What type of hardware is it?",
+                    "Answer": "An IoT device."
                 },
                 {
-                    "Question": "What model and make is your computer?",
-                    "Answer": "Apple MacBook Air."
+                    "Question": "What is the purpose?",
+                    "Answer": "Setup instructions for the IoT device."
                 },
                 {
-                    "Question": "What is the model year for your computer?",
-                    "Answer": "2013."
+                    "Question": "What is the target audience of this guide?",
+                    "Answer": "Adults."
                 },
                 {
-                    "Question": "What operating system do you currently have?",
-                    "Answer": "MacOS High Sierra."
-                },
-                {
-                    "Question": "What are the symptoms of the issue?",
-                    "Answer": "The laptop won't turn on."
-                },
-                {
-                    "Question": "Have you tried any troubleshooting steps already?",
-                    "Answer": "No."
-                },
-                {
-                    "Question": "Is the issue constant or does it only happen under certain circumstances?",
-                    "Answer": "It is constant."
-                },
-                {
-                    "Question": "What solutions have you tried so far?",
+                    "Question": "What level of expertise does the audience have?",
                     "Answer": "None."
                 },
                 {
-                    "Question": "Are there any other known issues of your computer?",
-                    "Answer": "No."
+                    "Question": "What type of guidance should it provide?",
+                    "Answer": "A step by step guide."
                 },
                 {
-                    "Question": "What is your budget for solving this issue?",
-                    "Answer": "$0-$200."
+                    "Question": "What is the brand?",
+                    "Answer": "Amazon."
+                },
+                {
+                    "Question": "What is the model?",
+                    "Answer": "Echo Dot"
+                },
+                {
+                    "Question": "What is the year?",
+                    "Answer": "2017."
+                },
+                {
+                    "Question": "Are there any constraints for this guide?",
+                    "Answer": "Must be in English."
+                },
+                {
+                    "Question": "Are there are other requests for this guide?",
+                    "Answer": "No."
                 }
             ],
-            "Output": "1. Check the power cord to ensure it is properly plugged in and/or replaced.\n2. Check the battery to ensure it is properly charged and/or replaced.\n3. Try a hard reset by holding down the power button for 10 seconds.\n4. Take the laptop to an Apple Store or authorized Apple service provider for further diagnosis and repair."
+            "Output": "Echo Dot Setup Guide\n1. Before you begin, plug in your Echo Dot and wait for the light ring to turn orange.\n2. Once the light ring is orange, say \"Alexa, set up my Echo Dot.\"\n3. Alexa will then walk you through the setup process.\n4. To connect your Echo Dot to Wi-Fi, open the Alexa app on your mobile device and go to the settings menu.\n5. Select \"Set up a new device\" and follow the instructions.\n6. Once your Echo Dot is connected to Wi-Fi, you can begin using it.\n7. To use your Echo Dot, simply say \"Alexa\" followed by a command.\n8. For example, you can say \"Alexa, play music\" or \"Alexa, turn on the lights.\"\n9. You can also ask Alexa questions such as \"Alexa, what's the weather forecast?\" or \"Alexa, how many miles are in a marathon?\"\n10. There are endless things you can do with your Echo Dot, so explore and have fun!"
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/DO9C7qSRQkkTqT24g5jUwkFz?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1kzQYb53MaU7-TQlSRALuZ_inEqkr3IHM?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/VfYLRHsiSLhMYR6UoeJENQiU?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1h10MH-vHobz_TFdWEIuktAQNqR4s3Uxp?usp=sharing"
 }

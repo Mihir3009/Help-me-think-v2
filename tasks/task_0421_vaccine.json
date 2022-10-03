@@ -1,152 +1,196 @@
 {
     "Contributor": "linli",
     "Domain": "Vaccine",
-    "Task": "Encourage everyone to get vaccinated",
+    "Task": "Write a tragedy about a couple who did not get vaccinated to warn people the risk of not getting vaccinated.",
     "Prompt": {
-        "pre_question_prompt": "I am an expert of vaccine. I will ask some questions to collect information and then I will use the information to generate a story to encourage everyone to get vaccinated.",
-        "task_specific_prompt": "Write a story that can encourage everyone to get vaccinated using the questions and answers above. Include the benefits of vaccine in the story."
+        "pre_question_prompt": "I am an expert in writing tragedies. I will ask some questions to collect information and then I will use the information to write a tragedy about a couple who did not get vaccinated to warn people the risk of not getting vaccinated.",
+        "task_specific_prompt": "Write a tragic story about a couple who did not get vaccinated to warn people the risk of not getting vaccinated using the questions and answers above. Include the background provided and make it a poignant tragedy."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "Why are vaccines important?",
-                    "Answer": "Vaccines are important because they help protect people from diseases. Vaccines work by injecting a person with a \u201cdead\u201d or \u201cmodified\u201d form of the virus. As that person's immune system fights off the \u201cdead\u201d virus, the immune system is also preparing to fight the live, or actual, virus. If you are ever exposed to the disease, your immune system is primed and ready to fight it off, because it has done so before."
+                    "Question": "What is the couple's relationship to each other?",
+                    "Answer": "The couple is married."
                 },
                 {
-                    "Question": "What are the benefits of vaccines?",
-                    "Answer": "The benefits of vaccines are that they help protect people from diseases. Vaccines work by injecting a person with a \u201cdead\u201d or \u201cmodified\u201d form of the virus. As that person's immune system fights off the \u201cdead\u201d virus, the immune system is also preparing to fight the live, or actual, virus. If you are ever exposed to the disease, your immune system is primed and ready to fight it off, because it has done so before."
+                    "Question": "What is their occupation?",
+                    "Answer": "The husband is a doctor and the wife is a stay-at-home mom."
                 },
                 {
-                    "Question": "What are the risks of not being vaccinated?",
-                    "Answer": "The risks of not being vaccinated are that you are more susceptible to contracting the disease. Vaccines help prepare your immune system in advance so that if you are ever exposed to the disease, your body is more likely to fight it off."
+                    "Question": "What are their hobbies?",
+                    "Answer": "They enjoy spending time with their children and going on hikes."
                 },
                 {
-                    "Question": "What are the risks of getting vaccinated?",
-                    "Answer": "There are always risks associated with any medical procedure, including vaccinations. However, the risks of getting vaccinated are far outweighed by the risks of not being vaccinated. Vaccines are safe and effective, and they help protect people from diseases."
+                    "Question": "What is their social status?",
+                    "Answer": "They are middle-class."
                 },
                 {
-                    "Question": "What should I do if I have questions about vaccines?",
-                    "Answer": "If you have questions about vaccines, you should speak to your healthcare provider. They will be able to give you the most accurate and up-to-date information about vaccines."
+                    "Question": "What is their religion?",
+                    "Answer": "They are Christian."
                 },
                 {
-                    "Question": "Are there any side effects of vaccines?",
-                    "Answer": "There can be side effects associated with any medical procedure, including vaccinations. However, the side effects of vaccines are usually minor and go away on their own."
+                    "Question": "What is their age?",
+                    "Answer": "They are in their 30s."
                 },
                 {
-                    "Question": "What are the most common side effects of vaccines?",
-                    "Answer": "The most common side effects of vaccines are mild and include things like pain at the injection site, redness, and swelling. These side effects are usually temporary and go away on their own."
+                    "Question": "What is their ethnicity?",
+                    "Answer": "They are white."
                 },
                 {
-                    "Question": "How can I reduce my risk of side effects from vaccines?",
-                    "Answer": "There is no guaranteed way to prevent side effects from vaccines, but there are some things you can do to reduce your risk. Make sure to drink plenty of fluids and get rest after you receive a vaccine. You should also avoid alcohol for 24 hours after you receive a vaccine."
+                    "Question": "What is their nationality?",
+                    "Answer": "They are American."
                 },
                 {
-                    "Question": "Should I get vaccinated if I'm pregnant?",
-                    "Answer": "Yes, you should get vaccinated if you're pregnant. Pregnant women are at an increased risk for some diseases, so it's important to get vaccinated to help protect yourself and your baby."
+                    "Question": "What is their relationship to their community?",
+                    "Answer": "They are active in their community and are generally respected by their neighbors."
                 },
                 {
-                    "Question": "Should I get vaccinated if I have a chronic illness?",
-                    "Answer": "Yes, you should get vaccinated if you have a chronic illness. People with chronic illnesses are at an increased risk for some diseases, so it's important to get vaccinated to help protect yourself."
+                    "Question": "What is their relationship to the government?",
+                    "Answer": "They believe in the government and its ability to protect them from harm."
+                },
+                {
+                    "Question": "What event leads to the couple not getting vaccinated?",
+                    "Answer": "The couple is given false information about the risks of vaccination, which leads them to believe that it is not necessary to vaccinate themselves or their children."
+                },
+                {
+                    "Question": "What are the consequences of the couple not getting vaccinated?",
+                    "Answer": "The couple contracts a disease that could have been prevented by vaccination, and their children become sick as well."
+                },
+                {
+                    "Question": "How do the couple react to the consequences?",
+                    "Answer": "The couple realizes the mistake they have made and are filled with regret."
+                },
+                {
+                    "Question": "What do other people in the couple's community think about their decision not to vaccinate?",
+                    "Answer": "The couple's community is divided on the issue, with some people supporting the couple's decision and others thinking that they were foolish to not vaccinate."
+                },
+                {
+                    "Question": "How does the couple's decision to not vaccinate impact their relationship?",
+                    "Answer": "The couple's relationship is strained by the decision, as they both blame each other for the consequences."
+                },
+                {
+                    "Question": "What is the climax of the story?",
+                    "Answer": "The couple's children become very ill and they are forced to confront the reality of their decision."
+                },
+                {
+                    "Question": "What is the resolution of the story?",
+                    "Answer": "The children soon died from COVID-19 and the couple were regretful of their decision of not getting them vaccinated. They learn from their mistake and warn others about the dangers of not vaccinating."
+                },
+                {
+                    "Question": "What theme do you think this story explores?",
+                    "Answer": "This story explores the theme of the importance of vaccination."
                 }
             ],
-            "Output": "It's important for everyone to get vaccinated to help protect themselves and others from diseases. Vaccines are safe and effective, and they help prepare your immune system in advance so that if you are ever exposed to the disease, your body is more likely to fight it off. There are always risks associated with any medical procedure, but the risks of not being vaccinated are far greater. If you have questions about vaccines, speak to your healthcare provider. They will be able to give you the most accurate and up-to-date information."
+            "Output": "When Mark and Emily decided not to vaccinate themselves or their children, they thought they were doing the right thing. They had heard false information about the risks of vaccination and they didn't want to take any chances. But soon after, they contracted a disease that could have been prevented by vaccination. Their children became sick as well, and despite all of their efforts, the children soon died. The couple was filled with regret and they learned from their mistake. They warn others about the dangers of not vaccinating in hopes that no one else will have to go through the same tragedy."
         },
         {
             "QApair": [
                 {
-                    "Question": "Why are vaccines important?",
-                    "Answer": "From a statistical view, people that are vaccinated are less likely to get infected by the disease. Even if they are infected, the severity will be mitigated."
+                    "Question": "What is the couple's relationship to each other?",
+                    "Answer": "The couple is married."
                 },
                 {
-                    "Question": "How do vaccines work?",
-                    "Answer": "Vaccines work by protecting people from diseases. The vaccine is made from a weakened form of the virus. As the person\u2019s immune system fights off the weakened virus, the immune system is also preparing to fight the full-strength virus."
+                    "Question": "What is the couple's relationship to their community?",
+                    "Answer": "The couple is very involved in their community. They are both leaders in their community and they are always volunteering for different organizations."
                 },
                 {
-                    "Question": "Who should get vaccinated?",
-                    "Answer": "Ideally, everyone should get vaccinated. However, some people should not get vaccinated due to certain medical conditions. These people should consult with their doctor to see if it is safe for them to get vaccinated."
+                    "Question": "What is the couple's relationship to the government?",
+                    "Answer": "The couple does not trust the government and they believe that the government is out to control the people. They think that the government is the reason why the world is in the state that it is in."
                 },
                 {
-                    "Question": "What are the side effects of vaccines?",
-                    "Answer": "The most common side effects of vaccines are soreness and redness at the injection site. Some people may also experience a fever, headache, or body aches. These side effects are usually mild and go away on their own."
+                    "Question": "What is the couple's relationship to the medical community?",
+                    "Answer": "The couple does not trust the medical community and they believe that the medical community is out to control the people. They think that the medical community is the reason why the world is in the state that it is in."
                 },
                 {
-                    "Question": "What are the risks of not getting vaccinated?",
-                    "Answer": "The risks of not getting vaccinated are much greater than the risks of getting vaccinated. When people are not vaccinated, they are at a much higher risk of contracting the disease. They are also at a higher risk of developing a severe case of the disease if they do contract it."
+                    "Question": "What is the name of the husband?",
+                    "Answer": "The husband's name is John."
                 },
                 {
-                    "Question": "What are the benefits of getting vaccinated?",
-                    "Answer": "The benefits of getting vaccinated are that you are protecting yourself from the disease. You are also protecting others around you from the disease. When enough people are vaccinated, it helps to prevent the spread of the disease."
+                    "Question": "What is the name of the wife?",
+                    "Answer": "The wife's name is Jane."
                 },
                 {
-                    "Question": "How can I get vaccinated?",
-                    "Answer": "You can get vaccinated by talking to your doctor or a local health department."
+                    "Question": "Do they have any children?",
+                    "Answer": "The couple have only one child. They love her with their whole hearts and always give her the sincerest care for her."
                 },
                 {
-                    "Question": "What should I do if I have questions about vaccines?",
-                    "Answer": "If you have questions about vaccines, you should talk to your doctor or a local health department."
+                    "Question": "What are the couple's professions?",
+                    "Answer": "The husband is a farmer and the wife is a stay-at-home mom."
                 },
                 {
-                    "Question": "Is there anything else I should know about vaccines?",
-                    "Answer": "It is important to remember that vaccines are not 100% effective. However, they are the best way to protect yourself and others from the disease."
+                    "Question": "What is the couple's political affiliation?",
+                    "Answer": "The couple is very conservative and they are very involved in the Tea Party movement."
                 },
                 {
-                    "Question": "What are the benefits of vaccinating my child?",
-                    "Answer": "The benefits of vaccinating your child are that they are less likely to get the disease. They are also less likely to develop a severe case of the disease if they do contract it."
+                    "Question": "What is the couple's religious affiliation?",
+                    "Answer": "The couple are both atheists."
+                },
+                {
+                    "Question": "What happened?",
+                    "Answer": "The couple's child died from a preventable disease because they did not vaccinate her."
+                },
+                {
+                    "Question": "How did the couple react?",
+                    "Answer": "The couple was devastated. They could not believe that their child died from something that could have been prevented. At first, they were angry and they blamed the government and the medical community for their child's death. But soon after, they missed their child so much that they reflected on their decision that came from their ignorance. They started to do some research for the vaccines and were convinced that the government and medical community did not hold any ulterior motives against them. They both got vaccinated in the end and told a lot of people in their community the importance of being vaccinated."
+                },
+                {
+                    "Question": "What was the couple's child's name?",
+                    "Answer": "The couple's child's name was Emily."
                 }
             ],
-            "Output": "It is important for everyone to be vaccinated in order to protect themselves and others from disease. Vaccines are made from a weakened form of the virus and help the person\u2019s immune system fight off the virus. Some people should not get vaccinated due to certain medical conditions and should consult with their doctor. The most common side effects of vaccines are soreness and redness at the injection site. The benefits of vaccinating your child are that they are less likely to get the disease."
+            "Output": "John and Jane were a happy couple. They were married for two years and they had a beautiful daughter named Emily. They were both very involved in their community. John was a farmer and Jane was a stay-at-home mom. They were both very conservative and they were very involved in the Tea Party movement. They were both atheists.\nTheir daughter Emily was the light of their lives. They loved her with all of their hearts and they always gave her the sincerest care for her.\nHowever, their daughter Emily died from a preventable disease because they did not vaccinate her. The couple was devastated. They could not believe that their child died from something that could have been prevented. At first, they were angry and they blamed the government and the medical community for their child's death. But soon after, they missed their child so much that they reflected on their decision that came from their ignorance. They started to do some research for the vaccines and were convinced that the government and medical community did not hold any ulterior motives against them. They both got vaccinated in the end and told a lot of people in their community the importance of being vaccinated."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are the benefits of vaccines?",
-                    "Answer": "Vaccines are one of the most important tools we have to protect ourselves and our families from serious diseases. They work by protecting us from the viruses, bacteria, or other organisms that cause these diseases. Vaccines help our bodies build immunity against these diseases so that we can stay healthy and avoid getting sick."
+                    "Question": "What is the couple's relationship to each other?",
+                    "Answer": "The couple is married."
                 },
                 {
-                    "Question": "What are the risks of not being vaccinated?",
-                    "Answer": "Not being vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy."
+                    "Question": "What is the couple's relationship to their community?",
+                    "Answer": "The couple is active in their community. They are both on the board of the local school district and are well-known in their town."
                 },
                 {
-                    "Question": "What should I do if I am not vaccinated?",
-                    "Answer": "If you are not vaccinated, you should talk to your doctor about getting vaccinated. Vaccines are safe and effective, and they can help protect you and your family from serious diseases."
+                    "Question": "What is the couple's relationship to the larger world?",
+                    "Answer": "The couple is relatively isolated from the larger world. They don't have many close friends or family outside of their immediate community."
                 },
                 {
-                    "Question": "What are the side effects of vaccines?",
-                    "Answer": "Most people who get vaccinated do not have any side effects. Some people may have a mild reaction, such as a sore arm or low-grade fever. Serious side effects from vaccines are rare."
+                    "Question": "What kind of person is each member of the couple?",
+                    "Answer": "The husband is a successful businessman and the wife is a stay-at-home mom. They are both well- respected in their community."
                 },
                 {
-                    "Question": "How do I know if a vaccine is safe for me?",
-                    "Answer": "The best way to know if a vaccine is safe for you is to talk to your doctor. Your doctor can tell you about the risks and benefits of the vaccine and help you make an informed decision."
+                    "Question": "What are the couple's goals?",
+                    "Answer": "The couple's goal is to provide a good life for their children."
                 },
                 {
-                    "Question": "What should I do if I have a reaction to a vaccine?",
-                    "Answer": "If you have a reaction to a vaccine, you should talk to your doctor. Your doctor can help you determine if the reaction was serious and can offer advice on how to prevent future reactions."
+                    "Question": "What are the couple's fears?",
+                    "Answer": "The couple's fear is that their children will get sick if they are not vaccinated."
                 },
                 {
-                    "Question": "Are there any other benefits to vaccines?",
-                    "Answer": "In addition to protecting you from disease, vaccines can also save lives. When enough people are vaccinated, it helps to protect those who are unable to be vaccinated, such as infants, pregnant women, and people with certain medical conditions. Vaccines also help to reduce the spread of disease, which can save lives and help to keep our communities healthy."
+                    "Question": "What are the couple's weaknesses?",
+                    "Answer": "The couple's weaknesses are that they are not well-informed about the risks of not getting vaccinated and they are not open to hearing other points of view."
                 },
                 {
-                    "Question": "What are the risks of getting a disease if I am vaccinated?",
-                    "Answer": "The risks of getting a disease if you are vaccinated are very low. However, there is always a small chance that you could get the disease if you are exposed to it."
+                    "Question": "What are the couple's strengths?",
+                    "Answer": "The couple's strengths are that they are passionate about their community and they are very close to their children."
                 },
                 {
-                    "Question": "What should I do if I am worried about getting a disease?",
-                    "Answer": "If you are worried about getting a disease, you should talk to your doctor. Your doctor can talk to you about the risks and benefits of vaccination and help you make an informed decision."
+                    "Question": "What happens to the couple?",
+                    "Answer": "The couple's children get sick and they both die."
                 },
                 {
-                    "Question": "What are the risks of not getting vaccinated?",
-                    "Answer": "Not getting vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy."
+                    "Question": "What lessons can be learned from the couple's story?",
+                    "Answer": "The couple's story serves as a warning to others about the risks of not getting vaccinated. It is important to be well-informed about the risks of not getting vaccinated and to be open to hearing other points of view."
                 }
             ],
-            "Output": "It\u2019s important to get vaccinated to protect yourself and your family from serious diseases. Vaccines work by protecting us from the viruses, bacteria, or other organisms that cause these diseases. They help our bodies build immunity against these diseases so that we can stay healthy and avoid getting sick. Not being vaccinated puts you and your family at risk for serious diseases. These diseases can be deadly, and they can spread quickly. Vaccines help protect us from these diseases, and they help keep our communities healthy. If you are not vaccinated, you should talk to your doctor about getting vaccinated. Vaccines are safe and effective, and they can help protect you and your family from serious diseases."
+            "Output": "The couple's story is a warning to others about the risks of not getting vaccinated. The couple's children got sick and they both died. The couple was not well-informed about the risks of not getting vaccinated and they were not open to hearing other points of view. The couple's story is a reminder that it is important to be well-informed about the risks of not getting vaccinated and to be open to hearing other points of view."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/pKTWsf1FAOKdEVBEOKFwQ8Yu?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/VqJsvjoNR6xL12HDYmmM3Xat?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/V3mzoCA4is7kDjNpLKaKjKlC?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/8RH84ss3vyxSO4lGezzNegEi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/nCcJuCRsrUma8SqbIQlcVwEb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TBqFK7X0N6oBb36EVnUiwuHO?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1iK4mvb_dm6bzNH-HEJdn7HybxuekeOpL?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1-xeHDytk6_kruYdOleZmoRfy52Hqg_kS?usp=sharing"
 }

@@ -1,168 +1,156 @@
 {
     "Contributor": "kumarabhinav",
     "Domain": "Copywriting",
-    "Task": "Ad Creation",
+    "Task": "Report Creation ",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in copywriting. I will ask some questions to collect information and then I will use the information to create ad for your company. ",
-        "task_specific_prompt": "Create a detailed ad for a company based on questions and answers above."
+        "pre_question_prompt": "I am an expert in copywriting. I will ask some questions to collect information and then I will use the information to prepare report .",
+        "task_specific_prompt": "Write a detailed report based on questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": " What is the name of your company? ",
-                    "Answer": " Secondhand_Everything."
+                    "Question": " What is the purpose of the report? ",
+                    "Answer": " The purpose of the report is to write about the recent fire accident that occurred in one of the factories ."
                 },
                 {
-                    "Question": " What does your company do? ",
-                    "Answer": " Secondhand_Everything is a company that provides affordable secondhand items from electronics , cloth to furniture."
+                    "Question": " Who is the target audience of the report? ",
+                    "Answer": " The target audience of the report is the upper management."
                 },
                 {
-                    "Question": " What is your company's tagline? ",
-                    "Answer": " The best things in life are secondhand."
+                    "Question": " What are the main points that you want to communicate in the report? ",
+                    "Answer": " The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents."
                 },
                 {
-                    "Question": " What is the most important thing you want people to know about your company? ",
-                    "Answer": " Secondhand_Everything is the best place to find affordable secondhand items. We have a huge selection of items and our prices are unbeatable."
+                    "Question": " What is the tone of the report? ",
+                    "Answer": " The tone of the report is objective and factual."
                 },
                 {
-                    "Question": " What is your company's USP (unique selling proposition)? ",
-                    "Answer": " We are the only company that specializes in affordable secondhand items."
+                    "Question": " What is the structure of the report? ",
+                    "Answer": " The structure of the report is as follows: Introduction Body Conclusion."
                 },
                 {
-                    "Question": " What are your company's values? ",
-                    "Answer": " Our company values are affordability, quality, and selection."
+                    "Question": " What are the main sources of information for the report? ",
+                    "Answer": " The main sources of information for the report are the interviews with the workers, the management and the safety inspector."
                 },
                 {
-                    "Question": " Who is your target market? ",
-                    "Answer": " Our target market is anyone who is looking for affordable secondhand items."
+                    "Question": " What are the limitations of the report? ",
+                    "Answer": " The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations."
                 },
                 {
-                    "Question": " What is the tone of the ad you would like me to create? ",
-                    "Answer": " The tone of the ad should be friendly and inviting."
+                    "Question": " What are the recommendations of the report? ",
+                    "Answer": " The recommendations of the report are as follows: 1- Improve the safety procedures in the factory - 2- Provide more training to the workers on safety procedures- 3- Conduct regular safety audits in the factory."
                 },
                 {
-                    "Question": " What is the call to action you would like me to include in the ad? ",
-                    "Answer": " The call to action should be something like, Come to Secondhand_Everything for the best deals on secondhand items"
+                    "Question": " What is the expected length of the report? ",
+                    "Answer": " The expected length of the report is 200 words."
                 },
                 {
-                    "Question": " Do you have any additional information that you would like me to include? ",
-                    "Answer": " No, thank you."
-                },
-                {
-                    "Question": " What is your budget for this project? ",
-                    "Answer": " Our budget for this project is $100."
-                },
-                {
-                    "Question": " What is the timeline for this project? ",
-                    "Answer": " The timeline for this project is two weeks."
+                    "Question": " When is the report due? ",
+                    "Answer": " The report is due on Monday."
                 }
             ],
-            "Output": "Looking for the best deals on affordable secondhand items? Look no further than Secondhand_Everything! We have a huge selection of items at unbeatable prices. Our values are affordability, quality, and selection. Come to Secondhand_Everything for the best deals on secondhand items! "
+            "Output": "Introduction On Monday, a fire accident occurred in one of the factories. The purpose of this report is to write about the recent fire accident and to make recommendations to prevent future accidents. The target audience of this report is the upper management. The main points that I want to communicate in the report are the findings of the investigation and the recommendations to prevent future accidents. The tone of the report is objective and factual. The structure of the report is as follows: Introduction Body Conclusion The main sources of information for this report are the interviews with the workers, the management and the safety inspector. The limitations of the report are that it is based on the information that is available and that the conclusions are only recommendations. The recommendations of the report are as follows: 1. Improve the safety procedures in the factory. 2. Provide more training to the workers on safety procedures. 3. Conduct regular safety audits in the factory. The expected length of the report is 200 words."
         },
         {
             "QApair": [
                 {
-                    "Question": " What is the name of your company? ",
-                    "Answer": " Get Safer Today."
+                    "Question": " What is the main purpose of the report? ",
+                    "Answer": " To provide a detailed information about an accident."
                 },
                 {
-                    "Question": " What is your company's slogan? ",
-                    "Answer": "Making the world a safer place, one home at a time."
+                    "Question": " What type of accident is it? ",
+                    "Answer": " It is a car accident."
                 },
                 {
-                    "Question": " What are your company's core values? ",
-                    "Answer": " Integrity, responsibility, and compassion."
+                    "Question": " When and where did it happen? ",
+                    "Answer": " It happened on May 5th, 2020 at 3:00pm on the I-5 freeway."
                 },
                 {
-                    "Question": " What is your company's mission? ",
-                    "Answer": " To make the world a safer place by providing products and services that protect people and property."
+                    "Question": " Who was involved in the accident? ",
+                    "Answer": " There were two cars involved in the accident- The first car was a black Honda Civic and the second car was a white Toyota Camry."
                 },
                 {
-                    "Question": " What are your company's products and services? ",
-                    "Answer": " We offer a wide range of products and services designed to keep people and property safe, including home security systems, fire protection systems, and security consulting services."
+                    "Question": " What caused the accident? ",
+                    "Answer": " The cause of the accident is still under investigation."
                 },
                 {
-                    "Question": " Who is your target market? ",
-                    "Answer": " Our target market is homeowners and businesses who are looking for ways to improve security and safety."
+                    "Question": " What are the damages? ",
+                    "Answer": " The damages are still unknown."
                 },
                 {
-                    "Question": " What are your company's unique selling points? ",
-                    "Answer": " Our company's unique selling points are our experience, our products, and our services- We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers."
+                    "Question": " Were there any injuries? ",
+                    "Answer": " There were no injuries reported."
                 },
                 {
-                    "Question": " What are your company's goals? ",
-                    "Answer": " Our goal is to provide our customers with the best possible security and safety solutions."
+                    "Question": " Is the road blocked? ",
+                    "Answer": " The road is not blocked."
                 },
                 {
-                    "Question": " What are your company's strengths? ",
-                    "Answer": " Our company's strengths include our experience, our products, and our services- We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers."
+                    "Question": " Who is the insurance company? ",
+                    "Answer": " The insurance company is still unknown."
                 },
                 {
-                    "Question": " What are your company's weaknesses? ",
-                    "Answer": " Our company's weaknesses include our lack of a national presence and our lack of a strong online presence."
+                    "Question": " What is the policy number? ",
+                    "Answer": " The policy number is still unknown."
                 },
                 {
-                    "Question": " What are your company's opportunities? ",
-                    "Answer": " Our company's opportunities include expanding our product line to include more home safety products and services, and increasing our marketing efforts to reach a wider audience."
+                    "Question": " What is the claim number? ",
+                    "Answer": " The claim number is still unknown."
                 },
                 {
-                    "Question": " What are your company's threats? ",
-                    "Answer": " Our company's threats include competition from other security companies, and the possibility of new regulations that could impact our business."
+                    "Question": " Is there a police report? ",
+                    "Answer": " Yes, there is a police report."
                 }
             ],
-            "Output": "Looking for a way to improve security and safety for your home or business? Look no further than Get Safer Today! We offer a wide range of products and services designed to keep people and property safe, including home security systems, fire protection systems, and security consulting services. We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers. Contact us today to learn more!"
+            "Output": "On May 5th, 2020, at 3:00pm, there was a car accident on the I-5 freeway. The accident involved two cars, a black Honda Civic and a white Toyota Camry. The cause of the accident is still under investigation. The damages are unknown at this time. There were no reported injuries and the road is not blocked. The insurance company is unknown at this time. The policy number and claim number are also unknown. There is a police report. "
         },
         {
             "QApair": [
                 {
-                    "Question": " What is the name of your company? ",
-                    "Answer": " All New Items."
+                    "Question": " What would you like me to write about? ",
+                    "Answer": " I would like to write a report about GPT-3 and its success."
                 },
                 {
-                    "Question": " What does your company do? ",
-                    "Answer": " We are a company that specializes in selling new items."
+                    "Question": " What are your thoughts on GPT-3? ",
+                    "Answer": " I believe that GPT-3 is a great tool for copywriters- It allows you to create high quality content very quickly and easily."
                 },
                 {
-                    "Question": " What is your company's slogan? ",
-                    "Answer": " The best place to find new things."
+                    "Question": " What do you think are the benefits of using GPT-3? ",
+                    "Answer": " The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content."
                 },
                 {
-                    "Question": " What is the target audience for your company's ads? ",
-                    "Answer": " People who are looking for new things."
+                    "Question": " Do you have any examples of reports or articles that you have written using GPT-3? ",
+                    "Answer": " Yes, I have written several reports and articles using GPT-3."
                 },
                 {
-                    "Question": " What are some of the key benefits of your company's products or services? ",
-                    "Answer": " The benefits of our products and services include the fact that they are new, and that we have a wide variety of products."
+                    "Question": " What do you think sets GPT-3 apart from other writing tools? ",
+                    "Answer": " I believe that GPT-3 is the best writing tool available because it is very fast and easy to use, and it produces high quality content."
                 },
                 {
-                    "Question": " What is the call to action in your company's ads? ",
-                    "Answer": " The call to action in our ads is for people to come and check out our products and services."
+                    "Question": " Do you have any tips on how to get the most out of GPT-3? ",
+                    "Answer": " Yes, I have a few tips on how to get the most out of GPT-3- 1- Make sure to give GPT-3 clear and concise instructions- 2- Make sure to proofread your content before publishing it- 3- Use GPT-3 to create a first draft, and then edit and revise the draft yourself."
                 },
                 {
-                    "Question": " What is the overall tone of your company's ads? ",
-                    "Answer": " The overall tone of our ads is positive and inviting."
+                    "Question": " Do you think GPT-3 will become the standard writing tool for copywriters? ",
+                    "Answer": " I believe that GPT-3 will become the standard writing tool for copywriters because it is very fast and easy to use, and it produces high quality content."
                 },
                 {
-                    "Question": " What are some specific words or phrases you would like to see in your company's ads? ",
-                    "Answer": " Some specific words and phrases we would like to see in our ads include \"new,\" \"innovative,\" \" exciting,\" and \"wide selection."
+                    "Question": " Do you have any other thoughts on GPT-3? ",
+                    "Answer": " I believe GPT-3 needs to improve."
                 },
                 {
-                    "Question": " What is the company's logo? ",
-                    "Answer": " The company's logo is a blue and white circle with a new item in the center."
+                    "Question": " What do you think GPT-3 needs to improve? ",
+                    "Answer": " I believe that GPT-3 needs to improve its grammar and spelling checking features."
                 },
                 {
-                    "Question": " What color scheme would you like to see in your company's ads? ",
-                    "Answer": " We would like to see a blue and white color scheme in our ads."
-                },
-                {
-                    "Question": " What images would you like to see in your company's ads? ",
-                    "Answer": " Some images we would like to see in our ads include pictures of new products, the company's logo, and pictures of people using and enjoying our products."
+                    "Question": " Do you think GPT-3 is a good writing tool? ",
+                    "Answer": " Yes, I believe that GPT-3 is a good writing tool."
                 }
             ],
-            "Output": "Looking for something new? Look no further than All New Items! We specialize in selling new items and have a wide variety of products to choose from. Our products are innovative and exciting, and we're sure you'll find something you love. Come and check us out today!"
+            "Output": "GPT-3 is a great tool for copywriters. It is very fast and easy to use, and it produces high quality content. The benefits of using GPT-3 are that it is very fast and easy to use, and that it produces high quality content. I have written several reports and articles using GPT-3, and I believe that it is the best writing tool available. A few tips on how to get the most out of GPT-3 include giving it clear and concise instructions, proofreading your content before publishing it, and using GPT-3 to create a first draft before editing and revising it yourself. I believe that GPT-3 will become the standard writing tool for copywriters."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/5RZmLOJ2zbUy6KaMkHGCmgA6?model=text-davinci-002",
-    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask5"
+    "Preset_link": "https://beta.openai.com/playground/p/qKUp9ibKzfGedpYbjBJyMXyQ?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask6"
 }

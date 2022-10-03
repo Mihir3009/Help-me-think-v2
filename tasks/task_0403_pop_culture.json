@@ -1,148 +1,148 @@
 {
     "Contributor": "liteng",
     "Domain": "Pop culture",
-    "Task": "Write the wiki for the subject.",
+    "Task": "Write a movie plot.",
     "Prompt": {
-        "pre_question_prompt": "I am an expert at writing Wiki. I will ask some questions to collect information and then I will use the information to write Wiki for pop culture.",
-        "task_specific_prompt": "Write the wiki for the subject."
+        "pre_question_prompt": "I am an expert at designing a movie plot. I will ask some questions to collect information and then I will use the information to design a movie plot.",
+        "task_specific_prompt": "Write the movie plot by using the above information."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the subject?",
-                    "Answer": "ikun"
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a young woman who discovers that she has the ability to time travel. She uses her ability to travel back in time to try to save her loved ones from tragedy."
                 },
                 {
-                    "Question": "What are some basic facts about the subject?",
-                    "Answer": "Ikun is the name of fans of Xukun Cai, a Chinese idol."
+                    "Question": "What is the main character's goal?",
+                    "Answer": "The main character's goal is to save her loved ones from tragedy."
                 },
                 {
-                    "Question": "What is the subject's popularity?",
-                    "Answer": "Ikun has a large and active online presence, with fan pages and forums dedicated to discussing Xukun Cai and his work."
+                    "Question": "What obstacles does the main character face?",
+                    "Answer": "The main character faces obstacles such as not being believed, people doubting her abilities, and people trying to stop her from using her abilities."
                 },
                 {
-                    "Question": "What is the subject's history?",
-                    "Answer": "Ikun began to form in early 2020, when Xukun Cai rose to prominence as a member of the Chinese idol group NCT Dream. His fans began to show their support for him online, and the community has grown since then."
+                    "Question": "What is the ending of the movie?",
+                    "Answer": "The ending of the movie is the main character saving her loved ones from tragedy."
                 },
                 {
-                    "Question": "What are some common activities or interests of the subject?",
-                    "Answer": "Ikun enjoy following Xukun Cai's career, discussing his work, and sharing news and updates about him. They also enjoy creating and sharing fan content, such as fan art and fan fiction."
+                    "Question": "What is the main message of the movie?",
+                    "Answer": "The main message of the movie is that it is never too late to change the course of history."
                 },
                 {
-                    "Question": "What are some notable achievements or accomplishments of the subject?",
-                    "Answer": "Ikun have been responsible for organizing several successful fan projects, such as sending care packages to Xukun Cai and sending messages of support to him during difficult times. They have also been active in raising awareness for charitable causes that are important to Xukun Cai."
+                    "Question": "What genre is the movie?",
+                    "Answer": "The movie is a drama with elements of science fiction and romance."
                 },
                 {
-                    "Question": "What are some challenges or challenges faced by the subject?",
-                    "Answer": "Ikun have occasionally faced challenges when communicating with Xukun Cai's management, as they are not always responsive to fan requests or questions. However, the community has generally been able to work around these issues and continue to support Xukun Cai."
+                    "Question": "Who is the target audience for the movie?",
+                    "Answer": "The target audience for the movie is adults."
                 },
                 {
-                    "Question": "What is the subject's future?",
-                    "Answer": "Ikun will continue to support Xukun Cai as he pursues his career in music and acting. They will also continue to work on fan projects and charitable initiatives, in order to show their love and support for him."
+                    "Question": "What is the budget for the movie?",
+                    "Answer": "The budget for the movie is $50 million."
                 },
                 {
-                    "Question": "Is there anything else you would like to add?",
-                    "Answer": "Sometimes, Ikun is not a positive icon which is laughed by people who don't like Xukun Cai."
+                    "Question": "Who are the cast members?",
+                    "Answer": "The cast members are Jennifer Lawrence, Chris Pratt, and Rachel McAdams."
                 },
                 {
-                    "Question": "Can you provide a source for this information?",
-                    "Answer": "https://en.wikipedia.org/wiki/Cai_Xukun"
+                    "Question": "Who is the director?",
+                    "Answer": "The director is Steven Spielberg."
                 }
             ],
-            "Output": "Ikun is the name of a group of fans of Chinese idol Xukun Cai. The group is notable for their large and active online presence, as well as their dedication to supporting Xukun Cai and his career."
+            "Output": "When her loved ones are threatened by a tragic event, a young woman discovers she has the ability to time travel. Using her power to go back in time, she sets out to save them from the disaster. Facing skepticism and opposition at every turn, she must fight to be believed in order to change the course of history."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are the most popular topics in pop culture?",
-                    "Answer": "Blackpink"
+                    "Question": "What is the movie about?",
+                    "Answer": "The movie is about a group of friends who go on a camping trip together. One of the friends goes missing during the trip, and the others have to search for her. They find her in the woods, but she is different than she was before. She has been taken over by a evil force, and they have to fight to save her."
                 },
                 {
-                    "Question": "Who is the most popular member of Blackpink?",
-                    "Answer": "Lisa"
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "The movie is set in the woods."
                 },
                 {
-                    "Question": "What is the most popular song by Blackpink?",
-                    "Answer": "Kill This Love"
+                    "Question": "What is the main conflict of the movie?",
+                    "Answer": "The main conflict of the movie is that the group of friends has to save one of their own from an evil force."
                 },
                 {
-                    "Question": "What are some other popular songs by Blackpink?",
-                    "Answer": "As If It's Your Last"
+                    "Question": "What is the climax of the movie?",
+                    "Answer": "The climax of the movie is when the group of friends defeat the evil force and save their friend."
                 },
                 {
-                    "Question": "What is the most popular TV show Lisa joined?",
-                    "Answer": "King of masked singer"
+                    "Question": "What is the ending of the movie?",
+                    "Answer": "The ending of the movie is bad, with the group of friends being broken and died."
                 },
                 {
-                    "Question": "What other shows has Lisa been in?",
-                    "Answer": "Blackpink House"
+                    "Question": "What are the main characters of the movie?",
+                    "Answer": "The main characters of the movie are the group of friends."
                 },
                 {
-                    "Question": "What is the most popular movie Lisa was in?",
-                    "Answer": "Train to Busan"
+                    "Question": "What is the genre of the movie?",
+                    "Answer": "The genre of the movie is horror."
                 },
                 {
-                    "Question": "What is the most popular brand that Lisa is a ambassador for?",
-                    "Answer": "Dokgo Rewind"
+                    "Question": "What is the tone of the movie?",
+                    "Answer": "The tone of the movie is dark and suspenseful."
                 },
                 {
-                    "Question": "What is the name of the person you are thinking about?",
-                    "Answer": "Nike"
+                    "Question": "What is the mood of the movie?",
+                    "Answer": "The mood of the movie is scary and suspenseful."
                 },
                 {
-                    "Question": "What other brands has Lisa been a ambassador for?",
-                    "Answer": "Innisfree, Celine, Dior"
+                    "Question": "What themes are in the movie?",
+                    "Answer": "Themes in the movie include friendship, betrayal, and evil."
                 }
             ],
-            "Output": "Lisa (Hangul: \ub9ac\uc0ac), born on March 27, 1997, better known by her mononym Lisa, is a Thai-South Korean rapper, singer, dancer and model based in South Korea. She is a member of the South Korean girl group Blackpink under YG Entertainment."
+            "Output": "A group of friends go on a camping trip together. One of the friends goes missing during the trip, and the others have to search for her. They find her in the woods, but she is different than she was before. She has been taken over by a evil force, and they have to fight to save her. The group of friends is broken and died by the end of the movie."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the pop culture icon?",
-                    "Answer": "The name of the pop culture icon is Air Jordan."
+                    "Question": "What is the movie genre?",
+                    "Answer": "The movie genre is science fiction."
                 },
                 {
-                    "Question": "What is the icon's claim to fame?",
-                    "Answer": "Air Jordan is a former professional basketball player who is now the principal owner and chairman of the Charlotte Hornets. He is also known for his product endorsements"
+                    "Question": "What is the basic plot of the movie?",
+                    "Answer": "In a future world where the government controls everything, a group of rebels fighting for freedom must battle against the odds to take down the oppressive regime."
                 },
                 {
-                    "Question": "What year was the icon born?",
-                    "Answer": "The icon was born in 1963."
+                    "Question": "Who are the main characters?",
+                    "Answer": "The main characters are a group of rebels fighting for freedom. They must battle against the odds to take down the oppressive regime."
                 },
                 {
-                    "Question": "What are some of the icon's most popular products?",
-                    "Answer": "Some of the icon's most popular products include Air Jordan sneakers, basketball shoes, and clothing."
+                    "Question": "What is the setting of the movie?",
+                    "Answer": "The movie is set in a future world where the government controls everything."
                 },
                 {
-                    "Question": "What is the icon's net worth?",
-                    "Answer": "The icon's net worth is estimated to be $1.9 billion."
+                    "Question": "What is the conflict of the movie??",
+                    "Answer": "The conflict of the movie is that the group of rebels must battle against the odds to take down the oppressive regime."
                 },
                 {
-                    "Question": "What charities does the icon support?",
-                    "Answer": "The icon supports a number of charities, including the Make-A-Wish Foundation and the Boys & Girls Clubs of America"
+                    "Question": "What is the climax of the movie?",
+                    "Answer": "The climax of the movie is when the group of rebels finally takes down the oppressive regime."
                 },
                 {
-                    "Question": "What is the icon's favorite food?",
-                    "Answer": "The icon's favorite food is said to be sushi."
+                    "Question": "What is the resolution of the movie?",
+                    "Answer": "The resolution of the movie is that the group of rebels are finally free from the oppressive regime."
                 },
                 {
-                    "Question": "What is the icon's favorite movie?",
-                    "Answer": "The icon's favorite movie is Space Jam."
+                    "Question": "What are the themes of the movie?",
+                    "Answer": "The themes of the movie are freedom, oppression, and fighting for what is right."
                 },
                 {
-                    "Question": "What is the icon's favorite music?",
-                    "Answer": "The icon's favorite music is hip hop."
+                    "Question": "What is the mood of the movie?",
+                    "Answer": "The mood of the movie is intense and suspenseful."
                 },
                 {
-                    "Question": "What is the icon's favorite hobby?",
-                    "Answer": "The icon's favorite hobby is playing basketball."
+                    "Question": "What is the tone of the movie?",
+                    "Answer": "The tone of the movie is intense and action-packed."
                 }
             ],
-            "Output": "Air Jordan is a former professional basketball player who is now the principal owner and chairman of the Charlotte Hornets. He is also known for his product endorsements."
+            "Output": "In a future world where the government controls everything, a group of rebels fighting for freedom must battle against the odds to take down the oppressive regime. The main characters are a group of rebels fighting for freedom. They must battle against the odds to take down the oppressive regime. The conflict of the movie is that the group of rebels must battle against the odds to take down the oppressive regime. The climax of the movie is when the group of rebels finally takes down the oppressive regime. The resolution of the movie is that the group of rebels are finally free from the oppressive regime. The themes of the movie are freedom, oppression, and fighting for what is right. The mood of the movie is intense and suspenseful. The tone of the movie is intense and action-packed."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/O3mi0bsh0sp0HYqO7JdloCv7?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1KUBeDj-PJlQZ25LPDrbOwQLizy_9T8u8?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/Bmg5izxgZOOy6IK4bpMGiwPv?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/17u2-enfqMJH2IIJ-lCgilFUISO1CdBOI?usp=sharing"
 }

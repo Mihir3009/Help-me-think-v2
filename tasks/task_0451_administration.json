@@ -1,156 +1,196 @@
 {
     "Contributor": "kinahansean",
     "Domain": "Administration",
-    "Task": "Weekly Status Report",
+    "Task": "Business Correspondence",
     "Prompt": {
-        "pre_question_prompt": "I am an expert weekly productivity reporter. I will ask some questions to collect information and then I will use the information to summarize your weekly productivity.Question:",
-        "task_specific_prompt": "Write a productivity summary using the questions and answers above."
+        "pre_question_prompt": "I am an expert business correspondent. I will ask some questions to collect information and then I will use the information to write an official business email. Question:",
+        "task_specific_prompt": "Write a professional business email using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "How many hours did you work this week?",
-                    "Answer": "65"
+                    "Question": "What is the purpose of the email?",
+                    "Answer": "The purpose of the email is to follow up with a client after a meeting. This client represents a huge sales opportunity for the company, so it is important they are treated with unique care."
                 },
                 {
-                    "Question": "How many of those hours were productive?",
-                    "Answer": "40"
+                    "Question": "Who is the email being sent to?",
+                    "Answer": "The email is being sent to the client, Darroughby Aeronautic Systems, Inc."
                 },
                 {
-                    "Question": "What are some things you did that were productive?",
-                    "Answer": "I completed all of my assigned tasks at work, and I also did some extra research on a project that I am working on. I also helped Paul with his current project."
+                    "Question": "What is the meeting that you are referencing?",
+                    "Answer": "The meeting is a brief, introductory meeting that was held in order to determine whether or not Darroughby Aeronautic Systems, Inc. would be interested in working with our company on a long-term basis."
                 },
                 {
-                    "Question": "What are some things you did that were not productive?",
-                    "Answer": "I took a few breaks to check social media and I also spent some time browsing Reddit."
+                    "Question": "What is the main point you want to get across in the email?",
+                    "Answer": "The main point is that we are very interested in working with Darroughby Aeronautic Systems, Inc. and we would like to set up another meeting to discuss the details of the potential partnership. We want to draw attention to our flagship product line, which represents a tremendous business upside for Darroughby Aeronautic Systems, Inc."
                 },
                 {
-                    "Question": "How do you feel about your productivity this week?",
-                    "Answer": "I feel pretty good about my productivity this week. I got a lot done, and I was able to help out with Paul's project as well. I was feeling sick on Monday, but I managed to get caught up on Tuesday."
+                    "Question": "What are some key details you want to include?",
+                    "Answer": "Some key details to include would be information about our company's history, our flagship product line, and why we believe that Darroughby Aeronautic Systems, Inc. would benefit from working with us. We want to provide links to additional documentation on our products available on our website, and contact information for the senior sales staff."
                 },
                 {
-                    "Question": "What can you do to improve your productivity next week?",
-                    "Answer": "I can try to minimize distractions by keeping my phone out of sight and not checking social media outside of scheduled breaks. I can also try to get ahead on my work so that I can take a day off next week."
+                    "Question": "Is there anything else you want to mention?",
+                    "Answer": "I want a PR statement regarding our CEO's recent arrest for disorderly conduct at a nightclub in Burbank, CA. The charges were ultimately dropped, but I want to make sure that our potential client is not put off by any negative publicity."
                 },
                 {
-                    "Question": "Do you have any other comments about your productivity this week?",
-                    "Answer": "No, I think that covers it."
+                    "Question": "When do you need the email by?",
+                    "Answer": "The email should be sent within 24 hours of the meeting."
                 },
                 {
-                    "Question": "Would you like me to send you a weekly productivity report?",
-                    "Answer": "Yes, I would appreciate receiving a weekly productivity report."
+                    "Question": "What is your budget for this project?",
+                    "Answer": "$90 million USD"
                 },
                 {
-                    "Question": "Great! How would you like to receive your report?",
-                    "Answer": "Email"
+                    "Question": "What is your company's name?",
+                    "Answer": "Our company's name is Ace Air, Inc."
                 },
                 {
-                    "Question": "What is your email address?",
-                    "Answer": "jane@yahoo.com"
+                    "Question": "What is your company's website?",
+                    "Answer": "www.aceair.com"
                 },
                 {
-                    "Question": "Is there anything else you would like me to know?",
-                    "Answer": "No, thank you."
+                    "Question": "What is your company's email address?",
+                    "Answer": "info@aceair.com"
+                },
+                {
+                    "Question": "What is your company's phone number?",
+                    "Answer": "1-800-555-1212"
+                },
+                {
+                    "Question": "What is your personal name?",
+                    "Answer": "My name is Larry Robertson."
+                },
+                {
+                    "Question": "What is your personal email address?",
+                    "Answer": "larry@aceair.com"
+                },
+                {
+                    "Question": "What is your personal phone number?",
+                    "Answer": "1-800-555-1214"
+                },
+                {
+                    "Question": "Please provide a brief overview of your company.",
+                    "Answer": "Ace Air, Inc. is a leading provider of aviation services and products. We have a long history of providing quality products and services to our clients, and our flagship product line represents a tremendous business upside for our partners. We are confident that we can provide Darroughby Aeronautic Systems, Inc. with the same level of quality and service that has made us a leader in the aviation industry."
                 }
             ],
-            "Output": "This person worked for a total of 65 hours this week, with 40 of those hours being productive. They completed all of their assigned tasks at work, did extra research, and helped out with Paul's project. They took breaks to check social media and browse Reddit, but overall they feel good about their productivity this week. To improve productivity next week, they plan to minimize distractions and get ahead on work. This person would like to receive a weekly productivity report via email."
+            "Output": "Dear Darroughby Aeronautic Systems, Inc.,Thank you for taking the time to meet with us yesterday. We were very impressed with your company and we are very interested in working with you on a long-term basis.Our flagship product line represents a tremendous business upside for you, and we believe that we can provide you with the same level of quality and service that has made us a leader in the aviation industry. We would like to set up another meeting to discuss the details of the potential partnership and to answer any questions you may have.In the meantime, please find some additional information about our company and our products below. If you have any questions, please do not hesitate to contact us. We look forward to hearing from you soon.Sincerely,Larry RobertsonAce Air, Inc.info@aceair.com1-800-555-1212"
         },
         {
             "QApair": [
                 {
-                    "Question": "How many hours did you work this week?",
-                    "Answer": "I worked 40 hours this week."
+                    "Question": "What is the purpose of the email?",
+                    "Answer": "To provide an update on the progress of a project"
                 },
                 {
-                    "Question": "How many of those hours were productive?",
-                    "Answer": "I would say 30 of those hours were productive."
+                    "Question": "Who is the email going to?",
+                    "Answer": "The email is going to the project manager."
                 },
                 {
-                    "Question": "What are some things you did that were productive?",
-                    "Answer": "I was productive by working on various tasks and projects, attending meetings, and responding to emails. I also conducted two major presentations, and onboarded three new staff members."
+                    "Question": "What information do you need to include in the email?",
+                    "Answer": "I need to include an update on the progress of the project."
                 },
                 {
-                    "Question": "What are some things you did that were not productive?",
-                    "Answer": "I did some things that were not productive this week by checking social media, browsing the internet, and taking a few personal calls."
+                    "Question": "When do you need to send the email?",
+                    "Answer": "I need to send the email as soon as possible."
                 },
                 {
-                    "Question": "What do you plan to do differently next week to be more productive?",
-                    "Answer": "I plan to limit my social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week."
+                    "Question": "What is the tone of the email?",
+                    "Answer": "The tone of the email is professional. The matter is urgent."
                 },
                 {
-                    "Question": "Do you have any other comments about your productivity this week?",
-                    "Answer": "I was happy with my productivity this week overall. I met all of my deadlines and got a lot of important work done. However, I want to make sure that I don't get too comfortable and let my productivity slip next week."
+                    "Question": "Is there anything else you need to include?",
+                    "Answer": "No, that is all the information I need to include in the email."
                 },
                 {
-                    "Question": "Do you have any questions for me?",
-                    "Answer": "What can I do to maximize my organization and time management skills? I want to be more productive with my time, but it isn't always easy to balance."
+                    "Question": "Would you like me to write the email for you?",
+                    "Answer": "Yes, please write the email for me."
                 },
                 {
-                    "Question": "What tips do you have for better time management?",
-                    "Answer": "Some tips for better time management include:- Make a list of tasks to be completed each day- Set time limits for each task- Take breaks throughout the day- Delegate tasks to others- Focus on one task at a time- Avoid distractions- Prioritize tasks"
+                    "Question": "Would you like me to send the email for you?",
+                    "Answer": "Yes, please send the email for me."
+                },
+                {
+                    "Question": "Please provide your email address.",
+                    "Answer": "myaddress@email.com"
+                },
+                {
+                    "Question": "Please provide the email address of the recipient.",
+                    "Answer": "projectmanager@email.com"
+                },
+                {
+                    "Question": "Please provide a subject for the email.",
+                    "Answer": "Update on Project Progress"
+                },
+                {
+                    "Question": "Please provide the name of the project.",
+                    "Answer": "8th Avenue Hydrant Restoration"
+                },
+                {
+                    "Question": "Please provide an update on the progress of the project.",
+                    "Answer": "We are on schedule, but the contractors have not been paid by the city. Progress will be halted within the week if payments are not made immediately."
+                },
+                {
+                    "Question": "Is there anything else you would like to include?",
+                    "Answer": "A pedestrian injured themselves by wandering into a closed construction zone. The Foreman wanted to ask about potential liability issues."
+                },
+                {
+                    "Question": "Would you like me to send the email now?",
+                    "Answer": "Yes, please send the email now."
                 }
             ],
-            "Output": "The individual worked 40 hours this week and was productive for 30 of those hours. They were productive by working on various tasks and projects, attending meetings, and responding to emails. The individual was also productive by conducting two major presentations and onboarding three new staff members. The individual was not productive by checking social media, browsing the internet, and taking a few personal calls. The individual plans to limit their social media usage, take fewer personal calls, and focus on task-oriented work to be more productive next week. The individual was happy with their productivity this week overall, but they want to make sure that they don't get too comfortable and let their productivity slip next week."
+            "Output": "Subject: Update on Project ProgressHi Project Manager,I wanted to provide an update on the progress of the 8th Avenue Hydrant Restoration project. We are on schedule, but the contractors have not been paid by the city. Progress will be halted within the week if payments are not made immediately. In addition, a pedestrian injured themselves by wandering into a closed construction zone. The Foreman wanted to ask about potential liability issues.Please let me know if you have any questions.Thank you,[Your Name]"
         },
         {
             "QApair": [
                 {
-                    "Question": "How many hours did you work this week?",
-                    "Answer": "I worked 65 hours this week."
+                    "Question": "What is the purpose of your email?",
+                    "Answer": "I am writing to request a meeting with you to discuss a possible business venture."
                 },
                 {
-                    "Question": "How many of those hours were spent on productive activities?",
-                    "Answer": "I spent 50 hours on productive activities."
+                    "Question": "What information do you need to include?",
+                    "Answer": "I need to include a description of the business venture, and I need to arrange a meeting. I need to aggressively sell this idea."
                 },
                 {
-                    "Question": "What activities did you spend your time on?",
-                    "Answer": "I spent my time on work, errands, and housework."
+                    "Question": "What is your deadline?",
+                    "Answer": "I need to have this email sent out by the end of the day."
                 },
                 {
-                    "Question": "How do you feel about your productivity this week?",
-                    "Answer": "I feel I could have accomplished more this week."
+                    "Question": "Who is your audience?",
+                    "Answer": "I am writing to a potential investor."
                 },
                 {
-                    "Question": "What are your goals for next week?",
-                    "Answer": "I would like to work fewer hours and focus on more efficient work."
+                    "Question": "What tone should your email have?",
+                    "Answer": "My email should have a formal tone."
                 },
                 {
-                    "Question": "What can you do to increase your productivity?",
-                    "Answer": "I can try to focus on the tasks with the most urgent priority and create measurable milestones of progress."
+                    "Question": "Do you have any other instructions?",
+                    "Answer": "Yes"
                 },
                 {
-                    "Question": "Do you have any advice for others who want to be more productive?",
-                    "Answer": "Yes. I would recommend scheduling time for important tasks, setting priorities, and taking breaks when needed. Listening to calm music is a good way to aid focus, as long as it doesn't become distracting."
+                    "Question": "What are your other instructions?",
+                    "Answer": "Include a detailed description of the business venture and why it is a good idea for the investor to get involved."
                 },
                 {
-                    "Question": "What resources (books, websites, etc.) do you recommend for productivity?",
-                    "Answer": "I recommend the book 'The 7 Habits of Highly Effective People' by Stephen Covey."
+                    "Question": "Is there anything else you would like to add?",
+                    "Answer": "No, that is all."
                 },
                 {
-                    "Question": "What challenges did you face this week when it came to productivity?",
-                    "Answer": "I faced the challenge of having too many things on my to-do list and not enough time to accomplish them all."
+                    "Question": "Would you like me to send a draft of the email before I send it?",
+                    "Answer": "Yes, please send me a draft of the email before you send it."
                 },
                 {
-                    "Question": "How did you overcome those challenges?",
-                    "Answer": "I overcame the challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces."
-                },
-                {
-                    "Question": "What did you learn about productivity this week?",
-                    "Answer": "I learned that time management is essential to productivity."
-                },
-                {
-                    "Question": "Is there anything else you would like to share about your experience with productivity this week?",
-                    "Answer": "No, thank you."
+                    "Question": "When would you like me to send the email?",
+                    "Answer": "I would like you to send the email as soon as possible."
                 }
             ],
-            "Output": "The individual worked 65 hours this week, 50 of which were spent on productive activities. They spent their time on work, errands, and housework. They feel they could have accomplished more this week and their goals for next week are to work fewer hours and focus on more efficient work. To increase productivity, they can try to focus on the tasks with the most urgent priority and create measurable milestones of progress. The challenges this week were having too many things on the to-do list and not enough time to accomplish them all. The individual overcame these challenges by setting priorities and breaking the tasks down into smaller, more manageable pieces. They learned that time management is essential to productivity."
+            "Output": "Hello potential investor,I am writing to request a meeting with you to discuss a possible business venture. I have attached a detailed description of the business venture and why I believe it is a good idea for you to get involved. I am available to meet at your earliest convenience.Thank you for your time,[Your name]"
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/ngCD4j7BxLs8EYDCad6b2Wgl?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/bfXPgSrKtnzqngYYpghcnC6n?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/lC5j1Zz2KcvhQjVvOVQUDiif?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/MlZIvTmo7pTA6cUoY31FdwmG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/stzV5Ef7nvoN0NA9L8GPxzeM?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/LbEjo8DekhiAEuau3uzD7G5H?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1W12m5Zq6YXxji7DlVgS_NCVI24XTbaRD?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1W4jDpxOJobSRsDtF5_YwlUlht9SKbvMd?usp=sharing"
 }

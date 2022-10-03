@@ -1,152 +1,152 @@
 {
     "Contributor": "hillikerjacob",
     "Domain": "Human Race",
-    "Task": "Summarize early history",
+    "Task": "Alien Encounter",
     "Prompt": {
-        "pre_question_prompt": "I am an expert historian on the origins of humanity. I will ask some questions to collect information and then I will use the information to generate a summary of the early history of the human race.",
-        "task_specific_prompt": "Write a summary of early humans using the questions and answers above. Describe their physical and social characteristics."
+        "pre_question_prompt": "I am an expert social scientist studying the nature of humanity. I will ask some questions to collect information and then I will use the information to determine what an alien race would think of us upon first meeting us.",
+        "task_specific_prompt": "Write a description of how an alien species might perceive humans using the questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the first human beings?",
-                    "Answer": "The earliest human beings are known as Homo sapiens."
+                    "Question": "How do humans interact with each other?",
+                    "Answer": "Humans interact with each other in several media, such as sound waves, body movement, or written text."
                 },
                 {
-                    "Question": "Where do human beings come from?",
-                    "Answer": "The earliest human remains found to date were discovered in Africa."
+                    "Question": "What kind of emotions do humans experience?",
+                    "Answer": "Humans experience a wide range of emotions, including positive emotions like love, joy, trust, and excitement as well as negative emotions such as fear, angst, anger, and depression."
                 },
                 {
-                    "Question": "How long ago did human beings first appear on Earth?",
-                    "Answer": "The oldest remains of \"anatomically modern\" humans found thus far were discovered in Morocco and dated at 360,000 years old."
+                    "Question": "What is the average lifespan of a human?",
+                    "Answer": "The average lifespan of a human is about 79 years."
                 },
                 {
-                    "Question": "What were the first human beings like?",
-                    "Answer": "The earliest human beings were hunter-gatherers. They lived in nomadic tribes, wandering in search of food."
+                    "Question": "What are some of the things that humans value?",
+                    "Answer": "Some of the things that humans value include love, social relationships, freedom, knowledge, wealth, prestige, and self-improvement."
                 },
                 {
-                    "Question": "What was the first human civilization?",
-                    "Answer": "The first human civilization is thought to be the Sumerian civilization, which arose in Mesopotamia around 4,500 BCE."
+                    "Question": "What are some of the things that humans fear?",
+                    "Answer": "The greatest fear of humankind is the unknown, since anything not known could be worse than we could possibly imagine."
                 },
                 {
-                    "Question": "What were some of the important developments during the early history of the human race?",
-                    "Answer": "Some of the important developments during the early history of the human race include the development of agriculture, and the creation of spoken and written language."
+                    "Question": "What do humans think about death?",
+                    "Answer": "Death is a natural part of life, but humans often fear it because it could be painful and we might feel as if there is more we could still accomplish in life."
                 },
                 {
-                    "Question": "What are some of the challenges faced by the early human beings?",
-                    "Answer": "Early humans had much less technology to deal with the environment, including predators, natural disasters, injuries, and infections."
+                    "Question": "What do humans think about other life forms?",
+                    "Answer": "It depends. Humans are often very fond of furry animals, but terrified or repulsed by bugs, snakes, worms, and some sea creatures."
                 },
                 {
-                    "Question": "How did the early human beings cope with these challenges?",
-                    "Answer": "The early human beings coped with these challenges through communication and through technology such as weapons and tools."
+                    "Question": "What is the nature of human sexuality?",
+                    "Answer": "Human sexuality is a complex topic, but in general, humans are sexual beings who experience attraction to others and engage in sexual activity for both pleasure and procreation. We are driven by biological urges to carry on our genes to a new generation."
                 },
                 {
-                    "Question": "What was the first human religion?",
-                    "Answer": "Many religions would claim that theirs is the first, but currently it is believed that the first human religion was animism, which is the belief that everything in the universe, including animals, plants, and inanimate objects, has a spirit."
+                    "Question": "What do humans believe in?",
+                    "Answer": "Humans most often believe in what they perceive with their senses. However, humans often also place belief in explanations for that which they do not understand, usually in the form of a religion or other spiritual belief system."
                 },
                 {
-                    "Question": "What were some of the important developments during the early history of the human race?",
-                    "Answer": "Some of the important developments during the early history of the human race include agriculture, mining, currency, and sailing."
+                    "Question": "What do humans do for fun?",
+                    "Answer": "Humans engage in a wide variety of activities for fun, including playing games, appreciating the arts, traveling, and spending time with others."
                 }
             ],
-            "Output": "The first human beings were Homo sapiens, who appeared on Earth in Africa around 360,000 years ago. They were hunter-gatherers, living in nomadic tribes. The first human civilization was the Sumerian civilization, which arose in Mesopotamia around 4,500 BCE. Early humans faced many challenges, including predators, natural disasters, and injuries. They coped with these challenges through communication and technology. The first human religion was animism."
+            "Output": "An alien race that met humans for the first time would likely find us to be a confusing and contradictory species. They would notice that we are capable of forming complex social relationships and that we experience a wide range of emotions. They would also be struck by our relatively short lifespans and our seeming obsession with wealth and prestige. They might be perplexed by our belief systems, which often seem to be based on things that we cannot see or touch. And they would definitely be entertained by the variety of activities that we do for fun. In general, they would probably find us to be an intriguing but ultimately confusing species."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the earliest evidence of human life on Earth?",
-                    "Answer": "The earliest evidence of human life on Earth is from fossilized remains of Homo sapiens found in Morocco, which have been dated to over 360,000 years ago."
+                    "Question": "How often do people from different cultures and religions get along?",
+                    "Answer": "Some cultures and religions are more tolerant than others. For instance, some religions see opposing beliefs as an insult to their deity, which often leads to conflict. However, many of the world's cultures are able to coexist and learn from each other today."
                 },
                 {
-                    "Question": "Where do the earliest human remains come from?",
-                    "Answer": "As I previously stated, the earliest known human remains were found in Morocco in Africa."
+                    "Question": "What are some of humanity's most strengths?",
+                    "Answer": "Some of humanity's greatest strengths are our creativity, our compassion, and our capacity for adaptation."
                 },
                 {
-                    "Question": "What were the earliest humans like?",
-                    "Answer": "The earliest humans were shorter and thinner due to less availability of food and balanced nutrition. They lived in nomadic tribes which roamed in search of food."
+                    "Question": "What are some of humanity's most weaknesses?",
+                    "Answer": "Some of humanity's greatest weaknesses are our capacity for fear, hatred, and apathy."
                 },
                 {
-                    "Question": "What did the earliest humans eat?",
-                    "Answer": "The earliest humans were hunter-gatherers and would have eaten meat, vegetables, fruit, and nuts."
+                    "Question": "How do people in different parts of the world view each other?",
+                    "Answer": "It depends greatly on which parts of the world are in question. In general, it is not uncommon to view other cultures or religions with suspicion, but it is also very common to be interested in and supportive of others' cultures and beliefs. This development seems to be accelerating due to the Internet exposing people to a wide array of different lifestyles."
                 },
                 {
-                    "Question": "When did the first humans appear on Earth?",
-                    "Answer": "Homo sapiens appeared at least 360,000 years ago, judging by the earliest known human remains."
+                    "Question": "What do people do for fun?",
+                    "Answer": "People have a wide variety of hobbies and interests, so there is no one answer to this question. Some people enjoy playing sports, some people enjoy watching movies, and some people enjoy spending time with their families. There are endless possibilities."
                 },
                 {
-                    "Question": "How did the first humans get to Earth?",
-                    "Answer": "The first humans were born on Earth."
+                    "Question": "What are some of humanity's most notable achievements?",
+                    "Answer": "Scientifically, humans have made massive achievements by inventing airplanes and spaceships and the Internet. You can now communicate almost instantly with someone across the entire world, or you could travel across the world to visit them in a day or two. This has open humans' eyes to many cultures and beliefs and has made us more accepting of others."
                 },
                 {
-                    "Question": "What was the climate like when the first humans appeared on Earth?",
-                    "Answer": "The climate was drier when humans first appeared. For instance, Africa was in the middle of transforming from wooded land to grasslands due to less water being present."
+                    "Question": "What are some of humanity's most notable failures?",
+                    "Answer": "Many of our supposedly most advanced societies are still unwilling to help those in need. Others wage destructive war or even wipe out entire populations, but in general, the lack of compassionate leadership has caused a great deal of harm to our society and planet."
                 },
                 {
-                    "Question": "What was the world like when the first humans appeared on Earth?",
-                    "Answer": "The world was very different when the first humans appeared. For instance, the land was drier, and there were many species of animals present that have since gone extinct due to climate change, predation, or habitat destruction."
+                    "Question": "What do people believe in?",
+                    "Answer": "This is a very vague question. People believe in facts, whether gathered by observation or deduction. They also often believe in spiritual explanations for natural phenomena such as bad luck or the origins of the universe."
                 },
                 {
-                    "Question": "What were the first humans' homes like?",
-                    "Answer": "The first humans were nomadic and did not have permanent homes. They would live in temporary shelters made out of  foraged materials such as wood, animal skins, and leaves."
+                    "Question": "What do people value?",
+                    "Answer": "This is another very vague question. People tend to value what makes them feel good. This can include selfish things like endless wealth or fancy possessions but can also include art, family, or serving others."
                 },
                 {
-                    "Question": "What did the first humans use for transportation?",
-                    "Answer": "The earliest humans had to technological means of transportation, but the invention of sailing allowed for traversal of waterways."
+                    "Question": "What is the meaning of life, according to humanity?",
+                    "Answer": "This is a difficult question to answer. Some people believe that the meaning of life is to live in such a way that you will be happy and fulfilled. Others believe that the meaning of life is to serve a higher purpose, such as God or the universe. Still others believe that life is ultimately meaningless and that we should make the most of it while we can."
                 }
             ],
-            "Output": "The first humans were shorter and thinner due to less availability of food and balanced nutrition. They lived in small nomadic tribes which roamed in search of food. The earliest humans were hunter-gatherers and would have eaten meat, vegetables, fruit, and nuts. Homo sapiens appeared on Earth at least 360,000 years ago, judging by the earliest known human remains. The climate was drier when humans first appeared. For instance, Africa was in the middle of transforming from wooded land to grasslands due to less water being present. The first humans were nomadic and did not have permanent homes. They would live in temporary shelters made out of  foraged materials such as wood, animal skins, and leaves. The earliest humans had no technological means of transportation, but the invention of sailing allowed for traversal of waterways."
+            "Output": "The aliens might perceive humans as a species that is creative and compassionate, but also one that is capable of great destruction. They might see us as a species that is curious and interested in others, but also one that can be fearful and intolerant. They might view us as a species with great potential but also with many flaws."
         },
         {
             "QApair": [
                 {
-                    "Question": "What were the earliest Homo sapiens like?",
-                    "Answer": "The earliest Homo sapiens were hunter-gatherers who lived in small nomadic tribes. They were physically similar to modern humans, but they had smaller brains. They used simple tools and weapons, and they had a limited capacity for language."
+                    "Question": "How do we as a species tend to interact with one another?",
+                    "Answer": "Humans tend to interact with one another in a variety of ways, depending on the individual and the situation. In some cases, we may cooperate with one another in order to achieve a common goal. In other cases, we may compete with one another in order to gain an advantage. And in other cases, we may simply coexist with one another without any particular interaction."
                 },
                 {
-                    "Question": "Where did the earliest Homo sapiens come from?",
-                    "Answer": "The earliest Homo sapiens probably originated in Africa, where the human fossil record is the richest. At some point, they migrated to other parts of the world, but this is still debated by scholars."
+                    "Question": "What are some of the things that we value as a species?",
+                    "Answer": "As a species, we value what makes us happy, such as accomplishments, love, knowledge, novel experiences, or our loved ones."
                 },
                 {
-                    "Question": "How did Homo sapiens evolve?",
-                    "Answer": "Homo sapiens evolved from earlier hominin species, most likely Homo erectus. The exact process of evolution is not limited to genetics: Homo sapiens evolved through a combination of genetic and cultural changes."
+                    "Question": "What are some of the things that we consider to be problems?",
+                    "Answer": "As a species, we consider those things which are harmful to us as problems. For instance, pain, inequality, greed, corruption, pride, and destruction are all generally considered problems."
                 },
                 {
-                    "Question": "What were the major steps in the evolution of Homo sapiens?",
-                    "Answer": "The major steps in the evolution of Homo sapiens were the development of a smaller brain, the development of language and culture, and the development of simple tools and weapons."
+                    "Question": "How do we think about other species?",
+                    "Answer": "Humans generally think of other species in terms of how they can benefit us or how they can harm us. We are fond of some because we view them as cute, beautiful, or helpful, but others are ugly or deadly."
                 },
                 {
-                    "Question": "What was the impact of the evolution of Homo sapiens on the world?",
-                    "Answer": "The evolution of Homo sapiens had a profound impact on the world, which we are continuing to experience to this day. Modern Homo sapiens have completely shaped the landscape to our needs and desires."
+                    "Question": "What is our relationship with our environment?",
+                    "Answer": "Historically, we have exploited the world around us for personal or societal advancement. This includes extracting resources or clearing land to build settlements. More recently, there has been greater focus on conserving what is left of the natural world to preserve its beauty and the species that inhabit it."
                 },
                 {
-                    "Question": "What are the implications of the evolution of Homo sapiens?",
-                    "Answer": "The evolution of Homo sapiens has implications for our collective understanding of human nature and our place in the world. It also has implications for our ethical and moral responsibilities to other species and to the environment itself."
+                    "Question": "What is our relationship with technology?",
+                    "Answer": "Humans have always used technology to make our lives easier, whether it is the invention of the wheel or the latest smartphone. Sometimes, technology is created based on what is most financially profitable rather than what is most helpful. This can lead to dangerous consequences."
                 },
                 {
-                    "Question": "What challenges does the evolution of Homo sapiens present for the future?",
-                    "Answer": "The challenges posed by the evolution of Homo sapiens are many and varied. We must learn how to leverage our powerful civilization to better humanity and the world, rather than primarily for the benefit of a handful of individuals."
+                    "Question": "What are some of the things that make us unique as a species?",
+                    "Answer": "Some of the things that make us unique as a species on our planet include our capacity for language, our ability to reason and think abstractly, our capacity for empathy, and our creativity."
                 },
                 {
-                    "Question": "What can we learn from the evolution of Homo sapiens?",
-                    "Answer": "We can learn many things from the evolution of Homo sapiens. We can learn about our physical, cultural, and geographic origins, and we are presented with a reminder of our youth in the grand scale of evolution."
+                    "Question": "What do you think an alien race would think of us upon first meeting us?",
+                    "Answer": "I need you to ask some new questions so you can decide for yourself"
                 },
                 {
-                    "Question": "What does the future hold for Homo sapiens?",
-                    "Answer": "The future for Homo sapiens is uncertain. We have overcome many challenges, but those solutions have brought upon us many greater challenges."
+                    "Question": "What are our strengths as a species?",
+                    "Answer": "Some of our strengths as a species include our compassion, trust, strength, and intelligence."
                 },
                 {
-                    "Question": "What advice would you give to someone interested in learning more about the early history of the human race?",
-                    "Answer": "If you are interested in learning more about the early history of the human race, I recommend that you read as much as you can about the subject from a variety of reputable sources. It would be least overwhelming to stick to a small subsection of the information available, since it is such a large area of study."
+                    "Question": "What are our weaknesses as a species?",
+                    "Answer": "Some of our weaknesses as a species include pride, greed, selfishness, arrogance, and ignorance."
                 }
             ],
-            "Output": "The earliest Homo sapiens were hunter-gatherers who lived in small nomadic tribes. They were physically similar to modern humans, but they had smaller brains. They used simple tools and weapons, and they had a limited capacity for language. The earliest Homo sapiens probably originated in Africa, where the human fossil record is the richest. At some point, they migrated to other parts of the world, but this is still debated by scholars. Homo sapiens evolved from earlier hominin species, most likely Homo erectus. The exact process of evolution is not limited to genetics: Homo sapiens evolved through a combination of genetic and cultural changes. The major steps in the evolution of Homo sapiens were the development of a smaller brain, the development of language and culture, and the development of simple tools and weapons. The evolution of Homo sapiens had a profound impact on the world, which we are continuing to experience to this day. Modern Homo sapiens have completely shaped the landscape to our needs and desires. The evolution of Homo sapiens has implications for our collective understanding of human nature and our place in the world. It also has implications for our ethical and moral responsibilities to other species and to the environment itself."
+            "Output": "An alien race might perceive humans as a species that is intelligent and creative, but also arrogant and self-destructive. They might see us as a species that is capable of great good, but also capable of great harm. They might view us with curiosity and caution, and decide to observe us further before making any contact."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/bHNrFIUiScNfQQyXYGhLIaFH?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/xdp9YoAOCzrnLiaXJN3ZkkYK?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/UgjqkC2VJUkBzxj8kQL3hmks?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/oE2QroWY58IHHArW1GhLYO1a?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dOiwx5ZABHbnX56aol7UVBmg?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UNYVPHAglqlnS45qx1nsOYVF?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/16ykDHn7rn-qHSVsFhtS4n7HZ-_972h8N?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1z2oK10F2hHt4F88Ts3p9za4jZdZZQF43?usp=sharing"
 }

@@ -1,148 +1,140 @@
 {
     "Contributor": "liteng",
     "Domain": "Programming",
-    "Task": "Write program by python",
+    "Task": "Recommend a language",
     "Prompt": {
-        "pre_question_prompt": "I am an expert at programming by python. I will ask some questions to collect information and then I will use the information to write a python code.",
-        "task_specific_prompt": "Write the program by using python."
+        "pre_question_prompt": "I am an expert at choosing programming languages. I will ask some questions to collect information and then I will use the information to help you choose the best programming language to fit your work.",
+        "task_specific_prompt": "Please recommend a programming language based on the above information."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the software you want to develop?",
-                    "Answer": "The software I want to develop to calculate PI."
+                    "Question": "What kind of work do you do?",
+                    "Answer": "I work in image processing and computer vision."
                 },
                 {
-                    "Question": "What is the purpose of the software?",
-                    "Answer": "The purpose of this software is to calculate the value of PI."
+                    "Question": "What languages have you worked with in the past?",
+                    "Answer": "I have worked with C, Java, and Python."
                 },
                 {
-                    "Question": "Who will use the software?",
-                    "Answer": "This software will be used by people who want to calculate the value of PI."
+                    "Question": "What do you want to use the programming language for?",
+                    "Answer": "I want to use the programming language for image processing and computer vision. And easy to learn."
                 },
                 {
-                    "Question": "What are the inputs of the software?",
-                    "Answer": "The inputs of this software are the values of the radius and the number of terms."
+                    "Question": "What are your skills and experience in programming?",
+                    "Answer": "I have experience in programming and I am skilled in C, Java, and Python."
                 },
                 {
-                    "Question": "What are the outputs of the software?",
-                    "Answer": "The outputs of this software are the value of PI and the error."
+                    "Question": "Do you have any preferences for a programming language?",
+                    "Answer": "No, I don't have any preferences."
                 },
                 {
-                    "Question": "What are the constraints of the software?",
-                    "Answer": "The constraints of this software are the values of the radius and the number of terms."
+                    "Question": "Is there anything else you would like us to know?",
+                    "Answer": "The language should have a large community so that people can discuss the problem in it."
                 },
                 {
-                    "Question": "What are the assumptions of the software?",
-                    "Answer": "The assumptions of this software are that the value of the radius is positive and that the number of terms is positive."
+                    "Question": "Would you like us to recommend a language for you?",
+                    "Answer": "Yes, please."
                 },
                 {
-                    "Question": "What are the risks of the software?",
-                    "Answer": "The risks of this software are that the value of the radius may be negative and that the number of terms may be negative."
-                },
-                {
-                    "Question": "What are the benefits of the software?",
-                    "Answer": "The benefits of this software are that it can be used to calculate the value of PI and that it can be used to find the error."
-                },
-                {
-                    "Question": "What are the costs of the software?",
-                    "Answer": "The costs of this software are the value of the radius and the number of terms."
+                    "Question": "Which program language will you recommend for me?",
+                    "Answer": "For your work in image processing and computer vision, we recommend the Python programming language. Python is easy to learn and has a large community of users who can help you with problems you may encounter."
                 }
             ],
-            "Output": "# This program calculates the value of PI.        radius = float(input('Enter the value of the radius: ')) please see the details on the screen shot"
+            "Output": "Based on the information provided, we recommend the Python programming language for image processing and computer vision."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the purpose of the code?",
-                    "Answer": "The code will be used to detect faces."
+                    "Question": "What type of project do you need a programming language for?",
+                    "Answer": "I need a programming language for mathematics and statistics."
                 },
                 {
-                    "Question": "What are the inputs to the code?",
-                    "Answer": "The inputs to the code will be images."
+                    "Question": "What do you need to be able to do with the programming language?",
+                    "Answer": "I need to be able to solve equations and do statistical analysis. And plot figure."
                 },
                 {
-                    "Question": "What are the outputs of the code?",
-                    "Answer": "The outputs of the code will be the name of the face."
+                    "Question": "What is your level of experience with programming languages?",
+                    "Answer": "I have some experience with programming languages. I know how to code in C++, Java, and Python."
                 },
                 {
-                    "Question": "What are the steps involved in the code?",
-                    "Answer": "The steps involved in the code will be to detect the face, to identify the face, and to output the name of the face."
+                    "Question": "What are your preferences for a programming language?",
+                    "Answer": "I prefer a programming language that is easy to use and has a lot of documentation."
                 },
                 {
-                    "Question": "What is the data type of the inputs?",
-                    "Answer": "The data type of the inputs will be images."
+                    "Question": "What are your thoughts on learning a new programming language?",
+                    "Answer": "I think it is a good idea to learn a new programming language. It can help me become more familiar with the different types of programming languages and how they work."
                 },
                 {
-                    "Question": "What is the data type of the outputs?",
-                    "Answer": "The data type of the outputs will be the name of the face."
+                    "Question": "What are your thoughts on using a specific programming language for your project?",
+                    "Answer": "I think it is a good idea to use a specific programming language for my project. I can learn the syntax and semantics of the language."
                 },
                 {
-                    "Question": "Is there any special library required for the code?",
-                    "Answer": "No, there is no special library required for the code."
+                    "Question": "What are your thoughts on using multiple programming languages for your project?",
+                    "Answer": "I think it is not a good idea to use multiple programming languages for my project. "
                 },
                 {
-                    "Question": "What is the time complexity of the code?",
-                    "Answer": "The time complexity of the code will be O(n)."
+                    "Question": "What are your thoughts on open source programming languages?",
+                    "Answer": "I think open source programming languages are a good idea. I can get help from the community and contribute to the language. But I can also accept programming languages that are closed source."
                 },
                 {
-                    "Question": "What is the space complexity of the code?",
-                    "Answer": "The space complexity of the code will be O(1)."
+                    "Question": "What are your thoughts on commercial programming languages?",
+                    "Answer": "I think commercial programming languages are a good idea. I can get help from the company and they usually have good documentation."
                 },
                 {
-                    "Question": "Is the code easy to understand?",
-                    "Answer": "Yes, the code is easy to understand."
+                    "Question": "What are your thoughts on proprietary programming languages?",
+                    "Answer": "I think it is not a good idea to use proprietary programming languages. I can not get help from the community and I can not contribute to the language."
                 }
             ],
-            "Output": "import cv2         def face_detect(image):  please see the details in screen shot"
+            "Output": "The best programming language for your project is Python."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the purpose of the code?",
-                    "Answer": "To write a poem."
+                    "Question": "What type of application do you want to create?",
+                    "Answer": "I want to create a program that can earn lots of money."
                 },
                 {
-                    "Question": "What information do you need?",
-                    "Answer": "The topic of the poem, the length of the poem, and any specific instructions."
+                    "Question": "What type of programming languages have you worked with in the past?",
+                    "Answer": "I don't have experience in programming."
                 },
                 {
-                    "Question": "What will the code do?",
-                    "Answer": "The code will generate a poem based on the information provided."
+                    "Question": "What type of operating system do you want to use?",
+                    "Answer": "I want to use Windows, macOS, and Linux."
                 },
                 {
-                    "Question": "Is there anything else you need to know?",
-                    "Answer": "Yes."
+                    "Question": "What is your budget for this project?",
+                    "Answer": "I want to spend more than $100000."
                 },
                 {
-                    "Question": "What is the rhyme scheme of the poem?",
-                    "Answer": "The rhyme scheme of the poem is AABB."
+                    "Question": "What is your timeline for this project?",
+                    "Answer": "I want to finish this project in less than 24 months."
                 },
                 {
-                    "Question": "What is the meter of the poem?",
-                    "Answer": "The meter of the poem is iambic pentameter."
+                    "Question": "What type of programming languages do you want to learn?",
+                    "Answer": "I don't know."
                 },
                 {
-                    "Question": "Are there any other specific instructions?",
-                    "Answer": "Use GPT-3."
+                    "Question": "What are your skills in programming?",
+                    "Answer": "I don't have experience in programming."
                 },
                 {
-                    "Question": "Do you have a title for the poem?",
-                    "Answer": "Tears and Rain."
+                    "Question": "What are your goals for this project?",
+                    "Answer": "My goal is to create a program that can help me earn lots of money."
                 },
                 {
-                    "Question": "What is the topic of the poem?",
-                    "Answer": "The topic of the poem is love and loss."
+                    "Question": "What type of company do you work for?",
+                    "Answer": "I work for a company that makes software."
                 },
                 {
-                    "Question": "What is the length of the poem?",
-                    "Answer": "The poem is ten lines long."
+                    "Question": "What is your job title?",
+                    "Answer": "I am a software developer."
                 }
             ],
-            "Output": "import os        import sys                import gpt_3        from gpt_3 import *  please see the details in the screen shot."
+            "Output": "According to the information provided, it seems like you would benefit from learning a versatile programming language like Python. Python is a widely used language that is compatible with Windows, macOS, and Linux operating systems. It is also relatively easy to learn, even for those without prior experience in programming. Additionally, Python can be used for a wide variety of applications, including creating programs that earn money."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/VO5aSc5qUtUOcbSPQZsNqaHJ?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1E1Crg__r7jdxpYE42gW_HbAO5ffdviUU?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/i8kHxBts9vV29cObKvFkn8mj?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/11F0z0QF8m3eRh3LBI0hQJ7DZyubywKdI?usp=sharing"
 }

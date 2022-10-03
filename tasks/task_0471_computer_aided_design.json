@@ -1,0 +1,152 @@
+{
+    "Contributor": "kumarpremsuresh",
+    "Domain": "Computer Aided Design",
+    "Task": "Floor plan generation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in computer-aided design. I will ask questions to collect information to help you design the floor plan for the apartment.",
+        "task_specific_prompt": "Based on the question and answers above provide step-by-step instructions on generating a computer-aided design for the floor plan along with software tools to be used, suggested measurements, and a detailed three-dimensional description."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of the apartment?",
+                    "Answer": "The size of the apartment is 800 square feet."
+                },
+                {
+                    "Question": "What is the layout of the rooms?",
+                    "Answer": "The rooms are arranged in a linear fashion with the living room, kitchen, and bedroom in a straight line."
+                },
+                {
+                    "Question": "What furniture do you have?",
+                    "Answer": "I have a couch, a coffee table, a TV, and a dining table with chairs."
+                },
+                {
+                    "Question": "How do you want the rooms to be arranged?",
+                    "Answer": "I want the living room to be in the middle, the kitchen to be in the front, and the bedroom to be in the back."
+                },
+                {
+                    "Question": "Do you have any specific ideas for the design of the floor plan?",
+                    "Answer": "I want the kitchen, and living room to be open concept."
+                },
+                {
+                    "Question": "Is there anything else you would like to include in the design?",
+                    "Answer": "The bathrooms have to be attached to the room."
+                },
+                {
+                    "Question": "What is your budget for this project?",
+                    "Answer": "My budget is $300000."
+                },
+                {
+                    "Question": "What is your timeline for this project?",
+                    "Answer": "I would like the project to be completed within 12 months."
+                },
+                {
+                    "Question": "What is your preferred style for the floor plan?",
+                    "Answer": "I prefer a modern style for the floor plan."
+                },
+                {
+                    "Question": "Do you have any specific colors in mind for the floor plan?",
+                    "Answer": " I would like the floor plan to be in neutral colors."
+                }
+            ],
+            "Output": "1. To create a computer-aided design for the floor plan, first open up a software program that allows you to create two-dimensional designs, such as AutoCAD, SketchUp, or Revit. 2. Begin by creating a basic outline of the rooms, including the living room, kitchen, and bedroom. Make sure to leave enough space in between each room for doorways and hallways. 3. Once the basic layout is complete, begin adding in furniture and other features. For the living room, add in a couch, coffee table, TV, and dining table with chairs. For the kitchen, add in cabinets, countertops, appliances, and a sink. 4. For the bedroom, add in a bed, dresser, and nightstand. 5. Once all of the furniture and features are in place, add in doors and windows. 6. Finally, add in any finishing touches, such as paint colors, flooring, and light fixtures."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of the apartment?",
+                    "Answer": "The size of the apartment is 1500 Sqare feet."
+                },
+                {
+                    "Question": "How many bedrooms do you want in the apartment?",
+                    "Answer": "I would like 2 bedrooms in the apartment."
+                },
+                {
+                    "Question": "How many bathrooms do you want in the apartment?",
+                    "Answer": " I would like 2 bathrooms in the apartment."
+                },
+                {
+                    "Question": "Do you want a kitchen in the apartment?",
+                    "Answer": "Yes, I would like a kitchen in the apartment."
+                },
+                {
+                    "Question": "Do you want a living room in the apartment?",
+                    "Answer": "Yes, I would like a living room in the apartment."
+                },
+                {
+                    "Question": "Do you want a dining room in the apartment?",
+                    "Answer": "Yes, I would like a dining room in the apartment."
+                },
+                {
+                    "Question": "Do you have any specific design requirements for the apartment?",
+                    "Answer": "Yes, I would like the apartment to have an open floor plan."
+                },
+                {
+                    "Question": "Do you have any furniture that you need to include in the floor plan?",
+                    "Answer": "Yes, I have a few pieces of furniture that I need to include in the floor plan."
+                },
+                {
+                    "Question": "Do you have any appliances that you need to include in the floor plan?",
+                    "Answer": "Yes, I have a few basic appliances that I need to include in the floor plan."
+                },
+                {
+                    "Question": "Do you have any other requirements for the floor plan?",
+                    "Answer": "Add a balcony."
+                }
+            ],
+            "Output": "In order to generate a computer-aided design for the floor plan, you will need to use a software program that allows you to create and edit floor plans. There are many different software programs that you can use for this purpose, but we recommend using AutoCAD. Once you have opened AutoCAD, you will need to create a new drawing. To do this, click on the File menu and then select New. In the New Drawing window, select the Architectural template and then click OK. Once the new drawing has been created, you will need to add the dimensions of the room. To do this, click on the Dimensions tool and then click on two points in the drawing area to specify the length and width of the room. Next, you will need to add the furniture to the floor plan. To do this, click on the Furniture tool and then select the pieces of furniture that you want to add to the floor plan. Once you have added all of the furniture, you will need to arrange it in the floor plan. To do this, click on the Arrange tool and then click and drag the pieces of furniture into the desired position. Finally, you will need to add the appliances to the floor plan. To do this, click on the Appliances tool and then select the appliances that you want to add to the floor plan. Once you have added all of the appliances, you will need to connect them to the power outlets. To do this, click on the Electrical tool and then click and drag the electrical wires to the desired position. Once you have finished creating the floor plan, you will need to save it. To do this, click on the File menu and then select Save As. In the Save Drawing window, select the location where you want to save the file and then click OK."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the size of the apartment?",
+                    "Answer": "The size of the apartment is 6000 square feet."
+                },
+                {
+                    "Question": "How many bedrooms do you want in the apartment?",
+                    "Answer": "We would like five bedrooms in the apartment."
+                },
+                {
+                    "Question": "Do you have any specific ideas about the layout of the rooms?",
+                    "Answer": " 3 rooms on the second floor and 2 on the first floor."
+                },
+                {
+                    "Question": "How many bathrooms do you want in the apartment?",
+                    "Answer": "We would like seven bathrooms in the apartment."
+                },
+                {
+                    "Question": "Do you want a kitchen?",
+                    "Answer": "Yes, we would like to have 2 kitchens in the apartment."
+                },
+                {
+                    "Question": "Do you want a living room?",
+                    "Answer": "Yes, we would like to have 2 living rooms in the apartment. One on the first floor and the other on the second floor."
+                },
+                {
+                    "Question": "Do you want a dining room?",
+                    "Answer": "Yes, we would like to have two dining rooms on the first floor and one on the second floor."
+                },
+                {
+                    "Question": "What other rooms do you want in the apartment?",
+                    "Answer": "We would like a gym, a library, and a workspace."
+                },
+                {
+                    "Question": "Do you have any specific ideas about the layout of the rooms?",
+                    "Answer": "Except for the bedrooms, everything else should be an open concept."
+                },
+                {
+                    "Question": "Do you have any specific ideas about the furniture in the rooms?",
+                    "Answer": "We would like modern furniture."
+                }
+            ],
+            "Output": "Assuming you would like a 3D rendering of the space: The first step is to create a floor plan using a computer-aided design (CAD) program. We suggest using AutoCAD or SketchUp. When using AutoCAD, start by opening a new file and setting the units to feet. Then, draw the outline of the space using the rectangle tool. For the dimensions of the space, use the measurements provided in the question and answer.  Once the outline of the space is drawn, add in the doors and windows. For the doors, use the door tool and for the windows, use the window tool.  After the doors and windows are added, start drawing the walls. For the walls, use the line tool. Remember to add in the door and window openings.  Once the walls are drawn, start adding in the rooms. For the bedrooms, use the rectangle tool and for the living room, use the polygon tool. For the dining room, use the circle tool.  After the rooms are added, start adding in the furniture. For the furniture, use the rectangle tool. Remember to add in the door and window openings.  Finally, add in the details. For the details, use the line tool."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wjricXw6ELSj5LyWWUfuPg66?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PvKAHv6bwezpGLPxPH6iJCpy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TUXHc8dlKG5bXwZrk3hrVH9e?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1yIn67FpPNOsMYMAgQcfCVF_Jp9YEzwWe?usp=sharing"
+}

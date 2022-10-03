@@ -1,152 +1,156 @@
 {
     "Contributor": "linli",
     "Domain": "Car service",
-    "Task": "Write an advertisement for a new car service company.",
+    "Task": "Find the insurance policy that satisfies your need without spending too much money.",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in advertising. I will ask some questions to collect information and then I will use the information to write an advertisement that promotes the newly founded car service company in detail.",
-        "task_specific_prompt": "Write an advertisement for the car service company using the questions and answers above. Make sure it is funny and easy to comprehend."
+        "pre_question_prompt": "I am an expert of car insurance. I will ask some questions to collect information and then I will use the information to make sure that you find the policy that satisfies your need without paying too much.",
+        "task_specific_prompt": "Write a content of the desired policy using the questions and answers above. In details and monthly prices."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the car service company?",
-                    "Answer": "The company is called \"Bob's Auto Rental\"."
+                    "Question": "How many drivers will be on the policy?",
+                    "Answer": "There will only be one driver on the policy."
                 },
                 {
-                    "Question": "What are the company's values?",
-                    "Answer": "The company is all about providing affordable, quality car rentals to its customers."
+                    "Question": "What is the make and model of the car?",
+                    "Answer": "The car is a Ford Mustang."
                 },
                 {
-                    "Question": "What is the company's target market?",
-                    "Answer": "The company's target market is people who are looking for a cheap, reliable car rental with utmost safety guarantee."
+                    "Question": "How old is the driver?",
+                    "Answer": "The driver is 21 years old."
                 },
                 {
-                    "Question": "What is the company's slogan?",
-                    "Answer": "\"Bob's Auto Rental: The qualities are phenomenal!\""
+                    "Question": "What is the driver's gender?",
+                    "Answer": "The driver is male."
                 },
                 {
-                    "Question": "Which type of cars do the company provides?",
-                    "Answer": "The company provides all types of cars, from sedans to SUV's."
+                    "Question": "What is the driver's marital status?",
+                    "Answer": "The driver is single."
                 },
                 {
-                    "Question": "How well are the car conditions?",
-                    "Answer": "The conditions are of high quality and are well-maintained."
+                    "Question": "Does the driver have any violations or accidents on their record?",
+                    "Answer": "No, the driver does not have any violations or accidents on their record."
                 },
                 {
-                    "Question": "What are the company's rates?",
-                    "Answer": "The cheapest one only cost $50 per day. We also provide other choices and most of them are under $100 per day. Longer periods will further reduce the costs."
+                    "Question": "What is the driver's zip code?",
+                    "Answer": "The driver's zip code is 90210."
                 },
                 {
-                    "Question": "What is the company's policy on safety?",
-                    "Answer": "The company has a strict policy on safety. All cars are regularly checked and serviced to ensure the safety of our customers."
+                    "Question": "What is the driver's credit score?",
+                    "Answer": "The driver has excellent credit."
                 },
                 {
-                    "Question": "What are the company's payment options?",
-                    "Answer": "The company accepts all major credit cards. Cash and checks are also welcomed."
+                    "Question": "What is the desired level of coverage?",
+                    "Answer": "The desired level of coverage is full coverage."
                 },
                 {
-                    "Question": "What is the company's cancellation policy?",
-                    "Answer": "The company has a 24-hour cancellation policy. If you cancel your reservation within 24 hours of your scheduled rental, you will not be charged."
+                    "Question": "What is the desired deductible?",
+                    "Answer": "The desired deductible is $500."
                 }
             ],
-            "Output": "Looking for a cheap, reliable car rental that is also safe? Look no further than Bob's Auto Rental! We provide all types of cars at affordable rates, with the option to rent for longer periods of time at an even lower cost. Our cars are all well-maintained and serviced regularly to ensure the safety of our customers. We accept all major credit cards, cash, and checks. And our 24-hour cancellation policy means that you can cancel your reservation without being charged, as long as you do it within 24 hours of your scheduled rental. So what are you waiting for? Give us a call today and rent a car from Bob's Auto Rental!"
+            "Output": "The desired policy would be a full coverage policy with a $500 deductible. The monthly price would depend on the specific insurer, but would likely be around $100 per month."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the car service company?",
-                    "Answer": "The company is called \"Royal Auto Rental\"."
+                    "Question": "How many drivers will be on the policy?",
+                    "Answer": "There will be four drivers on the policy."
                 },
                 {
-                    "Question": "What are the company's values?",
-                    "Answer": "The company is all about providing extremely comfortable and luxurious vehicles for the customers."
+                    "Question": "What are the ages of the drivers?",
+                    "Answer": "The ages of the drivers are 23, 25, 35, and 45."
                 },
                 {
-                    "Question": "What is the company's target market?",
-                    "Answer": "The target market for this company is people who want to rent a car for special occasions like weddings or anniversaries."
+                    "Question": "What is the make and model of the car?",
+                    "Answer": "The car is Isuzu NPR-HD."
                 },
                 {
-                    "Question": "What is the company's mission statement?",
-                    "Answer": "The company's mission statement is \"To provide the best car rental experience by offering opulent vehicles and outstanding customer service.\""
+                    "Question": "What is the primary use of the car?",
+                    "Answer": "The car will be used for logistics."
                 },
                 {
-                    "Question": "What are the unique selling points of the company?",
-                    "Answer": "The unique selling points of the company are that it offers fashionable vehicles and impeccable customer service."
+                    "Question": "What is the estimated mileage driven per year?",
+                    "Answer": "The car will be driven an estimated 10,000 miles per year."
                 },
                 {
-                    "Question": "What are the company's rates?",
-                    "Answer": "The rates are relatively high compared to the average rental service, but we focus on special occasion car rental like limousines and the amount of care and effort we put into each individual customer is unparalleled. Definitely worth every penny."
+                    "Question": "What is the zip code where the car will be primarily driven?",
+                    "Answer": "The car will be primarily driven in the zip code 90210."
                 },
                 {
-                    "Question": "What is the company's geographic area?",
-                    "Answer": "The company is based in Los Angeles, California but provides services to the surrounding areas."
+                    "Question": "What is the desired level of coverage?",
+                    "Answer": "The desired level of coverage is comprehensive and collision with a $1000 deductible."
                 },
                 {
-                    "Question": "What is the company's contact information?",
-                    "Answer": "The company's contact information is as follows:\nPhone number: (213) 555-0101\nEmail: info@royalautorental.com\nWebsite: www.royalautorental.com"
+                    "Question": "What are the desired add-ons?",
+                    "Answer": "The desired add-ons are roadside assistance and rental car reimbursement."
                 },
                 {
-                    "Question": "Is there anything else you think I should know?",
-                    "Answer": "We also provide wedding dress rental service with professional wedding planner if you purchase our once-in-a-lifetime wedding bundle. We would make sure that all things appeared on your wedding looks immaculate."
+                    "Question": "What is the desired length of the policy?",
+                    "Answer": "The desired length of the policy is 5 years."
                 },
                 {
-                    "Question": "Can you provide me with some types of the company's vehicles?",
-                    "Answer": "We have a wide range of vehicles including luxury sedans, sports cars, convertibles, and limos."
+                    "Question": "What is the desired payment schedule?",
+                    "Answer": "The desired payment schedule is monthly."
+                },
+                {
+                    "Question": "What is your budget for the policy?",
+                    "Answer": "The budget for the policy is $200 per month."
                 }
             ],
-            "Output": "Looking for a luxurious and comfortable car rental experience? Look no further than Royal Auto Rental! We offer fashionable vehicles and impeccable customer service that is unmatched. Our rates are relatively high, but we focus on special occasion car rental like limousines and the amount of care and effort we put into each individual customer is unparalleled. Definitely worth every penny. We are based in Los Angeles, California but provide services to the surrounding areas. For more information, please visit our website www.royalautorental.com or give us a call at (213) 555-0101."
+            "Output": "The desired policy would be a 5-year comprehensive and collision policy with a $1000 deductible. The add-ons desired are roadside assistance and rental car reimbursement. The monthly budget for the policy is $200."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the name of the car service company?",
-                    "Answer": "The company is called \"Expedite Car Transport\"."
+                    "Question": "What is the make, model, and year of your car?",
+                    "Answer": "The make, model, and year of my car is a Honda Civic EX 2007."
                 },
                 {
-                    "Question": "What are the company's values?",
-                    "Answer": "The company is all about providing swift long-distance car transportation and ensures that the car remain undamaged and stainless."
+                    "Question": "How much coverage do you need?",
+                    "Answer": "I need half coverage."
                 },
                 {
-                    "Question": "What are the company's services?",
-                    "Answer": "The company offers long-distance car transportation services. They pick up the car from the customer's location and transport it to the destination safely and swiftly."
+                    "Question": "What is your budget for car insurance?",
+                    "Answer": "My budget for car insurance is $100 a month."
                 },
                 {
-                    "Question": "Who is the target audience?",
-                    "Answer": "The target audience for this company are people who need to transport their car over long distances."
+                    "Question": "What are your driving habits?",
+                    "Answer": "I usually drive about 10 miles to work and back, and I sometimes drive on the weekends. I generally obey the speed limit and I rarely have accidents."
                 },
                 {
-                    "Question": "What is the company's USP?",
-                    "Answer": "The company's unique selling point is its speed and efficiency. It promises to deliver the car to the destination quickly and without any damage."
+                    "Question": "What is your marital status?",
+                    "Answer": "I am married."
                 },
                 {
-                    "Question": "What is the tone of the advertisement?",
-                    "Answer": "The tone of the advertisement needs to be professional and promising."
+                    "Question": "How old are you?",
+                    "Answer": "I am 26 years old."
                 },
                 {
-                    "Question": "What is the call to action?",
-                    "Answer": "The call to action is to call the company's number to book a car transport."
+                    "Question": "Do you have any children?",
+                    "Answer": "I have 2 kids, one is a girl and the other is a boy."
                 },
                 {
-                    "Question": "What are the company's contact details?",
-                    "Answer": "The company's contact details are as follows:\nExpedite Car Transport\nToll-free number: 1-800-123-4567\nEmail: info@expeditecartransport.com\nWebsite: www.expeditecartransport.com"
+                    "Question": "What is your gender?",
+                    "Answer": "I am a male."
                 },
                 {
-                    "Question": "What are the company's social media handles?",
-                    "Answer": "The company's social media handles are as follows:\nFacebook: @ExpediteCarTransport\nTwitter: @ExpediteCT\nInstagram: @ExpediteCarTransport"
+                    "Question": "Do you have any accidents or violations on your record?",
+                    "Answer": "I have 1 speeding ticket on my record."
                 },
                 {
-                    "Question": "What are the company's office timings?",
-                    "Answer": "The company's office timings are from Monday to Friday, 9 am to 5 pm EST."
+                    "Question": "What is your driving style?",
+                    "Answer": "I would say my driving style is cautious."
                 }
             ],
-            "Output": "Looking to transport your car long-distance without any hassle? Look no further than Expedite Car Transport! We pick up your car from your location and deliver it to your destination quickly, safely and without any damage. Our unique selling point is our speed and efficiency \u2013 we promise to deliver your car to its destination quickly and without any issues. So call us now on our toll-free number 1-800-123-4567 or visit our website www.expeditecartransport.com to book a car transport. You can also find us on social media \u2013 we're on Facebook, Twitter and Instagram at @ExpediteCarTransport. Our office timings are from Monday to Friday, 9 am to 5 pm EST."
+            "Output": "The policy should satisfy the customer's needs without costing too much.\nBased on the information provided, we recommend a policy with the following coverage:\n- Bodily Injury Liability: $50,000 per person/$100,000 per accident\n- Property Damage Liability: $25,000\n- Personal Injury Protection: $10,000\n- Collision: $500 deductible\n- Comprehensive: $250 deductible\nThis policy would have a monthly cost of $84.92."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/vg1KcGoBfHrtloIwmBmmqnKV?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/SuEpJonyU0w64vQSqAxiaLEd?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/D0DrBrkEdsN2mLNoExzQupcN?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/mdf51CqP51HW8HzO3g0I0yIX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/sLkWNny5zXD4qEPSDABh9Fh1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/if3a7IwRJGWqYfqBAsLjCR38?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1NBqDovis80EyP_liPwIHbHvQS_Pr8e9U?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1HMS-QvnfbW0guUUc9g-JUMJ3Cj93eiem?usp=sharing"
 }

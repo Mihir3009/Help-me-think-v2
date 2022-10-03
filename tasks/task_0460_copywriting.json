@@ -1,0 +1,168 @@
+{
+    "Contributor": "kumarabhinav",
+    "Domain": "Copywriting",
+    "Task": "Ad Creation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in copywriting. I will ask some questions to collect information and then I will use the information to create ad for your company. ",
+        "task_specific_prompt": "Create a detailed ad for a company based on questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": " What is the name of your company? ",
+                    "Answer": " Secondhand_Everything."
+                },
+                {
+                    "Question": " What does your company do? ",
+                    "Answer": " Secondhand_Everything is a company that provides affordable secondhand items from electronics , cloth to furniture."
+                },
+                {
+                    "Question": " What is your company's tagline? ",
+                    "Answer": " The best things in life are secondhand."
+                },
+                {
+                    "Question": " What is the most important thing you want people to know about your company? ",
+                    "Answer": " Secondhand_Everything is the best place to find affordable secondhand items. We have a huge selection of items and our prices are unbeatable."
+                },
+                {
+                    "Question": " What is your company's USP (unique selling proposition)? ",
+                    "Answer": " We are the only company that specializes in affordable secondhand items."
+                },
+                {
+                    "Question": " What are your company's values? ",
+                    "Answer": " Our company values are affordability, quality, and selection."
+                },
+                {
+                    "Question": " Who is your target market? ",
+                    "Answer": " Our target market is anyone who is looking for affordable secondhand items."
+                },
+                {
+                    "Question": " What is the tone of the ad you would like me to create? ",
+                    "Answer": " The tone of the ad should be friendly and inviting."
+                },
+                {
+                    "Question": " What is the call to action you would like me to include in the ad? ",
+                    "Answer": " The call to action should be something like, Come to Secondhand_Everything for the best deals on secondhand items"
+                },
+                {
+                    "Question": " Do you have any additional information that you would like me to include? ",
+                    "Answer": " No, thank you."
+                },
+                {
+                    "Question": " What is your budget for this project? ",
+                    "Answer": " Our budget for this project is $100."
+                },
+                {
+                    "Question": " What is the timeline for this project? ",
+                    "Answer": " The timeline for this project is two weeks."
+                }
+            ],
+            "Output": "Looking for the best deals on affordable secondhand items? Look no further than Secondhand_Everything! We have a huge selection of items at unbeatable prices. Our values are affordability, quality, and selection. Come to Secondhand_Everything for the best deals on secondhand items! "
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What is the name of your company? ",
+                    "Answer": " Get Safer Today."
+                },
+                {
+                    "Question": " What is your company's slogan? ",
+                    "Answer": "Making the world a safer place, one home at a time."
+                },
+                {
+                    "Question": " What are your company's core values? ",
+                    "Answer": " Integrity, responsibility, and compassion."
+                },
+                {
+                    "Question": " What is your company's mission? ",
+                    "Answer": " To make the world a safer place by providing products and services that protect people and property."
+                },
+                {
+                    "Question": " What are your company's products and services? ",
+                    "Answer": " We offer a wide range of products and services designed to keep people and property safe, including home security systems, fire protection systems, and security consulting services."
+                },
+                {
+                    "Question": " Who is your target market? ",
+                    "Answer": " Our target market is homeowners and businesses who are looking for ways to improve security and safety."
+                },
+                {
+                    "Question": " What are your company's unique selling points? ",
+                    "Answer": " Our company's unique selling points are our experience, our products, and our services- We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers."
+                },
+                {
+                    "Question": " What are your company's goals? ",
+                    "Answer": " Our goal is to provide our customers with the best possible security and safety solutions."
+                },
+                {
+                    "Question": " What are your company's strengths? ",
+                    "Answer": " Our company's strengths include our experience, our products, and our services- We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers."
+                },
+                {
+                    "Question": " What are your company's weaknesses? ",
+                    "Answer": " Our company's weaknesses include our lack of a national presence and our lack of a strong online presence."
+                },
+                {
+                    "Question": " What are your company's opportunities? ",
+                    "Answer": " Our company's opportunities include expanding our product line to include more home safety products and services, and increasing our marketing efforts to reach a wider audience."
+                },
+                {
+                    "Question": " What are your company's threats? ",
+                    "Answer": " Our company's threats include competition from other security companies, and the possibility of new regulations that could impact our business."
+                }
+            ],
+            "Output": "Looking for a way to improve security and safety for your home or business? Look no further than Get Safer Today! We offer a wide range of products and services designed to keep people and property safe, including home security systems, fire protection systems, and security consulting services. We have been in the security business for over 20 years, and our products and services are designed to meet the needs of our customers. Contact us today to learn more!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What is the name of your company? ",
+                    "Answer": " All New Items."
+                },
+                {
+                    "Question": " What does your company do? ",
+                    "Answer": " We are a company that specializes in selling new items."
+                },
+                {
+                    "Question": " What is your company's slogan? ",
+                    "Answer": " The best place to find new things."
+                },
+                {
+                    "Question": " What is the target audience for your company's ads? ",
+                    "Answer": " People who are looking for new things."
+                },
+                {
+                    "Question": " What are some of the key benefits of your company's products or services? ",
+                    "Answer": " The benefits of our products and services include the fact that they are new, and that we have a wide variety of products."
+                },
+                {
+                    "Question": " What is the call to action in your company's ads? ",
+                    "Answer": " The call to action in our ads is for people to come and check out our products and services."
+                },
+                {
+                    "Question": " What is the overall tone of your company's ads? ",
+                    "Answer": " The overall tone of our ads is positive and inviting."
+                },
+                {
+                    "Question": " What are some specific words or phrases you would like to see in your company's ads? ",
+                    "Answer": " Some specific words and phrases we would like to see in our ads include \"new,\" \"innovative,\" \" exciting,\" and \"wide selection."
+                },
+                {
+                    "Question": " What is the company's logo? ",
+                    "Answer": " The company's logo is a blue and white circle with a new item in the center."
+                },
+                {
+                    "Question": " What color scheme would you like to see in your company's ads? ",
+                    "Answer": " We would like to see a blue and white color scheme in our ads."
+                },
+                {
+                    "Question": " What images would you like to see in your company's ads? ",
+                    "Answer": " Some images we would like to see in our ads include pictures of new products, the company's logo, and pictures of people using and enjoying our products."
+                }
+            ],
+            "Output": "Looking for something new? Look no further than All New Items! We specialize in selling new items and have a wide variety of products to choose from. Our products are innovative and exciting, and we're sure you'll find something you love. Come and check us out today!"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/5RZmLOJ2zbUy6KaMkHGCmgA6?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic2%5FCopywriting%2FTask5"
+}

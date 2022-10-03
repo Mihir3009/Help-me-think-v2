@@ -1,149 +1,149 @@
 {
     "Contributor": "khajuriabrijbhushan",
     "Domain": "Jouranlism",
-    "Task": "Book Back Cover Summary",
+    "Task": "Book Review Generation",
     "Prompt": {
-        "pre_question_prompt": "I am a book publisher. I will ask a book author these 10 questions about his new $genre$ book.",
-        "intermediate_prompt": "I am the Book Author. I will answer above questions.",
-        "task_specific_prompt": "Create a back cover summary of the book based on above answers."
+        "pre_question_prompt": "I am owner of a media house. I am asking these 10 questions to $reviewing-person$ on his thoughts on the book $title$ written by $author$ .",
+        "intermediate_prompt": "I am $reviewing-person$. I will answer above questions.",
+        "task_specific_prompt": "Create a brief Book Review by $reviewing-person$ based upon above answers."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "1. What are the main takeaways that you want your reader to get from your book?",
-                    "Answer": "1. The main takeaways I want my reader to get from my book are the importance of self-awareness and self-acceptance. I want them to understand that they are not alone in their struggles and that there is hope for change."
+                    "Question": "1. Mr. Gates, what inspired you to read \"Factfulness\"?",
+                    "Answer": "1. I was inspired to read \"Factfulness\" because it challenges some common misconceptions about the world."
                 },
                 {
-                    "Question": "2. What made you want to write a book on this particular topic?",
-                    "Answer": "2. I was inspired to write this book because I struggled with many of the same issues that my readers are likely to face. I know how difficult it can be to make positive changes in one's life, but I also know that it is possible. I wanted to share my story and offer some practical advice that might help others."
+                    "Question": "2. What did you think of the book`s overall message?",
+                    "Answer": "2. I thought the book`s overall message was important and timely."
                 },
                 {
-                    "Question": "3. What do you think sets your book apart from other self-help books out there?",
-                    "Answer": "3. I think my book is unique because it is based on my own personal experiences. I also offer concrete suggestions for how to make positive changes in one's life."
+                    "Question": "3. Did you find the book`s approach to data visualization helpful?",
+                    "Answer": "3. I found the book`s approach to data visualization helpful."
                 },
                 {
-                    "Question": "4. What was the process that you went through in order to write this book?",
-                    "Answer": "4. The process of writing this book was very therapeutic for me. It was a way for me to explore my own thoughts and feelings, and to make sense of my past."
+                    "Question": "4. What did you think of the book`s coverage of global health topics?",
+                    "Answer": "4. I thought the book`s coverage of global health topics was excellent."
                 },
                 {
-                    "Question": "5. How did you come up with the title of your book?",
-                    "Answer": "5. I came up with the title of my book, \"The Power of Self-Awareness\", because I believe that self-awareness is the key to making positive changes in one's life."
+                    "Question": "5. Did you find the book`s discussion of wealth and poverty interesting?",
+                    "Answer": "5. I found the book`s discussion of wealth and poverty interesting."
                 },
                 {
-                    "Question": "6. What are some of your favorite chapters in the book?",
-                    "Answer": "6. Some of my favorite chapters in the book are those that deal with the topics of self-compassion and self-care. I think these are essential concepts that everyone should understand and practice."
+                    "Question": "6. What did you think of the book`s treatment of climate change?",
+                    "Answer": "6. I thought the book`s treatment of climate change was excellent."
                 },
                 {
-                    "Question": "7. What do you hope that people will take away from reading your book?",
-                    "Answer": "7. I hope that people will take away from reading my book that change is possible. No matter how difficult their situation may seem, they can make positive changes in their lives if they are willing to work hard and be honest with themselves."
+                    "Question": "7. Did you find the book`s examination of technology trends insightful?",
+                    "Answer": "7. I found the book`s examination of technology trends insightful."
                 },
                 {
-                    "Question": "8. What are your plans for promoting your book?",
-                    "Answer": "8. My plans for promoting my book include doing some speaking engagements and workshops, as well as working with local bookstores and libraries. I will also be using social media to spread the word about my book."
+                    "Question": "8. What did you think of the book`s discussion of education?",
+                    "Answer": "8. I thought the book`s discussion of education was excellent."
                 },
                 {
-                    "Question": "9. What are your thoughts on the current state of the self-help genre?",
-                    "Answer": "9. I think the current state of the self-help genre is positive. There are a lot of great books out there that can really help people."
+                    "Question": "9. Did you find the book`s exploration of population growth interesting?",
+                    "Answer": "9. I found the book`s exploration of population growth interesting."
                 },
                 {
-                    "Question": "10. Do you have any other books in the works that you can tell us about?",
-                    "Answer": "10. I do have another book in the works that I can tell you about. It is tentatively titled \"The Power of Self-Compassion\" and it will be about the importance of being kind to oneself."
+                    "Question": "10. What are your overall thoughts on \"Factfulness\"?",
+                    "Answer": "10. Overall, I thought \"Factfulness\" was an excellent book."
                 }
             ],
-            "Output": "The Power of Self-Awareness is a book about the importance of self-awareness and self-acceptance. Based on the author's own personal experiences, the book offers concrete suggestions for how to make positive changes in one's life. The book is a unique and inspiring guide that will help readers understand themselves and make the changes they need to improve their lives."
+            "Output": "I would recommend \"Factfulness\" to anyone interested in learning more about the world. The book provides a helpful overview of some common misconceptions about the world and challenges readers to think critically about the data. The book`s approach to data visualization is helpful, and the coverage of global health topics is excellent. I also found the book`s discussion of wealth and poverty interesting."
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What inspired you to write this book?",
-                    "Answer": "1. I was inspired to write this book because I love science fiction and wanted to explore the genre in more depth."
+                    "Question": "1. What inspired you to read \"Man`s Search for Meaning\"?",
+                    "Answer": "1. I was inspired to read \"Man`s Search for Meaning\" because I was going through a difficult time in my life and I was looking for answers."
                 },
                 {
-                    "Question": "2. What influenced the choice of setting and genre?",
-                    "Answer": "2. I chose the setting and genre because I wanted to create a world that was both familiar and strange, and science fiction offers that."
+                    "Question": "2. What did you find most interesting or compelling about the book?",
+                    "Answer": "2. The most interesting thing I found in the book was the idea that we can find meaning in our lives even in the midst of suffering."
                 },
                 {
-                    "Question": "3. Why did you choose to make the book a science fiction story?",
-                    "Answer": "3. I wanted to make the book a science fiction story because I love the genre and its potential for exploration."
+                    "Question": "3. What did you find most challenging or difficult to understand in the book?",
+                    "Answer": "3. The most challenging thing I found in the book was the author's discussion of the Holocaust. It was difficult for me to understand how people could find meaning in such a horrific event."
                 },
                 {
-                    "Question": "4. What themes are explored in the book?",
-                    "Answer": "4. The themes explored in the book include science, technology, and society."
+                    "Question": "4. How do you think the book can help people who are facing difficult challenges in their lives?",
+                    "Answer": "4. I think the book can help people who are facing difficult challenges in their lives by showing them that it is possible to find meaning even in the midst of suffering."
                 },
                 {
-                    "Question": "5. What are the main characters like?",
-                    "Answer": "5. The main characters are people who are struggling to understand and adapt to the changes in their world."
+                    "Question": "5. What do you think are the key lessons that can be learned from the book?",
+                    "Answer": "5. The key lessons I learned from the book are that we can find meaning in our lives even when things are tough and that we should never give up hope."
                 },
                 {
-                    "Question": "6. What challenges do they face?",
-                    "Answer": "6. The challenges they face include figuring out how to live in a world that is constantly changing and often seems hostile."
+                    "Question": "6. What do you think are the book`s strengths and weaknesses?",
+                    "Answer": "6. The strengths of the book are that it is inspiring and provides a lot of food for thought. The weaknesses of the book are that it is sometimes repetitive and can be a bit dry."
                 },
                 {
-                    "Question": "7. What scenes in the book are most memorable?",
-                    "Answer": "7. The most memorable scenes in the book are those in which the characters are trying to figure out what to do next."
+                    "Question": "7. What do you think could have been done differently to make the book more effective?",
+                    "Answer": "7. I think the author could have been more concise in his writing and he could have provided more concrete examples to illustrate his points."
                 },
                 {
-                    "Question": "8. What did you enjoy most about writing this book?",
-                    "Answer": "8. I enjoyed writing this book because it gave me a chance to explore a world that is both familiar and strange."
+                    "Question": "8. What do you think are the most important takeaways from the book?",
+                    "Answer": "8. The most important takeaways from the book are that it is possible to find meaning in our lives even when things are tough and that we should never give up hope."
                 },
                 {
-                    "Question": "9. What are your hopes for this book?",
-                    "Answer": "9. My hope for this book is that it will inspire readers to think about the world in new and different ways."
+                    "Question": "9. What do you think could have been done to make the book more enjoyable to read?",
+                    "Answer": "9. I think the book could have been more enjoyable to read if it was shorter and more concise."
                 },
                 {
-                    "Question": "10. What are you working on next?",
-                    "Answer": "10. I am working on a new book that explores the theme of love in the time of technology."
+                    "Question": "10. What do you think are the book`s most important messages?",
+                    "Answer": "10. The most important messages from the book are that we can find meaning in our lives even when things are tough and that we should never give up hope."
                 }
             ],
-            "Output": "\nIn a world that is constantly changing, the main characters must figure out how to live in a world that often seems hostile. With science and technology as their guide, they must find a way to survive and thrive in this new world."
+            "Output": "\"Man`s Search for Meaning\" is a book that will inspire you to never give up hope. Even in the midst of suffering, it is possible to find meaning in our lives. The book provides a lot of food for thought and is definitely worth a read."
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What inspired you to write your book?",
-                    "Answer": "1. I was inspired to write my book because I saw a need for more business books that focus on social media marketing."
+                    "Question": "1. What made you want to read \"The Alchemist\"?",
+                    "Answer": "1. I read \"The Alchemist\" because I wanted to know what the book was about. I had heard a lot about it and I was curious to see if it was worth all the hype."
                 },
                 {
-                    "Question": "2. What are the main topics covered in your book?",
-                    "Answer": "2. The main topics covered in my book are social media marketing strategy, tips and tricks for using social media to promote your business, and case studies of businesses that have successfully used social media marketing."
+                    "Question": "2. What did you think of the book`s overall message?",
+                    "Answer": "2. I thought the book`s overall message was very inspiring. It`s about following your dreams and never giving up on yourself."
                 },
                 {
-                    "Question": "3. What are your book`s key takeaways?",
-                    "Answer": "3. The key takeaways from my book are that social media marketing is a powerful tool that can help businesses reach new customers, but it takes planning and effort to do it effectively."
+                    "Question": "3. Did you find the story easy to follow?",
+                    "Answer": "3. I found the story easy to follow. I thought the characters were interesting and I liked the way the story unfolded."
                 },
                 {
-                    "Question": "4. Who is your target audience?",
-                    "Answer": "4. My target audience for this book is small business owners and marketing professionals who want to learn more about social media marketing."
+                    "Question": "4. What did you think of the characters in the book?",
+                    "Answer": "4. I thought the characters in the book were well-developed and easy to relate to."
                 },
                 {
-                    "Question": "5. How did you come up with the title of your book?",
-                    "Answer": "5. I came up with the title of my book, Social Media Marketing for Businesses, because I wanted to convey that this book is about using social media to promote businesses."
+                    "Question": "5. Did you feel like the book`s length was just right, or would you have preferred it to be shorter/longer?",
+                    "Answer": "5. I thought the book`s length was just right. I didn`t feel like it needed to be shorter or longer."
                 },
                 {
-                    "Question": "6. What are some of the unique selling points of your book?",
-                    "Answer": "6. Some of the unique selling points of my book include the fact that it is one of the first business books to focus exclusively on social media marketing, and that it includes case studies of businesses that have used social media marketing successfully."
+                    "Question": "6. What did you think of the book`s ending?",
+                    "Answer": "6. I thought the book`s ending was satisfying. I liked the way everything came together and I thought the ending was fitting."
                 },
                 {
-                    "Question": "7. What are your book`s most popular chapters?",
-                    "Answer": "7. Some of the most popular chapters in my book are the ones that focus on specific social media platforms like Facebook, Twitter, and LinkedIn."
+                    "Question": "7. Would you recommend \"The Alchemist\" to others?",
+                    "Answer": "7. I would recommend \"The Alchemist\" to others. I think it`s a book that can inspire and motivate people to follow their dreams."
                 },
                 {
-                    "Question": "8. What are some of the challenges you faced while writing your book?",
-                    "Answer": "8. One of the challenges I faced while writing my book was making sure that the information was up-to-date, since social media is such a rapidly changing field."
+                    "Question": "8. What did you think of Paulo Coehlo`s writing style?",
+                    "Answer": "8. I thought Paulo Coehlo`s writing style was engaging and easy to read."
                 },
                 {
-                    "Question": "9. How did you overcome those challenges?",
-                    "Answer": "9. I overcame this challenge by conducting extensive research and keeping up with the latest news and developments in the social media world."
+                    "Question": "9. What other books by Paulo Coehlo have you read, and how do they compare to \"The Alchemist\"?",
+                    "Answer": "9. I have read other books by Paulo Coehlo and I would say that \"The Alchemist\" is my favorite. I think it`s his best book."
                 },
                 {
-                    "Question": "10. What are your thoughts on the current state of the business book market?",
-                    "Answer": "10. I think the current state of the business book market is exciting because there are so many new and innovative books being published."
+                    "Question": "10. Do you think you`ll read any more of Paulo Coehlo`s books in the future?",
+                    "Answer": "10. Yes, I would definitely read more of Paulo Coehlo`s books in the future."
                 }
             ],
-            "Output": "Social Media Marketing for Businesses is a book that shows small business owners and marketing professionals how to use social media to reach new customers. The book includes tips and tricks for using social media platforms like Facebook, Twitter, and LinkedIn, as well as case studies of businesses that have used social media marketing successfully."
+            "Output": "\"\"The Alchemist\" is a book that I would recommend to others. I thought it was well-written and easy to follow. I liked the characters and I thought the overall message was very inspiring."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/GqHZiXTserit4eoxgNGPfA2n?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1oqkxZY0TJrGP6il8XfWLGl9wLN76XmbZ?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/lVlTB42YsfSsk67dhrSgi8gg?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1lf_C6PxXisa8OCjOVpZR6GmwFudzRaPb?usp=sharing"
 }

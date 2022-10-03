@@ -1,152 +1,168 @@
 {
     "Contributor": "kumarpremsuresh",
     "Domain": "Computer Aided Design",
-    "Task": "Floor plan generation",
+    "Task": "Car design",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in computer-aided design. I will ask questions to collect information to help you design the floor plan for the apartment.",
-        "task_specific_prompt": "Based on the question and answers above provide step-by-step instructions on generating a computer-aided design for the floor plan along with software tools to be used, suggested measurements, and a detailed three-dimensional description."
+        "pre_question_prompt": "I am an expert in computer-aided design. I will ask questions to collect information to help you design a car.",
+        "task_specific_prompt": "Based on the question and answers above provide step-by-step instructions on generating a computer-aided design for the car along with software tools to be used, suggested measurements, and a detailed three-dimensional description."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the size of the apartment?",
-                    "Answer": "The size of the apartment is 800 square feet."
-                },
-                {
-                    "Question": "What is the layout of the rooms?",
-                    "Answer": "The rooms are arranged in a linear fashion with the living room, kitchen, and bedroom in a straight line."
-                },
-                {
-                    "Question": "What furniture do you have?",
-                    "Answer": "I have a couch, a coffee table, a TV, and a dining table with chairs."
-                },
-                {
-                    "Question": "How do you want the rooms to be arranged?",
-                    "Answer": "I want the living room to be in the middle, the kitchen to be in the front, and the bedroom to be in the back."
-                },
-                {
-                    "Question": "Do you have any specific ideas for the design of the floor plan?",
-                    "Answer": "I want the kitchen, and living room to be open concept."
-                },
-                {
-                    "Question": "Is there anything else you would like to include in the design?",
-                    "Answer": "The bathrooms have to be attached to the room."
-                },
-                {
                     "Question": "What is your budget for this project?",
-                    "Answer": "My budget is $300000."
+                    "Answer": "My budget is $100000."
                 },
                 {
-                    "Question": "What is your timeline for this project?",
-                    "Answer": "I would like the project to be completed within 12 months."
+                    "Question": "What is your desired completion date for this project?",
+                    "Answer": " I would like the project to be completed within 6 months."
                 },
                 {
-                    "Question": "What is your preferred style for the floor plan?",
-                    "Answer": "I prefer a modern style for the floor plan."
+                    "Question": "What are your specific design goals for this project?",
+                    "Answer": "My specific design goals for this project include creating a car that is aerodynamic, efficient, and stylish."
                 },
                 {
-                    "Question": "Do you have any specific colors in mind for the floor plan?",
-                    "Answer": " I would like the floor plan to be in neutral colors."
+                    "Question": "What type of engine do you want for this car?",
+                    "Answer": "I would like a  supercharged 5.2-liter V8 with 760 horsepower and 625 pound-feet of torque for this car."
+                },
+                {
+                    "Question": "What type of transmission do you want for this car?",
+                    "Answer": "I would like an 8-speed automatic transmission for this car."
+                },
+                {
+                    "Question": "What type of suspension do you want for this car?",
+                    "Answer": "I would like an adjustable coilover suspension for this car."
+                },
+                {
+                    "Question": "What type of brakes do you want for this car?",
+                    "Answer": "I would like carbon ceramic brakes for this car."
+                },
+                {
+                    "Question": "What type of wheels do you want for this car?",
+                    "Answer": "I would like 21-inch wheels for this car."
+                },
+                {
+                    "Question": "What type of tires do you want for this car?",
+                    "Answer": "I would like high-performance tires for this car."
+                },
+                {
+                    "Question": "What type of exterior finish do you want for this car?",
+                    "Answer": "I would like a matte red finish for this car."
+                },
+                {
+                    "Question": "What type of interior finish do you want for this car?",
+                    "Answer": "I would like a black leather finish for this car."
+                },
+                {
+                    "Question": "What type of audio system do you want for this car?",
+                    "Answer": " I would like a premium audio system for this car."
+                },
+                {
+                    "Question": "What type of navigation system do you want for this car?",
+                    "Answer": "I would like a GPS navigation system for this car."
+                },
+                {
+                    "Question": "What other features do you want for this car?",
+                    "Answer": "Some other features I would like for this car include heated seats, a sunroof, and a rear-view camera."
                 }
             ],
-            "Output": "1. To create a computer-aided design for the floor plan, first open up a software program that allows you to create two-dimensional designs, such as AutoCAD, SketchUp, or Revit. 2. Begin by creating a basic outline of the rooms, including the living room, kitchen, and bedroom. Make sure to leave enough space in between each room for doorways and hallways. 3. Once the basic layout is complete, begin adding in furniture and other features. For the living room, add in a couch, coffee table, TV, and dining table with chairs. For the kitchen, add in cabinets, countertops, appliances, and a sink. 4. For the bedroom, add in a bed, dresser, and nightstand. 5. Once all of the furniture and features are in place, add in doors and windows. 6. Finally, add in any finishing touches, such as paint colors, flooring, and light fixtures."
+            "Output": "Assuming the budget is $100,000, the completion date is 6 months, and the specific design goals are to create a car that is aerodynamic, efficient, and stylish: 1. The first step is to come up with a sketch of the car. This can be done by hand or using a computer program like Adobe Photoshop. 2. Once the sketch is complete, it is time to start creating the 3D model of the car. This can be done using a computer-aided design (CAD) program like Autodesk Inventor. 3. The CAD model will be used to create a virtual prototype of the car. This can be done using a program like Autodesk Fusion 360. 4. The virtual prototype will be used to test the car's aerodynamics. This can be done using a program like CFD-ACE+. 5. Once the aerodynamics have been finalized, the car's engine and transmission can be selected. 6. The suspension and brakes can be selected based on the car's weight and performance goals. 7. The wheels and tires can be selected based on the car's desired look and feel. 8. The exterior and interior finishes can be selected based on the car's desired look and feel. 9. The audio system and navigation system can be selected based on the car's desired features. 10. Finally, the car's overall dimensions can be finalized."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the size of the apartment?",
-                    "Answer": "The size of the apartment is 1500 Sqare feet."
+                    "Question": "What type of car do you want to design?",
+                    "Answer": " I want to design a sports car."
                 },
                 {
-                    "Question": "How many bedrooms do you want in the apartment?",
-                    "Answer": "I would like 2 bedrooms in the apartment."
+                    "Question": "What size do you want the car to be?",
+                    "Answer": "I want the car to be small and compact."
                 },
                 {
-                    "Question": "How many bathrooms do you want in the apartment?",
-                    "Answer": " I would like 2 bathrooms in the apartment."
+                    "Question": "What kind of engine do you want the car to have?",
+                    "Answer": " I want the car to have a 4-cylinder engine."
                 },
                 {
-                    "Question": "Do you want a kitchen in the apartment?",
-                    "Answer": "Yes, I would like a kitchen in the apartment."
+                    "Question": "What kind of transmission do you want the car to have?",
+                    "Answer": "I want the car to have a manual transmission."
                 },
                 {
-                    "Question": "Do you want a living room in the apartment?",
-                    "Answer": "Yes, I would like a living room in the apartment."
+                    "Question": "What kind of suspension do you want the car to have?",
+                    "Answer": " I want the car to have a sporty suspension."
                 },
                 {
-                    "Question": "Do you want a dining room in the apartment?",
-                    "Answer": "Yes, I would like a dining room in the apartment."
+                    "Question": "What kind of brakes do you want the car to have?",
+                    "Answer": "I want the car to have disc brakes."
                 },
                 {
-                    "Question": "Do you have any specific design requirements for the apartment?",
-                    "Answer": "Yes, I would like the apartment to have an open floor plan."
+                    "Question": "What kind of wheels do you want the car to have?",
+                    "Answer": "I want the car to have alloy wheels."
                 },
                 {
-                    "Question": "Do you have any furniture that you need to include in the floor plan?",
-                    "Answer": "Yes, I have a few pieces of furniture that I need to include in the floor plan."
+                    "Question": "What kind of exterior do you want the car to have?",
+                    "Answer": "I want the car to have a sleek and aerodynamic exterior."
                 },
                 {
-                    "Question": "Do you have any appliances that you need to include in the floor plan?",
-                    "Answer": "Yes, I have a few basic appliances that I need to include in the floor plan."
+                    "Question": "What kind of interior do you want the car to have?",
+                    "Answer": "I want the car to have an interior that's optimized for speed."
                 },
                 {
-                    "Question": "Do you have any other requirements for the floor plan?",
-                    "Answer": "Add a balcony."
+                    "Question": "What other features do you want the car to have?",
+                    "Answer": " I want the car to have a nitrous oxide system."
                 }
             ],
-            "Output": "In order to generate a computer-aided design for the floor plan, you will need to use a software program that allows you to create and edit floor plans. There are many different software programs that you can use for this purpose, but we recommend using AutoCAD. Once you have opened AutoCAD, you will need to create a new drawing. To do this, click on the File menu and then select New. In the New Drawing window, select the Architectural template and then click OK. Once the new drawing has been created, you will need to add the dimensions of the room. To do this, click on the Dimensions tool and then click on two points in the drawing area to specify the length and width of the room. Next, you will need to add the furniture to the floor plan. To do this, click on the Furniture tool and then select the pieces of furniture that you want to add to the floor plan. Once you have added all of the furniture, you will need to arrange it in the floor plan. To do this, click on the Arrange tool and then click and drag the pieces of furniture into the desired position. Finally, you will need to add the appliances to the floor plan. To do this, click on the Appliances tool and then select the appliances that you want to add to the floor plan. Once you have added all of the appliances, you will need to connect them to the power outlets. To do this, click on the Electrical tool and then click and drag the electrical wires to the desired position. Once you have finished creating the floor plan, you will need to save it. To do this, click on the File menu and then select Save As. In the Save Drawing window, select the location where you want to save the file and then click OK."
+            "Output": "First, the designer should decide on the size and proportions of the car. The car should be small and compact, with a sleek and aerodynamic exterior. The interior should be optimized for speed, with a focus on the driver's seat and controls. Next, the designer should choose the right software tools to create the car's design. For the size and proportions of the car, the designer can use a 3D modeling program such as Autodesk 3ds Max or Blender. For the exterior design, the designer can use a program like Adobe Photoshop or Sketchbook Pro. For the interior design, the designer can use a program like Autodesk Maya or 3ds Max. Once the software tools have been chosen, the designer can start creating the car's design. First, the designer should create a 3D model of the car. This can be done by starting with a basic shape and then adding details such as the car's curves and lines. Next, the designer should add the car's exterior design. This can be done by creating a 2D design in Photoshop or Sketchbook Pro and then importing it into the 3D modeling program. Finally, the designer should add the car's interior design. This can be done by creating a 3D model of the interior in Maya or 3ds Max and then importing it into the 3D modeling program. Once the car's design is complete, the designer should render it in a 3D rendering program such as V-Ray or mental ray. This will give the car its final look. The designer should then create a detailed three-dimensional description of the car. This should include the car's dimensions, engine type, transmission type, suspension type, brake type, wheel type, and exterior and interior features."
         },
         {
             "QApair": [
                 {
-                    "Question": "What is the size of the apartment?",
-                    "Answer": "The size of the apartment is 6000 square feet."
+                    "Question": "What type of car do you want to design?",
+                    "Answer": "I want to design a Formula-1 car."
                 },
                 {
-                    "Question": "How many bedrooms do you want in the apartment?",
-                    "Answer": "We would like five bedrooms in the apartment."
+                    "Question": "What specific features do you want your Formula-1 car to have?",
+                    "Answer": " I want my Formula-1 car to be very light and aerodynamic."
                 },
                 {
-                    "Question": "Do you have any specific ideas about the layout of the rooms?",
-                    "Answer": " 3 rooms on the second floor and 2 on the first floor."
+                    "Question": "What materials do you want to use for your Formula-1 car?",
+                    "Answer": "I want to use carbon fiber and aluminum for my Formula-1 car."
                 },
                 {
-                    "Question": "How many bathrooms do you want in the apartment?",
-                    "Answer": "We would like seven bathrooms in the apartment."
+                    "Question": "What engine do you want to use for your Formula-1 car?",
+                    "Answer": "I want to use a V8 engine for my Formula-1 car."
                 },
                 {
-                    "Question": "Do you want a kitchen?",
-                    "Answer": "Yes, we would like to have 2 kitchens in the apartment."
+                    "Question": "What transmission do you want to use for your Formula-1 car?",
+                    "Answer": "I want to use a 7-speed transmission for my Formula-1 car."
                 },
                 {
-                    "Question": "Do you want a living room?",
-                    "Answer": "Yes, we would like to have 2 living rooms in the apartment. One on the first floor and the other on the second floor."
+                    "Question": "What suspension system do you want to use for your Formula-1 car?",
+                    "Answer": " I want to use a double wishbone suspension system for my Formula-1 car."
                 },
                 {
-                    "Question": "Do you want a dining room?",
-                    "Answer": "Yes, we would like to have two dining rooms on the first floor and one on the second floor."
+                    "Question": "What brakes do you want to use for your Formula-1 car?",
+                    "Answer": " I want to use carbon fiber brakes for my Formula-1 car."
                 },
                 {
-                    "Question": "What other rooms do you want in the apartment?",
-                    "Answer": "We would like a gym, a library, and a workspace."
+                    "Question": "What wheels do you want to use for your Formula-1 car?",
+                    "Answer": " I want to use 18-inch wheels for my Formula-1 car."
                 },
                 {
-                    "Question": "Do you have any specific ideas about the layout of the rooms?",
-                    "Answer": "Except for the bedrooms, everything else should be an open concept."
+                    "Question": "What tires do you want to use for your Formula-1 car?",
+                    "Answer": "I want to use slick tires for my Formula-1 car."
                 },
                 {
-                    "Question": "Do you have any specific ideas about the furniture in the rooms?",
-                    "Answer": "We would like modern furniture."
+                    "Question": "What safety features do you want to include in your Formula-1 car?",
+                    "Answer": "I want to include a roll cage, fire extinguisher, and seat belts in my Formula-1 car."
                 }
             ],
-            "Output": "Assuming you would like a 3D rendering of the space: The first step is to create a floor plan using a computer-aided design (CAD) program. We suggest using AutoCAD or SketchUp. When using AutoCAD, start by opening a new file and setting the units to feet. Then, draw the outline of the space using the rectangle tool. For the dimensions of the space, use the measurements provided in the question and answer.  Once the outline of the space is drawn, add in the doors and windows. For the doors, use the door tool and for the windows, use the window tool.  After the doors and windows are added, start drawing the walls. For the walls, use the line tool. Remember to add in the door and window openings.  Once the walls are drawn, start adding in the rooms. For the bedrooms, use the rectangle tool and for the living room, use the polygon tool. For the dining room, use the circle tool.  After the rooms are added, start adding in the furniture. For the furniture, use the rectangle tool. Remember to add in the door and window openings.  Finally, add in the details. For the details, use the line tool."
+            "Output": "1. To generate a computer-aided design (CAD) for the car, first create a 3D model of the car using a CAD software program such as Autodesk Fusion 360. 2. To create the 3D model, start by adding the basic shapes that make up the car. For the body of the car, use a combination of cylinders, spheres, and other geometric shapes.  3. Once the basic shapes are added, refine the model by adding details such as the car's headlights, taillights, and other features. 4. To create the car's wheels, start with a cylinder and then add a series of concentric circles to create the spokes.  5. Once the 3D model is complete, add the car's dimensions and other specifications.  6. To create a detailed three-dimensional description of the car, first generate a rendering of the car. A rendering is a 2D image that shows the car from different angles and can be generated using CAD software or a 3D rendering program such as Autodesk 3ds Max.  7. To create the rendering, first select the desired viewpoint and then adjust the lighting. Next, add materials to the different parts of the car. For example, the body of the car can be made of metal, plastic, or glass. Finally, render the image to create the final 2D image."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/wjricXw6ELSj5LyWWUfuPg66?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/PvKAHv6bwezpGLPxPH6iJCpy?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/TUXHc8dlKG5bXwZrk3hrVH9e?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/6QSZGYNUAV3pkkfAHAPJxtKn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/s40jyGAFZpVmOM9QUprYc68w?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Jl4fpT8hKsZ22esGyw5kpBHv?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1yIn67FpPNOsMYMAgQcfCVF_Jp9YEzwWe?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1spuJ-YmzHzJFlWd1x9R0nWStESKvKCPI?usp=sharing"
 }

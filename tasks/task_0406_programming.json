@@ -1,148 +1,148 @@
 {
     "Contributor": "liteng",
     "Domain": "Programming",
-    "Task": "Recommend deep learning model ",
+    "Task": "Write program by python",
     "Prompt": {
-        "pre_question_prompt": "I am an expert at machine learning and deep learning. I will ask some questions to collect information and then I will use the information to recommend deep learning model to fit you work.",
-        "task_specific_prompt": "Can you introduce the model you recommend based on above information."
+        "pre_question_prompt": "I am an expert at programming by python. I will ask some questions to collect information and then I will use the information to write a python code.",
+        "task_specific_prompt": "Write the program by using python."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What type of data are you working with (images, text, numerical, etc)?",
-                    "Answer": "I am working with images."
+                    "Question": "What is the name of the software you want to develop?",
+                    "Answer": "The software I want to develop to calculate PI."
                 },
                 {
-                    "Question": "What are you trying to achieve with your machine learning model (classification, regression, etc)?",
-                    "Answer": "I am trying to achieve image segmentation."
+                    "Question": "What is the purpose of the software?",
+                    "Answer": "The purpose of this software is to calculate the value of PI."
                 },
                 {
-                    "Question": "What kind of deep learning model would you recommend for this task?",
-                    "Answer": "I would recommend a transformer."
+                    "Question": "Who will use the software?",
+                    "Answer": "This software will be used by people who want to calculate the value of PI."
                 },
                 {
-                    "Question": "What are some of the benefits of using a transformer for image segmentation?",
-                    "Answer": "Some of the benefits of using a transformer for image segmentation include the ability to handle a large amount of data, the ability to learn from data with a variable number of input channels, and the ability to learn from data with a variable number of output channels."
+                    "Question": "What are the inputs of the software?",
+                    "Answer": "The inputs of this software are the values of the radius and the number of terms."
                 },
                 {
-                    "Question": "What are some of the drawbacks of using a transformer for image segmentation?",
-                    "Answer": "Some of the drawbacks of using a transformer for image segmentation include the need for a large amount of data to train the model, the need for a large amount of computing power, and the need for a large amount of time to train the model."
+                    "Question": "What are the outputs of the software?",
+                    "Answer": "The outputs of this software are the value of PI and the error."
                 },
                 {
-                    "Question": "Are there any other considerations you would recommend for this task?",
-                    "Answer": "The images with lots of noise. I would like a model can denoise."
+                    "Question": "What are the constraints of the software?",
+                    "Answer": "The constraints of this software are the values of the radius and the number of terms."
                 },
                 {
-                    "Question": "What kind of deep learning model would you recommend for this task?",
-                    "Answer": "I would recommend a denoising autoencoder."
+                    "Question": "What are the assumptions of the software?",
+                    "Answer": "The assumptions of this software are that the value of the radius is positive and that the number of terms is positive."
                 },
                 {
-                    "Question": "What are some of the benefits of using a denoising autoencoder for image segmentation?",
-                    "Answer": "Some of the benefits of using a denoising autoencoder for image segmentation include the ability to handle a large amount of data, the ability to learn from data with a variable number of input channels, and the ability to learn from data with a variable number of output channels."
+                    "Question": "What are the risks of the software?",
+                    "Answer": "The risks of this software are that the value of the radius may be negative and that the number of terms may be negative."
                 },
                 {
-                    "Question": "What are some of the drawbacks of using a denoising autoencoder for image segmentation?",
-                    "Answer": "Some of the drawbacks of using a denoising autoencoder for image segmentation include the need for a large amount of data to train the model, the need for a large amount of computing power, and the need for a large amount of time to train the model."
+                    "Question": "What are the benefits of the software?",
+                    "Answer": "The benefits of this software are that it can be used to calculate the value of PI and that it can be used to find the error."
                 },
                 {
-                    "Question": "Are there any other considerations you would recommend for this task?",
-                    "Answer": "I would recommend using a denoising autoencoder with a large number of input channels and output channels."
+                    "Question": "What are the costs of the software?",
+                    "Answer": "The costs of this software are the value of the radius and the number of terms."
                 }
             ],
-            "Output": "The transformer is a deep learning model that can be used for image segmentation. The transformer can handle a large amount of data and can learn from data with a variable number of input channels and output channels. The transformer can also learn from data with a variable number of output channels. The transformer also has a large number of parameters, which makes it a good choice for image segmentation."
+            "Output": "# This program calculates the value of PI.        radius = float(input('Enter the value of the radius: ')) please see the details on the screen shot"
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What is the size of your dataset?",
-                    "Answer": "The dataset is large(>10000 samples)"
+                    "Question": "What is the purpose of the code?",
+                    "Answer": "The code will be used to detect faces."
                 },
                 {
-                    "Question": "2. What is the type of data?",
-                    "Answer": "The data type is text data."
+                    "Question": "What are the inputs to the code?",
+                    "Answer": "The inputs to the code will be images."
                 },
                 {
-                    "Question": "3. What is the task you want to accomplish?",
-                    "Answer": "I want to build a dialogue system."
+                    "Question": "What are the outputs of the code?",
+                    "Answer": "The outputs of the code will be the name of the face."
                 },
                 {
-                    "Question": "4. Do you have any preference of model?",
-                    "Answer": "I want to use a model that can handle long-term dependencies."
+                    "Question": "What are the steps involved in the code?",
+                    "Answer": "The steps involved in the code will be to detect the face, to identify the face, and to output the name of the face."
                 },
                 {
-                    "Question": "5. Do you have any domain knowledge?",
-                    "Answer": "I have some domain knowledge."
+                    "Question": "What is the data type of the inputs?",
+                    "Answer": "The data type of the inputs will be images."
                 },
                 {
-                    "Question": "6. What is the performance metric you care about?",
-                    "Answer": "I care about accuracy."
+                    "Question": "What is the data type of the outputs?",
+                    "Answer": "The data type of the outputs will be the name of the face."
                 },
                 {
-                    "Question": "7. Do you have any other information?",
-                    "Answer": "No."
+                    "Question": "Is there any special library required for the code?",
+                    "Answer": "No, there is no special library required for the code."
                 },
                 {
-                    "Question": "8. Would you like me to recommend a model?",
-                    "Answer": "Yes."
+                    "Question": "What is the time complexity of the code?",
+                    "Answer": "The time complexity of the code will be O(n)."
                 },
                 {
-                    "Question": "9. Would you like me to explain the rationale for the recommendation?",
-                    "Answer": "Yes."
+                    "Question": "What is the space complexity of the code?",
+                    "Answer": "The space complexity of the code will be O(1)."
                 },
                 {
-                    "Question": "10. Would you like me to provide code for the recommendation?",
-                    "Answer": "No."
+                    "Question": "Is the code easy to understand?",
+                    "Answer": "Yes, the code is easy to understand."
                 }
             ],
-            "Output": "I recommend the use of a recurrent neural network (RNN) or a long short-term memory (LSTM) model. RNNs are a type of neural network that are well suited for handling sequential data, such as text data. LSTMs are a type of RNN that are designed to handle long-term dependencies, and are thus well suited for tasks such as building a dialogue system."
+            "Output": "import cv2         def face_detect(image):  please see the details in screen shot"
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What is the task that you would like to use machine learning or deep learning for?",
-                    "Answer": "Build an agent to play Texas Hold'em."
+                    "Question": "What is the purpose of the code?",
+                    "Answer": "To write a poem."
                 },
                 {
-                    "Question": "2. What is the size and type of data that you will be using?",
-                    "Answer": "I will be using a dataset of past hands played in Texas Hold'em. The dataset will be about 10GB in size and will contain around 1 billion hands."
+                    "Question": "What information do you need?",
+                    "Answer": "The topic of the poem, the length of the poem, and any specific instructions."
                 },
                 {
-                    "Question": "3. What is the expected performance of the model?",
-                    "Answer": "I expect the model to be able to beat a professional human player."
+                    "Question": "What will the code do?",
+                    "Answer": "The code will generate a poem based on the information provided."
                 },
                 {
-                    "Question": "4. What is the budget for this project?",
-                    "Answer": "I have a budget of $10 million."
+                    "Question": "Is there anything else you need to know?",
+                    "Answer": "Yes."
                 },
                 {
-                    "Question": "5. What is the timeline for this project?",
-                    "Answer": "I would like to have the project completed within 12 months."
+                    "Question": "What is the rhyme scheme of the poem?",
+                    "Answer": "The rhyme scheme of the poem is AABB."
                 },
                 {
-                    "Question": "6. Are there any other constraints that we should be aware of?",
-                    "Answer": "No other constraints."
+                    "Question": "What is the meter of the poem?",
+                    "Answer": "The meter of the poem is iambic pentameter."
                 },
                 {
-                    "Question": "7. What kind of hardware do you have available for this project?",
-                    "Answer": "I have a GPU available for this project."
+                    "Question": "Are there any other specific instructions?",
+                    "Answer": "Use GPT-3."
                 },
                 {
-                    "Question": "8. What kind of previous experience do you have with machine learning or deep learning?",
-                    "Answer": "I have some experience with machine learning and deep learning."
+                    "Question": "Do you have a title for the poem?",
+                    "Answer": "Tears and Rain."
                 },
                 {
-                    "Question": "9. Do you have any existing code that you would like to use for this project?",
-                    "Answer": "No."
+                    "Question": "What is the topic of the poem?",
+                    "Answer": "The topic of the poem is love and loss."
                 },
                 {
-                    "Question": "10. Would you like us to use a specific machine learning or deep learning framework?",
-                    "Answer": "No preference."
+                    "Question": "What is the length of the poem?",
+                    "Answer": "The poem is ten lines long."
                 }
             ],
-            "Output": "I recommend using a deep learning model for this project."
+            "Output": "import os        import sys                import gpt_3        from gpt_3 import *  please see the details in the screen shot."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/KpEfTz2a7BOoGcRz9UOszE7x?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1-hHpqX_XHaYrZSE-RxrEpjWAOoe4u82D?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/VO5aSc5qUtUOcbSPQZsNqaHJ?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1E1Crg__r7jdxpYE42gW_HbAO5ffdviUU?usp=sharing"
 }

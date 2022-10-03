@@ -1,156 +1,152 @@
 {
     "Contributor": "linli",
     "Domain": "Car service",
-    "Task": "Find the best fit car service for you",
+    "Task": "Which upgrades should I buy for my car",
     "Prompt": {
-        "pre_question_prompt": "I am an expert of finding which is the best car service for you. I will ask some questions to collect information and then I will use the information to find the best car service for you.",
-        "task_specific_prompt": "Write a description of the car service that best suits me using the questions and answers above. Make sure all the details are covered."
+        "pre_question_prompt": "I am an expert in vehicle upgrades. I will ask some questions to collect information and then I will use the information to find the upgrades that are worth the price.",
+        "task_specific_prompt": "Write a list of the upgrades that I should consider buying using the questions and answers above. List the prices and the functions as well."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is your budget for a car service?",
-                    "Answer": "$100"
+                    "Question": "What is your budget?",
+                    "Answer": "$3000."
                 },
                 {
-                    "Question": "What are your preferred payment methods?",
-                    "Answer": "Credit card"
+                    "Question": "What is your vehicle make and model?",
+                    "Answer": "Honda Civic."
                 },
                 {
-                    "Question": "What is your preferred vehicle type?",
-                    "Answer": "Sedan"
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Conservative."
                 },
                 {
-                    "Question": "What is your preferred driving experience?",
-                    "Answer": "Smooth and relaxed"
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Better gas mileage, better handling, less vibration."
                 },
                 {
-                    "Question": "What is your preferred pickup and drop-off location?",
-                    "Answer": "Home"
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "Highways."
                 },
                 {
-                    "Question": "What is your preferred car service?",
-                    "Answer": "Lyft"
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Upgrades that work well on Sedans."
                 },
                 {
-                    "Question": "What is your preferred driver?",
-                    "Answer": "One who is friendly and courteous"
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "As many as possible within the budget."
                 },
                 {
-                    "Question": "What is your preferred route?",
-                    "Answer": "One that avoids traffic"
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I want them to be installed."
                 },
                 {
-                    "Question": "What is your preferred time of day for a car service?",
-                    "Answer": "Evening"
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "ASAP"
                 },
                 {
-                    "Question": "What is your preferred day of the week for a car service?",
-                    "Answer": "Saturday"
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "No."
                 }
             ],
-            "Output": "For someone who is looking for a smooth and relaxed driving experience, prefers a sedan, and has a budget of $100, the best car service would be Lyft. The driver should be friendly and courteous, and the route should avoid traffic. The preferred time of day for the car service would be evening, and the preferred day of the week would be Saturday."
-        },
-        {
-            "QApair": [
-                {
-                    "Question": "How frequently do you need a car service?",
-                    "Answer": "About once per month."
-                },
-                {
-                    "Question": "What is your budget for a car service?",
-                    "Answer": "$500."
-                },
-                {
-                    "Question": "What kind of car do you have?",
-                    "Answer": "A Honda Civic."
-                },
-                {
-                    "Question": "What are your specific needs for a car service?",
-                    "Answer": "I need a car service that can provide an oil change, tire rotation, and general maintenance."
-                },
-                {
-                    "Question": "Do you have any preferred locations for a car service?",
-                    "Answer": "Yes, near the vicinity of Arizona State University."
-                },
-                {
-                    "Question": "Would you like a recommendation for the best car service for you?",
-                    "Answer": "Yes, please recommend the car service that best fits me."
-                },
-                {
-                    "Question": "Would you like me to find a coupon for the car service?",
-                    "Answer": "Yes, I would love to get a coupon for the car service."
-                },
-                {
-                    "Question": "What is your zip code?",
-                    "Answer": "85004."
-                },
-                {
-                    "Question": "I would recommend Midas for your car service. They are located at 1645 E University Dr, Tempe, AZ 85281 and their phone number is (480) 967-8786.",
-                    "Answer": "Please ask me a few more questions until I decide it. I am still unsure whether I need a full car service or not."
-                },
-                {
-                    "Question": "What is included in a full car service?",
-                    "Answer": "A full car service could include more than 50 tasks such as an oil change, checking lights, tires, breaks, hydraulic systems, fluid systems, air conditioning, exhaust, steering alignment, suspension, generator, battery condition, etc. I think a monthly car service does not need that many inspections."
-                },
-                {
-                    "Question": "What is the price range for a full car service?",
-                    "Answer": "The price range for a full car service could be between $100 and $400."
-                }
-            ],
-            "Output": "I would recommend Midas for your car service. They are located at 1645 E University Dr, Tempe, AZ 85281 and their phone number is (480) 967-8786. Midas offers a full range of car services including oil changes, tire rotations, and general maintenance."
+            "Output": "1. A set of coilovers for better handling ($500).\n2. A set of performance tires for better grip ($600).\n3. A cold air intake for better airflow ($200).\n4. A header and exhaust system for more power ($1000).\n5. A set of brakes for better stopping power ($500).\n6. A set of shocks and struts for a smoother ride ($600)."
         },
         {
             "QApair": [
                 {
                     "Question": "What is your budget?",
-                    "Answer": "$200."
+                    "Answer": "$10000."
                 },
                 {
-                    "Question": "What is the make and model of your car?",
+                    "Question": "What is your vehicle make and model?",
+                    "Answer": "Tesla Model S."
+                },
+                {
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Aggressive."
+                },
+                {
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Battery longevity, better milage per charge, better lane assist."
+                },
+                {
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "City Streets, occasionally on highways."
+                },
+                {
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Upgrades that are specific to electric cars."
+                },
+                {
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "Probably 5 or less."
+                },
+                {
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I want them to be installed."
+                },
+                {
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "Within 2 months."
+                },
+                {
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "Please stay in the budget. If the sum of the prices excesses the budget, please remove the upgrades from the cheapest first."
+                }
+            ],
+            "Output": "1. A longer-range battery pack \u2013 this will increase the distance the car can travel on a single charge, and will cost between $5000 and $8000.\n2. Better tires \u2013 these will improve the car\u2019s handling and grip, and will cost between $500 and $1000.\n3. A more powerful motor \u2013 this will improve the car\u2019s acceleration and top speed, and will cost between $2000 and $4000.\n4. Better brakes \u2013 these will improve the car\u2019s braking performance, and will cost between $500 and $1000.\n5. A suspension upgrade \u2013 this will improve the car\u2019s ride quality and handling, and will cost between $500 and $2000."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$2300."
+                },
+                {
+                    "Question": "What is your vehicle make and model?",
                     "Answer": "Toyota Camry."
                 },
                 {
-                    "Question": "What is your zip code?",
-                    "Answer": "90210."
+                    "Question": "What is your driving style? (ex. aggressive, conservative, etc.)",
+                    "Answer": "Average."
                 },
                 {
-                    "Question": "What services do you need?",
-                    "Answer": "Oil change, air conditioning check, battery check, suspension inspection, routine inspections, and a car wash."
+                    "Question": "What are your top 3 priorities for your vehicle? (ex. better gas mileage, more power, better handling, etc.)",
+                    "Answer": "Better breaking, safety, more durable."
                 },
                 {
-                    "Question": "How often do you need these services?",
-                    "Answer": "Every 6 weeks."
+                    "Question": "What kind of terrain do you typically drive on? (ex. city streets, highways, off-road, etc.)",
+                    "Answer": "Mostly city streets."
                 },
                 {
-                    "Question": "Are you looking for a one-time service or a subscription?",
-                    "Answer": "Subscription."
+                    "Question": "Would you like me to find upgrades that are specific to your vehicle, or upgrades that would work well on any vehicle?",
+                    "Answer": "Specific to my vehicle."
                 },
                 {
-                    "Question": "Based on the information provided, the best car service for you is the Toyota Service Center.",
-                    "Answer": "Wait, the details you provided is not that clear. Please ask a few more extra questions. The price of the service, the quality of the service, when should I go to the service, these are all not clearly stated."
+                    "Question": "How many upgrades do you need?",
+                    "Answer": "3 upgrades."
                 },
                 {
-                    "Question": "What is your preferred method of payment?",
-                    "Answer": "E-check."
+                    "Question": "Do you need the upgrades to be installed, or can you do it yourself",
+                    "Answer": "I can do it myself."
                 },
                 {
-                    "Question": "What is the average price you are willing to pay per service?",
-                    "Answer": "Under $150 would be nice."
+                    "Question": "When do you need the upgrades?",
+                    "Answer": "Now."
                 },
                 {
-                    "Question": "What is your preferred method of transportation to and from the service center?",
-                    "Answer": "Public transportation."
+                    "Question": "Is there anything else the expert should know?",
+                    "Answer": "I want the cost of the upgrades stay within the budget."
                 }
             ],
-            "Output": "The best car service for the person in question is the Toyota Service Center. It is a reliable, affordable service that meets all the requirements the person has. It is a one-time service that is convenient and hassle-free."
+            "Output": "1. A set of better brakes for the Toyota Camry - $600\n2. A new engine air filter for the Toyota Camry - $30\n3. A set of new tires for the Toyota Camry - $700"
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/0QNW64yI9fJNFWuK4Kl4eO5f?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/OaAu4DBkeqUy3IatZfXF52UO?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/0z0I9mlbduVxQ2W34RZhmlRo?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/0DxzkeQ3JamZWed9slEzncA9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jTCRkaNXr0GAHEW2b37rHEJ9?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JFHAoPKc7gfn2xpAHfCY4h4n?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1Co2KMVUI5aJ7uvKi76zIDyfm4MPcmxjr?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1UYzNd4_rWqHm-0B32lSrUXfMsZgb-pcX?usp=sharing"
 }

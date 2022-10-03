@@ -1,149 +1,149 @@
 {
     "Contributor": "khajuriabrijbhushan",
     "Domain": "Jouranlism",
-    "Task": "Book Review Generation",
+    "Task": "Magazine Cover Suggestion",
     "Prompt": {
-        "pre_question_prompt": "I am owner of a media house. I am asking these 10 questions to $reviewing-person$ on his thoughts on the book $title$ written by $author$ .",
-        "intermediate_prompt": "I am $reviewing-person$. I will answer above questions.",
-        "task_specific_prompt": "Create a brief Book Review by $reviewing-person$ based upon above answers."
+        "pre_question_prompt": "I am a monthly magazine editor. I will ask these 10 questions to the chief writer about next month's edition of the magazine.",
+        "intermediate_prompt": "I am the chief writer. I will answer above questions.",
+        "task_specific_prompt": "Based on above answers, suggest 3 cover photo ideas for the next month edition of the magazine."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "1. Mr. Gates, what inspired you to read \"Factfulness\"?",
-                    "Answer": "1. I was inspired to read \"Factfulness\" because it challenges some common misconceptions about the world."
+                    "Question": "1. What is the theme of the magazine?",
+                    "Answer": "1. This month's edition is about travel."
                 },
                 {
-                    "Question": "2. What did you think of the book`s overall message?",
-                    "Answer": "2. I thought the book`s overall message was important and timely."
+                    "Question": "2. What are the main articles going to be about?",
+                    "Answer": "2. The main articles will be about different travel destinations around the world."
                 },
                 {
-                    "Question": "3. Did you find the book`s approach to data visualization helpful?",
-                    "Answer": "3. I found the book`s approach to data visualization helpful."
+                    "Question": "3. Who are the writers for each article?",
+                    "Answer": "3. The writers for each article will be different travel writers."
                 },
                 {
-                    "Question": "4. What did you think of the book`s coverage of global health topics?",
-                    "Answer": "4. I thought the book`s coverage of global health topics was excellent."
+                    "Question": "4. What is the expected word count for each article?",
+                    "Answer": "4. The expected word count for each article will be around 1000 words."
                 },
                 {
-                    "Question": "5. Did you find the book`s discussion of wealth and poverty interesting?",
-                    "Answer": "5. I found the book`s discussion of wealth and poverty interesting."
+                    "Question": "5. Are there any special features planned?",
+                    "Answer": "5. There are no special features planned."
                 },
                 {
-                    "Question": "6. What did you think of the book`s treatment of climate change?",
-                    "Answer": "6. I thought the book`s treatment of climate change was excellent."
+                    "Question": "6. Who are the guest writers or interviewees?",
+                    "Answer": "6. There are no guest writers or interviewees."
                 },
                 {
-                    "Question": "7. Did you find the book`s examination of technology trends insightful?",
-                    "Answer": "7. I found the book`s examination of technology trends insightful."
+                    "Question": "7. Are there any special events planned?",
+                    "Answer": "7. There are no special events planned."
                 },
                 {
-                    "Question": "8. What did you think of the book`s discussion of education?",
-                    "Answer": "8. I thought the book`s discussion of education was excellent."
+                    "Question": "8. What is the deadline for each article?",
+                    "Answer": "8. The deadline for each article is the end of the month."
                 },
                 {
-                    "Question": "9. Did you find the book`s exploration of population growth interesting?",
-                    "Answer": "9. I found the book`s exploration of population growth interesting."
+                    "Question": "9. What is the budget for the magazine?",
+                    "Answer": "9. The budget for the magazine is $1000."
                 },
                 {
-                    "Question": "10. What are your overall thoughts on \"Factfulness\"?",
-                    "Answer": "10. Overall, I thought \"Factfulness\" was an excellent book."
+                    "Question": "10. How many copies of the magazine will be printed?",
+                    "Answer": "10. The number of copies of the magazine that will be printed is 1000."
                 }
             ],
-            "Output": "I would recommend \"Factfulness\" to anyone interested in learning more about the world. The book provides a helpful overview of some common misconceptions about the world and challenges readers to think critically about the data. The book`s approach to data visualization is helpful, and the coverage of global health topics is excellent. I also found the book`s discussion of wealth and poverty interesting."
+            "Output": "1. A picture of a globe with different travel destinations highlighted\n2. A picture of a suitcase with different travel stickers from around the world\n3. A picture of a group of people from different cultures holding hands"
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What inspired you to read \"Man`s Search for Meaning\"?",
-                    "Answer": "1. I was inspired to read \"Man`s Search for Meaning\" because I was going through a difficult time in my life and I was looking for answers."
+                    "Question": "1) What is the focus of the magazine for next month?",
+                    "Answer": "1) The focus of the magazine for next month is \"Parenting in the Digital Age.\""
                 },
                 {
-                    "Question": "2. What did you find most interesting or compelling about the book?",
-                    "Answer": "2. The most interesting thing I found in the book was the idea that we can find meaning in our lives even in the midst of suffering."
+                    "Question": "2) What are the main articles going to be about?",
+                    "Answer": "2) The main articles will be about the impact of social media on children, the pros and cons of screen time, and tips for raising responsible digital citizens."
                 },
                 {
-                    "Question": "3. What did you find most challenging or difficult to understand in the book?",
-                    "Answer": "3. The most challenging thing I found in the book was the author's discussion of the Holocaust. It was difficult for me to understand how people could find meaning in such a horrific event."
+                    "Question": "3) Who are the writers for each article?",
+                    "Answer": "3) The writers for each article are myself, Sarah Jones, and John Smith."
                 },
                 {
-                    "Question": "4. How do you think the book can help people who are facing difficult challenges in their lives?",
-                    "Answer": "4. I think the book can help people who are facing difficult challenges in their lives by showing them that it is possible to find meaning even in the midst of suffering."
+                    "Question": "4) What are the deadlines for each article?",
+                    "Answer": "4) The deadlines for each article are as follows:Sarah Jones - May 15thJohn Smith - May 20th"
                 },
                 {
-                    "Question": "5. What do you think are the key lessons that can be learned from the book?",
-                    "Answer": "5. The key lessons I learned from the book are that we can find meaning in our lives even when things are tough and that we should never give up hope."
+                    "Question": "5) What photos or illustrations will be accompanying each article?",
+                    "Answer": "5) The photos or illustrations that will be accompanying each article are still to be determined."
                 },
                 {
-                    "Question": "6. What do you think are the book`s strengths and weaknesses?",
-                    "Answer": "6. The strengths of the book are that it is inspiring and provides a lot of food for thought. The weaknesses of the book are that it is sometimes repetitive and can be a bit dry."
+                    "Question": "6) Who is responsible for providing these photos or illustrations?",
+                    "Answer": "6) I am responsible for providing the photos or illustrations."
                 },
                 {
-                    "Question": "7. What do you think could have been done differently to make the book more effective?",
-                    "Answer": "7. I think the author could have been more concise in his writing and he could have provided more concrete examples to illustrate his points."
+                    "Question": "7) What other features will be included in the magazine?",
+                    "Answer": "7) Other features that will be included in the magazine are a Q&A with a parenting expert, a book review, and a list of resources for parents."
                 },
                 {
-                    "Question": "8. What do you think are the most important takeaways from the book?",
-                    "Answer": "8. The most important takeaways from the book are that it is possible to find meaning in our lives even when things are tough and that we should never give up hope."
+                    "Question": "8) Are there any special events or promotions planned for next month's edition?",
+                    "Answer": "8) There are no special events or promotions planned for next month's edition."
                 },
                 {
-                    "Question": "9. What do you think could have been done to make the book more enjoyable to read?",
-                    "Answer": "9. I think the book could have been more enjoyable to read if it was shorter and more concise."
+                    "Question": "9) Are there any articles that are still in need of a writer?",
+                    "Answer": "9) There are no articles that are still in need of a writer."
                 },
                 {
-                    "Question": "10. What do you think are the book`s most important messages?",
-                    "Answer": "10. The most important messages from the book are that we can find meaning in our lives even when things are tough and that we should never give up hope."
+                    "Question": "10) Is there anything else that I should be aware of in regards to next month's edition?",
+                    "Answer": "10) That is all."
                 }
             ],
-            "Output": "\"Man`s Search for Meaning\" is a book that will inspire you to never give up hope. Even in the midst of suffering, it is possible to find meaning in our lives. The book provides a lot of food for thought and is definitely worth a read."
+            "Output": "1. A mother and child using a tablet together\n2. A father and child playing a video game together\n3. A family gathered around a computer screen"
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What made you want to read \"The Alchemist\"?",
-                    "Answer": "1. I read \"The Alchemist\" because I wanted to know what the book was about. I had heard a lot about it and I was curious to see if it was worth all the hype."
+                    "Question": "1. What is the theme of the magazine?",
+                    "Answer": "1. The theme of the magazine is \"New Beginnings.\""
                 },
                 {
-                    "Question": "2. What did you think of the book`s overall message?",
-                    "Answer": "2. I thought the book`s overall message was very inspiring. It`s about following your dreams and never giving up on yourself."
+                    "Question": "2. What are the feature articles?",
+                    "Answer": "2. The feature articles are \"Starting Over After a breakup,\" \"How to Make New Friends in a New City,\" and \"When a Job Loss Turns into an Opportunity.\""
                 },
                 {
-                    "Question": "3. Did you find the story easy to follow?",
-                    "Answer": "3. I found the story easy to follow. I thought the characters were interesting and I liked the way the story unfolded."
+                    "Question": "3. Who are the guest writers?",
+                    "Answer": "3. The guest writers are experts in their field who have been interviewed by the magazine's staff."
                 },
                 {
-                    "Question": "4. What did you think of the characters in the book?",
-                    "Answer": "4. I thought the characters in the book were well-developed and easy to relate to."
+                    "Question": "4. What are the departments?",
+                    "Answer": "4. The departments are \"New in Town,\" \"Fresh Start,\" \"On the Job,\" and \"In the Know.\""
                 },
                 {
-                    "Question": "5. Did you feel like the book`s length was just right, or would you have preferred it to be shorter/longer?",
-                    "Answer": "5. I thought the book`s length was just right. I didn`t feel like it needed to be shorter or longer."
+                    "Question": "5. What is the art direction?",
+                    "Answer": "5. The art direction is modern and clean, with a focus on infographics and photos."
                 },
                 {
-                    "Question": "6. What did you think of the book`s ending?",
-                    "Answer": "6. I thought the book`s ending was satisfying. I liked the way everything came together and I thought the ending was fitting."
+                    "Question": "6. What is the production schedule?",
+                    "Answer": "6. The production schedule is tight, with the magazine set to go to print in three weeks."
                 },
                 {
-                    "Question": "7. Would you recommend \"The Alchemist\" to others?",
-                    "Answer": "7. I would recommend \"The Alchemist\" to others. I think it`s a book that can inspire and motivate people to follow their dreams."
+                    "Question": "7. What is the budget?",
+                    "Answer": "7. The budget is limited, so the magazine will be focused on articles that can be produced in-house."
                 },
                 {
-                    "Question": "8. What did you think of Paulo Coehlo`s writing style?",
-                    "Answer": "8. I thought Paulo Coehlo`s writing style was engaging and easy to read."
+                    "Question": "8. What is the circulation?",
+                    "Answer": "8. The circulation is small, but growing. The magazine is distributed primarily in the United States."
                 },
                 {
-                    "Question": "9. What other books by Paulo Coehlo have you read, and how do they compare to \"The Alchemist\"?",
-                    "Answer": "9. I have read other books by Paulo Coehlo and I would say that \"The Alchemist\" is my favorite. I think it`s his best book."
+                    "Question": "9. What are the demographics?",
+                    "Answer": "9. The demographics are primarily women aged 25-35."
                 },
                 {
-                    "Question": "10. Do you think you`ll read any more of Paulo Coehlo`s books in the future?",
-                    "Answer": "10. Yes, I would definitely read more of Paulo Coehlo`s books in the future."
+                    "Question": "10. When is the deadline?",
+                    "Answer": "10. The deadline is one week from today."
                 }
             ],
-            "Output": "\"\"The Alchemist\" is a book that I would recommend to others. I thought it was well-written and easy to follow. I liked the characters and I thought the overall message was very inspiring."
+            "Output": "\n1. A close-up of a woman's face, with a look of determination or resolve.\n2. A group of friends laughing and embracing in a new city.\n3. A person starting a new job or business venture."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/lVlTB42YsfSsk67dhrSgi8gg?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1lf_C6PxXisa8OCjOVpZR6GmwFudzRaPb?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/3z32gqJxMxC1SWDXcJjILvmj?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/11SrQpcE2Wdx22n8BI5TI3Fk5Lvs4gjnR?usp=sharing"
 }

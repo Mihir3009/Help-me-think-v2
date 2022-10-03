@@ -1,156 +1,152 @@
 {
     "Contributor": "kumarabhinav",
     "Domain": "Natural Science",
-    "Task": "Diet Plan Creation",
+    "Task": "Disease Diagnosis",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in biology . I will ask some questions to collect information and then I will use the information to suggest your diet plan.",
-        "task_specific_prompt": "Write a detailed science project based on questions and answers above."
+        "pre_question_prompt": "I am an expert in medicine . I will ask some questions to collect information and then I will use the information to help you diagnose your disease.",
+        "task_specific_prompt": "Suggest a diagnosis based on questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": " How many meals do you eat per day? ",
-                    "Answer": " I typically eat 3 meals per day."
+                    "Question": " What are your main symptoms? ",
+                    "Answer": " My main symptom is fever."
                 },
                 {
-                    "Question": " What are your favorite foods? ",
-                    "Answer": " Some of my favorite foods include sushi, chicken, and rice."
+                    "Question": " What is your body temperature? ",
+                    "Answer": " My body temperature is 102 degrees Fahrenheit."
                 },
                 {
-                    "Question": " What are your least favorite foods? ",
-                    "Answer": " Some of my least favorite foods include broccoli, cauliflower, and Brussels sprouts."
+                    "Question": " Have you been feeling feverish for more than a week? ",
+                    "Answer": " I have been feeling feverish for about two days."
                 },
                 {
-                    "Question": " Do you have any allergies or food sensitivities? ",
-                    "Answer": " No, I do not have any allergies or food sensitivities."
+                    "Question": " Do you have any other symptoms? ",
+                    "Answer": " My other symptoms include chills, body aches, and fatigue."
                 },
                 {
-                    "Question": " Do you have any dietary restrictions? ",
-                    "Answer": " No, I do not have any dietary restrictions."
+                    "Question": " Have you been to see a doctor? ",
+                    "Answer": " yes."
                 },
                 {
-                    "Question": " What is your typical breakfast? ",
-                    "Answer": " My typical breakfast includes eggs, toast, and fruit."
+                    "Question": " What did the doctor say? ",
+                    "Answer": " The doctor said that I have a viral infection and there is no specific treatment for it."
                 },
                 {
-                    "Question": " What is your typical lunch? ",
-                    "Answer": " My typical lunch includes a salad or sandwich."
+                    "Question": " Is there anything you are currently taking for your fever? ",
+                    "Answer": " I am currently taking ibuprofen and acetaminophen for my fever."
                 },
                 {
-                    "Question": " What is your typical dinner? ",
-                    "Answer": " My typical dinner includes chicken, rice, and vegetables."
+                    "Question": " Have you been following the doctor's instructions? ",
+                    "Answer": " Yes, I have been following the doctor's instructions."
                 },
                 {
-                    "Question": " Do you eat snacks throughout the day? ",
-                    "Answer": " Yes, I typically eat a snack in the evening."
+                    "Question": " Do you think your fever is getting better? ",
+                    "Answer": " No, my fever is not getting better."
                 },
                 {
-                    "Question": " Do you have a preferred method of cooking (eg baking, steaming, stir-frying)? ",
-                    "Answer": " I prefer to stir-fry my food."
+                    "Question": " Would you like me to help you find a doctor? ",
+                    "Answer": " Yes, I would like you to help me find a doctor."
                 },
                 {
-                    "Question": " Do you have any kitchen appliances that you use frequently (eg blender, juicer, crockpot)? ",
-                    "Answer": " I use a blender and a crockpot frequently."
+                    "Question": " What type of doctor are you looking for? ",
+                    "Answer": " I am looking for a doctor who can help me with my fever."
                 },
                 {
-                    "Question": " Do you have any foods that you particularly like or dislike? ",
-                    "Answer": " I love sushi and I dislike broccoli, cauliflower, and Brussels sprouts."
+                    "Question": " Are you looking for a primary care doctor or a specialist? ",
+                    "Answer": " I am looking for a primary care doctor."
+                },
+                {
+                    "Question": " Do you have a preference for a particular type of doctor? ",
+                    "Answer": " I would prefer a doctor who is experienced in treating viral infections."
                 }
             ],
-            "Output": "Assuming the individual would like to maintain their current weight: Breakfast: 2 eggs, 1 slice of toast, 1 cup of fruit Lunch: 1 salad or sandwich Dinner: 1 chicken breast, 1/2 cup of rice, 1 cup of vegetables Snacks: 1 piece of fruit or 1 yogurt temp"
+            "Output": "Based on the questions and answers above, it is likely that the individual has a viral infection."
         },
         {
             "QApair": [
                 {
-                    "Question": " How many meals do you eat per day? ",
-                    "Answer": " I typically eat 3 meals per day."
+                    "Question": " What are your symptoms? ",
+                    "Answer": " Headache, fever, and fatigue."
                 },
                 {
-                    "Question": " What are your favorite foods? ",
-                    "Answer": " Some of my favorite foods include daal, chicken, and rice."
+                    "Question": " Have you been to the doctor? ",
+                    "Answer": " No, I haven't."
                 },
                 {
-                    "Question": " Do you have any dietary restrictions? ",
-                    "Answer": " I do not have any dietary restrictions but avoid pizza and oily stuff."
+                    "Question": " Do you have any medical conditions? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " Do you have any medical conditions that require a special diet? ",
-                    "Answer": " I do not have any medical conditions that require a special diet."
+                    "Question": " Do you take any medications? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
                     "Question": " Do you have any allergies? ",
-                    "Answer": " I do not have any allergies."
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " Do you have any preferences regarding the type of food you eat (eg, organic, local, etc)? ",
-                    "Answer": " I prefer organic and local food when possible."
+                    "Question": " Do you have any family history of medical conditions? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " What is your budget for food per week? ",
-                    "Answer": " I typically spend around $1000 per week on food."
+                    "Question": " Do you have any history of medical conditions? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " What is your preferred method of cooking (eg, stovetop, oven, microwave)? ",
-                    "Answer": " I prefer stovetop cooking."
+                    "Question": " Do you smoke? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " How much time do you typically spend cooking each day? ",
-                    "Answer": " I typically spend around 30 minutes cooking each day."
+                    "Question": " Do you drink alcohol? ",
+                    "Answer": " No, I don't think so."
                 },
                 {
-                    "Question": " How many people do you typically cook for? ",
-                    "Answer": " I typically cook for myself."
-                },
-                {
-                    "Question": " What are your thoughts on eating out? ",
-                    "Answer": " I think eating out is okay occasionally, but I prefer to cook at home."
+                    "Question": " Do you eat a balanced diet? ",
+                    "Answer": " Yes, I do."
                 }
             ],
-            "Output": "Assuming you would like a 7-day diet plan: Day 1: Breakfast- 1 cup oatmeal with 1 sliced banana and 1 tsp honey Lunch- Spicy Lentil Soup with 1 slice whole wheat bread Dinner- 1 grilled chicken breast with 1 cup steamed broccoli and 1/2 cup brown rice Day 2: Breakfast- 2 eggs (scrambled, omelet, or fried) with 1 slice whole wheat toast Lunch- Chicken Caesar Salad (no croutons) Dinner- Shrimp stir fry with 1 cup steamed rice Day 3: Breakfast- 1 cup yogurt with 1/2 cup mixed berries and 1/4 granola Lunch- Tomato and Mozzarella Sandwich on whole wheat bread Dinner- Grilled salmon with 1 roasted sweet potato and 1 cup steamed kale Day 4: Breakfast- 1 smoothie made with 1 cup almond milk, 1 banana, 1 scoop protein powder, and 1 tsp honey Lunch- Veggie wrap with avocado, lettuce, tomato, and onion Dinner- Spaghetti with turkey meatballs and a side salad Day 5: Breakfast temp"
+            "Output": "Based on the information provided, it is difficult to provide a definite diagnosis. However, some possibilities include a viral infection, dehydration, or migraines. "
         },
         {
             "QApair": [
                 {
-                    "Question": " How many calories do you eat in a day? ",
-                    "Answer": " I consume around 2200 calories a day."
+                    "Question": " What are your symptoms? ",
+                    "Answer": " I have a headache and a sore throat."
                 },
                 {
-                    "Question": " What is your height and weight? ",
-                    "Answer": " I am 5'7\" and weigh around 150 pounds."
+                    "Question": " When did you first start experiencing these symptoms? ",
+                    "Answer": " I started experiencing these symptoms today."
                 },
                 {
-                    "Question": " Are you trying to lose, gain, or maintain your weight? ",
-                    "Answer": " I am trying to lose weight."
+                    "Question": " Have you been exposed to anyone who is sick recently? ",
+                    "Answer": " No, I have not been exposed to anyone who is sick recently."
                 },
                 {
-                    "Question": " What is your activity level? ",
-                    "Answer": " I am moderately active."
+                    "Question": " Do you have any other medical conditions? ",
+                    "Answer": " No, I do not have any other medical conditions."
                 },
                 {
-                    "Question": " What are your food preferences? ",
-                    "Answer": " I prefer healthy foods, but I am open to trying new things."
+                    "Question": " Do you take any medications? ",
+                    "Answer": " No, I do not take any medications."
                 },
                 {
-                    "Question": " Do you have any dietary restrictions? ",
-                    "Answer": " I am not allergic to anything, but I try to avoid processed foods."
+                    "Question": " Do you have any allergies? ",
+                    "Answer": " No, I do not have any allergies."
                 },
                 {
-                    "Question": " Do you take any supplements? ",
-                    "Answer": " I take a multivitamin and omega-3 supplement."
+                    "Question": " Do you have a fever? ",
+                    "Answer": " No, I do not have a fever."
                 },
                 {
-                    "Question": " Please describe your typical day? ",
-                    "Answer": " I wake up at 6:00am, eat breakfast at 6:30am, and then head to the gym for a workout- I have a protein shake afterwards and then eat lunch at 1:00pm- I have a snack around 3:00pm and then dinner at 6:00pm- I usually have another snack before bed."
-                },
-                {
-                    "Question": "Any recommendtations?",
-                    "Answer": " Based on the information you provided, I would recommend a diet that consists of healthy foods that are high in protein and fiber and low in calories- I would also recommend that you eat smaller meals more often throughout the day to keep your metabolism going."
+                    "Question": " Do you have any other symptoms? ",
+                    "Answer": " No."
                 }
             ],
-            "Output": "Meal 1: 6:30am - 1 egg, 1 slice of whole wheat toast, 1/2 cup of berries Meal 2: 1:00pm - Salad with grilled chicken, 1/2 an avocado, 1/2 a lemon Meal 3: 6:00pm - Salmon, roasted vegetables, 1/2 a cup of quinoa Snacks: 3:00pm - 1 apple with peanut butter Before bed - 1/2 cup of cottage cheese temp"
+            "Output": "The most likely diagnosis is a viral infection, such as the common cold. temp"
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/hLMk00uQPPah1wHz0IqtLm9e?model=text-davinci-002",
-    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic1%5FNaturalScience%2FTask2"
+    "Preset_link": "https://beta.openai.com/playground/p/GcuIIrje0yHDGTmrBCGSfXRW?model=text-davinci-002",
+    "screenshot_link": "https://arizonastateu-my.sharepoint.com/personal/akuma294_sundevils_asu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fakuma294%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FAbhinav%2FNLP%2FProjects%2FProject1%2FScreenshots%2FTopic1%5FNaturalScience%2FTask3"
 }

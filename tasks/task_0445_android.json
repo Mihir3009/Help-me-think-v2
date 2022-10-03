@@ -1,92 +1,140 @@
 {
     "Contributor": "jaintanuj",
     "Domain": "Android",
-    "Task": "Understanding different android versions.",
+    "Task": "Understanding various android games.",
     "Prompt": {
-        "pre_question_prompt": "You are an expert in understanding Android versions. You will ask some questions to collect information and then you will use the information to write a summary of different android versions.",
-        "task_specific_prompt": "Write a short summary of different android versions using the questions and answers above. The summary should be in brief."
+        "pre_question_prompt": "You are an expert in summarizing Android games. You will ask some questions to collect information and then you will use the information to write a summary of different types of android games.",
+        "task_specific_prompt": "Write a short summary of different android games using the questions and answers above. The summary should be in brief."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What are the different Android versions?",
-                    "Answer": "There are currently four different Android versions: Lollipop, Marshmallow, Nougat, and Oreo. Lollipop was released in 2014, Marshmallow in 2015, Nougat in 2016, and Oreo in 2017. Each Android version is named after a sweet treat."
+                    "Question": "What are three different types of Android games?",
+                    "Answer": "Puzzle, casual, and strategy."
                 },
                 {
-                    "Question": "What are the main differences between the Android versions?",
-                    "Answer": "The main differences between the Android versions are the features that are added or improved with each new release. For example, Lollipop introduced a new design language called Material Design, while Marshmallow introduced a new permission model. Nougat added support for multiple display sizes and improved battery life, and Oreo added support for picture-in-picture mode and notification dots."
+                    "Question": "What are some features of each type of game?",
+                    "Answer": "Puzzle games often have simple gameplay, challenging puzzles, and a focus on logic and problem-solving. Casual games are often easy to pick up and play, with simple controls and gameplay. They are often designed for short, quick gameplay sessions. Strategy games tend to be more complex, with deeper gameplay and a focus on planning and resource management."
                 },
                 {
-                    "Question": "Which Android version is the most recent?",
-                    "Answer": "The most recent Android version is Oreo, which was released in 2017."
+                    "Question": "Can you give an example of each type of game?",
+                    "Answer": "Puzzle: Candy Crush, Monument Valley\\nCasual: Two Dots, Tetris\\nStrategy: Clash of Clans, Civilization"
                 },
                 {
-                    "Question": "Which Android version is the most popular?",
-                    "Answer": "The most popular Android version is Lollipop, which was released in 2014."
+                    "Question": "What do you think are the most popular Android games?",
+                    "Answer": "The most popular Android games vary by genre. Popular puzzle games include Candy Crush and Monument Valley. Popular casual games include Two Dots and Tetris. Popular strategy games include Clash of Clans and Civilization."
                 },
                 {
-                    "Question": "What are the future plans for Android?",
-                    "Answer": "The future plans for Android are to continue to improve the operating system with new features and capabilities."
+                    "Question": "Why do you think Android games are so popular?",
+                    "Answer": "Android games are popular because they are easy to download and play on a variety of devices. Android games also offer a wide variety of genres and gameplay styles to choose from."
+                },
+                {
+                    "Question": "How do you think Android games will develop in the future?",
+                    "Answer": "Android games are likely to continue to be popular. Developers may continue to release new games in a variety of genres, with new gameplay mechanics and features."
+                },
+                {
+                    "Question": "What do you think is the most important aspect of an Android game?",
+                    "Answer": "The most important aspect of an Android game will vary from person to person. Some people may prefer games with simple gameplay, while others may prefer games with complex mechanics. Some people may prefer games that are easy to pick up and play, while others may prefer games that require more strategic planning."
+                },
+                {
+                    "Question": "What do you think are the most popular Android games?",
+                    "Answer": "The most popular Android games vary by genre. Popular puzzle games include Candy Crush and Monument Valley. Popular casual games include Two Dots and Tetris. Popular strategy games include Clash of Clans and Civilization."
                 }
             ],
-            "Output": "Lollipop, Marshmallow, Nougat, and Oreo are the four different Android versions. Lollipop was released in 2014, Marshmallow in 2015, Nougat in 2016, and Oreo in 2017. Each Android version is named after a sweet treat. The main differences between the Android versions are the features that are added or improved with each new release. The most popular Android version is Lollipop. The future plans for Android are to continue to improve the operating system with new features and capabilities."
+            "Output": "Android games are popular because they are easy to download and play on a variety of devices. Android games also offer a wide variety of genres and gameplay styles to choose from. The most popular Android games vary by genre, but popular genres include puzzle, casual, and strategy games."
         },
         {
             "QApair": [
                 {
-                    "Question": "What are the different Android versions?",
-                    "Answer": "There are currently five different Android versions: Lollipop, Marshmallow, Nougat, Oreo and Pie"
+                    "Question": "What are the different types of Android games?",
+                    "Answer": "Android games can broadly be categorized into two categories: offline games and online games. "
                 },
                 {
-                    "Question": "What are the main differences between all the Android versions?",
-                    "Answer": "The main differences between the Android versions are the features that are added or improved with each new release."
+                    "Question": "What are the differences between the two types of games?",
+                    "Answer": "The main difference between offline and online Android games is the requirement of an internet connection. Offline games can be played without an internet connection, while online games require a stable internet connection in order to function properly. Additionally, online games usually have more complex gameplay and features than offline games."
                 },
                 {
-                    "Question": "Which Android version is the most efficient?",
-                    "Answer": "All Android versions are designed to be efficient, but the most recent version, Oreo, is the most efficient to date."
+                    "Question": "What are some examples of popular Android games?",
+                    "Answer": "Some popular Android games include \"Clash of Clans,\" \"Candy Crush Saga,\" \"Subway Surfers,\" and \"Temple Run.\""
                 },
                 {
-                    "Question": "Which Android version is the most user-friendly?",
-                    "Answer": "All Android versions are user-friendly, but the most recent version, Oreo, is the most user-friendly to date."
+                    "Question": "How do you play an Android game?",
+                    "Answer": "Android games can be played on Android smartphones and tablets. In order to play an Android game, you will need to download and install the game from the Google Play Store. Once the game is installed, you can launch it and start playing."
                 },
                 {
-                    "Question": "Which is the most recent version and what are the future plans for android OS?",
-                    "Answer": "The most recent version is Oreo and the future plans for android OS include continuing to improve efficiency and user-friendliness."
+                    "Question": "What are the benefits of playing Android games?",
+                    "Answer": "Android games can provide hours of entertainment and can be played anytime and anywhere. Additionally, playing games can help improve your hand-eye coordination and problem-solving skills."
+                },
+                {
+                    "Question": "What are some of the risks associated with playing Android games?",
+                    "Answer": "Some risks associated with playing Android games include malware and viruses, in-game purchases, and addiction. It is important to be aware of these risks and take precautions, such as only downloading games from trusted sources and setting spending limits for in-game purchases."
+                },
+                {
+                    "Question": "How can I make sure my device is safe when playing Android games?",
+                    "Answer": "There are a few things you can do to make sure your device is safe when playing Android games. First, only download games from trusted sources, such as the Google Play Store. Second, make sure your device is running the latest version of Android. Third, install an antivirus app on your device. Fourth, be aware of the permissions that games are asking for and only grant permissions that make sense for the game. Finally, set spending limits for in-game purchases."
+                },
+                {
+                    "Question": "What are some tips for getting the most out of playing Android games?",
+                    "Answer": "Some tips for getting the most out of playing Android games include trying out different genres of games, playing with friends or family members, and taking advantage of free-to-play games. Additionally, it is important to take breaks while playing and to not spend too much time or money on games."
+                },
+                {
+                    "Question": "What should I do if I think I'm addicted to playing Android games?",
+                    "Answer": "If you think you're addicted to playing Android games, the first step is to admit that you have a problem. Then, you need to cut back on the amount of time you're spending playing games. Additionally, you should try to find other hobbies or activities to do instead of playing games. Finally, if you can't seem to stop playing games, you should seek professional help."
+                },
+                {
+                    "Question": "What are the different types of Android games?",
+                    "Answer": "Offline games and online games are the two broad categories of Android games. The main difference between the two is that offline games can be played without an internet connection, while online games require a stable internet connection. Online games also tend to have more complex gameplay and features. Some popular examples of Android games include \"Clash of Clans,\" \"Candy Crush Saga,\" \"Subway Surfers,\" and \"Temple Run.\""
                 }
             ],
-            "Output": "There are five different Android versions: Lollipop, Marshmallow, Nougat, Oreo and Pie. The main differences between the Android versions are the features that are added or improved with each new release. All Android versions are designed to be efficient, but the most recent version, Oreo, is the most efficient to date. All Android versions are user-friendly, but the most recent version, Oreo, is the most user-friendly to date. The most recent version is Oreo and the future plans for android OS include continuing to improve efficiency and user-friendliness."
+            "Output": "There are two main types of Android games: offline games and online games. Offline games can be played without an internet connection, while online games require a stable internet connection. Online games also tend to have more complex gameplay and features. Some popular examples of Android games include \"Clash of Clans,\" \"Candy Crush Saga,\" \"Subway Surfers,\" and \"Temple Run.\""
         },
         {
             "QApair": [
                 {
-                    "Question": "Which is the newest Android version?",
-                    "Answer": "The newest Android version is 10.0."
+                    "Question": "What are the different types of Android games?",
+                    "Answer": "There are many different types of Android games, but some of the most popular genres include puzzle games, racing games, strategy games, and action games."
                 },
                 {
-                    "Question": "What are the most notable changes in Android 10.0?",
-                    "Answer": "The most notable changes in Android 10.0 include a new dark theme, improved support for gesture navigation, and new privacy controls."
+                    "Question": "What are some popular Android games?",
+                    "Answer": "Some popular Android games include Candy Crush Saga, Clash of Clans, Mario Kart Tour, and Asphalt 9: Legends."
                 },
                 {
-                    "Question": "What was the first Android version?",
-                    "Answer": "The first Android version was 1.0, which was released in September 2008."
+                    "Question": "What are some features of Android games?",
+                    "Answer": "Android games often include features such as in-game microtransactions, leaderboards, and achievements."
                 },
                 {
-                    "Question": "What are the most notable changes in Android 1.0?",
-                    "Answer": "The most notable changes in Android 1.0 include the introduction of the Android Market, improved support for Gmail, and the ability to take screenshots."
+                    "Question": "What are the benefits of playing Android games?",
+                    "Answer": "Some benefits of playing Android games include entertainment, relaxation, and stress relief."
                 },
                 {
-                    "Question": "How much has android grown since its first version?",
-                    "Answer": "Android has come a long way since its first version. The platform has grown exponentially in terms of features and adoption."
+                    "Question": "What are the drawbacks of playing Android games?",
+                    "Answer": "Some drawbacks of playing Android games include addiction, time consumption, and excessive spending."
+                },
+                {
+                    "Question": "How do Android games compare to other types of games?",
+                    "Answer": "Android games are typically more affordable than console or PC games, and they can be played on a variety of devices."
+                },
+                {
+                    "Question": "What is the future of Android games?",
+                    "Answer": "The future of Android games is likely to include more advanced graphics and gameplay, as well as more diverse genres."
+                },
+                {
+                    "Question": "Do you have any tips for choosing the right Android game?",
+                    "Answer": "When choosing an Android game, it is important to consider the graphics, gameplay, and reviews. It is also important to make sure that the game is compatible with your device."
+                },
+                {
+                    "Question": "What are some of your favorite Android games?",
+                    "Answer": "Some of my favorite Android games include Monument Valley, Alto's Odyssey, and Stardew Valley."
                 }
             ],
-            "Output": "Android is a mobile operating system that was first developed by Google in 2008. The first Android version, 1.0, was released in September 2008. Since then, Android has undergone a number of major updates, with the most recent being 10.0. The most notable changes in Android 10.0 include a new dark theme, improved support for gesture navigation, and new privacy controls. Android 1.0, on the other hand, introduced the Android Market, improved Gmail support, and the ability to take screenshots. Overall, Android has come a long way since its first version, with the platform now offering a wide range of features and options for users."
+            "Output": "Android games come in a wide variety of genres, from puzzle games to racing games to action games. Some popular Android games include Candy Crush Saga, Clash of Clans, Mario Kart Tour, and Asphalt 9: Legends. Android games often include features such as in-game microtransactions, leaderboards, and achievements. Some benefits of playing Android games include entertainment, relaxation, and stress relief. Some drawbacks of playing Android games include addiction, time consumption, and excessive spending. Android games are typically more affordable than console or PC games, and they can be played on a variety of devices. The future of Android games is likely to include more advanced graphics and gameplay, as well as more diverse genres."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/mQq55pGzhkZYiKYBivhVHdt0?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/MqLCBzoo2QmPljhlpnmFyfN6?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/OF75XHKJ7qi9xhV6hQeR6WS1?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/SuzEn7QlQ9P1ILtAKEBjBB0v?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/A4tNftpucn4xqx56K4qGrqr7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/WlrHaaE356NNzUZNBKCL70nK?model=text-davinci-002"
     ],
     "screenshot_link": "https://drive.google.com/drive/folders/1-x1XCWITI0K3tAy6s8t_T3O4j3AsdCjE?usp=sharing"
 }

@@ -1,156 +1,172 @@
 {
     "Contributor": "kinahansean",
     "Domain": "Communication",
-    "Task": "Job Cover Letter",
+    "Task": "Software Issue Reporting",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in writing cover letters for job applications. I will ask some questions to collect information and then I will use the information to write a cover letter. Question:",
-        "task_specific_prompt": "Write a job application cover letter using the questions and answers above."
+        "pre_question_prompt": "I am an expert in writing software issue reports. I will ask some questions to collect information and then I will use the information to write a bug report. Question:",
+        "task_specific_prompt": "Write a software development issue report using the questions and answers above. Classify the severity of the reported issue on a scale from minor to severe."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "What is the job you are applying for?",
-                    "Answer": "I am applying for a job as a customer service representative."
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am experiencing an issue with my software where it is not opening correctly. When I try to open it, the screen is blank and I cannot click on anything."
                 },
                 {
-                    "Question": "What are your qualifications for the job?",
-                    "Answer": "I have a high school diploma and I have two years of experience working in customer service."
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to open the software."
                 },
                 {
-                    "Question": "What are your goals for the job?",
-                    "Answer": "My goal is to provide excellent customer service and to build strong relationships with customers."
+                    "Question": "What steps can we take to reproduce the issue?",
+                    "Answer": "1. Download the software from the link below. 2. Install the software on your computer. 3. Try to open the software."
                 },
                 {
-                    "Question": "What are your strengths?",
-                    "Answer": "I am a people person and I have a lot of patience. I am also very organized and I have a good attention to detail. I have extensive experience in customer service roles."
+                    "Question": "What is the expected outcome?",
+                    "Answer": "The expected outcome is that the software would open correctly and I would be able to use it."
                 },
                 {
-                    "Question": "Why are you interested in the job?",
-                    "Answer": "I am interested in the job because it is a customer service position and I have a lot of experience in customer service. I am also seeking advancement opportunities."
+                    "Question": "What is the actual outcome?",
+                    "Answer": "The actual outcome is that the software does not open correctly and I cannot use it."
                 },
                 {
-                    "Question": "What are your weaknesses?",
-                    "Answer": "I sometimes have a hard time saying no to customers, even if they are asking for something that is not possible."
+                    "Question": "What version of the software are you using?",
+                    "Answer": "I am using version 1.0.0 of the software."
                 },
                 {
-                    "Question": "What are your goals for the future?",
-                    "Answer": "My goal is to continue to work in customer service and to eventually move into a management position."
+                    "Question": "What operating system are you using?",
+                    "Answer": "I am using Windows 10."
                 },
                 {
-                    "Question": "What are your availability?",
-                    "Answer": "I am available to work Monday through Friday, 9:00 am to 5:00 pm."
+                    "Question": "Do you have any other relevant information that could help us reproduce the issue?",
+                    "Answer": "This issue first occurred after the latest windows update."
                 },
                 {
-                    "Question": "What is your expected salary?",
-                    "Answer": "My expected salary is $30,000 per year."
+                    "Question": "Have you tried restarting your computer?",
+                    "Answer": "Yes, I have tried restarting my computer."
                 },
                 {
-                    "Question": "What is the best way to contact you?",
-                    "Answer": "My email address is jeff.d@gmail.com and my phone number is 555-410-5555."
+                    "Question": "Have you tried reinstalling the software?",
+                    "Answer": "Yes, I have tried reinstalling the software."
                 }
             ],
-            "Output": "Dear Hiring Manager,  I am writing to apply for the customer service representative position. I am a people person and I have a lot of patience. I am also very organized and I have a good attention to detail. I have extensive experience in customer service roles.  I am interested in the job because it is a customer service position and I have a lot of experience in customer service. I am also seeking advancement opportunities. My goal is to provide excellent customer service and to build strong relationships with customers.  I am available to work Monday through Friday, 9:00 am to 5:00 pm. My expected salary is $30,000 per year.  Thank you for your time and consideration. I look forward to hearing from you.  Sincerely, Jeff D"
+            "Output": "Severity: Major  Software Issue Report  User is unable to open software after latest Windows update.  1. What is the issue you are experiencing?  I am experiencing an issue where my software will not open correctly. The screen is blank and I cannot click on anything.  2. What were you doing when the issue occurred?  I was trying to open the software.  3. What steps can we take to reproduce the issue?  1. Download the software from the link below. 2. Install the software on your computer. 3. Try to open the software.  4. What is the expected outcome?  The expected outcome is that the software would open correctly and I would be able to use it.  5. What is the actual outcome?  The actual outcome is that the software does not open correctly and I cannot use it.  6. What version of the software are you using?  I am using version 1.0.0 of the software.  7. What operating system are you using?  I am using Windows 10.  8. Do you have any other relevant information that could help us reproduce the issue"
         },
         {
             "QApair": [
+                {
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am experiencing an issue with the software not saving my changes."
+                },
+                {
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to save my changes to the file."
+                },
+                {
+                    "Question": "What is the expected behavior?",
+                    "Answer": "The expected behavior is for the software to save my changes to the file."
+                },
+                {
+                    "Question": "What are the steps to reproduce the issue?",
+                    "Answer": "1. Open the software.2. Make some changes to the file. 3. Try to save the changes."
+                },
+                {
+                    "Question": "What is your operating system and version?",
+                    "Answer": "I am using Windows 10."
+                },
+                {
+                    "Question": "What is the version of the software?",
+                    "Answer": "I am using version 1.4"
+                },
+                {
+                    "Question": "Do you have any other information that might be helpful?",
+                    "Answer": "I have tried restarting the software and my computer, but the issue still occurs. This issue first started after the latest windows update."
+                },
+                {
+                    "Question": "Can you provide a screenshot or video of the issue?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What type of issue is this?",
+                    "Answer": "This is a bug."
+                },
+                {
+                    "Question": "What is the severity of the issue?",
+                    "Answer": "The severity of the issue is high."
+                },
+                {
+                    "Question": "What is the priority of the issue?",
+                    "Answer": "The priority of the issue is high."
+                },
+                {
+                    "Question": "Who should be assigned to this issue?",
+                    "Answer": "The developer should be assigned to this issue."
+                }
+            ],
+            "Output": "Bug Report  Software: Version 1.4  Operating System: Windows 10  Issue:  The software is not saving my changes. This issue started after the latest Windows update.  1. Open the software. 2. Make some changes to the file. 3. Try to save the changes.  Expected Behavior: The software should save my changes to the file.  Severity: Severe"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the issue you are experiencing?",
+                    "Answer": "I am having an issue with my software not opening."
+                },
+                {
+                    "Question": "What were you doing when the issue occurred?",
+                    "Answer": "I was trying to open the software."
+                },
+                {
+                    "Question": "What is the exact error message you are receiving, if any?",
+                    "Answer": "Critical error: The program failed to load."
+                },
+                {
+                    "Question": "What steps have you taken to try to resolve the issue?",
+                    "Answer": "I have uninstalled and reinstalled the software."
+                },
+                {
+                    "Question": "What is your operating system?",
+                    "Answer": "Windows 10."
+                },
+                {
+                    "Question": "What is the version of the software you are using?",
+                    "Answer": " Version 1.0.1."
+                },
+                {
+                    "Question": "Have you been able to reproduce the issue? If so, please describe the steps you took to reproduce it.",
+                    "Answer": "Yes, I have been able to reproduce the issue. The steps I took to reproduce it were to try to open the software."
+                },
+                {
+                    "Question": "Is there anything else you think we should know?",
+                    "Answer": "This issue first occurred after I reset my user credentials."
+                },
+                {
+                    "Question": "Please attach screenshots or videos of the issue, if possible.",
+                    "Answer": "Done."
+                },
+                {
+                    "Question": "Would you like to be contacted if we need more information?",
+                    "Answer": "Yes."
+                },
+                {
+                    "Question": "What is the best way to reach you?",
+                    "Answer": "You can reach me by email at terry@hotmail.com"
+                },
                 {
                     "Question": "What is your name?",
-                    "Answer": "My name is Robert California."
+                    "Answer": "Terry"
                 },
                 {
-                    "Question": "What is the name of the company you are applying to?",
-                    "Answer": "The name of the company is Dunder Mifflin Sabre."
-                },
-                {
-                    "Question": "What is the job title you are applying for?",
-                    "Answer": "I am applying for the position of Chief Executive Officer."
-                },
-                {
-                    "Question": "What are your qualifications for the job?",
-                    "Answer": "I have a Master's degree in Business Administration and I have experience working in the corporate world. I am confident that I have the skills and qualifications that are required for the job."
-                },
-                {
-                    "Question": "Why do you want the job?",
-                    "Answer": "I want the job because I am passionate about the company and its mission. I believe that I can make a difference in the company and help it achieve its goals. "
-                },
-                {
-                    "Question": "What are your strengths?",
-                    "Answer": "Some of my strengths include my ability to think strategically, my leadership skills, and my ability to motivate and inspire others. I have been told I have a magnetic personality."
-                },
-                {
-                    "Question": "What are your weaknesses?",
-                    "Answer": "I am a perfectionist and I sometimes work too hard. I also have a tendency to be overly critical of myself."
-                },
-                {
-                    "Question": "What are your hobbies?",
-                    "Answer": "I enjoy playing golf, tennis, and skiing. I also enjoy reading and spending time with my family."
-                },
-                {
-                    "Question": "What is your greatest achievement?",
-                    "Answer": "My greatest achievement is becoming the CEO of a successful company. I have also been recognized for my work in the corporate world."
-                },
-                {
-                    "Question": "What is your greatest failure?",
-                    "Answer": "My greatest failure is not being able to save my previous company from bankruptcy."
-                },
-                {
-                    "Question": "What are your goals?",
-                    "Answer": "My goals are to continue to grow and develop as a leader, to help my company achieve its goals, and to make a positive impact on the world."
+                    "Question": "What is your email address?",
+                    "Answer": "terry@hotmail.com"
                 }
             ],
-            "Output": "Dear Dunder Mifflin Sabre,  I am Robert California, and I am applying for the position of Chief Executive Officer. I believe that I am the ideal candidate for the job because of my qualifications and my passion for the company.  I have a Master's degree in Business Administration, and I have experience working in the corporate world. I am confident that I have the skills and qualifications that are required for the job. I am also passionate about the company and its mission. I believe that I can make a difference in the company and help it achieve its goals.  Some of my strengths include my ability to think strategically, my leadership skills, and my ability to motivate and inspire others. I have been told I have a magnetic personality. I am also a perfectionist and I sometimes work too hard. However, I believe that these qualities will be beneficial in my new role.  I am excited about the opportunity to join Dunder Mifflin Sabre, and I am confident that I will be a successful CEO. I look forward to meeting with you and discussing the position further. Thank you for your time and consideration.  Sincerely,  Robert California "
-        },
-        {
-            "QApair": [
-                {
-                    "Question": "What position are you applying for?",
-                    "Answer": "I am applying for the position of automotive service technician."
-                },
-                {
-                    "Question": "What qualifications or experience do you have that make you the best candidate for the job?",
-                    "Answer": "I have over 10 years of experience as an automotive service technician. I have a strong understanding of the inner workings of a car and I am able to diagnose and repair problems quickly and efficiently. I have a valid driver's license and a clean driving record. I am also certified in first aid and CPR."
-                },
-                {
-                    "Question": "What are your goals for the position?",
-                    "Answer": "My goals for the position are to provide excellent customer service, to maintain a high level of workmanship, and to contribute to the overall success of the company."
-                },
-                {
-                    "Question": "What are some of your strengths?",
-                    "Answer": "Some of my strengths include my attention to detail, my ability to work independently, and my strong communication skills."
-                },
-                {
-                    "Question": "What are some of your weaknesses?",
-                    "Answer": "Some of my weaknesses include my impatience, my perfectionism, and my tendency to be a workaholic."
-                },
-                {
-                    "Question": "What are some of your hobbies or interests?",
-                    "Answer": "Some of my hobbies and interests include working on cars, hiking, and camping."
-                },
-                {
-                    "Question": "What are your long-term career goals?",
-                    "Answer": "My long-term career goals include becoming a master technician and opening my own automotive repair shop."
-                },
-                {
-                    "Question": "What are your salary requirements?",
-                    "Answer": "I am open to negotiation on salary."
-                },
-                {
-                    "Question": "When are you available to start work?",
-                    "Answer": "I am available to start work immediately."
-                },
-                {
-                    "Question": "What is your notice period?",
-                    "Answer": "My notice period is 2 weeks."
-                }
-            ],
-            "Output": "To Whom It May Concern,  I am writing to apply for the position of automotive service technician. I am confident that I am the best candidate for the job because of my over 10 years of experience as an automotive service technician. I have a strong understanding of the inner workings of a car and I am able to diagnose and repair problems quickly and efficiently. I have a valid driver's license and a clean driving record. I am also certified in first aid and CPR.  My goals for the position are to provide excellent customer service, to maintain a high level of workmanship, and to contribute to the overall success of the company. Some of my strengths include my attention to detail, my ability to work independently, and my strong communication skills. Some of my hobbies and interests include working on cars, hiking, and camping.  My long-term career goals include becoming a master technician and opening my own automotive repair shop. I am open to negotiation on salary and I am available to start work immediately. My notice period is 2 weeks.  Thank you for your time and consideration. I look forward to hearing from you.  Sincerely,  [Your Name]"
+            "Output": "Severity: Major   Terry reports that the software is not opening. This started happening after he reset his user credentials. He has tried uninstalling and reinstalling the software, but the issue persists. This is reproducible by trying to open the software. Windows 10 and software version 1.0.1 are being used. Screenshots are attached."
         }
     ],
     "Preset_link": [
-        "https://beta.openai.com/playground/p/8fNiH96K82vMp8J3RUX05YSJ?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/7Eh87l2aBefj0PnsP1jXwCXS?model=text-davinci-002",
-        "https://beta.openai.com/playground/p/8XBYshu5JnR0BPqUW4ZePYlB?model=text-davinci-002"
+        "https://beta.openai.com/playground/p/vjth56iLWBVOqpqVEjofZkXE?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/BXEEt6egzbwolNc9frXuyI3S?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1Pl8i7aVUfIjsdwphESjUS5H?model=text-davinci-002"
     ],
-    "screenshot_link": "https://drive.google.com/drive/folders/1WPLGvEY012fi3b90mQm8Ns2x3_zJ0tF3?usp=sharing"
+    "screenshot_link": "https://drive.google.com/drive/folders/1WYfXO-0PEt9zL7KxspxcsCv2Zz4G7jZl?usp=sharing"
 }

@@ -1,150 +1,158 @@
 {
     "Contributor": "kumarabhinav",
     "Domain": "Natural Science",
-    "Task": "Disease Diagnosis",
+    "Task": "Plan for Crop Growing",
     "Prompt": {
-        "pre_question_prompt": "I am an expert in medicine . I will ask some questions to collect information and then I will use the information to help you diagnose your disease.",
+        "pre_question_prompt": "I am an expert in agriculture. I will ask some questions to collect information and then I will use the information to suggest a plan for growing crop.",
         "task_specific_prompt": "Suggest a diagnosis based on questions and answers above."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": " What are your main symptoms? ",
-                    "Answer": " My main symptom is fever."
+                    "Question": " What is the climate like in the area where the crop will be grown? ",
+                    "Answer": " The climate in the area where the crop will be grown is hot in summer, cold in winter and there are rains also in August."
                 },
                 {
-                    "Question": " What is your body temperature? ",
-                    "Answer": " My body temperature is 102 degrees Fahrenheit."
+                    "Question": " What is the soil like in the area where the crop will be grown? ",
+                    "Answer": " The soil in the area where the crop will be grown is brown soil."
                 },
                 {
-                    "Question": " Have you been feeling feverish for more than a week? ",
-                    "Answer": " I have been feeling feverish for about two days."
+                    "Question": " What is the water availability like in the area where the crop will be grown? ",
+                    "Answer": " The water availability in the area where the crop will be grown is good- There is a river nearby."
                 },
                 {
-                    "Question": " Do you have any other symptoms? ",
-                    "Answer": " My other symptoms include chills, body aches, and fatigue."
+                    "Question": " What are the pests and diseases that are common in the area where the crop will be grown? ",
+                    "Answer": " The pests and diseases that are common in the area where the crop will be grown are aphids, whiteflies, and spider mites."
                 },
                 {
-                    "Question": " Have you been to see a doctor? ",
-                    "Answer": " yes."
+                    "Question": " What are the main crops grown in the area where the crop will be grown? ",
+                    "Answer": " The main crops grown in the area where the crop will be grown are rice, wheat, and maize."
                 },
                 {
-                    "Question": " What did the doctor say? ",
-                    "Answer": " The doctor said that I have a viral infection and there is no specific treatment for it."
+                    "Question": " What is the yield of the main crops grown in the area? ",
+                    "Answer": " The yield of the main crops grown in the area is good."
                 },
                 {
-                    "Question": " Is there anything you are currently taking for your fever? ",
-                    "Answer": " I am currently taking ibuprofen and acetaminophen for my fever."
+                    "Question": " What are the prices of the main crops grown in the area? ",
+                    "Answer": " The prices of the main crops grown in the area are reasonable."
                 },
                 {
-                    "Question": " Have you been following the doctor's instructions? ",
-                    "Answer": " Yes, I have been following the doctor's instructions."
+                    "Question": " What are the inputs required for growing the crop? ",
+                    "Answer": " The inputs required for growing the crop are seeds, fertilizer, and water."
                 },
                 {
-                    "Question": " Do you think your fever is getting better? ",
-                    "Answer": " No, my fever is not getting better."
+                    "Question": " What is the labor availability like in the area? ",
+                    "Answer": " The labor availability in the area is good."
                 },
                 {
-                    "Question": " Would you like me to help you find a doctor? ",
-                    "Answer": " Yes, I would like you to help me find a doctor."
+                    "Question": " What are the wages for labor in the area? ",
+                    "Answer": " The wages for labor in the area are reasonable."
                 },
                 {
-                    "Question": " What type of doctor are you looking for? ",
-                    "Answer": " I am looking for a doctor who can help me with my fever."
+                    "Question": " What are the transportation costs like in the area? ",
+                    "Answer": " The transportation costs in the area are reasonable."
                 },
                 {
-                    "Question": " Are you looking for a primary care doctor or a specialist? ",
-                    "Answer": " I am looking for a primary care doctor."
-                },
-                {
-                    "Question": " Do you have a preference for a particular type of doctor? ",
-                    "Answer": " I would prefer a doctor who is experienced in treating viral infections."
+                    "Question": " What are the storage facilities like in the area? ",
+                    "Answer": " The storage facilities in the area are good."
                 }
             ],
-            "Output": "Based on the questions and answers above, it is likely that the individual has a viral infection."
+            "Output": "The crop should be grown in the area where the climate is hot in summer, cold in winter and there are rains also in August. The soil in the area where the crop will be grown is brown soil. The water availability in the area where the crop will be grown is good. There is a river nearby. The pests and diseases that are common in the area where the crop will be grown are aphids, whiteflies, and spider mites. The main crops grown in the area where the crop will be grown are rice, wheat, and maize. The yield of the main crops grown in the area is good. The prices of the main crops grown in the area are reasonable. The inputs required for growing the crop are seeds, fertilizer, and water. The labor availability in the area is good. The wages for labor in the area are reasonable. The transportation costs in the area are reasonable. The storage facilities in the area are good. The crop should be grown in the area where the climate is hot in summer, cold in winter and there are rains also in August. The soil in the area where the crop will be grown is brown soil. The water availability in the area where the crop will be grown is good. There is a river nearby "
         },
         {
             "QApair": [
                 {
-                    "Question": " What are your symptoms? ",
-                    "Answer": " Headache, fever, and fatigue."
+                    "Question": " What kind of climate does the farm have? ",
+                    "Answer": " The farm has a temperate climate."
                 },
                 {
-                    "Question": " Have you been to the doctor? ",
-                    "Answer": " No, I haven't."
+                    "Question": " What is the size of the farm? ",
+                    "Answer": " The farm is 5 acres."
                 },
                 {
-                    "Question": " Do you have any medical conditions? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What kind of soil does the farm have? ",
+                    "Answer": " The farm has sandy soil."
                 },
                 {
-                    "Question": " Do you take any medications? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What crops does the farm currently grow? ",
+                    "Answer": " The farm grows corn, wheat, and soybeans."
                 },
                 {
-                    "Question": " Do you have any allergies? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What is the average rainfall in the area? ",
+                    "Answer": " The average rainfall in the area is 30 inches."
                 },
                 {
-                    "Question": " Do you have any family history of medical conditions? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What is the average temperature in the area? ",
+                    "Answer": " The average temperature in the area is 70 degrees Fahrenheit."
                 },
                 {
-                    "Question": " Do you have any history of medical conditions? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What is the length of the growing season? ",
+                    "Answer": " The length of the growing season is 180 days."
                 },
                 {
-                    "Question": " Do you smoke? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What is the first month of the growing season? ",
+                    "Answer": " The first month of the growing season is April."
                 },
                 {
-                    "Question": " Do you drink alcohol? ",
-                    "Answer": " No, I don't think so."
+                    "Question": " What is the last month of the growing season? ",
+                    "Answer": " The last month of the growing season is October."
                 },
                 {
-                    "Question": " Do you eat a balanced diet? ",
-                    "Answer": " Yes, I do."
+                    "Question": " What is the farmers market schedule like in the area? ",
+                    "Answer": " The farmers market schedule in the area is every Saturday from 8am to noon."
+                },
+                {
+                    "Question": " What are the prices of the crops currently grown on the farm? ",
+                    "Answer": " The prices of the crops currently grown on the farm are $3 per bushel for corn, $4 per bushel for wheat, and $9 per bushel for soybeans."
                 }
             ],
-            "Output": "Based on the information provided, it is difficult to provide a definite diagnosis. However, some possibilities include a viral infection, dehydration, or migraines. "
+            "Output": "The farm should grow corn, wheat, and soybeans. The corn should be planted in April, the wheat in May, and the soybeans in June. The corn should be harvested in July, the wheat in August, and the soybeans in September. The farmers market schedule in the area is every Saturday from 8am to noon, so the farm should plan to have these crops available for sale at the market. temp "
         },
         {
             "QApair": [
                 {
-                    "Question": " What are your symptoms? ",
-                    "Answer": " I have a headache and a sore throat."
+                    "Question": " What are the climatic conditions in your area? ",
+                    "Answer": " The climate in my area is tropical."
                 },
                 {
-                    "Question": " When did you first start experiencing these symptoms? ",
-                    "Answer": " I started experiencing these symptoms today."
+                    "Question": " What is the soil type in your area? ",
+                    "Answer": " The soil in my area is Gangetic alluvium."
                 },
                 {
-                    "Question": " Have you been exposed to anyone who is sick recently? ",
-                    "Answer": " No, I have not been exposed to anyone who is sick recently."
+                    "Question": " What are the main crops grown in your area? ",
+                    "Answer": " The main crops grown in my area are rice, wheat, pulses and maize."
                 },
                 {
-                    "Question": " Do you have any other medical conditions? ",
-                    "Answer": " No, I do not have any other medical conditions."
+                    "Question": " What is the irrigation facilities in your area? ",
+                    "Answer": " The irrigation facilities in my area are good."
                 },
                 {
-                    "Question": " Do you take any medications? ",
-                    "Answer": " No, I do not take any medications."
+                    "Question": " What are the pest and disease problems in your area? ",
+                    "Answer": " The pest and disease problems in my area are not serious."
                 },
                 {
-                    "Question": " Do you have any allergies? ",
-                    "Answer": " No, I do not have any allergies."
+                    "Question": " What is the cropping pattern in your area? ",
+                    "Answer": " The cropping pattern in my area is rice-wheat-pulses-maize."
                 },
                 {
-                    "Question": " Do you have a fever? ",
-                    "Answer": " No, I do not have a fever."
+                    "Question": " What is the expected yield of the main crops in your area? ",
+                    "Answer": " The expected yield of the main crops in my area is good."
                 },
                 {
-                    "Question": " Do you have any other symptoms? ",
-                    "Answer": " No."
+                    "Question": " What are the marketing facilities in your area? ",
+                    "Answer": " The marketing facilities in my area are good."
+                },
+                {
+                    "Question": " What are the storage facilities in your area? ",
+                    "Answer": " The storage facilities in my area are good."
+                },
+                {
+                    "Question": " What is the transportation facilities in your area? ",
+                    "Answer": " The transportation facilities in my area are good."
                 }
             ],
-            "Output": "The most likely diagnosis is a viral infection, such as the common cold. temp"
+            "Output": "The following is a suggested plan for growing crops in my area for a year: 1. Rice: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the crop. -Dry the crop. -Store the crop. -Sell the crop. 2. Wheat: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the crop. -Dry the crop. -Store the crop. -Sell the crop. 3. Pulses: -Prepare the land by plowing and harrowing. -Apply fertilizer and water the field. -Sow the seeds. -Thin the seedlings. -Transplant the seedlings. -Apply pesticide and water regularly. -Harvest the temp "
         }
     ],
     "Preset_link": "https://beta.openai.com/playground/p/GcuIIrje0yHDGTmrBCGSfXRW?model=text-davinci-002",

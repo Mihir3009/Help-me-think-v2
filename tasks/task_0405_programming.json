@@ -1,148 +1,148 @@
 {
     "Contributor": "liteng",
     "Domain": "Programming",
-    "Task": "write a paragraph about AI",
+    "Task": "Recommend deep learning model ",
     "Prompt": {
-        "pre_question_prompt": "I am an expert at artificial intelligence. I will ask some questions to collect information and then I will use the information to write a paragraph about how AI influence daily life.",
-        "task_specific_prompt": "write a paragraph about how AI influence daily life based on the above information."
+        "pre_question_prompt": "I am an expert at machine learning and deep learning. I will ask some questions to collect information and then I will use the information to recommend deep learning model to fit you work.",
+        "task_specific_prompt": "Can you introduce the model you recommend based on above information."
     },
     "Instances": [
         {
             "QApair": [
                 {
-                    "Question": "1. How do you think AI will influence daily life in the future?",
-                    "Answer": "Something bad and something good."
+                    "Question": "What type of data are you working with (images, text, numerical, etc)?",
+                    "Answer": "I am working with images."
                 },
                 {
-                    "Question": "2. Do you think AI will have a positive or negative impact on society?",
-                    "Answer": "Mostly positive, but we can not ignore the negative impact."
+                    "Question": "What are you trying to achieve with your machine learning model (classification, regression, etc)?",
+                    "Answer": "I am trying to achieve image segmentation."
                 },
                 {
-                    "Question": "3. What do you think are the benefits of AI?",
-                    "Answer": "Some benefits of AI are that it can help us automate repetitive tasks, it can help us make better decisions by analyzing data more efficiently, and it can help us interact with machines more seamlessly."
+                    "Question": "What kind of deep learning model would you recommend for this task?",
+                    "Answer": "I would recommend a transformer."
                 },
                 {
-                    "Question": "4. What do you think are the risks of AI?",
-                    "Answer": "Some risks of AI are that it could lead to mass unemployment as machines increasingly automate jobs, it could be used to manipulate and control people, and it could lead to a widening of the socioeconomic divide."
+                    "Question": "What are some of the benefits of using a transformer for image segmentation?",
+                    "Answer": "Some of the benefits of using a transformer for image segmentation include the ability to handle a large amount of data, the ability to learn from data with a variable number of input channels, and the ability to learn from data with a variable number of output channels."
                 },
                 {
-                    "Question": "5. What do you think AI will mean for the future of work?",
-                    "Answer": "AI will mean that many jobs that are currently done by human beings will be replaced by machines. This could lead to mass unemployment and a need for people to retrain for new jobs."
+                    "Question": "What are some of the drawbacks of using a transformer for image segmentation?",
+                    "Answer": "Some of the drawbacks of using a transformer for image segmentation include the need for a large amount of data to train the model, the need for a large amount of computing power, and the need for a large amount of time to train the model."
                 },
                 {
-                    "Question": "6. What do you think AI will mean for the future of humanity?",
-                    "Answer": "AI will mean that humanity will become more reliant on machines and less capable of independent thought and action. This could lead to us becoming controlled by machines or even extinct as a species."
+                    "Question": "Are there any other considerations you would recommend for this task?",
+                    "Answer": "The images with lots of noise. I would like a model can denoise."
                 },
                 {
-                    "Question": "7. What do you think are the ethical implications of AI?",
-                    "Answer": "Some ethical implications of AI are that it could be used to manipulate and control people, it could lead to mass unemployment, and it could widen the socioeconomic divide."
+                    "Question": "What kind of deep learning model would you recommend for this task?",
+                    "Answer": "I would recommend a denoising autoencoder."
                 },
                 {
-                    "Question": "8. What do you think are the legal implications of AI?",
-                    "Answer": "Some legal implications of AI are that it could be used to commit crimes, it could be used to violate people's privacy, and it could be used to create false evidence."
+                    "Question": "What are some of the benefits of using a denoising autoencoder for image segmentation?",
+                    "Answer": "Some of the benefits of using a denoising autoencoder for image segmentation include the ability to handle a large amount of data, the ability to learn from data with a variable number of input channels, and the ability to learn from data with a variable number of output channels."
                 },
                 {
-                    "Question": "9. What do you think are the social implications of AI?",
-                    "Answer": "Some social implications of AI are that it could lead to mass unemployment, it could widen the socioeconomic divide, and it could lead to the decline of human interaction."
+                    "Question": "What are some of the drawbacks of using a denoising autoencoder for image segmentation?",
+                    "Answer": "Some of the drawbacks of using a denoising autoencoder for image segmentation include the need for a large amount of data to train the model, the need for a large amount of computing power, and the need for a large amount of time to train the model."
                 },
                 {
-                    "Question": "10. What do you think are the political implications of AI?",
-                    "Answer": "Some political implications of AI are that it could be used to manipulate and control people, it could lead to mass unemployment, and it could widen the socioeconomic divide."
+                    "Question": "Are there any other considerations you would recommend for this task?",
+                    "Answer": "I would recommend using a denoising autoencoder with a large number of input channels and output channels."
                 }
             ],
-            "Output": "AI will increasingly influence daily life in the future as its capabilities continue to grow. It will have both positive and negative impacts on society, with the potential to automate repetitive tasks, make better decisions, and interact with machines more seamlessly on the one hand, and to lead to mass unemployment, manipulation and control of people, and a widening of the socioeconomic divide on the other. The implications of AI are wide-ranging and complex, and will need to be carefully considered as its influence grows."
+            "Output": "The transformer is a deep learning model that can be used for image segmentation. The transformer can handle a large amount of data and can learn from data with a variable number of input channels and output channels. The transformer can also learn from data with a variable number of output channels. The transformer also has a large number of parameters, which makes it a good choice for image segmentation."
         },
         {
             "QApair": [
                 {
-                    "Question": "1. What are some examples of how AI is used in daily life?",
-                    "Answer": "Some examples of how AI is used in daily life include personal assistants such as Siri and Alexa, as well as automated systems such as self-driving cars."
+                    "Question": "1. What is the size of your dataset?",
+                    "Answer": "The dataset is large(>10000 samples)"
                 },
                 {
-                    "Question": "2. What are some potential benefits of AI?",
-                    "Answer": "Auto driving make traffic more safe."
+                    "Question": "2. What is the type of data?",
+                    "Answer": "The data type is text data."
                 },
                 {
-                    "Question": "3. What are some potential risks of AI?",
-                    "Answer": "Risk like terminator. "
+                    "Question": "3. What is the task you want to accomplish?",
+                    "Answer": "I want to build a dialogue system."
                 },
                 {
-                    "Question": "4. How do you think AI will influence the future?",
-                    "Answer": "AI will destroy our life in the future."
+                    "Question": "4. Do you have any preference of model?",
+                    "Answer": "I want to use a model that can handle long-term dependencies."
                 },
                 {
-                    "Question": "5. What are your thoughts on AI?",
-                    "Answer": "I think AI is amazing and it definitely has the potential to help us in a lot of different ways. However, I also think it's important to be aware of the risks associated with AI and to make sure that we're regulating it properly."
+                    "Question": "5. Do you have any domain knowledge?",
+                    "Answer": "I have some domain knowledge."
                 },
                 {
-                    "Question": "6. Do you think AI is a good or bad thing?",
-                    "Answer": "I think AI is a bad thing."
+                    "Question": "6. What is the performance metric you care about?",
+                    "Answer": "I care about accuracy."
                 },
                 {
-                    "Question": "7. What are your concerns about AI?",
-                    "Answer": "I am concerned about the potential for AI to be used for harm, such as in autonomous weapons. I also worry about the potential for AI to be used to manipulate and control people."
+                    "Question": "7. Do you have any other information?",
+                    "Answer": "No."
                 },
                 {
-                    "Question": "8. What do you think should be done about AI?",
-                    "Answer": "I think AI should be regulated in order to prevent it from being used for harm."
+                    "Question": "8. Would you like me to recommend a model?",
+                    "Answer": "Yes."
                 },
                 {
-                    "Question": "9. Do you think AI is a threat to humanity?",
-                    "Answer": "I do think AI is a threat to humanity, because of the potential for it to be used for harm."
+                    "Question": "9. Would you like me to explain the rationale for the recommendation?",
+                    "Answer": "Yes."
                 },
                 {
-                    "Question": "10. What are your thoughts on the future of AI?",
-                    "Answer": "I think the future of AI is uncertain, but I worry that it could be used to harm humanity if we're not careful."
+                    "Question": "10. Would you like me to provide code for the recommendation?",
+                    "Answer": "No."
                 }
             ],
-            "Output": "AI has the potential to influence daily life in a number of ways. For example, personal assistants such as Siri and Alexa can make our lives more convenient by helping us with tasks such as setting alarms and sending reminders. Automated systems such as self-driving cars can also help to make our lives easier and more efficient. However, there are also some potential risks associated with AI. For instance, AI could be used to create autonomous weapons that could be used to harm people. Additionally, AI could be used to manipulate and control people, which could have a negative impact on society. Therefore, it is important to be aware of both the potential benefits and risks of AI in order to ensure that it is used in a safe and responsible manner."
+            "Output": "I recommend the use of a recurrent neural network (RNN) or a long short-term memory (LSTM) model. RNNs are a type of neural network that are well suited for handling sequential data, such as text data. LSTMs are a type of RNN that are designed to handle long-term dependencies, and are thus well suited for tasks such as building a dialogue system."
         },
         {
             "QApair": [
                 {
-                    "Question": "1.What are some ways that AI is used in daily life?",
-                    "Answer": "Some ways that AI is used in daily life include predictive text, GPS, and voice recognition."
+                    "Question": "1. What is the task that you would like to use machine learning or deep learning for?",
+                    "Answer": "Build an agent to play Texas Hold'em."
                 },
                 {
-                    "Question": "2. How has AI changed the way people live and work?",
-                    "Answer": "AI has changed the way people live and work by making tasks easier and more efficient. For example, predictive text and GPS make it easier to find information and get around. Voice recognition makes it easier to communicate with others."
+                    "Question": "2. What is the size and type of data that you will be using?",
+                    "Answer": "I will be using a dataset of past hands played in Texas Hold'em. The dataset will be about 10GB in size and will contain around 1 billion hands."
                 },
                 {
-                    "Question": "3. What challenges does AI pose for the future?",
-                    "Answer": "AI poses some challenges for the future, such as the potential for job loss and the need for ethical considerations."
+                    "Question": "3. What is the expected performance of the model?",
+                    "Answer": "I expect the model to be able to beat a professional human player."
                 },
                 {
-                    "Question": "4. What are some potential benefits of AI?",
-                    "Answer": "no benefits.."
+                    "Question": "4. What is the budget for this project?",
+                    "Answer": "I have a budget of $10 million."
                 },
                 {
-                    "Question": "5. Are there any negative aspects of AI?",
-                    "Answer": "There are some negative aspects of AI, such as the potential for job loss and the need for ethical considerations."
+                    "Question": "5. What is the timeline for this project?",
+                    "Answer": "I would like to have the project completed within 12 months."
                 },
                 {
-                    "Question": "6. What impact will AI have on society in the future?",
-                    "Answer": "It is likely that AI will continue to make tasks easier and more efficient but with more risk."
+                    "Question": "6. Are there any other constraints that we should be aware of?",
+                    "Answer": "No other constraints."
                 },
                 {
-                    "Question": "7. What are some ethical considerations that need to be taken into account when developing AI?",
-                    "Answer": "When developing AI, some ethical considerations that need to be taken into account include the impact of AI on society and the potential for job loss."
+                    "Question": "7. What kind of hardware do you have available for this project?",
+                    "Answer": "I have a GPU available for this project."
                 },
                 {
-                    "Question": "8. What are some potential dangers of AI?",
-                    "Answer": "Some potential dangers of AI include  potential for AI to be used for harm."
+                    "Question": "8. What kind of previous experience do you have with machine learning or deep learning?",
+                    "Answer": "I have some experience with machine learning and deep learning."
                 },
                 {
-                    "Question": "9. What are some ways to mitigate the potential dangers of AI?",
-                    "Answer": "Some ways to mitigate the potential dangers of AI include developing ethical guidelines for AI development and use, and increasing transparency around AI decision-making."
+                    "Question": "9. Do you have any existing code that you would like to use for this project?",
+                    "Answer": "No."
                 },
                 {
-                    "Question": "10. What are some possible future applications of AI?",
-                    "Answer": "Some possible future applications of AI include self-driving cars, medical diagnosis, and financial planning."
+                    "Question": "10. Would you like us to use a specific machine learning or deep learning framework?",
+                    "Answer": "No preference."
                 }
             ],
-            "Output": "AI has had a significant impact on daily life, making tasks easier and more efficient. However, AI poses some challenges for the future, such as the potential for job loss and the need for ethical considerations. Despite these challenges, the potential benefits of AI make it a technology worth pursuing."
+            "Output": "I recommend using a deep learning model for this project."
         }
     ],
-    "Preset_link": "https://beta.openai.com/playground/p/SN4StUomfZjUUXixFTLd8FdS?model=text-davinci-002",
-    "screenshot_link": "https://drive.google.com/drive/folders/1fuiGzcKnoUq1A-ZPU_1aAwvo72bD03Id?usp=sharing"
+    "Preset_link": "https://beta.openai.com/playground/p/KpEfTz2a7BOoGcRz9UOszE7x?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1-hHpqX_XHaYrZSE-RxrEpjWAOoe4u82D?usp=sharing"
 }
