@@ -308,6 +308,194 @@ File Name | Domain | Task
 `task_0320_event_management.json` | Event Management | Event Music Suggestions
 `task_0321_event_management.json` | Event Management | Event Task List Generator
 `task_0322_instructional_design.json` | Instructional Design | Course Title Generator
+`task_0323_history.json` | History | 1. Curriculum on Ancient Egypt
+`task_0324_history.json` | History | 2. Historical Japanese Cuisine
+`task_0325_history.json` | History | 3. Interesting War Trivia
+`task_0326_history.json` | History | 4. Historical Jeopardy Prep
+`task_0327_human_geography.json` | Human Geography | 1. Crash Course in Human Geography
+`task_0328_human_geography.json` | Human Geography | 2. Human Geography Research Resource Compiler
+`task_0329_human_geography.json` | Human Geography | 3. Influence of the Mongol Empire
+`task_0330_human_geography.json` | Human Geography | 4. Human Geo Sim game
+`task_0331_biomedical_science.json` | Biomedical Science | Diagnose your heart condition
+`task_0332_biomedical_science.json` | Biomedical Science | Diet plan
+`task_0333_biomedical_science.json` | Biomedical Science | Prescribe you medicines
+`task_0334_biomedical_science.json` | Biomedical Science | Suggest best ways to dispose your biomedical waste
+`task_0335_mathematics.json` | Mathematics | Generate a study plan
+`task_0336_mathematics.json` | Mathematics | Suggest a profession based on your mathematical knowledge
+`task_0337_mathematics.json` | Mathematics | Examine your geometric skills
+`task_0338_movies.json` | Movies | Suggest best suited cast for the movie based on plot
+`task_0339_movies.json` | Movies | Plan a budget and schedule for a movie
+`task_0340_manufacturing.json` | Manufacturing | Suggest best infrastructure for the manufacturing plant
+`task_0341_movies.json` | Movies | Suggest a promotional strategy for a movie
+`task_0342_movies.json` | Movies | Recommend movies based on user preferences
+`task_0343_manufacturing.json` | Manufacturing | Creaty safety rules and policies for manufacturing plant
+`task_0344_manufacturing.json` | Manufacturing | Possible violations the factory is liable for
+`task_0345_manufacturing.json` | Manufacturing | Strategies to beat competition 
+`task_0346_narrative.json` | narrative | writing an autobiography
+`task_0347_narrative.json` | Narrative | writing a narrative poem
+`task_0348_narrative.json` | Narrative | write a fictional story
+`task_0349_materials_science.json` | Materials Science | Material Suggestion
+`task_0350_materials_science.json` | Materials Science | Identify the substance
+`task_0351_narrative.json` | Narrative | write a linear narrative
+`task_0352_materials_science.json` | Materials Science | Determine the genuineness of the product
+`task_0353_materials_science.json` | Materials Science | Suggest material improvement
+`task_0354_broadcast_jouranlism.json` | Broadcast Jouranlism | 10-word News Headlines Generation
+`task_0355_broadcast_jouranlism.json` | Broadcast Jouranlism | News Script Generation
+`task_0356_broadcast_jouranlism.json` | Broadcast Jouranlism | Documentary Script Generation
+`task_0357_broadcast_jouranlism.json` | Broadcast Jouranlism | Movie Name Creation
+`task_0358_jouranlism.json` | Jouranlism | Time-travelling Journalism
+`task_0359_jouranlism.json` | Jouranlism | Book Back Cover Summary
+`task_0360_jouranlism.json` | Jouranlism | Book Review Generation
+`task_0361_jouranlism.json` | Jouranlism | Magazine Cover Suggestion
+`task_0362_networking.json` | networking | 
+`task_0363_publishing.json` | publishing | recommend for the publisher
+`task_0364_networking.json` | networking | 
+`task_0365_publishing.json` | publishing | generate the comment
+`task_0366_publishing.json` | publishing | generate the novel
+`task_0367_networking.json` | networking | 
+`task_0368_publishing.json` | publishing | gernerate a tutorial for NLP
+`task_0369_networking.json` | networking | build network
+`task_0370_pop_culture.json` | Pop culture | Guess a celebrity
+`task_0371_pop_culture.json` | Pop culture | Modify the lyrics of a song
+`task_0372_pop_culture.json` | Pop culture | Write the wiki for the subject.
+`task_0373_pop_culture.json` | Pop culture | Write a movie plot.
+`task_0374_programming.json` | Programming | write a paragraph about AI
+`task_0375_programming.json` | Programming | Recommend deep learning model 
+`task_0376_programming.json` | Programming | Write program by python
+`task_0377_programming.json` | Programming | Recommend a language
+`task_0378_nutrition.json` | Nutrition | Weekly diet and Excersie plan based on person's current routine
+`task_0379_nutrition.json` | Nutrition | Researcher doing his research in Nutrition implications on Humans
+`task_0380_nutrition.json` | Nutrition | WHO meeting on nutrition and hunger in different countries.
+`task_0381_nutrition.json` | Nutrition | Humans on Mars
+`task_0382_mechanical_engineering.json` | Mechanical Engineering | Building the Fastest Car: Tarzen
+`task_0383_mechanical_engineering.json` | Mechanical Engineering | Build a Quadcopter
+`task_0384_mechanical_engineering.json` | Mechanical Engineering | Building an army robot.
+`task_0385_mechanical_engineering.json` | Mechanical Engineering | Building an commercial jet plane
+`task_0386_car_service.json` | Car service | Find the best fit car service for you
+`task_0387_car_service.json` | Car service | Which upgrades should I buy for my car
+`task_0388_car_service.json` | Car service | Write an advertisement for a new car service company.
+`task_0389_car_service.json` | Car service | Find the insurance policy that satisfies your need without spending too much money.
+`task_0390_vaccine.json` | Vaccine | Encourage everyone to get vaccinated
+`task_0391_vaccine.json` | Vaccine | Write a tragedy about a couple who did not get vaccinated to warn people the risk of not getting vaccinated.
+`task_0392_vaccine.json` | Vaccine | Elaborate the conspiracy theory of vaccine
+`task_0393_vaccine.json` | Vaccine | Persuade poeple not to get vaccinated
+`task_0315_instructional_design.json` | Instructional Design | Course Duration Suggestor
+`task_0316_event_management.json` | Event Management | Event Budget Estimator
+`task_0317_instructional_design.json` | Instructional Design | Course Summary Generator
+`task_0318_event_management.json` | Event Management | Event Theme Suggestions
+`task_0319_instructional_design.json` | Instructional Design | Course Rating Generator
+`task_0320_event_management.json` | Event Management | Event Music Suggestions
+`task_0321_event_management.json` | Event Management | Event Task List Generator
+`task_0322_instructional_design.json` | Instructional Design | Course Title Generator
+`task_0323_literature.json` | Literature | Book Sugesster
+`task_0324_international_relations.json` | International Relations | International Travel Information Drafter
+`task_0325_international_relations.json` | International Relations | International Relations Information Provider
+`task_0326_international_relations.json` | International Relations | International Travel Recommender
+`task_0327_international_relations.json` | International Relations | Model United Nations Country Recommendor
+`task_0328_literature.json` | Literature | Poem Generator
+`task_0329_literature.json` | Literature | Poem Sugesstor
+`task_0330_literature.json` | Literature | Story Generator
+`task_0331_audio_engineering.json` | Audio Engineering | AI and Audio Engineering
+`task_0332_audio_engineering.json` | Audio Engineering | Pattern recognition OF Audio
+`task_0333_audio_engineering.json` | Audio Engineering | Spatial Audio
+`task_0334_audio_engineering.json` | Audio Engineering | Sound Reinforcement Systems Based on Digital Technology
+`task_0335_knowledge_base.json` | Knowledge Base | Brand promos
+`task_0336_knowledge_base.json` | Knowledge Base | to create a Knowledge Base for a Library
+`task_0337_knowledge_base.json` | Knowledge Base | Medical
+`task_0338_knowledge_base.json` | Knowledge Base | NASA
+`task_0339_history.json` | History | 1. Curriculum on Ancient Egypt
+`task_0340_history.json` | History | 2. Historical Japanese Cuisine
+`task_0341_history.json` | History | 3. Interesting War Trivia
+`task_0342_history.json` | History | 4. Historical Jeopardy Prep
+`task_0343_human_geography.json` | Human Geography | 1. Crash Course in Human Geography
+`task_0344_human_geography.json` | Human Geography | 2. Human Geography Research Resource Compiler
+`task_0345_human_geography.json` | Human Geography | 3. Influence of the Mongol Empire
+`task_0346_human_geography.json` | Human Geography | 4. Human Geo Sim game
+`task_0347_biomedical_science.json` | Biomedical Science | Diagnose your heart condition
+`task_0348_biomedical_science.json` | Biomedical Science | Diet plan
+`task_0349_biomedical_science.json` | Biomedical Science | Prescribe you medicines
+`task_0350_biomedical_science.json` | Biomedical Science | Suggest best ways to dispose your biomedical waste
+`task_0351_mathematics.json` | Mathematics | Generate a study plan
+`task_0352_mathematics.json` | Mathematics | Suggest a profession based on your mathematical knowledge
+`task_0353_mathematics.json` | Mathematics | Examine your geometric skills
+`task_0354_basketball_-_essay_aid..json` | Basketball - Essay Aid. | Writing essay for the user that is suited to them by using the answers they gave to some questions asked before the essay was written.
+`task_0355_basketball.json` | Basketball | Generate a Poem for the client on the topic of basketball
+`task_0356_basketball_quiz_generation.json` | Basketball Quiz Generation | To see how well people who call themselves basketball enthusiasts fare in their favorite sport related quiz.
+`task_0357_basketball_team_cheerleading_song_generation.json` | Basketball team cheerleading song generation | Cheerleading song generation for basketball team for a school
+`task_0358_marketing_-_ai_powered_interactive_marking_aid.json` | Marketing - AI Powered Interactive Marking Aid | Coming up with marketing strategies for businesses that are tailored to their needs.
+`task_0359_marketing.json` | Marketing | Generate a catchphrase for the client based on their answers to certain questions.
+`task_0360_marketing.json` | Marketing | Generate a marketing quiz for testing the skills of people in the field of marketing.
+`task_0361_movies.json` | Movies | Suggest best suited cast for the movie based on plot
+`task_0362_movies.json` | Movies | Plan a budget and schedule for a movie
+`task_0363_manufacturing.json` | Manufacturing | Suggest best infrastructure for the manufacturing plant
+`task_0364_movies.json` | Movies | Suggest a promotional strategy for a movie
+`task_0365_movies.json` | Movies | Recommend movies based on user preferences
+`task_0366_manufacturing.json` | Manufacturing | Creaty safety rules and policies for manufacturing plant
+`task_0367_manufacturing.json` | Manufacturing | Possible violations the factory is liable for
+`task_0368_manufacturing.json` | Manufacturing | Strategies to beat competition 
+`task_0369_narrative.json` | narrative | writing an autobiography
+`task_0370_narrative.json` | Narrative | writing a narrative poem
+`task_0371_narrative.json` | Narrative | write a fictional story
+`task_0372_materials_science.json` | Materials Science | Material Suggestion
+`task_0373_materials_science.json` | Materials Science | Identify the substance
+`task_0374_narrative.json` | Narrative | write a linear narrative
+`task_0375_materials_science.json` | Materials Science | Determine the genuineness of the product
+`task_0376_materials_science.json` | Materials Science | Suggest material improvement
+`task_0377_broadcast_jouranlism.json` | Broadcast Jouranlism | 10-word News Headlines Generation
+`task_0378_broadcast_jouranlism.json` | Broadcast Jouranlism | News Script Generation
+`task_0379_broadcast_jouranlism.json` | Broadcast Jouranlism | Documentary Script Generation
+`task_0380_broadcast_jouranlism.json` | Broadcast Jouranlism | Movie Name Creation
+`task_0381_jouranlism.json` | Jouranlism | Time-travelling Journalism
+`task_0382_jouranlism.json` | Jouranlism | Book Back Cover Summary
+`task_0383_jouranlism.json` | Jouranlism | Book Review Generation
+`task_0384_jouranlism.json` | Jouranlism | Magazine Cover Suggestion
+`task_0385_networking.json` | networking | 
+`task_0386_publishing.json` | publishing | recommend for the publisher
+`task_0387_networking.json` | networking | 
+`task_0388_publishing.json` | publishing | generate the comment
+`task_0389_publishing.json` | publishing | generate the novel
+`task_0390_networking.json` | networking | 
+`task_0391_publishing.json` | publishing | gernerate a tutorial for NLP
+`task_0392_networking.json` | networking | build network
+`task_0393_physics.json` | Physics | Generate Lab Instructions
+`task_0394_physics.json` | Physics | Generate Physics Study Guide
+`task_0395_physics.json` | Physics | Tell a Physics Story
+`task_0396_hardware.json` | Hardware | Generate Custom Computer Parts
+`task_0397_hardware.json` | Hardware | Mechanical Keyboard Recommendation
+`task_0398_hardware.json` | Hardware | Fix my computer
+`task_0399_hardware.json` | Hardware | Generate Hardware Guides
+`task_0400_pop_culture.json` | Pop culture | Guess a celebrity
+`task_0401_pop_culture.json` | Pop culture | Modify the lyrics of a song
+`task_0402_pop_culture.json` | Pop culture | Write the wiki for the subject.
+`task_0403_pop_culture.json` | Pop culture | Write a movie plot.
+`task_0404_programming.json` | Programming | write a paragraph about AI
+`task_0405_programming.json` | Programming | Recommend deep learning model 
+`task_0406_programming.json` | Programming | Write program by python
+`task_0407_programming.json` | Programming | Recommend a language
+`task_0408_nutrition.json` | Nutrition | Weekly diet and Excersie plan based on person's current routine
+`task_0409_nutrition.json` | Nutrition | Researcher doing his research in Nutrition implications on Humans
+`task_0410_nutrition.json` | Nutrition | WHO meeting on nutrition and hunger in different countries.
+`task_0411_nutrition.json` | Nutrition | Humans on Mars
+`task_0412_mechanical_engineering.json` | Mechanical Engineering | Building the Fastest Car: Tarzen
+`task_0413_mechanical_engineering.json` | Mechanical Engineering | Build a Quadcopter
+`task_0414_mechanical_engineering.json` | Mechanical Engineering | Building an army robot.
+`task_0415_mechanical_engineering.json` | Mechanical Engineering | Building an commercial jet plane
+`task_0416_car_service.json` | Car service | Find the best fit car service for you
+`task_0417_car_service.json` | Car service | Which upgrades should I buy for my car
+`task_0418_car_service.json` | Car service | Write an advertisement for a new car service company.
+`task_0419_car_service.json` | Car service | Find the insurance policy that satisfies your need without spending too much money.
+`task_0420_vaccine.json` | Vaccine | Encourage everyone to get vaccinated
+`task_0421_vaccine.json` | Vaccine | Write a tragedy about a couple who did not get vaccinated to warn people the risk of not getting vaccinated.
+`task_0422_vaccine.json` | Vaccine | Elaborate the conspiracy theory of vaccine
+`task_0423_vaccine.json` | Vaccine | Persuade poeple not to get vaccinated
+`task_0315_instructional_design.json` | Instructional Design | Course Duration Suggestor
+`task_0316_event_management.json` | Event Management | Event Budget Estimator
+`task_0317_instructional_design.json` | Instructional Design | Course Summary Generator
+`task_0318_event_management.json` | Event Management | Event Theme Suggestions
+`task_0319_instructional_design.json` | Instructional Design | Course Rating Generator
+`task_0320_event_management.json` | Event Management | Event Music Suggestions
+`task_0321_event_management.json` | Event Management | Event Task List Generator
+`task_0322_instructional_design.json` | Instructional Design | Course Title Generator
 `task_0323_literature.json` | Literature | Book Sugesster
 `task_0324_international_relations.json` | International Relations | International Travel Information Drafter
 `task_0325_international_relations.json` | International Relations | International Relations Information Provider
