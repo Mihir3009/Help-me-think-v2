@@ -532,14 +532,6 @@ File Name | Domain | Task
 `task_0579_volcano.json` | Volcano | explaining the formation of a volcano
 `task_0580_volcano.json` | Volcano | predicting volcanic activity
 `task_0581_volcano.json` | Volcano | writing geological reports
-`task_0582_policy.json` | Policy | Generate education policy for city
-`task_0583_policy.json` | Policy | Judge the quality of insurance policy
-`task_0584_policy.json` | Policy | Personlized investment policy recommendation
-`task_0585_policy.json` | Policy | Write a compliance policy
-`task_0586_astronomy.json` | Astronomy | Generate Syllabus for astronomy class
-`task_0587_astronomy.json` | Astronomy | Determine the constellation
-`task_0588_astronomy.json` | Astronomy | Strategy to stargaze
-`task_0589_astronomy.json` | Astronomy | Suggest a telescope model
 `task_0590_language.json` | Language | To work as a transcriber.
 `task_0591_language.json` | Language | To work as a transcriber.
 `task_0592_language.json` | Language | suggest students to choose a foreign language as a second language.
