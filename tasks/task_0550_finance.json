@@ -1,0 +1,180 @@
+{
+    "Contributor": "chelenahallisatishmanthan",
+    "Domain": "Finance",
+    "Task": "Predicting a stock price",
+    "Prompt": {
+        "pre_question_prompt": "I am a financial expert. I will ask some questions to collect information related to the performance history of a stock and then I will use the information to predict the stock price for the next year.",
+        "task_specific_prompt": "Based on the Information above, what will be the stock price in 2021? If an investor had invested $10,000 in the company's stock in 2015, what will be his present stock value?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What was the stock price of Company XYZ on January 1st, 2010?",
+                    "Answer": "Company XYZ's stock price on January 1st, 2010 was $24.66."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2010?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2010 was $28.92."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2011?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2011 was $27.08."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2012?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2012 was $40.32."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2013?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2013 was $48.16."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2014?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2014 was $57.60."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2015?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2015 was $49.80."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2016?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2016 was $57.92."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2017?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2017 was $68.80."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2018?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2018 was $76.64."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2019?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2019 was $75.56."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2020?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2020 was $79.88."
+                }
+            ],
+            "Output": "I predict that the stock price of Company XYZ in 2021 will be $85.76. The present value of the stock would be $16,752."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the stock price of Company XYZ on January 1st, 2010?",
+                    "Answer": "Company XYZ's stock price on January 1st, 2010 was $0.66."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2010?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2010 was $1.92."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2011?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2011 was $29.08."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2012?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2012 was $60.32."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2013?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2013 was $80.16."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2014?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2014 was $92.60."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2015?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2015 was $100.12."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2016?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2016 was $163.45."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2017?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2017 was $92.34 because of the financial recession."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2018?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2018 was $134.53."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2019?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2019 was $192.46"
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2020?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2020 was $190.64."
+                }
+            ],
+            "Output": "The stock price will be $218.73 in 2021. The present stock value for an investor who had invested $10,000 in the company's stock in 2015 would be $16,873."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the stock price of Company XYZ on January 1st, 2010?",
+                    "Answer": "Company XYZ's stock price on January 1st, 2010 was $123."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2010?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2010 was $124."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2011?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2011 was $100."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2012?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2012 was $20."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2013?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2013 was $30."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2014?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2014 was $25."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2015?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2015 was $50."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2016?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2016 was $35."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2017?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2017 was $30."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2018?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2018 was $25."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2019?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2019 was $20"
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2020?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2020 was $15."
+                }
+            ],
+            "Output": "I predict that the stock price of Company XYZ in 2021 will be $10. The present stock value of an investor who invested $10,000 in the company's stock in 2015 would be $2,500."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/qhWKkzJy2PZJUpZGswPvRZ2R?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jNBo0K04mOculRW0JkfDIrmO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TyQh6lKPxihKLVUqOUWv6koT?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1E5AUa8mfZfiB5K1ucX_r-20YwLX6mICa/view?usp=sharing",
+        "https://drive.google.com/file/d/1rtxU-zBrRFiW-yoAAItf7cdVnpxtcFGk/view?usp=sharing",
+        "https://drive.google.com/file/d/1lq6E-v9Vbt5mk1yaZunqTGSKp7yMPx94/view?usp=sharing"
+    ]
+}

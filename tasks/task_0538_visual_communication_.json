@@ -1,0 +1,164 @@
+{
+    "Contributor": "dinakarshreyaa",
+    "Domain": "Visual communication ",
+    "Task": "Interpreting the meaning of an art work",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert art interpreter. I will ask some questions to collect information and then I will use the information to interpret art.",
+        "task_specific_prompt": "Write the art description using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the title of the artwork?",
+                    "Answer": "The Scream by Edvard Munch."
+                },
+                {
+                    "Question": "What is the name of the artist?",
+                    "Answer": "Edvard Munch."
+                },
+                {
+                    "Question": "When was the artwork created?",
+                    "Answer": "The artwork was created in 1893."
+                },
+                {
+                    "Question": "What is the medium of the artwork?",
+                    "Answer": "The medium of the artwork is painting."
+                },
+                {
+                    "Question": "What is the size of the artwork?",
+                    "Answer": "The size of the artwork is 24 inches by 36 inches."
+                },
+                {
+                    "Question": "What is the color scheme of the artwork?",
+                    "Answer": "The color scheme of the artwork is black, white, and red."
+                },
+                {
+                    "Question": "What is the subject matter of the artwork?",
+                    "Answer": "The subject matter of the artwork is a man screaming."
+                },
+                {
+                    "Question": "What is the symbolic meaning of the artwork?",
+                    "Answer": "The symbolic meaning of the artwork is the artist's expression of his own mental anguish."
+                },
+                {
+                    "Question": "What is the historical context of the artwork?",
+                    "Answer": "The historical context of the artwork is that it was created during the time period known as the ' fin de si\u00e8cle,' which was a time of great anxiety and uncertainty."
+                },
+                {
+                    "Question": "What is the cultural context of the artwork?",
+                    "Answer": "The cultural context of the artwork is that it is a product of the Western world's engagement with the ideas of psychoanalysis."
+                },
+                {
+                    "Question": "What is the artist's intention for the artwork?",
+                    "Answer": "The artist's intention for the artwork is to express his own inner turmoil."
+                }
+            ],
+            "Output": "'The Scream' is a painting by Edvard Munch. It was created in 1893 and is a 24 inches by 36 inches painting. The color scheme is black, white, and red. The subject matter is a man screaming. The symbolic meaning of the painting is the artist's expression of his own mental anguish. The historical context of the painting is that it was created during the time period known as the  fin de si\u00e8cle, which was a time of great anxiety and uncertainty. The cultural context of the painting is that it is a product of the Western world's engagement with the ideas of psychoanalysis. The artist's intention for the painting is to express his own inner turmoil."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the title of the artwork?",
+                    "Answer": "The title of the artwork is 'Starry Night'."
+                },
+                {
+                    "Question": "What is the name of the artist?",
+                    "Answer": "The artist is named Vincent van Gogh."
+                },
+                {
+                    "Question": "When was the artwork created?",
+                    "Answer": "The artwork was created in June 1889."
+                },
+                {
+                    "Question": "What is the medium of the artwork?",
+                    "Answer": "The medium used is oil on canvas."
+                },
+                {
+                    "Question": "What is the size of the artwork?",
+                    "Answer": "The size of the artwork is 29.01 inches by 36.26 inches."
+                },
+                {
+                    "Question": "What is the color scheme of the artwork?",
+                    "Answer": "The color scheme used in his the artwork is deep blues and yellows with a light scatter of green."
+                },
+                {
+                    "Question": "What is the subject matter of the artwork?",
+                    "Answer": "The subject matter of the artwork is the sky which comprises of a moon, stars, and the breeze."
+                },
+                {
+                    "Question": "What is the artist's intent with this artwork?",
+                    "Answer": "The artist's intent with this artwork is to create a beautiful and calming image of the night sky."
+                },
+                {
+                    "Question": "What is the mood of the artwork?",
+                    "Answer": "The mood of the artwork is serene and peaceful."
+                },
+                {
+                    "Question": "What elements of design are used in the artwork?",
+                    "Answer": "The elements of design used in the artwork are color, shape, and line."
+                },
+                {
+                    "Question": "What principles of design are used in the artwork?",
+                    "Answer": "The principles of design used in the artwork are balance and movement."
+                },
+                {
+                    "Question": "What do you think is the most important element in the artwork?",
+                    "Answer": "I believe that the most important element in the artwork is the visual sensation of light that gives us a touch of nature."
+                }
+            ],
+            "Output": "This artwork is called 'Starry Night' and is a painting by Vincent van Gogh. The artwork was created in June 1889 and is an oil on canvas. The size of the artwork is 29.01 inches by 36.26 inches. The color scheme used in his the artwork is deep blues and yellows with a light scatter of green. The subject matter of the artwork is the sky which comprises of a moon, stars, and the breeze. The artist's intent with this artwork is to create a beautiful and calming image of the night sky. The mood of the artwork is serene and peaceful. The elements of design used in the artwork are color, shape, and line. The principles of design used in the artwork are balance and movement. I believe that the most important element in the artwork is the visual sensation of light that gives us a touch of nature."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the title of the artwork?",
+                    "Answer": "The title of the artwork is 'Ethnicities'."
+                },
+                {
+                    "Question": "What is the name of the artist?",
+                    "Answer": "The artist's name is Eduardo Kobra."
+                },
+                {
+                    "Question": "When was the artwork completed?",
+                    "Answer": "The artwork was completed right before the 2016 Olympics Games."
+                },
+                {
+                    "Question": "What is the medium of the artwork?",
+                    "Answer": "The medium used is spray paint."
+                },
+                {
+                    "Question": "What is the size of the artwork?",
+                    "Answer": "The size of the artwork is 190 meters by 15.5 meters."
+                },
+                {
+                    "Question": "What is the subject matter of the artwork?",
+                    "Answer": "The artwork depicts five different ethnicities."
+                },
+                {
+                    "Question": "What is the symbolism of the artwork?",
+                    "Answer": "The artwork is meant to show the unity of different cultures."
+                },
+                {
+                    "Question": "What is the message of the artwork?",
+                    "Answer": "The message of the artwork is that we are all one."
+                },
+                {
+                    "Question": "What is the mood of the artwork?",
+                    "Answer": "The mood of the artwork is hopeful."
+                },
+                {
+                    "Question": "What is the tone of the artwork?",
+                    "Answer": "The tone of the artwork is positive."
+                }
+            ],
+            "Output": "This artwork is called 'Ethnicities' and it was created by Brazilian artist Eduardo Kobra. The artwork was completed right before the 2016 Olympics Games and it is made with spray paint. The size of the artwork is 190 meters by 15.5 meters. The subject matter of the artwork is five different ethnicities. The symbolism of the artwork is the unity of different cultures. The message of the artwork is that we are all one. The mood of the artwork is hopeful and the tone is positive."
+        }
+    ],
+    "Preset_link": [
+        " https://beta.openai.com/playground/p/BTRXYnkQ9qQEsgEzmc6uspU1?model=text-davinci-002 ",
+        " https://beta.openai.com/playground/p/gAYqTew0m834JhlWKzY3WfPO?model=text-davinci-002 ",
+        "https://beta.openai.com/playground/p/JpmxDobRh3Y5LGNmQ8vPDG0O?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/u/1/folders/1LEYcr1ioAMoWn21AGoU3ed5X52GX6LJa"
+}

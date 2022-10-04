@@ -1,0 +1,172 @@
+{
+    "Contributor": "chelenahallisatishmanthan",
+    "Domain": "Finance",
+    "Task": "Using Political funds",
+    "Prompt": {
+        "pre_question_prompt": "I am a financial expert. I will ask some questions to collect information related to the spending of a political party and then I will use the information to advise the spending information for the next election.",
+        "task_specific_prompt": "Write a detailed note on how the political party should spend its money in the next election based on the next election without getting into debt."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "Question:How much money did the political party spend on advertising during the last election?",
+                    "Answer": "The political party spent $10.5 million on advertising during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on campaign workers during the last election?",
+                    "Answer": "The political party spent $24.5 million on campaign workers during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on travel during the last election?",
+                    "Answer": "The political party spent $5.1 million on travel during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on fundraising during the last election?",
+                    "Answer": "The political party spent $2.3 million on fundraising during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on office expenses during the last election?",
+                    "Answer": "The political party spent $9.2 million on office expenses during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on other expenses during the last election?",
+                    "Answer": "The political party spent $1 million on other expenses during the last election."
+                },
+                {
+                    "Question": "What was the total amount of money spent by the political party during the last election?",
+                    "Answer": "The political party spent $52 million during the last election."
+                },
+                {
+                    "Question": "How much money did the political party raise during the last election?",
+                    "Answer": "The political party raised $72 million during the last election."
+                },
+                {
+                    "Question": "How much debt did the political party incur during the last election?",
+                    "Answer": "The political party incurred $2 million in debt during the last election."
+                },
+                {
+                    "Question": "How much cash on hand does the political party have?",
+                    "Answer": "The political party has $14 million in cash on hand."
+                },
+                {
+                    "Question": "What is the total amount of money the political party has available to spend on the next election?",
+                    "Answer": "The political party has $90 million available to spend on the next election."
+                }
+            ],
+            "Output": "The political party should spend its money in the next election based on the following: -Advertising: The party should spend $7 million on advertising. This will allow the party to reach more voters and get its message out. -Campaign workers: The party should spend $22 million on campaign workers. This will ensure that the party has a strong ground game and can reach voters where they are. -Travel: The party should spend $4 million on travel. This will allow the party to reach more voters in different parts of the country. -Fundraising: The party should spend $3 million on fundraising. This will allow the party to raise more money and ensure that it has the resources it needs to win."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "Question:How much money did the political party spend on advertising during the last election?",
+                    "Answer": "The political party spent $10.5 million on advertising during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on campaign workers during the last election?",
+                    "Answer": "The political party spent $24.5 million on campaign workers during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on travel during the last election?",
+                    "Answer": "The political party spent $5.1 million on travel during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on fundraising during the last election?",
+                    "Answer": "The political party spent $2.3 million on fundraising during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on office expenses during the last election?",
+                    "Answer": "The political party spent $9.2 million on office expenses during the last election."
+                },
+                {
+                    "Question": "How much money did the political party spend on other expenses during the last election?",
+                    "Answer": "The political party spent $1 million on other expenses during the last election."
+                },
+                {
+                    "Question": "What was the total amount of money spent by the political party during the last election?",
+                    "Answer": "The political party spent $100 million during the last election."
+                },
+                {
+                    "Question": "How much money did the political party raise during the last election?",
+                    "Answer": "The political party raised $72 million during the last election."
+                },
+                {
+                    "Question": "How much debt did the political party incur during the last election?",
+                    "Answer": "The political party incurred $2 million in debt during the last election."
+                },
+                {
+                    "Question": "How much cash on hand does the political party have?",
+                    "Answer": "The political party has $11 million in cash on hand."
+                },
+                {
+                    "Question": "What is the total amount of money the political party has available to spend on the next election?",
+                    "Answer": "The political party has $20 million available to spend on the next election."
+                }
+            ],
+            "Output": "The political party should spend its money in the next election based on the following: -The party should spend $10.5 million on advertising. -The party should spend $24.5 million on campaign workers. -The party should spend $5.1 million on travel. -The party should spend $2.3 million on fundraising. -The party should spend $9.2 million on office expenses. -The party should spend $1 million on other expenses. -The party should spend $28 million on debt repayment. -The party should have $11 million in cash on hand."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What was the stock price of Company XYZ on January 1st, 2010?",
+                    "Answer": "Company XYZ's stock price on January 1st, 2010 was $123."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2010?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2010 was $124."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2011?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2011 was $100."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2012?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2012 was $20."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2013?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2013 was $30."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2014?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2014 was $25."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2015?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2015 was $50."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2016?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2016 was $35."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2017?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2017 was $30."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2018?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2018 was $25."
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2019?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2019 was $20"
+                },
+                {
+                    "Question": "What was the stock price of Company XYZ on December 31st, 2020?",
+                    "Answer": "Company XYZ's stock price on December 31st, 2020 was $15."
+                }
+            ],
+            "Output": "The political party should focus on advertising and campaign workers for the next election. The party should spend $10 million on advertising and $24 million on campaign workers. The party should also focus on fundraising and office expenses. The party should spend $2.5 million on fundraising and $9.2 million on office expenses. The party should also continue to focus on travel expenses. The party should spend $5.1 million on travel expenses."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/ggiZxqZjeTJ3rTuOcpBEZAcy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ggiZxqZjeTJ3rTuOcpBEZAcy?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9k7DXPl2imJ4Q1UXfpSspyY3?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1vcV49zVpc31qO2oh2lBaAFJdXDC5ihuM/view?usp=sharing",
+        "https://drive.google.com/file/d/1vnfPF0ldDewt9lF46h1bElpBXco2Lycf/view?usp=sharing",
+        "https://drive.google.com/file/d/1z6y45hrijNfiYs1EkSKd4yZtuVxxwt7I/view?usp=sharing"
+    ]
+}

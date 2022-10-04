@@ -1,0 +1,152 @@
+{
+    "Contributor": "ayushanand",
+    "Domain": "Video Game Design",
+    "Task": "new_mario_game_creation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in creating a new mario game. I will ask some questions to collect information and then I will use the information to create a new mario game.",
+        "task_specific_prompt": "Create a new mario game using the questions and answers above. Give a new name and a summary for the game."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to create?",
+                    "Answer": "I want to create a new Mario game."
+                },
+                {
+                    "Question": "What is your favorite Mario game?",
+                    "Answer": "Super Mario Bros. 3 is my favorite Mario game."
+                },
+                {
+                    "Question": "What are your favorite features of Mario games?",
+                    "Answer": "I like the challenges, the adventure, and the exploration."
+                },
+                {
+                    "Question": "What would you like to see in a new Mario game?",
+                    "Answer": "I would like to see more challenges, more adventure, and more exploration."
+                },
+                {
+                    "Question": "Do you have any ideas for new gameplay features?",
+                    "Answer": "I think it would be cool if there were more secrets to discover, and if the game had more of an emphasis on exploration."
+                },
+                {
+                    "Question": "What setting would you like to see in a new Mario game?",
+                    "Answer": "I would like to see a new Mario game set in the Mushroom Kingdom."
+                },
+                {
+                    "Question": "What new challenges would you like to see in a new Mario game?",
+                    "Answer": "I would like to see more difficult challenges, such as more difficult puzzles to solve and more difficult platforming sections."
+                },
+                {
+                    "Question": "What new enemies would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new enemies that are more difficult to defeat, such as stronger versions of existing enemies or entirely new enemy types."
+                },
+                {
+                    "Question": "What new items would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new items that can help Mario in his quest, such as items that give him new abilities or make him stronger."
+                },
+                {
+                    "Question": "What new bosses would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new bosses that are more difficult to defeat, such as stronger versions of existing bosses or entirely new boss types."
+                }
+            ],
+            "Output": "The new Mario game would be called 'Super Mario Bros. 4' and would feature more difficult challenges, new enemies, new bosses, and new items. The game would be set in the Mushroom Kingdom and would focus on exploration."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to create?",
+                    "Answer": "I want to create a new Mario game."
+                },
+                {
+                    "Question": "What is your favorite Mario game?",
+                    "Answer": "Smash Bros is my favorite Mario game."
+                },
+                {
+                    "Question": "What are your favorite features of Mario games?",
+                    "Answer": "I like the challenges, the adventure, and the fighting."
+                },
+                {
+                    "Question": "What would you like to see in a new Mario game?",
+                    "Answer": "I would like to see more new characters."
+                },
+                {
+                    "Question": "Do you have any ideas for new gameplay features?",
+                    "Answer": "I think it would be fun if Mario had a sword."
+                },
+                {
+                    "Question": "What setting would you like to see in a new Mario game?",
+                    "Answer": "I would like to see a new Mario game set in the real world."
+                },
+                {
+                    "Question": "What new challenges would you like to see in a new Mario game?",
+                    "Answer": "I would like to see more difficult combat with stronger enemies."
+                },
+                {
+                    "Question": "What new enemies would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new enemies that are more difficult to defeat, such as stronger versions of existing enemies or entirely new enemy types."
+                },
+                {
+                    "Question": "What new items would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new items that can help Mario in his quest, such as items that give him new abilities or make him stronger. Maybe even different types of weapons."
+                },
+                {
+                    "Question": "What new bosses would you like to see in a new Mario game?",
+                    "Answer": "I would like to see an evil Mario."
+                }
+            ],
+            "Output": "The new Mario game would be called Mario: The Quest for Power. In this game, Mario must adventure through the real world to find powerful items that will help him defeat an evil version of himself. Along the way, he will face new and more difficult enemies, as well as challenging bosses."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of game do you want to create?",
+                    "Answer": "I want to create a new Mario game."
+                },
+                {
+                    "Question": "What is your favorite Mario game?",
+                    "Answer": "I have no favorite Mario game."
+                },
+                {
+                    "Question": "What are your favorite features of Mario games?",
+                    "Answer": "I like the story."
+                },
+                {
+                    "Question": "What would you like to see in a new Mario game?",
+                    "Answer": "I would like to see more exploration."
+                },
+                {
+                    "Question": "Do you have any ideas for new gameplay features?",
+                    "Answer": "I think it would be fun if Mario just explored."
+                },
+                {
+                    "Question": "What setting would you like to see in a new Mario game?",
+                    "Answer": "I would like to see a new Mario game set in the Mushroom Kingdom."
+                },
+                {
+                    "Question": "What new challenges would you like to see in a new Mario game?",
+                    "Answer": "I would like to see easier challenges in a new Mario game."
+                },
+                {
+                    "Question": "What new enemies would you like to see in a new Mario game?",
+                    "Answer": "I would like to see no new enemies in a new Mario game."
+                },
+                {
+                    "Question": "What new items would you like to see in a new Mario game?",
+                    "Answer": "I would like to see new items that can help Mario explore peacefully."
+                },
+                {
+                    "Question": "What new bosses would you like to see in a new Mario game?",
+                    "Answer": "I would like to see no new bosses."
+                }
+            ],
+            "Output": "The new Mario game will be called Mario Explorer. The game will be about Mario exploring the real world and finding new items to help him explore. There will be no new enemies or bosses, but there will be new challenges."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/h3LLEVmVP9vuGVfpYURpWpsI?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/4LxRmgSrv0m9nsr49g5lC6zn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ziBXRHR6prXs9V6BK68rPDQi?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1dspjUr22drm20Y18Bme0uWDGGcSULg1G?usp=sharing"
+}

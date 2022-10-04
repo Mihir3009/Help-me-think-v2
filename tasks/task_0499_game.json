@@ -1,0 +1,172 @@
+{
+    "Contributor": "gunnreddyvarunkumarreddy",
+    "Domain": "Game",
+    "Task": "suggest games based on a specific genre.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert  gamer. I will ask some questions to collect information and then I will use the information to suggest games based on a specific genre.",
+        "task_specific_prompt": "Suggest games using the questions and answers above. Also explain why games are suggested."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of games do you like to play?",
+                    "Answer": "I like to play games that are fast-paced and have a lot of action."
+                },
+                {
+                    "Question": "What is your favorite game?",
+                    "Answer": "My favorite game is Call of Duty: Modern Warfare."
+                },
+                {
+                    "Question": "What kind of games do you not like to play?",
+                    "Answer": "I don't like to play games that are slow-paced or have a lot of downtime."
+                },
+                {
+                    "Question": "What console do you prefer to play on?",
+                    "Answer": "I prefer to play on the Xbox One."
+                },
+                {
+                    "Question": "Do you like to play online multiplayer games?",
+                    "Answer": "I do like to play online multiplayer games."
+                },
+                {
+                    "Question": "Do you like to play co-op games?",
+                    "Answer": "I do like to play co-op games."
+                },
+                {
+                    "Question": "Do you like to play single player games?",
+                    "Answer": "I do like to play single player games."
+                },
+                {
+                    "Question": "What kind of games do you like to play on your phone?",
+                    "Answer": "I like to play games that are fast-paced and have a lot of action."
+                },
+                {
+                    "Question": "Do you prefer games with a lot of story, or games that are more focused on gameplay?",
+                    "Answer": "I prefer games that are more focused on gameplay."
+                },
+                {
+                    "Question": "Do you like games that are easy to learn, or games that offer more of a challenge?",
+                    "Answer": "I like games that offer more of a challenge."
+                },
+                {
+                    "Question": "Do you like games that are short and to the point, or games that are longer and have more depth?",
+                    "Answer": "I like games that are longer and have more depth."
+                },
+                {
+                    "Question": "Do you prefer games with realistic graphics, or games with more stylized graphics?",
+                    "Answer": "I prefer games with realistic graphics."
+                },
+                {
+                    "Question": "Do you like games that are set in the present day, or games set in other time periods?",
+                    "Answer": "I like games that are set in the present day."
+                },
+                {
+                    "Question": "Do you like games that are set in realistic worlds, or games that are set in more fantastical worlds?",
+                    "Answer": "I like games that are set in realistic worlds."
+                },
+                {
+                    "Question": "Do you like games that are focused on combat, or games that have a more open world feel?",
+                    "Answer": "I like games that have a more open world feel."
+                }
+            ],
+            "Output": "Assassin's Creed III - This game is set in the present day and has a more open world feel. It also has realistic graphics.Call of Duty: Modern Warfare - This game is fast-paced and has a lot of action. It is also a multiplayer game.Borderlands - This game is fast-paced and has a lot of action. It is also a co-op game."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What genre of game are you interested in?",
+                    "Answer": "I am interested in role-playing games."
+                },
+                {
+                    "Question": "What type of gameplay do you prefer?",
+                    "Answer": "I prefer gameplay that is fast-paced and  strategy."
+                },
+                {
+                    "Question": "What are some specific games that you have enjoyed in the past?",
+                    "Answer": "I have enjoyed games such as Final Fantasy, Kingdom Hearts, and Dragon Age in the past."
+                },
+                {
+                    "Question": "What themes or settings are you interested in?",
+                    "Answer": "I am interested in games with a fantasy or medieval setting."
+                },
+                {
+                    "Question": "What type of story do you prefer?",
+                    "Answer": "I prefer stories that are complex and have multiple plotlines."
+                },
+                {
+                    "Question": "What gameplay mechanics do you prefer?",
+                    "Answer": "I prefer mechanics that are turn-based and allow for a high degree of customization."
+                },
+                {
+                    "Question": "What difficulty level do you prefer?",
+                    "Answer": "I prefer games that are challenging but not too difficult."
+                },
+                {
+                    "Question": "Do you have any other preferences?",
+                    "Answer": "I prefer games that are multiplayer."
+                },
+                {
+                    "Question": "Do you have any specific game titles in mind?",
+                    "Answer": "I am interested in games such as World of Warcraft, Star Wars: The Old Republic, and The Elder Scrolls Online."
+                },
+                {
+                    "Question": "What platform do you prefer?",
+                    "Answer": "I prefer PC games."
+                }
+            ],
+            "Output": "Based on the information provided, I would suggest the following games:World of Warcraft: This game is a massively multiplayer online role-playing game (MMORPG) with a fantasy setting. It features fast-paced gameplay, strategic elements, and a high degree of customization.Star Wars: The Old Republic: This game is an MMORPG set in the Star Wars universe. It features fast-paced gameplay, a complex story with multiple plotlines, and a high degree of customization.The Elder Scrolls Online: This game is an MMORPG set in the Elder Scrolls universe. It features a challenging but not too difficult difficulty level, turn-based gameplay, and a multiplayer mode"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What kind of games do you like to play?",
+                    "Answer": "I like to play games based on Anime characters."
+                },
+                {
+                    "Question": "What are some of your favorite Anime characters?",
+                    "Answer": "Some of my favorite Anime characters are Naruto, Sasuke, and Sakura from the Naruto series."
+                },
+                {
+                    "Question": "What kind of games do you want to play with these characters?",
+                    "Answer": "I want to play games where I can control the characters and explore the world they live in."
+                },
+                {
+                    "Question": "Do you want to play alone or with other people?",
+                    "Answer": "I want to play with other people."
+                },
+                {
+                    "Question": "What kind of games do you want to play with other people?",
+                    "Answer": "I want to play games where we can cooperate to accomplish a goal."
+                },
+                {
+                    "Question": "Do you want to play competitively or cooperatively?",
+                    "Answer": "I want to play cooperatively."
+                },
+                {
+                    "Question": "Do you want to play online or offline?",
+                    "Answer": "I want to play online."
+                },
+                {
+                    "Question": "Do you want to play on a console or a computer?",
+                    "Answer": "I want to play on a computer."
+                },
+                {
+                    "Question": "What kind of games do you want to play on a computer?",
+                    "Answer": "I want to play MMOs, MOBAs, and other online games."
+                },
+                {
+                    "Question": "Do you want to play free or paid games?",
+                    "Answer": "I am willing to pay for games."
+                }
+            ],
+            "Output": "Some games that I would suggest are:Naruto Online: This is an MMO that is based on the Naruto series. It would allow you to control Naruto, Sasuke, and Sakura as you explore the world they live in. You would be able to play with other people cooperatively to accomplish goals.League of Legends: This is a MOBA that features a large cast of characters, many of which are based on popular Anime characters. You would be able to play with other people online cooperatively or competitively.Overwatch: This is an online FPS with a large cast of characters, many of which are based on popular Anime characters. You would be able to play with other people online cooperatively to accomplish goals."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RTYHUGljyslJfpGf2DbvK6Ys?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/dZFmgDwRhJuKavAqUePfRVFn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9WNJlWfh8OfBE6MGUWoqZddL?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1DVIxAx-PgK9-8y3eonb6d4B4A7WkDErN?usp=sharing"
+}

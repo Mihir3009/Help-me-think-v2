@@ -1,0 +1,152 @@
+{
+    "Contributor": "chandarananiketanharshadbhai",
+    "Domain": "Spam",
+    "Task": "Write the advice on how to avoid spam emails.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert of spam emails . I will ask some questions to collect information and then I will use the information to give the advice on how to avoid spam emails.",
+        "task_specific_prompt": "Based on the questions and answers above, give some advice on how to avoid spam emails."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "tony.stark@xyz.com"
+                },
+                {
+                    "Question": "What is the main problem you're experiencing with spam emails?",
+                    "Answer": "I'm receiving too many spam emails and I can't seem to stop them."
+                },
+                {
+                    "Question": "What are some of the steps you've already taken to try and stop the spam emails?",
+                    "Answer": "I've tried blocking the sender's email address, but they just keep coming from different addresses. I've also tried marking the emails as spam, but they just keep coming."
+                },
+                {
+                    "Question": "What are some of the subject lines of the spam emails that you have received?",
+                    "Answer": "Some of the subject lines of the spam emails I've received include \"You've won"
+                },
+                {
+                    "Question": "What is your biggest concern with spam emails?",
+                    "Answer": "I'm worried that I'll miss important emails because they'll get lost in the sea of spam. I'm also concerned about clicki"
+                },
+                {
+                    "Question": "What are some of the sender addresses of the spam emails that you have received?",
+                    "Answer": "Some of the sender addresses of the spam emails I've received include \"no-reply@prize.com\" and \"noreply@winner.com.\""
+                },
+                {
+                    "Question": "What are some of the content of the spam emails that you have received?",
+                    "Answer": "Some of the content of the spam emails I've received include offers for free vacations, prize money, and discounts on products and services."
+                },
+                {
+                    "Question": "Have you ever responded to a spam email?",
+                    "Answer": "No, I've never responded to a spam email."
+                },
+                {
+                    "Question": "Have you ever clicked on a link in a spam email?",
+                    "Answer": "No, I've never clicked on a link in a spam email."
+                },
+                {
+                    "Question": "Have you ever bought something from a spam email?",
+                    "Answer": "No, I've never bought anything from a spam email."
+                }
+            ],
+            "Output": "Some tips to avoid spam emails include:-Never respond to spam emails-Never click on links in spam emails-Never buy anything from spam emails-Mark spam emails as spam and delete them-Block the sender's email address"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "steve.rogers@avangers.com"
+                },
+                {
+                    "Question": "What is the main problem you're experiencing with spam emails?",
+                    "Answer": "S I'm receiving too many spam emails and it's using mail account my memory unnecessarily"
+                },
+                {
+                    "Question": "What are some of the steps you've taken to try and reduce the amount of spam emails you receive?",
+                    "Answer": "I have set up a spam filter on my email account and I have also marked some emails as spam."
+                },
+                {
+                    "Question": "What is your biggest concern with spam emails?",
+                    "Answer": "SI'm worried that I will accidentally open a spam email and click on a link that will download a virus onto my computer."
+                },
+                {
+                    "Question": "What are some of the subject lines of the spam emails that you have received?",
+                    "Answer": "Here are some of the subject lines of spam emails that I have received:\"Get rich quick!\"\"You've been selected to receive a free gift!\"\"Congratulations, you've won!\"\"Act now and save!\"\"For a limited time only!\"\"Don't miss out!\""
+                },
+                {
+                    "Question": "What are some of the sender names of the spam emails that you have received?",
+                    "Answer": "Here are some of the sender names of spam emails that I have received:\"The Spam Department\"\"Your Friends at Spam\"\"The Spam Team\"\"The Spam Corporation\""
+                },
+                {
+                    "Question": "What are some of the sender addresses of the spam emails that you have received?",
+                    "Answer": "Here are some of the sender addresses of spam emails that I have received:\"no-reply@spam.com\"\"spam@spam.com\"\"noreply@spam.com\"\"do-not-reply@spam.com\""
+                },
+                {
+                    "Question": "Have you ever responded to a spam email?",
+                    "Answer": "No, I have never responded to a spam email."
+                },
+                {
+                    "Question": "Have you ever clicked on a link in a spam email?",
+                    "Answer": "Yes, I have clicked on a link in a spam email."
+                },
+                {
+                    "Question": "Have you ever downloaded an attachment from a spam email?",
+                    "Answer": "Yes, I have downloaded an attachment from a spam email."
+                }
+            ],
+            "Output": "Here are some tips on how to avoid spam emails:1. Be careful when clicking on links in emails, even if they look legitimate. If you're unsure, hover over the link to see where it will take you before clicking.2. Don't open email attachments from unknown senders. If you're expecting an attachment from someone, confirm that the email is from a legitimate email address before opening it.3. Don't reply to spam emails. If you reply, you will confirm to the sender that your email address is active, which will result in more spam emails being sent to you.4. Use a spam filter. Many email providers offer spam filtering services that can help to reduce the amount of spam emails you receive.5. Be cautious of giving out your email address. Only provide your email address to trusted sources."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your email address?",
+                    "Answer": "bruce.banner@avangers.com"
+                },
+                {
+                    "Question": "What is the main problem you're experiencing with spam emails?",
+                    "Answer": "I'm getting a lot of spam emails in my inbox, and I'm not sure how to stop them."
+                },
+                {
+                    "Question": "have you tried any methods to stop the spam emails?",
+                    "Answer": "Yes, I've tried marking them as spam and deleting them, but they just keep coming."
+                },
+                {
+                    "Question": "Do you know what can happen if you open a spam email?",
+                    "Answer": "Yes, I know that spam emails can contain viruses or other malicious software that can harm my computer."
+                },
+                {
+                    "Question": "Have you ever opened a spam email?",
+                    "Answer": "Yes, I have opened some of them."
+                },
+                {
+                    "Question": "What happened after you opened the spam email?",
+                    "Answer": "I got a virus on my computer."
+                },
+                {
+                    "Question": "Have you ever responded to a spam email?",
+                    "Answer": "No, I have never responded to a spam email."
+                },
+                {
+                    "Question": "Have you ever clicked on a link in a spam email?",
+                    "Answer": "Yes, I have clicked on links in spam emails before."
+                },
+                {
+                    "Question": "What happened after you clicked on the link in the spam email?",
+                    "Answer": "It redirected me to a very suspicious website."
+                },
+                {
+                    "Question": "What are some of the subject lines of the spam emails that you have received?",
+                    "Answer": "\"You've won a free vacation!\" \"Click here to claim your prize!\" \"Congratulations, you've been selected!\""
+                }
+            ],
+            "Output": "Some advice on how to avoid spam emails would be to never click on links in emails, even if they look legitimate. You should also never respond to spam emails or provide any personal information. If you are getting a lot of spam emails in your inbox, you can try marking them as spam and deleting them. You can also install a spam filter to help block spam emails."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/yUuhl6mIR91QHqYYODROkFMk?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/m3JZZASqbOhIAeFz1ZDSNHpr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/s1kzkul2p9Z1cabi8WA0vF2A?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1fao0aNrWmmCr4ajJUftfGi9G-WFBfPJl?usp=sharing"
+}

@@ -1,0 +1,156 @@
+{
+    "Contributor": "addagatlapranavi",
+    "Domain": "Language",
+    "Task": "To work as a transcriber.",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in French to English transcriber. I will ask some questions to collect information and then I will use the information to if you can work as a transcriber.",
+        "task_specific_prompt": "Justify if the applicant is capable of being a transcriber."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Pranavi."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from India.."
+                },
+                {
+                    "Question": "What is your native language",
+                    "Answer": "My native language is Telugu."
+                },
+                {
+                    "Question": "What languages are you fluent in?",
+                    "Answer": "I am fluent in English and French."
+                },
+                {
+                    "Question": "Do you have any experience in transcribing audio files?",
+                    "Answer": "I have experience in transcribing both audio and video files."
+                },
+                {
+                    "Question": "Do you have a good understanding of the French language?",
+                    "Answer": "I have an excellent understanding of the French language. I have taken French classes for 1 year."
+                },
+                {
+                    "Question": "How fast can you type?",
+                    "Answer": "I can type at a speed of 60 words per minute."
+                },
+                {
+                    "Question": "What is your availability?",
+                    "Answer": "I am available to work 20 hours per week."
+                },
+                {
+                    "Question": "Do you have a laptop or computer?",
+                    "Answer": "I have a laptop and an internet connection."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "No, I don't have any questions."
+                }
+            ],
+            "Output": "\nThe applicant has the required language skills and is capable of transcribing both audio and video files. They have a good understanding of the French language and can type at a speed of 60 words per minute. The applicant is available to work 20 hours per week and has a laptop and an internet connection.\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Shivani."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from India.."
+                },
+                {
+                    "Question": "What is your native language",
+                    "Answer": "My native language is Hindi."
+                },
+                {
+                    "Question": "What languages are you fluent in?",
+                    "Answer": "I am fluent in English and Spanish."
+                },
+                {
+                    "Question": "Do you have any experience in transcribing audio files?",
+                    "Answer": "I have experience in transcribing both audio files and written scripts."
+                },
+                {
+                    "Question": "Do you have a good understanding of the French language?",
+                    "Answer": "I have no understanding of the French language."
+                },
+                {
+                    "Question": "How fast can you type?",
+                    "Answer": "I can type at a speed of 40 words per minute."
+                },
+                {
+                    "Question": "What is your availability?",
+                    "Answer": "I am available to work 10 hours per week."
+                },
+                {
+                    "Question": "Do you have a laptop or computer?",
+                    "Answer": "I have a laptop and an internet connection."
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "No, I don't have any questions."
+                }
+            ],
+            "Output": "\nThe applicant has some experience in transcribing both audio files and written scripts, which indicates that she has the necessary skills for the job. Additionally, she has a fast typing speed of 40 words per minute. However, the applicant does not have any understanding of the French language, which may limit her ability to accurately transcribe French audio files. Overall, the applicant seems capable of being a transcriber.\n\n\n"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Emily."
+                },
+                {
+                    "Question": "Where are you from?",
+                    "Answer": "I am from Italy.."
+                },
+                {
+                    "Question": "What is your native language",
+                    "Answer": "My native language is Italian."
+                },
+                {
+                    "Question": "What languages are you fluent in?",
+                    "Answer": "I am fluent in English and Italian."
+                },
+                {
+                    "Question": "Do you have any experience in transcribing audio files?",
+                    "Answer": "I have experience in transcribing written scripts."
+                },
+                {
+                    "Question": "Do you have a good understanding of the French language?",
+                    "Answer": "I have no understanding of the French language."
+                },
+                {
+                    "Question": "How fast can you type?",
+                    "Answer": "I can type at a speed of 10 words per minute."
+                },
+                {
+                    "Question": "What is your availability?",
+                    "Answer": "I am available to work 10 hours per week."
+                },
+                {
+                    "Question": "Do you have a laptop or computer?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Do you have any questions for me?",
+                    "Answer": "No, I don't have any questions."
+                }
+            ],
+            "Output": " The applicant has no understanding of the French language and would not be able to transcribe audio files accurately. Additionally, the applicant's typing speed is too slow to be an effective transcriber. Therefore, the applicant is not capable of being a transcriber.\n  "
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RWAgBVJlLXg0KCK6s4uPZpux?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8qK9GKkH3EvtE1CCO3SGHYbn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/EmSlkMqzolM6u14aLBIemqBF?model=text-davinci-002"
+    ],
+    "screenshot link": [
+        "https://drive.google.com/file/d/1OIE_tjmBig6TUvJWb7e00hWsQP-GYLnt/view?usp=sharing",
+        "https://drive.google.com/file/d/16LlHEhADtQadyxOQsc7LLFIIrz8iMWiQ/view?usp=sharing",
+        "https://drive.google.com/file/d/1fmhE2YNBMvrRno7VkDosorgDYhkbAM8e/view?usp=sharing"
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Fantasy",
+    "Task": "Create a Fantasy Video Game",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at creating fantasy video games. I will ask relevant questions to gather information and then use that information to create a new fantasy video game.",
+        "task_specific_prompt": "Write a detailed description for a new fantasy game based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of fantasy game do you want to create?",
+                    "Answer": "I want to create a role-playing game with an open world."
+                },
+                {
+                    "Question": "What type of setting do you want your game to take place in?",
+                    "Answer": " I want my game to take place in a medieval fantasy world"
+                },
+                {
+                    "Question": "What type of story do you want your game to have?",
+                    "Answer": "I want my game to have a story that revolves around the player character's struggle to save her kidnapped brother."
+                },
+                {
+                    "Question": "What type of gameplay do you want your game to have?",
+                    "Answer": "I want my game to have action-based gameplay with a mix of puzzles, exploration and one on one battles."
+                },
+                {
+                    "Question": "What type of graphics do you want your game to have?",
+                    "Answer": "I want my game to have detailed, hand-drawn graphics that give the world a unique and fantastical feel"
+                },
+                {
+                    "Question": "What type of music do you want your game to have?",
+                    "Answer": "I want my game to have an epic orchestral score that accompanies the player on their journey."
+                },
+                {
+                    "Question": "What type of controls do you want your game to have?",
+                    "Answer": "I want my game to have intuitive controls for navigation that allow the player to easily interact with the environment."
+                },
+                {
+                    "Question": "What type of camera do you want your game to have?",
+                    "Answer": "I want my game to have a first-person camera that allows us to see the world from the main character's perspective."
+                },
+                {
+                    "Question": "What type of user interface do you want your game to have?",
+                    "Answer": "I want my game to have a user interface that is clean and easy to use."
+                },
+                {
+                    "Question": "What other features do you want your game to have?",
+                    "Answer": "I want my game to have a day/night cycle, a system that allows the player to level up their character, and the ability to make in-game purchases using coins collected throughout the quest."
+                },
+                {
+                    "Question": "Is there anything else you can think of that you would like to add to your game?",
+                    "Answer": "The game is available on PC and Playstation. The name of the game is \"Proda\""
+                },
+                {
+                    "Question": "Do you have a budget for your game?",
+                    "Answer": "Yes, the budget is 1 mil $."
+                }
+            ],
+            "Output": "Proda is a new fantasy video game that takes place in a medieval world. The story revolves around the player character's struggle to save her kidnapped brother. The gameplay is action-based with a mix of puzzles, exploration and one on one battles. The graphics are detailed and hand-drawn, giving the world a unique and fantastical feel. The music is an epic orchestral score that accompanies the player on their journey. The game has intuitive controls for navigation and a clean, easy-to-use user interface. Other features include a day/night cycle, a system that allows the player to level up their character, and the ability to make in-game purchases using coins collected throughout the quest."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the basic premise of the game? What is the player's goal?",
+                    "Answer": "The player's goal is to save the kingdom from an evil  sorcerer"
+                },
+                {
+                    "Question": "What kind of game is it? Is it a role-playing game, a first-person shooter, a puzzle game, etc.?",
+                    "Answer": "It is a a puzzle game"
+                },
+                {
+                    "Question": "What are the player's options for completing the goal?",
+                    "Answer": "The player can choose to either fight the sorcerer directly or try to find a way to break the sorcerer's spell."
+                },
+                {
+                    "Question": "What kind of environment will the game take place in?",
+                    "Answer": "The game will take place in a fantasy world."
+                },
+                {
+                    "Question": "Who are the allies and adversaries in the game?",
+                    "Answer": "The allies are the other members of the kingdom. The adversaries are the evil sorcerer and his minions"
+                },
+                {
+                    "Question": "What kind of skills will the player need to succeed?",
+                    "Answer": "The player will need to be smart and have good puzzle solving skills to succeed."
+                },
+                {
+                    "Question": "What kind of challenges will the player face?",
+                    "Answer": "The player will face challenges such as defeating enemies and collecting weapons by solving puzzles."
+                },
+                {
+                    "Question": "Are there any special features or power-ups in the game?",
+                    "Answer": "There are special weapons that the player can collect throughout the game by winning 3 gold stars in a row."
+                },
+                {
+                    "Question": "What is the ending of the game like?",
+                    "Answer": "The ending of the game depends on the player's choices. If the player defeats the sorcerer, the kingdom is saved. If the player chooses to break the sorcerer's spell, the kingdom is also saved. If the player is not able to defeat the sorcerer, everyone in the kingdom is turned to stone."
+                },
+                {
+                    "Question": "Is there anything else you think we should know about the game?",
+                    "Answer": "The game is called \"Puzzle-O-Mania\". It is available on Android and IOS."
+                }
+            ],
+            "Output": "\"Puzzle-O-Mania\" is a new puzzle game for Android and IOS. In this game, players must save the kingdom from an evil sorcerer. The player can choose to either fight the sorcerer directly or try to find a way to break the sorcerer's spell. The game takes place in a fantasy world and features allies and adversaries such as the other members of the kingdom and the evil sorcerer and his minions. Throughout the game, players will face challenges such as defeating enemies and collecting weapons by solving puzzles. There are special weapons that the player can collect throughout the game by winning 3 gold stars in a row. The ending of the game depends on the player's choices. If the player defeats the sorcerer, the kingdom is saved. If the player chooses to break the sorcerer's spell, the kingdom is also saved. If the player is not able to defeat the sorcerer, everyone in the kingdom is turned to stone."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of game would you like to create?",
+                    "Answer": "I would like to create a first-person shooter game."
+                },
+                {
+                    "Question": "What kind of setting would you like the game to take place in?",
+                    "Answer": "I would like the game to take place in a modern setting."
+                },
+                {
+                    "Question": "What specific elements would you like to include in the game?",
+                    "Answer": "I would like to include elements of mafia and magic."
+                },
+                {
+                    "Question": "What kind of gameplay would you like?",
+                    "Answer": "I would like the gameplay to be fast-paced and action-packed."
+                },
+                {
+                    "Question": "What kind of graphics would you like?",
+                    "Answer": "I would like the graphics to be realistic."
+                },
+                {
+                    "Question": "Is there anything else you would like to include?",
+                    "Answer": "I would also like to include an online multiplayer mode."
+                },
+                {
+                    "Question": "What is the name of your game?",
+                    "Answer": "The name of my game is \"Mafia Magic\"."
+                },
+                {
+                    "Question": "What is the premise of your game?",
+                    "Answer": "In \"Mafia Magic\", the player takes on the role of a member of the mafia who must use their magic abilities to take down rival gangs and gain control of the country."
+                },
+                {
+                    "Question": "What type of characters can the player choose from?",
+                    "Answer": "In \"Mafia Magic\", the player can choose from a variety of different character types, each with their own unique magic abilities. Their choices include mafia boss, double agent, street gang member."
+                },
+                {
+                    "Question": "What type of enemies will the player face?",
+                    "Answer": "In \"Mafia Magic\", the player will face a variety of enemies, including rival mafia gangs, the police, and other criminals."
+                },
+                {
+                    "Question": "What kind of challenges will the player face?",
+                    "Answer": "In \"Mafia Magic\", the player will face a variety of challenges, including taking down rival gangs, evading the police, and gathering resources for their own gang."
+                },
+                {
+                    "Question": "What are the player's goals?",
+                    "Answer": "In \"Mafia Magic\", the player's goal is to take down rival gangs and gain control of the country to become the biggest mafia boss."
+                }
+            ],
+            "Output": "\"Mafia Magic\" is a first-person shooter game that takes place in a modern setting. The player takes on the role of a member of the mafia who must use their magic abilities to take down rival gangs and gain control of the country. The player can choose from a variety of different character types, each with their own unique magic abilities. Their choices include mafia boss, double agent, and street gang member. The player will face a variety of enemies, including rival mafia gangs, the police, and other criminals. The player will also face a variety of challenges, including taking down rival gangs, evading the police, and gathering resources for their own gang. The player's goal is to take down rival gangs and gain control of the country to become the biggest mafia boss."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/LwIBbx5obzYE6s6XrXMIf3yG?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/UHNgwf3Fj4FZJVSQtqIb9ntP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/qLgElsvWyetXz4PfTia7flfB?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1cyqOV8IwIZquP5ifBCjjRzmsnJUqMZB1?usp=sharing"
+}

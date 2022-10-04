@@ -1,0 +1,152 @@
+{
+    "Contributor": "budhirajaaashna",
+    "Domain": "Code",
+    "Task": "Generate a new Phonetic Code",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert at inventing new phonetic alphabet codes. I will ask relevant questions to gather information and then use that information to invent a new phonetic alphabet code.",
+        "task_specific_prompt": "Create a new phonetic alphabet code based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of information would you like the new phonetic alphabet code to represent?",
+                    "Answer": "I would like the new phonetic alphabet code to represent the names of different insects and birds."
+                },
+                {
+                    "Question": "What type of insects do you want the code to represent?",
+                    "Answer": "I want the code to represent common household insects, such as ants, flies, and spiders."
+                },
+                {
+                    "Question": "Do you want the code to be easy to remember or difficult to remember?",
+                    "Answer": "I want the code to be difficult to remember."
+                },
+                {
+                    "Question": "Do you want the code to be pronounceable or unpronounceable?",
+                    "Answer": "I want the code to be pronounceable."
+                },
+                {
+                    "Question": "Do you want the code to use existing words or made-up words?",
+                    "Answer": "I want the code to use existing words."
+                },
+                {
+                    "Question": "Do you want the code to be case sensitive or case insensitive?",
+                    "Answer": "I want the code to be case insensitive."
+                },
+                {
+                    "Question": "What other constraints do you want to impose on the code?",
+                    "Answer": "I want the code to also encode some special characters along with the letters of the alphabet."
+                },
+                {
+                    "Question": "Do you have any specific characters in mind?",
+                    "Answer": "I want the code to represent the following characters: ! @ # $ % & * ( ) - = _ +"
+                },
+                {
+                    "Question": "Are there any other restrictions you would like to impose on the code?",
+                    "Answer": "The code should be for the English language."
+                },
+                {
+                    "Question": "Do you want the code to be able to represent all of the letters in the English alphabet?",
+                    "Answer": "Yes."
+                }
+            ],
+            "Output": "A=Ant\nB=Fly\nC=Spider\nD=Beetle\nE=Cockroach\nF=Termite\nG=Mosquito\nH=Flea\nI=Louse\nJ=Moth\nK=Grub\nL=Wasp\nM=Hornet\nN=Ladybug\nO=Cicada\nP=Earwig\nQ=Firefly\nR=Mantis\nS=Stinkbug\nT=Leafhopper\nU=Snail\nV=Slug\nW=Caterpillar\nX=Cutworm\nY=Chinch bug\nZ=Boll weevil\n!=Praying mantis\n@=Housefly\n#=Fruit fly\n$=Honey bee\n%=Bumble bee\n&=Bombus\n*=Yellow jacket\n(=Honeypot ant\n)=Bullet ant\n-=Velvet ant\n_=Sweat bee\n+=Carpenter bee"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of information would you like the new phonetic alphabet code to represent?",
+                    "Answer": "I would like the new phonetic alphabet code to represent letters of the alphabet as the names of different types of fruit."
+                },
+                {
+                    "Question": "What is the purpose of the new phonetic alphabet code?",
+                    "Answer": "The purpose of the new phonetic alphabet code is to help people remember the letters of the alphabet by associating them with the names of different types of fruit."
+                },
+                {
+                    "Question": "How should the new phonetic alphabet code be organized?",
+                    "Answer": "The new phonetic alphabet code can be organized by assigning a different type of fruit to each letter of the alphabet. For example, A could represent apples, B could represent bananas, and so on."
+                },
+                {
+                    "Question": "Are there any specific fruit that you would like to use in the new phonetic alphabet code?",
+                    "Answer": "There are no specific fruit that I would like to use in the new phonetic alphabet code."
+                },
+                {
+                    "Question": "Are there any other instructions that you would like to provide?",
+                    "Answer": "Yes, the code should also be able to represent number and special characters as names of fruits."
+                },
+                {
+                    "Question": "Are there any words that you would like the new phonetic alphabet code to be able to spell?",
+                    "Answer": "No"
+                },
+                {
+                    "Question": "Are there any other instructions that you would like to provide?",
+                    "Answer": "yes, the code should represent all the letters of the english language."
+                },
+                {
+                    "Question": "Are there any other instructions that you would like to provide?",
+                    "Answer": "yes, the code should be case sensitive"
+                },
+                {
+                    "Question": "Are there any other instructions that you would like to provide?",
+                    "Answer": "yes, the code should be easy to remember and structured in a bullet format"
+                },
+                {
+                    "Question": "Are there any other instructions that you would like to provide?",
+                    "Answer": "No"
+                }
+            ],
+            "Output": "A- Apples\nB- Bananas\nC- Cherries\nD- Dates\nE- Elderberries\nF- Fig\nG- Grapefruit\nH- Honeydew\nI- Indian Fig\nJ- Jackfruit\nK- Kiwi\nL- Lemon\nM- Mulberries\nN- Nectarine\nO- Orange\nP- Pear\nQ- Quince\nR- Raspberry\nS- Strawberry\nT- Tomato\nU- Ugli Fruit\nV- Valencia\nW- Watermelon\nX- Xigua\nY- Yellowtail\nZ- Zucchini"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the code?",
+                    "Answer": "The purpose of the code is to help people communicate more effectively in English."
+                },
+                {
+                    "Question": "What is the target audience?",
+                    "Answer": "The target audience is people who need to communicate more effectively in English."
+                },
+                {
+                    "Question": "What are the most important features?",
+                    "Answer": "The most important features are that the code is easy to learn and use, and that it is effective in helping people communicate."
+                },
+                {
+                    "Question": "What are some other features that would be useful?",
+                    "Answer": "Some other features that would be useful are that the code is easy to remember, and that it can be used in different situations."
+                },
+                {
+                    "Question": "What are some examples of situations where the code would be used?",
+                    "Answer": "Some examples of situations where the code would be used are in business meetings, in school, and in casual conversation."
+                },
+                {
+                    "Question": "What are some other features that would be useful?",
+                    "Answer": "The words corresponding to different letters of the alphabet should be easy to hear and distinguish over different forms of spoken communication."
+                },
+                {
+                    "Question": "What are some words that would be difficult to hear or distinguish?",
+                    "Answer": "Some words that would be difficult to hear or distinguish are \"th\", \"sh\", and \"ch\"."
+                },
+                {
+                    "Question": "What are some other features that would be useful?",
+                    "Answer": "The code should also encode some special characters."
+                },
+                {
+                    "Question": "What are some special characters that would be useful to encode?",
+                    "Answer": "Some special characters that would be useful to encode are numbers, punctuation marks, and abbreviations."
+                },
+                {
+                    "Question": "What are some other features that would be useful?",
+                    "Answer": "The code should be created for English. The code should use unusual English words to represent letters. The theme of the words should be around spy novels. The new code should be different from the NATO code, or any other already created code."
+                }
+            ],
+            "Output": "The new phonetic alphabet code is as follows:\nA = Arson\nB = Bomber\nC = Crook\nD = Dodger\nE = Enemy\nF = Felon\nG = Gangster\nH = Hitman\nI = Informant\nJ = Jailbird\nK = Kidnapper\nL = Lover\nM = Murderer\nN = Narc\nO = Outlaw\nP = Prisoner\nQ = Quitter\nR = Rat\nS = Snitch\nT = Thief\nU = Underboss\nV = Villain\nW = Witness\nX = Xerox\nY = Yesterday\nZ = Zealot"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/YuQCYvdCCnpQ18Wrh2vgohvC?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ZHvgcK1kXCgkXqyoXLgGJXiO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RjKagD86ITnxIpkNofM8ERoN?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1vvZcraUyTxJH0fvmqHo7GEKY84e_-il2?usp=sharing"
+}

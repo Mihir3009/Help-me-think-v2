@@ -1,0 +1,168 @@
+{
+    "Contributor": "gakharmanav",
+    "Domain": "Forensic Science",
+    "Task": "Writing an autopsy report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert forensic scientist. I will ask some questions to collect information and then I will use the information to write an autopsy report.",
+        "task_specific_prompt": "Write an autopsy report using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the approximate time of death?",
+                    "Answer": "The approximate time of death was 2:00 a.m."
+                },
+                {
+                    "Question": "What was the cause of death?",
+                    "Answer": "The cause of death was a stabbing wound to the chest."
+                },
+                {
+                    "Question": "What was the weapon used?",
+                    "Answer": "The weapon used was a screwdriver."
+                },
+                {
+                    "Question": "How many times was the victim stabbed?",
+                    "Answer": "The victim was stabbed six to seven times."
+                },
+                {
+                    "Question": "Where was the body found?",
+                    "Answer": "The body was found in the neighborhood park."
+                },
+                {
+                    "Question": "Was there any sign of a struggle?",
+                    "Answer": "There was no sign of a struggle."
+                },
+                {
+                    "Question": "Who found the body?",
+                    "Answer": "A jogger found the body."
+                },
+                {
+                    "Question": "What was the victim wearing?",
+                    "Answer": "The victim was wearing a black dress with heels."
+                },
+                {
+                    "Question": "Was the body moved after the murder?",
+                    "Answer": "The body was moved to the pond in the park."
+                },
+                {
+                    "Question": "What is the victim's name?",
+                    "Answer": "The victim's name is Mia Kunis."
+                },
+                {
+                    "Question": "What is the victim's age?",
+                    "Answer": "The victim's age is 28."
+                }
+            ],
+            "Output": "Mia Kunis, age 28, was found dead in the neighborhood park at 2:00 a.m. by a jogger. She had been stabbed six to seven times in the chest with a screwdriver and her body was moved to the pond in the park. There was no sign of a struggle. She was wearing a black dress with heels."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How long ago did the body die?",
+                    "Answer": "The time of death is not certain."
+                },
+                {
+                    "Question": "Where was the body found?",
+                    "Answer": "The body was found in a mall."
+                },
+                {
+                    "Question": "What was the cause of death?",
+                    "Answer": "The cause of death was a gunshot wound to the head."
+                },
+                {
+                    "Question": "What was the manner of death?",
+                    "Answer": "The manner of death was suicide."
+                },
+                {
+                    "Question": "What was the weapon used?",
+                    "Answer": "The weapon used was a shotgun."
+                },
+                {
+                    "Question": "What was the position of the body when found?",
+                    "Answer": "The body was found floating in the pond."
+                },
+                {
+                    "Question": "Was there anything found with the body?",
+                    "Answer": "The body was found with a wallet and a bag of candy."
+                },
+                {
+                    "Question": "Who was the victim?",
+                    "Answer": "The victim was a black female."
+                },
+                {
+                    "Question": "What was the victim's name?",
+                    "Answer": "The victim's name is shonda rhymes."
+                },
+                {
+                    "Question": "What was the victim's age?",
+                    "Answer": "The victim's age is 25."
+                },
+                {
+                    "Question": "What was the victim's address?",
+                    "Answer": "The victim's address is 2340 S Mill Ave."
+                },
+                {
+                    "Question": "What was the victim's occupation?",
+                    "Answer": "The victim's occupation is an astronaut."
+                }
+            ],
+            "Output": "The victim, Shonda Rhymes, was a 25-year-old black female. She was an astronaut and her address was 2340 S Mill Ave. The cause of death was a gunshot wound to the head and the manner of death was suicide. The weapon used was a shotgun and the body was found floating in the pond. With the body was found a wallet and a bag of candy."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the deceased's name?",
+                    "Answer": "The deceased's name is Jennifer Aniston."
+                },
+                {
+                    "Question": "What is the deceased's age?",
+                    "Answer": "The deceased's age is 108."
+                },
+                {
+                    "Question": "What is the cause of death?",
+                    "Answer": "The cause of death is car accident."
+                },
+                {
+                    "Question": "What is the manner of death?",
+                    "Answer": "The manner of death is blunt force trauma."
+                },
+                {
+                    "Question": "What is the time of death?",
+                    "Answer": "The time of death is 1:00 p.m."
+                },
+                {
+                    "Question": "What is the date of death?",
+                    "Answer": "The date of death is 2nd October 1998."
+                },
+                {
+                    "Question": "What is the place of death?",
+                    "Answer": "The place of death is Phoenix, Arizona, USA."
+                },
+                {
+                    "Question": "What is the gender of the deceased?",
+                    "Answer": "The deceased is female."
+                },
+                {
+                    "Question": "What is the race of the deceased?",
+                    "Answer": "The deceased is hispanic."
+                },
+                {
+                    "Question": "What is the height of the deceased?",
+                    "Answer": "The deceased is 5'4."
+                },
+                {
+                    "Question": "What is the weight of the deceased?",
+                    "Answer": "The deceased is 110 pounds."
+                }
+            ],
+            "Output": "Jennifer Aniston, age 108, died as a result of a car accident. The manner of death was blunt force trauma. The time of death was 1:00 p.m. The date of death was 2nd October 1998. The place of death was Phoenix, Arizona, USA. The deceased was female and hispanic. The height of the deceased was 5'4. The weight of the deceased was 110 pounds."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wneATDuAgPZayNBjCt1qrYw7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PauwEaaGWF651oHdiVovc2Mx?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/PTNw3Jw70LqhQnFMau4n0wdu?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1YTVcavGZUWPwyAp6ASFKvpYP_rgj2BOe?usp=sharing"
+}

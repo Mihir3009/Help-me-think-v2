@@ -1,0 +1,156 @@
+{
+    "Contributor": "bhattkrutarth",
+    "Domain": "Visual Arts",
+    "Task": "Catchy advertisement headline writer",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in visual arts and advertising . I will ask some questions to collect information about the advertisement you want to publish and will write a creative and catchy headline for it.",
+        "task_specific_prompt": "Based on the above information regarding the advertisement, write a cool and catchy headline for the advertisement."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What do you want to advertise?",
+                    "Answer": "I want to advertise a new product."
+                },
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a new type of toothpaste."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The product is designed to whiten teeth and freshen breath."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "Our target audience is anyone who wants to have whiter teeth and fresher breath."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "Our budget is $500."
+                },
+                {
+                    "Question": "When do you need the advertisement?",
+                    "Answer": "We need the advertisement as soon as possible."
+                },
+                {
+                    "Question": "Where do you want to publish the advertisement",
+                    "Answer": "We want to publish the advertisement in a local newspaper."
+                },
+                {
+                    "Question": "What is the size of the advertisement?",
+                    "Answer": "The size of the advertisement is 4 inches by 4 inches."
+                },
+                {
+                    "Question": "Is there anything else you would like to include in the advertisement?",
+                    "Answer": "No, thank you."
+                },
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is XYZ Corporation."
+                }
+            ],
+            "Output": "Get Whiter Teeth and Fresher Breath with XYZ Corporation's New Toothpaste!"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you want to advertise?",
+                    "Answer": "I want to advertise a shampoo."
+                },
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is an anti dandruff shampoo with conditioner."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The product is designed to make the hair smooth and strong."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "Our target audience is all males as the shampoo is for men."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "Our budget is $1000."
+                },
+                {
+                    "Question": "When do you need the advertisement?",
+                    "Answer": "We need the advertisement tomorrow."
+                },
+                {
+                    "Question": "Where do you want to publish the advertisement",
+                    "Answer": "We want to publish the advertisement on instagram."
+                },
+                {
+                    "Question": "What is the size of the advertisement?",
+                    "Answer": "The size of the advertisement is same as an instagram post."
+                },
+                {
+                    "Question": "Is there anything else you would like to include in the advertisement?",
+                    "Answer": "The advertisement headline should have rhyming words with 2 sentences."
+                },
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is Cool Cosmetics Corporation."
+                }
+            ],
+            "Output": "\"Get the perfect shampoo for your mane!\" \n\"Keep your hair dandruff free!\"\n\"The perfect shampoo for strong and smooth hair!\""
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you want to advertise?",
+                    "Answer": "I want to advertise a vacuum cleaner."
+                },
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a vacuum cleaner."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The product is designed clean all the dust from the smallest corner of the house."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "Our target audience is all the houses of west coast USA."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "Our budget is $15,000."
+                },
+                {
+                    "Question": "When do you need the advertisement?",
+                    "Answer": "We need the advertisement righnow."
+                },
+                {
+                    "Question": "Where do you want to publish the advertisement",
+                    "Answer": "We want to publish the advertisement on TV."
+                },
+                {
+                    "Question": "What is the size of the advertisement?",
+                    "Answer": "The size of the advertisement is a 2:3 rectangle."
+                },
+                {
+                    "Question": "Is there anything else you would like to include in the advertisement?",
+                    "Answer": "The advertisement headline should sound like a song with multiple sentences."
+                },
+                {
+                    "Question": "What is the name of your company?",
+                    "Answer": "The name of our company is Elite Electronics."
+                }
+            ],
+            "Output": "Get the best vacuum cleaner in the market! Elite Electronics presents the newest model of vacuum cleaner that will clean all the dust from the smallest corner of your house."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/0oQIaf0hPgsfICOIxFMwopKD?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/Fa5iUN7e38N3zPe0UafsRqqi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/jXhavN8gT6MdSUARpJMQNMl6?model=text-davinci-002"
+    ],
+    "Screenshot_link": [
+        "https://drive.google.com/file/d/1PmxSELZj_0KRUprLZb_G_JGY8o5_U-We/view?usp=sharing",
+        "https://drive.google.com/file/d/17FEoKZ1V7Q5IT-Z1ffboscdFlasvLsrT/view?usp=sharing",
+        "https://drive.google.com/file/d/1PkP6e0LKIf0JQQSLLsOGFgtCYH9Ggpsd/view?usp=sharing"
+    ]
+}

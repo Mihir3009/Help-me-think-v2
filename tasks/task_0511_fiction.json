@@ -1,0 +1,176 @@
+{
+    "Contributor": "gargpiyush",
+    "Domain": "Fiction",
+    "Task": "Librarian",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert librarian. I will ask some questions to collect information and then I will suggest a fiction book to your liking.",
+        "task_specific_prompt": "Recommend a recently released fiction novel or book using the information from questions and answers above. Justify the recommendation."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of fiction books do you like to read?",
+                    "Answer": "I like to read books that are fast-paced and full of action."
+                },
+                {
+                    "Question": "What are some of your favorite genres?",
+                    "Answer": "I like to read books that are fast-paced and full of action. My favorite genres are thrillers and suspense."
+                },
+                {
+                    "Question": "What are some of your favorite authors?",
+                    "Answer": "I like to read books that are fast-paced and full of action. My favorite genres are thrillers and suspense. My favorite authors are James Patterson and David Baldacci."
+                },
+                {
+                    "Question": "What are some of your favorite book series?",
+                    "Answer": "I like to read books that are fast-paced and full of action. My favorite genres are thrillers and suspense. My favorite authors are James Patterson and David Baldacci. My favorite book series are the Alex Cross series and the John Grisham series."
+                },
+                {
+                    "Question": "What are some of your favorite characters?",
+                    "Answer": "My favorite characters are Alex Cross and John Grisham from Alex Cross and John Grisham series respectively. I also find the character of Hercule Poirot from Agatha Christie's books very interesting."
+                },
+                {
+                    "Question": "What are some of your favorite plot elements?",
+                    "Answer": "I like books that are fast-paced and full of action. I also like books that have multiple plot elements and subplots. Investigative and thriller plots intrigue me the most."
+                },
+                {
+                    "Question": "What are some of your favorite settings?",
+                    "Answer": "I like books that are set in fast-paced and action-packed environments. I also like books that are set in multiple settings and locations."
+                },
+                {
+                    "Question": "What genre of book would you like me to suggest?",
+                    "Answer": "I would like you to suggest a thriller book."
+                },
+                {
+                    "Question": "Do you have a specific author in mind?",
+                    "Answer": "I would like you to suggest a thriller book by Agatha Christie or Stephen King."
+                },
+                {
+                    "Question": "Do you have a specific book series in mind?",
+                    "Answer": "I would like you to suggest a thriller book from the Hercule Poirot series by Agatha Christie or The Dark Tower series by Stephen King."
+                },
+                {
+                    "Question": "Do you have a specific character in mind?",
+                    "Answer": "I would like you to suggest a thriller book with the character of Hercule Poirot by Agatha Christie or the character of Roland Deschain from The Dark Tower series by Stephen King."
+                }
+            ],
+            "Output": "One book that I would recommend is And Then There Were None by Agatha Christie. This book is a classic thriller that has multiple plot elements and subplots. It is also set in multiple locations, which adds to the suspense. The character of Hercule Poirot is also a key element in the novel, and I think readers would enjoy following his investigative process."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of fiction books do you like to read?",
+                    "Answer": "I like to read books that are romantic and optimistic."
+                },
+                {
+                    "Question": "What are some of your favorite themes in books?",
+                    "Answer": "I like books that have themes of love, hope, and happiness."
+                },
+                {
+                    "Question": "What are some of your favorite genres?",
+                    "Answer": "I like romance, chick lit, and women's fiction."
+                },
+                {
+                    "Question": "What are some of your favorite authors?",
+                    "Answer": "I like authors who write romantic and optimistic books, such as Sarah Dessen, Jane Austen, and Nicholas Sparks."
+                },
+                {
+                    "Question": "What are some of your favorite book series?",
+                    "Answer": "I like the \"Twilight\" series by Stephenie Meyer, the \"Harry Potter\" series by J.K. Rowling, and the \"Chronicles of Narnia\" series by C.S. Lewis."
+                },
+                {
+                    "Question": "What are some of your favorite books?",
+                    "Answer": "\"Pride and Prejudice\" by Jane Austen, \"The Hunger Games\" trilogy by Suzanne Collins, \"The Proposal\" by Jasmine Guillory and \"The Notebook\" by Nicholas Sparks are some of my all-time favorites."
+                },
+                {
+                    "Question": "What are you looking for in a book right now?",
+                    "Answer": "I am looking for a book that is romantic and optimistic."
+                },
+                {
+                    "Question": "What kind of setting would you like the story to be in?",
+                    "Answer": "I would like the story to be set in a small town or a rural area."
+                },
+                {
+                    "Question": "What is your idea of romance?",
+                    "Answer": "I think of romance as two people who are meant to be together, despite the odds."
+                },
+                {
+                    "Question": "What is your idea of the perfect happy ending?",
+                    "Answer": "I think the perfect happy ending is when the two people who are meant to be together finally find each other and live happily ever after."
+                },
+                {
+                    "Question": "Would you like a book that is lighthearted or serious?",
+                    "Answer": "I would like a book that is lighthearted."
+                },
+                {
+                    "Question": "What would you prefer more, an open ending or a certain happy ending?",
+                    "Answer": "I would prefer a certain happy ending."
+                }
+            ],
+            "Output": "I would recommend the book \"The Hating Game\" by Sally Thorne. This book is a romantic comedy that is lighthearted and has a certain happy ending. The story is about two co-workers who hate each other, but end up falling in love. I think you would enjoy this book because it is romantic and optimistic, and it has a happy ending."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of fiction books do you like to read?",
+                    "Answer": "I like to read historical fictions."
+                },
+                {
+                    "Question": "What is your favorite historical period?",
+                    "Answer": "I like to read about the early Showa period."
+                },
+                {
+                    "Question": "What are your favorite historical figures?",
+                    "Answer": "I like to read about Hideki Tojo and Sukarno."
+                },
+                {
+                    "Question": "What are your favorite topics?",
+                    "Answer": "I like to read about military history and the history of Indonesia. I also like to dabble in the daily lives of average people of Japan during the early Showa period."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "I really enjoyed The Last Samurai by Helen DeWitt. Another favorite would be Memoirs of a Geisha by Arthur Golden."
+                },
+                {
+                    "Question": "What are your favorite movies?",
+                    "Answer": "I like movies that are set in the historical periods that I am interested in. I also like movies that are about the daily lives of average people."
+                },
+                {
+                    "Question": "Who are some of the authors whose work you like?",
+                    "Answer": "Some of the authors I like are Haruki Murakami, Banana Yoshimoto, and Jiro Taniguchi."
+                },
+                {
+                    "Question": "What are some of your hobbies?",
+                    "Answer": "I like to read, of course, but I also like to travel. I have been to many different places in Asia and I love to learn about different cultures."
+                },
+                {
+                    "Question": "What is your favorite food?",
+                    "Answer": "I love sushi!"
+                },
+                {
+                    "Question": "What are your favorite elements that you look for in historical fiction books?",
+                    "Answer": "I like to read about stories depicting societal developments of that time, strong female characters, love stories, and coming-of-age stories."
+                },
+                {
+                    "Question": "What is the last historical fiction book that you read?",
+                    "Answer": "The last historical fiction book I read was The Thousand Autumns of Jacob de Zoet by David Mitchell."
+                },
+                {
+                    "Question": "What did you think of it?",
+                    "Answer": "I really enjoyed it! I thought it was a very well-written and engaging story."
+                },
+                {
+                    "Question": "Would you like me to recommend a book to you?",
+                    "Answer": "Yes, I would love for you to recommend a book to me."
+                }
+            ],
+            "Output": "I would recommend the novel When the Emperor Was Divine by Julie Otsuka. This novel is set in the early Showa period, and it tells the story of a Japanese-American family who is sent to an internment camp during World War II. I think you would enjoy this novel because it is a well-written and engaging story that deals with important historical topics."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/HICDJgg6eXxTG3eGUhO3AIKP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/94ILDV1sRXw14RBXZFkAVr7C?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/pa27P6uHwSX40RBnooFFKTPs?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1m3vsG4edamjQmm0aZlJHmfJeA9XvJqQ7?usp=sharing"
+}

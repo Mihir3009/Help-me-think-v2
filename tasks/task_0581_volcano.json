@@ -1,0 +1,152 @@
+{
+    "Contributor": "aryaakschat",
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/0zfi72zqaKzwgDLNkDuknvpg?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/LWgKR20z9zF1NkzR9vLBoScb?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6hfS1sXN8cSNtpTgwohBW1mU?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/19eNLZ1Qi6SvmOTvQLRATg6ERJSorTHmp?usp=sharing",
+    "Domain": "Volcano",
+    "Task": "writing geological reports",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert writing geological reports. I will ask some questions to collect information and then I will use the information to write geological reports.",
+        "task_specific_prompt": "Write a geological report using the questions and answers above. The report should explain the dangers of a volcano."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the geological report?",
+                    "Answer": "The purpose of the report is explain the dangers of a volcano."
+                },
+                {
+                    "Question": "What information do you need to write the report?",
+                    "Answer": "I need to know the history of the volcano, the location of the volcano, the size of the volcano, the type of volcano, and the last time the volcano erupted."
+                },
+                {
+                    "Question": "What is the history of the volcano?",
+                    "Answer": "The volcano has been active for the last 10,000 years and has erupted 41 times. The last major eruption was in 2008."
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "The volcano is located in Skamania County."
+                },
+                {
+                    "Question": "What is the size of the volcano?",
+                    "Answer": "The volcano is approximately 2 miles in diameter."
+                },
+                {
+                    "Question": "What type of volcano is it?",
+                    "Answer": "The volcano is a stratovolcano."
+                },
+                {
+                    "Question": "When was the last time the volcano erupted?",
+                    "Answer": "The volcano last erupted in 2008, followed by a small tremor that lasted for nearly ninety minutes, and a magnitude 2.7 earthquake."
+                },
+                {
+                    "Question": "What dangers does the volcano pose?",
+                    "Answer": "The dangers of the volcano include the potential for a large eruption that could cause extensive damage to nearby communities, and send large amounts of ash fall across the Pacific Northwest."
+                },
+                {
+                    "Question": "Are there any evacuation plans in place in case of an eruption?",
+                    "Answer": "Yes, there will be evacuation plans in place in case of an eruption which will include Washington Department of Emergency Services instructing residents within 15 miles of the volcano to flee the area."
+                },
+                {
+                    "Question": "What should people do if they are caught in an eruption?",
+                    "Answer": "People caught in an eruption should try to get to high ground, seek shelter indoors immediately and avoid low-lying areas and streams."
+                }
+            ],
+            "Output": " Volcanoes are dangerous because they can have large eruptions that can cause extensive damage to nearby communities. Volcanoes can also send large amounts of ash fall across the Pacific Northwest. In 2008, the volcano erupted and sent a small tremor that lasted for nearly ninety minutes, and a magnitude 2.7 earthquake. If you are caught in an eruption, you should try to get to high ground, seek shelter indoors immediately and avoid low-lying areas and streams."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the geological report?",
+                    "Answer": "The purpose of the report is explain the threats of a volcano."
+                },
+                {
+                    "Question": "What information do you need to write the report?",
+                    "Answer": "I need to know the previous activity of the volcano, the location of the volcano, the properties of the volcano, the type of volcano, and the number of times the volcano erupted."
+                },
+                {
+                    "Question": "What is the history of the volcano?",
+                    "Answer": "the volcano emerged above sea level around 100,000 years ago and is around 250,000 years old . Historically, it is the most active among the five volcanoes of the island."
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "The volcano is located in Hawaii."
+                },
+                {
+                    "Question": "What is the size of the volcano?",
+                    "Answer": "The volcano is approximately 3 miles in diameter."
+                },
+                {
+                    "Question": "What type of volcano is it?",
+                    "Answer": "The volcano is a shield volcano."
+                },
+                {
+                    "Question": "When was the last time the volcano erupted?",
+                    "Answer": "The volcano last erupted in September 29, 2021."
+                },
+                {
+                    "Question": "What dangers does the volcano pose?",
+                    "Answer": "The dangers of the volcano include the potential for a large eruption that could cause extensive damage to life and infrastructure. Potentially lethal concentrations of sulfur gas may develop within 1 km in the nearby areas. Active lava flows in the areas of forests can result in methane blasts that might propel boulders and other debris into the air."
+                },
+                {
+                    "Question": "Are there any evacuation plans in place in case of an eruption?",
+                    "Answer": "even after four years after the most recent eruption, there is still no evacuation plans for a Kilauea eruption."
+                },
+                {
+                    "Question": "What should people do if they are caught in an eruption?",
+                    "Answer": "People caught in an eruption should use social media to reach out for help. People should try to avoid ash, smoke and fire and use a wet piece of cloth to aid respiration."
+                }
+            ],
+            "Output": " Volcanoes are one of the most dangerous natural disasters. They are capable of causing great damage to life and infrastructure. Volcanoes are also difficult to predict, making it hard to evacuate people in the event of an eruption. The Kilauea volcano is one of the most active volcanoes in Hawaii. It last erupted in September 2021 and is considered one of the most dangerous volcanoes in the world. The dangers of the Kilauea volcano include the potential for a large eruption that could cause extensive damage to life and infrastructure. Potentially lethal concentrations of sulfur gas may develop within 1 km in the nearby areas. Active lava flows in the areas of forests can result in methane blasts that might propel boulders and other debris into the air. There are no evacuation plans in place in the event of an eruption. This is because predicting volcanoes is difficult. If you are caught in an eruption, you should use social media to reach out for help. Try to avoid ash, smoke and fire and use a wet piece of cloth to aid respiration."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the purpose of the geological report?",
+                    "Answer": "The purpose of the report is to explain the Hazards of the Mount Tambora."
+                },
+                {
+                    "Question": "What information do you need to write the report?",
+                    "Answer": "I need to know the volcanic activity and its history."
+                },
+                {
+                    "Question": "What is the history of the volcano?",
+                    "Answer": "Most of the volcano was formed 25000 years ago. Mount Tambora became highly active in 1812 and had its biggest eruption in April 1815."
+                },
+                {
+                    "Question": "What is the location of the volcano?",
+                    "Answer": "The volcano is located in Indonesia."
+                },
+                {
+                    "Question": "What is the size of the volcano?",
+                    "Answer": "The base radius is around 30 km."
+                },
+                {
+                    "Question": "What type of volcano is it?",
+                    "Answer": "The volcano is a stratovolcano."
+                },
+                {
+                    "Question": "When was the last time the volcano erupted?",
+                    "Answer": "The volcano last erupted in 1967."
+                },
+                {
+                    "Question": "What dangers does the volcano pose?",
+                    "Answer": "falling temperatures can lead to decreased rainfall, failed crops, extensive damage to nearby areas and even mass starvation."
+                },
+                {
+                    "Question": "Are there any evacuation plans in place in case of an eruption?",
+                    "Answer": "there are no evacuation plans currently."
+                },
+                {
+                    "Question": "What should people do if they are caught in an eruption?",
+                    "Answer": "As the eruption can have world wide effects, people can't do much to help themselves and will need to depend on the government to take immediate action."
+                }
+            ],
+            "Output": " Mount Tambora is a stratovolcano located in Indonesia. The volcano last erupted in 1967 and is considered active. The volcano poses a great danger to the nearby areas and even the world due to its size. If an eruption were to happen, the falling temperatures could lead to decreased rainfall, failed crops, and mass starvation. There are no evacuation plans currently in place, so people would need to depend on the government to take immediate action."
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "Contributor": "baptistawalstan",
+    "Domain": "Urban Planning",
+    "Task": "Report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Urban Planner. I will ask some questions to collect information and then I will use the information to report about a poorly planned town.",
+        "task_specific_prompt": "Write a report about a poorly planned town using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are some problems that you have observed in the town?",
+                    "Answer": "Some problems that I have observed in the town include: lack of sidewalks, lack of crosswalks, poor street lighting, lack of public transportation, and a general lack of pedestrian-friendly infrastructure."
+                },
+                {
+                    "Question": "Who are the people that live in the town?",
+                    "Answer": "The people who live in the town are mostly families with young children. There are also a lot of seniors who live in the town."
+                },
+                {
+                    "Question": "What is the income level of the people who live in the town?",
+                    "Answer": "The income level of the people who live in the town is mostly low to moderate. There are a few higher income families, but the majority of the town falls into the lower to moderate income bracket."
+                },
+                {
+                    "Question": "What is the job market like in the town?",
+                    "Answer": "The job market in the town is not very good. There are not many jobs available, and the jobs that are available are mostly low-paying."
+                },
+                {
+                    "Question": "What is the crime rate like in the town?",
+                    "Answer": "The crime rate in the town is relatively high. There have been a number of break-ins and robberies, and there is a lot of gang activity in the town."
+                },
+                {
+                    "Question": "What is the quality of the schools in the town?",
+                    "Answer": "The quality of the schools in the town is not very good. The schools are underfunded and there are not enough resources for the students."
+                },
+                {
+                    "Question": "What is the general feeling of the people who live in the town?",
+                    "Answer": "The general feeling of the people who live in the town is one of dissatisfaction. The town is not meeting the needs of the residents, and there is a lot of frustration among the people who live there."
+                },
+                {
+                    "Question": "What is the town's history?",
+                    "Answer": "The town's history is one of decline. The town was once a thriving community, but over the years it has become more and more rundown."
+                },
+                {
+                    "Question": "What is the town's future?",
+                    "Answer": "The town's future is uncertain. The town is not doing well economically, and it is not clear what the future holds for the town."
+                },
+                {
+                    "Question": "What can be done to improve the town?",
+                    "Answer": "There are a number of things that can be done to improve the town. Some of these include: increasing the number of jobs, improving the quality of the schools, and increasing the safety of the town."
+                }
+            ],
+            "Output": "The town of XYZ is a poorly planned town that is facing a number of serious problems. The town is lacking in basic infrastructure, there is a high crime rate, and the quality of the schools is poor. The people who live in the town are mostly families with young children and seniors. The income level of the town is mostly low to moderate. The job market in the town is not very good, and the jobs that are available are mostly low-paying. The general feeling of the people who live in the town is one of dissatisfaction. The town is not meeting the needs of the residents, and there is a lot of frustration among the people who live there. The town's future is uncertain. The town is not doing well economically, and it is not clear what the future holds for the town. There are a number of things that can be done to improve the town, but it is not clear if the town will be able to make the necessary changes."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some problems that you have observed in the town?",
+                    "Answer": "Some problems that I have observed in the town include: a lack of green space, a lack of pedestrian-friendly infrastructure, a lack of public transportation, and a lack of affordable housing."
+                },
+                {
+                    "Question": "Who are the people that live in the town?",
+                    "Answer": "The people that live in the town are mostly working-class families."
+                },
+                {
+                    "Question": "What is the income level of the people who live in the town?",
+                    "Answer": "The income level of the people who live in the town is mostly working-class. And people are doing mostly small jobs and are paid less"
+                },
+                {
+                    "Question": "What is the job market like in the town?",
+                    "Answer": "The job market in the town is not very good. There are not many jobs available, and the jobs that are available are mostly low-paying."
+                },
+                {
+                    "Question": "What is the crime rate like in the town?",
+                    "Answer": "The crime rate in the town is high. There is a lot of property crime, and there is also a lot of violent crime."
+                },
+                {
+                    "Question": "What is the quality of the schools in the town?",
+                    "Answer": "The quality of the schools in the town is poor. The schools are underfunded, and the teachers are not very good."
+                },
+                {
+                    "Question": "What is the general feeling of the people who live in the town?",
+                    "Answer": "The general feeling of the people who live in the town is that it is a poor place to live. The town is not very livable, and the people are not very happy."
+                },
+                {
+                    "Question": "What is the town's history?",
+                    "Answer": "The town's history is that it was founded in the early 1800s. It was originally a mining town, but the mines have since dried up."
+                },
+                {
+                    "Question": "What is the town's future?",
+                    "Answer": "The town's future is uncertain. The town is not doing well, and it is not clear what will happen to it."
+                },
+                {
+                    "Question": "What can be done to improve the town?",
+                    "Answer": "Some things that can be done to improve the town include: increasing the green space, making the town more pedestrian-friendly, improving the public transportation, and increasing the affordability of housing."
+                }
+            ],
+            "Output": "The town that I am going to write about is a poorly planned town. The town has a lack of green space, a lack of pedestrian-friendly infrastructure, lack of public transportation, and a lack of affordable housing. The people who live in the town are mostly working-class families. The income level of the people who live in the town is mostly working-class. And people are doing mostly small jobs and are paid less. The job market in the town is not very good. There are not many jobs available, and the jobs that are available are mostly low-paying. The crime rate in the town is high. There is a lot of property crime, and there is also a lot of violent crime. The quality of the schools in the town is poor. The schools are underfunded, and the teachers are not very good. The general feeling of the people who live in the town is that it is a poor place to live. The town is not very livable, and the people are not very happy. The town's history is that it was founded in the early 1800s. It was originally a mining town, but the mines have since dried up. The town's future is uncertain. The town is not doing well, and it is not clear what will happen to it. Some things that can be done to improve the town include: increasing the green space, making the town more pedestrian-friendly, improving the public transportation, and increasing the affordability of housing."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are some problems that you have observed in the town?",
+                    "Answer": "Some problems that I have observed in the town are that the streets are very narrow, there are a lot of traffic jams, and the buildings are very close together."
+                },
+                {
+                    "Question": "Who are the people that live in the town?",
+                    "Answer": "The people who live in the town are mainly families with young children."
+                },
+                {
+                    "Question": "What is the income level of the people who live in the town?",
+                    "Answer": "The income level of the people who live in the town is mainly low to moderate."
+                },
+                {
+                    "Question": "What is the job market like in the town?",
+                    "Answer": "The job market in the town is not very good. There are not many jobs available and the jobs that are available are not very well-paying."
+                },
+                {
+                    "Question": "What is the crime rate like in the town?",
+                    "Answer": "The crime rate in the town is relatively high. There have been a lot of reports of burglary and theft in the town."
+                },
+                {
+                    "Question": "What is the quality of the schools in the town?",
+                    "Answer": "The quality of the schools in the town is not very good. There are a lot of overcrowded classrooms and the teachers are not very well-qualified."
+                },
+                {
+                    "Question": "What is the general feeling of the people who live in the town?",
+                    "Answer": "The general feeling of the people who live in the town is one of frustration. There are a lot of problems with the town and the people feel like they are not being listened to."
+                },
+                {
+                    "Question": "What is the town's history?",
+                    "Answer": "The town has a long history of being poorly planned and designed. The town has been this way for many years and it does not seem to be improving."
+                },
+                {
+                    "Question": "What is the town's future?",
+                    "Answer": "The town's future is uncertain. It is not clear what will happen to the town if the current trend of poor planning and design continues."
+                },
+                {
+                    "Question": "What can be done to improve the town?",
+                    "Answer": "There are a number of things that can be done to improve the town. The first thing that needs to be done is to improve the planning and design of the town. The town needs to be designed in a way that is more efficient and effective. The second thing that needs to be done is to improve the quality of the schools in the town. The town needs to attract more qualified teachers and provide better resources for the students."
+                }
+            ],
+            "Output": "The town is poorly planned and designed. The streets are very narrow, there are a lot of traffic jams, and the buildings are very close together. The people who live in the town are mainly families with young children. The income level of the people who live in the town is mainly low to moderate. The job market in the town is not very good. There are not many jobs available and the jobs that are available are not very well-paying. The crime rate in the town is relatively high. There have been a lot of reports of burglary and theft in the town. The quality of the schools in the town is not very good. There are a lot of overcrowded classrooms and the teachers are not very well-qualified. The general feeling of the people who live in the town is one of frustration. There are a lot of problems with the town and the people feel like they are not being listened to. The town has a long history of being poorly planned and designed. The town has been this way for many years and it does not seem to be improving. The town's future is uncertain. It is not clear what will happen to the town if the current trend of poor planning and design continues. There are a number of things that can be done to improve the town. The first thing that needs to be done is to improve the planning and design of the town. The town needs to be designed in a way that is more efficient and effective. The second thing that needs to be done is to improve the quality of the schools in the town. The town needs to attract more qualified teachers and provide better resources for the students."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/94Un9ah7SD6126PU2NTRufdY?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1eM4KFvbhSwaBkZSOuDu8rDY?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/vOiTtyAlFrI5ABGpWDTVf99o?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/14A3L5rMJZz7g0vx49iogVtWP3DVuVvbz?usp=sharing"
+}

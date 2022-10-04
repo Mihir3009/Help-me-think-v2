@@ -1,0 +1,152 @@
+{
+    "Contributor": "guptashikhar",
+    "Domain": "Adobe PhotoShop",
+    "Task": "Writing about features of Adobe Photoshop",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in using Adobe Photoshop. I will ask some questions to collect information and then I will use the information to tell you the features of Adobe Photoshop.",
+        "task_specific_prompt": "Write all the features of Adobe Photoshop  using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are you using Adobe Photoshop for?",
+                    "Answer": "Photo Editing"
+                },
+                {
+                    "Question": "What do you need to do with Adobe Photoshop?",
+                    "Answer": "I need to be able to edit photos and images."
+                },
+                {
+                    "Question": "What are your Adobe Photoshop skills?",
+                    "Answer": "I can do basic photo editing in Adobe Photoshop."
+                },
+                {
+                    "Question": "What do you want to learn in Adobe Photoshop?",
+                    "Answer": "I want to learn how to use the pen tool and how to edit images more effectively."
+                },
+                {
+                    "Question": "What are your goals with Adobe Photoshop?",
+                    "Answer": "My goals are to be able to edit photos professionally and to be able to create my own images."
+                },
+                {
+                    "Question": "What is your budget for Adobe Photoshop?",
+                    "Answer": "I am willing to spend $100 on Adobe Photoshop."
+                },
+                {
+                    "Question": "What is your timeframe for Adobe Photoshop?",
+                    "Answer": "I would like to learn Adobe Photoshop within the next month."
+                },
+                {
+                    "Question": "What are the features of Adobe Photoshop that you are most interested in?",
+                    "Answer": "I am most interested in the pen tool, layers, and the ability to edit images."
+                },
+                {
+                    "Question": "What other software do you use?",
+                    "Answer": "I also use Adobe Illustrator and Adobe InDesign."
+                },
+                {
+                    "Question": "Do you have any questions about Adobe Photoshop?",
+                    "Answer": "No, I do not have any questions about Adobe Photoshop."
+                }
+            ],
+            "Output": "Adobe Photoshop is a software program used for photo editing. It has a pen tool, layers, and the ability to edit images. It is also compatible with other software programs such as Adobe Illustrator and Adobe InDesign."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are you using Adobe Photoshop for?",
+                    "Answer": "Web Designing"
+                },
+                {
+                    "Question": "What are the main features of Adobe Photoshop that you use?",
+                    "Answer": "The main features of Adobe Photoshop that I use are layers, colors, and brushes."
+                },
+                {
+                    "Question": "What do you think are the most important features of Adobe Photoshop?",
+                    "Answer": "The most important features of Adobe Photoshop are its ability to edit photos and create graphics."
+                },
+                {
+                    "Question": "What do you think sets Adobe Photoshop apart from other graphics software?",
+                    "Answer": "Adobe Photoshop is the industry standard for graphics software. It has more features and tools than other graphics software."
+                },
+                {
+                    "Question": "What do you think are the advantages of Adobe Photoshop?",
+                    "Answer": "Adobe Photoshop has many advantages. Some of the advantages are its ability to edit photos, create graphics, and its wide range of features."
+                },
+                {
+                    "Question": "What do you think are the disadvantages of Adobe Photoshop?",
+                    "Answer": "Adobe Photoshop has some disadvantages. Some of the disadvantages are its high price, its complex interface, and its steep learning curve."
+                },
+                {
+                    "Question": "Do you have any tips on using Adobe Photoshop?",
+                    "Answer": "Here are some tips on using Adobe Photoshop: 1. Get to know the interface. Spend some time familiarizing yourself with the Photoshop interface. This will make it easier to find the tools you need when you need them. 2. Learn the basics. Before you start diving into the more complex features of Photoshop, make sure you learn the basics. This includes things like working with layers, working with colors, and using the various brushes. 3. Experiment. Photoshop is a very powerful tool and there are endless possibilities for what you can do with it. So don't be afraid to experiment and try new things. 4. Get help when you need it. If you get stuck or need help with something, there are plenty of resources available. You can find tutorials, books, and online forums where you can get help from other Photoshop users."
+                },
+                {
+                    "Question": "Do you have any suggestions on ways to learn Adobe Photoshop?",
+                    "Answer": "There are a few different ways you can learn Adobe Photoshop. You can find tutorials online, buy books or video courses, or take a class."
+                },
+                {
+                    "Question": "What do you think is the best way to learn Adobe Photoshop?",
+                    "Answer": "There is no one best way to learn Adobe Photoshop. It depends on your learning style and what works best for you. Some people prefer to learn by watching tutorials, others prefer to learn by reading books, and others prefer to learn by taking a class."
+                },
+                {
+                    "Question": "Do you have any other comments about Adobe Photoshop?",
+                    "Answer": "No, I think that covers it."
+                }
+            ],
+            "Output": "Adobe Photoshop has many features, including layers, colors, brushes, and the ability to edit photos and create graphics. It is the industry standard for graphics software and has more features and tools than other graphics software. Adobe Photoshop has some disadvantages, including its high price, complex interface, and steep learning curve."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are you using Adobe Photoshop for?",
+                    "Answer": "Video Editing"
+                },
+                {
+                    "Question": "What are the main features you use in Adobe Photoshop?",
+                    "Answer": "Some of the main features I use are the clone stamp tool, the healing brush tool, and the content-aware fill."
+                },
+                {
+                    "Question": "What do you think are the advantages of Adobe Photoshop?",
+                    "Answer": "Adobe Photoshop has many advantages, but some of the main ones are that it is very user-friendly."
+                },
+                {
+                    "Question": "What do you think are the disadvantages of Adobe Photoshop?",
+                    "Answer": "Adobe Photoshop can be expensive and it can be hard to find good tutorials if you are a beginner."
+                },
+                {
+                    "Question": "Do you have any tips for using Adobe Photoshop?",
+                    "Answer": "Here are some tips for using Adobe Photoshop: 1. Get to know the interface and where everything is located. This will make it easier to find the tools you need when you need them. 2. Experiment with the different tools and see what they can do. This will help you learn how to use the software more effectively. 3. Use tutorials to learn new techniques. This can be a great way to improve your skills and learn about new features."
+                },
+                {
+                    "Question": "Do you have any other comments about Adobe Photoshop?",
+                    "Answer": "I think Adobe Photoshop is a great software program and it is very versatile. It is perfect for both beginners and advanced users."
+                },
+                {
+                    "Question": "Is there anything else you would like to share about Adobe Photoshop?",
+                    "Answer": "Yes"
+                },
+                {
+                    "Question": "What is your favorite feature in Adobe Photoshop?",
+                    "Answer": "My favorite feature in Adobe Photoshop is the clone stamp tool. I find it very helpful for retouching photos."
+                },
+                {
+                    "Question": "What is clone stamp tool?",
+                    "Answer": "The clone stamp tool allows you to copy pixels from one area of an image and paste them into another area."
+                },
+                {
+                    "Question": "How do you use the clone stamp tool?",
+                    "Answer": "To use the clone stamp tool, you first need to select the area you want to copy. Then, you click and hold the mouse button down on the area you want to paste the copied pixels. Finally, you drag the mouse to the area you want to paste the pixels and release the mouse button."
+                }
+            ],
+            "Output": "Adobe Photoshop is a software program that is used for editing photos and videos. It is very user-friendly and has many features that make it perfect for both beginners and advanced users. Some of the main features include the clone stamp tool, the healing brush tool, and the content-aware fill."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/NztHAUX5zhIHP2iAWUvKuP2u?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/hXSqX4TWnKrAizfZlQFmyJdt?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/DSgj11SS7rS4621ZfqTEya1w?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1WlY4LeJ1z6SQOAnqp0dnY95kpLVs5wmQ?usp=sharing"
+}

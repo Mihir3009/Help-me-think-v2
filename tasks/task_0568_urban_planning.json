@@ -1,0 +1,152 @@
+{
+    "Contributor": "baptistawalstan",
+    "Domain": "Urban Planning",
+    "Task": "Plan a city",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Urban Planner. I will ask some questions to collect information and then I will use the information to plan a new city.",
+        "task_specific_prompt": "Write about a city that a good urban planner would plan using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the demographics of the city?",
+                    "Answer": "The city has a population of 1,000,000 people. The majority of the population is between the ages of 20 and 40. The city has a diverse population, with a variety of races and ethnicities represented."
+                },
+                {
+                    "Question": "What is the city's economy like?",
+                    "Answer": "The city has a diverse economy, with a mix of manufacturing, service, and retail businesses. The city is home to a number of large businesses, as well as a number of small businesses. The city's economy is growing, and the unemployment rate is low."
+                },
+                {
+                    "Question": "What is the city's infrastructure like?",
+                    "Answer": "The city has a well-developed infrastructure, with a good transportation system, a reliable water supply, and a variety of health and educational facilities."
+                },
+                {
+                    "Question": "What is the city's climate like?",
+                    "Answer": "The city has a temperate climate, with mild winters and warm summers. The city experiences a fair amount of precipitation, and the air quality is good."
+                },
+                {
+                    "Question": "What are the city's recreation and entertainment options like?",
+                    "Answer": "The city has a variety of recreation and entertainment options, including parks, museums, and a variety of restaurants and bars."
+                },
+                {
+                    "Question": "What are the city's housing options like?",
+                    "Answer": "The city has a variety of housing options, including apartments, houses, and condos. There is a range of prices for housing, and the availability of housing is good."
+                },
+                {
+                    "Question": "What are the city's schools like?",
+                    "Answer": "The city has a number of good schools, both public and private. The schools are well-funded and offer a variety of programs and services."
+                },
+                {
+                    "Question": "What are the city's crime rates like?",
+                    "Answer": "The city has a low crime rate, and the police are effective at keeping the city safe."
+                },
+                {
+                    "Question": "What are the city's residents like?",
+                    "Answer": "The city's residents are friendly and welcoming. They are proud of their city and are happy to live there."
+                },
+                {
+                    "Question": "What are the city's transportation options like?",
+                    "Answer": "The city has a good transportation system, with a variety of options for getting around. The city is easy to navigate, and traffic is not a problem."
+                }
+            ],
+            "Output": "The city has a population of 1,000,000 people. The majority of the population is between the ages of 20 and 40. The city has a diverse population, with a variety of races and ethnicities represented. The city has a diverse economy, with a mix of manufacturing, service, and retail businesses. The city is home to a number of large businesses, as well as a number of small businesses. The city's economy is growing, and the unemployment rate is low. The city has a well-developed infrastructure, with a good transportation system, a reliable water supply, and a variety of health and educational facilities. The city has a temperate climate, with mild winters and warm summers. The city experiences a fair amount of precipitation, and the air quality is good. The city has a variety of recreation and entertainment options, including parks, museums, and a variety of restaurants and bars. The city has a variety of housing options, including apartments, houses, and condos. There is a range of prices for housing, and the availability of housing is good. The city has a number of good schools, both public and private. The schools are well-funded and offer a variety of programs and services. The city has a low crime rate, and the police are effective at keeping the city safe. The city's residents are friendly and welcoming. They are proud of their city and are happy to live there. The city has a good transportation system, with a variety of options for getting around. The city is easy to navigate, and traffic is not a problem."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the demographics of the city?",
+                    "Answer": "The city has a population of 2,100,000 people. The majority of the population is white, followed by black, Hispanic, and Asian. The median age is 35, and the median income is $50,000."
+                },
+                {
+                    "Question": "What is the city's economy like?",
+                    "Answer": "The city has a thriving economy, with a variety of businesses and industries represented. The city is home to a number of Fortune 500 companies, as well as a number of smaller businesses. The city has a low unemployment rate and a high standard of living."
+                },
+                {
+                    "Question": "What is the city's infrastructure like?",
+                    "Answer": "The city has a well-developed infrastructure, with a variety of public and private transportation options. The city is home to a number of hospitals, schools, and parks. The city also has a low crime rate"
+                },
+                {
+                    "Question": "What is the city's climate like?",
+                    "Answer": "The city has a temperate climate, with four distinct seasons. The average temperature in the city is 70 degrees. The city receives a moderate amount of precipitation each year."
+                },
+                {
+                    "Question": "What are the city's recreation and entertainment options like?",
+                    "Answer": "The city has a variety of recreation and entertainment options, including a number of museums, theaters, and restaurants. The city also has a number of parks and recreational facilities."
+                },
+                {
+                    "Question": "What are the city's housing options like?",
+                    "Answer": "The city has a variety of housing options, including apartments, condos, and single-family homes. The city also has a number of affordable housing options."
+                },
+                {
+                    "Question": "What are the city's schools like?",
+                    "Answer": "The city has a number of high-quality schools, both public and private. The city also has a number of colleges and universities."
+                },
+                {
+                    "Question": "What are the city's crime rates like?",
+                    "Answer": "The city has a low crime rate, and the city is considered safe."
+                },
+                {
+                    "Question": "What are the city's residents like?",
+                    "Answer": "The city's residents are diverse, friendly, and welcoming. The city is a great place to live, work, and raise a family."
+                },
+                {
+                    "Question": "What are the city's transportation options like?",
+                    "Answer": "The city has a variety of public and private transportation options, including buses, trains, and taxis. The city also has a number of airports."
+                }
+            ],
+            "Output": "The city is a great place to live, work, and raise a family. The city has a thriving economy, with a variety of businesses and industries represented. The city is home to a number of Fortune 500 companies, as well as a number of smaller businesses. The city has a low unemployment rate and a high standard of living. The city has a well-developed infrastructure, with a variety of public and private transportation options. The city is home to a number of hospitals, schools, and parks. The city also has a low crime rate. The city has a temperate climate, with four distinct seasons. The average temperature in the city is 70 degrees. The city receives a moderate amount of precipitation each year. The city has a variety of recreation and entertainment options, including a number of museums, theaters, and restaurants. The city also has a number of parks and recreational facilities. The city has a variety of housing options, including apartments, condos, and single-family homes. The city also has a number of affordable housing options. The city has a number of high-quality schools, both public and private. The city also has a number of colleges and universities. The city's residents are diverse, friendly, and welcoming."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the demographics of the city?",
+                    "Answer": "The city has a population of 80,000 people. The majority of the population is middle class, with a small number of upper class and lower class citizens. The city is made up of mostly families, with a smaller number of single people and retirees."
+                },
+                {
+                    "Question": "What is the city's economy like?",
+                    "Answer": "The city's economy is based on manufacturing and agriculture. The city also has a large service industry, with a number of hospitals, schools, and businesses."
+                },
+                {
+                    "Question": "What is the city's infrastructure like?",
+                    "Answer": "The city's infrastructure is good. The city has a large number of roads and a good public transportation system. The city also has a number of hospitals, schools, and businesses."
+                },
+                {
+                    "Question": "What is the city's climate like?",
+                    "Answer": "The city has a temperate climate, with four distinct seasons. The city is located in a river valley, which helps to moderate the climate."
+                },
+                {
+                    "Question": "What are the city's recreation and entertainment options like?",
+                    "Answer": "The city has a number of parks, a public swimming pool, and a number of museums and theaters. The city also has a number of restaurants and bars."
+                },
+                {
+                    "Question": "What are the city's housing options like?",
+                    "Answer": "The city has a variety of housing options, including apartments, houses, and condos. There is a mix of single-family homes and multi-family homes."
+                },
+                {
+                    "Question": "What are the city's schools like?",
+                    "Answer": "The city has a number of public and private schools. The city also has a number of colleges and universities."
+                },
+                {
+                    "Question": "What are the city's crime rates like?",
+                    "Answer": "The city has a low crime rate."
+                },
+                {
+                    "Question": "What are the city's residents like?",
+                    "Answer": "The city's residents are friendly and welcoming. The city is a diverse and vibrant community."
+                },
+                {
+                    "Question": "What are the city's transportation options like?",
+                    "Answer": "The city has a good public transportation system. The city also has a number of roads."
+                }
+            ],
+            "Output": "The city is a great place for families with a large number of parks and a public swimming pool. The city's economy is based on manufacturing and agriculture, but it also has a large service industry. The city has a number of hospitals, schools, and businesses. The city's infrastructure is good, with a large number of roads and a good public transportation system. The city has a temperate climate, with four distinct seasons. The city is located in a river valley, which helps to moderate the climate. The city has a number of parks, a public swimming pool, and a number of museums and theaters. The city also has a number of restaurants and bars. The city has a variety of housing options, including apartments, houses, and condos. There is a mix of single-family homes and multi-family homes. The city has a number of public and private schools. The city also has a number of colleges and universities. The city has a low crime rate. The city's residents are friendly and welcoming. The city is a diverse and vibrant community. The city has a good public transportation system. The city also has a number of roads."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/PRftsSvBw0Y8VxDRaAdjO4UW?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/JBTVeusDAkzIPhn1Cy4TnptR?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/fG4fxNVlB7UPfxNTYkZEyfvs?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/14A3L5rMJZz7g0vx49iogVtWP3DVuVvbz?usp=sharing"
+}

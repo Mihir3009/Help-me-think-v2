@@ -1,0 +1,240 @@
+{
+    "Contributor": "dhingraaarushi",
+    "Domain": "Country",
+    "Task": "What country should I fly to next?",
+    "Prompt": {
+        "pre_question_prompt": " I am an expert country decider. I will ask some questions to collect information and then I will use the information to help you decide which country should you travel next.",
+        "task_specific_prompt": "What country should I visit using the questions and answers given above?"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "$10,000"
+                },
+                {
+                    "Question": "What is your preferred climate?",
+                    "Answer": "I prefer a temperate climate."
+                },
+                {
+                    "Question": "What is your preferred landscape?",
+                    "Answer": "I prefer a landscape with mountains and forests."
+                },
+                {
+                    "Question": "What is your preferred language?",
+                    "Answer": "I prefer to speak English."
+                },
+                {
+                    "Question": "What is your preferred currency?",
+                    "Answer": "I prefer to use US dollars."
+                },
+                {
+                    "Question": "What is your preferred type of food?",
+                    "Answer": "I prefer Italian food."
+                },
+                {
+                    "Question": "What is your preferred type of accommodation?",
+                    "Answer": "I prefer to stay in a hotel."
+                },
+                {
+                    "Question": "What is your preferred transportation method?",
+                    "Answer": "I prefer to fly."
+                },
+                {
+                    "Question": "What is your preferred activity while on vacation?",
+                    "Answer": "I prefer to sightsee."
+                },
+                {
+                    "Question": "What type of traveler are you?",
+                    "Answer": "I am a solo traveler."
+                },
+                {
+                    "Question": "What is your age?",
+                    "Answer": "I am 23 years old."
+                },
+                {
+                    "Question": "What is your gender?",
+                    "Answer": "I am female."
+                },
+                {
+                    "Question": "What is your nationality?",
+                    "Answer": "I am Indian."
+                },
+                {
+                    "Question": "What is your profession?",
+                    "Answer": "I am a student."
+                },
+                {
+                    "Question": "What is the purpose of your trip?",
+                    "Answer": "I am going on a vacation."
+                },
+                {
+                    "Question": "What are your preferred dates for travel?",
+                    "Answer": "I prefer to travel in the summer."
+                },
+                {
+                    "Question": "What is your preferred travel duration?",
+                    "Answer": "I prefer to travel for two weeks."
+                },
+                {
+                    "Question": "What is your maximum travel budget?",
+                    "Answer": "I am willing to spend up to $10,000 on my trip."
+                },
+                {
+                    "Question": "What is your preferred method of travel?",
+                    "Answer": "I prefer to fly."
+                },
+                {
+                    "Question": "What is your preferred destination?",
+                    "Answer": "I would like to visit Italy."
+                },
+                {
+                    "Question": "What is your preferred type of accommodation?",
+                    "Answer": "I would like to stay in a hotel."
+                },
+                {
+                    "Question": "What is your preferred type of transportation?",
+                    "Answer": "I prefer to fly."
+                },
+                {
+                    "Question": "What is your preferred type of food?",
+                    "Answer": "I prefer Italian food."
+                }
+            ],
+            "Output": "Italy"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How many people will be going on the trip?",
+                    "Answer": "There will be four people going on the trip."
+                },
+                {
+                    "Question": "What are the ages of the people going on the trip?",
+                    "Answer": "The ages of the people going on the trip are 23, 25, 27, and 29."
+                },
+                {
+                    "Question": "What are the interests of the people going on the trip?",
+                    "Answer": "The interests of the people going on the trip are hiking, camping, and fishing."
+                },
+                {
+                    "Question": "What is the budget for the trip?",
+                    "Answer": "The budget for the trip is $2000."
+                },
+                {
+                    "Question": "What is the climate like in the country you are recommending?",
+                    "Answer": "The climate in Canada varies depending on the region, but in general, the summers are warm and the winters are cold."
+                },
+                {
+                    "Question": "Are there any specific places you would recommend visiting in the country you are recommending?",
+                    "Answer": "Some specific places to visit in Canada would be Banff National Park, Jasper National Park, and Yoho National Park."
+                },
+                {
+                    "Question": "What is the currency in the country you are recommending?",
+                    "Answer": "The currency in Canada is the Canadian dollar."
+                },
+                {
+                    "Question": "Is there anything else you think we should know before making our decision?",
+                    "Answer": "No, that is all the information I have."
+                },
+                {
+                    "Question": "Are you sure you have enough information to make a decision?",
+                    "Answer": "Yes, I am confident in my decision."
+                }
+            ],
+            "Output": "I would recommend visiting Canada. It is a beautiful country with a lot to offer in terms of nature and outdoor activities. The currency is also relatively affordable, making it a great option for budget-minded travelers."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How much money do you want to spend?",
+                    "Answer": "$55000"
+                },
+                {
+                    "Question": "How many people will you be traveling with?",
+                    "Answer": "1"
+                },
+                {
+                    "Question": "What type of climate do you prefer?",
+                    "Answer": "I prefer cold climate."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "I prefer cruise transportation."
+                },
+                {
+                    "Question": "What are your preferred activities while on vacation?",
+                    "Answer": "My preferred activities are skiing and snowboarding."
+                },
+                {
+                    "Question": "What is your budget per person?",
+                    "Answer": "My budget per person is $55000."
+                },
+                {
+                    "Question": "What is the purpose of your trip?",
+                    "Answer": "The purpose of my trip is to relax and have fun."
+                },
+                {
+                    "Question": "What are your preferred accommodations?",
+                    "Answer": "My preferred accommodations are resorts."
+                },
+                {
+                    "Question": "What is your preferred destination?",
+                    "Answer": "My preferred destination is Europe."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "My preferred method of transportation is by sea."
+                },
+                {
+                    "Question": "What is your preferred accommodation?",
+                    "Answer": "My preferred accommodation is a resort."
+                },
+                {
+                    "Question": "What is your budget per person?",
+                    "Answer": "My budget per person is $55000."
+                },
+                {
+                    "Question": "What is the purpose of your trip?",
+                    "Answer": "The purpose of my trip is to relax."
+                },
+                {
+                    "Question": "What are your preferred activities while on vacation?",
+                    "Answer": "My preferred activities are skiing, snowboarding, and hiking."
+                },
+                {
+                    "Question": "What is your preferred destination?",
+                    "Answer": "My preferred destination is Europe."
+                },
+                {
+                    "Question": "What is your preferred method of transportation?",
+                    "Answer": "My preferred method of transportation is by water."
+                },
+                {
+                    "Question": "What is your preferred accommodation?",
+                    "Answer": "My preferred accommodation is a resort."
+                },
+                {
+                    "Question": "What is your budget per person?",
+                    "Answer": "My budget per person is $55000."
+                },
+                {
+                    "Question": "What is the purpose of your trip?",
+                    "Answer": "The purpose of my trip is to relax and have fun."
+                },
+                {
+                    "Question": "What are your preferred activities while on vacation?",
+                    "Answer": "My preferred activities are skiing, snowboarding, and hiking."
+                }
+            ],
+            "Output": "I should visit Norway because it is my preferred destination, I can travel there by water, and my preferred activities are skiing, snowboarding, and hiking."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/NFhRKAsF3KHFRyKs8QFbgA3w?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/50FGHUb8ayv7qXgZj4wUmkPX?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/GxPhwl8EWlQO6ymC61Iy3mEV?model=text-davinci-002"
+    ],
+    "Screenshot Link": "https://drive.google.com/drive/folders/1azxSoXzmHxmKuJK83QEjGfaBHnd4cMFD?usp=sharing"
+}

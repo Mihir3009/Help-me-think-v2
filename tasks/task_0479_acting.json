@@ -1,0 +1,153 @@
+{
+    "Contributor": "guweiwei",
+    "Domain": "Acting",
+    "Task": "Type acting(detectives)",
+    "Prompt": {
+        "pre_question_prompt": "I am a professional type actor for detectives. I will ask some questions to collect information of the character and then I will use the information to act the character correctly.",
+        "task_specific_prompt": "Tell me how to perform the character described in the questions and answers above. Use an example to make the explanation clear."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the character's name?",
+                    "Answer": "The character's name is Ranho."
+                },
+                {
+                    "Question": "What is the character's gender?",
+                    "Answer": "The character is male."
+                },
+                {
+                    "Question": "What is the character's profession?",
+                    "Answer": "The character is a detective."
+                },
+                {
+                    "Question": "What is the character's motivation?",
+                    "Answer": "The character's motivation is to solve crimes and catch criminals to revenge his brother."
+                },
+                {
+                    "Question": "What is the character's personality?",
+                    "Answer": "The character is cold, stoic and always calm. He uses his deductive skills to solve crimes."
+                },
+                {
+                    "Question": "What is the character's appearance?",
+                    "Answer": "The character is tall and is thin. He is always wearing a brown hat."
+                },
+                {
+                    "Question": "What is the character's background?",
+                    "Answer": "The character grew up in a small town and was always interested in solving crimes. When his brother was killed, he decided to become a detective to catch the killer."
+                },
+                {
+                    "Question": "What is the character's relationship with others?",
+                    "Answer": "The character is always polite and doesn't get emotionally involved with others. However, before the crime is solved, the character always considers all the relevant people as suspect."
+                },
+                {
+                    "Question": "What is the character's city of residence?",
+                    "Answer": "The character lives in Tokyo."
+                },
+                {
+                    "Question": "What is the character's country of residence?",
+                    "Answer": "The character is Japanese."
+                }
+            ],
+            "Output": "When acting the character, the actor would need to be calm and stoic. They should use their deductive skills to solve crimes. The character is polite but always considers everyone a suspect until the crime is solved."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the character's name?",
+                    "Answer": "The character's name is Ming."
+                },
+                {
+                    "Question": "What is the character's gender?",
+                    "Answer": "The character is male."
+                },
+                {
+                    "Question": "What is the character's profession?",
+                    "Answer": "The character is a physic professor, but he loves the puzzles in crimes."
+                },
+                {
+                    "Question": "What is the character's motivation?",
+                    "Answer": "The character's motivation is to solve interesting physical problem in crimes."
+                },
+                {
+                    "Question": "What is the character's personality?",
+                    "Answer": "The character is humorous, warm-hearted, and enthusiastic in science."
+                },
+                {
+                    "Question": "What is the character's appearance?",
+                    "Answer": "The character is tall and is strong, usually covered in scientist uniform as he is a professor."
+                },
+                {
+                    "Question": "What is the character's background?",
+                    "Answer": "The character is a professor in a famous university. He is fascinated with the physics occur in crime scene and therefore he is the special assistant for police to solve for hard crime."
+                },
+                {
+                    "Question": "What is the character's relationship with others?",
+                    "Answer": "The character is always polite and doesn't get emotionally involved with others. The only thing he cares about in the crime is the puzzle itself, and he doesn't care about the execution of catching the criminals, which makes his police partner confused in some cases."
+                },
+                {
+                    "Question": "What is the character's city of residence?",
+                    "Answer": "The character lives in Tokyo."
+                },
+                {
+                    "Question": "What is the character's country of residence?",
+                    "Answer": "The character is Japanese."
+                }
+            ],
+            "Output": "In order to play the character Ming correctly, the actor should remember that he is a professor who loves solving puzzles. He should be enthusiastic and warm-hearted, but also polite and emotionally distant. The actor should also keep in mind that Ming lives in Tokyo and is Japanese. An example of how this might be enacted would be if, during a scene where Ming is investigating a crime scene, the actor playing him is excitedly discussing the physics at work while remaining calm and collected."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the character's name?",
+                    "Answer": "The character's name is Hana."
+                },
+                {
+                    "Question": "What is the character's gender?",
+                    "Answer": "The character is female."
+                },
+                {
+                    "Question": "What is the character's profession?",
+                    "Answer": "The character is a police officer."
+                },
+                {
+                    "Question": "What is the character's motivation?",
+                    "Answer": "The character's motivation is to investigate the mental state of the criminals."
+                },
+                {
+                    "Question": "What is the character's personality?",
+                    "Answer": "The character is cold and indifferent in deep. She holds a similar mindset to the criminals"
+                },
+                {
+                    "Question": "What is the character's appearance?",
+                    "Answer": "The character is of average height and slim. She wears her police uniform most of the time"
+                },
+                {
+                    "Question": "What is the character's background?",
+                    "Answer": "The character is a police officer for murdering. She holds a similar mindset as the criminals and therefore hopes to know herself better by catching the criminals."
+                },
+                {
+                    "Question": "What is the character's relationship with others?",
+                    "Answer": "She pretends to be nice, kind, and friendly to others. But in deep, she is extremely cold and does not even grieve one of her best friend's death."
+                },
+                {
+                    "Question": "What is the character's city of residence?",
+                    "Answer": "The character lives in Tokyo."
+                },
+                {
+                    "Question": "What is the character's country of residence?",
+                    "Answer": "The character is Japanese."
+                }
+            ],
+            "Output": "The character Hana is a police officer who is investigating the mental state of criminals. She is cold and indifferent in deep. She holds a similar mindset to the criminals. The character's relationship with others is that she pretends to be nice, kind, and friendly to others. But in deep, she is extremely cold and does not even grieve one of her best friend's death. An example of how to perform the character would be as follows: Hana would approach a criminal with a cold and indifferent demeanor. She would not show any emotion, even if the criminal was confessing to a heinous crime. She would maintain eye contact and ask probing questions in an attempt to understand the criminal's mindset. Even if the criminal was her friend, she would not show any empathy or warmth."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/3TKuhCerUJnh03mYz5deg22y?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/9o21iact2yTYd9cYVHTYnrQ7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3ssLZMbbOukGyE0gp5EEUFOl?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Zo8Fya7fDjxE39TgNc_SH3ouVD3ZCnON?usp=sharing",
+    "contributor": "Weiwei Gu"
+}

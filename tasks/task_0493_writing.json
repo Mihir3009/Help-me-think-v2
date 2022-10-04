@@ -1,0 +1,156 @@
+{
+    "Contributor": "gunnreddyvarunkumarreddy",
+    "Domain": "Writing",
+    "Task": "write a story for kids",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Story writer. I will ask some questions to collect information and then I will use the information to write a story for kids.",
+        "task_specific_prompt": "Write a complete story for kids using the questions and answers above. Also add details to make it complete."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What does the little girl in the story want?",
+                    "Answer": "The little girl in the story wants a pet dog."
+                },
+                {
+                    "Question": "What does the little girl's mother say about getting a pet dog?",
+                    "Answer": "The little girl's mother says that they cannot get a pet dog because they live in an apartment and dogs need a lot of space to run around."
+                },
+                {
+                    "Question": "What does the little girl do to convince her mother to let her get a pet dog?",
+                    "Answer": "The little girl asks her mother if they can visit the animal shelter to meet some dogs. After meeting some dogs, the little girl's mother agrees to let her get a pet dog."
+                },
+                {
+                    "Question": "What kind of dog does the little girl end up getting?",
+                    "Answer": "The little girl gets a small dog that she names Max."
+                },
+                {
+                    "Question": "What do the little girl and her mother do with Max?",
+                    "Answer": "The little girl and her mother take Max for walks, play with him in the park, and teach him tricks."
+                },
+                {
+                    "Question": "Does the little girl's mother ever regret getting Max?",
+                    "Answer": "No, the little girl's mother does not regret getting Max. She enjoys spending time with him and is happy to see her daughter so happy."
+                },
+                {
+                    "Question": "What does the little girl learn from having a pet dog?",
+                    "Answer": "The little girl learns responsibility from having a pet dog. She has to feed Max, walk him, and take care of him."
+                },
+                {
+                    "Question": "Do you think the little girl's mother would have let her get a pet dog if she had not met Max first?",
+                    "Answer": "It is possible that the little girl's mother would have let her get a pet dog even if she had not met Max first. However, meeting Max made the little girl's mother realize how much her daughter wanted a pet dog and how much happiness Max could bring to her family."
+                },
+                {
+                    "Question": "Do you think the little girl would have been as responsible if she had not gotten a pet dog?",
+                    "Answer": "It is possible that the little girl would have been just as responsible even if she had not gotten a pet dog. However, having a pet dog has taught her the importance of taking care of another living creature."
+                },
+                {
+                    "Question": "What do you think the little girl will be like when she grows up?",
+                    "Answer": "The little girl will probably be a very responsible adult when she grows up. She has learned the importance of taking care of another living creature and will probably be very loving and protective of her own children or pets."
+                }
+            ],
+            "Output": "The little girl in the story wanted a pet dog. Her mother said that they could not get a pet dog because they live in an apartment and dogs need a lot of space to run around. The little girl asked her mother if they could visit the animal shelter to meet some dogs. After meeting some dogs, the little girl's mother agreed to let her get a pet dog. The little girl got a small dog that she named Max. The little girl and her mother take Max for walks, play with him in the park, and teach him tricks. The little girl's mother does not regret getting Max. She enjoys spending time with him and is happy to see her daughter so happy. The little girl learns responsibility from having a pet dog. She has to feed Max, walk him, and take care of him. The little girl will probably be a very responsible adult when she grows up. She has learned the importance of taking care of another living creature and will probably be very loving and protective of her own children or pets."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the protagonist?",
+                    "Answer": "The protagonist's name is Tim."
+                },
+                {
+                    "Question": "What does Tim do?",
+                    "Answer": "Tim is a very curious young boy. He loves to explore his neighborhood and learn new things."
+                },
+                {
+                    "Question": "What is Tim's favorite thing to do?",
+                    "Answer": "Tim's favorite thing to do is to play outside with his friends. He also enjoys reading books and going on adventures."
+                },
+                {
+                    "Question": "What is the name of the antagonist?",
+                    "Answer": "The antagonist's name is Mr. Jones."
+                },
+                {
+                    "Question": "What does Mr. Jones do?",
+                    "Answer": "Mr. Jones is a mean man who doesn't like children. He is always yelling at them and telling them to stay away from his property."
+                },
+                {
+                    "Question": "What happens in the story?",
+                    "Answer": "One day, Tim and his friends are playing in the park when they see Mr. Jones walking by. Tim gets an idea to play a prank on Mr. Jones. He and his friends hide behind a bush and jump out to scare him. Mr. Jones gets so angry that he starts to chase them. The kids run away and are able to lose him. They all have a good laugh at Mr. Jones' expense."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "The moral of the story is that it is important to be kind to others."
+                },
+                {
+                    "Question": "Is the story funny, sad, or scary?",
+                    "Answer": "The story is funny."
+                },
+                {
+                    "Question": "What lesson does the story teach?",
+                    "Answer": "The story teaches that it is wrong to play mean tricks on people."
+                },
+                {
+                    "Question": "Who is the target audience for this story?",
+                    "Answer": "The target audience for this story is children."
+                }
+            ],
+            "Output": "Tim was having a great time playing with his friends in the park. They were laughing and running around, having the time of their lives. Then they saw Mr. Jones walking by. Tim got an idea to play a prank on Mr. Jones. He and his friends hid behind a bush and jump out to scare him. Mr. Jones got so angry that he started to chase them. The kids run away and are able to lose him. They all have a good laugh at Mr. Jones' expense.The moral of the story is that it is important to be kind to others. Tim learned his lesson and he'll never play a prank like that again."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the story about?",
+                    "Answer": "The story is about a young girl who goes on a journey to find a lost city."
+                },
+                {
+                    "Question": "Where does the story take place?",
+                    "Answer": "The story takes place in a lost city."
+                },
+                {
+                    "Question": "Who is the main character?",
+                    "Answer": "The main character is a young girl."
+                },
+                {
+                    "Question": "What does the main character do?",
+                    "Answer": "The main character goes on a journey to find a lost city. Along the way, she makes new friends and learns about different cultures."
+                },
+                {
+                    "Question": "What does the main character learn?",
+                    "Answer": "The main character learns about different cultures."
+                },
+                {
+                    "Question": "What is the ending of the story?",
+                    "Answer": "The young girl finds the lost city and is able to return home."
+                },
+                {
+                    "Question": "What themes are in the story?",
+                    "Answer": "The themes in the story include exploration, friendship, and cultural diversity."
+                },
+                {
+                    "Question": "What is the moral of the story?",
+                    "Answer": "The moral of the story is to never give up on your dreams."
+                },
+                {
+                    "Question": "What lesson does the main character learn?",
+                    "Answer": "The main character learns that it is important to never give up on your dreams."
+                },
+                {
+                    "Question": "Is the story happy or sad?",
+                    "Answer": "The story has a happy ending."
+                },
+                {
+                    "Question": "What genre does the story belong to?",
+                    "Answer": "The story belongs to the genre of adventure."
+                }
+            ],
+            "Output": "The young girl in the story had always dreamed of finding a lost city. She had read about them in books and had seen them in movies, and she was determined to find one for herself. One day, she set out on a journey to find a lost city. She traveled for many days, and she made new friends along the way. She also learned about different cultures. Finally, she found the lost city. She was able to return home and she was very happy. The moral of the story is to never give up on your dreams."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/s3FqRzAzaYEih1Jz1aw2Lbw7?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/1b5ZQqM0MeGdTNR50KXUlS70?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/hnvlkIFa6P7tBBMrlgmBPdeA?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1DVIxAx-PgK9-8y3eonb6d4B4A7WkDErN?usp=sharing"
+}

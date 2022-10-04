@@ -1,0 +1,160 @@
+{
+    "Contributor": "guptashikhar",
+    "Domain": "Government",
+    "Task": "Writing detailed paragraph about different governments in world",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in providing information about different governments in the world . I will ask some questions to collect information and then I will use the information to provide you details about the government.",
+        "task_specific_prompt": "Write all the details about government using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your country?",
+                    "Answer": "The United States of America"
+                },
+                {
+                    "Question": "What is the form of government in your country?",
+                    "Answer": "The United States has a federal republic form of government."
+                },
+                {
+                    "Question": "Who is the head of government in your country?",
+                    "Answer": "The current head of government is President Joe Biden."
+                },
+                {
+                    "Question": "What is the capital of your country?",
+                    "Answer": "The capital of the United States is Washington, D.C."
+                },
+                {
+                    "Question": "What are the primary responsibilities of the government in your country?",
+                    "Answer": "The primary responsibilities of the United States government are to protect the safety and security of its citizens, uphold and defend the Constitution, and promote the general welfare."
+                },
+                {
+                    "Question": "How is the government in your country structured?",
+                    "Answer": "The United States government is structured as a federal system, with power divided between the federal government and the state governments."
+                },
+                {
+                    "Question": "What is the name of the head of state in your country?",
+                    "Answer": "The head of state in the United States is the President."
+                },
+                {
+                    "Question": "What are the primary sources of law in your country?",
+                    "Answer": "The primary sources of law in the United States are the Constitution, federal statutes, and federal court decisions."
+                },
+                {
+                    "Question": "What is the highest court in your country?",
+                    "Answer": "The highest court in the United States is the Supreme Court."
+                },
+                {
+                    "Question": "How are judges in your country appointed?",
+                    "Answer": "Judges in the United States are appointed by the President, with the advice and consent of the Senate."
+                }
+            ],
+            "Output": "The United States is a federal republic with a presidential system of government. The head of government is the President, who is also the head of state. The capital of the United States is Washington, D.C. The primary responsibilities of the government are to protect the safety and security of its citizens, uphold and defend the Constitution, and promote the general welfare. The government is structured as a federal system, with power divided between the federal government and the state governments. The primary sources of law in the United States are the Constitution, federal statutes, and federal court decisions. The highest court in the United States is the Supreme Court. Judges in the United States are appointed by the President, with the advice and consent of the Senate."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your country?",
+                    "Answer": "India"
+                },
+                {
+                    "Question": "What is the form of government in your country?",
+                    "Answer": "The form of government in India is a federal parliamentary republic."
+                },
+                {
+                    "Question": "What are the three branches of government in your country?",
+                    "Answer": "The three branches of government in India are the executive, the legislature, and the judiciary."
+                },
+                {
+                    "Question": "What is the capital of your country?",
+                    "Answer": "The capital of India is New Delhi."
+                },
+                {
+                    "Question": "What is the head of state in your country?",
+                    "Answer": "The head of state in India is the President."
+                },
+                {
+                    "Question": "What is the head of government in your country?",
+                    "Answer": "The head of government in India is the Prime Minister."
+                },
+                {
+                    "Question": "What is the official religion of your country?",
+                    "Answer": "There is no official religion in India."
+                },
+                {
+                    "Question": "What is the population of your country?",
+                    "Answer": "The population of India is 1.3 billion."
+                },
+                {
+                    "Question": "What is the currency of your country?",
+                    "Answer": "The currency of India is the Indian Rupee."
+                },
+                {
+                    "Question": "What is the GDP of your country?",
+                    "Answer": "The GDP of India is $2.6 trillion."
+                }
+            ],
+            "Output": "The Government of India is a federal parliamentary republic consisting of three branches: the executive, the legislature, and the judiciary. The capital of India is New Delhi, and the head of state is the President. The head of government is the Prime Minister. There is no official religion in India, and the population is 1.3 billion. The currency of India is the Indian Rupee, and the GDP is $2.6 trillion."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of your country?",
+                    "Answer": "Russia"
+                },
+                {
+                    "Question": "What is the form of government in your country?",
+                    "Answer": "Russia is a federal semi-presidential republic. The President of Russia is the head of state and the Prime Minister of Russia is the head of government."
+                },
+                {
+                    "Question": "Who is the current head of state in your country?",
+                    "Answer": "The current head of state in Russia is Vladimir Putin."
+                },
+                {
+                    "Question": "Who is the current head of government in your country?",
+                    "Answer": "The current head of government in Russia is Dmitry Medvedev."
+                },
+                {
+                    "Question": "What is the capital of your country?",
+                    "Answer": "The capital of Russia is Moscow."
+                },
+                {
+                    "Question": "What is the official language of your country?",
+                    "Answer": "The official language of Russia is Russian."
+                },
+                {
+                    "Question": "What is the currency of your country?",
+                    "Answer": "The currency of Russia is the Russian ruble."
+                },
+                {
+                    "Question": "What is the population of your country?",
+                    "Answer": "The population of Russia is 144 million."
+                },
+                {
+                    "Question": "What is the land area of your country?",
+                    "Answer": "The land area of Russia is 17,098,242 square kilometers."
+                },
+                {
+                    "Question": "What is the GDP of your country?",
+                    "Answer": "The GDP of Russia is $1.528 trillion."
+                },
+                {
+                    "Question": "What is the GDP per capita of your country?",
+                    "Answer": "The GDP per capita of Russia is $10,700."
+                },
+                {
+                    "Question": "What is the life expectancy of your country?",
+                    "Answer": "The life expectancy of Russia is 70.8 years."
+                }
+            ],
+            "Output": "The Government of the Russian Federation is the federal government of the Russian Federation, a semi-presidential republic composed of 83 federal subjects. The government is headed by the President of Russia, who is the head of state, and the Prime Minister of Russia, who is the head of government. The President of Russia is elected by the people for a six-year term and is limited to two terms. The Prime Minister of Russia is appointed by the President and must be confirmed by the State Duma, the lower house of the Federal Assembly of Russia. The capital of Russia is Moscow, and the official language is Russian. The currency of Russia is the Russian ruble. The population of Russia is 144 million, and the land area is 17,098,242 square kilometers. The GDP of Russia is $1.528 trillion, and the GDP per capita is $10,700. The life expectancy of Russia is 70.8 years."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/AhtDRGIVevP2CafZcQVmk9Nv?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/QeIvpLo0V64N5hHy7MYuYaNn?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/drLMCnsW3wCsteAVFSeuWYMg?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/16SPNViKhAmzuxYUDzwO-0_T7FPuEFCko?usp=sharing"
+}

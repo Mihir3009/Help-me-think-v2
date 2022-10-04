@@ -1,0 +1,176 @@
+{
+    "Contributor": "baptistawalstan",
+    "Domain": "Urban Planning",
+    "Task": "Resume",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Urban Planner. I will ask some questions to collect information and then I will use the information to write a resume of an Urban Planner.",
+        "task_specific_prompt": "Write a resume for an Urban Planner using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Walstan Baptista."
+                },
+                {
+                    "Question": "What is your education and/or training in Urban Planning?",
+                    "Answer": "I have a Bachelor's degree in Construction Engineering from Northern Arizona University. I also have a Master's degree in Urban Planning from Stanford. I have taken many courses in environmental planning, town-planning, and zoning & regulations."
+                },
+                {
+                    "Question": "What experience do you have in Urban Planning?",
+                    "Answer": "I have worked as an Urban Planner for 7 years. I have experience in all aspects of urban planning, including environmental planning, transportation, and economic development. I have worked on many large and small projects, both in the private and public sector."
+                },
+                {
+                    "Question": "What are your skills and abilities in Urban Planning?",
+                    "Answer": "I have excellent problem solving skills and I am very analytical. I am also very good at communicating with people and I have excellent writing skills. I am proficient in all of the software programs used in Urban Planning."
+                },
+                {
+                    "Question": "What are your goals and objectives in Urban Planning?",
+                    "Answer": "My goal is to help create sustainable and livable communities. I want to help make cities and towns more efficient and to improve the quality of life for all people who live in them."
+                },
+                {
+                    "Question": "What are your interests in Urban Planning?",
+                    "Answer": "I am interested in all aspects of urban planning, but I am particularly interested in environmental planning and sustainability."
+                },
+                {
+                    "Question": "What are your strengths and weaknesses in Urban Planning?",
+                    "Answer": "My strengths include my problem solving skills, my analytical skills, and my ability to communicate with people. My weaknesses include my lack of experience in some areas of urban planning, such as zoning and transportation."
+                },
+                {
+                    "Question": "What are your future plans in Urban Planning?",
+                    "Answer": "I plan to continue working as an Urban Planner and to eventually become a director or manager of an urban planning department."
+                },
+                {
+                    "Question": "What are your thoughts on the future of Urban Planning?",
+                    "Answer": "I think that urban planning will continue to be an important field, as the world's population continues to grow and urban areas continue to expand. I think that there will be a greater focus on sustainability and on creating livable communities."
+                },
+                {
+                    "Question": "What are your ideas on how to improve Urban Planning?",
+                    "Answer": "I think that urban planners need to be more proactive in working with the community and in involving the community in the planning process. I also think that urban planners need to be more innovative in their approach to planning and to use new technologies to improve the planning process."
+                },
+                {
+                    "Question": "What are your thoughts on the role of Urban Planning in society?",
+                    "Answer": "I think that urban planning plays a very important role in society. Urban planners help to create and shape the built environment, which has a direct impact on the lives of all people."
+                },
+                {
+                    "Question": "What are your thoughts on the future of the Urban Planning profession?",
+                    "Answer": "I think that the field of urban planning will continue to grow and evolve. I think that there will be a greater focus on sustainability and on creating livable communities. I think that the profession will continue to play a very important role in society."
+                }
+            ],
+            "Output": "Name: Walstan Baptista\nEducation: Bachelor's degree in Construction Engineering from Northern Arizona University and Master's degree in Urban Planning from Stanford\nExperience: 7 years of experience as an Urban Planner\nSkills and abilities: excellent problem solving skills, analytical skills, communication skills, writing skills, and proficiency in Urban Planning software programs\nInterests: environmental planning and sustainability\nStrengths: problem solving skills, analytical skills, and ability to communicate with people\nWeaknesses: lack of experience in some areas of urban planning\nFuture plans: to continue working as an Urban Planner and to eventually become a director or manager of an urban planning department\nThoughts on the future of Urban Planning: Urban Planning will continue to be an important field as the world's population continues to grow and urban areas continue to expand. There will be a greater focus on sustainability and on creating livable communities."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Walstan Baptista."
+                },
+                {
+                    "Question": "What is your education and/or training in Urban Planning?",
+                    "Answer": "I have a Bachelor's degree in Urban Planning from Arizona State University. I also have a Master's degree in Urban Planning from MIT. I have taken many courses in urban planning, land use, and zoning."
+                },
+                {
+                    "Question": "What experience do you have in Urban Planning?",
+                    "Answer": "I have worked as an Urban Planner for 10 years. I have experience in all aspects of urban planning, including land use, zoning, transportation, and economic development. I have worked on many large and small projects, both in the private and public sector."
+                },
+                {
+                    "Question": "What are your skills and abilities in Urban Planning?",
+                    "Answer": "I have excellent skills in all aspects of urban planning. I am very familiar with land use and zoning laws, and I have a good understanding of transportation and economic development. I am also proficient in using planning software and GIS."
+                },
+                {
+                    "Question": "What are your goals and objectives in Urban Planning?",
+                    "Answer": "My goal is to continue to work as an Urban Planner and to help shape the growth and development of cities. I want to make sure that cities are well-planned and well-managed, and that they provide a good quality of life for all residents."
+                },
+                {
+                    "Question": "What are your interests in Urban Planning?",
+                    "Answer": "I am interested in all aspects of urban planning, including land use, zoning, transportation, and economic development. I am also interested in new technologies and approaches to urban planning."
+                },
+                {
+                    "Question": "What are your strengths and weaknesses in Urban Planning?",
+                    "Answer": "I am very strong in all aspects of urban planning. I have a good understanding of land use and zoning laws, and I am very familiar with transportation and economic development. I am also proficient in using planning software and GIS. My weakness is that I am not always familiar with the latest changes in planning laws and regulations."
+                },
+                {
+                    "Question": "What are your future plans in Urban Planning?",
+                    "Answer": "I plan to continue to work as an Urban Planner and to help shape the growth and development of cities. I want to make sure that cities are well-planned and well-managed, and that they provide a good quality of life for all residents."
+                },
+                {
+                    "Question": "What are your thoughts on the future of Urban Planning?",
+                    "Answer": "I believe that urban planning will continue to be an important field, as cities continue to grow and change. I think that new technologies and approaches will continue to be developed, and that there will be a need for well-trained and experienced urban planners."
+                },
+                {
+                    "Question": "What are your ideas on how to improve Urban Planning?",
+                    "Answer": "I think that urban planners need to be more proactive in working with the public and private sector to shape the growth and development of cities. I also think that new technologies and approaches should be adopted to make urban planning more efficient and effective."
+                },
+                {
+                    "Question": "What are your thoughts on the role of Urban Planning in society?",
+                    "Answer": "I think that urban planning is a very important field, as it helps to shape the growth and development of cities. I think that urban planners play a vital role in making sure that cities are well-planned and well-managed, and that they provide a good quality of life for all residents."
+                },
+                {
+                    "Question": "What are your thoughts on the future of the Urban Planning profession?",
+                    "Answer": "I believe that the field of urban planning will continue to grow and change, as cities continue to grow and change. I think that new technologies and approaches will continue to be developed, and that there will be a need for well-trained and experienced urban planners."
+                }
+            ],
+            "Output": "WALSTAN BAPTISTA, AICP\nUrban Planner\nProfile\nWalstan Baptista is an experienced urban planner with a strong background in land use, zoning, transportation, and economic development. He has a Bachelor's degree in Urban Planning from Arizona State University and a Master's degree in Urban Planning from MIT. Walstan has worked as an urban planner for 10 years, on both large and small projects in the private and public sector. He is skilled in all aspects of urban planning, and is proficient in using planning software and GIS.\nObjective\nTo continue working as an urban planner and to help shape the growth and development of cities.\nSkills\nStrong skills in all aspects of urban planning, including land use, zoning, transportation, and economic development\nFamiliar with land use and zoning laws\nGood understanding of transportation and economic development\nProficient in using planning software and GIS\nWork Experience\nUrban Planner, 10 years\nPrivate sector, large and small projects\nPublic sector, large and small projects\nEducation\nBachelor's degree in Urban Planning, Arizona State University\nMaster's degree in Urban Planning, MIT\nCourses in urban planning, land use, and zoning\nAchievements\nSuccessfully planned and implemented many large and small urban planning projects\nFrequently consulted on land use and zoning issues\nMember of the American Institute of Certified Planners (AICP)"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Walstan Baptista."
+                },
+                {
+                    "Question": "What is your education and/or training in Urban Planning?",
+                    "Answer": "I have a bachelor's degree in Urban Planning from the University of Massachusetts - Amherst. I also have a Master of Science in Urban and Regional Planning from the University of New Hampshire."
+                },
+                {
+                    "Question": "What experience do you have in Urban Planning?",
+                    "Answer": "I have been working as an Urban Planner for the past 1 year. I have experience working in the private sector. I have worked on a few projects like economic development, and transportation planning."
+                },
+                {
+                    "Question": "What are your skills and abilities in Urban Planning?",
+                    "Answer": "Some of the skills I have in Urban Planning include excellent communication and writing skills, strong research and analytical skills, and the ability to work effectively with a variety of stakeholders."
+                },
+                {
+                    "Question": "What are your goals and objectives in Urban Planning?",
+                    "Answer": "My goals as an Urban Planner are to continue to work on a variety of planning projects that make a positive impact on communities and to continue to develop my skills in order to be the best Urban Planner I can be."
+                },
+                {
+                    "Question": "What are your interests in Urban Planning?",
+                    "Answer": "My interests in Urban Planning include land use planning, economic development, transportation planning, and community engagement."
+                },
+                {
+                    "Question": "What are your strengths and weaknesses in Urban Planning?",
+                    "Answer": "Some of my strengths in Urban Planning include excellent communication and writing skills, strong research and analytical skills, and the ability to work effectively with a variety of stakeholders. Some of my weaknesses include being detail-oriented and being able to work independently."
+                },
+                {
+                    "Question": "What are your future plans in Urban Planning?",
+                    "Answer": "My future plans in Urban Planning include continuing to work on a variety of planning projects that make a positive impact on communities and to continue to develop my skills in order to be the best Urban Planner I can be."
+                },
+                {
+                    "Question": "What are your thoughts on the future of Urban Planning?",
+                    "Answer": "I believe that the future of Urban Planning is very bright. I believe that there is a lot of work to be done in order to make our cities and communities more livable and sustainable. I believe that Urban Planning can play a major role in making this happen."
+                },
+                {
+                    "Question": "What are your ideas on how to improve Urban Planning?",
+                    "Answer": "There are many ways to improve Urban Planning. Some of my ideas include increasing public engagement in the planning process, using technology to make the planning process more efficient, and creating more sustainable and livable communities."
+                },
+                {
+                    "Question": "What are your thoughts on the role of Urban Planning in society?",
+                    "Answer": "I believe that Urban Planning plays a very important role in society. I believe that it can help make our cities and communities more livable and sustainable. I believe that it can help create more equitable and just communities."
+                },
+                {
+                    "Question": "What are your thoughts on the future of the Urban Planning profession?",
+                    "Answer": "I believe that the future of the Urban Planning profession is very bright. I believe that there is a lot of work to be done in order to make our cities and communities more livable and sustainable. I believe that Urban Planning can play a major role in making this happen."
+                }
+            ],
+            "Output": "Walstan Baptista\nB.A. in Urban Planning, University of Massachusetts - Amherst\nM.S. in Urban and Regional Planning, University of New Hampshire\nUrban Planner with 1 year of experience in the private sector. Strong research and analytical skills with the ability to work effectively with a variety of stakeholders. Excellent communication and writing skills.\nSkills:\n\n-Urban Planning\n-Land Use Planning\n-Economic Development\n-Transportation Planning\n-Community Engagement\nGoal-oriented Urban Planner with a strong interest in making positive impacts on communities through planning. Committed to developing my skills in order to be the best Urban Planner possible.\nFuture plans include continuing to work on a variety of planning projects and to increase my skills in order to make even more positive impacts on communities."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/drkgXCFzxPg3U18kCKoLpfeA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/ha540B3DTOWg2IvQHsd1RULi?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/iUsA0N54iYnwVjzoUtgRf8KD?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/14A3L5rMJZz7g0vx49iogVtWP3DVuVvbz?usp=sharing"
+}

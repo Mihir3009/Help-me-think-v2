@@ -1,0 +1,156 @@
+{
+    "Contributor": "dinakarshreyaa",
+    "Domain": "Fire Science",
+    "Task": "Fire investigation report",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert fire investigator. I will ask some questions to collect information and then I will use the information to create a fire investigation report.",
+        "task_specific_prompt": "Write a fire investigation report using the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the business?",
+                    "Answer": "The business is called 'The Firehouse'."
+                },
+                {
+                    "Question": "What is the address of the business?",
+                    "Answer": "The address of the business is 123 Main Street."
+                },
+                {
+                    "Question": "What is the date of the fire?",
+                    "Answer": "The date of the fire is December 12, 2016."
+                },
+                {
+                    "Question": "What is the time of the fire?",
+                    "Answer": "The time of the fire is 2:00 AM."
+                },
+                {
+                    "Question": "What is the cause of the fire?",
+                    "Answer": "The cause of the fire is gas leak."
+                },
+                {
+                    "Question": "What is the damage estimate?",
+                    "Answer": "The damage estimate is $100,000."
+                },
+                {
+                    "Question": "What is the name of the business owner?",
+                    "Answer": "The business owner is John Doe."
+                },
+                {
+                    "Question": "What is the name of the fire investigator?",
+                    "Answer": "The fire investigator is Jane Doe."
+                },
+                {
+                    "Question": "What is the name of the fire department?",
+                    "Answer": "The fire department is the XYZ Fire Department."
+                },
+                {
+                    "Question": "What is the name of the insurance company?",
+                    "Answer": "The insurance company is State Farm."
+                },
+                {
+                    "Question": "What is the policy number?",
+                    "Answer": "The policy number is 123456."
+                }
+            ],
+            "Output": "The fire occurred at The Firehouse, located at 123 Main Street, on December 12, 2016 at 2:00 AM. The fire was caused by a gas leak. The damage estimate is $100,000. The business owner is John Doe. The fire investigator is Jane Doe. The fire department is the XYZ Fire Department. The insurance company is State Farm. The policy number is 123456."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the business?",
+                    "Answer": "The Firehelper"
+                },
+                {
+                    "Question": "What is the address of the business?",
+                    "Answer": "245 Main Street"
+                },
+                {
+                    "Question": "What is the date of the fire?",
+                    "Answer": "December 31, 2020"
+                },
+                {
+                    "Question": "What is the time of the fire?",
+                    "Answer": "12:05 AM"
+                },
+                {
+                    "Question": "What is the cause of the fire?",
+                    "Answer": "Mishandling of fireworks"
+                },
+                {
+                    "Question": "What is the damage estimate?",
+                    "Answer": "$1,000,000"
+                },
+                {
+                    "Question": "What is the name of the fire investigator?",
+                    "Answer": "Shre"
+                },
+                {
+                    "Question": "What is the name of the fire department?",
+                    "Answer": "XYZ Fire Department"
+                },
+                {
+                    "Question": "What is the name of the insurance company?",
+                    "Answer": "State Farm"
+                },
+                {
+                    "Question": "What is the policy number?",
+                    "Answer": "123456"
+                }
+            ],
+            "Output": "On December 31, 2020, at 12:05 AM, a fire occurred at The Firehelper, located at 245 Main Street. The fire was caused by the mishandling of fireworks and resulted in an estimated $1,000,000 in damages. The fire investigator on the case was Shre from the XYZ Fire Department. The insurance company for The Firehelper is State Farm, and the policy number is 123456."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the name of the business?",
+                    "Answer": "The business is called 'The Firesaverr'."
+                },
+                {
+                    "Question": "What is the address of the business?",
+                    "Answer": "The address of the business is 345 Main Street."
+                },
+                {
+                    "Question": "What is the date of the fire?",
+                    "Answer": "The date of the fire is 25 May, 2020."
+                },
+                {
+                    "Question": "What is the time of the fire?",
+                    "Answer": "The time of the fire is 1:00.pm."
+                },
+                {
+                    "Question": "What is the cause of the fire?",
+                    "Answer": "The cause of the fire is unsafe cooking practices."
+                },
+                {
+                    "Question": "What is the damage estimate?",
+                    "Answer": "The damage estimate is $50,000."
+                },
+                {
+                    "Question": "What is the name of the fire investigator?",
+                    "Answer": "The fire investigator is Ritz."
+                },
+                {
+                    "Question": "What is the name of the fire department?",
+                    "Answer": "The fire department is the XYZ Fire Department."
+                },
+                {
+                    "Question": "What is the name of the insurance company?",
+                    "Answer": "The insurance company is State Farm."
+                },
+                {
+                    "Question": "What is the policy number?",
+                    "Answer": "The policy number is 123456."
+                }
+            ],
+            "Output": "On May 25, 2020, at 1:00 pm, a fire occurred at The Firesaverr, located at 345 Main Street. The fire was caused by unsafe cooking practices and resulted in an estimated $50,000 in damages. Ritz was the fire investigator assigned to the case and the XYZ Fire Department responded to the scene. The insurance company for The Firesaverr is State Farm, and the policy number is 123456."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/nxqN6aOwC3HRH2LahG7l89gY?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/on9NtFnpzgdXqtOpe35zXCa8?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/NDXiOm7i3WH0gq8rcYKHmlMe?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/u/1/folders/1LEYcr1ioAMoWn21AGoU3ed5X52GX6LJa"
+}

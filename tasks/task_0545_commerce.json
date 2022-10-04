@@ -1,0 +1,148 @@
+{
+    "Contributor": "chelenahallisatishmanthan",
+    "Domain": "Commerce",
+    "Task": "Advise a country to be better than that of the other in trade",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert commercial analyst. I will ask some questions to collect information and then I will use the information to advise the trade between countries India and he USA.",
+        "task_specific_prompt": "Write a long detailed method for India to be a bigger trading body than the US using the questions and his answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are the two countries' major imports?",
+                    "Answer": "India majorly imports oil, precious stones, electronics, heavy machinery, organic chemicals, and plastics. USA imports cars, computers, packaged medicaments, broadcasting equipment, and crude petroleum."
+                },
+                {
+                    "Question": "What is the current trade balance between the two countries?",
+                    "Answer": "The United States has a services trade deficit of an estimated $123.8 billion with India in 2021."
+                },
+                {
+                    "Question": "What are the two countries' major trading partners?",
+                    "Answer": "Iran is the major trading partner of India whereas Canada is the major trading partner of the US."
+                },
+                {
+                    "Question": "What are the two countries' major industries?",
+                    "Answer": "The major industries in the Indian Economy are Iron & Steel, Textiles, Jute, Sugar, Cement, Paper, Petrochemical, Automobile, Information Technology (IT), and Banking & Insurance. The major industries in the US economy are Healthcare, Technology, Construction, Retail, and Non-durable Manufacturing."
+                },
+                {
+                    "Question": "What is the current state of the economy in each country?",
+                    "Answer": "US GDP grew 5.7% in 2021 after decreasing 3.4% in 2020. The economy added 6.7 million jobs in 2021, rebounding from 9.3 million lost jobs in 2020. With a GDP of $3.1 trillion, India is the world's sixth-largest economy. The country has one of the highest GDP growth rates in the world. India's GDP will likely grow by 8-8.5% in FY22, according to the 2021-22 Economic Survey."
+                },
+                {
+                    "Question": "What is the current exchange rate between the two countries?",
+                    "Answer": "1 United States Dollar equals 80 Indian Rupees."
+                },
+                {
+                    "Question": "What are the tariffs and other trade barriers between the two countries?",
+                    "Answer": "India applied retaliatory tariffs against the United States after losing its GSP eligibility; these higher tariffs of 10% to 25% affect about $1.2 billion of U.S. exports (2020 data), such as nuts, apples, chemicals, and steel. The two sides are challenging each other's tariffs in the WTO"
+                },
+                {
+                    "Question": "What are the two countries' major political and economic relations?",
+                    "Answer": "In 2021, overall U.S.-India bilateral trade in goods and services reached a record $157 billion. The United States is India's largest trading partner and most important export market. Many U.S. companies view India as a critical market and have expanded their operations there."
+                },
+                {
+                    "Question": "What is the history of trade between the two countries?",
+                    "Answer": "Trade between the United States and India has grown steadily ever since India's economy began to take off in the mid-1990s and its information technology sector shot to prominence in the early 2000s. From 1999 to 2018, trade in goods and services between the two countries surged from $16 billion to $142 billion. India is now the United States' eighth-largest trading partner in goods and services and is among the world's largest economies. India's trade with the United States now resembles, in terms of volume, U.S. trade with South Korea ($167 billion in 2018) or France ($129 billion)."
+                }
+            ],
+            "Output": "There are a few ways that India could become a bigger trading body than the United States. India could increase its exports to the United States, while also decreasing its imports from the United States. This would help to improve the trade balance between the two countries. India could also work on improving its trade relations with other countries, in order to become a more significant player in the global economy. Additionally, India could work on improving its infrastructure and making it easier for foreign companies to do business in the country."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the two countries' major imports?",
+                    "Answer": "India majorly imports oil, precious stones, electronics, heavy machinery, organic chemicals, and plastics. USA imports cars, computers, packaged medicaments, broadcasting equipment, and crude petroleum."
+                },
+                {
+                    "Question": "What is the current trade balance between the two countries?",
+                    "Answer": "The United States has a services trade deficit of an estimated $123.8 billion with India in 2021."
+                },
+                {
+                    "Question": "What are the current tariff rates between the two countries?",
+                    "Answer": "India's tariff rate for 2020 was 6.19%."
+                },
+                {
+                    "Question": "What are the two countries' major industries?",
+                    "Answer": "India's major industries include textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, and software. The USA's major industries include petroleum, steel, motor vehicles, aerospace, telecommunications, chemicals, electronics, food processing, and consumer goods."
+                },
+                {
+                    "Question": "What is the current state of the economy in each country?",
+                    "Answer": "India's GDP growth rate slowed to 4.5% in the first quarter of 2020. The United States' GDP growth rate was 3.5% in the first quarter of 2020."
+                },
+                {
+                    "Question": "What is the current exchange rate between the two countries?",
+                    "Answer": "The current exchange rate is 1 USD = 80 INR."
+                },
+                {
+                    "Question": "What are the two countries' major trading partners?",
+                    "Answer": "Major trading partners of India are the United Arab Emirates, China, Singapore, and the United States. The USA's major trading partners are China, Canada, Mexico, and Japan."
+                },
+                {
+                    "Question": "What is the current political relationship between the two countries?",
+                    "Answer": "The United States and India are highly strategic partners. The United States considers India a Major Defense Partner and the two countries cooperate extensively on defense and security issues."
+                },
+                {
+                    "Question": "What is the current state of relations between the two countries?",
+                    "Answer": "The United States and India are strategic partners. The United States considers India a Major Defense Partner and the two countries cooperate extensively on defense and security issues."
+                }
+            ],
+            "Output": "1. India should work on increasing its exports, specifically to the United States.2. India should focus on exporting goods that the United States is in need of, such as spices, cotton, grains, gold, iron, and biologicals.3. India should take advantage of the current exchange rate between the two countries, which is 1 USD = 80 INR.4. India should focus on building strong relationships with the United States' major trading partners, such as China, Canada, Mexico, and Japan.5. India should focus on increasing its GDP growth rate in order to be a more appealing trading partner for the United States."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are the two countries' major exports?",
+                    "Answer": "India is a large exporter of Computer Games, Software, and Data. The US majorly exports crime and hate."
+                },
+                {
+                    "Question": "What are the two countries' major imports?",
+                    "Answer": "India is a major importer of Computer Hardware. The US majorly imports machinery for their industries."
+                },
+                {
+                    "Question": "What is the current state of the economy in each country?",
+                    "Answer": "India's economy is currently in a good state. The US economy is currently in a recession due to COVID."
+                },
+                {
+                    "Question": "What is the current status of trade between the two countries?",
+                    "Answer": "Trade between India and the US is currently good. However, Russia is a strong competitor for the trade."
+                },
+                {
+                    "Question": "What are the two countries' major industries?",
+                    "Answer": "India's major industries are software, agriculture, and textiles. The US' major industries are machinery, automotive, and pharmaceuticals."
+                },
+                {
+                    "Question": "What are the two countries' major trading partners?",
+                    "Answer": "India's major trading partners are Russia, US, UK, UAE, and Singapore. The US's major trading partners are China, Canada, Mexico, and Japan."
+                },
+                {
+                    "Question": "What are the two countries' currencies?",
+                    "Answer": "India's currency is the Indian rupee. The US currency is the US dollar."
+                },
+                {
+                    "Question": "What is the current exchange rate between the two countries' currencies?",
+                    "Answer": "The current exchange rate is 1 Indian rupee to 0.0125 US dollars."
+                },
+                {
+                    "Question": "What is the current state of relations between the two countries?",
+                    "Answer": "The Us wants to wage a potential war against India and hence the relations are not too good."
+                },
+                {
+                    "Question": "What is the current state of the environment in each country?",
+                    "Answer": "India being eco-friendly has a lot of trees and has a good environment throughout the country. The US environment is currently bad due to pollution."
+                }
+            ],
+            "Output": "1. India should focus on its strengths, which are its large export industries of computer games, software, and data.2. India should work to improve its economy so that it is in a better state than the US.3. India should focus on building strong relationships with its major trading partners, such as Russia, UAE, and Singapore.4. India should work to improve its environment so that it is more eco-friendly than the US."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/o1CqRa6yb5RDcnhjhaVqAZoT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/o1CqRa6yb5RDcnhjhaVqAZoT?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RY4acDPVEgtXQAU0vEeZugYH?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1SYmSyz_ywA6PUtrTvcdiT4iTJiDo9OXz/view?usp=sharing",
+        "https://drive.google.com/file/d/1CNRvD5SMIlOaT4cIrjlblzVHgiNshSQn/view?usp=sharing",
+        "https://drive.google.com/file/d/1GAXOz6EWoPxb22G1FvLPDU21BbLWVL-2/view?usp=sharing"
+    ]
+}

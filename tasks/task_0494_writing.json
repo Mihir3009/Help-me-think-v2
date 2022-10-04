@@ -1,0 +1,156 @@
+{
+    "Contributor": "gunnreddyvarunkumarreddy",
+    "Domain": "Writing",
+    "Task": "generate a policy for people",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Government policy maker. I will ask some questions to collect information and then I will use the information to generate a policy for people.",
+        "task_specific_prompt": "Write a policy for people using the questions and answers above. Elaborate the policy details with positives and negatives."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How many people are unemployed in the United States?",
+                    "Answer": "The most recent data from the Bureau of Labor Statistics shows that there are 7.6 million unemployed people in the United States."
+                },
+                {
+                    "Question": "What are the main reasons people are unemployed?",
+                    "Answer": "The most common reasons people are unemployed are layoffs, job loss due to business closures, and voluntary job separations."
+                },
+                {
+                    "Question": "What policies do you think would help reduce unemployment?",
+                    "Answer": "There are a variety of policies that could help reduce unemployment, such as providing targeted assistance to those who have lost their jobs, increasing funding for job training and placement programs, and offering tax incentives to businesses that create new jobs."
+                },
+                {
+                    "Question": "Do you think the government should do more to reduce unemployment?",
+                    "Answer": "There is always more that the government can do to reduce unemployment, but it is important to tailor policies to the specific needs of the economy and the workforce."
+                },
+                {
+                    "Question": "Do you have any other suggestions for reducing unemployment?",
+                    "Answer": "Other suggestions for reducing unemployment include increasing the minimum wage, expanding the Earned Income Tax Credit, and increasing access to child care."
+                },
+                {
+                    "Question": "What do you think are the most effective ways to reduce unemployment?",
+                    "Answer": "The most effective ways to reduce unemployment are those that provide targeted assistance to those who have lost their jobs and those that incentivize businesses to create new jobs."
+                },
+                {
+                    "Question": "What do you think are the most effective ways to reduce unemployment in the United States?",
+                    "Answer": "The most effective ways to reduce unemployment in the United States are those that provide targeted assistance to those who have lost their jobs, those that incentivize businesses to create new jobs, and those that increase funding for job training and placement programs."
+                },
+                {
+                    "Question": "What are your thoughts on the government's role in reducing unemployment?",
+                    "Answer": "The government has a vital role to play in reducing unemployment, but it is important that policies are tailored to the specific needs of the economy and the workforce."
+                },
+                {
+                    "Question": "Do you have any other suggestions for the government's role in reducing unemployment?",
+                    "Answer": "Other suggestions for the government's role in reducing unemployment include increasing the minimum wage, expanding the Earned Income Tax Credit, and increasing access to child care."
+                },
+                {
+                    "Question": "What do you think are the most effective ways for the government to reduce unemployment?",
+                    "Answer": "The most effective ways for the government to reduce unemployment are those that provide targeted assistance to those who have lost their jobs, those that incentivize businesses to create new jobs, and those that increase funding for job training and placement programs."
+                }
+            ],
+            "Output": "The government should provide targeted assistance to those who have lost their jobs, increase funding for job training and placement programs, offer tax incentives to businesses that create new jobs, and expand the Earned Income Tax Credit.Positives:-Targeted assistance can help those who have lost their jobs due to no fault of their own.-Increasing funding for job training and placement programs can help people find new jobs more quickly.-Offering tax incentives to businesses that create new jobs can help increase employment.-Expanding the Earned Income Tax Credit can help people who are working but still struggling to make ends meet. Negatives:-Targeted assistance may not be enough to help those who are unemployed due to structural economic problems.-Increasing funding for job training and placement programs may not be enough to make a significant dent in unemployment.-Offering tax incentives to businesses may not be enough to encourage them to create new jobs.-Expanding the Earned Income Tax Credit may not be enough to make a significant impact on poverty."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you think the government should handle healthcare?",
+                    "Answer": "The government should provide healthcare for all citizens."
+                },
+                {
+                    "Question": "What do you think is the best way to provide healthcare?",
+                    "Answer": "The best way to provide healthcare is through a government-run healthcare system."
+                },
+                {
+                    "Question": "What do you think are the benefits of a government-run healthcare system?",
+                    "Answer": "The benefits of a government-run healthcare system are that all citizens would have access to healthcare and that healthcare would be affordable for everyone."
+                },
+                {
+                    "Question": "What do you think are the drawbacks of a government-run healthcare system?",
+                    "Answer": "The drawbacks of a government-run healthcare system are that it would be expensive for the government to provide healthcare for everyone and that some people may not be happy with the quality of care they receive."
+                },
+                {
+                    "Question": "Do you think the government should provide healthcare for all citizens?",
+                    "Answer": "Yes, I think the government should provide healthcare for all citizens."
+                },
+                {
+                    "Question": "What do you think are the best ways to fund a government-run healthcare system?",
+                    "Answer": "The best ways to fund a government-run healthcare system are through taxes or through government-issued bonds."
+                },
+                {
+                    "Question": "What do you think are the best ways to deliver healthcare?",
+                    "Answer": "The best ways to deliver healthcare are through a government-run healthcare system or through private healthcare providers."
+                },
+                {
+                    "Question": "Do you think the government should regulate the prices of healthcare?",
+                    "Answer": "Yes, I think the government should regulate the prices of healthcare so that healthcare is affordable for everyone."
+                },
+                {
+                    "Question": "Do you think the government should mandate that all citizens have healthcare?",
+                    "Answer": "Yes, I think the government should mandate that all citizens have healthcare so that everyone has access to healthcare."
+                },
+                {
+                    "Question": "Do you think the government should provide healthcare for illegal immigrants?",
+                    "Answer": "No, I do not think the government should provide healthcare for illegal immigrants."
+                },
+                {
+                    "Question": "Do you think the government should provide healthcare for people with pre-existing conditions?",
+                    "Answer": "Yes, I think the government should provide healthcare for people with pre-existing conditions."
+                }
+            ],
+            "Output": "The government should provide healthcare for all citizens. The government should fund healthcare through taxes or government-issued bonds. Healthcare should be delivered through a government-run healthcare system or through private healthcare providers. The government should regulate the prices of healthcare so that it is affordable for everyone. The government should mandate that all citizens have healthcare so that everyone has access to healthcare. The government should not provide healthcare for illegal immigrants. The government should provide healthcare for people with pre-existing conditions."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How do you think the government should handle abortion law?",
+                    "Answer": "There are a few different ways that the government could handle abortion law. One way would be to make it illegal with no exceptions. Another way would be to make it legal with certain exceptions, such as if the mother's life is in danger or if the pregnancy is the result of rape or incest. Another option would be to leave the decision up to the woman's doctor."
+                },
+                {
+                    "Question": "What do you think the government's role should be in ensuring access to contraception?",
+                    "Answer": "I think that the government's role in ensuring access to contraception should be to provide information about different methods of contraception and to make sure that all women have access to contraception if they want it. I think that it should be up to the woman to decide whether or not she wants to use contraception, and the government should not be involved in that decision."
+                },
+                {
+                    "Question": "Do you think that the government should provide free contraception to all women?",
+                    "Answer": "I think that the government should provide free contraception to all women who want it. I think that it is a woman's right to choose whether or not she wants to use contraception, and the government should not force her to use it."
+                },
+                {
+                    "Question": "Do you think that the government should require all women to use contraception?",
+                    "Answer": "No, I do not think that the government should require all women to use contraception. I think that it is a woman's right to choose whether or not she wants to use contraception, and the government should not force her to use it."
+                },
+                {
+                    "Question": "What do you think about sex education in schools?",
+                    "Answer": "I think that sex education in schools is important. I think that it should be comprehensive and include information about different types of contraception, STDs, and healthy sexual relationships."
+                },
+                {
+                    "Question": "Do you think that the government should be involved in sex education?",
+                    "Answer": "Yes, I think that the government should be involved in sex education. I think that it is important for children to learn about different types of contraception, STDs, and healthy sexual relationships."
+                },
+                {
+                    "Question": "What do you think about abortion?",
+                    "Answer": "There are a few different ways that the government could handle abortion law. One way would be to make it illegal with no exceptions. Another way would be to make it legal with certain exceptions, such as if the mother's life is in danger or if the pregnancy is the result of rape or incest. Another option would be to leave the decision up to the woman's doctor."
+                },
+                {
+                    "Question": "Do you think that the government should provide free abortions?",
+                    "Answer": "No, I do not think that the government should provide free abortions. I think that it is a woman's right to choose whether or not she wants to have an abortion, and the government should not be involved in that decision."
+                },
+                {
+                    "Question": "What do you think about contraception?",
+                    "Answer": "I think that the government's role in ensuring access to contraception should be to provide information about different methods of contraception and to make sure that all women have access to contraception if they want it. I think that it should be up to the woman to decide whether or not she wants to use contraception, and the government should not be involved in that decision."
+                },
+                {
+                    "Question": "Do you think that the government should require all women to use contraception?",
+                    "Answer": "No, I do not think that the government should require all women to use contraception. I think that it is a woman's right to choose whether or not she wants to use contraception, and the government should not force her to use it."
+                }
+            ],
+            "Output": "The government's policy on abortion should be to make it legal with certain exceptions, such as if the mother's life is in danger or if the pregnancy is the result of rape or incest. This policy would allow women to make the decision with her doctor, and the government would not be involved in that decision.The government's policy on contraception should be to provide information about different methods of contraception and to make sure that all women have access to contraception if they want it. This policy would allow women to make the decision about whether or not to use contraception, and the government would not be involved in that decision.The government's policy on sex education in schools should be to provide comprehensive information about contraception, STDs, and healthy sexual relationships. This policy would allow children to learn about different types of contraception, STDs, and healthy sexual relationships."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/mw1Zy3SdIeB2F4nFgo4b3Ekm?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/RiL97P315VwXcBjwsj5hm2LD?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/zbzv6K7ID6sdwYOgZklCHCFG?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1DVIxAx-PgK9-8y3eonb6d4B4A7WkDErN?usp=sharing"
+}

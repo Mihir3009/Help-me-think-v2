@@ -1,0 +1,152 @@
+{
+    "Contributor": "chandarananiketanharshadbhai",
+    "Domain": "Spam",
+    "Task": "Identify the spam email",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in identifying spam emails . I will ask some questions to collect information and then I will use the information to determine if this is a spam email or not.",
+        "task_specific_prompt": "Identify if this is a spam email or not using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the subject of the email?",
+                    "Answer": "The subject of the email is \"Get Rich Quick!\""
+                },
+                {
+                    "Question": "What is the sender's email address?",
+                    "Answer": "The sender's email address is money@makemoneynow.com"
+                },
+                {
+                    "Question": "Does the email try to sell you something?",
+                    "Answer": "The email tries to sell you a get rich quick scheme."
+                },
+                {
+                    "Question": "Does the email use persuasive language?",
+                    "Answer": "The email uses persuasive language to try to get you to buy the get rich quick scheme."
+                },
+                {
+                    "Question": "Does the email have any typos or grammatical errors?",
+                    "Answer": "The email has several typos and grammatical errors."
+                },
+                {
+                    "Question": "Does the email have any suspicious attachments?",
+                    "Answer": "The email does not have any suspicious attachments."
+                },
+                {
+                    "Question": "Does the email have any links?",
+                    "Answer": "The email has several links."
+                },
+                {
+                    "Question": "Are the links in the email legitimate?",
+                    "Answer": "The links in the email are not legitimate. They lead to websites that are designed to steal your personal information."
+                },
+                {
+                    "Question": "Does the email ask you for personal information?",
+                    "Answer": "The email asks for personal information."
+                },
+                {
+                    "Question": "Does the email threaten you in any way?",
+                    "Answer": "The email does not threaten you in any way."
+                }
+            ],
+            "Output": "This email is a spam email."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the sender's email address?",
+                    "Answer": "The sender's email address is do_not_reply@spammer.com."
+                },
+                {
+                    "Question": "What is the subject line of the email?",
+                    "Answer": "The subject line of the email is \"You've been selected to receive a free iPhone!\""
+                },
+                {
+                    "Question": "What does the email say?",
+                    "Answer": "The email says that the recipient has been selected to receive a free iPhone, and all they have to do is click on a link to claim their prize."
+                },
+                {
+                    "Question": "Is there anything in the email that asks you to provide personal information?",
+                    "Answer": "No, there is nothing in the email that asks you to provide personal information."
+                },
+                {
+                    "Question": "Is there anything in the email that looks like a typo or grammatical error?",
+                    "Answer": "No, there is nothing in the email that looks like a typo or grammatical error."
+                },
+                {
+                    "Question": "Does the email look \"phishy\"?",
+                    "Answer": "The email looks \"phishy.\""
+                },
+                {
+                    "Question": "Is there a sense of urgency in the email?",
+                    "Answer": "Yes, there is a sense of urgency in the email."
+                },
+                {
+                    "Question": "Is there a call-to-action in the email?",
+                    "Answer": "Yes, there is a call-to-action in the email."
+                },
+                {
+                    "Question": "Does the email contain any images?",
+                    "Answer": "No, the email does not contain any images."
+                },
+                {
+                    "Question": "Does the email come from a trusted source?",
+                    "Answer": "No, the email does not come from a trusted source."
+                }
+            ],
+            "Output": "This is a spam email."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the sender's email address?",
+                    "Answer": "The sender's email address is nchandar@asu.edu. "
+                },
+                {
+                    "Question": "What is the subject line of the email?",
+                    "Answer": "The subject line of the email is \"Need help in the assignment\""
+                },
+                {
+                    "Question": "What does the email say?",
+                    "Answer": "The email says that the recipient need some help in understanding the assignment questions of the subject NLP."
+                },
+                {
+                    "Question": "Is there anything in the email that asks you to provide personal information?",
+                    "Answer": "No, there is nothing in the email that asks you to provide personal information."
+                },
+                {
+                    "Question": "Is there anything in the email that looks like a typo or grammatical error?",
+                    "Answer": "No, there is nothing in the email that looks like a typo or grammatical error."
+                },
+                {
+                    "Question": "Does the email look \"phishy\"?",
+                    "Answer": "The email does not looks \"phishy\" at all."
+                },
+                {
+                    "Question": "Is there a sense of urgency in the email?",
+                    "Answer": "Yes, there is a sense of urgency in the email."
+                },
+                {
+                    "Question": "Does the email contain any images?",
+                    "Answer": "No, the email does not contain any images."
+                },
+                {
+                    "Question": "Does the email come from a trusted source?",
+                    "Answer": "Yes, the email comes from an Arizona State University student."
+                },
+                {
+                    "Question": "Is there anything else in the email that makes you suspicious?",
+                    "Answer": "No, there is nothing else in the email that makes me suspicious."
+                }
+            ],
+            "Output": "From the information given, it does not seem like this email is spam."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/EPly7i6wTNeCwLZXtHNOZqid?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/uhtRpyXiCDSBsAaciEGMPAD1?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/6XwkOnbClrUunEcLMPXLTa7A?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1Ti02Zr10Ngu8q-Xj4iO6eUOuUOOIpoiV?usp=sharing"
+}

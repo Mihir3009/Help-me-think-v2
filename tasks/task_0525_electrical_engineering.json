@@ -1,0 +1,184 @@
+{
+    "Contributor": "gandhiprekshanilesh",
+    "Domain": "Electrical Engineering",
+    "Task": "Electrical engineering substream recommender",
+    "Prompt": {
+        "pre_question_prompt": "I have experience recommending the preferable electrical engineering field for you based on what you like. I will ask some questions to collect information and then suggest the electrical engineering field you should take.",
+        "task_specific_prompt": "Recommend electrical engineering substream based on the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What do you like?",
+                    "Answer": "I like to work with electrical devices and I like to solve problems."
+                },
+                {
+                    "Question": "What do you dislike?",
+                    "Answer": "I dislike having to work with complex theoretical concepts."
+                },
+                {
+                    "Question": "What are you good at?",
+                    "Answer": "I am good at understanding how electronic devices work and I am also good at problem solving."
+                },
+                {
+                    "Question": "What are you not good at?",
+                    "Answer": "I am not good at working with complex theoretical concepts."
+                },
+                {
+                    "Question": "What are your career goals?",
+                    "Answer": "I would like to work in an electrical engineering field where I can use my skills to design and develop new electronic devices."
+                },
+                {
+                    "Question": "What kind of work environment do you prefer?",
+                    "Answer": "I prefer a work environment where I can be creative and where I have the opportunity to solve problems. I like a job in office environment."
+                },
+                {
+                    "Question": "What kind of work do you prefer?",
+                    "Answer": "I would prefer a job that involves designing and developing new electrical devices."
+                },
+                {
+                    "Question": "What are your skills?",
+                    "Answer": "I have good analytical and problem solving skills. I am also good at understanding how electric devices work."
+                },
+                {
+                    "Question": "What are your qualifications?",
+                    "Answer": "I have a bachelor's in engineering degree in electrical engineering."
+                },
+                {
+                    "Question": "What are your interests?",
+                    "Answer": "I am interested in electric devices and how they work. I am also interested to work with robots."
+                },
+                {
+                    "Question": "What are your values?",
+                    "Answer": "I value creativity, innovation, and problem solving."
+                },
+                {
+                    "Question": "What are your personality traits?",
+                    "Answer": "I am analytical, creative, and innovative."
+                },
+                {
+                    "Question": "What is your work style?",
+                    "Answer": "I like to work in a team and I am very creative."
+                }
+            ],
+            "Output": "Based on the questions and answers above, it is recommended that you take up electrical engineering with a specialization in design and development. This substream will allow you to use your analytical and problem solving skills to develop new electrical devices. You will also have the opportunity to be creative in your work."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you like?",
+                    "Answer": "I like to work with electrical devices and circuits."
+                },
+                {
+                    "Question": "What do you enjoy doing?",
+                    "Answer": "I enjoy trying to solve electric circuit problems."
+                },
+                {
+                    "Question": "What are your strengths?",
+                    "Answer": "I am very analytical and I have a strong understanding of electrical concepts."
+                },
+                {
+                    "Question": "What is your ideal job?",
+                    "Answer": "I would like to work as an electrical engineer in a company where I can use my problem-solving skills."
+                },
+                {
+                    "Question": "What are your career goals?",
+                    "Answer": "I want to be an electrical engineer in the big companies."
+                },
+                {
+                    "Question": "What do you think are the benefits of electrical engineering?",
+                    "Answer": "I think electrical engineering is a very versatile field that offers many opportunities. Electrical engineers can work in a variety of industries, including power generation, transportation, telecommunications, and manufacturing. They can also choose to specialize in areas such as control systems, signal processing, or electronic devices and circuits."
+                },
+                {
+                    "Question": "What do you think are the challenges of electrical engineering?",
+                    "Answer": "The main challenge of electrical engineering is that it is a very complex field. Electrical engineers need to have a strong understanding of mathematics and physics in order to be successful."
+                },
+                {
+                    "Question": "What do you think are the job prospects for electrical engineers?",
+                    "Answer": "The job prospects for electrical engineers are very good."
+                },
+                {
+                    "Question": "What do you think are the salary prospects for electrical engineers?",
+                    "Answer": "Electrical engineers receive high salaries in big companies since it's a core company."
+                },
+                {
+                    "Question": "What do you think is the work/life balance for electrical engineers?",
+                    "Answer": "The work/life balance for electrical engineers can be challenging since they often have to work long hours."
+                },
+                {
+                    "Question": "What do you think is the most important skill for electrical engineers?",
+                    "Answer": "The most important skill for electrical engineers is problem-solving."
+                },
+                {
+                    "Question": "What do you think is the most important quality for electrical engineers?",
+                    "Answer": "The most important quality for electrical engineers is perseverance and hard work."
+                },
+                {
+                    "Question": "What do you think is the best part of being an electrical engineer?",
+                    "Answer": "The best part of being an electrical engineer is that it's a core area of engineering with lots of opportunities and scope."
+                }
+            ],
+            "Output": "I would recommend that you pursue electrical engineering with a focus on control systems. This area of electrical engineering involves designing and overseeing the production of systems that manage, monitor, and direct electricity. This could include power plants, transportation networks, or manufacturing facilities. Control system engineers need to have strong analytical skills and be able to solve complex problems."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What do you like?",
+                    "Answer": "I like to work with electrical devices especially medical devices."
+                },
+                {
+                    "Question": "What do you want to achieve?",
+                    "Answer": "I want to be able to design and create electrical devices that can help people in their everyday lives."
+                },
+                {
+                    "Question": "What do you think are your strengths?",
+                    "Answer": "I am very good at understanding how electrical devices work and I have a lot of experience working with them."
+                },
+                {
+                    "Question": "What do you think are your weaknesses?",
+                    "Answer": "I might not be as good at the more technical aspects of electrical engineering such as circuit design."
+                },
+                {
+                    "Question": "What do you think are your interests?",
+                    "Answer": "I am interested in designing medical devices implanted in human bodies, like artificial heart."
+                },
+                {
+                    "Question": "What do you think are your skills?",
+                    "Answer": "My skills are critical thinking, mathematics and physics skills."
+                },
+                {
+                    "Question": "What do you think are your values?",
+                    "Answer": "I value helping others and making a difference in their lives."
+                },
+                {
+                    "Question": "What do you think are your personality traits?",
+                    "Answer": "I am very analytical and I like to solve problems."
+                },
+                {
+                    "Question": "What do you think is your work style?",
+                    "Answer": "I like to work in a team and I am very detail-oriented."
+                },
+                {
+                    "Question": "What do you think is your learning style?",
+                    "Answer": "I like to learn by doing and I am very hands-on."
+                },
+                {
+                    "Question": "What do you think is your motivation?",
+                    "Answer": "I am motivated by my parents who have worked in the same field for many years now and the idea of working with cutting edge medical devices that will give humans better lives."
+                },
+                {
+                    "Question": "What do you think is your preferred work environment?",
+                    "Answer": "I would like to work in an office environment which is vibrant."
+                },
+                {
+                    "Question": "What do you think is your preferred work schedule?",
+                    "Answer": "I would like to work regular hours so that I can have a good work-life balance."
+                }
+            ],
+            "Output": "Based on your answers, it seems like you would be interested in working in the field of biomedical engineering. This field deals with the design and creation of electrical devices that are used in human bodies, such as artificial hearts. You mentioned that you are motivated by your parents who have worked in this field for many years, and this is a good way to get started in the industry.Your skills and values suggest that you would be successful in this field. You are analytical and detail-oriented, which will come in handy when designing complex medical devices. You also value helping others, which is something that biomedical engineers do on a daily basis."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/JzbfmeZ3hfhIL5ow8Dy5Yqhg?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jfiz-jMSi4VAxk72MVQH9FnOuIrwlgbB?usp=sharing"
+}

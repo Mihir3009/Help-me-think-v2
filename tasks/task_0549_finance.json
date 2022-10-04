@@ -1,0 +1,204 @@
+{
+    "Contributor": "chelenahallisatishmanthan",
+    "Domain": "Finance",
+    "Task": "Predicting if a person goes into debt in the next five years",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert banker. I will ask some questions to collect information related to the financial history of a person and then I will use the information to check if a person will go into debt in the next five years.",
+        "task_specific_prompt": "Based on the questions and answers asked, How much amount of debt will Elon Musk likely be in? Justify your answer."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Elon Musk."
+                },
+                {
+                    "Question": "How much money do you make in a year?",
+                    "Answer": "I make $2,000,000 a year."
+                },
+                {
+                    "Question": "How much money do you have in the bank?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Do you have any credit cards?",
+                    "Answer": "I have four credit cards."
+                },
+                {
+                    "Question": "What is your credit score?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Have you ever been in debt?",
+                    "Answer": "I have been in debt since last year, but I am not currently in debt."
+                },
+                {
+                    "Question": "What is your monthly income?",
+                    "Answer": "My monthly income is $100,000."
+                },
+                {
+                    "Question": "What are your monthly expenses?",
+                    "Answer": "My monthly expenses are $80,000."
+                },
+                {
+                    "Question": "What is your total net worth?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Do you have any investments?",
+                    "Answer": "I have investments in stocks, bonds, crypto, and real estate."
+                },
+                {
+                    "Question": "What is your debt-to-income ratio?",
+                    "Answer": "My debt-to-income ratio is 56%."
+                },
+                {
+                    "Question": "Are you able to save any money each month?",
+                    "Answer": "Yes, I am able to save $50,000 each month."
+                },
+                {
+                    "Question": "What is your job security like?",
+                    "Answer": "I have a very secure job."
+                },
+                {
+                    "Question": "What is the interest rate on your credit cards?",
+                    "Answer": "The interest rate on my credit cards is 20%."
+                },
+                {
+                    "Question": "Do you have any other debts?",
+                    "Answer": "I have a mortgage and a car loan."
+                },
+                {
+                    "Question": "What is your monthly mortgage payment?",
+                    "Answer": "My monthly mortgage payment is $5,000."
+                }
+            ],
+            "Output": "Elon Musk is likely to be in debt in the amount of $5,000 per month. This is because his monthly expenses are $80,000, which is more than his monthly income of $100,000. Additionally, he has a debt-to-income ratio of 56%, which is considered to be high. Furthermore, he has other debts, such as a mortgage and a car loan, which add to his monthly debt payment."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Elon Musk."
+                },
+                {
+                    "Question": "How much money do you make in a year?",
+                    "Answer": "I make 24000 dollars a year."
+                },
+                {
+                    "Question": "How much money do you have in the bank?",
+                    "Answer": "I have 3000 dollars in the bank"
+                },
+                {
+                    "Question": "Do you have any credit cards?",
+                    "Answer": "I have two credit cards."
+                },
+                {
+                    "Question": "What is your credit score?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "Do you have any loans?",
+                    "Answer": "I have a student loan of 18000 dollars."
+                },
+                {
+                    "Question": "Do you have any investments?",
+                    "Answer": "I have 3000 dollars invested in stocks and crypto."
+                },
+                {
+                    "Question": "What are your living expenses?",
+                    "Answer": "I spend about 1000 dollars a month on rent, food, and other necessities."
+                },
+                {
+                    "Question": "Do you have any debts?",
+                    "Answer": "I do not have any debts."
+                },
+                {
+                    "Question": "What is your net worth?",
+                    "Answer": "I do not know."
+                },
+                {
+                    "Question": "What are your assets?",
+                    "Answer": "I have 3000 dollars in the bank, 3000 dollars invested in stocks and crypto, and no debts."
+                },
+                {
+                    "Question": "What are your liabilities?",
+                    "Answer": "I do not have any liabilities."
+                },
+                {
+                    "Question": "What is your investment strategy?",
+                    "Answer": "I invest in a mix of stocks. I also have a diversified portfolio."
+                },
+                {
+                    "Question": "What is your risk tolerance?",
+                    "Answer": "I am willing to take on little risk for the potential of high returns."
+                },
+                {
+                    "Question": "What is your time horizon?",
+                    "Answer": "I am investing for the short term."
+                }
+            ],
+            "Output": "Elon Musk will likely be in debt in the next five years. He makes 24000 dollars a year and has 3000 dollars in the bank. He has two credit cards and a student loan of 18000 dollars. His living expenses are 1000 dollars a month. He has 3000 dollars invested in stocks and crypto. His net worth is unknown. His assets are 3000 dollars in the bank, 3000 dollars invested in stocks and crypto, and no debts. His liabilities are unknown. His investment strategy is to invest in a mix of stocks. He is willing to take on little risk for the potential of high returns. His time horizon is the short term."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Elon Musk."
+                },
+                {
+                    "Question": "How much money do you make in a year?",
+                    "Answer": "I make about $20 million a year."
+                },
+                {
+                    "Question": "How much money do you have in savings?",
+                    "Answer": "I have about $10 million in savings."
+                },
+                {
+                    "Question": "Do you have any outstanding debts?",
+                    "Answer": "I have about $5 million in outstanding debts."
+                },
+                {
+                    "Question": "What are your expected financial expenses in the next five years?",
+                    "Answer": "I expect my financial expenses to be $60 million in the next five years. I am planning to start a new company to save the environment."
+                },
+                {
+                    "Question": "How much money is the new company expected to make in the next five years?",
+                    "Answer": "The new company will give revenue of $100 million after three years."
+                },
+                {
+                    "Question": "What is your expected total net worth in five years?",
+                    "Answer": "I expect my total net worth to be $145 million in five years."
+                },
+                {
+                    "Question": "Do you have a plan to repay your debts in the next five years?",
+                    "Answer": "I have a plan to repay my debts in the next five years. I will use the money I make from my new company to repay my debts if it makes money."
+                },
+                {
+                    "Question": "What is your expected debt-to-income ratio in five years?",
+                    "Answer": "My expected debt-to-income ratio in five years is 1.2."
+                },
+                {
+                    "Question": "What is your expected credit score in five years?",
+                    "Answer": "My expected credit score in five years is 780."
+                },
+                {
+                    "Question": "What is your expected total debt in five years?",
+                    "Answer": "My expected total debt in five years is $5 million."
+                }
+            ],
+            "Output": "Elon Musk will likely be in $5 million of debt in five years. This is because he has an expected debt-to-income ratio of 1.2 and an expected credit score of 780. He also has an outstanding debt of $5 million and is expecting financial expenses of $60 million in the next five years. However, he does have a plan to repay his debts and his new company is expected to make $100 million in revenue after three years."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/RfcUWQPMK1HYbsd82ZggSbTA?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/0phkZUayVtrv0nYlxX7DiE6p?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/rF63aWuukiYkqfqJpzuF6tF5?model=text-davinci-002"
+    ],
+    "screenshot_link": [
+        "https://drive.google.com/file/d/1GAXOz6EWoPxb22G1FvLPDU21BbLWVL-2/view?usp=sharing",
+        "https://drive.google.com/file/d/1sfe0vu6zAJh9vASPkjjA40oEB2Rv1YWW/view?usp=sharing",
+        "https://drive.google.com/file/d/1p5snE0OrgwORnW3MO1EdCujJsM4wbXZf/view?usp=sharing"
+    ]
+}
