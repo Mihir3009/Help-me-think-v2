@@ -577,3 +577,4 @@ File Name | Domain | Task
 `task_0632_higher_education.json` | Higher Education | Suggesting Degree Program
 `task_0633_higher_education.json` | Higher Education | Suggesting Education Loan
 `task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
+`task_0643_pharmacy.json` | Pharmacy | Allocating medicines
