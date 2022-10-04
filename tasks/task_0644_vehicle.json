@@ -1,0 +1,147 @@
+{
+    "Contributor": "Shruthi Chinnamsetty",
+    "Domain": "Vehicle",
+    "Task": "Suggesting the right type of vehicle",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in vehicles. I will ask some questions to collect information and then I will use the information to suggest the right type of vehicle.",
+        "task_specific_prompt": "Write how to allocate medicine for the patient."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "How will you be using the vehicle?",
+                    "Answer": "I need a vehicle for work."
+                },
+                {
+                    "Question": "Do you have a preferred type of vehicle?",
+                    "Answer": "I need a truck."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "I can spend up to $30,000."
+                },
+                {
+                    "Question": "What is the maximum amount you are willing to spend on fuel per month?",
+                    "Answer": "I am willing to spend up to $200 per month on fuel."
+                },
+                {
+                    "Question": "Do you have any preferred features?",
+                    "Answer": "I would like a truck with four-wheel drive."
+                },
+                {
+                    "Question": "What is the maximum amount you are willing to spend on insurance per month?",
+                    "Answer": "I am willing to spend up to $100 per month on insurance."
+                },
+                {
+                    "Question": "Do you have a preferred brand?",
+                    "Answer": "No, I do not have a preferred brand."
+                },
+                {
+                    "Question": "What is the maximum amount you are willing to spend on maintenance per month?",
+                    "Answer": "I am willing to spend up to $100 per month on maintenance."
+                },
+                {
+                    "Question": "What is the maximum amount you are willing to spend on repairs per month?",
+                    "Answer": "I am willing to spend up to $100 per month on repairs."
+                },
+                {
+                    "Question": "What is the maximum amount you are willing to spend on financing charges per month?",
+                    "Answer": "I am willing to spend up to $100 per month on financing charges."
+                }
+            ],
+            "Output": "We suggest a truck such as the Ford F-150. It has four-wheel drive and is a reliable work truck. It is also affordable and has low fuel, insurance, and maintenance costs."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "How often do you drive?",
+                    "Answer": "I drive every day."
+                },
+                {
+                    "Question": "How many people do you usually have with you when you drive?",
+                    "Answer": "I usually have one or two other people with me when I drive."
+                },
+                {
+                    "Question": "What type of terrain do you usually drive on?",
+                    "Answer": "I usually drive on paved roads."
+                },
+                {
+                    "Question": "What is your budget for a vehicle?",
+                    "Answer": "I have a budget of $15,000."
+                },
+                {
+                    "Question": "What are your preferred features in a vehicle?",
+                    "Answer": "I prefer a vehicle with good fuel economy and plenty of cargo space."
+                },
+                {
+                    "Question": "What is your preferred body style for a vehicle?",
+                    "Answer": "I prefer a sedan."
+                },
+                {
+                    "Question": "What is your preferred fuel type for a vehicle?",
+                    "Answer": "I prefer a vehicle that runs on gasoline."
+                },
+                {
+                    "Question": "What is your preferred transmission type for a vehicle?",
+                    "Answer": "I prefer a vehicle with an automatic transmission."
+                },
+                {
+                    "Question": "What is your preferred drivetrain for a vehicle?",
+                    "Answer": "I prefer a vehicle with front-wheel drive."
+                }
+            ],
+            "Output": "the right type of vehicle would be  a sedan with good fuel economy, plenty of cargo space, and an automatic transmission."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": " What type of vehicle are you looking for?",
+                    "Answer": "I am looking for a car that is good on gas and can seat at least five people."
+                },
+                {
+                    "Question": "What is your budget?",
+                    "Answer": "My budget is $15,000."
+                },
+                {
+                    "Question": "What are your must-have features?",
+                    "Answer": "My must-have features are Bluetooth connectivity, good gas mileage, and a spacious interior."
+                },
+                {
+                    "Question": "How do you plan to use the vehicle?",
+                    "Answer": "I plan to use the vehicle for commuting to work and running errands around town."
+                },
+                {
+                    "Question": "What is your preferred body style?",
+                    "Answer": "I prefer a sedan or SUV."
+                },
+                {
+                    "Question": "What is your preferred color?",
+                    "Answer": "I prefer a dark color, like black, blue, or grey."
+                },
+                {
+                    "Question": "Do you have any preferred brands?",
+                    "Answer": "I do not have a preferred brand, but I would like a reliable vehicle."
+                },
+                {
+                    "Question": "Do you have a preferred dealer?",
+                    "Answer": "I do not have a preferred dealer."
+                },
+                {
+                    "Question": "When do you plan to purchase?",
+                    "Answer": "I plan to purchase within the next few months."
+                },
+                {
+                    "Question": "Are you looking to finance or lease?",
+                    "Answer": "I am looking to finance."
+                }
+            ],
+            "Output": "the suggested vehicle for you would be the Honda CR-V. It is a reliable SUV that has good gas mileage, a spacious interior, and Bluetooth connectivity. It is also available in a dark color like black, blue, or grey."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/j82L3QquLSxwXJssvZyyu0Yh?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/bsPlgPSIadvoIa0gcspfPllB?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/TnqR5BME3B7QyZVNlPu8aTzZ?model=text-davinci-002"
+    ]
+}
