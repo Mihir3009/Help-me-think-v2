@@ -54,44 +54,44 @@
         {
             "QApair": [
                 {
-                    "question": "How would you rate your proficiency in mathematics?",
-                    "answer": "I would rate my proficiency in mathematics as very high."
+                    "Question": "How would you rate your proficiency in mathematics?",
+                    "Answer": "I would rate my proficiency in mathematics as very high."
                 },
                 {
-                    "question": "What is your favorite mathematics topic?",
-                    "answer": "I enjoy all topics in mathematics, but my favorite would probably be statistics."
+                    "Question": "What is your favorite mathematics topic?",
+                    "Answer": "I enjoy all topics in mathematics, but my favorite would probably be statistics."
                 },
                 {
-                    "question": "What is the highest level of mathematics you have studied?",
-                    "answer": "I have completed a PhD in mathematics."
+                    "Question": "What is the highest level of mathematics you have studied?",
+                    "Answer": "I have completed a PhD in mathematics."
                 },
                 {
-                    "question": "What is your favorite type of math problem?",
-                    "answer": "I enjoy all types of math problems, but my favorite would probably be optimization problems."
+                    "Question": "What is your favorite type of math problem?",
+                    "Answer": "I enjoy all types of math problems, but my favorite would probably be optimization problems."
                 },
                 {
-                    "question": "What are your thoughts on mathematics?",
-                    "answer": "I believe that mathematics is a beautiful and powerful tool that can be used to solve many problems in the world."
+                    "Question": "What are your thoughts on mathematics?",
+                    "Answer": "I believe that mathematics is a beautiful and powerful tool that can be used to solve many problems in the world."
                 },
                 {
-                    "question": "What is your favorite thing about mathematics?",
-                    "answer": "I enjoy the challenge of solving difficult problems. I also enjoy the beauty and elegance of mathematical proofs."
+                    "Question": "What is your favorite thing about mathematics?",
+                    "Answer": "I enjoy the challenge of solving difficult problems. I also enjoy the beauty and elegance of mathematical proofs."
                 },
                 {
-                    "question": "What is your least favorite thing about mathematics?",
-                    "answer": "I dislike how some people view mathematics as a difficult and boring subject."
+                    "Question": "What is your least favorite thing about mathematics?",
+                    "Answer": "I dislike how some people view mathematics as a difficult and boring subject."
                 },
                 {
-                    "question": "What is your greatest strength in mathematics?",
-                    "answer": "I believe my greatest strength in mathematics is my ability to think abstractly and see the connections between different concepts."
+                    "Question": "What is your greatest strength in mathematics?",
+                    "Answer": "I believe my greatest strength in mathematics is my ability to think abstractly and see the connections between different concepts."
                 },
                 {
-                    "question": "What is your greatest weakness in mathematics?",
-                    "answer": "I sometimes struggle with computations and remembering all of the different formulas."
+                    "Question": "What is your greatest weakness in mathematics?",
+                    "Answer": "I sometimes struggle with computations and remembering all of the different formulas."
                 },
                 {
-                    "question": "If you could change one thing about mathematics, what would it be?",
-                    "answer": "I would change the way some people view mathematics as a difficult and boring subject. I believe that more people would enjoy mathematics if they saw it as a beautiful and powerful tool that can be used to solve many problems in the world."
+                    "Question": "If you could change one thing about mathematics, what would it be?",
+                    "Answer": "I would change the way some people view mathematics as a difficult and boring subject. I believe that more people would enjoy mathematics if they saw it as a beautiful and powerful tool that can be used to solve many problems in the world."
                 }
             ],
             "Output": "One possible profession for you in the mathematical domain could be as a research mathematician."
