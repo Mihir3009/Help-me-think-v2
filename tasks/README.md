@@ -578,3 +578,4 @@ File Name | Domain | Task
 `task_0633_higher_education.json` | Higher Education | Suggesting Education Loan
 `task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
 `task_0635_pharmacy.json` | Pharmacy | Allocating medicines
+`task_0636_mathematics.json` | Mathematics | Suggest a profession in mathematical domain based on your mathematical knowledge
