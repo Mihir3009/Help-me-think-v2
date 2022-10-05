@@ -584,11 +584,3 @@ File Name | Domain | Task
 `task_0640_video.json` | Video | Skill Suggestor based on the type of videography
 `task_0641_psychology.json` | Psychology | SuggestToImproveSituation
 `task_0642_psychology.json` | Psychology | Symptom Checker Bot
-`task_0643_hospitality.json` | Hospitality | Nurse a patient
-`task_0644_animal_behavior.json` | Animal_Behavior | Strategy to make a Animals remember Me
-`task_0645_animal_behavior.json` | Animal_Behavior | Strategy to make a Animal decide to stay in my Area
-`task_0646_animal_behavior.json` | Animal_Behavior | Steps to teach animals social etiquette
-`task_0647_hospitality.json` | Hospitality | Customer Service
-`task_0648_hospitality.json` | Hospitality | Care for Elderly
-`task_0649_animal_behavior.json` | Animal_Behavior | Strategy to Communicate/Play with Animals
-`task_0650_hospitality.json` | Hospitality | Advertisement higlighting hospitality for a Hotel
