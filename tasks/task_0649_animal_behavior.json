@@ -1,0 +1,154 @@
+{
+    "Contributor": "rajdivyanshu",
+    "Domain": "Animal Behavior",
+    "Task": "Strategy to Communicate/Play with Animals",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert in understanding animal communication. I will ask some questions to collect information and then I will use the information to communicate with animals.",
+        "task_specific_prompt": "Write a way to pet the animal and play with it using the questions and answers above."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question":"How long have you been observing the animal?",
+                    "Answer": "I have been observing the animal for about ten years."
+                },
+                {
+                    "Question":"What is the animal's primary form of communication?",
+                    "Answer":"The animal's primary forms of communication is gesture and language."
+                },
+                {
+                    "Question":"What is the animal's primary means of communication?",
+                    "Answer":"The animal's primary means of communication is through its eyes and ears."
+                },
+                {
+                    "Question":"What are the animal's favorite foods?",
+                    "Answer":"The animal's favorite foods are cooked meat and milk."
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"The animal's favorite activity is to sleep and chase small insects."
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"The animal dislikes being given bath."
+                },
+                {
+                    "Question":"What is the animal's favorite place to be?",
+                    "Answer":"The animal's favorite place to hide and sleep in cupboards."
+                },
+                {
+                    "Question":"What is the animal's favorite time of day?",
+                    "Answer":"The animal's favorite time of day is both day and night."
+                },
+                {
+                    "Question":"What is the animal's favorite season?",
+                    "Answer":"The animal's favorite season is rainy season."
+                },
+                {
+                    "Question":"What is the animal's favorite temperature?",
+                    "Answer":"The animal's favorite temperature is warm temperature."
+                }
+            ],
+            "Output": "To pet the animal, you can use gesture and language to communicate with it. The animal will understand what you are trying to say and will enjoy being petted. You can also use the animal's favorite foods to attract it and then pet it. The animal will also enjoy its favorite activity, which is to sleep and chase small insects.",
+            "Preset_link": "https://beta.openai.com/playground/p/8EQnReZGcLzfFkwb9JsvZQZ4?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1ywUb9lXz2XMyOe-zEs-V4aqQM5ncSuES/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How long have you been observing the animal?",
+                    "Answer": "I have been observing the animal for about few months."
+                },
+                {
+                    "Question":"What is the animal's primary form of communication?",
+                    "Answer":"The animal's primary forms of communication is through sound."
+                },
+                {
+                    "Question":"What is the animal's primary means of communication?",
+                    "Answer":"The animal's primary means of communication is through its eyes and ears."
+                },
+                {
+                    "Question":"What are the animal's favorite foods?",
+                    "Answer":"The animal's favorite foods chicken."
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"The animal's favorite activity is to play outdoors."
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"The animal dislikes being disturbed while eating food."
+                },
+                {
+                    "Question":"What is the animal's favorite place to be?",
+                    "Answer":"The animal's favorite place is near food or people."
+                },
+                {
+                    "Question":"What is the animal's favorite time of day?",
+                    "Answer":"The animal's favorite time of day is day."
+                },
+                {
+                    "Question":"What is the animal's favorite season?",
+                    "Answer":"The animal's favorite season is summer season."
+                },
+                {
+                    "Question":"What is the animal's favorite temperature?",
+                    "Answer":"The animal's favorite temperature is cold temperature."
+                }
+            ],
+            "Output": "First, approach the animal calmly and speak in a soft voice. Offer the animal one of its favorite foods, chicken. Allow the animal to smell your hand before petting it. Gently pet the animal on the head and back. Play with the animal outdoors, engaging in its favorite activities. Be sure to praise the animal when it does something you enjoy.",
+            "Preset_link": "https://beta.openai.com/playground/p/EaGOgXipMA1at0d5oLQ0mr1B?model=text-davinci-002",
+            "screenshot_link" : "https://drive.google.com/file/d/1YZrcn_qDhhOAsGXDmggWquotJlNHZQpm/view?usp=sharing"
+        },
+        {
+            "QApair": [
+                {
+                    "Question":"How long have you been observing the animal?",
+                    "Answer": "I have been observing the animal for about few days."
+                },
+                {
+                    "Question":"What is the animal's primary form of communication?",
+                    "Answer":"The animal's primary forms of communication is through sound."
+                },
+                {
+                    "Question":"What is the animal's primary means of communication?",
+                    "Answer":"The animal's primary means of communication is through its eyes and ears."
+                },
+                {
+                    "Question":"What are the animal's favorite foods?",
+                    "Answer":"The animal's favorite foods are dal, grass and dry grass."
+                },
+                {
+                    "Question":"What is the animal's favorite activity?",
+                    "Answer":"The animal's favorite activity is to chew food and sit."
+                },
+                {
+                    "Question":"What does the animal dislike?",
+                    "Answer":"The animal dislikes being pet at its head."
+                },
+                {
+                    "Question":"What is the animal's favorite place to be?",
+                    "Answer":"The animal's favorite place is to sit in a corner."
+                },
+                {
+                    "Question":"What is the animal's favorite time of day?",
+                    "Answer":"The animal's favorite time of day is day."
+                },
+                {
+                    "Question":"What is the animal's favorite season?",
+                    "Answer":"The animal's favorite season is winter season."
+                },
+                {
+                    "Question":"What is the animal's favorite temperature?",
+                    "Answer":"The animal's favorite temperature is moderate temperature."
+                }
+            ],
+            "Output": "To pet the animal, you can extend your arm out slowly towards the animal while calling its name softly. If the animal allows you to pet it, then you can stroke its fur gently. To play with the animal, you can offer it one of its favorite foods, such as dal or grass. You can also try to engage the animal in its favorite activity, such as chew food or sit.",
+            "Preset_link": "https://beta.openai.com/playground/p/sS0vqYK1mDMe3wkDiXInsIcQ?model=text-davinci-002",
+            "screenshot_link": "https://drive.google.com/file/d/1sABmeJ8MylH4w5jBEVOV41flOMOl6Hyd/view?usp=sharing"
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/8EQnReZGcLzfFkwb9JsvZQZ4?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/file/d/1ywUb9lXz2XMyOe-zEs-V4aqQM5ncSuES/view?usp=sharing"
+}
