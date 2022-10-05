@@ -1,0 +1,151 @@
+{
+    "Domain": "Interior Design",
+    "Task": "Living Room design for $5000",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Interior Designer. I will ask some questions to collect information about the customer, their needs, and background and then I will make expert design suggestions and opinions. ",
+        "task_specific_prompt": "Write an awesome detailed interior design suggestion with quotes and everything."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the customer's budget for this project?",
+                    "Answer": "It's $5000."
+                },
+                {
+                    "Question": "What is the customer's design style? ",
+                    "Answer": "The customer's design style is an Eclectic Interior Design Style. "
+                },
+                {
+                    "Question": "What is the customer's favorite color? ",
+                    "Answer": "The customer's favorite color is Blue, Beige, and White."
+                },
+                {
+                    "Question": "What is the customer's favorite type of furniture? ",
+                    "Answer": "The customers favorite type of furniture is the Mid-Century Modern Style."
+                },
+                {
+                    "Question": "What is the customer's favorite type of flooring?",
+                    "Answer": "The customer's favorite type of flooring is Hardwood."
+                },
+                {
+                    "Question": "What is the customer's favorite type of lighting?",
+                    "Answer": "The customer's favorite type of lighting is LED lights."
+                },
+                {
+                    "Question": "What is the customer's favorite type of window treatment? ",
+                    "Answer": "The customer's favorite type of window treatment is Mini Blinds."
+                },
+                {
+                    "Question": "What is the customer's favorite type of wallcovering? ",
+                    "Answer": "The customer's favorite type of wallcovering is solid vinyl wallpaper. "
+                },
+                {
+                    "Question": "What is the customer's favorite type of paint? ",
+                    "Answer": "The customer's favorite type of paint is Benjamin Moore."
+                },
+                {
+                    "Question": "What is the customer's favorite type of fabric? ",
+                    "Answer": "The customer's favorite type of fabric is Sunbrella. "
+                }
+            ],
+            "Output": "The customer's favorite type of furniture is the Mid-Century Modern Style, so we recommend using this style as the inspiration for the design of the room. We suggest using a blue, beige, and white color scheme with accents of Mid-Century Modern furniture and décor. The customer's favorite type of flooring is hardwood, so we recommend using hardwood floors in the room. The customer's favorite type of lighting is LED lights, so we recommend using LED lights in the room. The customer's favorite type of window treatment is mini blinds, so we recommend using mini blinds in the room. The customer's favorite type of wallcovering is solid vinyl wallpaper, so we recommend using solid vinyl wallpaper in the room. The customer's favorite type of paint is Benjamin Moore, so we recommend using Benjamin Moore paint in the room. The customer's favorite type of fabric is Sunbrella, so we recommend using Sunbrella fabric in the room."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the customer's budget for this project?",
+                    "Answer": "It's $5000."
+                },
+                {
+                    "Question": "What is the customer's design style? ",
+                    "Answer": "The customer's design style is an Eclectic Interior Design Style. "
+                },
+                {
+                    "Question": "What is the customer's favorite color? ",
+                    "Answer": "The customer's favorite color is Blue, Beige, and White."
+                },
+                {
+                    "Question": "What is the customer's favorite type of furniture? ",
+                    "Answer": "The customers favorite type of furniture is the Mid-Century Modern Style."
+                },
+                {
+                    "Question": "What is the customer's favorite type of flooring?",
+                    "Answer": "The customer's favorite type of flooring is Hardwood."
+                },
+                {
+                    "Question": "What is the customer's favorite type of lighting?",
+                    "Answer": "The customer's favorite type of lighting is LED lights."
+                },
+                {
+                    "Question": "What is the customer's favorite type of window treatment? ",
+                    "Answer": "The customer's favorite type of window treatment is Mini Blinds."
+                },
+                {
+                    "Question": "What is the customer's favorite type of wallcovering? ",
+                    "Answer": "The customer's favorite type of wallcovering is solid vinyl wallpaper. "
+                },
+                {
+                    "Question": "What is the customer's favorite type of paint? ",
+                    "Answer": "The customer's favorite type of paint is Benjamin Moore."
+                },
+                {
+                    "Question": "What is the customer's favorite type of fabric? ",
+                    "Answer": "The customer's favorite type of fabric is Sunbrella. "
+                }
+            ],
+            "Output": "Based on the information that the customer has provided, it seems that they are looking for an eclectic interior design style with mid-century modern furniture, hardwood floors, and LED lighting. For window treatments, they prefer mini blinds, and for wallcoverings, they prefer solid vinyl wallpaper. As for paint, they prefer Benjamin Moore. Lastly, their favorite type of fabric is Sunbrella.Some great suggestions for creating an eclectic interior design style for the customer would be to mix and match different furniture styles and finishes, create interesting accent walls with bold colors or patterns, and mix different textures and materials throughout the space. For the mid-century modern furniture, some great places to shop would be West Elm, CB2, or Article. For hardwood floors, some great options would be engineered hardwood or bamboo. And for LED lighting, some great options would be Philips Hue or LIFX."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the customer's budget for this project?",
+                    "Answer": "It's $5000."
+                },
+                {
+                    "Question": "What is the customer's design style? ",
+                    "Answer": "The customer's design style is an Eclectic Interior Design Style. "
+                },
+                {
+                    "Question": "What is the customer's favorite color? ",
+                    "Answer": "The customer's favorite color is Blue, Beige, and White."
+                },
+                {
+                    "Question": "What is the customer's favorite type of furniture? ",
+                    "Answer": "The customers favorite type of furniture is the Mid-Century Modern Style."
+                },
+                {
+                    "Question": "What is the customer's favorite type of flooring?",
+                    "Answer": "The customer's favorite type of flooring is Hardwood."
+                },
+                {
+                    "Question": "What is the customer's favorite type of lighting?",
+                    "Answer": "The customer's favorite type of lighting is LED lights."
+                },
+                {
+                    "Question": "What is the customer's favorite type of window treatment? ",
+                    "Answer": "The customer's favorite type of window treatment is Mini Blinds."
+                },
+                {
+                    "Question": "What is the customer's favorite type of wallcovering? ",
+                    "Answer": "The customer's favorite type of wallcovering is solid vinyl wallpaper. "
+                },
+                {
+                    "Question": "What is the customer's favorite type of paint? ",
+                    "Answer": "The customer's favorite type of paint is Benjamin Moore."
+                },
+                {
+                    "Question": "What is the customer's favorite type of fabric? ",
+                    "Answer": "The customer's favorite type of fabric is Sunbrella. "
+                }
+            ],
+            "Output": "The customer's budget of $5000 is a great starting point for their Eclectic Interior Design Style. I would suggest using Blue, Beige, and White as the main colors with Mid-Century Modern Style furniture. The customer's favorite type of flooring, Hardwood, would look great with the Mid-Century Modern furniture. For the lighting, I would recommend using LED lights to save on the electric bill. The customer's favorite type of window treatment, Mini Blinds, would look great with the solid vinyl wallpaper as the wallcovering. I would recommend using Benjamin Moore paint because it is a great quality paint. The customer's favorite type of fabric, Sunbrella, would be great for the upholstery on the furniture."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/wxtjcN1qzsJheH0Jn2C2CFIr?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/tj2K4DkJlLqfQOA6nPP470NJ?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/eEqjrplKgkIAaGwoEjoSJIKK?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/10Hl5OzDyz2pkogLzwb9NsUc3VlKRcW_0?usp=sharing"
+}

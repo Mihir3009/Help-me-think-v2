@@ -1,0 +1,147 @@
+{
+    "Domain": "Production",
+    "Task": "Inventory Tracking Software Production",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Production Engineer. I will ask questions to collect information about the product.",
+        "task_specific_prompt": "As a production engieer, with the Questions and answers above I will generate user stories, acceptance criteria for the product and any improvements if any can be done."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a computerized system that helps manage inventory and track sales for businesses."
+                },
+                {
+                    "Question": "What does the product do?",
+                    "Answer": "The product helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market for the product is businesses that need help managing inventory and tracking sales. The product is designed to help businesses save time and money by tracking inventory and sales data."
+                },
+                {
+                    "Question": "How does the product work?",
+                    "Answer": "The product is a computerized system that helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the features of the product?",
+                    "Answer": "The features of the product include the ability to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The benefits of the product include the ability to save businesses time and money by tracking inventory and sales data. The product can also help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the drawbacks of the product?",
+                    "Answer": "The drawbacks of the product include the need for a computer and internet connection to use the product. The product is also only designed to help businesses track inventory and sales data, and cannot be used for other purposes."
+                },
+                {
+                    "Question": "How much does the product cost?",
+                    "Answer": "The product costs $500."
+                },
+                {
+                    "Question": "How easy is the product to use?",
+                    "Answer": "The product is easy to use and very intuitive."
+                },
+                {
+                    "Question": "How does the product compare to similar products on the market?",
+                    "Answer": "The product is very unique. Apart from tracking things, It also gives data analysis back to the customer."
+                }
+            ],
+            "Output": "User Story:\nAs a business owner, I want to be able to track my inventory levels and sales data so that I can make informed decisions about my inventory and sales.\nAcceptance Criteria:\n-The product should be able to track inventory levels and sales data.\n-The product should be able to generate reports and analytics based on the data it tracks.\n-The product should be easy to use and intuitive.\nImprovements:\n-The product could be designed to help businesses track other data points beyond inventory and sales."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a computerized system that helps manage inventory and track sales for businesses."
+                },
+                {
+                    "Question": "What does the product do?",
+                    "Answer": "The product helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market for the product is businesses that need help managing inventory and tracking sales. The product is designed to help businesses save time and money by tracking inventory and sales data."
+                },
+                {
+                    "Question": "How does the product work?",
+                    "Answer": "The product is a computerized system that helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the features of the product?",
+                    "Answer": "The features of the product include the ability to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The benefits of the product include the ability to save businesses time and money by tracking inventory and sales data. The product can also help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the drawbacks of the product?",
+                    "Answer": "The drawbacks of the product include the need for a computer and internet connection to use the product. The product is also only designed to help businesses track inventory and sales data, and cannot be used for other purposes."
+                },
+                {
+                    "Question": "How much does the product cost?",
+                    "Answer": "The product costs $500."
+                },
+                {
+                    "Question": "How easy is the product to use?",
+                    "Answer": "The product is easy to use and very intuitive."
+                },
+                {
+                    "Question": "How does the product compare to similar products on the market?",
+                    "Answer": "The product is very unique. Apart from tracking things, It also gives data analysis back to the customer."
+                }
+            ],
+            "Output": "User Story:\nAs a business owner, I want to be able to track inventory and sales so that I can save time and money.\nAcceptance Criteria:\n-The product should be able to track inventory levels, sales data, and customer information.\n-The product should be able to generate reports and analytics to help businesses make informed decisions about their inventory and sales.\n-The product should be easy to use and very intuitive.\n-The product should be unique in comparison to similar products on the market."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a computerized system that helps manage inventory and track sales for businesses."
+                },
+                {
+                    "Question": "What does the product do?",
+                    "Answer": "The product helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What is the target market for the product?",
+                    "Answer": "The target market for the product is businesses that need help managing inventory and tracking sales. The product is designed to help businesses save time and money by tracking inventory and sales data."
+                },
+                {
+                    "Question": "How does the product work?",
+                    "Answer": "The product is a computerized system that helps businesses manage inventory and track sales. The product can be used to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the features of the product?",
+                    "Answer": "The features of the product include the ability to track inventory levels, sales data, and customer information. The product can also be used to generate reports and analytics to help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the benefits of the product?",
+                    "Answer": "The benefits of the product include the ability to save businesses time and money by tracking inventory and sales data. The product can also help businesses make informed decisions about their inventory and sales."
+                },
+                {
+                    "Question": "What are the drawbacks of the product?",
+                    "Answer": "The drawbacks of the product include the need for a computer and internet connection to use the product. The product is also only designed to help businesses track inventory and sales data, and cannot be used for other purposes."
+                },
+                {
+                    "Question": "How much does the product cost?",
+                    "Answer": "The product costs $500."
+                },
+                {
+                    "Question": "How easy is the product to use?",
+                    "Answer": "The product is easy to use and very intuitive."
+                },
+                {
+                    "Question": "How does the product compare to similar products on the market?",
+                    "Answer": "The product is very unique. Apart from tracking things, It also gives data analysis back to the customer."
+                }
+            ],
+            "Output": "User Story:\nAs a business owner, I want to be able to track my inventory and sales so that I can make informed decisions about my business.\nAcceptance Criteria:\n-The product should be able to track inventory levels, sales data, and customer information\n-The product should be able to generate reports and analytics to help businesses make informed decisions about their inventory and sales.\n-The product should be easy to use and very intuitive.\nImprovements:\n-The product could be improved by being able to track more data points such as employee information, product information, and supplier information.\n-The product could be improved by being able to generate more detailed reports and analytics."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/b3lrY3N8nLxYh6o4dbEya22t?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/10Hl5OzDyz2pkogLzwb9NsUc3VlKRcW_0?usp=sharing"
+}

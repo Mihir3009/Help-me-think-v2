@@ -1,0 +1,159 @@
+{
+    "Domain": "Production",
+    "Task": "Toy Production",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Production Engineer. I will ask questions to collect information about the product.",
+        "task_specific_prompt": "With the above question and answers I will list the necessary parts to make the product and the steps to manufacture the product. The list of parts will be:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "Toys for kids."
+                },
+                {
+                    "Question": "What material will the toys be made from?",
+                    "Answer": "The toys will be made from plastic."
+                },
+                {
+                    "Question": "What size will the toys be?",
+                    "Answer": "The toys will be approximately 6 inches tall."
+                },
+                {
+                    "Question": "What is the target age range for the toys?",
+                    "Answer": "The target age range for the toys is 3-8 years old."
+                },
+                {
+                    "Question": "What colors will the toys be?",
+                    "Answer": "The toys will be available in multiple colors."
+                },
+                {
+                    "Question": "How will the toys be packaged?",
+                    "Answer": "The toys will be packaged in individual boxes."
+                },
+                {
+                    "Question": "Will the toys require batteries?",
+                    "Answer": "Yes, the toys will not require batteries."
+                },
+                {
+                    "Question": "What type of toy are they?",
+                    "Answer": "The toys will be toy cars."
+                },
+                {
+                    "Question": "How many toys will be in a pack?",
+                    "Answer": "There will be two toys in a pack."
+                },
+                {
+                    "Question": "What will the price point be for the toys?",
+                    "Answer": "The price point for the toys will be $19.99."
+                },
+                {
+                    "Question": "When will the toys be available?",
+                    "Answer": "The toys will be available in October."
+                }
+            ],
+            "Output": "-1 piece of plastic for the body of the toy car\n-2 toy car tires\n-1 piece of plastic for the windshield\n-1 piece of plastic for the back window\n-1 piece of plastic for the side windows\n-1 piece of plastic for the roof\n-1 piece of plastic for the hood\n-1 piece of plastic for the trunk\n-1 piece of plastic for the doors\n-1 piece of plastic for the seats\nThe steps to manufacture the product will be:\n1. Injection molding the plastic pieces for the body of the toy car.\n2. Assembling the body of the toy car.\n3. Injection molding the plastic pieces for the tires.\n4. Assembling the toy car tires.\n5. Injection molding the plastic pieces for the windshield, back window, side windows, roof, hood, trunk, doors, and seats.\n6. Assembling the windshield, back window, side windows, roof, hood, trunk, doors, and seats.\n7. Painting the toy car.\n8. Packaging the toy car.\n9. Shipping the toy car."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "Toys for kids."
+                },
+                {
+                    "Question": "What material will the toys be made from?",
+                    "Answer": "The toys will be made from plastic."
+                },
+                {
+                    "Question": "What size will the toys be?",
+                    "Answer": "The toys will be approximately 6 inches tall."
+                },
+                {
+                    "Question": "What is the target age range for the toys?",
+                    "Answer": "The target age range for the toys is 3-8 years old."
+                },
+                {
+                    "Question": "What colors will the toys be?",
+                    "Answer": "The toys will be available in multiple colors."
+                },
+                {
+                    "Question": "How will the toys be packaged?",
+                    "Answer": "The toys will be packaged in individual boxes."
+                },
+                {
+                    "Question": "Will the toys require batteries?",
+                    "Answer": "Yes, the toys will not require batteries."
+                },
+                {
+                    "Question": "What type of toy are they?",
+                    "Answer": "The toys will be toy cars."
+                },
+                {
+                    "Question": "How many toys will be in a pack?",
+                    "Answer": "There will be two toys in a pack."
+                },
+                {
+                    "Question": "What will the price point be for the toys?",
+                    "Answer": "The price point for the toys will be $19.99"
+                },
+                {
+                    "Question": "When will the toys be available?",
+                    "Answer": "The toys will be available in October."
+                }
+            ],
+            "Output": "-2 plastic toy cars\n-2 toy car boxes\n-1 battery\n-1 set of toy car instructions\n-1 toy car display\nThe steps to manufacture the toy cars will be:\n1. Injection mold the plastic toy cars.\n2. Assemble the toy cars.\n3. Place the toy cars in the boxes.\n4. Include the battery and instructions with the toy cars.\n5. Place the toy cars on the display."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "Toys for kids."
+                },
+                {
+                    "Question": "What material will the toys be made from?",
+                    "Answer": "The toys will be made from plastic."
+                },
+                {
+                    "Question": "What size will the toys be?",
+                    "Answer": "The toys will be approximately 6 inches tall."
+                },
+                {
+                    "Question": "What is the target age range for the toys?",
+                    "Answer": "The target age range for the toys is 3-8 years old."
+                },
+                {
+                    "Question": "What colors will the toys be?",
+                    "Answer": "The toys will be available in multiple colors."
+                },
+                {
+                    "Question": "How will the toys be packaged?",
+                    "Answer": "The toys will be packaged in individual boxes."
+                },
+                {
+                    "Question": "Will the toys require batteries?",
+                    "Answer": "Yes, the toys will not require batteries."
+                },
+                {
+                    "Question": "What type of toy are they?",
+                    "Answer": "The toys will be toy cars."
+                },
+                {
+                    "Question": "How many toys will be in a pack?",
+                    "Answer": "There will be two toys in a pack."
+                },
+                {
+                    "Question": "What will the price point be for the toys?",
+                    "Answer": "The price point for the toys will be $19.99"
+                },
+                {
+                    "Question": "When will the toys be available?",
+                    "Answer": "The toys will be available in October."
+                }
+            ],
+            "Output": "-Plastic\n-Battery\n-Motor\n-Wheels\n-Paint\nThe steps to manufacture the toy cars will be:\n1) Injection mold the plastic parts for the car body.\n2) Assemble the car body.\n3) Attach the wheels.\n4) Paint the car.\n5) Install the motor.\n6) Package the toy car."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/kBPTK6AbKZDazsxGNE7magvv?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/10Hl5OzDyz2pkogLzwb9NsUc3VlKRcW_0?usp=sharing"
+}

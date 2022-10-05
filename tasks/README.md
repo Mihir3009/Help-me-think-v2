@@ -579,3 +579,13 @@ File Name | Domain | Task
 `task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
 `task_0635_pharmacy.json` | Pharmacy | Allocating medicines
 `task_0636_mathematics.json` | Mathematics | Suggest a profession in mathematical domain based on your mathematical knowledge
+`task_0638_video.json` | Video | Content Suggestor throgh giving new topic ideas
+`task_0639_psychology.json` | Psychology | Myer Briggs personality prediction
+`task_0640_video.json` | Video | Skill Suggestor based on the type of videography
+`task_0641_psychology.json` | Psychology | SuggestToImproveSituation
+`task_0642_psychology.json` | Psychology | Symptom Checker Bot
+`task_0643_production.json` | Production | Inventory Tracking Software Production
+`task_0644_production.json` | Production | Toy Production
+`task_0645_production.json` | Production | Chair Production for playing hall
+`task_0646_interior_design.json` | Interior_Design | Living Room design for $5000
+`task_0647_production.json` | Production | Electric Vehicle Production

@@ -1,0 +1,147 @@
+{
+    "Domain": "Video",
+    "Task": "Content Suggestor throgh giving new topic ideas",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert content creator. I will ask some questions to collect information about you and then I will use the information to suggest video topics that you can create.",
+        "task_specific_prompt": "Write a list of video topics using the questions and answers above. List 7 topics and they should be interesting for our audience."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Pavan Mallina."
+                },
+                {
+                    "Question": "What is your company's name?",
+                    "Answer": "My company's name is 'pmallina Entertainments'."
+                },
+                {
+                    "Question": "What is your company's website?",
+                    "Answer": "We don't have a website yet."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "We produce music videos."
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "Our target audience is people aged 55-90."
+                },
+                {
+                    "Question": "What type of content do you think your target audience would be interested in?",
+                    "Answer": "Our target audience would be interested in interesting old music videos."
+                },
+                {
+                    "Question": "What are some ideas for videos that you think your target audience would be interested in?",
+                    "Answer": "I can't seem to think about anything at this moment."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "I already mentioned this above. Music videos with really old actors."
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "This was also mentioned earlier."
+                },
+                {
+                    "Question": "What type of content do you think your target audience would be interested in?",
+                    "Answer": "Again, I already mentioned this. Music videos with old actors."
+                }
+            ],
+            "Output": "1. A day in the life of an old actor2. What it was like to be an actor in the music industry3. What it was like to work on music videos4. What it was like to be a part of the music industry5. How the music industry has changed over the years6. What older music videos are still popular7. Why older music videos are still popular"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Desmond"
+                },
+                {
+                    "Question": "What is your company's name?",
+                    "Answer": "My company's name is 'Nothing Company'."
+                },
+                {
+                    "Question": "What is your company's website?",
+                    "Answer": "We don't have a website yet."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "We produce tech videos."
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "Our target audience is people aged 18-35."
+                },
+                {
+                    "Question": "What type of content do you think your target audience would be interested in?",
+                    "Answer": "Our target audience would be interested in latest news about technologies, new innovative products - mobiles, laptops, earphones, smart watches etc.x1"
+                },
+                {
+                    "Question": "What are some ideas for videos that you think your target audience would be interested in?",
+                    "Answer": "I can't seem to think about anything specific at this moment."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "I already mentioned this above. tech videos"
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "This was also mentioned earlier."
+                }
+            ],
+            "Output": "1. Latest news about technologies2. New innovative products3. How to use new products4. Latest technology trends5. How to buy the best products6. Technology tips and tricks7. Technology myths"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your name?",
+                    "Answer": "My name is Desmond."
+                },
+                {
+                    "Question": "What is your company's name?",
+                    "Answer": "My company's name is 'Nothing Company'."
+                },
+                {
+                    "Question": "What is your company's website?",
+                    "Answer": "We don't have a website yet."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "We produce horror."
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "Our target audience is people aged 18-35."
+                },
+                {
+                    "Question": "What type of content do you think your target audience would be interested in?",
+                    "Answer": "Our target audience would be interested in videos about haunted houses, mysteries, science fiction stories and conspiracy theories."
+                },
+                {
+                    "Question": "What are some ideas for videos that you think your target audience would be interested in?",
+                    "Answer": "I can't seem to think about anything specific at this moment."
+                },
+                {
+                    "Question": "What type of videos does your company produce?",
+                    "Answer": "I already mentioned this above. horror videos."
+                },
+                {
+                    "Question": "What is your target audience?",
+                    "Answer": "This was also mentioned earlier."
+                },
+                {
+                    "Question": "What type of content do you think your target audience would be interested in?",
+                    "Answer": "Again, I already mentioned this. horror videos."
+                }
+            ],
+            "Output": "1. A tour of the most haunted house in the world.2. The mystery of bigfoot – is he real or just a myth?3. A look at the strange and unexplained phenomenon of UFO sightings.4. The science behind horror movies – what makes them so scary?5. A look at some of the most famous conspiracy theories out there.6. An exploration of the dark side of the internet.7. A look at some of the most haunted places on earth."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/S8IASvJ6Gw4Xf4bRNGywGRPc?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/5Tvg9PCA6B4UiA12PNtnH26I?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/3TKCMlC0BhWk6utAfrQmUFbp?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jLsx32YJA_jvXrQ-aznsrRM7jGWvjbXy?usp=sharing"
+}
