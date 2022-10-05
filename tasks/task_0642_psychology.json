@@ -1,0 +1,151 @@
+{
+    "Domain": "Psychology",
+    "Task": "Symptom Checker Bot",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Symptom Checker Bot. I will ask some questions to collect information and then I will use the information to detect the type of mental disease you have",
+        "task_specific_prompt": "Write a mental health disease prediction using the questions and answers above. "
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your symptoms?",
+                    "Answer": "My symptoms are Delusions, Hallucinations, and Negative feelings."
+                },
+                {
+                    "Question": "How long have you been experiencing these symptoms?",
+                    "Answer": "I have been experiencing these symptoms for about 6 months."
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "I have no other medical conditions."
+                },
+                {
+                    "Question": "Do you have any family history of mental illness?",
+                    "Answer": "Not that I'm aware of. I don't think my family has any history on mental illnesses."
+                },
+                {
+                    "Question": "Do you take any medications?",
+                    "Answer": "No, I don't take any medications."
+                },
+                {
+                    "Question": "Do you abuse any substances?",
+                    "Answer": "No, I don't abuse any substances."
+                },
+                {
+                    "Question": "Do you have any history of mental illness?",
+                    "Answer": "No, I don't have any history of mental illness."
+                },
+                {
+                    "Question": "Do you have any history of trauma?",
+                    "Answer": "Nothing major. Just a fear of dark spaces."
+                },
+                {
+                    "Question": "Do you have any history of physical illness?",
+                    "Answer": "Just a little neck pain."
+                },
+                {
+                    "Question": "Do you have any other symptoms?",
+                    "Answer": "Sometimes I have trouble sleeping and my appetite has changed a little, but other than that, no."
+                }
+            ],
+            "Output": "Based on the information provided, it is likely that the individual suffers from schizophrenia."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your symptoms?",
+                    "Answer": "My symptoms are vivid flashbacks, intrusive thoughts or images, and nightmares."
+                },
+                {
+                    "Question": "How long have you been experiencing these symptoms?",
+                    "Answer": "I have been experiencing these symptoms for about 1 year."
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "I have slight physical issues."
+                },
+                {
+                    "Question": "Do you have any family history of mental illness?",
+                    "Answer": "Not that I'm aware of. I don't think my family has any history on mental illnesses."
+                },
+                {
+                    "Question": "Do you take any medications?",
+                    "Answer": "No, I don't take any medications."
+                },
+                {
+                    "Question": "Do you abuse any substances?",
+                    "Answer": "No, I don't abuse any substances."
+                },
+                {
+                    "Question": "Do you have any history of mental illness?",
+                    "Answer": "No, I don't have any history of mental illness."
+                },
+                {
+                    "Question": "Do you have any history of trauma?",
+                    "Answer": "I have been in the war where I saw a lot of deaths."
+                },
+                {
+                    "Question": "Do you have any history of physical illness?",
+                    "Answer": "pain, sweating, nausea or trembling."
+                },
+                {
+                    "Question": "Do you have any other symptoms?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "The mental health disease prediction is PTSD."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your symptoms?",
+                    "Answer": "My symptoms are happy feelings."
+                },
+                {
+                    "Question": "How long have you been experiencing these symptoms?",
+                    "Answer": "I have been experiencing these symptoms all my life."
+                },
+                {
+                    "Question": "Do you have any medical conditions?",
+                    "Answer": "I have no other medical conditions."
+                },
+                {
+                    "Question": "Do you have any family history of mental illness?",
+                    "Answer": "Not that I'm aware of. I don't think my family has any history on mental illnesses."
+                },
+                {
+                    "Question": "Do you take any medications?",
+                    "Answer": "No, I don't take any medications."
+                },
+                {
+                    "Question": "Do you abuse any substances?",
+                    "Answer": "Maybe."
+                },
+                {
+                    "Question": "Do you have any history of mental illness?",
+                    "Answer": "No, I don't have any history of mental illness."
+                },
+                {
+                    "Question": "Do you have any history of trauma?",
+                    "Answer": "No."
+                },
+                {
+                    "Question": "Do you have any history of physical illness?",
+                    "Answer": "Just a little neck pain."
+                },
+                {
+                    "Question": "Do you have any other symptoms?",
+                    "Answer": "No."
+                }
+            ],
+            "Output": "The mental health disease prediction is that the person does not have any mental illness."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/tFphnqec4AjdwFMMjDXS5VGs?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/AVYDQRoJu06caG6kEbjuNGfP?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/8eCfsAqGIeQTzlMLn0v5uy6m?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jLsx32YJA_jvXrQ-aznsrRM7jGWvjbXy?usp=sharing"
+}

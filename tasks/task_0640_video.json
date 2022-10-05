@@ -1,0 +1,151 @@
+{
+    "Domain": "Video",
+    "Task": "Skill Suggestor based on the type of videography",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert videographer. I will ask some questions to collect information and then I will use the information to recommend required skills",
+        "task_specific_prompt": "Write a list of skills using the questions and answers above. Include software or other resources where applicable."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What type of videos do you want to create?",
+                    "Answer": "I want to create videos that talk about politics."
+                },
+                {
+                    "Question": "What are your goals for the videos?",
+                    "Answer": "I want to make videos that will talk about politics in a way that is entertaining and informative. I want to make videos that will make people think about the political landscape in a new way."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "My target audience is people who are interested in politics but may not be experts on the topic. I want to make videos that will appeal to people of all political backgrounds."
+                },
+                {
+                    "Question": "What skills do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What equipment do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What budget do you have for these videos?",
+                    "Answer": "Around 500 dollars."
+                },
+                {
+                    "Question": "What timeline do you have for these videos?",
+                    "Answer": "I want to have the first video done within the next month."
+                },
+                {
+                    "Question": "What What video editing software do you want to use?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What video format do you want to use??",
+                    "Answer": "MP4."
+                },
+                {
+                    "Question": "What resolution do you want to use?",
+                    "Answer": "1080p."
+                }
+            ],
+            "Output": "-Ability to research and find information on politics-Basic videography and video editing skills-Ability to use video editing software-Knowledge of video formats and resolutions-Budgeting for video production-Meeting deadlines"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of videos do you want to create?",
+                    "Answer": "I want to create videos that uncover mysteries."
+                },
+                {
+                    "Question": "What are your goals for the videos?",
+                    "Answer": "I want to make videos that solve mysteries and educate people about superstitions."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "My target audience is people who uneducated and are blind followers of  superstitions."
+                },
+                {
+                    "Question": "What skills do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What equipment do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What budget do you have for these videos?",
+                    "Answer": "Around 10000 dollars."
+                },
+                {
+                    "Question": "What timeline do you have for these videos?",
+                    "Answer": "I want to have the first video done within the next 2 years."
+                },
+                {
+                    "Question": "What video editing software do you want to use?",
+                    "Answer": "Filmora."
+                },
+                {
+                    "Question": "What video format do you want to use?",
+                    "Answer": "MP4."
+                },
+                {
+                    "Question": "What resolution do you want to use?",
+                    "Answer": "Ultra HD."
+                }
+            ],
+            "Output": "- Mysteries- Uncovering Mysteries- Educational- Superstitions- Videography- Filmmaking- Editing- Storytelling- Research- Interviewing- Budgeting- Planning"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What type of videos do you want to create?",
+                    "Answer": "I want to create short films."
+                },
+                {
+                    "Question": "What are your goals for the videos?",
+                    "Answer": "I want to make short films that address various injustices in society and teach some morals."
+                },
+                {
+                    "Question": "Who is your target audience?",
+                    "Answer": "My target audience is teens and youth."
+                },
+                {
+                    "Question": "What skills do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What equipment do you need to create these videos?",
+                    "Answer": "I'm not sure. That's why I'm here."
+                },
+                {
+                    "Question": "What budget do you have for these videos?",
+                    "Answer": "Around 50 dollars."
+                },
+                {
+                    "Question": "What timeline do you have for these videos?",
+                    "Answer": "I want to have the first video done within the next year."
+                },
+                {
+                    "Question": "What video editing software do you want to use?",
+                    "Answer": "Filmora."
+                },
+                {
+                    "Question": "What video format do you want to use?",
+                    "Answer": "AVI."
+                },
+                {
+                    "Question": "What resolution do you want to use?",
+                    "Answer": "480p"
+                }
+            ],
+            "Output": "-Must be proficient in video editing software-Skills in film making -An understanding of various social issues-The ability to communicate a message through film-Patience-An artistic eye-Creativity-A steady hand-Good equipment"
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/vJn0qca9TU8sBi6L5FKXc65q?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/YM5b8yLb8Lr5z4sGUKYiIaUO?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/q9m11ax3d8BTJ7lXd3D1eBDN?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jLsx32YJA_jvXrQ-aznsrRM7jGWvjbXy?usp=sharing"
+}

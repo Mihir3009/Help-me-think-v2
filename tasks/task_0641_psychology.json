@@ -1,0 +1,147 @@
+{
+    "Domain": "Psychology",
+    "Task": "SuggestToImproveSituation",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert therapist. I will ask some questions to collect information and then I will use the information to make suggestions that can improve your situation",
+        "task_specific_prompt": "Make suggestions using the questions and answers above.  Suggest multiple relevant ways to improve the situation."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What are your main concerns?",
+                    "Answer": "I suffer from anxiety."
+                },
+                {
+                    "Question": "What specifically causes you anxiety?",
+                    "Answer": "I worry about things that might happen in the future. I also get anxious when I have to do something that I'm not comfortable with or that I don't know how to do."
+                },
+                {
+                    "Question": "What have you tried in the past to alleviate your anxiety?",
+                    "Answer": "I have  tried meditation and yoga."
+                },
+                {
+                    "Question": "Did those methods work for you?",
+                    "Answer": "Yes, a bit. But I have not completely recovered from anxiety."
+                },
+                {
+                    "Question": "Would you like to try some other methods?",
+                    "Answer": "Yes, I would love to explore and try some other methods."
+                },
+                {
+                    "Question": "What other methods would you be open to trying?",
+                    "Answer": "I am open to trying anything."
+                },
+                {
+                    "Question": "Have you ever tried therapy?",
+                    "Answer": "No, I have not tried therapy. But I want to now."
+                },
+                {
+                    "Question": "What do you think therapy can do for you?",
+                    "Answer": "I think therapy will help me truly understand the underlying reasons for my anxiety. This can help me to address those reasons which can ultimately reduce my anxiety."
+                },
+                {
+                    "Question": "Are you willing to commit to attending therapy sessions on a regular basis?",
+                    "Answer": "Yes, I am willing to commit to attending therapy sessions on a regular basis. But I'm not sure if I can do that consistently."
+                },
+                {
+                    "Question": "Why do you think you might not be able to commit to attending therapy sessions on a regular basis?",
+                    "Answer": "I usually procrastinate my work and do everything the last moment. So, I sometimes don't have time for things other than my work."
+                }
+            ],
+            "Output": "-Try to find a therapist that you feel comfortable with and that you can connect with. This can help you to stay motivated to attend therapy sessions on a regular basis.-Find a therapy method that works for you. There are many different types of therapy, so it's important to find one that you feel is helpful.-Make time for therapy sessions in your schedule. This can help you to attend them on a regular basis.-Talk to your therapist about your concerns and anxiety. This can help you to understand your anxiety and to find ways to address it."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your main concern?",
+                    "Answer": "I am depressed."
+                },
+                {
+                    "Question": "What makes you feel this way?",
+                    "Answer": "I feel like there's nothing to look forward to and that my life is just a series of pointless activities. I don't enjoy anything anymore and I feel extremely tired all the time."
+                },
+                {
+                    "Question": "Have you been experiencing any changes in your sleep patterns?",
+                    "Answer": "Yes, I haven't been sleeping very well lately. I usually wake up several times during the night and I have a hard time falling back asleep. I also feel like I'm not getting enough deep sleep."
+                },
+                {
+                    "Question": "Have you been experiencing any changes in your appetite?",
+                    "Answer": "Yes, I've been eating a lot more junk food and I've been skipping meals more often."
+                },
+                {
+                    "Question": "Have you been experiencing any changes in your energy levels?",
+                    "Answer": "Yes, I've been feeling really tired and I don't have the motivation to do anything."
+                },
+                {
+                    "Question": "Have you been experiencing any changes in your mood?",
+                    "Answer": "Yes, I feel irritated all the time."
+                },
+                {
+                    "Question": "Have you been experiencing any changes in your thoughts?",
+                    "Answer": "Yes, I've been having a lot of negative thoughts and I've been feeling like isolating myself."
+                },
+                {
+                    "Question": "What is your current stress level?",
+                    "Answer": "I am feeling moderately stressed out."
+                },
+                {
+                    "Question": "What are your current coping mechanisms?",
+                    "Answer": "I've been trying to distract myself with Netflix and social media. I'm also trying to go out with friends to distract myself."
+                },
+                {
+                    "Question": "What are your thoughts on medication?",
+                    "Answer": "I am not against medication. I believe in it."
+                }
+            ],
+            "Output": "-Talk to a therapist-Find a support group-Exercise-Eat a healthy diet-Get enough sleep-Reduce stress-Try meditation or relaxation techniques-Talk to a doctor about medication"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What are your main concerns?",
+                    "Answer": "I am afraid of the dark."
+                },
+                {
+                    "Question": "What have you tried in the past to address this concern?",
+                    "Answer": "I have tried to stay in well-lit areas, but it is not always possible. I have also tried to keep a light on in my room at night, but that has not always worked either."
+                },
+                {
+                    "Question": "What are your thoughts on trying therapy to address this concern?",
+                    "Answer": "I don't think therapy will help me."
+                },
+                {
+                    "Question": "What are your thoughts on trying medication to address this concern?",
+                    "Answer": "I don't want to take medication. I don't believe in it."
+                },
+                {
+                    "Question": "What are your thoughts on trying exposure therapy to address this concern?",
+                    "Answer": "That sounds new. I'm not sure. I don't know if that would work."
+                },
+                {
+                    "Question": "What are your thoughts on trying relaxation techniques to address this concern?",
+                    "Answer": "I don't know if that would work either."
+                },
+                {
+                    "Question": "What are your thoughts on trying cognitive behavioral therapy to address this concern?",
+                    "Answer": "All these sound very complex. I'm confused."
+                },
+                {
+                    "Question": "It sounds like you are feeling somewhat hopeless about the situation. Would you like to talk about that?",
+                    "Answer": "I guess you are making a wrong assumption about my state. I think I'm being practical."
+                },
+                {
+                    "Question": "It sounds like you don't believe that any of the treatment options will work for you. Would you like to talk about that?",
+                    "Answer": "I'm just not sure. I don't want to waste my time or money on something that won't work."
+                },
+                {
+                    "Question": "It sounds like you are feeling very uncertain about what to do. Would you like to talk about that?",
+                    "Answer": "I just don't know what to do. I feel like I've tried everything and nothing has worked."
+                }
+            ],
+            "Output": "One suggestion would be to try exposure therapy. This involves gradually exposing yourself to the thing that you are afraid of, in this case the dark. This can help you to learn that the dark is not as scary as you think it is. Another suggestion would be to try relaxation techniques. This can help you to reduce your overall anxiety and stress levels, which may in turn help you to feel less afraid of the dark."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/MU3l7QN9QJCdPkPoFOZisCPh?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/1jLsx32YJA_jvXrQ-aznsrRM7jGWvjbXy?usp=sharing"
+}

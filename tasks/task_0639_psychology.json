@@ -1,0 +1,151 @@
+{
+    "Domain": "Psychology",
+    "Task": "Myer Briggs personality prediction",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert youtube video recommendation system. I will ask some questions to collect information and then I will use the information to suggest youtube channels",
+        "task_specific_prompt": "Write a list of youtube channels using the questions and answers above. Try to include channels that I have never heard of before."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is black."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I like spicy food. Specifically Indian and Mexican Food."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "I like to watch movies and play cricket."
+                },
+                {
+                    "Question": "What kind of music do you like?",
+                    "Answer": "I like melodious music and love songs."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "I like dogs. Especially a labrador."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "My favourite TV show is GAme of Thrones."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "My favorite movie is Shawshank Redemption."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "I don't read books much."
+                },
+                {
+                    "Question": "What is your favorite sport?",
+                    "Answer": "I like cricket, bouldering, climbing and curling."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "I like warm winters and cold summers."
+                }
+            ],
+            "Output": "Based on the information provided, it is likely that the individual has a Myers-Briggs personality type of ISTJ. The ISTJ personality type is often described as logical, practical, and detail-oriented. Individuals with this personality type often prefer to stick to routines, plan ahead, and work independently. They may also be described as loyal, reliable, and honest."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is red."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I like Italian food. Specifically pasta."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "I like to travel and go on adventures."
+                },
+                {
+                    "Question": "What kind of music do you like?",
+                    "Answer": "I like jazz."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "I like dogs. Especially a labrador."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "My favourite TV show is Seinfield."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "My favorite movie is Star Wars."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "I don't read books much."
+                },
+                {
+                    "Question": "What is your favorite sport?",
+                    "Answer": "I like soccer."
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "I like rainy season."
+                }
+            ],
+            "Output": "It is predicted that the individual has a Myers-Briggs personality type of ENFP. A few qualities of this type include being highly imaginative, enthusiastic, optimistic, and outgoing. They are often good at multitasking and enjoy being around others. They may have difficulty following through on projects, as they often get bored easily and prefer to move on to new things."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is your favorite color?",
+                    "Answer": "My favorite color is blue."
+                },
+                {
+                    "Question": "What is your favorite type of food?",
+                    "Answer": "I like South Indian food."
+                },
+                {
+                    "Question": "What is your favorite hobby?",
+                    "Answer": "I like to stay at home and read books."
+                },
+                {
+                    "Question": "What kind of music do you like?",
+                    "Answer": "I like slow music."
+                },
+                {
+                    "Question": "What is your favorite animal?",
+                    "Answer": "I like cats."
+                },
+                {
+                    "Question": "What is your favorite TV show?",
+                    "Answer": "My favourite TV show is 'How I Met Your Mother'."
+                },
+                {
+                    "Question": "What is your favorite movie?",
+                    "Answer": "My favorite movie is 'Before Sunrise'."
+                },
+                {
+                    "Question": "What is your favorite book?",
+                    "Answer": "I like the book 'Three Mistakes of My Life' by Chetan Bhagat"
+                },
+                {
+                    "Question": "What is your favorite sport?",
+                    "Answer": "I like chess"
+                },
+                {
+                    "Question": "What is your favorite season?",
+                    "Answer": "I like rainy season."
+                }
+            ],
+            "Output": "From the questions and answers above, it is predicted that the individual has a preference for Introversion, Intuition, Thinking, and Perceiving. This personality type is known as the INTP personality type. A few qualities of the INTP personality type are that they are usually introspective, curious, and analytical. They are often interested in theoretical or abstract ideas and enjoy exploring new possibilities."
+        }
+    ],
+    "Preset_link": [
+        "https://beta.openai.com/playground/p/Mz6Kc50YJUDCqv1mswqv5lRe?model=text-davinci-002",
+        "https://beta.openai.com/playground/p/HPeDmWEAzv9I7WqIxsAbvPzr",
+  "https://beta.openai.com/playground/p/DfFfymCxtand5c9rBBwX3nJ9?model=text-davinci-002"
+    ],
+    "screenshot_link": "https://drive.google.com/drive/folders/1jLsx32YJA_jvXrQ-aznsrRM7jGWvjbXy?usp=sharing"
+}

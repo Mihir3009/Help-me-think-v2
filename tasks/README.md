@@ -579,3 +579,8 @@ File Name | Domain | Task
 `task_0634_higher_education.json` | Higher Education | Writing Letter of Recommendation
 `task_0635_pharmacy.json` | Pharmacy | Allocating medicines
 `task_0636_mathematics.json` | Mathematics | Suggest a profession in mathematical domain based on your mathematical knowledge
+`task_0638_video.json` | Video | Content Suggestor throgh giving new topic ideas
+`task_0639_psychology.json` | Psychology | Myer Briggs personality prediction
+`task_0640_video.json` | Video | Skill Suggestor based on the type of videography
+`task_0641_psychology.json` | Psychology | SuggestToImproveSituation
+`task_0642_psychology.json` | Psychology | Symptom Checker Bot
