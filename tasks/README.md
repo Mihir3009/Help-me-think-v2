@@ -584,3 +584,8 @@ File Name | Domain | Task
 `task_0640_video.json` | Video | Skill Suggestor based on the type of videography
 `task_0641_psychology.json` | Psychology | SuggestToImproveSituation
 `task_0642_psychology.json` | Psychology | Symptom Checker Bot
+`task_0643_production.json` | Production | Inventory Tracking Software Production
+`task_0644_production.json` | Production | Toy Production
+`task_0645_production.json` | Production | Chair Production for playing hall
+`task_0646_interior_design.json` | Interior_Design | Living Room design for $5000
+`task_0647_production.json` | Production | Electric Vehicle Production

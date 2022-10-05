@@ -1,0 +1,147 @@
+{
+    "Domain": "Production",
+    "Task": "Chair Production for playing hall",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Production Engineer. I will ask questions to collect information about the product to make them.",
+        "task_specific_prompt": "With the above question and answers I will list the necessary parts to make the product and the steps to manufacture the product. The list of parts will be:"
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a chair."
+                },
+                {
+                    "Question": "What are the dimensions of the chair?",
+                    "Answer": "The dimensions of the chair are 15 inches wide by 18 inches deep by 36 inches high."
+                },
+                {
+                    "Question": "What is the weight of the chair?",
+                    "Answer": "The weight of the chair is 10 pounds."
+                },
+                {
+                    "Question": "What is the material of the chair?",
+                    "Answer": "The material of the chair is wood."
+                },
+                {
+                    "Question": "What is the color of the chair?",
+                    "Answer": "The color of the chair is brown and white."
+                },
+                {
+                    "Question": "How many chairs do you need?",
+                    "Answer": "We need 10 chairs."
+                },
+                {
+                    "Question": "When do you need the chairs?",
+                    "Answer": "We need the chairs by next week."
+                },
+                {
+                    "Question": "How will the chairs be used?",
+                    "Answer": "The chairs will be used in the Chess Playing Hall."
+                },
+                {
+                    "Question": "What is the budget for the chairs?",
+                    "Answer": "The budget for the chairs is $200."
+                },
+                {
+                    "Question": "What is the shipping method?",
+                    "Answer": "The shipping method is by UPS."
+                }
+            ],
+            "Output": "1. 15 inch by 18 inch piece of wood\n2. 36 inch by 15 inch piece of wood\n3. 10 15 inch by 18 inch pieces of wood\n4. Drill\n5. Jigsaw\n6. Hammer\n7. Nails\n8. Paint\n9. Brown paint\n10. White paint\n11.igsaw blade\n12. clamps\n13. drill bit\n14. sawdust\nThe steps to manufacture the product are:\n1. Cut the 15 inch by 18 inch piece of wood into ten 15 inch by 18 inch pieces.\n2. Cut the 36 inch by 15 inch piece of wood into two 15 inch by 18 inch pieces.\n3. Drill four holes in each of the 15 inch by 18 inch pieces of wood.\n4. Jigsaw the 10 15 inch by 18 inch pieces of wood into the shape of a chair.\n5. Hammer the nails into the holes to connect the pieces of wood.\n6. Paint the chair brown and white.\n7. Attach the saw blade to the jigsaw.\n8. Clamp the wood to the drill bit.\n9. Drill the holes into the wood.\n10. Jigsaw the wood into the shape of a chair.\n11. Hammer the nails into the holes to connect the pieces of wood.\n12. Paint the chair brown and white."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a chair."
+                },
+                {
+                    "Question": "What are the dimensions of the chair?",
+                    "Answer": "The dimensions of the chair are 15 inches wide by 18 inches deep by 36 inches high."
+                },
+                {
+                    "Question": "What is the weight of the chair?",
+                    "Answer": "The weight of the chair is 10 pounds."
+                },
+                {
+                    "Question": "What is the material of the chair?",
+                    "Answer": "The material of the chair is wood."
+                },
+                {
+                    "Question": "What is the color of the chair?",
+                    "Answer": "The color of the chair is brown and white."
+                },
+                {
+                    "Question": "How many chairs do you need?",
+                    "Answer": "We need 10 chairs."
+                },
+                {
+                    "Question": "When do you need the chairs?",
+                    "Answer": "We need the chairs by next week."
+                },
+                {
+                    "Question": "How will the chairs be used?",
+                    "Answer": "The chairs will be used in the Chess Playing Hall."
+                },
+                {
+                    "Question": "What is the budget for the chairs?",
+                    "Answer": "The budget for the chairs is $200."
+                },
+                {
+                    "Question": "What is the shipping method?",
+                    "Answer": "The shipping method is by UPS."
+                }
+            ],
+            "Output": "-Wooden boards\n-Nails\n-Hammer\n-Paint\n- screws \n- drill \nThe steps to manufacture the product are:\n1. Cut the wooden boards to the desired dimensions.\n2. Nail the boards together to create the frame of the chair.\n3. Paint the frame of the chair brown and white.\n4. Attach the seat to the frame of the chair using screws.\n5. Drill holes for the legs of the chair.\n6. Attach the legs of the chair to the frame."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "The product is a chair."
+                },
+                {
+                    "Question": "What are the dimensions of the chair?",
+                    "Answer": "The dimensions of the chair are 15 inches wide by 18 inches deep by 36 inches high."
+                },
+                {
+                    "Question": "What is the weight of the chair?",
+                    "Answer": "The weight of the chair is 10 pounds."
+                },
+                {
+                    "Question": "What is the material of the chair?",
+                    "Answer": "The material of the chair is wood."
+                },
+                {
+                    "Question": "What is the color of the chair?",
+                    "Answer": "The color of the chair is brown and white."
+                },
+                {
+                    "Question": "How many chairs do you need?",
+                    "Answer": "We need 10 chairs."
+                },
+                {
+                    "Question": "When do you need the chairs?",
+                    "Answer": "We need the chairs by next week."
+                },
+                {
+                    "Question": "How will the chairs be used?",
+                    "Answer": "The chairs will be used in the Chess Playing Hall."
+                },
+                {
+                    "Question": "What is the budget for the chairs?",
+                    "Answer": "The budget for the chairs is $200."
+                },
+                {
+                    "Question": "What is the shipping method?",
+                    "Answer": "The shipping method is by UPS."
+                }
+            ],
+            "Output": "-15 inch by 18 inch piece of wood\n-10 pound weight\n- Brown and white paint\n-UPS shipping box\nThe steps to manufacture the product are:\n1. Cut the wood to the desired dimensions.\n2. Paint the wood brown and white.\n3. Assemble the chair.\n4. Place the chair in the UPS shipping box.\n5. Send the box to the Chess Playing Hall."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/H6rOjXBEExmRSCxkX63dAsLM?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/10Hl5OzDyz2pkogLzwb9NsUc3VlKRcW_0?usp=sharing"
+}

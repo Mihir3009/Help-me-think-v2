@@ -1,0 +1,147 @@
+{
+    "Domain": "Production",
+    "Task": "Electric Vehicle Production",
+    "Prompt": {
+        "pre_question_prompt": "I am an expert Production Engineer. I will ask questions to collect information about the product.",
+        "task_specific_prompt": "With the above question and answers I will give the necessary parts to make the product and the steps to manufacture the product."
+    },
+    "Instances": [
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "It is an electric vehicle."
+                },
+                {
+                    "Question": "What are the dimensions of the product?",
+                    "Answer": "The product is approximately 2 meters long, 1 meter wide, and 1.5 meters tall."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "The product weighs approximately 1,500 kilograms."
+                },
+                {
+                    "Question": "What is the range of the product?",
+                    "Answer": "The product has a range of approximately 500 kilometers."
+                },
+                {
+                    "Question": "What is the top speed of the product?",
+                    "Answer": "The product has a top speed of approximately 200 kilometers per hour."
+                },
+                {
+                    "Question": "What is the power output of the product?",
+                    "Answer": "The product has a power output of approximately 110 kilowatts."
+                },
+                {
+                    "Question": "What is the charging time of the product?",
+                    "Answer": "The product has a charging time of approximately 8 hours. But by quick charging you should be able to charge in 2 hours."
+                },
+                {
+                    "Question": "What is the warranty of the product?",
+                    "Answer": "The product has a warranty of 8 years or 160,000 kilometers."
+                },
+                {
+                    "Question": "What is the price of the product?",
+                    "Answer": "The product is priced at approximately $60,000."
+                },
+                {
+                    "Question": "What safety features does the product have?",
+                    "Answer": "The product has airbags, ABS, and ESP."
+                }
+            ],
+            "Output": "The following parts are needed to manufacture the product:\n1. Electric motor\n2. Battery pack\n3. Inverter\n4. Charger\n5. Body\n6. Chassis\n7. Suspension\n8. Wheels\n9. tires\nThe following steps are needed to manufacture the product:\n1. Design the product\n2. Choose the materials\n3. Fabricate the parts\n4. Assemble the product\n5. Test the product"
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "It is an electric vehicle."
+                },
+                {
+                    "Question": "What are the dimensions of the product?",
+                    "Answer": "The product is approximately 2 meters long, 1 meter wide, and 1.5 meters tall."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "The product weighs approximately 1,500 kilograms."
+                },
+                {
+                    "Question": "What is the range of the product?",
+                    "Answer": "The product has a range of approximately 500 kilometers."
+                },
+                {
+                    "Question": "What is the top speed of the product?",
+                    "Answer": "The product has a top speed of approximately 200 kilometers per hour."
+                },
+                {
+                    "Question": "What is the power output of the product?",
+                    "Answer": "The product has a power output of approximately 110 kilowatts."
+                },
+                {
+                    "Question": "What is the charging time of the product?",
+                    "Answer": "The product has a charging time of approximately 8 hours. But by quick charging you should be able to charge in 2 hours."
+                },
+                {
+                    "Question": "What is the warranty of the product?",
+                    "Answer": "The product has a warranty of 8 years or 160,000 kilometers."
+                },
+                {
+                    "Question": "What is the price of the product?",
+                    "Answer": "The product is priced at approximately $60,000."
+                },
+                {
+                    "Question": "What safety features does the product have?",
+                    "Answer": "The product has airbags, ABS, and ESP."
+                }
+            ],
+            "Output": " electric vehicle will need the following parts:\n1. Battery\n2. Motor\n3. Controller\n4. Chassis\n5. Body\n6. Wheels\n7. Suspension\n8. Brakes\n9. Lighting\n10. Interior\n The steps to manufacture the electric vehicle are as follows:\n1. The battery will be assembled first. This will involve putting the cells into the battery pack and connecting them together.\n2. The motor will be assembled next. This will involve connecting the stator and rotor together.\n3. The controller will be programmed next. This will involve setting the correct voltage and current limits for the motor.\n4. The chassis will be assembled next. This will involve putting the body, suspension, wheels, and brakes together.\n5. The body will be assembled next. This will involve putting the panels and interior together.\n6. The electric vehicle will be tested next. This will involve driving it around to make sure everything is working correctly.\n7. The electric vehicle will be delivered to the customer."
+        },
+        {
+            "QApair": [
+                {
+                    "Question": "What is the product?",
+                    "Answer": "It is an electric vehicle."
+                },
+                {
+                    "Question": "What are the dimensions of the product?",
+                    "Answer": "The product is approximately 2 meters long, 1 meter wide, and 1.5 meters tall."
+                },
+                {
+                    "Question": "What is the weight of the product?",
+                    "Answer": "The product weighs approximately 1,500 kilograms."
+                },
+                {
+                    "Question": "What is the range of the product?",
+                    "Answer": "The product has a range of approximately 500 kilometers."
+                },
+                {
+                    "Question": "What is the top speed of the product?",
+                    "Answer": "The product has a top speed of approximately 200 kilometers per hour."
+                },
+                {
+                    "Question": "What is the power output of the product?",
+                    "Answer": "The product has a power output of approximately 110 kilowatts."
+                },
+                {
+                    "Question": "What is the charging time of the product?",
+                    "Answer": "The product has a charging time of approximately 8 hours. But by quick charging you should be able to charge in 2 hours."
+                },
+                {
+                    "Question": "What is the warranty of the product?",
+                    "Answer": "The product has a warranty of 8 years or 160,000 kilometers."
+                },
+                {
+                    "Question": "What is the price of the product?",
+                    "Answer": "The product is priced at approximately $60,000."
+                },
+                {
+                    "Question": "What safety features does the product have?",
+                    "Answer": "The product has airbags, ABS, and ESP."
+                }
+            ],
+            "Output": "The first step is to create a prototype of the product. This will help to get an idea of the dimensions and weight of the product. The next step is to create the mold for the product. This will be used to create the body of the product. The next step is to create the chassis of the product. This will be used to support the body of the product. The next step is to create the electrical system of the product. This will include the battery, motor, and controller. The next step is to create the suspension system of the product. This will include the shocks and springs. The next step is to create the brakes of the product. This will include the calipers and pads. The next step is to create the wheels of the product. This will include the tires and rims. The next step is to create the interior of the product. This will include the seats, dashboard, and steering wheel. The next step is to create the exterior of the product. This will include the paint and trim. The final step is to test the product to ensure it meets all safety and performance standards."
+        }
+    ],
+    "Preset_link": "https://beta.openai.com/playground/p/2rAHxp3GYd01ZxDyjnchY1vs?model=text-davinci-002",
+    "screenshot_link": "https://drive.google.com/drive/folders/10Hl5OzDyz2pkogLzwb9NsUc3VlKRcW_0?usp=sharing"
+}
